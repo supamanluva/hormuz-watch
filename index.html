@@ -142,6 +142,14 @@
   .more-btn { margin-top: 10px; font: 600 12px system-ui, sans-serif; color: var(--text-secondary);
     background: transparent; border: 1px solid var(--border); border-radius: 8px; padding: 5px 12px; cursor: pointer; }
 
+  .res-row { display: grid; grid-template-columns: 120px 1fr; gap: 10px; align-items: center; padding: 7px 0; border-bottom: 1px solid var(--grid); }
+  .res-row:last-child { border-bottom: 0; }
+  .res-name { font-weight: 600; font-size: 13px; }
+  .res-track { display: flex; align-items: center; gap: 8px; min-width: 0; }
+  .res-bar { height: 14px; border-radius: 0 4px 4px 0; background: var(--series-1); flex: none; }
+  .res-val { font-weight: 650; font-size: 13px; white-space: nowrap; }
+  .res-note { color: var(--muted); font-size: 11px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+
   footer { color: var(--muted); font-size: 12px; margin-top: 24px; }
   footer a { color: var(--text-secondary); }
   .err { color: var(--critical-text); font-size: 12px; }
@@ -205,6 +213,15 @@
     </div>
     <div class="tiles" id="buffer-tiles" style="margin-bottom:12px"></div>
     <div class="meters" id="pipeline-meters" style="margin-bottom:4px"></div>
+  </section>
+
+  <section class="card" id="reserves-card">
+    <div class="card-head">
+      <h2>Strategic oil reserves — major holders</h2>
+      <span class="note">US is live (EIA weekly); others are latest EIA/IEA estimates, pre-dating the March 2026 IEA coordinated release</span>
+    </div>
+    <div class="tiles" id="impact-tiles" style="margin-bottom:14px"></div>
+    <div id="reserves-bars"></div>
   </section>
 
   <section class="card" id="events-card">
@@ -482,6 +499,15 @@ function renderBuffers(sprRes, cushRes, pipeRes) {
       (d >= 0 ? "▲ +" : "▼ −") + fmt(Math.abs(d), 1) + "M bbl in 4 weeks (EIA, " + spr.asOfDate + ")",
       d < 0 ? "down-bad" : "up-good"));
   }
+  if (spr && spr.change4wMbbl < 0) {
+    const perDay = -spr.change4wMbbl / 28;
+    const days = Math.round(spr.currentMbbl / perDay);
+    const empty = new Date(Date.parse(spr.asOfDate) + days * 864e5);
+    t.append(tile("US SPR runway at current draw", days + " days",
+      "−" + fmt(perDay, 2) + "M bbl/day → empty ≈ " +
+      empty.toLocaleDateString("en-GB", { day: "numeric", month: "short", year: "numeric" }) +
+      " (linear projection)", "down-bad"));
+  }
   if (cush) {
     const d = cush.change4wMbbl;
     t.append(tile("Cushing hub stocks (WTI delivery)", fmt(cush.currentMbbl, 1) + "M bbl",
@@ -503,6 +529,45 @@ function renderBuffers(sprRes, cushRes, pipeRes) {
     const fill = document.createElement("div"); fill.className = "meter-fill";
     fill.style.width = Math.min(100, pct) + "%"; fill.style.background = color;
     track.append(fill); c.append(h, track); m.append(c);
+  }
+}
+
+/* ---------- strategic reserves & global impact ---------- */
+const RESERVES = [
+  { c: "China",         mbbl: 1397, note: "incl. ~1,038M commercial at state oil cos · holding, not draining (Dec 2025 est.)" },
+  { c: "United States", mbbl: null, note: "SPR only · lowest since 1983 — draining (live, EIA weekly)", live: true },
+  { c: "Japan",         mbbl: 263,  note: "government-held · ~230 days of import cover (Dec 2025)" },
+  { c: "OECD Europe",   mbbl: 179,  note: "government stocks, all members combined (Dec 2025)" },
+  { c: "Saudi Arabia",  mbbl: 82,   note: "producer — exports via Petroline instead (2025)" },
+  { c: "South Korea",   mbbl: 79,   note: "top-affected importer in a Hormuz closure (2025 avg)" },
+  { c: "India",         mbbl: 21,   note: "thinnest buffer — ~25 days of cover (Mar 2025)" },
+];
+function renderReserves(sprRes, impact) {
+  const it = $("impact-tiles"); it.replaceChildren();
+  const ti = impact?.tradeImpact;
+  if (ti) {
+    it.append(
+      tile("World oil supply at risk", ti.worldOilAtRiskPct + "%", "share of global flow transiting Hormuz", "down-bad"),
+      tile("World LNG at risk", ti.worldLngAtRiskPct + "%", "mostly Qatari exports", "down-bad"),
+      tile("Economic cost per day", "$" + fmt(ti.dailyEconomicCostUsd / 1e9, 0) + "B", "price pass-through + reroute + insurance", "up-bad"),
+      tile("Rerouting adds", "+" + ti.alternativeRouteExtraDays + " days", "most affected: " + (ti.topAffectedCountries || []).join(", "), ""),
+    );
+  }
+  const wrap = $("reserves-bars"); wrap.replaceChildren();
+  const rows = RESERVES.map(r => ({ ...r, mbbl: r.live ? (sprRes?.spr?.currentMbbl ?? r.mbbl) : r.mbbl }))
+    .filter(r => r.mbbl != null);
+  const max = Math.max(...rows.map(r => r.mbbl));
+  for (const r of rows) {
+    const row = document.createElement("div"); row.className = "res-row";
+    const name = document.createElement("span"); name.className = "res-name"; name.textContent = r.c;
+    const track = document.createElement("div"); track.className = "res-track";
+    const bar = document.createElement("div"); bar.className = "res-bar";
+    bar.style.width = Math.max(1.5, r.mbbl / max * 55) + "%";
+    const val = document.createElement("span"); val.className = "res-val";
+    val.textContent = fmtInt(Math.round(r.mbbl)) + "M bbl";
+    const note = document.createElement("span"); note.className = "res-note"; note.textContent = r.note;
+    track.append(bar, val, note);
+    row.append(name, track); wrap.append(row);
   }
 }
 
@@ -542,8 +607,9 @@ async function loadAll() {
     getJSON(API + "/api/v1/spr"),
     getJSON(API + "/api/v1/cushing"),
     getJSON(API + "/api/v1/pipelines"),
+    getJSON(API + "/api/v1/trade-impact"),
   ]);
-  const [oil, transits, events, status, live, spr, cushing, pipelines] = results.map(r => r.status === "fulfilled" ? r.value : null);
+  const [oil, transits, events, status, live, spr, cushing, pipelines, impact] = results.map(r => r.status === "fulfilled" ? r.value : null);
   if (oil) state.oil = oil.map(r => ({ t: Date.parse(r.timestamp_iso), brent: +r.brent_usd, wti: +r.wti_usd })).filter(p => p.brent > 0).sort((a, b) => a.t - b.t);
   if (transits) state.transits = transits.map(r => ({ t: Date.parse(r.date), tanker: +r.n_tanker, other: Math.max(0, (+r.n_total) - (+r.n_tanker)) })).sort((a, b) => a.t - b.t);
   if (events) state.events = events.events || [];
@@ -554,6 +620,7 @@ async function loadAll() {
   }
   if (status && status[0]) renderTiles(status[0]);
   renderBuffers(spr, cushing, pipelines);
+  renderReserves(spr, impact);
   const failed = results.filter(r => r.status === "rejected").length;
   if (failed) $("err").textContent = " ⚠ " + failed + " feed(s) failed to load — will retry on next refresh.";
   renderOilChart(); renderTransitsChart(); renderEvents();

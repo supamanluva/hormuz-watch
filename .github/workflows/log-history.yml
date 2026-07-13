@@ -1,0 +1,25 @@
+name: Log daily history
+
+on:
+  schedule:
+    - cron: "20 10 * * *"   # daily 10:20 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  log:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Run logger
+        run: python3 logger.py
+      - name: Commit history
+        run: |
+          git config user.name "hormuz-watch-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add history/
+          git diff --cached --quiet && echo "no changes" && exit 0
+          git commit -m "history: $(date -u +%F) snapshot"
+          git push

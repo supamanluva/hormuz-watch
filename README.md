@@ -46,21 +46,24 @@ Everything comes from the free tier of the [straits.live API](https://straits.li
 - **Yahoo Finance / EIA** — Brent & WTI prices
 - **GDELT + curated** — war/diplomacy events
 
-## Build your own history
+## History archive
 
 Some feeds only retain limited history. `logger.py` (stdlib only) appends the
 daily one-row status snapshot to `history/status_history.csv` and mirrors the
-full-history oil/transit/event CSVs:
+full-history oil/transit/event CSVs.
 
-```sh
-python3 logger.py
-```
+A GitHub Action (`.github/workflows/log-history.yml`) runs it daily at
+10:20 UTC and commits the result, so the archive builds itself in this repo.
+It can also be run locally: `python3 logger.py` (or via cron).
 
-Cron it daily, e.g. `crontab -e`:
+## Reserves & countdown notes
 
-```
-15 9 * * * cd $HOME/hormuz-watch && python3 logger.py >> history/logger.log 2>&1
-```
+- The **US SPR runway** tile is a naive linear projection: current level ÷
+  average draw rate over the last 4 weeks (EIA weekly data). Real drawdowns
+  are rate-limited and the SPR would never be run to literal zero.
+- Non-US reserve figures are curated EIA/IEA estimates (see dates on each
+  row) and pre-date the March 2026 IEA coordinated release; only the US
+  publishes weekly official data.
 
 ## Ideas / next steps
 
