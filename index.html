@@ -1,0 +1,594 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Hormuz Watch — Oil &amp; Shipping Monitor</title>
+<style>
+  :root {
+    --surface-1: #fcfcfb;
+    --page: #f9f9f7;
+    --text-primary: #0b0b0b;
+    --text-secondary: #52514e;
+    --muted: #898781;
+    --grid: #e1e0d9;
+    --baseline: #c3c2b7;
+    --border: rgba(11,11,11,0.10);
+    --series-1: #2a78d6;   /* Brent / tankers */
+    --series-2: #1baf7a;   /* WTI / other vessels */
+    --good: #0ca30c;
+    --good-text: #006300;
+    --warning: #fab219;
+    --serious: #ec835a;
+    --critical: #d03b3b;
+    --critical-text: #b02f2f;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --surface-1: #1a1a19;
+      --page: #0d0d0d;
+      --text-primary: #ffffff;
+      --text-secondary: #c3c2b7;
+      --muted: #898781;
+      --grid: #2c2c2a;
+      --baseline: #383835;
+      --border: rgba(255,255,255,0.10);
+      --series-1: #3987e5;
+      --series-2: #199e70;
+      --good-text: #0ca30c;
+      --critical-text: #e66767;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--page);
+    color: var(--text-primary);
+    font: 14px/1.5 system-ui, -apple-system, "Segoe UI", sans-serif;
+  }
+  .wrap { max-width: 1080px; margin: 0 auto; padding: 24px 20px 48px; }
+
+  header { display: flex; flex-wrap: wrap; align-items: baseline; gap: 12px; margin-bottom: 4px; }
+  header h1 { font-size: 22px; font-weight: 650; margin: 0; }
+  .updated { color: var(--muted); font-size: 12px; margin-left: auto; }
+  .subtitle { color: var(--text-secondary); margin: 0 0 20px; font-size: 13px; }
+
+  .chip {
+    display: inline-flex; align-items: center; gap: 6px;
+    padding: 3px 10px; border-radius: 999px; font-weight: 600; font-size: 13px;
+    border: 1px solid var(--border);
+  }
+  .chip.closed { color: var(--critical-text); }
+  .chip.open   { color: var(--good-text); }
+
+  .tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 12px; margin-bottom: 12px; }
+  .tile {
+    background: var(--surface-1); border: 1px solid var(--border); border-radius: 10px;
+    padding: 12px 14px;
+  }
+  .tile .label { color: var(--text-secondary); font-size: 12px; }
+  .tile .value { font-size: 26px; font-weight: 600; margin-top: 2px; }
+  .tile .delta { font-size: 12px; margin-top: 2px; color: var(--text-secondary); }
+  .delta.up-bad, .delta.down-bad { color: var(--critical-text); }
+  .delta.up-good, .delta.down-good { color: var(--good-text); }
+
+  .meters { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 12px; margin-bottom: 20px; }
+  .meter-card { background: var(--surface-1); border: 1px solid var(--border); border-radius: 10px; padding: 12px 14px; }
+  .meter-head { display: flex; justify-content: space-between; font-size: 12px; color: var(--text-secondary); }
+  .meter-head b { color: var(--text-primary); font-size: 14px; }
+  .meter-track { height: 6px; border-radius: 3px; margin-top: 8px; overflow: hidden; }
+  .meter-fill { height: 100%; border-radius: 3px; }
+
+  .filters { display: flex; gap: 6px; align-items: center; margin: 4px 0 12px; }
+  .filters .flabel { color: var(--muted); font-size: 12px; margin-right: 4px; }
+  .filters button {
+    font: 600 12px system-ui, sans-serif; color: var(--text-secondary);
+    background: transparent; border: 1px solid var(--border); border-radius: 8px;
+    padding: 4px 10px; cursor: pointer;
+  }
+  .filters button:hover { background: var(--surface-1); }
+  .filters button[aria-pressed="true"] { color: var(--text-primary); background: var(--surface-1); border-color: var(--baseline); }
+
+  .card {
+    background: var(--surface-1); border: 1px solid var(--border); border-radius: 12px;
+    padding: 16px 18px 12px; margin-bottom: 16px;
+  }
+  .card.refreshing { opacity: 0.6; }
+  .card-head { display: flex; align-items: baseline; gap: 10px; margin-bottom: 4px; }
+  .card-head h2 { font-size: 15px; font-weight: 650; margin: 0; }
+  .card-head .note { color: var(--muted); font-size: 12px; }
+  .card-head .tbl-btn {
+    margin-left: auto; font: 600 11px system-ui, sans-serif; color: var(--text-secondary);
+    background: transparent; border: 1px solid var(--border); border-radius: 6px; padding: 3px 8px; cursor: pointer;
+  }
+  .legend { display: flex; gap: 16px; font-size: 12px; color: var(--text-secondary); margin: 4px 0 6px; }
+  .legend .key { display: inline-flex; align-items: center; gap: 6px; }
+  .legend .line-key  { width: 14px; height: 2px; border-radius: 1px; display: inline-block; }
+  .legend .rect-key  { width: 10px; height: 10px; border-radius: 3px; display: inline-block; }
+
+  .chart-box { position: relative; }
+  svg text { font: 11px system-ui, sans-serif; fill: var(--muted); font-variant-numeric: tabular-nums; }
+  svg .endlabel { font-weight: 600; fill: var(--text-secondary); font-variant-numeric: normal; }
+
+  .tooltip {
+    position: absolute; pointer-events: none; z-index: 5; display: none;
+    background: var(--surface-1); border: 1px solid var(--border); border-radius: 8px;
+    padding: 8px 10px; box-shadow: 0 4px 14px rgba(0,0,0,0.18); font-size: 12px; min-width: 130px;
+  }
+  .tooltip .t-date { color: var(--muted); margin-bottom: 4px; }
+  .tooltip .t-row { display: flex; align-items: center; gap: 6px; }
+  .tooltip .t-key { width: 12px; height: 2px; border-radius: 1px; flex: none; }
+  .tooltip .t-val { font-weight: 650; color: var(--text-primary); }
+  .tooltip .t-name { color: var(--text-secondary); }
+
+  table.dataview { width: 100%; border-collapse: collapse; font-size: 12px; margin-top: 8px; display: none; }
+  table.dataview th, table.dataview td { text-align: right; padding: 4px 8px; border-bottom: 1px solid var(--grid); font-variant-numeric: tabular-nums; }
+  table.dataview th:first-child, table.dataview td:first-child { text-align: left; }
+  table.dataview th { color: var(--text-secondary); font-weight: 600; }
+  .tablemode table.dataview { display: table; }
+  .tablemode .chart-box, .tablemode .legend { display: none; }
+
+  .events { list-style: none; margin: 8px 0 0; padding: 0; }
+  .events li { display: flex; gap: 10px; padding: 8px 0; border-bottom: 1px solid var(--grid); align-items: baseline; }
+  .events li:last-child { border-bottom: 0; }
+  .ev-sev { flex: none; font-size: 11px; font-weight: 700; width: 66px; }
+  .ev-sev.high   { color: var(--critical-text); }
+  .ev-sev.medium { color: var(--serious); }
+  .ev-sev.low    { color: var(--text-secondary); }
+  .ev-body { flex: 1; }
+  .ev-title { font-weight: 550; }
+  .ev-meta { color: var(--muted); font-size: 12px; }
+  .ev-meta a { color: var(--muted); }
+  .more-btn { margin-top: 10px; font: 600 12px system-ui, sans-serif; color: var(--text-secondary);
+    background: transparent; border: 1px solid var(--border); border-radius: 8px; padding: 5px 12px; cursor: pointer; }
+
+  footer { color: var(--muted); font-size: 12px; margin-top: 24px; }
+  footer a { color: var(--text-secondary); }
+  .err { color: var(--critical-text); font-size: 12px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>Hormuz Watch</h1>
+    <span class="chip" id="verdict-chip">—</span>
+    <span class="updated" id="updated">loading…</span>
+  </header>
+  <p class="subtitle">Oil prices &amp; shipping through the Strait of Hormuz — ~20% of global oil transits here.
+    Data: <a href="https://straits.live/api" style="color:inherit">straits.live</a> (IMF PortWatch, EIA, GDELT).</p>
+
+  <div class="tiles" id="tiles"></div>
+
+  <div class="meters" id="meters"></div>
+
+  <div class="filters" id="range-filters" role="group" aria-label="Date range">
+    <span class="flabel">Range</span>
+    <button data-days="7">7 days</button>
+    <button data-days="30" aria-pressed="true">30 days</button>
+    <button data-days="90">90 days</button>
+    <button data-days="0">All</button>
+  </div>
+
+  <section class="card" id="oil-card">
+    <div class="card-head">
+      <h2>Oil price — USD per barrel</h2>
+      <span class="note" id="oil-note"></span>
+      <button class="tbl-btn" data-target="oil-card">Table view</button>
+    </div>
+    <div class="legend">
+      <span class="key"><span class="line-key" style="background:var(--series-1)"></span>Brent</span>
+      <span class="key"><span class="line-key" style="background:var(--series-2)"></span>WTI</span>
+    </div>
+    <div class="chart-box" id="oil-chart"></div>
+    <table class="dataview" id="oil-table"></table>
+  </section>
+
+  <section class="card" id="transit-card">
+    <div class="card-head">
+      <h2>Daily ship transits through the strait</h2>
+      <span class="note" id="transit-note"></span>
+      <button class="tbl-btn" data-target="transit-card">Table view</button>
+    </div>
+    <div class="legend">
+      <span class="key"><span class="rect-key" style="background:var(--series-1)"></span>Tankers</span>
+      <span class="key"><span class="rect-key" style="background:var(--series-2)"></span>Other cargo</span>
+      <span class="key"><span class="line-key" style="background:var(--muted)"></span>Pre-crisis median</span>
+    </div>
+    <div class="chart-box" id="transit-chart"></div>
+    <table class="dataview" id="transit-table"></table>
+  </section>
+
+  <section class="card" id="buffers-card">
+    <div class="card-head">
+      <h2>Supply buffers — reserves &amp; bypass pipelines</h2>
+      <span class="note">the cushions keeping prices from spiking — all finite</span>
+    </div>
+    <div class="tiles" id="buffer-tiles" style="margin-bottom:12px"></div>
+    <div class="meters" id="pipeline-meters" style="margin-bottom:4px"></div>
+  </section>
+
+  <section class="card" id="events-card">
+    <div class="card-head">
+      <h2>Conflict events — strikes, ship incidents, closures</h2>
+      <span class="note" id="events-note"></span>
+    </div>
+    <ul class="events" id="events"></ul>
+    <button class="more-btn" id="events-more" hidden>Show more</button>
+  </section>
+
+  <footer>
+    Sources: <a href="https://straits.live">straits.live</a> ·
+    <a href="https://portwatch.imf.org/pages/chokepoint6">IMF PortWatch (chokepoint 6)</a> ·
+    <a href="https://www.eia.gov/dnav/pet/pet_pri_spt_s1_d.htm">EIA spot prices</a>.
+    Tiles refresh every 60&nbsp;s, charts every 5&nbsp;min.
+    <span class="err" id="err"></span>
+  </footer>
+</div>
+
+<div class="tooltip" id="tooltip"></div>
+
+<script>
+"use strict";
+const API = "https://straits.live";
+const $ = id => document.getElementById(id);
+const state = { days: 30, oil: [], transits: [], events: [], status: null, eventsShown: 12 };
+
+/* ---------- fetch helpers ---------- */
+async function getJSON(url) { const r = await fetch(url); if (!r.ok) throw new Error(url + " → " + r.status); return r.json(); }
+async function getCSV(url) {
+  const r = await fetch(url); if (!r.ok) throw new Error(url + " → " + r.status);
+  const [head, ...rows] = (await r.text()).trim().split("\n");
+  const cols = head.split(",");
+  return rows.map(line => {
+    const cells = line.split(","); const o = {};
+    cols.forEach((c, i) => o[c] = cells[i]);
+    return o;
+  });
+}
+const fmt = (n, d = 2) => n == null || isNaN(n) ? "—" : Number(n).toLocaleString("en-US", { maximumFractionDigits: d, minimumFractionDigits: d });
+const fmtInt = n => n == null || isNaN(n) ? "—" : Number(n).toLocaleString("en-US");
+const dayFmt = t => new Date(t).toLocaleDateString("en-GB", { day: "numeric", month: "short" });
+const timeFmt = t => new Date(t).toLocaleString("en-GB", { day: "numeric", month: "short", hour: "2-digit", minute: "2-digit" });
+
+/* ---------- stat tiles ---------- */
+function tile(label, value, deltaTxt, deltaCls) {
+  const d = document.createElement("div"); d.className = "tile";
+  const l = document.createElement("div"); l.className = "label"; l.textContent = label;
+  const v = document.createElement("div"); v.className = "value"; v.textContent = value;
+  d.append(l, v);
+  if (deltaTxt) { const dd = document.createElement("div"); dd.className = "delta " + (deltaCls || ""); dd.textContent = deltaTxt; d.append(dd); }
+  return d;
+}
+function renderTiles(s) {
+  const t = $("tiles"); t.replaceChildren();
+  const ch = Number(s.brent_change_24h_pct);
+  t.append(
+    tile("Brent crude", "$" + fmt(s.brent_usd), (ch >= 0 ? "▲ +" : "▼ ") + fmt(ch) + "% vs 24 h ago", ch >= 0 ? "up-bad" : "down-good"),
+    tile("WTI crude", "$" + fmt(s.wti_usd)),
+    tile("Transits per day", fmtInt(s.transits_count), "vs " + fmtInt(s.transits_baseline) + "/day pre-crisis (" + s.transits_throughput_pct + "%)", "down-bad"),
+    tile("Tanker transits", fmtInt(state.lastTanker), "of " + fmtInt(s.transits_count) + " total, " + s.transits_source, ""),
+    tile("Stranded vessels", fmtInt(s.ships_stranded), "anchored or stopped in the Gulf", "up-bad"),
+    tile("War-risk insurance", (s.insurance_multiple || "—") + "×", "multiple of peacetime premium", "up-bad"),
+  );
+  const chip = $("verdict-chip");
+  const closed = s.verdict_status === "closed";
+  chip.className = "chip " + (closed ? "closed" : "open");
+  chip.textContent = (closed ? "⛔ CLOSED" : "✅ OPEN") + " — day " + s.days_since_closure;
+  $("updated").textContent = "updated " + timeFmt(s.as_of);
+}
+function meter(label, value, band, color) {
+  const c = document.createElement("div"); c.className = "meter-card";
+  const h = document.createElement("div"); h.className = "meter-head";
+  const l = document.createElement("span"); l.textContent = label;
+  const v = document.createElement("b"); v.textContent = value + " / 100 · " + band;
+  h.append(l, v);
+  const track = document.createElement("div"); track.className = "meter-track";
+  track.style.background = "color-mix(in srgb, " + color + " 18%, var(--surface-1))";
+  const fill = document.createElement("div"); fill.className = "meter-fill";
+  fill.style.width = Math.min(100, value) + "%"; fill.style.background = color;
+  track.append(fill); c.append(h, track);
+  return c;
+}
+function renderMeters(idx) {
+  const m = $("meters"); m.replaceChildren();
+  if (!idx) return;
+  const sevColor = b => b === "extreme" ? "var(--critical)" : b === "high" ? "var(--serious)" : b === "elevated" ? "var(--warning)" : "var(--good)";
+  const cp = idx.crisisPressure, ep = idx.escalationProbability;
+  if (cp) m.append(meter("Crisis pressure index", cp.value, cp.band, sevColor(cp.band)));
+  if (ep) m.append(meter("Escalation probability", ep.value, ep.band, sevColor(ep.band)));
+}
+
+/* ---------- shared chart scaffolding ---------- */
+const M = { top: 14, right: 56, bottom: 26, left: 44 };
+function svgEl(tag, attrs) { const e = document.createElementNS("http://www.w3.org/2000/svg", tag); for (const k in attrs) e.setAttribute(k, attrs[k]); return e; }
+function niceTicks(min, max, n) {
+  const span = max - min || 1, step0 = span / n, mag = Math.pow(10, Math.floor(Math.log10(step0)));
+  const step = [1, 2, 2.5, 5, 10].map(m => m * mag).find(s => span / s <= n) || mag * 10;
+  const t = []; for (let v = Math.ceil(min / step) * step; v <= max + 1e-9; v += step) t.push(v);
+  return t;
+}
+function frame(svg, W, H, yMin, yMax, yFmt) {
+  const plotW = W - M.left - M.right, plotH = H - M.top - M.bottom;
+  const y = v => M.top + plotH - (v - yMin) / (yMax - yMin) * plotH;
+  for (const tv of niceTicks(yMin, yMax, 5)) {
+    svg.append(svgEl("line", { x1: M.left, x2: M.left + plotW, y1: y(tv), y2: y(tv), stroke: "var(--grid)", "stroke-width": 1 }));
+    const txt = svgEl("text", { x: M.left - 6, y: y(tv) + 4, "text-anchor": "end" }); txt.textContent = yFmt(tv); svg.append(txt);
+  }
+  svg.append(svgEl("line", { x1: M.left, x2: M.left + plotW, y1: M.top + plotH, y2: M.top + plotH, stroke: "var(--baseline)", "stroke-width": 1 }));
+  return { plotW, plotH, y };
+}
+function showTooltip(box, px, py, dateStr, rows) {
+  const tt = $("tooltip"); tt.replaceChildren();
+  const d = document.createElement("div"); d.className = "t-date"; d.textContent = dateStr; tt.append(d);
+  for (const r of rows) {
+    const row = document.createElement("div"); row.className = "t-row";
+    const k = document.createElement("span"); k.className = "t-key"; k.style.background = r.color;
+    const v = document.createElement("span"); v.className = "t-val"; v.textContent = r.value;
+    const n = document.createElement("span"); n.className = "t-name"; n.textContent = r.name;
+    row.append(k, v, n); tt.append(row);
+  }
+  tt.style.display = "block";
+  const b = box.getBoundingClientRect();
+  let x = b.left + window.scrollX + px + 14, yy = b.top + window.scrollY + py - 10;
+  if (x + 170 > window.scrollX + document.documentElement.clientWidth) x -= 190;
+  tt.style.left = x + "px"; tt.style.top = yy + "px";
+}
+const hideTooltip = () => $("tooltip").style.display = "none";
+
+/* ---------- oil line chart ---------- */
+function renderOilChart() {
+  const box = $("oil-chart"); box.replaceChildren();
+  const cutoff = state.days ? Date.now() - state.days * 864e5 : 0;
+  let pts = state.oil.filter(p => p.t >= cutoff);
+  if (pts.length > 500) { const k = Math.ceil(pts.length / 500); pts = pts.filter((_, i) => i % k === 0); }
+  if (pts.length < 2) { box.textContent = "No data in range — oil history starts " + (state.oil[0] ? dayFmt(state.oil[0].t) : ""); return; }
+  $("oil-note").textContent = dayFmt(pts[0].t) + " – " + dayFmt(pts[pts.length - 1].t) + " · " + pts.length + " points";
+
+  const W = Math.max(560, box.clientWidth || 900), H = 280;
+  const svg = svgEl("svg", { viewBox: "0 0 " + W + " " + H, width: "100%", role: "img", "aria-label": "Brent and WTI price history" });
+  const vals = pts.flatMap(p => [p.brent, p.wti]).filter(v => v != null);
+  const yMin = Math.floor(Math.min(...vals) / 5) * 5 - 5, yMax = Math.ceil(Math.max(...vals) / 5) * 5 + 5;
+  const { plotW, plotH, y } = frame(svg, W, H, yMin, yMax, v => "$" + v);
+  const t0 = pts[0].t, t1 = pts[pts.length - 1].t;
+  const x = t => M.left + (t - t0) / (t1 - t0) * plotW;
+
+  for (const tv of niceTicks(t0, t1, 6)) {
+    const txt = svgEl("text", { x: x(tv), y: H - 8, "text-anchor": "middle" }); txt.textContent = dayFmt(tv); svg.append(txt);
+  }
+  const series = [["brent", "var(--series-1)", "Brent"], ["wti", "var(--series-2)", "WTI"]];
+  for (const [key, color, name] of series) {
+    const line = pts.map((p, i) => (i ? "L" : "M") + x(p.t).toFixed(1) + " " + y(p[key]).toFixed(1)).join(" ");
+    svg.append(svgEl("path", { d: line + " L" + x(t1).toFixed(1) + " " + (M.top + plotH) + " L" + x(t0).toFixed(1) + " " + (M.top + plotH) + " Z", fill: color, opacity: 0.08 }));
+    svg.append(svgEl("path", { d: line, fill: "none", stroke: color, "stroke-width": 2, "stroke-linejoin": "round", "stroke-linecap": "round" }));
+    const last = pts[pts.length - 1];
+    svg.append(svgEl("circle", { cx: x(last.t), cy: y(last[key]), r: 4, fill: color, stroke: "var(--surface-1)", "stroke-width": 2 }));
+    const lbl = svgEl("text", { x: x(last.t) + 8, y: y(last[key]) + 4, class: "endlabel" });
+    lbl.textContent = "$" + fmt(last[key]); svg.append(lbl);
+  }
+  const cross = svgEl("line", { y1: M.top, y2: M.top + plotH, stroke: "var(--baseline)", "stroke-width": 1, visibility: "hidden" });
+  svg.append(cross);
+  const hit = svgEl("rect", { x: M.left, y: M.top, width: plotW, height: plotH, fill: "transparent" });
+  hit.addEventListener("pointermove", ev => {
+    const r = svg.getBoundingClientRect(), sx = W / r.width;
+    const mx = (ev.clientX - r.left) * sx;
+    const tt = t0 + (mx - M.left) / plotW * (t1 - t0);
+    let best = pts[0]; for (const p of pts) if (Math.abs(p.t - tt) < Math.abs(best.t - tt)) best = p;
+    const bx = x(best.t);
+    cross.setAttribute("x1", bx); cross.setAttribute("x2", bx); cross.setAttribute("visibility", "visible");
+    showTooltip(box, bx / sx, (ev.clientY - r.top), timeFmt(best.t),
+      series.map(([k, c, n]) => ({ color: c, value: "$" + fmt(best[k]), name: n })));
+  });
+  hit.addEventListener("pointerleave", () => { cross.setAttribute("visibility", "hidden"); hideTooltip(); });
+  svg.append(hit);
+  box.append(svg);
+
+  renderTable($("oil-table"), ["Time", "Brent $", "WTI $"],
+    pts.slice(-60).reverse().map(p => [timeFmt(p.t), fmt(p.brent), fmt(p.wti)]));
+}
+
+/* ---------- transits bar chart ---------- */
+function renderTransitsChart() {
+  const box = $("transit-chart"); box.replaceChildren();
+  const cutoff = state.days ? Date.now() - state.days * 864e5 : 0;
+  let rows = state.transits.filter(r => r.t >= cutoff);
+  let note = "";
+  if (rows.length > 120) {  /* weekly means for long ranges */
+    const wk = new Map();
+    for (const r of rows) {
+      const w = Math.floor(r.t / (7 * 864e5));
+      const a = wk.get(w) || { t: r.t, tanker: 0, other: 0, n: 0 };
+      a.tanker += r.tanker; a.other += r.other; a.n++; wk.set(w, a);
+    }
+    rows = [...wk.values()].map(a => ({ t: a.t, tanker: a.tanker / a.n, other: a.other / a.n, agg: true }));
+    note = "weekly averages · ";
+  }
+  if (!rows.length) { box.textContent = "No data in range."; return; }
+  $("transit-note").textContent = note + "latest " + dayFmt(rows[rows.length - 1].t) + " (IMF PortWatch publishes with a few days' lag)";
+
+  const BASE = state.preCrisisBaseline || 88;
+  const W = Math.max(560, box.clientWidth || 900), H = 280;
+  const svg = svgEl("svg", { viewBox: "0 0 " + W + " " + H, width: "100%", role: "img", "aria-label": "Daily vessel transits, tankers and other cargo" });
+  const maxV = Math.max(BASE, ...rows.map(r => r.tanker + r.other));
+  const { plotW, plotH, y } = frame(svg, W, H, 0, Math.ceil(maxV / 20) * 20, v => fmtInt(v));
+  const n = rows.length, band = plotW / n;
+  const barW = Math.min(24, Math.max(2, band * 0.7));
+  const GAP = 2;
+
+  const tickEvery = Math.ceil(n / 7);
+  rows.forEach((r, i) => {
+    const cx = M.left + band * (i + 0.5);
+    if (i % tickEvery === 0) {
+      const txt = svgEl("text", { x: cx, y: H - 8, "text-anchor": "middle" }); txt.textContent = dayFmt(r.t); svg.append(txt);
+    }
+    const yTankTop = y(r.tanker), yBase = M.top + plotH;
+    const tankH = Math.max(0, yBase - yTankTop);
+    if (tankH > 0) {
+      const rounded = r.other <= 0;  /* round top only if it's the top of the stack */
+      svg.append(svgEl("path", { d: roundedBar(cx - barW / 2, yTankTop, barW, tankH, rounded ? 4 : 0), fill: "var(--series-1)" }));
+    }
+    if (r.other > 0) {
+      const oTop = y(r.tanker + r.other);
+      const oH = Math.max(0, yTankTop - oTop - GAP);
+      if (oH > 0) svg.append(svgEl("path", { d: roundedBar(cx - barW / 2, oTop, barW, oH, 4), fill: "var(--series-2)" }));
+    }
+    const hit = svgEl("rect", { x: M.left + band * i, y: M.top, width: band, height: plotH, fill: "transparent" });
+    hit.addEventListener("pointermove", ev => {
+      const rct = svg.getBoundingClientRect(), sx = W / rct.width;
+      showTooltip(box, cx / sx, ev.clientY - rct.top, (r.agg ? "week of " : "") + dayFmt(r.t), [
+        { color: "var(--series-1)", value: fmtInt(Math.round(r.tanker)), name: "tankers" },
+        { color: "var(--series-2)", value: fmtInt(Math.round(r.other)), name: "other cargo" },
+        { color: "var(--muted)", value: fmtInt(Math.round(r.tanker + r.other)), name: "total (baseline " + BASE + ")" },
+      ]);
+    });
+    hit.addEventListener("pointerleave", hideTooltip);
+    svg.append(hit);
+  });
+  /* pre-crisis reference line */
+  const by = y(BASE);
+  svg.append(svgEl("line", { x1: M.left, x2: M.left + plotW, y1: by, y2: by, stroke: "var(--muted)", "stroke-width": 1, "stroke-dasharray": "5 4" }));
+  const bl = svgEl("text", { x: M.left + plotW, y: by - 5, "text-anchor": "end", class: "endlabel" });
+  bl.textContent = "pre-crisis median " + BASE + "/day"; svg.append(bl);
+  box.append(svg);
+
+  renderTable($("transit-table"), ["Date", "Tankers", "Other cargo", "Total"],
+    rows.slice(-60).reverse().map(r => [(r.agg ? "wk " : "") + dayFmt(r.t), fmtInt(Math.round(r.tanker)), fmtInt(Math.round(r.other)), fmtInt(Math.round(r.tanker + r.other))]));
+}
+function roundedBar(x, y, w, h, r) {
+  r = Math.min(r, w / 2, h);
+  if (r <= 0) return "M" + x + " " + y + " h" + w + " v" + h + " h" + (-w) + " Z";
+  return "M" + x + " " + (y + r) + " a" + r + " " + r + " 0 0 1 " + r + " " + (-r) +
+    " h" + (w - 2 * r) + " a" + r + " " + r + " 0 0 1 " + r + " " + r +
+    " v" + (h - r) + " h" + (-w) + " Z";
+}
+function renderTable(tbl, heads, rows) {
+  tbl.replaceChildren();
+  const tr = document.createElement("tr");
+  for (const h of heads) { const th = document.createElement("th"); th.textContent = h; tr.append(th); }
+  tbl.append(tr);
+  for (const r of rows) {
+    const row = document.createElement("tr");
+    for (const c of r) { const td = document.createElement("td"); td.textContent = c; row.append(td); }
+    tbl.append(row);
+  }
+}
+
+/* ---------- supply buffers ---------- */
+function renderBuffers(sprRes, cushRes, pipeRes) {
+  const t = $("buffer-tiles"); t.replaceChildren();
+  const spr = sprRes?.spr, cush = cushRes?.cushing;
+  if (spr) {
+    const d = spr.change4wMbbl;
+    t.append(tile("US Strategic Petroleum Reserve", fmt(spr.currentMbbl, 1) + "M bbl",
+      (d >= 0 ? "▲ +" : "▼ −") + fmt(Math.abs(d), 1) + "M bbl in 4 weeks (EIA, " + spr.asOfDate + ")",
+      d < 0 ? "down-bad" : "up-good"));
+  }
+  if (cush) {
+    const d = cush.change4wMbbl;
+    t.append(tile("Cushing hub stocks (WTI delivery)", fmt(cush.currentMbbl, 1) + "M bbl",
+      (d >= 0 ? "▲ +" : "▼ −") + fmt(Math.abs(d), 1) + "M bbl in 4 weeks · near tank bottoms",
+      d < 0 ? "down-bad" : "up-good"));
+  }
+  const m = $("pipeline-meters"); m.replaceChildren();
+  for (const p of pipeRes?.pipelines || []) {
+    const pct = p.currentUtilizationPct;
+    const color = p.status !== "operational" ? "var(--muted)"
+      : pct >= 95 ? "var(--critical)" : pct >= 85 ? "var(--serious)" : pct >= 60 ? "var(--warning)" : "var(--good)";
+    const c = document.createElement("div"); c.className = "meter-card";
+    const h = document.createElement("div"); h.className = "meter-head";
+    const l = document.createElement("span"); l.textContent = p.name + " → " + p.terminus;
+    const v = document.createElement("b"); v.textContent = pct + "% of " + fmt(p.capacityBpd / 1e6, 1) + " mb/d";
+    h.append(l, v);
+    const track = document.createElement("div"); track.className = "meter-track";
+    track.style.background = "color-mix(in srgb, " + color + " 18%, var(--surface-1))";
+    const fill = document.createElement("div"); fill.className = "meter-fill";
+    fill.style.width = Math.min(100, pct) + "%"; fill.style.background = color;
+    track.append(fill); c.append(h, track); m.append(c);
+  }
+}
+
+/* ---------- events ---------- */
+function renderEvents() {
+  const ul = $("events"); ul.replaceChildren();
+  const evs = state.events.slice(0, state.eventsShown);
+  $("events-note").textContent = state.events.length + " events · GDELT + curated";
+  for (const e of evs) {
+    const li = document.createElement("li");
+    const sev = document.createElement("span"); sev.className = "ev-sev " + (e.severity || "low");
+    sev.textContent = (e.severity === "high" ? "● " : "○ ") + (e.severity || "info").toUpperCase();
+    const body = document.createElement("div"); body.className = "ev-body";
+    const t = document.createElement("div"); t.className = "ev-title"; t.textContent = e.title;
+    const meta = document.createElement("div"); meta.className = "ev-meta";
+    meta.textContent = timeFmt(e.occurredAt) + " · " + (e.type || "event") + " · ";
+    if (e.sourceUrl) {
+      const a = document.createElement("a"); a.href = e.sourceUrl; a.target = "_blank"; a.rel = "noopener";
+      a.textContent = e.sourceName || "source"; meta.append(a);
+    } else meta.append(document.createTextNode(e.sourceName || ""));
+    body.append(t, meta); li.append(sev, body); ul.append(li);
+  }
+  $("events-more").hidden = state.eventsShown >= state.events.length;
+}
+$("events-more").addEventListener("click", () => { state.eventsShown += 12; renderEvents(); });
+
+/* ---------- data loading ---------- */
+async function loadAll() {
+  for (const id of ["oil-card", "transit-card"]) $(id).classList.add("refreshing");
+  $("err").textContent = "";
+  const results = await Promise.allSettled([
+    getCSV(API + "/data/oil.csv"),
+    getCSV(API + "/data/transits.csv"),
+    getJSON(API + "/api/v1/events"),
+    getCSV(API + "/data/status.csv"),
+    getJSON(API + "/status"),
+    getJSON(API + "/api/v1/spr"),
+    getJSON(API + "/api/v1/cushing"),
+    getJSON(API + "/api/v1/pipelines"),
+  ]);
+  const [oil, transits, events, status, live, spr, cushing, pipelines] = results.map(r => r.status === "fulfilled" ? r.value : null);
+  if (oil) state.oil = oil.map(r => ({ t: Date.parse(r.timestamp_iso), brent: +r.brent_usd, wti: +r.wti_usd })).filter(p => p.brent > 0).sort((a, b) => a.t - b.t);
+  if (transits) state.transits = transits.map(r => ({ t: Date.parse(r.date), tanker: +r.n_tanker, other: Math.max(0, (+r.n_total) - (+r.n_tanker)) })).sort((a, b) => a.t - b.t);
+  if (events) state.events = events.events || [];
+  if (live) {
+    state.preCrisisBaseline = live.transits?.baseline || 88;
+    state.lastTanker = live.dailyTransits?.nTanker;
+    renderMeters(live.hormuzIndex);
+  }
+  if (status && status[0]) renderTiles(status[0]);
+  renderBuffers(spr, cushing, pipelines);
+  const failed = results.filter(r => r.status === "rejected").length;
+  if (failed) $("err").textContent = " ⚠ " + failed + " feed(s) failed to load — will retry on next refresh.";
+  renderOilChart(); renderTransitsChart(); renderEvents();
+  for (const id of ["oil-card", "transit-card"]) $(id).classList.remove("refreshing");
+}
+async function tick() {
+  try {
+    const t = await getJSON(API + "/api/v1/tick");
+    if (t.oil) {
+      $("updated").textContent = "updated " + timeFmt(t.asOf);
+      const tiles = $("tiles").children;
+      if (tiles[0]) tiles[0].querySelector(".value").textContent = "$" + fmt(t.oil.brent);
+    }
+  } catch (e) { /* transient — full refresh will recover */ }
+}
+
+/* ---------- filters & table toggles ---------- */
+$("range-filters").addEventListener("click", ev => {
+  const b = ev.target.closest("button"); if (!b) return;
+  for (const x of $("range-filters").querySelectorAll("button")) x.setAttribute("aria-pressed", x === b);
+  state.days = +b.dataset.days;
+  renderOilChart(); renderTransitsChart();
+});
+for (const btn of document.querySelectorAll(".tbl-btn")) {
+  btn.addEventListener("click", () => {
+    const card = $(btn.dataset.target);
+    const on = card.classList.toggle("tablemode");
+    btn.textContent = on ? "Chart view" : "Table view";
+  });
+}
+addEventListener("resize", () => { renderOilChart(); renderTransitsChart(); });
+
+loadAll();
+setInterval(tick, 60_000);
+setInterval(loadAll, 300_000);
+</script>
+</body>
+</html>
