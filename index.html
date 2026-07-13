@@ -4,6 +4,10 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Hormuz Watch — Oil &amp; Shipping Monitor</title>
+<meta name="description" content="Live dashboard: oil prices, tanker transits, strategic reserves and conflict events for the Strait of Hormuz crisis. Data from IMF PortWatch, EIA, GDELT and prediction markets.">
+<meta property="og:title" content="Hormuz Watch — live oil &amp; Strait of Hormuz monitor">
+<meta property="og:description" content="Brent/WTI, daily ship transits, SPR runway countdown, reserves and war events — updated live.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🛢️</text></svg>">
 <style>
   :root {
     --surface-1: #fcfcfb;
@@ -142,6 +146,22 @@
   .more-btn { margin-top: 10px; font: 600 12px system-ui, sans-serif; color: var(--text-secondary);
     background: transparent; border: 1px solid var(--border); border-radius: 8px; padding: 5px 12px; cursor: pointer; }
 
+  .brief { margin: 6px 0 4px; padding-left: 20px; }
+  .brief li { margin-bottom: 6px; }
+  .brief-full { color: var(--text-secondary); font-size: 13px; margin-top: 8px; }
+  .brief-full summary { cursor: pointer; color: var(--muted); font-size: 12px; font-weight: 600; }
+  .brief-full p { margin: 8px 0 0; }
+
+  .mkt-row { display: grid; grid-template-columns: 64px 110px 1fr; gap: 12px; align-items: center; padding: 8px 0; border-bottom: 1px solid var(--grid); }
+  .mkt-row:last-child { border-bottom: 0; }
+  .mkt-prob { font-size: 17px; font-weight: 650; text-align: right; }
+  .mkt-track { height: 6px; border-radius: 3px; background: color-mix(in srgb, var(--series-1) 15%, var(--surface-1)); overflow: hidden; }
+  .mkt-bar { height: 100%; border-radius: 3px; background: var(--series-1); }
+  .mkt-title { font-weight: 550; }
+  .mkt-title a { color: var(--text-primary); text-decoration: none; }
+  .mkt-title a:hover { text-decoration: underline; }
+  .mkt-meta { color: var(--muted); font-size: 12px; }
+
   .res-row { display: grid; grid-template-columns: 120px 1fr; gap: 10px; align-items: center; padding: 7px 0; border-bottom: 1px solid var(--grid); }
   .res-row:last-child { border-bottom: 0; }
   .res-name { font-weight: 600; font-size: 13px; }
@@ -168,6 +188,15 @@
   <div class="tiles" id="tiles"></div>
 
   <div class="meters" id="meters"></div>
+
+  <section class="card" id="brief-card" hidden>
+    <div class="card-head">
+      <h2>Daily brief</h2>
+      <span class="note" id="brief-date"></span>
+    </div>
+    <ul class="brief" id="brief-bullets"></ul>
+    <details class="brief-full"><summary>Full brief</summary><p id="brief-summary"></p></details>
+  </section>
 
   <div class="filters" id="range-filters" role="group" aria-label="Date range">
     <span class="flabel">Range</span>
@@ -224,6 +253,14 @@
     <div id="reserves-bars"></div>
   </section>
 
+  <section class="card" id="markets-card" hidden>
+    <div class="card-head">
+      <h2>Prediction markets — what traders are pricing</h2>
+      <span class="note" id="markets-note"></span>
+    </div>
+    <div id="markets"></div>
+  </section>
+
   <section class="card" id="events-card">
     <div class="card-head">
       <h2>Conflict events — strikes, ship incidents, closures</h2>
@@ -234,11 +271,15 @@
   </section>
 
   <footer>
-    Sources: <a href="https://straits.live">straits.live</a> ·
-    <a href="https://portwatch.imf.org/pages/chokepoint6">IMF PortWatch (chokepoint 6)</a> ·
-    <a href="https://www.eia.gov/dnav/pet/pet_pri_spt_s1_d.htm">EIA spot prices</a>.
-    Tiles refresh every 60&nbsp;s, charts every 5&nbsp;min.
-    <span class="err" id="err"></span>
+    <p style="margin:0 0 6px">Sources: <a href="https://straits.live">straits.live</a> (aggregating
+    <a href="https://portwatch.imf.org/pages/chokepoint6">IMF PortWatch</a> AIS transit counts,
+    <a href="https://www.eia.gov/dnav/pet/pet_pri_spt_s1_d.htm">EIA</a> prices &amp; reserves,
+    <a href="https://gasprices.aaa.com/state-gas-price-averages/">AAA</a> gas prices, GDELT news,
+    Polymarket/Kalshi). Tiles refresh every 60&nbsp;s, charts every 5&nbsp;min; transit counts publish with ~1&nbsp;week lag.</p>
+    <p style="margin:0"><b>Disclaimer:</b> informational dashboard built on free third-party public feeds —
+    accuracy and freshness are not guaranteed, and nothing here is investment advice.
+    Verify against primary sources before making trading decisions.
+    <span class="err" id="err"></span></p>
   </footer>
 </div>
 
@@ -276,9 +317,10 @@ function tile(label, value, deltaTxt, deltaCls) {
   if (deltaTxt) { const dd = document.createElement("div"); dd.className = "delta " + (deltaCls || ""); dd.textContent = deltaTxt; d.append(dd); }
   return d;
 }
-function renderTiles(s) {
+function renderTiles(s, gas) {
   const t = $("tiles"); t.replaceChildren();
   const ch = Number(s.brent_change_24h_pct);
+  const rial7 = Number(s.tehran_rial_delta_7d_pct);
   t.append(
     tile("Brent crude", "$" + fmt(s.brent_usd), (ch >= 0 ? "▲ +" : "▼ ") + fmt(ch) + "% vs 24 h ago", ch >= 0 ? "up-bad" : "down-good"),
     tile("WTI crude", "$" + fmt(s.wti_usd)),
@@ -286,7 +328,10 @@ function renderTiles(s) {
     tile("Tanker transits", fmtInt(state.lastTanker), "of " + fmtInt(s.transits_count) + " total, " + s.transits_source, ""),
     tile("Stranded vessels", fmtInt(s.ships_stranded), "anchored or stopped in the Gulf", "up-bad"),
     tile("War-risk insurance", (s.insurance_multiple || "—") + "×", "multiple of peacetime premium", "up-bad"),
+    tile("Tankers gone dark", fmtInt(s.ais_dark_tankers), "AIS silent 3–24 h · 7-day baseline " + fmt(s.ais_dark_baseline_7d, 1), ""),
+    tile("Tehran rial (7-day)", (rial7 >= 0 ? "−" : "+") + fmt(Math.abs(rial7), 1) + "%", fmtInt(s.tehran_toman_per_usd) + " toman/USD · currency stress gauge", rial7 >= 0 ? "down-bad" : ""),
   );
+  if (gas?.nationalAvgUsd) t.append(tile("US retail gasoline", "$" + fmt(gas.nationalAvgUsd) + "/gal", "AAA national average", ""));
   const chip = $("verdict-chip");
   const closed = s.verdict_status === "closed";
   chip.className = "chip " + (closed ? "closed" : "open");
@@ -532,6 +577,45 @@ function renderBuffers(sprRes, cushRes, pipeRes) {
   }
 }
 
+/* ---------- daily brief & prediction markets ---------- */
+function renderBrief(res) {
+  const b = res?.briefs?.[0];
+  if (!b) return;
+  $("brief-card").hidden = false;
+  $("brief-date").textContent = b.date + " · generated 12:00 UTC";
+  const ul = $("brief-bullets"); ul.replaceChildren();
+  for (const line of b.bullets || []) {
+    const li = document.createElement("li"); li.textContent = line; ul.append(li);
+  }
+  $("brief-summary").textContent = b.summary || "";
+  $("brief-summary").closest("details").hidden = !b.summary;
+}
+function renderMarkets(res) {
+  const list = (res?.markets || []).filter(m => m.probability != null)
+    .sort((a, b) => (b.volumeUsd || 0) - (a.volumeUsd || 0)).slice(0, 6);
+  if (!list.length) return;
+  $("markets-card").hidden = false;
+  $("markets-note").textContent = "market-implied odds · Polymarket & Kalshi · 15-min refresh";
+  const wrap = $("markets"); wrap.replaceChildren();
+  for (const m of list) {
+    const row = document.createElement("div"); row.className = "mkt-row";
+    const prob = document.createElement("span"); prob.className = "mkt-prob";
+    prob.textContent = Math.round(m.probability * 100) + "%";
+    const track = document.createElement("div"); track.className = "mkt-track";
+    const bar = document.createElement("div"); bar.className = "mkt-bar";
+    bar.style.width = Math.max(1.5, m.probability * 100) + "%"; track.append(bar);
+    const body = document.createElement("div");
+    const title = document.createElement("div"); title.className = "mkt-title";
+    const a = document.createElement("a"); a.href = m.sourceUrl; a.target = "_blank"; a.rel = "noopener";
+    a.textContent = m.question || m.title; title.append(a);
+    const meta = document.createElement("div"); meta.className = "mkt-meta";
+    meta.textContent = m.venue + " · $" + fmt((m.volumeUsd || 0) / 1e6, 1) + "M volume · closes " +
+      new Date(m.closeAt).toLocaleDateString("en-GB", { month: "short", year: "numeric" });
+    body.append(title, meta);
+    row.append(prob, track, body); wrap.append(row);
+  }
+}
+
 /* ---------- strategic reserves & global impact ---------- */
 const RESERVES = [
   { c: "China",         mbbl: 1397, note: "incl. ~1,038M commercial at state oil cos · holding, not draining (Dec 2025 est.)" },
@@ -608,8 +692,11 @@ async function loadAll() {
     getJSON(API + "/api/v1/cushing"),
     getJSON(API + "/api/v1/pipelines"),
     getJSON(API + "/api/v1/trade-impact"),
+    getJSON(API + "/api/v1/briefs"),
+    getJSON(API + "/api/v1/markets"),
+    getJSON(API + "/api/v1/gas"),
   ]);
-  const [oil, transits, events, status, live, spr, cushing, pipelines, impact] = results.map(r => r.status === "fulfilled" ? r.value : null);
+  const [oil, transits, events, status, live, spr, cushing, pipelines, impact, briefs, markets, gas] = results.map(r => r.status === "fulfilled" ? r.value : null);
   if (oil) state.oil = oil.map(r => ({ t: Date.parse(r.timestamp_iso), brent: +r.brent_usd, wti: +r.wti_usd })).filter(p => p.brent > 0).sort((a, b) => a.t - b.t);
   if (transits) state.transits = transits.map(r => ({ t: Date.parse(r.date), tanker: +r.n_tanker, other: Math.max(0, (+r.n_total) - (+r.n_tanker)) })).sort((a, b) => a.t - b.t);
   if (events) state.events = events.events || [];
@@ -618,9 +705,11 @@ async function loadAll() {
     state.lastTanker = live.dailyTransits?.nTanker;
     renderMeters(live.hormuzIndex);
   }
-  if (status && status[0]) renderTiles(status[0]);
+  if (status && status[0]) renderTiles(status[0], gas);
   renderBuffers(spr, cushing, pipelines);
   renderReserves(spr, impact);
+  renderBrief(briefs);
+  renderMarkets(markets);
   const failed = results.filter(r => r.status === "rejected").length;
   if (failed) $("err").textContent = " ⚠ " + failed + " feed(s) failed to load — will retry on next refresh.";
   renderOilChart(); renderTransitsChart(); renderEvents();
