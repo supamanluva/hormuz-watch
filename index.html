@@ -146,6 +146,12 @@
   .more-btn { margin-top: 10px; font: 600 12px system-ui, sans-serif; color: var(--text-secondary);
     background: transparent; border: 1px solid var(--border); border-radius: 8px; padding: 5px 12px; cursor: pointer; }
 
+  .car-row { display: grid; grid-template-columns: 110px 120px 1fr; gap: 12px; align-items: baseline; padding: 7px 0; border-bottom: 1px solid var(--grid); }
+  .car-row:last-child { border-bottom: 0; }
+  .car-name { font-weight: 650; }
+  .car-status { font-size: 12px; font-weight: 600; color: var(--text-secondary); white-space: nowrap; }
+  .car-detail { color: var(--muted); font-size: 12px; }
+
   .brief { margin: 6px 0 4px; padding-left: 20px; }
   .brief li { margin-bottom: 6px; }
   .brief-full { color: var(--text-secondary); font-size: 13px; margin-top: 8px; }
@@ -196,6 +202,21 @@
     </div>
     <ul class="brief" id="brief-bullets"></ul>
     <details class="brief-full"><summary>Full brief</summary><p id="brief-summary"></p></details>
+  </section>
+
+  <section class="card" id="live-card">
+    <div class="card-head">
+      <h2>In the strait right now — hourly AIS</h2>
+      <span class="note">concurrent vessels inside the strait zone; not the same as completed daily crossings below</span>
+      <button class="tbl-btn" data-target="live-card">Table view</button>
+    </div>
+    <div class="tiles" id="live-tiles" style="margin-bottom:12px"></div>
+    <div class="legend">
+      <span class="key"><span class="line-key" style="background:var(--series-1)"></span>Vessels in transit</span>
+      <span class="key"><span class="line-key" style="background:var(--series-2)"></span>Stranded (anchored / stopped)</span>
+    </div>
+    <div class="chart-box" id="live-chart"></div>
+    <table class="dataview" id="live-table"></table>
   </section>
 
   <div class="filters" id="range-filters" role="group" aria-label="Date range">
@@ -259,6 +280,14 @@
       <span class="note" id="markets-note"></span>
     </div>
     <div id="markets"></div>
+  </section>
+
+  <section class="card" id="carriers-card" hidden>
+    <div class="card-head">
+      <h2>Container carrier posture</h2>
+      <span class="note" id="carriers-note"></span>
+    </div>
+    <div id="carriers"></div>
   </section>
 
   <section class="card" id="events-card">
@@ -577,6 +606,95 @@ function renderBuffers(sprRes, cushRes, pipeRes) {
   }
 }
 
+/* ---------- live strait activity (hourly AIS) ---------- */
+function renderLiveActivity(tbt, str, snap) {
+  const box = $("live-chart"); box.replaceChildren();
+  const sm = new Map((str?.points || []).map(p => [p.t, p.stranded]));
+  const pts = (tbt?.points || [])
+    .map(p => ({ t: p.t, transit: p.total, tanker: p.tanker, military: p.military, stranded: sm.get(p.t) ?? null }))
+    .filter(p => p.transit != null).sort((a, b) => a.t - b.t);
+  if (pts.length < 2) { box.textContent = "Hourly AIS feed unavailable."; return; }
+  const last = pts[pts.length - 1];
+
+  const lt = $("live-tiles"); lt.replaceChildren();
+  lt.append(
+    tile("In transit now", fmtInt(last.transit), fmtInt(last.tanker) + " of them tankers", ""),
+    tile("Stranded now", fmtInt(last.stranded), "anchored or stopped in the Gulf", "up-bad"),
+    tile("Military vessels in zone", fmtInt(last.military), "AIS-broadcasting only", ""),
+  );
+  if (snap?.hormuz?.arrivals24hTotal != null)
+    lt.append(tile("Port arrivals, last 24 h", fmtInt(snap.hormuz.arrivals24hTotal),
+      "across " + snap.hormuz.portsContributing + " Gulf ports (Fujairah, Bandar Abbas, Jebel Ali…)", ""));
+
+  const W = Math.max(560, box.clientWidth || 900), H = 240;
+  const svg = svgEl("svg", { viewBox: "0 0 " + W + " " + H, width: "100%", role: "img", "aria-label": "Hourly vessels in transit and stranded, last 7 days" });
+  const vals = pts.flatMap(p => [p.transit, p.stranded]).filter(v => v != null);
+  const yMax = Math.ceil(Math.max(...vals) / 100) * 100 + 50;
+  const { plotW, plotH, y } = frame(svg, W, H, 0, yMax, v => fmtInt(v));
+  const t0 = pts[0].t, t1 = pts[pts.length - 1].t;
+  const x = t => M.left + (t - t0) / (t1 - t0) * plotW;
+  for (const tv of niceTicks(t0, t1, 6)) {
+    const txt = svgEl("text", { x: x(tv), y: H - 8, "text-anchor": "middle" }); txt.textContent = dayFmt(tv); svg.append(txt);
+  }
+  const series = [["transit", "var(--series-1)", "in transit"], ["stranded", "var(--series-2)", "stranded"]];
+  for (const [key, color] of series) {
+    const seg = pts.filter(p => p[key] != null);
+    const line = seg.map((p, i) => (i ? "L" : "M") + x(p.t).toFixed(1) + " " + y(p[key]).toFixed(1)).join(" ");
+    svg.append(svgEl("path", { d: line, fill: "none", stroke: color, "stroke-width": 2, "stroke-linejoin": "round", "stroke-linecap": "round" }));
+    const end = seg[seg.length - 1];
+    svg.append(svgEl("circle", { cx: x(end.t), cy: y(end[key]), r: 4, fill: color, stroke: "var(--surface-1)", "stroke-width": 2 }));
+    const lbl = svgEl("text", { x: x(end.t) + 8, y: y(end[key]) + 4, class: "endlabel" });
+    lbl.textContent = fmtInt(end[key]); svg.append(lbl);
+  }
+  const cross = svgEl("line", { y1: M.top, y2: M.top + plotH, stroke: "var(--baseline)", "stroke-width": 1, visibility: "hidden" });
+  svg.append(cross);
+  const hit = svgEl("rect", { x: M.left, y: M.top, width: plotW, height: plotH, fill: "transparent" });
+  hit.addEventListener("pointermove", ev => {
+    const r = svg.getBoundingClientRect(), sx = W / r.width;
+    const tt = t0 + ((ev.clientX - r.left) * sx - M.left) / plotW * (t1 - t0);
+    let best = pts[0]; for (const p of pts) if (Math.abs(p.t - tt) < Math.abs(best.t - tt)) best = p;
+    const bx = x(best.t);
+    cross.setAttribute("x1", bx); cross.setAttribute("x2", bx); cross.setAttribute("visibility", "visible");
+    showTooltip(box, bx / sx, ev.clientY - r.top, timeFmt(best.t), [
+      { color: "var(--series-1)", value: fmtInt(best.transit), name: "in transit (" + fmtInt(best.tanker) + " tankers)" },
+      { color: "var(--series-2)", value: fmtInt(best.stranded), name: "stranded" },
+    ]);
+  });
+  hit.addEventListener("pointerleave", () => { cross.setAttribute("visibility", "hidden"); hideTooltip(); });
+  svg.append(hit);
+  box.append(svg);
+
+  renderTable($("live-table"), ["Hour", "In transit", "Tankers", "Stranded"],
+    pts.slice(-48).reverse().map(p => [timeFmt(p.t), fmtInt(p.transit), fmtInt(p.tanker), fmtInt(p.stranded)]));
+}
+
+/* ---------- carrier posture ---------- */
+function renderCarriers(res) {
+  const list = res?.carriers || [];
+  if (!list.length) return;
+  $("carriers-card").hidden = false;
+  const sev = { suspended: "var(--critical)", rerouting: "var(--serious)", limited: "var(--warning)", transiting: "var(--good)" };
+  const suspended = list.filter(c => c.status === "suspended").length;
+  const trapped = list.reduce((a, c) => a + (c.trappedTeu || 0), 0);
+  $("carriers-note").textContent = suspended + " of " + list.length + " suspended · " +
+    fmt(trapped / 1000, 0) + "k TEU trapped in the Gulf · ≥5 suspended ⇒ \"effectively closed\" verdict";
+  const wrap = $("carriers"); wrap.replaceChildren();
+  for (const c of list.sort((a, b) => a.rank - b.rank)) {
+    const row = document.createElement("div"); row.className = "car-row";
+    const name = document.createElement("span"); name.className = "car-name"; name.textContent = c.carrier;
+    const st = document.createElement("span"); st.className = "car-status";
+    const dot = document.createElement("span"); dot.textContent = "● ";
+    dot.style.color = sev[c.status] || "var(--muted)";
+    st.append(dot, document.createTextNode(c.status));
+    const det = document.createElement("span"); det.className = "car-detail";
+    const bits = [];
+    if (c.surchargeUsdPerTeu) bits.push("$" + fmtInt(c.surchargeUsdPerTeu) + "/TEU surcharge");
+    if (c.vesselsTrapped) bits.push(c.vesselsTrapped + " ships / " + fmt((c.trappedTeu || 0) / 1000, 0) + "k TEU trapped");
+    det.textContent = bits.join(" · ") || (c.notes || "").slice(0, 90);
+    row.append(name, st, det); wrap.append(row);
+  }
+}
+
 /* ---------- daily brief & prediction markets ---------- */
 function renderBrief(res) {
   const b = res?.briefs?.[0];
@@ -695,8 +813,12 @@ async function loadAll() {
     getJSON(API + "/api/v1/briefs"),
     getJSON(API + "/api/v1/markets"),
     getJSON(API + "/api/v1/gas"),
+    getJSON(API + "/api/v1/transits-by-type"),
+    getJSON(API + "/api/v1/stranded"),
+    getJSON(API + "/api/v1/hormuz-snapshot"),
+    getJSON(API + "/api/v1/carriers"),
   ]);
-  const [oil, transits, events, status, live, spr, cushing, pipelines, impact, briefs, markets, gas] = results.map(r => r.status === "fulfilled" ? r.value : null);
+  const [oil, transits, events, status, live, spr, cushing, pipelines, impact, briefs, markets, gas, tbt, strandedH, snapshot, carriers] = results.map(r => r.status === "fulfilled" ? r.value : null);
   if (oil) state.oil = oil.map(r => ({ t: Date.parse(r.timestamp_iso), brent: +r.brent_usd, wti: +r.wti_usd })).filter(p => p.brent > 0).sort((a, b) => a.t - b.t);
   if (transits) state.transits = transits.map(r => ({ t: Date.parse(r.date), tanker: +r.n_tanker, other: Math.max(0, (+r.n_total) - (+r.n_tanker)) })).sort((a, b) => a.t - b.t);
   if (events) state.events = events.events || [];
@@ -710,6 +832,8 @@ async function loadAll() {
   renderReserves(spr, impact);
   renderBrief(briefs);
   renderMarkets(markets);
+  renderLiveActivity(tbt, strandedH, snapshot);
+  renderCarriers(carriers);
   const failed = results.filter(r => r.status === "rejected").length;
   if (failed) $("err").textContent = " ⚠ " + failed + " feed(s) failed to load — will retry on next refresh.";
   renderOilChart(); renderTransitsChart(); renderEvents();
