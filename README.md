@@ -1,6 +1,8 @@
 # Hormuz Watch
 
-Local dashboard tracking oil prices and shipping through the Strait of Hormuz
+**Live at: https://supamanluva.github.io/hormuz-watch/**
+
+Dashboard tracking oil prices and shipping through the Strait of Hormuz
 during the 2026 US/Israel–Iran war. Roughly 20% of global oil transits the
 strait; it has been effectively closed to commercial shipping since 2026-02-28.
 
@@ -14,8 +16,14 @@ strait; it has been effectively closed to commercial shipping since 2026-02-28.
 - **Oil price chart** — Brent + WTI intraday history (Yahoo Finance / EIA)
 - **Daily transits chart** — tankers vs other cargo per day (IMF PortWatch),
   with the pre-crisis median as a reference line
+- **Supply buffers** — US Strategic Petroleum Reserve & Cushing stocks
+  (EIA weekly) and Hormuz-bypass pipeline utilization
 - **Events feed** — strikes, ship attacks, closure/negotiation news
   (GDELT + curated, 15-min refresh)
+
+All data is fetched by the visitor's browser straight from the CORS-open
+straits.live API, so the published page is always current — no backend,
+no rebuilds.
 
 ## Run it
 
