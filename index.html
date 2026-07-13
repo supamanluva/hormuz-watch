@@ -312,7 +312,10 @@
     <a href="https://portwatch.imf.org/pages/chokepoint6">IMF PortWatch</a> AIS transit counts,
     <a href="https://www.eia.gov/dnav/pet/pet_pri_spt_s1_d.htm">EIA</a> prices &amp; reserves,
     <a href="https://gasprices.aaa.com/state-gas-price-averages/">AAA</a> gas prices, GDELT news,
-    Polymarket/Kalshi). Tiles refresh every 60&nbsp;s, charts every 5&nbsp;min; transit counts publish with ~1&nbsp;week lag.</p>
+    Polymarket/Kalshi). Tiles refresh every 60&nbsp;s, charts every 5&nbsp;min; transit counts publish with ~1&nbsp;week lag.
+    Subscribe: <a href="https://straits.live/feed.xml">events RSS</a> ·
+    <a href="https://straits.live/status/feed.xml">status-change RSS</a> ·
+    <a href="https://github.com/supamanluva/hormuz-watch">source &amp; daily data archive on GitHub</a>.</p>
     <p style="margin:0"><b>Disclaimer:</b> informational dashboard built on free third-party public feeds —
     accuracy and freshness are not guaranteed, and nothing here is investment advice.
     Verify against primary sources before making trading decisions.
@@ -375,26 +378,40 @@ function renderTiles(s, gas) {
   chip.textContent = (closed ? "⛔ CLOSED" : "✅ OPEN") + " — day " + s.days_since_closure;
   $("updated").textContent = "updated " + timeFmt(s.as_of);
 }
-function meter(label, value, band, color) {
+function meter(label, value, band, color, spark) {
   const c = document.createElement("div"); c.className = "meter-card";
   const h = document.createElement("div"); h.className = "meter-head";
   const l = document.createElement("span"); l.textContent = label;
   const v = document.createElement("b"); v.textContent = value + " / 100 · " + band;
   h.append(l, v);
+  if (spark && spark.length > 2) {
+    const W = 260, H = 26, lo = Math.min(...spark), hi = Math.max(...spark);
+    const sx = i => i / (spark.length - 1) * (W - 8) + 2;
+    const sy = v => hi === lo ? H / 2 : 4 + (H - 8) * (1 - (v - lo) / (hi - lo));
+    const svg = svgEl("svg", { viewBox: "0 0 " + W + " " + H, width: "100%", height: H, preserveAspectRatio: "none", "aria-label": label + ", last 7 days" });
+    svg.append(svgEl("path", { d: spark.map((p, i) => (i ? "L" : "M") + sx(i).toFixed(1) + " " + sy(p).toFixed(1)).join(" "), fill: "none", stroke: "var(--muted)", "stroke-width": 1.5 }));
+    svg.append(svgEl("circle", { cx: sx(spark.length - 1), cy: sy(spark[spark.length - 1]), r: 3, fill: color, stroke: "var(--surface-1)", "stroke-width": 2 }));
+    svg.style.margin = "6px 0 2px"; c.append(h, svg);
+  } else c.append(h);
   const track = document.createElement("div"); track.className = "meter-track";
   track.style.background = "color-mix(in srgb, " + color + " 18%, var(--surface-1))";
   const fill = document.createElement("div"); fill.className = "meter-fill";
   fill.style.width = Math.min(100, value) + "%"; fill.style.background = color;
-  track.append(fill); c.append(h, track);
+  track.append(fill); c.append(track);
   return c;
 }
-function renderMeters(idx) {
+function renderMeters(idx, hist) {
   const m = $("meters"); m.replaceChildren();
   if (!idx) return;
   const sevColor = b => b === "extreme" ? "var(--critical)" : b === "high" ? "var(--serious)" : b === "elevated" ? "var(--warning)" : "var(--good)";
+  const spark = key => {
+    if (!hist?.length) return null;
+    const step = Math.max(1, Math.floor(hist.length / 28));
+    return hist.filter((_, i) => i % step === 0).map(r => +r[key]).filter(v => !isNaN(v));
+  };
   const cp = idx.crisisPressure, ep = idx.escalationProbability;
-  if (cp) m.append(meter("Crisis pressure index", cp.value, cp.band, sevColor(cp.band)));
-  if (ep) m.append(meter("Escalation probability", ep.value, ep.band, sevColor(ep.band)));
+  if (cp) m.append(meter("Crisis pressure index (7-day trend)", cp.value, cp.band, sevColor(cp.band), spark("crisis_pressure")));
+  if (ep) m.append(meter("Escalation probability (7-day trend)", ep.value, ep.band, sevColor(ep.band), spark("escalation_forecast")));
 }
 
 /* ---------- shared chart scaffolding ---------- */
@@ -435,6 +452,12 @@ function showTooltip(box, px, py, dateStr, rows) {
 const hideTooltip = () => $("tooltip").style.display = "none";
 
 /* ---------- oil line chart ---------- */
+const KEY_EVENTS = [
+  { d: "2026-02-28", label: "War begins, strait closes" },
+  { d: "2026-07-08", label: "Ceasefire collapses" },
+  { d: "2026-07-12", label: "IRGC declares closure, heaviest US strikes" },
+  { d: "2026-07-13", label: "US blockade + 20% fee" },
+];
 function renderOilChart() {
   const box = $("oil-chart"); box.replaceChildren();
   const cutoff = state.days ? Date.now() - state.days * 864e5 : 0;
@@ -464,6 +487,16 @@ function renderOilChart() {
     const lbl = svgEl("text", { x: x(last.t) + 8, y: y(last[key]) + 4, class: "endlabel" });
     lbl.textContent = "$" + fmt(last[key]); svg.append(lbl);
   }
+  KEY_EVENTS.forEach((e, i) => {
+    const t = Date.parse(e.d + "T12:00:00Z");
+    if (t < t0 || t > t1) return;
+    const ex = x(t), ly = M.top + 4 + (i % 2) * 12;
+    svg.append(svgEl("line", { x1: ex, x2: ex, y1: ly + 4, y2: M.top + plotH, stroke: "var(--baseline)", "stroke-width": 1 }));
+    svg.append(svgEl("circle", { cx: ex, cy: ly + 4, r: 2.5, fill: "var(--muted)" }));
+    const nearRight = ex > M.left + plotW * 0.75;
+    const lbl = svgEl("text", { x: ex + (nearRight ? -6 : 6), y: ly, "text-anchor": nearRight ? "end" : "start" });
+    lbl.textContent = e.label; svg.append(lbl);
+  });
   const cross = svgEl("line", { y1: M.top, y2: M.top + plotH, stroke: "var(--baseline)", "stroke-width": 1, visibility: "hidden" });
   svg.append(cross);
   const hit = svgEl("rect", { x: M.left, y: M.top, width: plotW, height: plotH, fill: "transparent" });
@@ -853,15 +886,16 @@ async function loadAll() {
     getJSON(API + "/api/v1/hormuz-snapshot"),
     getJSON(API + "/api/v1/carriers"),
     getJSON(API + "/api/v1/chokepoints"),
+    getCSV(API + "/data/hormuz-index.csv"),
   ]);
-  const [oil, transits, events, status, live, spr, cushing, pipelines, impact, briefs, markets, gas, tbt, strandedH, snapshot, carriers, chokepoints] = results.map(r => r.status === "fulfilled" ? r.value : null);
+  const [oil, transits, events, status, live, spr, cushing, pipelines, impact, briefs, markets, gas, tbt, strandedH, snapshot, carriers, chokepoints, idxHist] = results.map(r => r.status === "fulfilled" ? r.value : null);
   if (oil) state.oil = oil.map(r => ({ t: Date.parse(r.timestamp_iso), brent: +r.brent_usd, wti: +r.wti_usd })).filter(p => p.brent > 0).sort((a, b) => a.t - b.t);
   if (transits) state.transits = transits.map(r => ({ t: Date.parse(r.date), tanker: +r.n_tanker, other: Math.max(0, (+r.n_total) - (+r.n_tanker)) })).sort((a, b) => a.t - b.t);
   if (events) state.events = events.events || [];
   if (live) {
     state.preCrisisBaseline = live.transits?.baseline || 88;
     state.lastTanker = live.dailyTransits?.nTanker;
-    renderMeters(live.hormuzIndex);
+    renderMeters(live.hormuzIndex, idxHist);
   }
   if (status && status[0]) renderTiles(status[0], gas);
   renderBuffers(spr, cushing, pipelines);
