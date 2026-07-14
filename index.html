@@ -538,6 +538,12 @@ function renderTransitsChart() {
   const cutoff = state.days ? Date.now() - state.days * 864e5 : 0;
   let rows = state.transits.filter(r => r.t >= cutoff);
   let note = "";
+  if (!rows.length && state.transits.length && state.days) {
+    /* PortWatch publishes with ~1 week lag; short windows can be empty — show latest available instead */
+    const lastT = state.transits[state.transits.length - 1].t;
+    rows = state.transits.filter(r => r.t >= lastT - state.days * 864e5);
+    note = "PortWatch lag exceeds this window — showing latest " + state.days + " days available · ";
+  }
   if (rows.length > 120) {  /* weekly means for long ranges */
     const wk = new Map();
     for (const r of rows) {
@@ -546,7 +552,7 @@ function renderTransitsChart() {
       a.tanker += r.tanker; a.other += r.other; a.n++; wk.set(w, a);
     }
     rows = [...wk.values()].map(a => ({ t: a.t, tanker: a.tanker / a.n, other: a.other / a.n, agg: true }));
-    note = "weekly averages · ";
+    note += "weekly averages · ";
   }
   if (!rows.length) { box.textContent = "No data in range."; return; }
   $("transit-note").textContent = note + "latest " + dayFmt(rows[rows.length - 1].t) + " (IMF PortWatch publishes with a few days' lag)";
