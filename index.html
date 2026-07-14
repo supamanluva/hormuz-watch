@@ -378,9 +378,9 @@ function renderTiles(s, gas) {
   t.append(
     tile("Brent crude", "$" + fmt(s.brent_usd), (ch >= 0 ? "▲ +" : "▼ ") + fmt(ch) + "% vs 24 h ago", ch >= 0 ? "up-bad" : "down-good"),
     tile("WTI crude", "$" + fmt(s.wti_usd)),
-    tile("Transits per day", fmtInt(s.transits_count), "vs " + fmtInt(s.transits_baseline) + "/day pre-crisis (" + s.transits_throughput_pct + "%)", "down-bad"),
-    tile("Tanker transits", fmtInt(state.lastTanker), "of " + fmtInt(s.transits_count) + " total, " + s.transits_source, ""),
-    tile("Stranded vessels", fmtInt(s.ships_stranded), "anchored or stopped in the Gulf", "up-bad"),
+    tile("Transits per day", fmtInt(s.transits_count), "vs " + fmtInt(s.transits_baseline) + "/day pre-crisis (" + s.transits_throughput_pct + "%) · " + (state.transitsAsOf || "PortWatch"), "down-bad"),
+    tile("Tanker transits", fmtInt(state.lastTanker), "of " + fmtInt(s.transits_count) + " total · " + (state.transitsAsOf || s.transits_source), ""),
+    tile("Stranded vessels", fmtInt(s.ships_stranded), "Gulf snapshot · hourly AIS card below may differ", "up-bad"),
     tile("War-risk insurance", (s.insurance_multiple || "—") + "×", "multiple of peacetime premium", "up-bad"),
     tile("Tankers gone dark", fmtInt(s.ais_dark_tankers), "AIS silent 3–24 h · 7-day baseline " + fmt(s.ais_dark_baseline_7d, 1), ""),
     tile("Tehran rial (7-day)", (rial7 >= 0 ? "−" : "+") + fmt(Math.abs(rial7), 1) + "%", fmtInt(s.tehran_toman_per_usd) + " toman/USD · currency stress gauge", rial7 >= 0 ? "down-bad" : ""),
@@ -830,7 +830,7 @@ function renderBrief(res) {
   const b = res?.briefs?.[0];
   if (!b) return;
   $("brief-card").hidden = false;
-  $("brief-date").textContent = b.date + " · generated 12:00 UTC";
+  $("brief-date").textContent = b.date;
   const ul = $("brief-bullets"); ul.replaceChildren();
   for (const line of b.bullets || []) {
     const li = document.createElement("li"); li.textContent = line; ul.append(li);
@@ -986,6 +986,7 @@ async function loadAll() {
   if (live) {
     state.preCrisisBaseline = live.transits?.baseline || 88;
     state.lastTanker = live.dailyTransits?.nTanker;
+    state.transitsAsOf = live.transits?.asOfDate;
     renderMeters(live.hormuzIndex, idxHist);
   }
   if (status && status[0]) renderTiles(status[0], gas);
