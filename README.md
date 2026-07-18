@@ -6,24 +6,54 @@ Dashboard tracking oil prices and shipping through the Strait of Hormuz
 during the 2026 US/Israel–Iran war. Roughly 20% of global oil transits the
 strait; it has been effectively closed to commercial shipping since 2026-02-28.
 
+![Hormuz Watch — dark theme](screenshots/desktop-dark.png)
+
+<details><summary>More screenshots (light theme, mobile)</summary>
+
+![Hormuz Watch — light theme](screenshots/desktop-light.png)
+![Hormuz Watch — mobile](screenshots/mobile-dark.png)
+
+</details>
+
 ## What it shows
 
-- **Verdict chip** — is the strait open or closed, and for how many days
-- **Stat tiles** — Brent & WTI price (24 h change), daily transits vs the
-  pre-crisis baseline of ~88 ships/day, tanker count, stranded vessels,
-  war-risk insurance multiple
-- **Crisis pressure / escalation meters** — straits.live Hormuz Index
-- **Oil price chart** — Brent + WTI intraday history (Yahoo Finance / EIA)
+- **Hero status banner** — is the strait open or closed, day counter since
+  closure, plus ring gauges for the straits.live crisis-pressure and
+  escalation-probability indices (with 7-day sparklines)
+- **Live stats ticker** — scrolling key figures across the top of the page
+- **Stat tiles with sparklines** — Brent & WTI price (24 h change, 7-day
+  trend), daily transits vs the pre-crisis baseline of ~88 ships/day, tanker
+  count, stranded vessels, war-risk insurance multiple, dark tankers,
+  Tehran rial, US gasoline
+- **Daily brief** — the day's key developments at a glance
+- **Live AIS card** — vessels in transit / stranded right now, hourly history
+- **Region map** — ports, chokepoints, bypass-pipeline terminals (Leaflet)
+- **Oil price chart** — Brent + WTI intraday history (Yahoo Finance / EIA),
+  annotated with key war events
 - **Daily transits chart** — tankers vs other cargo per day (IMF PortWatch),
   with the pre-crisis median as a reference line
+- **Global chokepoints** — where the rerouted traffic went
 - **Supply buffers** — US Strategic Petroleum Reserve & Cushing stocks
   (EIA weekly) and Hormuz-bypass pipeline utilization
+- **Strategic reserves** — major holders compared, with trade-impact tiles
+- **Prediction markets** — Polymarket/Kalshi odds on war outcomes
+- **Container carrier posture** — who suspended, who's rerouting, TEU trapped
 - **Events feed** — strikes, ship attacks, closure/negotiation news
-  (GDELT + curated, 15-min refresh)
+  (GDELT + curated, 15-min refresh), filterable by severity
 
 All data is fetched by the visitor's browser straight from the CORS-open
 straits.live API, so the published page is always current — no backend,
 no rebuilds.
+
+## Design & UX
+
+- Dark-first "war room" theme with a light/dark toggle (persisted in
+  `localStorage`), Archivo/Inter typography, custom SVG charts (no chart
+  library), and a Leaflet map whose tiles follow the theme
+- Sticky section nav with scroll-spy, auto-refresh countdown, manual refresh
+  button, back-to-top button, and a "copy status summary" button
+- Fully responsive: 2-column tiles, horizontally scrolling nav and tables on
+  phones; honors `prefers-reduced-motion`
 
 ## Run it
 
@@ -33,8 +63,9 @@ python3 -m http.server 8181
 # open http://localhost:8181
 ```
 
-Tiles refresh every 60 s, charts every 5 min. Time-range buttons (7/30/90
-days/All) scope both charts; each chart has a table view.
+Tiles refresh every 60 s, charts every 5 min (polling pauses in hidden tabs).
+Time-range buttons (7/30/90 days/All) scope both charts; each chart has a
+table view.
 
 ## Data source
 

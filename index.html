@@ -1,220 +1,502 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" data-theme="dark">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Hormuz Watch — Oil &amp; Shipping Monitor</title>
+<title>Hormuz Watch — Live Oil &amp; Shipping Monitor</title>
 <meta name="description" content="Live dashboard: oil prices, tanker transits, strategic reserves and conflict events for the Strait of Hormuz crisis. Data from IMF PortWatch, EIA, GDELT and prediction markets.">
 <meta property="og:title" content="Hormuz Watch — live oil &amp; Strait of Hormuz monitor">
 <meta property="og:description" content="Brent/WTI, daily ship transits, SPR runway countdown, reserves and war events — updated live.">
-<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🛢️</text></svg>">
+<meta property="og:type" content="website">
+<meta name="theme-color" content="#070b12">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'><rect width='64' height='64' rx='14' fill='%230d1420'/><path d='M32 11c8.5 10.5 15 18 15 26.5a15 15 0 1 1-30 0C17 29 23.5 21.5 32 11z' fill='%23f5a623'/><circle cx='32' cy='40' r='4' fill='%230d1420'/></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@600;700;800;900&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <style>
+  /* ---------- design tokens ---------- */
   :root {
-    --surface-1: #fcfcfb;
-    --page: #f9f9f7;
-    --text-primary: #0b0b0b;
-    --text-secondary: #52514e;
-    --muted: #898781;
-    --grid: #e1e0d9;
-    --baseline: #c3c2b7;
-    --border: rgba(11,11,11,0.10);
-    --series-1: #2a78d6;   /* Brent / tankers */
-    --series-2: #1baf7a;   /* WTI / other vessels */
+    --font-display: "Archivo", system-ui, -apple-system, "Segoe UI", sans-serif;
+    --font-body: "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
+    --font-mono: ui-monospace, "SF Mono", "Cascadia Code", Menlo, Consolas, monospace;
+    --radius: 16px;
+    --nav-h: 54px;
+  }
+  [data-theme="dark"] {
+    color-scheme: dark;
+    --bg: #070b12;
+    --bg-glow-1: radial-gradient(1000px 520px at 85% -8%, rgba(245,166,35,0.07), transparent 60%);
+    --bg-glow-2: radial-gradient(800px 520px at -12% 18%, rgba(77,163,255,0.06), transparent 55%);
+    --surface: #0d1420;
+    --surface-2: #111a29;
+    --surface-3: #182335;
+    --border: rgba(148,163,184,0.13);
+    --border-strong: rgba(148,163,184,0.28);
+    --text: #e9eef6;
+    --text-2: #9fb0c3;
+    --muted: #68798e;
+    --grid: rgba(148,163,184,0.12);
+    --baseline: rgba(148,163,184,0.32);
+    --accent: #f5a623;
+    --accent-soft: rgba(245,166,35,0.12);
+    --series-1: #4da3ff;
+    --series-2: #2dd4a7;
+    --good: #34d399;
+    --good-text: #4ade80;
+    --warning: #fbbf24;
+    --serious: #fb923c;
+    --critical: #f43f5e;
+    --critical-text: #ff6b81;
+    --critical-soft: rgba(244,63,94,0.10);
+    --purple: #a78bfa;
+    --card-shadow: 0 14px 34px rgba(0,0,0,0.34);
+    --tooltip-shadow: 0 10px 30px rgba(0,0,0,0.5);
+  }
+  [data-theme="light"] {
+    color-scheme: light;
+    --bg: #edf0f5;
+    --bg-glow-1: radial-gradient(1000px 520px at 85% -8%, rgba(217,135,8,0.07), transparent 60%);
+    --bg-glow-2: radial-gradient(800px 520px at -12% 18%, rgba(31,111,214,0.06), transparent 55%);
+    --surface: #ffffff;
+    --surface-2: #f6f8fb;
+    --surface-3: #e9edf3;
+    --border: rgba(15,23,42,0.10);
+    --border-strong: rgba(15,23,42,0.24);
+    --text: #0d1522;
+    --text-2: #455163;
+    --muted: #7d8898;
+    --grid: rgba(15,23,42,0.08);
+    --baseline: rgba(15,23,42,0.26);
+    --accent: #c77a06;
+    --accent-soft: rgba(217,135,8,0.10);
+    --series-1: #1f6fd6;
+    --series-2: #0d9d74;
     --good: #0ca30c;
-    --good-text: #006300;
-    --warning: #fab219;
-    --serious: #ec835a;
-    --critical: #d03b3b;
-    --critical-text: #b02f2f;
+    --good-text: #047857;
+    --warning: #b45309;
+    --serious: #ea6a3c;
+    --critical: #dc2645;
+    --critical-text: #c22140;
+    --critical-soft: rgba(220,38,69,0.07);
+    --purple: #7c5cd6;
+    --card-shadow: 0 1px 2px rgba(15,23,42,0.05), 0 10px 26px rgba(15,23,42,0.07);
+    --tooltip-shadow: 0 10px 30px rgba(15,23,42,0.18);
   }
-  @media (prefers-color-scheme: dark) {
-    :root {
-      --surface-1: #1a1a19;
-      --page: #0d0d0d;
-      --text-primary: #ffffff;
-      --text-secondary: #c3c2b7;
-      --muted: #898781;
-      --grid: #2c2c2a;
-      --baseline: #383835;
-      --border: rgba(255,255,255,0.10);
-      --series-1: #3987e5;
-      --series-2: #199e70;
-      --good-text: #0ca30c;
-      --critical-text: #e66767;
-    }
-  }
+
+  /* ---------- base ---------- */
   * { box-sizing: border-box; }
+  html { scroll-behavior: smooth; }
   body {
     margin: 0;
-    background: var(--page);
-    color: var(--text-primary);
-    font: 14px/1.5 system-ui, -apple-system, "Segoe UI", sans-serif;
+    background: var(--bg);
+    background-image: var(--bg-glow-1), var(--bg-glow-2);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    color: var(--text);
+    font: 14px/1.55 var(--font-body);
+    -webkit-font-smoothing: antialiased;
   }
-  .wrap { max-width: 1080px; margin: 0 auto; padding: 24px 20px 48px; }
+  a { color: var(--series-1); }
+  a:hover { text-decoration: none; }
+  button { font-family: inherit; }
+  :focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 6px; }
+  .wrap { max-width: 1180px; margin: 0 auto; padding: 0 20px; }
 
-  header { display: flex; flex-wrap: wrap; align-items: baseline; gap: 12px; margin-bottom: 4px; }
-  header h1 { font-size: 22px; font-weight: 650; margin: 0; }
-  .updated { color: var(--muted); font-size: 12px; margin-left: auto; }
-  .subtitle { color: var(--text-secondary); margin: 0 0 20px; font-size: 13px; }
-
-  .chip {
-    display: inline-flex; align-items: center; gap: 6px;
-    padding: 3px 10px; border-radius: 999px; font-weight: 600; font-size: 13px;
-    border: 1px solid var(--border);
+  /* ---------- ticker ---------- */
+  .ticker { border-bottom: 1px solid var(--border); background: color-mix(in srgb, var(--surface) 88%, transparent); overflow: hidden; }
+  .ticker-track { display: flex; width: max-content; animation: ticker 70s linear infinite; }
+  .ticker:hover .ticker-track { animation-play-state: paused; }
+  @keyframes ticker { to { transform: translateX(-50%); } }
+  .tick-item {
+    display: inline-flex; align-items: center; gap: 8px; padding: 8px 20px;
+    font: 500 12px var(--font-mono); color: var(--text-2); white-space: nowrap;
+    border-right: 1px solid var(--border);
   }
-  .chip.closed { color: var(--critical-text); }
-  .chip.open   { color: var(--good-text); }
+  .tick-item b { color: var(--text); font-weight: 650; }
+  .tick-item .up-bad, .tick-item .down-bad { color: var(--critical-text); }
+  .tick-item .up-good, .tick-item .down-good { color: var(--good-text); }
+  .tick-sep { color: var(--accent); }
 
-  .tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 12px; margin-bottom: 12px; }
+  /* ---------- header ---------- */
+  .site-header { max-width: 1180px; margin: 0 auto; padding: 18px 20px 14px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap; }
+  .brand { display: flex; align-items: center; gap: 12px; text-decoration: none; color: inherit; }
+  .logo { width: 40px; height: 40px; border-radius: 11px; flex: none;
+    background: linear-gradient(140deg, #f5a623 0%, #ef6a32 55%, #f43f5e 100%);
+    display: grid; place-items: center; box-shadow: 0 4px 14px rgba(244,63,94,0.35); }
+  .wordmark { font: 800 19px/1.1 var(--font-display); letter-spacing: 0.02em; }
+  .wordmark small { display: block; font: 500 11px var(--font-body); color: var(--muted); letter-spacing: 0.06em; margin-top: 2px; }
+  .header-actions { margin-left: auto; display: flex; align-items: center; gap: 8px; }
+  .refresh-label { font: 500 11px var(--font-mono); color: var(--muted); margin-right: 2px; }
+  .icon-btn {
+    display: inline-flex; align-items: center; justify-content: center; gap: 7px;
+    height: 38px; min-width: 38px; padding: 0 10px; border-radius: 10px;
+    background: var(--surface); border: 1px solid var(--border); color: var(--text-2);
+    cursor: pointer; font: 600 12px var(--font-body); text-decoration: none;
+    transition: border-color 0.2s, color 0.2s, background 0.2s;
+  }
+  .icon-btn:hover { border-color: var(--border-strong); color: var(--text); }
+  .icon-btn svg { width: 16px; height: 16px; flex: none; }
+  .icon-btn.spinning svg { animation: spin 0.9s linear infinite; }
+  @keyframes spin { to { transform: rotate(360deg); } }
+
+  /* ---------- hero ---------- */
+  .hero { max-width: 1180px; margin: 4px auto 18px; padding: 0 20px; }
+  .hero-inner {
+    position: relative; overflow: hidden;
+    background: linear-gradient(160deg, var(--surface-2), var(--surface) 55%);
+    border: 1px solid var(--border); border-radius: 22px;
+    box-shadow: var(--card-shadow);
+    padding: 30px 32px; display: grid; grid-template-columns: 1.25fr 0.75fr; gap: 28px; align-items: center;
+  }
+  .hero-inner::before {
+    content: ""; position: absolute; inset: 0; pointer-events: none;
+    background: radial-gradient(600px 300px at 12% 0%, var(--critical-soft), transparent 65%);
+  }
+  .hero-inner.open::before { background: radial-gradient(600px 300px at 12% 0%, color-mix(in srgb, var(--good) 10%, transparent), transparent 65%); }
+  .eyebrow { font: 700 11px var(--font-body); letter-spacing: 0.22em; text-transform: uppercase; color: var(--muted); display: flex; align-items: center; gap: 8px; }
+  .pulse-dot { width: 9px; height: 9px; border-radius: 50%; background: var(--critical); position: relative; flex: none; }
+  .pulse-dot::after { content: ""; position: absolute; inset: -4px; border-radius: 50%; border: 2px solid var(--critical); animation: pulse 1.8s ease-out infinite; }
+  .pulse-dot.open { background: var(--good); } .pulse-dot.open::after { border-color: var(--good); }
+  @keyframes pulse { 0% { transform: scale(0.5); opacity: 1; } 100% { transform: scale(1.6); opacity: 0; } }
+  .status-word {
+    font: 900 clamp(54px, 8.5vw, 92px)/0.98 var(--font-display);
+    letter-spacing: -0.015em; text-transform: uppercase; margin: 10px 0 6px;
+    color: var(--critical-text); text-shadow: 0 0 42px color-mix(in srgb, var(--critical) 40%, transparent);
+  }
+  .status-word.open { color: var(--good-text); text-shadow: 0 0 42px color-mix(in srgb, var(--good) 35%, transparent); }
+  .hero-sub { color: var(--text-2); font-size: 14px; max-width: 52ch; margin: 0 0 14px; }
+  .hero-meta { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+  .day-pill {
+    display: inline-flex; align-items: baseline; gap: 7px; padding: 6px 14px; border-radius: 999px;
+    background: var(--critical-soft); border: 1px solid color-mix(in srgb, var(--critical) 40%, var(--border));
+    font: 700 13px var(--font-body); color: var(--critical-text);
+  }
+  .day-pill b { font: 800 20px var(--font-display); font-variant-numeric: tabular-nums; }
+  .day-pill.open { background: color-mix(in srgb, var(--good) 12%, transparent); border-color: color-mix(in srgb, var(--good) 40%, var(--border)); color: var(--good-text); }
+  .hero-chip { font: 500 12px var(--font-body); color: var(--muted); padding: 6px 12px; border: 1px solid var(--border); border-radius: 999px; }
+
+  /* gauges */
+  .gauges { display: flex; gap: 18px; justify-content: flex-end; }
+  .gauge {
+    background: color-mix(in srgb, var(--surface) 70%, transparent);
+    border: 1px solid var(--border); border-radius: 16px; padding: 14px 16px 12px;
+    text-align: center; min-width: 150px; flex: 1; max-width: 190px;
+  }
+  .gauge svg { display: block; margin: 0 auto; }
+  .gauge .g-val { font: 800 26px var(--font-display); font-variant-numeric: tabular-nums; }
+  .gauge .g-of { font: 500 11px var(--font-mono); color: var(--muted); }
+  .gauge .g-band { display: inline-block; margin-top: 6px; padding: 2px 10px; border-radius: 999px; font: 700 10.5px var(--font-body); letter-spacing: 0.1em; text-transform: uppercase; }
+  .gauge .g-name { font: 600 11.5px var(--font-body); color: var(--text-2); margin-top: 8px; }
+  .gauge .g-delta { font: 500 11px var(--font-mono); color: var(--muted); margin-top: 2px; }
+  .gauge .g-spark { margin-top: 8px; }
+
+  /* ---------- sticky nav ---------- */
+  .nav { position: sticky; top: 0; z-index: 60; background: color-mix(in srgb, var(--bg) 84%, transparent); backdrop-filter: blur(14px); -webkit-backdrop-filter: blur(14px); border-block: 1px solid var(--border); }
+  .nav-inner { max-width: 1180px; margin: 0 auto; padding: 9px 20px; display: flex; gap: 6px; overflow-x: auto; scrollbar-width: none; }
+  .nav-inner::-webkit-scrollbar { display: none; }
+  .nav a {
+    padding: 6px 13px; border-radius: 999px; color: var(--text-2); text-decoration: none;
+    font: 600 12.5px var(--font-body); white-space: nowrap; transition: background 0.2s, color 0.2s;
+  }
+  .nav a:hover { color: var(--text); background: var(--surface-2); }
+  .nav a.active { color: var(--text); background: var(--surface-3); box-shadow: inset 0 0 0 1px var(--border-strong); }
+
+  /* ---------- alert bar ---------- */
+  .alert { max-width: 1180px; margin: 14px auto 0; padding: 0 20px; }
+  .alert-inner {
+    padding: 10px 16px; border-radius: 12px; font-size: 12.5px; font-weight: 500;
+    background: color-mix(in srgb, var(--warning) 12%, var(--surface));
+    border: 1px solid color-mix(in srgb, var(--warning) 38%, var(--border));
+    color: var(--warning);
+  }
+
+  /* ---------- cards & sections ---------- */
+  main.wrap { padding-top: 18px; padding-bottom: 40px; }
+  .card {
+    background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius);
+    padding: 18px 20px 14px; margin-bottom: 16px; box-shadow: var(--card-shadow);
+    scroll-margin-top: calc(var(--nav-h) + 16px);
+  }
+  .card.refreshing { opacity: 0.55; transition: opacity 0.3s; }
+  .card-head { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; margin-bottom: 6px; }
+  .card-head h2 { font: 700 15.5px var(--font-display); letter-spacing: 0.01em; margin: 0; }
+  .card-head .note { color: var(--muted); font-size: 12px; }
+  .card-head .spacer { margin-left: auto; display: flex; gap: 6px; align-items: center; }
+  .card.featured { border-color: color-mix(in srgb, var(--accent) 38%, var(--border));
+    background: linear-gradient(180deg, color-mix(in srgb, var(--accent) 7%, var(--surface)), var(--surface) 55%); }
+  .tbl-btn, .chip-btn {
+    font: 600 11px var(--font-body); color: var(--text-2); background: transparent;
+    border: 1px solid var(--border); border-radius: 8px; padding: 4px 10px; cursor: pointer;
+    transition: color 0.2s, border-color 0.2s, background 0.2s;
+  }
+  .tbl-btn:hover, .chip-btn:hover { color: var(--text); border-color: var(--border-strong); }
+  .chip-btn[aria-pressed="true"] { color: var(--text); background: var(--surface-3); border-color: var(--border-strong); }
+
+  /* ---------- stat tiles ---------- */
+  .tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(175px, 1fr)); gap: 12px; margin-bottom: 16px; scroll-margin-top: calc(var(--nav-h) + 16px); }
   .tile {
-    background: var(--surface-1); border: 1px solid var(--border); border-radius: 10px;
-    padding: 12px 14px;
+    background: var(--surface); border: 1px solid var(--border); border-radius: 14px;
+    padding: 13px 15px 11px; box-shadow: var(--card-shadow);
+    transition: border-color 0.2s, transform 0.2s;
   }
-  .tile .label { color: var(--text-secondary); font-size: 12px; }
-  .tile .value { font-size: 26px; font-weight: 600; margin-top: 2px; }
-  .tile .delta { font-size: 12px; margin-top: 2px; color: var(--text-secondary); }
+  .tile:hover { border-color: var(--border-strong); transform: translateY(-2px); }
+  .tile .label { font: 600 10.5px var(--font-body); text-transform: uppercase; letter-spacing: 0.09em; color: var(--muted); }
+  .tile .value { font: 800 25px/1.15 var(--font-display); font-variant-numeric: tabular-nums; margin-top: 4px; letter-spacing: -0.01em; }
+  .tile .delta { font: 500 11.5px var(--font-body); color: var(--text-2); margin-top: 3px; }
   .delta.up-bad, .delta.down-bad { color: var(--critical-text); }
   .delta.up-good, .delta.down-good { color: var(--good-text); }
+  .tile .spark { display: block; margin-top: 7px; }
 
-  .meters { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 12px; margin-bottom: 20px; }
-  .meter-card { background: var(--surface-1); border: 1px solid var(--border); border-radius: 10px; padding: 12px 14px; }
-  .meter-head { display: flex; justify-content: space-between; font-size: 12px; color: var(--text-secondary); }
-  .meter-head b { color: var(--text-primary); font-size: 14px; }
-  .meter-track { height: 6px; border-radius: 3px; margin-top: 8px; overflow: hidden; }
-  .meter-fill { height: 100%; border-radius: 3px; }
-
-  .filters { display: flex; gap: 6px; align-items: center; margin: 4px 0 12px; }
-  .filters .flabel { color: var(--muted); font-size: 12px; margin-right: 4px; }
+  /* ---------- filters ---------- */
+  .filters { display: flex; gap: 6px; align-items: center; margin: 2px 0 12px; flex-wrap: wrap; }
+  .filters .flabel { color: var(--muted); font: 600 11px var(--font-body); text-transform: uppercase; letter-spacing: 0.1em; margin-right: 4px; }
   .filters button {
-    font: 600 12px system-ui, sans-serif; color: var(--text-secondary);
-    background: transparent; border: 1px solid var(--border); border-radius: 8px;
-    padding: 4px 10px; cursor: pointer;
+    font: 600 12px var(--font-body); color: var(--text-2);
+    background: transparent; border: 1px solid var(--border); border-radius: 999px;
+    padding: 5px 14px; cursor: pointer; transition: all 0.2s;
   }
-  .filters button:hover { background: var(--surface-1); }
-  .filters button[aria-pressed="true"] { color: var(--text-primary); background: var(--surface-1); border-color: var(--baseline); }
+  .filters button:hover { color: var(--text); border-color: var(--border-strong); }
+  .filters button[aria-pressed="true"] { color: #fff; background: var(--series-1); border-color: var(--series-1); }
+  [data-theme="light"] .filters button[aria-pressed="true"] { color: #fff; }
 
-  .card {
-    background: var(--surface-1); border: 1px solid var(--border); border-radius: 12px;
-    padding: 16px 18px 12px; margin-bottom: 16px;
-  }
-  .card.refreshing { opacity: 0.6; }
-  .card-head { display: flex; align-items: baseline; gap: 10px; margin-bottom: 4px; }
-  .card-head h2 { font-size: 15px; font-weight: 650; margin: 0; }
-  .card-head .note { color: var(--muted); font-size: 12px; }
-  .card-head .tbl-btn {
-    margin-left: auto; font: 600 11px system-ui, sans-serif; color: var(--text-secondary);
-    background: transparent; border: 1px solid var(--border); border-radius: 6px; padding: 3px 8px; cursor: pointer;
-  }
-  .legend { display: flex; gap: 16px; font-size: 12px; color: var(--text-secondary); margin: 4px 0 6px; }
+  /* ---------- charts ---------- */
+  .legend { display: flex; gap: 16px; flex-wrap: wrap; font-size: 12px; color: var(--text-2); margin: 4px 0 8px; }
   .legend .key { display: inline-flex; align-items: center; gap: 6px; }
-  .legend .line-key  { width: 14px; height: 2px; border-radius: 1px; display: inline-block; }
-  .legend .rect-key  { width: 10px; height: 10px; border-radius: 3px; display: inline-block; }
-
+  .legend .line-key { width: 14px; height: 2px; border-radius: 1px; display: inline-block; }
+  .legend .rect-key { width: 10px; height: 10px; border-radius: 3px; display: inline-block; }
   .chart-box { position: relative; }
-  svg text { font: 11px system-ui, sans-serif; fill: var(--muted); font-variant-numeric: tabular-nums; }
-  svg .endlabel { font-weight: 600; fill: var(--text-secondary); font-variant-numeric: normal; }
-
+  svg text { font: 11px var(--font-body); fill: var(--muted); font-variant-numeric: tabular-nums; }
+  svg .endlabel { font-weight: 650; fill: var(--text-2); }
   .tooltip {
-    position: absolute; pointer-events: none; z-index: 5; display: none;
-    background: var(--surface-1); border: 1px solid var(--border); border-radius: 8px;
-    padding: 8px 10px; box-shadow: 0 4px 14px rgba(0,0,0,0.18); font-size: 12px; min-width: 130px;
+    position: absolute; pointer-events: none; z-index: 80; display: none;
+    background: var(--surface-2); border: 1px solid var(--border-strong); border-radius: 10px;
+    padding: 9px 12px; box-shadow: var(--tooltip-shadow); font-size: 12px; min-width: 140px;
   }
-  .tooltip .t-date { color: var(--muted); margin-bottom: 4px; }
-  .tooltip .t-row { display: flex; align-items: center; gap: 6px; }
+  .tooltip .t-date { color: var(--muted); margin-bottom: 5px; font: 600 11px var(--font-mono); }
+  .tooltip .t-row { display: flex; align-items: center; gap: 7px; padding: 1px 0; }
   .tooltip .t-key { width: 12px; height: 2px; border-radius: 1px; flex: none; }
-  .tooltip .t-val { font-weight: 650; color: var(--text-primary); }
-  .tooltip .t-name { color: var(--text-secondary); }
+  .tooltip .t-val { font-weight: 700; color: var(--text); font-variant-numeric: tabular-nums; }
+  .tooltip .t-name { color: var(--text-2); }
 
-  table.dataview { width: 100%; border-collapse: collapse; font-size: 12px; margin-top: 8px; display: none; }
-  table.dataview th, table.dataview td { text-align: right; padding: 4px 8px; border-bottom: 1px solid var(--grid); font-variant-numeric: tabular-nums; }
+  /* ---------- tables ---------- */
+  .tablewrap { display: none; overflow-x: auto; margin-top: 8px; }
+  table.dataview { width: 100%; border-collapse: collapse; font-size: 12px; min-width: 480px; }
+  table.dataview th, table.dataview td { text-align: right; padding: 6px 10px; border-bottom: 1px solid var(--grid); font-variant-numeric: tabular-nums; white-space: nowrap; }
   table.dataview th:first-child, table.dataview td:first-child { text-align: left; }
-  table.dataview th { color: var(--text-secondary); font-weight: 600; }
-  .tablemode table.dataview { display: table; }
+  table.dataview th { color: var(--text-2); font-weight: 600; position: sticky; top: 0; }
+  table.dataview tr:hover td { background: var(--surface-2); }
+  .tablemode .tablewrap { display: block; }
   .tablemode .chart-box, .tablemode .legend { display: none; }
 
+  /* ---------- events ---------- */
   .events { list-style: none; margin: 8px 0 0; padding: 0; }
-  .events li { display: flex; gap: 10px; padding: 8px 0; border-bottom: 1px solid var(--grid); align-items: baseline; }
+  .events li { display: flex; gap: 12px; padding: 10px 0; border-bottom: 1px solid var(--grid); align-items: baseline; }
   .events li:last-child { border-bottom: 0; }
-  .ev-sev { flex: none; font-size: 11px; font-weight: 700; width: 66px; }
-  .ev-sev.high   { color: var(--critical-text); }
+  .ev-sev { flex: none; font: 700 10px var(--font-body); letter-spacing: 0.08em; width: 74px; padding-top: 2px; }
+  .ev-sev.high { color: var(--critical-text); }
   .ev-sev.medium { color: var(--serious); }
-  .ev-sev.low    { color: var(--text-secondary); }
-  .ev-body { flex: 1; }
-  .ev-title { font-weight: 550; }
-  .ev-meta { color: var(--muted); font-size: 12px; }
-  .ev-meta a { color: var(--muted); }
-  .more-btn { margin-top: 10px; font: 600 12px system-ui, sans-serif; color: var(--text-secondary);
-    background: transparent; border: 1px solid var(--border); border-radius: 8px; padding: 5px 12px; cursor: pointer; }
+  .ev-sev.low { color: var(--text-2); }
+  .ev-body { flex: 1; min-width: 0; }
+  .ev-title { font-weight: 550; line-height: 1.45; }
+  .ev-meta { color: var(--muted); font-size: 12px; margin-top: 2px; }
+  .ev-meta a { color: var(--muted); text-decoration: underline; }
+  .more-btn { margin-top: 12px; font: 600 12px var(--font-body); color: var(--text-2);
+    background: transparent; border: 1px solid var(--border); border-radius: 999px; padding: 6px 16px; cursor: pointer; }
+  .more-btn:hover { color: var(--text); border-color: var(--border-strong); }
 
-  .leaflet-popup-content-wrapper, .leaflet-popup-tip { background: var(--surface-1); color: var(--text-primary); }
-  .leaflet-popup-content { margin: 10px 14px; line-height: 1.45; }
-  .leaflet-container { background: var(--page); font: inherit; }
+  /* ---------- map ---------- */
+  #map { height: 460px; border-radius: 12px; overflow: hidden; border: 1px solid var(--border); }
+  .leaflet-popup-content-wrapper, .leaflet-popup-tip { background: var(--surface-2); color: var(--text); border: 1px solid var(--border-strong); }
+  .leaflet-popup-content { margin: 10px 14px; line-height: 1.45; font: 13px var(--font-body); }
+  .leaflet-container { background: var(--bg); font: inherit; }
+  .leaflet-control-zoom a { background: var(--surface-2) !important; color: var(--text) !important; border-color: var(--border) !important; }
+  .leaflet-control-attribution { background: color-mix(in srgb, var(--surface) 80%, transparent) !important; color: var(--muted) !important; }
+  .leaflet-control-attribution a { color: var(--text-2) !important; }
 
-  .car-row { display: grid; grid-template-columns: 110px 120px 1fr; gap: 12px; align-items: baseline; padding: 7px 0; border-bottom: 1px solid var(--grid); }
+  /* ---------- rows (carriers / markets / reserves / chokepoints) ---------- */
+  .car-row { display: grid; grid-template-columns: 130px 120px 1fr; gap: 12px; align-items: baseline; padding: 8px 0; border-bottom: 1px solid var(--grid); }
   .car-row:last-child { border-bottom: 0; }
   .car-name { font-weight: 650; }
-  .car-status { font-size: 12px; font-weight: 600; color: var(--text-secondary); white-space: nowrap; }
+  .car-status { font-size: 12px; font-weight: 600; color: var(--text-2); white-space: nowrap; text-transform: capitalize; }
   .car-detail { color: var(--muted); font-size: 12px; }
 
-  .brief { margin: 6px 0 4px; padding-left: 20px; }
-  .brief li { margin-bottom: 6px; }
-  .brief-full { color: var(--text-secondary); font-size: 13px; margin-top: 8px; }
-  .brief-full summary { cursor: pointer; color: var(--muted); font-size: 12px; font-weight: 600; }
-  .brief-full p { margin: 8px 0 0; }
-
-  .mkt-row { display: grid; grid-template-columns: 64px 110px 1fr; gap: 12px; align-items: center; padding: 8px 0; border-bottom: 1px solid var(--grid); }
+  .mkt-row { display: grid; grid-template-columns: 58px 110px 1fr; gap: 12px; align-items: center; padding: 9px 0; border-bottom: 1px solid var(--grid); }
   .mkt-row:last-child { border-bottom: 0; }
-  .mkt-prob { font-size: 17px; font-weight: 650; text-align: right; }
-  .mkt-track { height: 6px; border-radius: 3px; background: color-mix(in srgb, var(--series-1) 15%, var(--surface-1)); overflow: hidden; }
-  .mkt-bar { height: 100%; border-radius: 3px; background: var(--series-1); }
-  .mkt-title { font-weight: 550; }
-  .mkt-title a { color: var(--text-primary); text-decoration: none; }
+  .mkt-prob { font: 800 17px var(--font-display); text-align: right; font-variant-numeric: tabular-nums; }
+  .mkt-track { height: 6px; border-radius: 3px; background: color-mix(in srgb, var(--series-1) 15%, var(--surface)); overflow: hidden; }
+  .mkt-bar { height: 100%; border-radius: 3px; background: linear-gradient(90deg, var(--series-1), color-mix(in srgb, var(--series-1) 60%, var(--purple))); }
+  .mkt-title { font-weight: 550; line-height: 1.4; }
+  .mkt-title a { color: var(--text); text-decoration: none; }
   .mkt-title a:hover { text-decoration: underline; }
-  .mkt-meta { color: var(--muted); font-size: 12px; }
+  .mkt-meta { color: var(--muted); font-size: 12px; margin-top: 1px; }
 
-  .res-row { display: grid; grid-template-columns: 120px 1fr; gap: 10px; align-items: center; padding: 7px 0; border-bottom: 1px solid var(--grid); }
+  .res-row { display: grid; grid-template-columns: 128px 1fr; gap: 10px; align-items: center; padding: 8px 0; border-bottom: 1px solid var(--grid); }
   .res-row:last-child { border-bottom: 0; }
   .res-name { font-weight: 600; font-size: 13px; }
   .res-track { display: flex; align-items: center; gap: 8px; min-width: 0; }
-  .res-bar { height: 14px; border-radius: 0 4px 4px 0; background: var(--series-1); flex: none; }
-  .res-val { font-weight: 650; font-size: 13px; white-space: nowrap; }
+  .res-bar { height: 14px; border-radius: 0 4px 4px 0; background: linear-gradient(90deg, color-mix(in srgb, var(--series-1) 70%, var(--surface)), var(--series-1)); flex: none; }
+  .res-val { font-weight: 700; font-size: 13px; white-space: nowrap; font-variant-numeric: tabular-nums; }
   .res-note { color: var(--muted); font-size: 11px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 
-  footer { color: var(--muted); font-size: 12px; margin-top: 24px; }
-  footer a { color: var(--text-secondary); }
-  .err { color: var(--critical-text); font-size: 12px; }
+  /* ---------- brief ---------- */
+  .brief { margin: 6px 0 4px; padding-left: 20px; }
+  .brief li { margin-bottom: 7px; line-height: 1.55; }
+  .brief li::marker { color: var(--accent); }
+  .brief-full { color: var(--text-2); font-size: 13px; margin-top: 8px; }
+  .brief-full summary { cursor: pointer; color: var(--muted); font-size: 12px; font-weight: 600; }
+  .brief-full p { margin: 8px 0 0; }
+
+  /* ---------- pipeline meters ---------- */
+  .meters { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 12px; }
+  .meter-card { background: var(--surface-2); border: 1px solid var(--border); border-radius: 12px; padding: 12px 14px; }
+  .meter-head { display: flex; justify-content: space-between; gap: 8px; font-size: 12px; color: var(--text-2); }
+  .meter-head b { color: var(--text); font-size: 13px; white-space: nowrap; font-variant-numeric: tabular-nums; }
+  .meter-track { height: 6px; border-radius: 3px; margin-top: 9px; overflow: hidden; }
+  .meter-fill { height: 100%; border-radius: 3px; transition: width 0.6s ease; }
+
+  /* ---------- footer ---------- */
+  footer { color: var(--muted); font-size: 12px; margin-top: 26px; line-height: 1.7; }
+  footer a { color: var(--text-2); }
+  footer .foot-actions { margin-top: 12px; display: flex; gap: 8px; flex-wrap: wrap; }
+  .err { color: var(--critical-text); }
+
+  /* ---------- back to top ---------- */
+  .fab {
+    position: fixed; right: 18px; bottom: 18px; width: 44px; height: 44px; border-radius: 50%;
+    background: var(--surface-3); border: 1px solid var(--border-strong); color: var(--text);
+    display: grid; place-items: center; cursor: pointer; z-index: 70;
+    opacity: 0; pointer-events: none; transform: translateY(8px); transition: opacity 0.25s, transform 0.25s;
+    box-shadow: var(--card-shadow);
+  }
+  .fab.show { opacity: 1; pointer-events: auto; transform: none; }
+  .fab svg { width: 18px; height: 18px; }
+
+  /* ---------- entrance animation ---------- */
+  @keyframes rise { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: none; } }
+  .rise { animation: rise 0.5s ease both; }
+
+  /* ---------- responsive ---------- */
+  @media (max-width: 960px) {
+    .hero-inner { grid-template-columns: 1fr; padding: 24px 22px; gap: 20px; }
+    .gauges { justify-content: stretch; }
+    .gauge { max-width: none; }
+  }
+  @media (max-width: 640px) {
+    body { font-size: 13.5px; }
+    .site-header { padding: 14px 16px 10px; }
+    .wordmark { font-size: 17px; }
+    .wordmark small { display: none; }
+    .refresh-label { display: none; }
+    .hero { padding: 0 14px; }
+    .hero-inner { padding: 20px 16px; border-radius: 18px; }
+    .status-word { font-size: clamp(44px, 13vw, 64px); }
+    .gauges { gap: 10px; }
+    .gauge { min-width: 0; padding: 12px 8px 10px; }
+    .wrap, .nav-inner, .site-header { padding-left: 14px; padding-right: 14px; }
+    .tiles { grid-template-columns: repeat(2, 1fr); gap: 9px; }
+    .tile .value { font-size: 21px; }
+    .card { padding: 15px 14px 12px; }
+    .car-row { grid-template-columns: 1fr; gap: 2px; padding: 9px 0; }
+    .mkt-row { grid-template-columns: 46px 70px 1fr; gap: 8px; }
+    .res-row { grid-template-columns: 96px 1fr; }
+    .ev-sev { width: 58px; }
+    #map { height: 340px; }
+    .tick-item { padding: 7px 14px; }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    html { scroll-behavior: auto; }
+    .ticker-track { animation: none; }
+    .pulse-dot::after { animation: none; opacity: 0; }
+    .rise { animation: none; }
+    .icon-btn.spinning svg { animation: none; }
+    * { transition-duration: 0.01ms !important; }
+  }
 </style>
 </head>
 <body>
-<div class="wrap">
-  <header>
-    <h1>Hormuz Watch</h1>
-    <span class="chip" id="verdict-chip">—</span>
-    <span class="updated" id="updated">loading…</span>
-  </header>
-  <p class="subtitle">Oil prices &amp; shipping through the Strait of Hormuz — ~20% of global oil transits here.
-    Data: <a href="https://straits.live/api" style="color:inherit">straits.live</a> (IMF PortWatch, EIA, GDELT).</p>
 
-  <div class="tiles" id="tiles"></div>
+<!-- live stats ticker -->
+<div class="ticker" aria-hidden="true"><div class="ticker-track" id="ticker-track"></div></div>
 
-  <div class="meters" id="meters"></div>
+<header class="site-header">
+  <a class="brand" href="#top" id="brand">
+    <span class="logo" aria-hidden="true">
+      <svg viewBox="0 0 64 64" width="24" height="24"><path d="M32 11c8.5 10.5 15 18 15 26.5a15 15 0 1 1-30 0C17 29 23.5 21.5 32 11z" fill="#0d1420"/><circle cx="32" cy="40" r="4" fill="#f5a623"/></svg>
+    </span>
+    <span class="wordmark">HORMUZ WATCH<small>Live oil &amp; shipping monitor · 2026 Gulf crisis</small></span>
+  </a>
+  <div class="header-actions">
+    <span class="refresh-label" id="refresh-label">—</span>
+    <button class="icon-btn" id="refresh-btn" title="Refresh all data now" aria-label="Refresh all data now">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12a9 9 0 1 1-2.64-6.36"/><path d="M21 3v6h-6"/></svg>
+      <span class="btn-text">Refresh</span>
+    </button>
+    <button class="icon-btn" id="theme-btn" title="Toggle light / dark theme" aria-label="Toggle light / dark theme">
+      <svg id="theme-icon-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg>
+      <svg id="theme-icon-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:none"><circle cx="12" cy="12" r="4"/><path d="M12 2v2m0 16v2M4.9 4.9l1.4 1.4m11.4 11.4 1.4 1.4M2 12h2m16 0h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg>
+    </button>
+    <a class="icon-btn" href="https://github.com/supamanluva/hormuz-watch" target="_blank" rel="noopener" title="Source &amp; data archive on GitHub" aria-label="Source on GitHub">
+      <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 .5C5.65.5.5 5.65.5 12c0 5.08 3.29 9.39 7.86 10.91.58.11.79-.25.79-.55v-2.15c-3.2.7-3.87-1.36-3.87-1.36-.52-1.33-1.28-1.69-1.28-1.69-1.04-.71.08-.7.08-.7 1.15.08 1.76 1.19 1.76 1.19 1.03 1.75 2.69 1.25 3.34.95.1-.74.4-1.25.72-1.53-2.55-.29-5.24-1.28-5.24-5.69 0-1.26.45-2.28 1.19-3.09-.12-.29-.52-1.46.11-3.05 0 0 .97-.31 3.17 1.18a11 11 0 0 1 5.77 0c2.2-1.49 3.16-1.18 3.16-1.18.63 1.59.24 2.76.12 3.05.74.81 1.18 1.83 1.18 3.09 0 4.42-2.69 5.39-5.25 5.68.41.35.77 1.05.77 2.12v3.15c0 .3.21.67.8.55A11.5 11.5 0 0 0 23.5 12C23.5 5.65 18.35.5 12 .5z"/></svg>
+    </a>
+  </div>
+</header>
 
-  <section class="card" id="brief-card" hidden>
+<!-- hero: verdict + index gauges -->
+<section class="hero" id="top">
+  <div class="hero-inner" id="hero-inner">
+    <div>
+      <span class="eyebrow"><span class="pulse-dot" id="hero-dot"></span>Strait of Hormuz — live status</span>
+      <div class="status-word" id="status-word">—</div>
+      <p class="hero-sub" id="hero-sub">Loading the latest picture from IMF PortWatch AIS, EIA and GDELT…</p>
+      <div class="hero-meta">
+        <span class="day-pill" id="day-pill">Day <b id="day-count">—</b></span>
+        <span class="hero-chip" id="hero-updated">updated —</span>
+      </div>
+    </div>
+    <div class="gauges" id="gauges"></div>
+  </div>
+</section>
+
+<!-- sticky section nav -->
+<nav class="nav" aria-label="Section navigation">
+  <div class="nav-inner" id="nav-inner">
+    <a href="#overview" data-spy-link="overview">Overview</a>
+    <a href="#live" data-spy-link="live">Live in the strait</a>
+    <a href="#map-card" data-spy-link="map-card">Map</a>
+    <a href="#oil-card" data-spy-link="oil-card">Charts</a>
+    <a href="#buffers-card" data-spy-link="buffers-card">Supply buffers</a>
+    <a href="#reserves-card" data-spy-link="reserves-card">Reserves</a>
+    <a href="#markets-card" data-spy-link="markets-card">Markets</a>
+    <a href="#events-card" data-spy-link="events-card">Events</a>
+  </div>
+</nav>
+
+<div class="alert" id="alert" hidden><div class="alert-inner" id="alert-inner"></div></div>
+
+<main class="wrap">
+
+  <!-- key stats -->
+  <section id="overview" style="scroll-margin-top: calc(var(--nav-h) + 16px)"><div class="tiles" id="tiles"></div></section>
+
+  <!-- daily brief -->
+  <section class="card featured" id="brief-card" hidden>
     <div class="card-head">
-      <h2>Daily brief</h2>
+      <h2>⚡ Daily brief</h2>
       <span class="note" id="brief-date"></span>
     </div>
     <ul class="brief" id="brief-bullets"></ul>
-    <details class="brief-full"><summary>Full brief</summary><p id="brief-summary"></p></details>
+    <details class="brief-full"><summary>Read the full brief</summary><p id="brief-summary"></p></details>
   </section>
 
-  <section class="card" id="live-card">
+  <!-- live AIS -->
+  <section class="card" id="live">
     <div class="card-head">
       <h2>In the strait right now — hourly AIS</h2>
       <span class="note">concurrent vessels inside the strait zone; not the same as completed daily crossings below</span>
-      <button class="tbl-btn" data-target="live-card">Table view</button>
+      <span class="spacer"><button class="tbl-btn" data-target="live">Table view</button></span>
     </div>
     <div class="tiles" id="live-tiles" style="margin-bottom:12px"></div>
     <div class="legend">
@@ -222,17 +504,19 @@
       <span class="key"><span class="line-key" style="background:var(--series-2)"></span>Stranded (anchored / stopped)</span>
     </div>
     <div class="chart-box" id="live-chart"></div>
-    <table class="dataview" id="live-table"></table>
+    <div class="tablewrap"><table class="dataview" id="live-table"></table></div>
   </section>
 
+  <!-- region map -->
   <section class="card" id="map-card" hidden>
     <div class="card-head">
       <h2>Region map — ports, chokepoints, bypass terminals</h2>
       <span class="note" id="map-note"></span>
     </div>
-    <div id="map" style="height:440px;border-radius:8px;overflow:hidden"></div>
+    <div id="map"></div>
   </section>
 
+  <!-- range filters -->
   <div class="filters" id="range-filters" role="group" aria-label="Date range">
     <span class="flabel">Range</span>
     <button data-days="7">7 days</button>
@@ -241,25 +525,27 @@
     <button data-days="0">All</button>
   </div>
 
+  <!-- oil chart -->
   <section class="card" id="oil-card">
     <div class="card-head">
       <h2>Oil price — USD per barrel</h2>
       <span class="note" id="oil-note"></span>
-      <button class="tbl-btn" data-target="oil-card">Table view</button>
+      <span class="spacer"><button class="tbl-btn" data-target="oil-card">Table view</button></span>
     </div>
     <div class="legend">
       <span class="key"><span class="line-key" style="background:var(--series-1)"></span>Brent</span>
       <span class="key"><span class="line-key" style="background:var(--series-2)"></span>WTI</span>
     </div>
     <div class="chart-box" id="oil-chart"></div>
-    <table class="dataview" id="oil-table"></table>
+    <div class="tablewrap"><table class="dataview" id="oil-table"></table></div>
   </section>
 
+  <!-- transits chart -->
   <section class="card" id="transit-card">
     <div class="card-head">
       <h2>Daily ship transits through the strait</h2>
       <span class="note" id="transit-note"></span>
-      <button class="tbl-btn" data-target="transit-card">Table view</button>
+      <span class="spacer"><button class="tbl-btn" data-target="transit-card">Table view</button></span>
     </div>
     <div class="legend">
       <span class="key"><span class="rect-key" style="background:var(--series-1)"></span>Tankers</span>
@@ -267,9 +553,10 @@
       <span class="key"><span class="line-key" style="background:var(--muted)"></span>Pre-crisis median</span>
     </div>
     <div class="chart-box" id="transit-chart"></div>
-    <table class="dataview" id="transit-table"></table>
+    <div class="tablewrap"><table class="dataview" id="transit-table"></table></div>
   </section>
 
+  <!-- global chokepoints -->
   <section class="card" id="choke-card" hidden>
     <div class="card-head">
       <h2>Global chokepoints — where the traffic went</h2>
@@ -278,15 +565,17 @@
     <div id="chokepoints"></div>
   </section>
 
+  <!-- supply buffers -->
   <section class="card" id="buffers-card">
     <div class="card-head">
       <h2>Supply buffers — reserves &amp; bypass pipelines</h2>
       <span class="note">the cushions keeping prices from spiking — all finite</span>
     </div>
     <div class="tiles" id="buffer-tiles" style="margin-bottom:12px"></div>
-    <div class="meters" id="pipeline-meters" style="margin-bottom:4px"></div>
+    <div class="meters" id="pipeline-meters"></div>
   </section>
 
+  <!-- strategic reserves -->
   <section class="card" id="reserves-card">
     <div class="card-head">
       <h2>Strategic oil reserves — major holders</h2>
@@ -296,6 +585,7 @@
     <div id="reserves-bars"></div>
   </section>
 
+  <!-- prediction markets -->
   <section class="card" id="markets-card" hidden>
     <div class="card-head">
       <h2>Prediction markets — what traders are pricing</h2>
@@ -304,6 +594,7 @@
     <div id="markets"></div>
   </section>
 
+  <!-- container carriers -->
   <section class="card" id="carriers-card" hidden>
     <div class="card-head">
       <h2>Container carrier posture</h2>
@@ -312,10 +603,17 @@
     <div id="carriers"></div>
   </section>
 
+  <!-- events feed -->
   <section class="card" id="events-card">
     <div class="card-head">
       <h2>Conflict events — strikes, ship incidents, closures</h2>
       <span class="note" id="events-note"></span>
+      <span class="spacer" id="sev-filters" role="group" aria-label="Filter by severity">
+        <button class="chip-btn" data-sev="all" aria-pressed="true">All</button>
+        <button class="chip-btn" data-sev="high" aria-pressed="false">High</button>
+        <button class="chip-btn" data-sev="medium" aria-pressed="false">Medium</button>
+        <button class="chip-btn" data-sev="low" aria-pressed="false">Low</button>
+      </span>
     </div>
     <ul class="events" id="events"></ul>
     <button class="more-btn" id="events-more" hidden>Show more</button>
@@ -332,10 +630,17 @@
     <a href="https://github.com/supamanluva/hormuz-watch">source &amp; daily data archive on GitHub</a>.</p>
     <p style="margin:0"><b>Disclaimer:</b> informational dashboard built on free third-party public feeds —
     accuracy and freshness are not guaranteed, and nothing here is investment advice.
-    Verify against primary sources before making trading decisions.
-    <span class="err" id="err"></span></p>
+    Verify against primary sources before making trading decisions.</p>
+    <div class="foot-actions">
+      <button class="chip-btn" id="copy-btn">📋 Copy status summary</button>
+      <span class="err" id="err"></span>
+    </div>
   </footer>
-</div>
+</main>
+
+<button class="fab" id="to-top" title="Back to top" aria-label="Back to top">
+  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M12 19V5"/><path d="m5 12 7-7 7 7"/></svg>
+</button>
 
 <div class="tooltip" id="tooltip"></div>
 
@@ -343,7 +648,11 @@
 "use strict";
 const API = "https://straits.live";
 const $ = id => document.getElementById(id);
-const state = { days: 30, oil: [], transits: [], events: [], status: null, eventsShown: 12 };
+const state = {
+  days: 30, oil: [], transits: [], events: [], statusRow: null, live: null, gas: null,
+  eventsShown: 12, sevFilter: "all", idxHist: [], nextRefreshAt: 0, map: null, mapTiles: null, mapMarkers: null,
+};
+const REDUCED = matchMedia("(prefers-reduced-motion: reduce)").matches;
 
 /* ---------- fetch helpers ---------- */
 async function getJSON(url) { const r = await fetch(url); if (!r.ok) throw new Error(url + " → " + r.status); return r.json(); }
@@ -357,28 +666,174 @@ async function getCSV(url) {
     return o;
   });
 }
+
+/* ---------- formatting ---------- */
 const fmt = (n, d = 2) => n == null || isNaN(n) ? "—" : Number(n).toLocaleString("en-US", { maximumFractionDigits: d, minimumFractionDigits: d });
 const fmtInt = n => n == null || isNaN(n) ? "—" : Number(n).toLocaleString("en-US");
 const dayFmt = t => new Date(t).toLocaleDateString("en-GB", { day: "numeric", month: "short" });
 const timeFmt = t => new Date(t).toLocaleString("en-GB", { day: "numeric", month: "short", hour: "2-digit", minute: "2-digit" });
+function relTime(t) {
+  const s = Math.max(0, (Date.now() - new Date(t).getTime()) / 1000);
+  if (s < 50) return "just now";
+  if (s < 3600) return Math.round(s / 60) + " min ago";
+  if (s < 86400) return Math.round(s / 3600) + " h ago";
+  return Math.round(s / 86400) + " d ago";
+}
+
+/* ---------- theme ---------- */
+function applyTheme(t) {
+  document.documentElement.dataset.theme = t;
+  localStorage.setItem("hw-theme", t);
+  const dark = t === "dark";
+  $("theme-icon-moon").style.display = dark ? "" : "none";
+  $("theme-icon-sun").style.display = dark ? "none" : "";
+  if (state.map) setMapTiles();
+}
+applyTheme(localStorage.getItem("hw-theme") || "dark");
+$("theme-btn").addEventListener("click", () => {
+  applyTheme(document.documentElement.dataset.theme === "dark" ? "light" : "dark");
+  renderOilChart(); renderTransitsChart();   /* re-paint theme-colored svg */
+});
+
+/* ---------- small svg helpers ---------- */
+function svgEl(tag, attrs) { const e = document.createElementNS("http://www.w3.org/2000/svg", tag); for (const k in attrs) e.setAttribute(k, attrs[k]); return e; }
+function sparkline(values, color, w = 120, h = 26) {
+  const pts = values.filter(v => v != null && !isNaN(v));
+  if (pts.length < 2) return null;
+  const lo = Math.min(...pts), hi = Math.max(...pts);
+  const sx = i => i / (pts.length - 1) * (w - 8) + 4;
+  const sy = v => hi === lo ? h / 2 : 3 + (h - 6) * (1 - (v - lo) / (hi - lo));
+  const svg = svgEl("svg", { viewBox: "0 0 " + w + " " + h, width: "100%", height: h, preserveAspectRatio: "none", class: "spark", "aria-hidden": "true" });
+  const d = pts.map((p, i) => (i ? "L" : "M") + sx(i).toFixed(1) + " " + sy(p).toFixed(1)).join(" ");
+  svg.append(svgEl("path", { d: d + " L" + sx(pts.length - 1).toFixed(1) + " " + h + " L" + sx(0).toFixed(1) + " " + h + " Z", fill: color, opacity: 0.12, stroke: "none" }));
+  svg.append(svgEl("path", { d, fill: "none", stroke: color, "stroke-width": 1.6, "stroke-linejoin": "round", "stroke-linecap": "round" }));
+  svg.append(svgEl("circle", { cx: sx(pts.length - 1), cy: sy(pts[pts.length - 1]), r: 2.6, fill: color }));
+  return svg;
+}
+function countUp(el, target, dur = 900) {
+  if (REDUCED || !isFinite(target)) { el.textContent = fmtInt(target); return; }
+  const t0 = performance.now();
+  (function step(now) {
+    const k = Math.min(1, (now - t0) / dur), e = 1 - Math.pow(1 - k, 3);
+    el.textContent = fmtInt(Math.round(target * e));
+    if (k < 1) requestAnimationFrame(step);
+  })(t0);
+}
+
+/* ---------- ticker ---------- */
+function renderTicker() {
+  const s = state.statusRow, live = state.live, gas = state.gas;
+  if (!s || !live) return;
+  const ch = Number(s.brent_change_24h_pct);
+  const items = [
+    ["BRENT", "$" + fmt(s.brent_usd), (ch >= 0 ? "▲ +" : "▼ ") + fmt(ch) + "%", ch >= 0 ? "up-bad" : "down-good"],
+    ["WTI", "$" + fmt(s.wti_usd), "", ""],
+    ["TRANSITS", fmtInt(s.transits_count) + "/day", s.transits_throughput_pct + "% of pre-crisis", "down-bad"],
+    ["IN ZONE NOW", fmtInt(live.aisConcurrentInZone), "live AIS", ""],
+    ["STRANDED", fmtInt(s.ships_stranded), "anchored / stopped", "up-bad"],
+    ["WAR-RISK INS.", (s.insurance_multiple || "—") + "×", "peacetime premium", "up-bad"],
+    ["DARK TANKERS", fmtInt(s.ais_dark_tankers), "AIS silent 3–24 h", ""],
+    ["CRISIS INDEX", live.hormuzIndex?.crisisPressure?.value + "/100", live.hormuzIndex?.crisisPressure?.band, "up-bad"],
+    ["ESCALATION", live.hormuzIndex?.escalationProbability?.value + "/100", live.hormuzIndex?.escalationProbability?.band, ""],
+  ];
+  if (gas?.nationalAvgUsd) items.push(["US GAS", "$" + fmt(gas.nationalAvgUsd) + "/gal", "AAA avg", ""]);
+  const track = $("ticker-track"); track.replaceChildren();
+  for (let copy = 0; copy < 2; copy++) {
+    for (const [label, val, sub, cls] of items) {
+      const it = document.createElement("span"); it.className = "tick-item";
+      const sep = document.createElement("span"); sep.className = "tick-sep"; sep.textContent = "◆";
+      const l = document.createElement("span"); l.textContent = label;
+      const v = document.createElement("b"); v.textContent = val;
+      it.append(sep, l, v);
+      if (sub) { const d = document.createElement("span"); d.className = cls; d.textContent = sub; it.append(d); }
+      track.append(it);
+    }
+  }
+}
+
+/* ---------- hero: verdict + gauges ---------- */
+function gauge(label, idx, histKey) {
+  const color = { extreme: "var(--critical)", high: "var(--serious)", elevated: "var(--warning)", moderate: "var(--good)", low: "var(--good)" }[idx.band] || "var(--muted)";
+  const g = document.createElement("div"); g.className = "gauge";
+  const R = 50, C = 2 * Math.PI * R, size = 120;
+  const svg = svgEl("svg", { viewBox: "0 0 " + size + " " + size, width: size, height: size, role: "img", "aria-label": label + " " + idx.value + " of 100, " + idx.band });
+  svg.append(svgEl("circle", { cx: size / 2, cy: size / 2, r: R, fill: "none", stroke: "color-mix(in srgb, " + color + " 16%, var(--surface))", "stroke-width": 9 }));
+  const arc = svgEl("circle", {
+    cx: size / 2, cy: size / 2, r: R, fill: "none", stroke: color, "stroke-width": 9, "stroke-linecap": "round",
+    "stroke-dasharray": C.toFixed(1), "stroke-dashoffset": (C * (1 - Math.min(100, idx.value) / 100)).toFixed(1),
+    transform: "rotate(-90 " + size / 2 + " " + size / 2 + ")",
+  });
+  svg.append(arc);
+  const val = svgEl("text", { x: size / 2, y: size / 2 + 2, "text-anchor": "middle", class: "g-val", style: "fill:var(--text);font-size:26px" });
+  val.textContent = idx.value; svg.append(val);
+  const of = svgEl("text", { x: size / 2, y: size / 2 + 17, "text-anchor": "middle", class: "g-of" });
+  of.textContent = "/ 100"; svg.append(of);
+  g.append(svg);
+  const band = document.createElement("span"); band.className = "g-band"; band.textContent = idx.band;
+  band.style.background = "color-mix(in srgb, " + color + " 16%, var(--surface))";
+  band.style.color = color;
+  band.style.border = "1px solid color-mix(in srgb, " + color + " 40%, var(--border))";
+  const name = document.createElement("div"); name.className = "g-name"; name.textContent = label;
+  const delta = document.createElement("div"); delta.className = "g-delta";
+  if (idx.delta24h != null) delta.textContent = (idx.delta24h >= 0 ? "▲ +" : "▼ ") + idx.delta24h + " vs 24 h ago";
+  g.append(band, name, delta);
+  const hist = state.idxHist.map(r => +r[histKey]).filter(v => !isNaN(v));
+  if (hist.length > 2) {
+    const step = Math.max(1, Math.floor(hist.length / 40));
+    const spark = sparkline(hist.filter((_, i) => i % step === 0), color, 140, 22);
+    if (spark) { spark.classList.add("g-spark"); g.append(spark); }
+  }
+  return g;
+}
+function renderHero() {
+  const s = state.statusRow, live = state.live;
+  if (!s || !live) return;
+  const closed = (live.verdict?.status || s.verdict_status) === "closed";
+  const word = $("status-word");
+  word.textContent = closed ? "Closed" : "Open";
+  word.classList.toggle("open", !closed);
+  $("hero-inner").classList.toggle("open", !closed);
+  $("hero-dot").classList.toggle("open", !closed);
+  $("hero-sub").textContent = live.verdict?.long ||
+    (closed ? "The Strait of Hormuz is effectively closed to commercial shipping." : "The Strait of Hormuz is open to commercial shipping.");
+  countUp($("day-count"), +s.days_since_closure || 0);
+  $("day-pill").classList.toggle("open", !closed);
+  $("hero-updated").textContent = "updated " + relTime(s.as_of) + " · " + timeFmt(s.as_of);
+  const g = $("gauges"); g.replaceChildren();
+  const idx = live.hormuzIndex;
+  if (idx?.crisisPressure) g.append(gauge("Crisis pressure index", idx.crisisPressure, "crisis_pressure"));
+  if (idx?.escalationProbability) g.append(gauge("Escalation probability", idx.escalationProbability, "escalation_forecast"));
+}
 
 /* ---------- stat tiles ---------- */
-function tile(label, value, deltaTxt, deltaCls) {
+function tile(label, value, deltaTxt, deltaCls, spark) {
   const d = document.createElement("div"); d.className = "tile";
   const l = document.createElement("div"); l.className = "label"; l.textContent = label;
   const v = document.createElement("div"); v.className = "value"; v.textContent = value;
   d.append(l, v);
   if (deltaTxt) { const dd = document.createElement("div"); dd.className = "delta " + (deltaCls || ""); dd.textContent = deltaTxt; d.append(dd); }
+  if (spark) d.append(spark);
   return d;
 }
-function renderTiles(s, gas) {
+function oilSpark(key, color) {
+  const cutoff = Date.now() - 7 * 864e5;
+  const pts = state.oil.filter(p => p.t >= cutoff);
+  const step = Math.max(1, Math.floor(pts.length / 40));
+  return sparkline(pts.filter((_, i) => i % step === 0).map(p => p[key]), color, 150, 24);
+}
+function renderTiles() {
+  const s = state.statusRow, gas = state.gas;
+  if (!s) return;
   const t = $("tiles"); t.replaceChildren();
   const ch = Number(s.brent_change_24h_pct);
   const rial7 = Number(s.tehran_rial_delta_7d_pct);
+  const brentTile = tile("Brent crude", "$" + fmt(s.brent_usd), (ch >= 0 ? "▲ +" : "▼ ") + fmt(ch) + "% vs 24 h ago", ch >= 0 ? "up-bad" : "down-good", oilSpark("brent", "var(--series-1)"));
+  brentTile.querySelector(".value").id = "tick-brent";
   t.append(
-    tile("Brent crude", "$" + fmt(s.brent_usd), (ch >= 0 ? "▲ +" : "▼ ") + fmt(ch) + "% vs 24 h ago", ch >= 0 ? "up-bad" : "down-good"),
-    tile("WTI crude", "$" + fmt(s.wti_usd)),
-    tile("Transits per day", fmtInt(s.transits_count), "vs " + fmtInt(s.transits_baseline) + "/day pre-crisis (" + s.transits_throughput_pct + "%) · " + (state.transitsAsOf || "PortWatch"), "down-bad"),
+    brentTile,
+    tile("WTI crude", "$" + fmt(s.wti_usd), "US benchmark", "", oilSpark("wti", "var(--series-2)")),
+    tile("Transits per day", fmtInt(s.transits_count), "vs " + fmtInt(s.transits_baseline) + "/day pre-crisis (" + s.transits_throughput_pct + "%) · " + (state.transitsAsOf || "PortWatch"), "down-bad",
+      sparkline(state.transits.slice(-30).map(r => r.tanker + r.other), "var(--muted)", 150, 24)),
     tile("Tanker transits", fmtInt(state.lastTanker), "of " + fmtInt(s.transits_count) + " total · " + (state.transitsAsOf || s.transits_source), ""),
     tile("Stranded vessels", fmtInt(s.ships_stranded), "Gulf snapshot · hourly AIS card below may differ", "up-bad"),
     tile("War-risk insurance", (s.insurance_multiple || "—") + "×", "multiple of peacetime premium", "up-bad"),
@@ -386,58 +841,21 @@ function renderTiles(s, gas) {
     tile("Tehran rial (7-day)", (rial7 >= 0 ? "−" : "+") + fmt(Math.abs(rial7), 1) + "%", fmtInt(s.tehran_toman_per_usd) + " toman/USD · currency stress gauge", rial7 >= 0 ? "down-bad" : ""),
   );
   if (gas?.nationalAvgUsd) t.append(tile("US retail gasoline", "$" + fmt(gas.nationalAvgUsd) + "/gal", "AAA national average", ""));
-  const chip = $("verdict-chip");
-  const closed = s.verdict_status === "closed";
-  chip.className = "chip " + (closed ? "closed" : "open");
-  chip.textContent = (closed ? "⛔ CLOSED" : "✅ OPEN") + " — day " + s.days_since_closure;
-  $("updated").textContent = "updated " + timeFmt(s.as_of);
-}
-function meter(label, value, band, color, spark) {
-  const c = document.createElement("div"); c.className = "meter-card";
-  const h = document.createElement("div"); h.className = "meter-head";
-  const l = document.createElement("span"); l.textContent = label;
-  const v = document.createElement("b"); v.textContent = value + " / 100 · " + band;
-  h.append(l, v);
-  if (spark && spark.length > 2) {
-    const W = 260, H = 26, lo = Math.min(...spark), hi = Math.max(...spark);
-    const sx = i => i / (spark.length - 1) * (W - 8) + 2;
-    const sy = v => hi === lo ? H / 2 : 4 + (H - 8) * (1 - (v - lo) / (hi - lo));
-    const svg = svgEl("svg", { viewBox: "0 0 " + W + " " + H, width: "100%", height: H, preserveAspectRatio: "none", "aria-label": label + ", last 7 days" });
-    svg.append(svgEl("path", { d: spark.map((p, i) => (i ? "L" : "M") + sx(i).toFixed(1) + " " + sy(p).toFixed(1)).join(" "), fill: "none", stroke: "var(--muted)", "stroke-width": 1.5 }));
-    svg.append(svgEl("circle", { cx: sx(spark.length - 1), cy: sy(spark[spark.length - 1]), r: 3, fill: color, stroke: "var(--surface-1)", "stroke-width": 2 }));
-    svg.style.margin = "6px 0 2px"; c.append(h, svg);
-  } else c.append(h);
-  const track = document.createElement("div"); track.className = "meter-track";
-  track.style.background = "color-mix(in srgb, " + color + " 18%, var(--surface-1))";
-  const fill = document.createElement("div"); fill.className = "meter-fill";
-  fill.style.width = Math.min(100, value) + "%"; fill.style.background = color;
-  track.append(fill); c.append(track);
-  return c;
-}
-function renderMeters(idx, hist) {
-  const m = $("meters"); m.replaceChildren();
-  if (!idx) return;
-  const sevColor = b => b === "extreme" ? "var(--critical)" : b === "high" ? "var(--serious)" : b === "elevated" ? "var(--warning)" : "var(--good)";
-  const spark = key => {
-    if (!hist?.length) return null;
-    const step = Math.max(1, Math.floor(hist.length / 28));
-    return hist.filter((_, i) => i % step === 0).map(r => +r[key]).filter(v => !isNaN(v));
-  };
-  const cp = idx.crisisPressure, ep = idx.escalationProbability;
-  if (cp) m.append(meter("Crisis pressure index (7-day trend)", cp.value, cp.band, sevColor(cp.band), spark("crisis_pressure")));
-  if (ep) m.append(meter("Escalation probability (7-day trend)", ep.value, ep.band, sevColor(ep.band), spark("escalation_forecast")));
 }
 
 /* ---------- shared chart scaffolding ---------- */
-const M = { top: 14, right: 56, bottom: 26, left: 44 };
-function svgEl(tag, attrs) { const e = document.createElementNS("http://www.w3.org/2000/svg", tag); for (const k in attrs) e.setAttribute(k, attrs[k]); return e; }
+function chartMargins(box) {
+  return (box.clientWidth || 900) < 560
+    ? { top: 12, right: 46, bottom: 22, left: 38 }
+    : { top: 14, right: 58, bottom: 26, left: 46 };
+}
 function niceTicks(min, max, n) {
   const span = max - min || 1, step0 = span / n, mag = Math.pow(10, Math.floor(Math.log10(step0)));
   const step = [1, 2, 2.5, 5, 10].map(m => m * mag).find(s => span / s <= n) || mag * 10;
   const t = []; for (let v = Math.ceil(min / step) * step; v <= max + 1e-9; v += step) t.push(v);
   return t;
 }
-function frame(svg, W, H, yMin, yMax, yFmt) {
+function frame(svg, W, H, yMin, yMax, yFmt, M) {
   const plotW = W - M.left - M.right, plotH = H - M.top - M.bottom;
   const y = v => M.top + plotH - (v - yMin) / (yMax - yMin) * plotH;
   for (const tv of niceTicks(yMin, yMax, 5)) {
@@ -460,10 +878,21 @@ function showTooltip(box, px, py, dateStr, rows) {
   tt.style.display = "block";
   const b = box.getBoundingClientRect();
   let x = b.left + window.scrollX + px + 14, yy = b.top + window.scrollY + py - 10;
-  if (x + 170 > window.scrollX + document.documentElement.clientWidth) x -= 190;
-  tt.style.left = x + "px"; tt.style.top = yy + "px";
+  if (x + 180 > window.scrollX + document.documentElement.clientWidth) x -= 200;
+  tt.style.left = x + "px"; tt.style.top = Math.max(0, yy) + "px";
 }
 const hideTooltip = () => $("tooltip").style.display = "none";
+function renderTable(tbl, heads, rows) {
+  tbl.replaceChildren();
+  const tr = document.createElement("tr");
+  for (const h of heads) { const th = document.createElement("th"); th.textContent = h; tr.append(th); }
+  tbl.append(tr);
+  for (const r of rows) {
+    const row = document.createElement("tr");
+    for (const c of r) { const td = document.createElement("td"); td.textContent = c; row.append(td); }
+    tbl.append(row);
+  }
+}
 
 /* ---------- oil line chart ---------- */
 const KEY_EVENTS = [
@@ -473,41 +902,51 @@ const KEY_EVENTS = [
   { d: "2026-07-13", label: "US blockade + 20% fee" },
 ];
 function renderOilChart() {
-  const box = $("oil-chart"); box.replaceChildren();
+  const box = $("oil-chart"); if (!box) return;
+  box.replaceChildren();
   const cutoff = state.days ? Date.now() - state.days * 864e5 : 0;
   let pts = state.oil.filter(p => p.t >= cutoff);
   if (pts.length > 500) { const k = Math.ceil(pts.length / 500); pts = pts.filter((_, i) => i % k === 0); }
   if (pts.length < 2) { box.textContent = "No data in range — oil history starts " + (state.oil[0] ? dayFmt(state.oil[0].t) : ""); return; }
   $("oil-note").textContent = dayFmt(pts[0].t) + " – " + dayFmt(pts[pts.length - 1].t) + " · " + pts.length + " points";
 
-  const W = Math.max(560, box.clientWidth || 900), H = 280;
+  const M = chartMargins(box);
+  const W = Math.max(420, box.clientWidth || 900), H = 290;
   const svg = svgEl("svg", { viewBox: "0 0 " + W + " " + H, width: "100%", role: "img", "aria-label": "Brent and WTI price history" });
   const vals = pts.flatMap(p => [p.brent, p.wti]).filter(v => v != null);
   const yMin = Math.floor(Math.min(...vals) / 5) * 5 - 5, yMax = Math.ceil(Math.max(...vals) / 5) * 5 + 5;
-  const { plotW, plotH, y } = frame(svg, W, H, yMin, yMax, v => "$" + v);
+  const { plotW, plotH, y } = frame(svg, W, H, yMin, yMax, v => "$" + v, M);
   const t0 = pts[0].t, t1 = pts[pts.length - 1].t;
   const x = t => M.left + (t - t0) / (t1 - t0) * plotW;
 
   for (const tv of niceTicks(t0, t1, 6)) {
-    const txt = svgEl("text", { x: x(tv), y: H - 8, "text-anchor": "middle" }); txt.textContent = dayFmt(tv); svg.append(txt);
+    const txt = svgEl("text", { x: x(tv), y: H - 7, "text-anchor": "middle" }); txt.textContent = dayFmt(tv); svg.append(txt);
   }
   const series = [["brent", "var(--series-1)", "Brent"], ["wti", "var(--series-2)", "WTI"]];
   for (const [key, color, name] of series) {
     const line = pts.map((p, i) => (i ? "L" : "M") + x(p.t).toFixed(1) + " " + y(p[key]).toFixed(1)).join(" ");
-    svg.append(svgEl("path", { d: line + " L" + x(t1).toFixed(1) + " " + (M.top + plotH) + " L" + x(t0).toFixed(1) + " " + (M.top + plotH) + " Z", fill: color, opacity: 0.08 }));
-    svg.append(svgEl("path", { d: line, fill: "none", stroke: color, "stroke-width": 2, "stroke-linejoin": "round", "stroke-linecap": "round" }));
+    svg.append(svgEl("path", { d: line + " L" + x(t1).toFixed(1) + " " + (M.top + plotH) + " L" + x(t0).toFixed(1) + " " + (M.top + plotH) + " Z", fill: color, opacity: 0.09 }));
+    svg.append(svgEl("path", { d: line, fill: "none", stroke: color, "stroke-width": 2.2, "stroke-linejoin": "round", "stroke-linecap": "round" }));
     const last = pts[pts.length - 1];
-    svg.append(svgEl("circle", { cx: x(last.t), cy: y(last[key]), r: 4, fill: color, stroke: "var(--surface-1)", "stroke-width": 2 }));
+    svg.append(svgEl("circle", { cx: x(last.t), cy: y(last[key]), r: 4, fill: color, stroke: "var(--surface)", "stroke-width": 2 }));
     const lbl = svgEl("text", { x: x(last.t) + 8, y: y(last[key]) + 4, class: "endlabel" });
     lbl.textContent = "$" + fmt(last[key]); svg.append(lbl);
   }
-  KEY_EVENTS.forEach((e, i) => {
+  const labelLanes = [];   /* right edge of the last label in each lane, to avoid overlaps */
+  KEY_EVENTS.forEach(e => {
     const t = Date.parse(e.d + "T12:00:00Z");
     if (t < t0 || t > t1) return;
-    const ex = x(t), ly = M.top + 4 + (i % 2) * 12;
+    const ex = x(t);
+    const nearRight = ex > M.left + plotW * 0.72;
+    const estW = e.label.length * 6.1 + 12;      /* ~6px per char at 11px font */
+    const startX = nearRight ? ex - estW : ex + 6, endX = nearRight ? ex - 6 : ex + estW;
+    let lane = labelLanes.findIndex(edge => startX > edge + 8);
+    if (lane === -1 && labelLanes.length < 3) lane = labelLanes.length;
+    const ly = lane === -1 ? M.top + 4 : M.top + 4 + lane * 13;
     svg.append(svgEl("line", { x1: ex, x2: ex, y1: ly + 4, y2: M.top + plotH, stroke: "var(--baseline)", "stroke-width": 1 }));
     svg.append(svgEl("circle", { cx: ex, cy: ly + 4, r: 2.5, fill: "var(--muted)" }));
-    const nearRight = ex > M.left + plotW * 0.75;
+    if (lane === -1) return;                     /* no free lane — keep the marker, drop the label */
+    labelLanes[lane] = endX;
     const lbl = svgEl("text", { x: ex + (nearRight ? -6 : 6), y: ly, "text-anchor": nearRight ? "end" : "start" });
     lbl.textContent = e.label; svg.append(lbl);
   });
@@ -533,8 +972,16 @@ function renderOilChart() {
 }
 
 /* ---------- transits bar chart ---------- */
+function roundedBar(x, y, w, h, r) {
+  r = Math.min(r, w / 2, h);
+  if (r <= 0) return "M" + x + " " + y + " h" + w + " v" + h + " h" + (-w) + " Z";
+  return "M" + x + " " + (y + r) + " a" + r + " " + r + " 0 0 1 " + r + " " + (-r) +
+    " h" + (w - 2 * r) + " a" + r + " " + r + " 0 0 1 " + r + " " + r +
+    " v" + (h - r) + " h" + (-w) + " Z";
+}
 function renderTransitsChart() {
-  const box = $("transit-chart"); box.replaceChildren();
+  const box = $("transit-chart"); if (!box) return;
+  box.replaceChildren();
   const cutoff = state.days ? Date.now() - state.days * 864e5 : 0;
   let rows = state.transits.filter(r => r.t >= cutoff);
   let note = "";
@@ -558,10 +1005,11 @@ function renderTransitsChart() {
   $("transit-note").textContent = note + "latest " + dayFmt(rows[rows.length - 1].t) + " (IMF PortWatch publishes with a few days' lag)";
 
   const BASE = state.preCrisisBaseline || 88;
-  const W = Math.max(560, box.clientWidth || 900), H = 280;
+  const M = chartMargins(box);
+  const W = Math.max(420, box.clientWidth || 900), H = 290;
   const svg = svgEl("svg", { viewBox: "0 0 " + W + " " + H, width: "100%", role: "img", "aria-label": "Daily vessel transits, tankers and other cargo" });
   const maxV = Math.max(BASE, ...rows.map(r => r.tanker + r.other));
-  const { plotW, plotH, y } = frame(svg, W, H, 0, Math.ceil(maxV / 20) * 20, v => fmtInt(v));
+  const { plotW, plotH, y } = frame(svg, W, H, 0, Math.ceil(maxV / 20) * 20, v => fmtInt(v), M);
   const n = rows.length, band = plotW / n;
   const barW = Math.min(24, Math.max(2, band * 0.7));
   const GAP = 2;
@@ -570,7 +1018,7 @@ function renderTransitsChart() {
   rows.forEach((r, i) => {
     const cx = M.left + band * (i + 0.5);
     if (i % tickEvery === 0) {
-      const txt = svgEl("text", { x: cx, y: H - 8, "text-anchor": "middle" }); txt.textContent = dayFmt(r.t); svg.append(txt);
+      const txt = svgEl("text", { x: cx, y: H - 7, "text-anchor": "middle" }); txt.textContent = dayFmt(r.t); svg.append(txt);
     }
     const yTankTop = y(r.tanker), yBase = M.top + plotH;
     const tankH = Math.max(0, yBase - yTankTop);
@@ -605,67 +1053,6 @@ function renderTransitsChart() {
   renderTable($("transit-table"), ["Date", "Tankers", "Other cargo", "Total"],
     rows.slice(-60).reverse().map(r => [(r.agg ? "wk " : "") + dayFmt(r.t), fmtInt(Math.round(r.tanker)), fmtInt(Math.round(r.other)), fmtInt(Math.round(r.tanker + r.other))]));
 }
-function roundedBar(x, y, w, h, r) {
-  r = Math.min(r, w / 2, h);
-  if (r <= 0) return "M" + x + " " + y + " h" + w + " v" + h + " h" + (-w) + " Z";
-  return "M" + x + " " + (y + r) + " a" + r + " " + r + " 0 0 1 " + r + " " + (-r) +
-    " h" + (w - 2 * r) + " a" + r + " " + r + " 0 0 1 " + r + " " + r +
-    " v" + (h - r) + " h" + (-w) + " Z";
-}
-function renderTable(tbl, heads, rows) {
-  tbl.replaceChildren();
-  const tr = document.createElement("tr");
-  for (const h of heads) { const th = document.createElement("th"); th.textContent = h; tr.append(th); }
-  tbl.append(tr);
-  for (const r of rows) {
-    const row = document.createElement("tr");
-    for (const c of r) { const td = document.createElement("td"); td.textContent = c; row.append(td); }
-    tbl.append(row);
-  }
-}
-
-/* ---------- supply buffers ---------- */
-function renderBuffers(sprRes, cushRes, pipeRes) {
-  const t = $("buffer-tiles"); t.replaceChildren();
-  const spr = sprRes?.spr, cush = cushRes?.cushing;
-  if (spr) {
-    const d = spr.change4wMbbl;
-    t.append(tile("US Strategic Petroleum Reserve", fmt(spr.currentMbbl, 1) + "M bbl",
-      (d >= 0 ? "▲ +" : "▼ −") + fmt(Math.abs(d), 1) + "M bbl in 4 weeks (EIA, " + spr.asOfDate + ")",
-      d < 0 ? "down-bad" : "up-good"));
-  }
-  if (spr && spr.change4wMbbl < 0) {
-    const perDay = -spr.change4wMbbl / 28;
-    const days = Math.round(spr.currentMbbl / perDay);
-    const empty = new Date(Date.parse(spr.asOfDate) + days * 864e5);
-    t.append(tile("US SPR runway at current draw", days + " days",
-      "−" + fmt(perDay, 2) + "M bbl/day → empty ≈ " +
-      empty.toLocaleDateString("en-GB", { day: "numeric", month: "short", year: "numeric" }) +
-      " (linear projection)", "down-bad"));
-  }
-  if (cush) {
-    const d = cush.change4wMbbl;
-    t.append(tile("Cushing hub stocks (WTI delivery)", fmt(cush.currentMbbl, 1) + "M bbl",
-      (d >= 0 ? "▲ +" : "▼ −") + fmt(Math.abs(d), 1) + "M bbl in 4 weeks · near tank bottoms",
-      d < 0 ? "down-bad" : "up-good"));
-  }
-  const m = $("pipeline-meters"); m.replaceChildren();
-  for (const p of pipeRes?.pipelines || []) {
-    const pct = p.currentUtilizationPct;
-    const color = p.status !== "operational" ? "var(--muted)"
-      : pct >= 95 ? "var(--critical)" : pct >= 85 ? "var(--serious)" : pct >= 60 ? "var(--warning)" : "var(--good)";
-    const c = document.createElement("div"); c.className = "meter-card";
-    const h = document.createElement("div"); h.className = "meter-head";
-    const l = document.createElement("span"); l.textContent = p.name + " → " + p.terminus;
-    const v = document.createElement("b"); v.textContent = pct + "% of " + fmt(p.capacityBpd / 1e6, 1) + " mb/d";
-    h.append(l, v);
-    const track = document.createElement("div"); track.className = "meter-track";
-    track.style.background = "color-mix(in srgb, " + color + " 18%, var(--surface-1))";
-    const fill = document.createElement("div"); fill.className = "meter-fill";
-    fill.style.width = Math.min(100, pct) + "%"; fill.style.background = color;
-    track.append(fill); c.append(h, track); m.append(c);
-  }
-}
 
 /* ---------- live strait activity (hourly AIS) ---------- */
 function renderLiveActivity(tbt, str, snap) {
@@ -679,31 +1066,33 @@ function renderLiveActivity(tbt, str, snap) {
 
   const lt = $("live-tiles"); lt.replaceChildren();
   lt.append(
-    tile("In transit now", fmtInt(last.transit), fmtInt(last.tanker) + " of them tankers", ""),
-    tile("Stranded now", fmtInt(last.stranded), "anchored or stopped in the Gulf", "up-bad"),
+    tile("In transit now", fmtInt(last.transit), fmtInt(last.tanker) + " of them tankers", "", sparkline(pts.slice(-48).map(p => p.transit), "var(--series-1)", 150, 24)),
+    tile("Stranded now", fmtInt(last.stranded), "anchored or stopped in the Gulf", "up-bad", sparkline(pts.slice(-48).map(p => p.stranded), "var(--series-2)", 150, 24)),
     tile("Military vessels in zone", fmtInt(last.military), "AIS-broadcasting only", ""),
   );
   if (snap?.hormuz?.arrivals24hTotal != null)
     lt.append(tile("Port arrivals, last 24 h", fmtInt(snap.hormuz.arrivals24hTotal),
       "across " + snap.hormuz.portsContributing + " Gulf ports (Fujairah, Bandar Abbas, Jebel Ali…)", ""));
 
-  const W = Math.max(560, box.clientWidth || 900), H = 240;
+  const M = chartMargins(box);
+  const W = Math.max(420, box.clientWidth || 900), H = 250;
   const svg = svgEl("svg", { viewBox: "0 0 " + W + " " + H, width: "100%", role: "img", "aria-label": "Hourly vessels in transit and stranded, last 7 days" });
   const vals = pts.flatMap(p => [p.transit, p.stranded]).filter(v => v != null);
   const yMax = Math.ceil(Math.max(...vals) / 100) * 100 + 50;
-  const { plotW, plotH, y } = frame(svg, W, H, 0, yMax, v => fmtInt(v));
+  const { plotW, plotH, y } = frame(svg, W, H, 0, yMax, v => fmtInt(v), M);
   const t0 = pts[0].t, t1 = pts[pts.length - 1].t;
   const x = t => M.left + (t - t0) / (t1 - t0) * plotW;
   for (const tv of niceTicks(t0, t1, 6)) {
-    const txt = svgEl("text", { x: x(tv), y: H - 8, "text-anchor": "middle" }); txt.textContent = dayFmt(tv); svg.append(txt);
+    const txt = svgEl("text", { x: x(tv), y: H - 7, "text-anchor": "middle" }); txt.textContent = dayFmt(tv); svg.append(txt);
   }
   const series = [["transit", "var(--series-1)", "in transit"], ["stranded", "var(--series-2)", "stranded"]];
   for (const [key, color] of series) {
     const seg = pts.filter(p => p[key] != null);
     const line = seg.map((p, i) => (i ? "L" : "M") + x(p.t).toFixed(1) + " " + y(p[key]).toFixed(1)).join(" ");
-    svg.append(svgEl("path", { d: line, fill: "none", stroke: color, "stroke-width": 2, "stroke-linejoin": "round", "stroke-linecap": "round" }));
+    svg.append(svgEl("path", { d: line + " L" + x(seg[seg.length - 1].t).toFixed(1) + " " + (M.top + plotH) + " L" + x(seg[0].t).toFixed(1) + " " + (M.top + plotH) + " Z", fill: color, opacity: 0.07 }));
+    svg.append(svgEl("path", { d: line, fill: "none", stroke: color, "stroke-width": 2.2, "stroke-linejoin": "round", "stroke-linecap": "round" }));
     const end = seg[seg.length - 1];
-    svg.append(svgEl("circle", { cx: x(end.t), cy: y(end[key]), r: 4, fill: color, stroke: "var(--surface-1)", "stroke-width": 2 }));
+    svg.append(svgEl("circle", { cx: x(end.t), cy: y(end[key]), r: 4, fill: color, stroke: "var(--surface)", "stroke-width": 2 }));
     const lbl = svgEl("text", { x: x(end.t) + 8, y: y(end[key]) + 4, class: "endlabel" });
     lbl.textContent = fmtInt(end[key]); svg.append(lbl);
   }
@@ -744,24 +1133,25 @@ function popupEl(title, lines) {
   }
   return d;
 }
+function setMapTiles() {
+  if (!state.map) return;
+  if (state.mapTiles) state.map.removeLayer(state.mapTiles);
+  const dark = document.documentElement.dataset.theme === "dark";
+  state.mapTiles = L.tileLayer("https://{s}.basemaps.cartocdn.com/" + (dark ? "dark_all" : "light_all") + "/{z}/{x}/{y}{r}.png",
+    { attribution: "&copy; OpenStreetMap contributors &copy; CARTO", maxZoom: 12 }).addTo(state.map);
+}
 function renderMap(portsRes, chokeRes, pipeRes, vesselsRes) {
   if (typeof L === "undefined") return;   /* leaflet CDN blocked — map stays hidden */
   $("map-card").hidden = false;
   if (!state.map) {
     state.map = L.map("map", { scrollWheelZoom: false });
     state.map.fitBounds([[23.7, 49.5], [28.6, 59.5]]);
-    const dark = matchMedia("(prefers-color-scheme: dark)");
-    const setTiles = () => {
-      if (state.tiles) state.map.removeLayer(state.tiles);
-      state.tiles = L.tileLayer("https://{s}.basemaps.cartocdn.com/" + (dark.matches ? "dark_all" : "light_all") + "/{z}/{x}/{y}{r}.png",
-        { attribution: "&copy; OpenStreetMap contributors &copy; CARTO", maxZoom: 12 }).addTo(state.map);
-    };
-    setTiles(); dark.addEventListener("change", setTiles);
+    setMapTiles();
     state.mapMarkers = L.layerGroup().addTo(state.map);
   }
   const g = state.mapMarkers; g.clearLayers();
   const v = vesselsRes;
-  const rect = L.rectangle([[24, 55], [28, 58]], { color: "#3987e5", weight: 1, fillOpacity: 0.05, dashArray: "4 4" });
+  const rect = L.rectangle([[24, 55], [28, 58]], { color: "#4da3ff", weight: 1, fillOpacity: 0.05, dashArray: "4 4" });
   rect.bindPopup(popupEl("AIS watch zone", [
     fmtInt(v?.count) + " vessels on live AIS right now",
     fmtInt(v?.byType?.tanker) + " tankers · " + fmtInt(v?.byType?.cargo) + " cargo",
@@ -771,7 +1161,7 @@ function renderMap(portsRes, chokeRes, pipeRes, vesselsRes) {
   for (const c of chokeRes?.chokepoints || []) {
     const co = CHOKE_COORDS[c.key]; if (!co) continue;
     const pct = c.preCrisisBaselineMedian ? Math.round(c.nTotal / c.preCrisisBaselineMedian * 100) : null;
-    const color = pct == null ? "#898781" : pct < 60 ? "#d03b3b" : pct < 85 ? "#ec835a" : pct <= 115 ? "#0ca30c" : "#3987e5";
+    const color = pct == null ? "#68798e" : pct < 60 ? "#f43f5e" : pct < 85 ? "#fb923c" : pct <= 115 ? "#34d399" : "#4da3ff";
     const m = L.circleMarker(co, { radius: 10, color, weight: 2, fillColor: color, fillOpacity: 0.35 });
     m.bindPopup(popupEl(c.label, [
       fmtInt(c.nTotal) + " transits/day — " + (pct ?? "—") + "% of pre-crisis norm",
@@ -783,7 +1173,7 @@ function renderMap(portsRes, chokeRes, pipeRes, vesselsRes) {
     if (p.lat == null) continue;
     const m = L.circleMarker([p.lat, p.lng], {
       radius: Math.max(5, Math.min(14, Math.sqrt(p.total || 1) * 2.2)),
-      color: "#3987e5", weight: 2, fillColor: "#3987e5", fillOpacity: 0.35,
+      color: "#4da3ff", weight: 2, fillColor: "#4da3ff", fillOpacity: 0.35,
     });
     m.bindPopup(popupEl(p.name + " (port)", [
       p.context,
@@ -794,7 +1184,7 @@ function renderMap(portsRes, chokeRes, pipeRes, vesselsRes) {
   }
   for (const t of PIPE_TERMINALS) {
     const p = (pipeRes?.pipelines || []).find(x => (x.name || "").toLowerCase().includes(t.key));
-    const m = L.circleMarker([t.lat, t.lng], { radius: 7, color: "#9085e9", weight: 2, fillColor: "#9085e9", fillOpacity: 0.5 });
+    const m = L.circleMarker([t.lat, t.lng], { radius: 7, color: "#a78bfa", weight: 2, fillColor: "#a78bfa", fillOpacity: 0.5 });
     m.bindPopup(popupEl(t.name, p ? [
       "Hormuz-bypass pipeline · " + p.currentUtilizationPct + "% of " + fmt(p.capacityBpd / 1e6, 1) + " mb/d",
       "status: " + p.status,
@@ -804,12 +1194,55 @@ function renderMap(portsRes, chokeRes, pipeRes, vesselsRes) {
   $("map-note").textContent = fmtInt(v?.count ?? 0) + " vessels on live AIS in the strait watch box · zoom out for Bab el-Mandeb & Suez · click any marker";
 }
 
-/* ---------- carrier posture ---------- */
+/* ---------- supply buffers ---------- */
+function renderBuffers(sprRes, cushRes, pipeRes) {
+  const t = $("buffer-tiles"); t.replaceChildren();
+  const spr = sprRes?.spr, cush = cushRes?.cushing;
+  if (spr) {
+    const d = spr.change4wMbbl;
+    t.append(tile("US Strategic Petroleum Reserve", fmt(spr.currentMbbl, 1) + "M bbl",
+      (d >= 0 ? "▲ +" : "▼ −") + fmt(Math.abs(d), 1) + "M bbl in 4 weeks (EIA, " + spr.asOfDate + ")",
+      d < 0 ? "down-bad" : "up-good"));
+  }
+  if (spr && spr.change4wMbbl < 0) {
+    const perDay = -spr.change4wMbbl / 28;
+    const days = Math.round(spr.currentMbbl / perDay);
+    const empty = new Date(Date.parse(spr.asOfDate) + days * 864e5);
+    t.append(tile("US SPR runway at current draw", days + " days",
+      "−" + fmt(perDay, 2) + "M bbl/day → empty ≈ " +
+      empty.toLocaleDateString("en-GB", { day: "numeric", month: "short", year: "numeric" }) +
+      " (linear projection)", "down-bad"));
+  }
+  if (cush) {
+    const d = cush.change4wMbbl;
+    t.append(tile("Cushing hub stocks (WTI delivery)", fmt(cush.currentMbbl, 1) + "M bbl",
+      (d >= 0 ? "▲ +" : "▼ −") + fmt(Math.abs(d), 1) + "M bbl in 4 weeks · near tank bottoms",
+      d < 0 ? "down-bad" : "up-good"));
+  }
+  const m = $("pipeline-meters"); m.replaceChildren();
+  for (const p of pipeRes?.pipelines || []) {
+    const pct = p.currentUtilizationPct;
+    const color = p.status !== "operational" ? "var(--muted)"
+      : pct >= 95 ? "var(--critical)" : pct >= 85 ? "var(--serious)" : pct >= 60 ? "var(--warning)" : "var(--good)";
+    const c = document.createElement("div"); c.className = "meter-card";
+    const h = document.createElement("div"); h.className = "meter-head";
+    const l = document.createElement("span"); l.textContent = p.name + " → " + p.terminus;
+    const v = document.createElement("b"); v.textContent = pct + "% of " + fmt(p.capacityBpd / 1e6, 1) + " mb/d";
+    h.append(l, v);
+    const track = document.createElement("div"); track.className = "meter-track";
+    track.style.background = "color-mix(in srgb, " + color + " 18%, var(--surface))";
+    const fill = document.createElement("div"); fill.className = "meter-fill";
+    fill.style.width = Math.min(100, pct) + "%"; fill.style.background = color;
+    track.append(fill); c.append(h, track); m.append(c);
+  }
+}
+
+/* ---------- container carrier posture ---------- */
 function renderCarriers(res) {
   const list = res?.carriers || [];
   if (!list.length) return;
   $("carriers-card").hidden = false;
-  const sev = { suspended: "var(--critical)", rerouting: "var(--serious)", limited: "var(--warning)", transiting: "var(--good)" };
+  const sev = { suspended: "var(--critical-text)", rerouting: "var(--serious)", limited: "var(--warning)", transiting: "var(--good-text)" };
   const suspended = list.filter(c => c.status === "suspended").length;
   const trapped = list.reduce((a, c) => a + (c.trappedTeu || 0), 0);
   $("carriers-note").textContent = suspended + " of " + list.length + " suspended · " +
@@ -937,10 +1370,14 @@ function renderReserves(sprRes, impact) {
 }
 
 /* ---------- events ---------- */
+function filteredEvents() {
+  return state.sevFilter === "all" ? state.events : state.events.filter(e => (e.severity || "low") === state.sevFilter);
+}
 function renderEvents() {
   const ul = $("events"); ul.replaceChildren();
-  const evs = state.events.slice(0, state.eventsShown);
-  $("events-note").textContent = state.events.length + " events · GDELT + curated";
+  const list = filteredEvents();
+  const evs = list.slice(0, state.eventsShown);
+  $("events-note").textContent = (state.sevFilter === "all" ? state.events.length + " events" : list.length + " " + state.sevFilter + " of " + state.events.length) + " · GDELT + curated";
   for (const e of evs) {
     const li = document.createElement("li");
     const sev = document.createElement("span"); sev.className = "ev-sev " + (e.severity || "low");
@@ -955,9 +1392,15 @@ function renderEvents() {
     } else meta.append(document.createTextNode(e.sourceName || ""));
     body.append(t, meta); li.append(sev, body); ul.append(li);
   }
-  $("events-more").hidden = state.eventsShown >= state.events.length;
+  $("events-more").hidden = state.eventsShown >= list.length;
 }
 $("events-more").addEventListener("click", () => { state.eventsShown += 12; renderEvents(); });
+$("sev-filters").addEventListener("click", ev => {
+  const b = ev.target.closest("button"); if (!b) return;
+  for (const x of $("sev-filters").querySelectorAll("button")) x.setAttribute("aria-pressed", x === b);
+  state.sevFilter = b.dataset.sev; state.eventsShown = 12;
+  renderEvents();
+});
 
 /* ---------- data loading ---------- */
 async function loadAll() {
@@ -989,13 +1432,18 @@ async function loadAll() {
   if (oil) state.oil = oil.map(r => ({ t: Date.parse(r.timestamp_iso), brent: +r.brent_usd, wti: +r.wti_usd })).filter(p => p.brent > 0).sort((a, b) => a.t - b.t);
   if (transits) state.transits = transits.map(r => ({ t: Date.parse(r.date), tanker: +r.n_tanker, other: Math.max(0, (+r.n_total) - (+r.n_tanker)) })).sort((a, b) => a.t - b.t);
   if (events) state.events = events.events || [];
+  if (status && status[0]) state.statusRow = status[0];
+  if (gas) state.gas = gas;
   if (live) {
+    state.live = live;
     state.preCrisisBaseline = live.transits?.baseline || 88;
     state.lastTanker = live.dailyTransits?.nTanker;
     state.transitsAsOf = live.transits?.asOfDate;
-    renderMeters(live.hormuzIndex, idxHist);
   }
-  if (status && status[0]) renderTiles(status[0], gas);
+  if (idxHist) state.idxHist = idxHist;
+  renderHero();
+  renderTicker();
+  renderTiles();
   renderBuffers(spr, cushing, pipelines);
   renderReserves(spr, impact);
   renderBrief(briefs);
@@ -1005,22 +1453,59 @@ async function loadAll() {
   renderChokepoints(chokepoints);
   renderMap(ports, chokepoints, pipelines, vessels);
   const failed = results.filter(r => r.status === "rejected").length;
-  if (failed) $("err").textContent = " ⚠ " + failed + " feed(s) failed to load — will retry on next refresh.";
+  const alertBox = $("alert");
+  if (failed) {
+    $("alert-inner").textContent = "⚠ " + failed + " of " + results.length + " data feeds failed to load — showing the last good data, retrying automatically.";
+    alertBox.hidden = false;
+  } else alertBox.hidden = true;
   renderOilChart(); renderTransitsChart(); renderEvents();
   for (const id of ["oil-card", "transit-card"]) $(id).classList.remove("refreshing");
+  state.nextRefreshAt = Date.now() + 300_000;
 }
 async function tick() {
   try {
     const t = await getJSON(API + "/api/v1/tick");
     if (t.oil) {
-      $("updated").textContent = "updated " + timeFmt(t.asOf);
-      const tiles = $("tiles").children;
-      if (tiles[0]) tiles[0].querySelector(".value").textContent = "$" + fmt(t.oil.brent);
+      const el = $("tick-brent");
+      if (el) el.textContent = "$" + fmt(t.oil.brent);
+      if (state.statusRow) $("hero-updated").textContent = "updated " + relTime(t.asOf) + " · " + timeFmt(t.asOf);
     }
   } catch (e) { /* transient — full refresh will recover */ }
 }
 
-/* ---------- filters & table toggles ---------- */
+/* ---------- refresh countdown ---------- */
+setInterval(() => {
+  if (document.hidden || !state.nextRefreshAt) return;
+  const s = Math.max(0, Math.round((state.nextRefreshAt - Date.now()) / 1000));
+  $("refresh-label").textContent = "next refresh " + Math.floor(s / 60) + ":" + String(s % 60).padStart(2, "0");
+}, 1000);
+$("refresh-btn").addEventListener("click", async () => {
+  const btn = $("refresh-btn"); btn.classList.add("spinning");
+  try { await loadAll(); } finally { btn.classList.remove("spinning"); }
+});
+
+/* ---------- copy status summary ---------- */
+$("copy-btn").addEventListener("click", async () => {
+  const s = state.statusRow; if (!s) return;
+  const text = [
+    "HORMUZ WATCH — " + timeFmt(s.as_of),
+    "Strait: " + (s.verdict_status || "").toUpperCase() + " (day " + s.days_since_closure + ")",
+    "Brent $" + fmt(s.brent_usd) + " (" + (Number(s.brent_change_24h_pct) >= 0 ? "+" : "") + fmt(s.brent_change_24h_pct) + "% 24h) · WTI $" + fmt(s.wti_usd),
+    "Transits: " + fmtInt(s.transits_count) + "/day vs " + fmtInt(s.transits_baseline) + " pre-crisis (" + s.transits_throughput_pct + "%)",
+    "Stranded vessels: " + fmtInt(s.ships_stranded) + " · War-risk insurance: " + s.insurance_multiple + "×",
+    "via https://supamanluva.github.io/hormuz-watch/",
+  ].join("\n");
+  const btn = $("copy-btn");
+  try {
+    await navigator.clipboard.writeText(text);
+    btn.textContent = "✓ Copied";
+  } catch (e) {
+    btn.textContent = "Copy failed";
+  }
+  setTimeout(() => btn.textContent = "📋 Copy status summary", 1800);
+});
+
+/* ---------- range filters & table toggles ---------- */
 $("range-filters").addEventListener("click", ev => {
   const b = ev.target.closest("button"); if (!b) return;
   for (const x of $("range-filters").querySelectorAll("button")) x.setAttribute("aria-pressed", x === b);
@@ -1034,11 +1519,39 @@ for (const btn of document.querySelectorAll(".tbl-btn")) {
     btn.textContent = on ? "Chart view" : "Table view";
   });
 }
-addEventListener("resize", () => { renderOilChart(); renderTransitsChart(); });
 
+/* ---------- scroll-spy nav ---------- */
+const spyLinks = new Map([...document.querySelectorAll("[data-spy-link]")].map(a => [a.dataset.spyLink, a]));
+const spy = new IntersectionObserver(entries => {
+  for (const en of entries) {
+    if (!en.isIntersecting) continue;
+    for (const a of spyLinks.values()) a.classList.remove("active");
+    const link = spyLinks.get(en.target.id);
+    if (link) {
+      link.classList.add("active");
+      const nav = $("nav-inner");   /* keep the active pill in view — horizontal only, never scroll the page */
+      nav.scrollTo({ left: link.offsetLeft - nav.clientWidth / 2 + link.clientWidth / 2, behavior: REDUCED ? "auto" : "smooth" });
+    }
+  }
+}, { rootMargin: "-20% 0px -65% 0px" });
+for (const id of spyLinks.keys()) { const el = $(id); if (el) spy.observe(el); }
+
+/* ---------- back to top ---------- */
+addEventListener("scroll", () => $("to-top").classList.toggle("show", scrollY > 700), { passive: true });
+$("to-top").addEventListener("click", () => scrollTo({ top: 0, behavior: REDUCED ? "auto" : "smooth" }));
+
+/* ---------- resize (debounced) ---------- */
+let resizeT;
+addEventListener("resize", () => {
+  clearTimeout(resizeT);
+  resizeT = setTimeout(() => { renderOilChart(); renderTransitsChart(); }, 160);
+});
+
+/* ---------- boot ---------- */
 loadAll();
-setInterval(tick, 60_000);
-setInterval(loadAll, 300_000);
+setInterval(() => { if (!document.hidden) tick(); }, 60_000);
+setInterval(() => { if (!document.hidden) loadAll(); }, 300_000);
+document.addEventListener("visibilitychange", () => { if (!document.hidden) tick(); });
 </script>
 </body>
 </html>
