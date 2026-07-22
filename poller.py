@@ -296,8 +296,9 @@ def poll_ais() -> None:
 
 
 # GDELT is polled server-side: its API answers without CORS headers whenever it
-# rate-limits, which makes browser-side fetches unreliable. GitHub-Actions IPs
-# get one request per ~20 min — comfortably inside the 1 req / 5 s limit.
+# rate-limits, which makes browser-side fetches unreliable. Its per-IP limit is
+# shared across all GitHub-Actions runners, so 429s are common — retry with
+# backoff and accept that some runs simply skip (the last good file persists).
 GDELT_FILE = DATA / "gdelt.json"
 GDELT_QUERIES = {
     # US/Iran-sourced news tone about Iran — negotiation rhetoric index
@@ -311,7 +312,16 @@ GDELT_QUERIES = {
 def gdelt_series(query: str, mode: str, timespan: str) -> list:
     url = ("https://api.gdeltproject.org/api/v2/doc/doc?query=" +
            urllib.parse.quote(query) + f"&mode={mode}&format=json&timespan={timespan}")
-    j = json.loads(fetch(url))
+    j = None
+    for attempt in range(3):
+        try:
+            j = json.loads(fetch(url))
+            break
+        except Exception as e:
+            if attempt == 2:
+                raise
+            print(f"gdelt: attempt {attempt + 1} failed ({e}), backing off", file=sys.stderr)
+            time.sleep(30)
     arr = j.get("timeline") or j.get("data") or (j if isinstance(j, list) else [])
     out = []
     for d in arr:
