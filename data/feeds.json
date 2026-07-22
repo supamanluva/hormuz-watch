@@ -1,6 +1,28 @@
 {
- "asOf": "2026-07-22T14:55:56.347235+00:00",
+ "asOf": "2026-07-22T15:42:00.580609+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "53 martyred, 592 wounded in recent US aggression on Iran: Health Ministry",
+   "url": "https://en.irna.ir/news/86216793/53-martyred-592-wounded-in-recent-US-aggression-on-Iran-Health",
+   "published": "2026-07-22T15:33:14+00:00",
+   "summary": "Tehran, IRNA – The Iranian Ministry of Health reports that US airstrikes on the country between June 27 and the morning of July 31 left 53 people martyred and 592 others wounded.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Enemy unable to track Iran’s missile production sites: General",
+   "url": "https://en.irna.ir/news/86216707/Enemy-unable-to-track-Iran-s-missile-production-sites-General",
+   "published": "2026-07-22T14:54:13+00:00",
+   "summary": "Tehran, IRNA – The senior spokesperson of the Iranian Armed Forces, Brigadier General Abolfazl Shekarchi, indicates that Iran’s enemies remain unable to locate where the country manufactures its missiles, despite deploying all available spy tools.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "[No Title] - Post from July 22, 2026",
@@ -574,28 +596,6 @@
    "summary": "Tehran, IRNA – Warning Bulgaria against any involvement in the US aggression toward Iran, the foreign ministry spokesperson stated that cooperation in these illegal attacks constitutes complicity in war crimes.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "Fact Sheet: President Donald J. Trump Announces Trade Deal with Jordan",
-   "url": "https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-announces-trade-deal-with-jordan/",
-   "published": "2026-07-21T15:56:03+00:00",
-   "summary": "DELIVERING ON RECIPROCAL TRADE:&#160;Today, President Donald J. Trump announced a landmark trade deal with Jordan.&#160; Key terms of the Agreement with Jordan include: THE PROSPEROUS PATH FORWARD:&#160;Today’s announcement reinforces America’s strategic partnership with one of America’s most valued partners in the Middle East while fostering reciprocal conditions that prioritize American workers ",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "AGREEMENT BETWEEN THE UNITED STATES OF AMERICA AND THE HASHEMITE KINGDOM OF JORDAN ON RECIPROCAL TRADE",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/07/agreement-between-the-united-states-of-america-and-the-hashemite-kingdom-of-jordan-on-reciprocal-trade/",
-   "published": "2026-07-21T15:55:51+00:00",
-   "summary": "AGREEMENT BETWEEN THE UNITED STATES OF AMERICA AND THE HASHEMITE KINGDOM OF JORDAN ON RECIPROCAL TRADE Preamble&#160; The United States of America (“United States”) and the Hashemite Kingdom of Jordan (“Jordan”) (individually a “Party” and collectively “the Parties”),&#160; EMPHASIZING their shared values, including democracy, economic freedom, and the rule of law;&#160; RECOGNIZING the special bo",
-   "tags": [
-    "diplomacy"
    ],
    "highlight": false
   }
