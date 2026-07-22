@@ -1,12 +1,46 @@
 {
- "asOf": "2026-07-22T15:42:00.580609+00:00",
+ "asOf": "2026-07-22T16:13:47.314846+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iraqi envoy says Baghdad committed to deeper ties with Iran",
+   "url": "https://en.irna.ir/news/86216821/Iraqi-envoy-says-Baghdad-committed-to-deeper-ties-with-Iran",
+   "published": "2026-07-22T16:06:39+00:00",
+   "summary": "Tehran, IRNA – Iraq’s ambassador to Iran, Yasser Abdulzahra Al-Hajjaj, says that an upcoming visit by Iraqi Prime Minister Ali Al-Zaidi to Tehran reflects Baghdad’s commitment to expanding bilateral cooperation and strengthening coordination on issues of mutual interest.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Proposed US-Saudi nuclear energy deal: What we know so far",
+   "url": "https://www.aljazeera.com/news/2026/7/22/proposed-us-saudi-nuclear-energy-deal-what-we-know-so-far?traffic_source=rss",
+   "published": "2026-07-22T15:46:56+00:00",
+   "summary": "Reports suggest ‌the Trump administration backs a pact with Saudi Arabia allowing it to enrich uranium.",
+   "tags": [
+    "diplomacy",
+    "nuclear"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "53 martyred, 592 wounded in recent US aggression on Iran: Health Ministry",
    "url": "https://en.irna.ir/news/86216793/53-martyred-592-wounded-in-recent-US-aggression-on-Iran-Health",
    "published": "2026-07-22T15:33:14+00:00",
    "summary": "Tehran, IRNA – The Iranian Ministry of Health reports that US airstrikes on the country between June 27 and the morning of July 31 left 53 people martyred and 592 others wounded.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Trump threatens to bomb Iranian bridges, power plants over ship attacks",
+   "url": "https://www.aljazeera.com/news/2026/7/22/trump-threatens-to-bomb-iranian-bridges-power-plants-over-ship-attacks?traffic_source=rss",
+   "published": "2026-07-22T15:24:13+00:00",
+   "summary": "Iranian official says Tehran would retaliate by targeting &#039;energy facilities in which the United States has interests&#039;.",
    "tags": [
     "strikes"
    ],
@@ -566,37 +600,6 @@
    "published": "2026-07-21T17:49:00+00:00",
    "summary": "One year after President Donald J. Trump signed the Working Families Tax Cuts into law, a new report confirms the legislation has delivered a powerful manufacturing resurgence in every state. The landmark law has sustained nearly six million American jobs, preserved more than $1 trillion in economic output, and safeguarded $540 billion in wages — [&#8230;] The post President Trump’s Working Famili",
    "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Damien Mama of Benin Appointed Ad Interim Deputy Special Representative, United Nations Organization Stabilization Mission in Democratic Republic of the Congo",
-   "url": "https://press.un.org/en/2026/sga2434.doc.htm",
-   "published": "2026-07-21T17:16:00+00:00",
-   "summary": "United Nations Secretary-General António Guterres today announced the appointment of Damien Mama of Benin as his Ad Interim Deputy Special Representative in the United Nations Organization Stabilization Mission in the Democratic Republic of the Congo (MONUSCO) and Ad Interim Resident Coordinator in the Democratic Republic of the Congo.",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran, Pakistan agree to strengthen cooperation on regional security",
-   "url": "https://en.irna.ir/news/86215790/Iran-Pakistan-agree-to-strengthen-cooperation-on-regional-security",
-   "published": "2026-07-21T16:46:55+00:00",
-   "summary": "Tehran, IRNA – Interior Minister Eskandar Momeni and Pakistan’s army chief Field Marshal Asim Munir have agreed to strengthen coordination and cooperation to safeguard regional security during talks in Rawalpindi, Pakistan’s military said.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran warns Bulgaria against any involvement in US aggression",
-   "url": "https://en.irna.ir/news/86215793/Iran-warns-Bulgaria-against-any-involvement-in-US-aggression",
-   "published": "2026-07-21T16:30:56+00:00",
-   "summary": "Tehran, IRNA – Warning Bulgaria against any involvement in the US aggression toward Iran, the foreign ministry spokesperson stated that cooperation in these illegal attacks constitutes complicity in war crimes.",
-   "tags": [
-    "strikes"
-   ],
    "highlight": false
   }
  ]
