@@ -1,6 +1,18 @@
 {
- "asOf": "2026-07-22T21:41:51.708998+00:00",
+ "asOf": "2026-07-22T22:10:39.000656+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "US and Saudi Arabia announce nuclear cooperation deal",
+   "url": "https://www.aljazeera.com/news/2026/7/22/us-and-saudi-arabia-announce-nuclear-cooperation-deal?traffic_source=rss",
+   "published": "2026-07-22T21:30:25+00:00",
+   "summary": "Trump administration says &#039;historic&#039; agreement will &#039;reinforce global nonproliferation standards&#039; and create jobs in US.",
+   "tags": [
+    "diplomacy",
+    "nuclear"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Khatam al-Anbia warns US against attacking infrastructure",
@@ -601,15 +613,6 @@
    "tags": [
     "strikes"
    ],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Security Council, 10200th Meeting (AM & PM) Critical Minerals",
-   "url": "https://press.un.org/en/blog/sc16419",
-   "published": "2026-07-21T22:01:11+00:00",
-   "summary": "The Security Council holds an open debate on \"natural resources governance: the foundation of peace, security and prosperity”.",
-   "tags": [],
    "highlight": false
   }
  ]
