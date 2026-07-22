@@ -321,7 +321,7 @@ def gdelt_series(query: str, mode: str, timespan: str) -> list:
             if attempt == 2:
                 raise
             print(f"gdelt: attempt {attempt + 1} failed ({e}), backing off", file=sys.stderr)
-            time.sleep(30)
+            time.sleep(60)
     arr = j.get("timeline") or j.get("data") or (j if isinstance(j, list) else [])
     out = []
     for d in arr:
@@ -335,14 +335,28 @@ def gdelt_series(query: str, mode: str, timespan: str) -> list:
 
 
 def poll_gdelt() -> None:
+    # fetch each series independently: one query being rate-limited must not
+    # cost the other (CI/shared IPs get 429s often; any success is kept)
+    tone, vol = [], []
     try:
         tone = gdelt_series(*GDELT_QUERIES["tone"])
-        time.sleep(6)  # stay well under GDELT's per-IP rate limit
+    except Exception as e:
+        print(f"warn: gdelt tone: {e}", file=sys.stderr)
+    time.sleep(10)
+    try:
         vol = gdelt_series(*GDELT_QUERIES["strikeVol"])
     except Exception as e:
-        print(f"warn: gdelt: {e}", file=sys.stderr)
-        return
+        print(f"warn: gdelt strikeVol: {e}", file=sys.stderr)
+    # merge into the previous file so a series that failed keeps its last value
     out = {"asOf": datetime.now(timezone.utc).isoformat()}
+    if GDELT_FILE.exists():
+        try:
+            prev_file = json.loads(GDELT_FILE.read_text())
+            for k in ("tone", "strikeVol"):
+                if k in prev_file:
+                    out[k] = prev_file[k]
+        except (json.JSONDecodeError, OSError):
+            pass
     if len(tone) > 7:
         out["tone"] = {"latest": tone[-1]["v"], "delta7": tone[-1]["v"] - tone[-8]["v"]}
     if len(vol) > 2:
