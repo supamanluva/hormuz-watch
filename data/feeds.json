@@ -1,6 +1,26 @@
 {
- "asOf": "2026-07-22T16:13:47.314846+00:00",
+ "asOf": "2026-07-22T16:56:24.893122+00:00",
  "items": [
+  {
+   "source": "Trump · Truth Social",
+   "title": "[No Title] - Post from July 22, 2026",
+   "url": "https://trumpstruth.org/statuses/40214",
+   "published": "2026-07-22T16:51:35+00:00",
+   "summary": "",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Exclusive | Beijing backs Iran’s sovereignty, seeks peace in West Asia: Chinese envoy",
+   "url": "https://en.irna.ir/news/86216848/Exclusive-Beijing-backs-Iran-s-sovereignty-seeks-peace-in",
+   "published": "2026-07-22T16:36:43+00:00",
+   "summary": "Tehran, IRNA – The Chinese ambassador to Tehran says his country has always supported Iran’s efforts to defend its sovereignty and national interests, emphasizing Beijing’s willingness to play a constructive role in restoring peace and security to the West Asian region.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Iraqi envoy says Baghdad committed to deeper ties with Iran",
@@ -9,6 +29,17 @@
    "summary": "Tehran, IRNA – Iraq’s ambassador to Iran, Yasser Abdulzahra Al-Hajjaj, says that an upcoming visit by Iraqi Prime Minister Ali Al-Zaidi to Tehran reflects Baghdad’s commitment to expanding bilateral cooperation and strengthening coordination on issues of mutual interest.",
    "tags": [
     "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "War on Iran: Hegseth wants $70B more to keep fighting",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/war-on-iran-hegseth-wants-70b-more-to-keep-fighting?traffic_source=rss",
+   "published": "2026-07-22T15:52:54+00:00",
+   "summary": "Iran activated air defence systems across Tehran on the 11th night of US strikes.",
+   "tags": [
+    "strikes"
    ],
    "highlight": false
   },
@@ -511,15 +542,6 @@
    "highlight": true
   },
   {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from July 22, 2026",
-   "url": "https://trumpstruth.org/statuses/40188",
-   "published": "2026-07-22T03:23:11+00:00",
-   "summary": "",
-   "tags": [],
-   "highlight": true
-  },
-  {
    "source": "White House",
    "title": "OSTP Director Releases Landmark Report and Recommendations for Renewing American Scientific Discovery",
    "url": "https://www.whitehouse.gov/releases/2026/07/45470/",
@@ -581,24 +603,6 @@
    "url": "https://www.whitehouse.gov/releases/2026/07/democrat-glitch-registers-thousands-of-noncitizens-to-vote-another-reason-to-pass-the-save-america-act/",
    "published": "2026-07-21T19:31:04+00:00",
    "summary": "Democrat New Jersey Gov. Mikie Sherrill admitted today that a “software glitch” registered approximately 6,600 noncitizens to vote in her state between 2023 and 2024 — and hundreds of them actually cast ballots. This is the direct result of Democrat policies that refuse basic citizenship checks — and exactly why Congress must pass the SAVE [&#8230;] The post Democrat “Glitch” Registers Thousands o",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General",
-   "url": "https://press.un.org/en/2026/db260721.doc.htm",
-   "published": "2026-07-21T18:04:47+00:00",
-   "summary": "In Rwanda, the UN and aid partners are supporting a $40 million Government-led preparedness plan against Ebola, through surveillance, laboratory capacity, case management, infection prevention and control, water and sanitation, and risk communication. The UN Central Emergency Response Fund has allocated $2 million.",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "President Trump’s Working Families Tax Cuts Ignite Manufacturing Renaissance Across All 50 States",
-   "url": "https://www.whitehouse.gov/releases/2026/07/president-trumps-working-families-tax-cuts-ignite-manufacturing-renaissance-across-all-50-states/",
-   "published": "2026-07-21T17:49:00+00:00",
-   "summary": "One year after President Donald J. Trump signed the Working Families Tax Cuts into law, a new report confirms the legislation has delivered a powerful manufacturing resurgence in every state. The landmark law has sustained nearly six million American jobs, preserved more than $1 trillion in economic output, and safeguarded $540 billion in wages — [&#8230;] The post President Trump’s Working Famili",
    "tags": [],
    "highlight": false
   }
