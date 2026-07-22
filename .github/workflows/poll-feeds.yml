@@ -1,0 +1,30 @@
+---
+name: Poll feeds and AIS
+
+on:
+  schedule:
+    - cron: "7,27,47 * * * *"   # every 20 min, offset from herd marks
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  poll:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install websocket-client (AIS stream only)
+        run: pip install websocket-client
+      - name: Run poller
+        env:
+          AISSTREAM_KEY: ${{ secrets.AISSTREAM_KEY }}
+        run: python3 poller.py
+      - name: Commit data
+        run: |
+          git config user.name "hormuz-watch-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet && echo "no changes" && exit 0
+          git commit -m "data: feeds + AIS $(date -u +%F\ %H:%M) UTC"
+          git push

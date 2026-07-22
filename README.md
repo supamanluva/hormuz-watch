@@ -37,13 +37,25 @@ strait; it has been effectively closed to commercial shipping since 2026-02-28.
   (EIA weekly) and Hormuz-bypass pipeline utilization
 - **Strategic reserves** — major holders compared, with trade-impact tiles
 - **Prediction markets** — Polymarket/Kalshi odds on war outcomes
+- **Oil price pressure gauge** — composite 0–100 indicator of upward price
+  pressure (transits, Brent momentum, weekly inventory draws, COT positioning,
+  Polymarket oil thresholds, strike-report volume, US–Iran rhetoric tone)
+- **Oil fundamentals** — weekly US crude/Cushing/SPR stock changes, Brent–WTI
+  spread, speculative net positioning, DXY-style USD proxy
+- **Live AIS presence** — hourly vessel counts inside the Hormuz and
+  Bab el-Mandeb boxes (aisstream.io, collected by the repo poller)
+- **Political signals** — White House, Trump (Truth Social), IAEA, UN, OFAC
+  sanctions, IRNA and Al Jazeera items, keyword-tagged and filterable
 - **Container carrier posture** — who suspended, who's rerouting, TEU trapped
 - **Events feed** — strikes, ship attacks, closure/negotiation news
   (GDELT + curated, 15-min refresh), filterable by severity
 
-All data is fetched by the visitor's browser straight from the CORS-open
-straits.live API, so the published page is always current — no backend,
-no rebuilds.
+Core status data is fetched by the visitor's browser straight from the
+CORS-open straits.live API. Additional keyless sources (CFTC, Polymarket,
+Frankfurter FX) are also fetched browser-side; sources a browser cannot
+reach cross-origin (RSS feeds, GDELT, aisstream.io websockets) are polled
+server-side by a GitHub Action and committed to `data/`, so the published
+page is always current — no backend, no rebuilds.
 
 ## Design & UX
 
@@ -76,6 +88,25 @@ Everything comes from the free tier of the [straits.live API](https://straits.li
   (publishes with ~1 week lag)
 - **Yahoo Finance / EIA** — Brent & WTI prices
 - **GDELT + curated** — war/diplomacy events
+
+Plus, for the trigger-monitoring layer:
+
+- **CFTC COT** (Socrata), **Polymarket Gamma**, **Frankfurter** (ECB FX) —
+  keyless and CORS-open, fetched browser-side
+- **EIA API v2** — weekly stocks (crude/Cushing/SPR); needs a free key
+  pasted into `EIA_KEY` at the top of the script in `index.html`
+  ([register here](https://www.eia.gov/opendata/register.php)).
+  Note: EIA discontinued its futures-settlements route in April 2024, so no
+  free term-structure feed exists — the pressure gauge uses weekly inventory
+  draws as the supply-tightness leg instead.
+- **NASA FIRMS** — VIIRS fire detections near high-value energy sites
+  (refineries/terminals), shown on the map; free key into `FIRMS_KEY`
+  ([get one here](https://firms.modaps.eosdis.nasa.gov/api/map_key/))
+- **Repo poller** (`poller.py` + `.github/workflows/poll-feeds.yml`, every
+  ~20 min) collects what browsers can't fetch cross-origin and commits it to
+  `data/`: political RSS feeds → `feeds.json`, GDELT tone/strike volume →
+  `gdelt.json`, aisstream.io live AIS → `ais_transits.json` (needs an
+  `AISSTREAM_KEY` repo secret; without it the AIS step skips cleanly)
 
 ## History archive
 

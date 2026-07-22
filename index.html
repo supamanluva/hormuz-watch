@@ -356,6 +356,22 @@
   .meter-track { height: 6px; border-radius: 3px; margin-top: 9px; overflow: hidden; }
   .meter-fill { height: 100%; border-radius: 3px; transition: width 0.6s ease; }
 
+  /* ---------- oil price pressure signal ---------- */
+  .sig-layout { display: flex; gap: 26px; align-items: flex-start; flex-wrap: wrap; }
+  .sig-gauge { flex: none; text-align: center; }
+  .sig-components { flex: 1; min-width: 260px; }
+  .sig-method { color: var(--text-2); font-size: 13px; margin-top: 10px; }
+  .sig-method summary { cursor: pointer; color: var(--muted); font-size: 12px; font-weight: 600; }
+  .sig-method p { margin: 8px 0 0; line-height: 1.55; }
+
+  /* ---------- political signals ---------- */
+  .pol-src { flex: none; font: 700 10px var(--font-body); letter-spacing: 0.06em; width: 110px; padding-top: 3px; color: var(--text-2); }
+  .pol-src.hl { color: var(--serious); }
+  .pol-tags { margin-top: 3px; display: flex; gap: 6px; flex-wrap: wrap; }
+  .pol-tag { font: 600 10px var(--font-body); color: var(--muted); border: 1px solid var(--border); border-radius: 999px; padding: 1px 8px; }
+  .pol-hl { background: color-mix(in srgb, var(--serious) 7%, transparent); border-radius: 8px; }
+
+
   /* ---------- footer ---------- */
   footer { color: var(--muted); font-size: 12px; margin-top: 26px; line-height: 1.7; }
   footer a { color: var(--text-2); }
@@ -464,12 +480,14 @@
 <nav class="nav" aria-label="Section navigation">
   <div class="nav-inner" id="nav-inner">
     <a href="#overview" data-spy-link="overview">Overview</a>
+    <a href="#signal-card" data-spy-link="signal-card">Pressure</a>
     <a href="#live" data-spy-link="live">Live in the strait</a>
     <a href="#map-card" data-spy-link="map-card">Map</a>
     <a href="#oil-card" data-spy-link="oil-card">Charts</a>
     <a href="#buffers-card" data-spy-link="buffers-card">Supply buffers</a>
     <a href="#reserves-card" data-spy-link="reserves-card">Reserves</a>
     <a href="#markets-card" data-spy-link="markets-card">Markets</a>
+    <a href="#politics-card" data-spy-link="politics-card">Politics</a>
     <a href="#events-card" data-spy-link="events-card">Events</a>
   </div>
 </nav>
@@ -480,6 +498,22 @@
 
   <!-- key stats -->
   <section id="overview" style="scroll-margin-top: calc(var(--nav-h) + 16px)"><div class="tiles" id="tiles"></div></section>
+
+  <!-- oil price pressure signal -->
+  <section class="card" id="signal-card" hidden>
+    <div class="card-head">
+      <h2>Oil price pressure</h2>
+      <span class="note" id="signal-note"></span>
+    </div>
+    <div class="sig-layout">
+      <div class="sig-gauge" id="signal-gauge"></div>
+      <div class="sig-components" id="signal-components"></div>
+    </div>
+    <details class="sig-method">
+      <summary>How this is computed</summary>
+      <p id="signal-method-text"></p>
+    </details>
+  </section>
 
   <!-- daily brief -->
   <section class="card featured" id="brief-card" hidden>
@@ -540,6 +574,15 @@
     <div class="tablewrap"><table class="dataview" id="oil-table"></table></div>
   </section>
 
+  <!-- oil fundamentals -->
+  <section class="card" id="fundamentals-card" hidden>
+    <div class="card-head">
+      <h2>Oil fundamentals — stocks, spreads, positioning</h2>
+      <span class="note" id="fund-note"></span>
+    </div>
+    <div class="tiles" id="fund-tiles"></div>
+  </section>
+
   <!-- transits chart -->
   <section class="card" id="transit-card">
     <div class="card-head">
@@ -554,6 +597,20 @@
     </div>
     <div class="chart-box" id="transit-chart"></div>
     <div class="tablewrap"><table class="dataview" id="transit-table"></table></div>
+  </section>
+
+  <!-- live AIS transits (aisstream via repo poller) -->
+  <section class="card" id="ais-card" hidden>
+    <div class="card-head">
+      <h2>Live AIS presence — Hormuz &amp; Bab el-Mandeb</h2>
+      <span class="note" id="ais-note"></span>
+    </div>
+    <div class="tiles" id="ais-tiles" style="margin-bottom:12px"></div>
+    <div class="legend">
+      <span class="key"><span class="rect-key" style="background:var(--series-1)"></span>Hormuz</span>
+      <span class="key"><span class="rect-key" style="background:var(--series-2)"></span>Bab el-Mandeb</span>
+    </div>
+    <div class="chart-box" id="ais-chart"></div>
   </section>
 
   <!-- global chokepoints -->
@@ -603,6 +660,26 @@
     <div id="carriers"></div>
   </section>
 
+  <!-- political signals -->
+  <section class="card" id="politics-card" hidden>
+    <div class="card-head">
+      <h2>Political signals — statements, sanctions, diplomacy</h2>
+      <span class="note" id="politics-note"></span>
+    </div>
+    <div class="filters" id="pol-filters" role="group" aria-label="Filter by topic">
+      <span class="flabel">Topic</span>
+      <button data-tag="all" aria-pressed="true">All</button>
+      <button data-tag="strikes">Strikes</button>
+      <button data-tag="sanctions">Sanctions</button>
+      <button data-tag="diplomacy">Diplomacy</button>
+      <button data-tag="nuclear">Nuclear</button>
+      <button data-tag="shipping">Shipping</button>
+      <button data-tag="oil">Oil</button>
+    </div>
+    <ul class="events" id="politics"></ul>
+    <button class="more-btn" id="politics-more" hidden>Show more</button>
+  </section>
+
   <!-- events feed -->
   <section class="card" id="events-card">
     <div class="card-head">
@@ -647,10 +724,28 @@
 <script>
 "use strict";
 const API = "https://straits.live";
+/* Free quota-limited keys, embedded by design (see AGENTS.md). While either is
+   still the placeholder, the sources that need it are skipped silently. */
+const EIA_KEY = "W8TAJKozskBDI9IzfCN09CbAaxLzUAfvZNG1tIru";     // https://www.eia.gov/opendata/register.php
+const FIRMS_KEY = "9061a37db54b8cc7055e0a452e9c33bb";   // https://firms.modaps.eosdis.nasa.gov/api/map_key/
+/* High-value energy sites to watch for fires (refineries, export terminals).
+   Routine flaring at these sites is normal context; a strike shows up as a
+   spike in detection count / intensity vs the days before. */
+const WATCH_SITES = [
+  [30.34, 48.27, "Abadan refinery"], [27.11, 56.28, "Bandar Abbas"],
+  [32.24, 51.43, "Isfahan refinery"], [35.56, 51.39, "Tehran refinery"],
+  [26.64, 50.16, "Ras Tanura terminal"], [26.94, 50.29, "Jubail"],
+  [29.07, 48.16, "Mina Al Ahmadi"], [30.52, 47.82, "Basrah refinery"],
+  [30.23, 47.94, "Khor al-Zubair"], [15.00, 42.67, "Ras Isa terminal"],
+  [14.80, 42.95, "Hodeidah"], [21.36, 39.20, "Jeddah refinery"],
+  [24.07, 38.06, "Yanbu terminal"], [30.75, 48.29, "Ahwaz fields"],
+];
 const $ = id => document.getElementById(id);
 const state = {
   days: 30, oil: [], transits: [], events: [], statusRow: null, live: null, gas: null,
   eventsShown: 12, sevFilter: "all", idxHist: [], nextRefreshAt: 0, map: null, mapTiles: null, mapMarkers: null,
+  feeds: null, ais: null, eiaStocks: null, cot: null, pmOil: null, dxy: null,
+  tone: null, strikeVol: null, fires: null, polTag: "all", polShown: 10,
 };
 const REDUCED = matchMedia("(prefers-reduced-motion: reduce)").matches;
 
@@ -665,6 +760,112 @@ async function getCSV(url) {
     cols.forEach((c, i) => o[c] = cells[i]);
     return o;
   });
+}
+
+/* ---------- trigger-monitor source fetchers ----------
+   Each returns null on any failure so one bad source never breaks loadAll.
+   Same-origin data/*.json files simply don't exist until the repo poller
+   (poller.py via GitHub Actions) has run — null is normal, not an error. */
+async function fetchOpt(url) {
+  try { return await getJSON(url); } catch (e) { return null; }
+}
+function eiaUrl(route, extra) {
+  return "https://api.eia.gov/v2/" + route + "/data/?api_key=" + EIA_KEY + "&" + extra;
+}
+/* Weekly Petroleum Status: crude excl-SPR, Cushing, SPR stocks (classic EIA mnemonics). */
+async function fetchEiaStocks() {
+  if (EIA_KEY === "PUT_KEY_HERE") return null;
+  try {
+    const j = await getJSON(eiaUrl("petroleum/stoc/wstk",
+      "frequency=weekly&data[0]=value" +
+      "&facets[series][]=WCESTUS1&facets[series][]=WCSSTUS1&facets[series][]=W_EPC0_SAX_YCUOK_MBBL" +
+      "&sort[0][column]=period&sort[0][direction]=desc&length=30"));
+    const rows = j?.response?.data || [];
+    const bySeries = {};
+    for (const r of rows) (bySeries[r.series] = bySeries[r.series] || []).push({ period: r.period, v: +r.value / 1000 }); // → M bbl
+    for (const k in bySeries) bySeries[k].sort((a, b) => a.period < b.period ? -1 : 1);
+    const names = { WCESTUS1: "crude", WCSSTUS1: "spr", W_EPC0_SAX_YCUOK_MBBL: "cushing" };
+    const out = {};
+    for (const s in names) if (bySeries[s]?.length >= 2) out[names[s]] = bySeries[s];
+    return Object.keys(out).length ? out : null;
+  } catch (e) { return null; }
+}
+/* NOTE: EIA's futures-settlements route (pri/fut, series RCLC1-4) was
+   discontinued in April 2024, so no free M1-M4 term structure exists.
+   The signal uses weekly inventory draws as the supply-tightness leg instead. */
+/* CFTC legacy COT via Socrata: noncommercial (speculative) net length in NYMEX WTI.
+   Queried by contract market code (067651) — contract names change over time,
+   the code is stable. */
+async function fetchCot() {
+  try {
+    const j = await getJSON("https://publicreporting.cftc.gov/resource/6dca-aqww.json?cftc_contract_market_code=067651" +
+      "&$order=report_date_as_yyyy_mm_dd%20DESC&$limit=26");
+    const hist = (j || []).map(r => ({
+      t: Date.parse(r.report_date_as_yyyy_mm_dd),
+      net: (+r.noncomm_positions_long_all - +r.noncomm_positions_short_all) / 1000, // k contracts
+    })).filter(p => !isNaN(p.net)).sort((a, b) => a.t - b.t);
+    if (hist.length < 4) return null;
+    const nets = hist.map(p => p.net);
+    const mean = nets.reduce((a, b) => a + b, 0) / nets.length;
+    const sd = Math.sqrt(nets.reduce((a, b) => a + (b - mean) ** 2, 0) / nets.length) || 1;
+    return { hist, latest: hist[hist.length - 1], z: (hist[hist.length - 1].net - mean) / sd };
+  } catch (e) { return null; }
+}
+/* Polymarket oil-price threshold markets (gamma API, keyless). */
+async function fetchPmOil() {
+  try {
+    const j = await getJSON("https://gamma-api.polymarket.com/public-search?q=crude%20oil&limit_per_type=6");
+    const out = [];
+    for (const ev of j?.events || []) {
+      for (const m of ev.markets || []) {
+        if (m.closed) continue;
+        const q = m.question || "";
+        const th = q.match(/\$(\d+)/);
+        let prob = null;
+        try { prob = JSON.parse(m.outcomePrices || "[]")[0]; } catch (e) { /* keep null */ }
+        if (prob == null && m.lastTradePrice != null) prob = +m.lastTradePrice;
+        prob = +prob;
+        if (!th || isNaN(prob)) continue;
+        out.push({
+          question: q, threshold: +th[1], prob,
+          vol: +(m.volumeNum ?? m.volume ?? 0),
+          url: "https://polymarket.com/event/" + (ev.slug || m.slug || ""),
+        });
+      }
+    }
+    return out.length ? out : null;
+  } catch (e) { return null; }
+}
+/* DXY-style USD basket from ECB reference rates (CNY stands in for CAD/SEK — proxy, not the index). */
+async function fetchDxy() {
+  try {
+    const j = await getJSON("https://api.frankfurter.dev/v1/latest?base=USD&symbols=EUR,GBP,JPY,CHF,CNY");
+    const r = j?.rates; if (!r) return null;
+    const v = 50.14348112 * Math.pow(r.EUR, 0.576) * Math.pow(r.JPY, 0.136) * Math.pow(r.GBP, 0.119) *
+      Math.pow(r.CHF, 0.036) * Math.pow(r.CNY, 0.133);
+    return { value: v, date: j.date };
+  } catch (e) { return null; }
+}
+/* NASA FIRMS VIIRS active fires near high-value energy sites (Gulf + Red Sea box). */
+async function fetchFires() {
+  if (FIRMS_KEY === "PUT_KEY_HERE") return null;
+  try {
+    const rows = await getCSV("https://firms.modaps.eosdis.nasa.gov/api/area/csv/" + FIRMS_KEY + "/VIIRS_SNPP_NRT/40,11,66,33/3");
+    const sites = new Map();  // name -> {name, lat, lon, count, maxFrp, latest}
+    for (const r of rows) {
+      const lat = +r.latitude, lon = +r.longitude, frp = +r.frp;
+      if (isNaN(lat) || isNaN(frp) || frp < 10) continue;
+      const site = WATCH_SITES.find(([sl, so]) => Math.abs(sl - lat) < 0.08 && Math.abs(so - lon) < 0.08);
+      if (!site) continue;
+      const when = (r.acq_date || "") + " " + String(r.acq_time || "").padStart(4, "0") + " UTC";
+      const s = sites.get(site[2]) || { name: site[2], lat: site[0], lon: site[1], count: 0, maxFrp: 0, latest: "" };
+      s.count++; if (frp > s.maxFrp) s.maxFrp = frp;
+      if (when > s.latest) s.latest = when;
+      sites.set(site[2], s);
+    }
+    const list = [...sites.values()].sort((a, b) => b.maxFrp - a.maxFrp);
+    return list.length ? list : null;
+  } catch (e) { return null; }
 }
 
 /* ---------- formatting ---------- */
@@ -692,7 +893,7 @@ function applyTheme(t) {
 applyTheme(localStorage.getItem("hw-theme") || "dark");
 $("theme-btn").addEventListener("click", () => {
   applyTheme(document.documentElement.dataset.theme === "dark" ? "light" : "dark");
-  renderOilChart(); renderTransitsChart();   /* re-paint theme-colored svg */
+  renderOilChart(); renderTransitsChart(); renderAis();   /* re-paint theme-colored svg */
 });
 
 /* ---------- small svg helpers ---------- */
@@ -1191,7 +1392,21 @@ function renderMap(portsRes, chokeRes, pipeRes, vesselsRes) {
     ] : ["Hormuz-bypass pipeline terminus"]));
     g.addLayer(m);
   }
-  $("map-note").textContent = fmtInt(v?.count ?? 0) + " vessels on live AIS in the strait watch box · zoom out for Bab el-Mandeb & Suez · click any marker";
+  /* NASA FIRMS fires near high-value energy sites (3-day window) */
+  for (const f of state.fires || []) {
+    const m = L.circleMarker([f.lat, f.lon], {
+      radius: Math.max(5, Math.min(13, 4 + f.maxFrp / 15)),
+      color: "#fb923c", weight: 2, fillColor: "#fb923c", fillOpacity: 0.45,
+    });
+    m.bindPopup(popupEl(f.name + " — fires (NASA FIRMS, 3 days)", [
+      f.count + " fire detections · max intensity " + fmt(f.maxFrp, 0) + " MW",
+      "latest " + f.latest,
+      "routine flaring is normal — watch for spikes vs previous days",
+    ]));
+    g.addLayer(m);
+  }
+  const fireNote = state.fires?.length ? " · fires near " + state.fires.length + " energy sites (FIRMS, orange)" : "";
+  $("map-note").textContent = fmtInt(v?.count ?? 0) + " vessels on live AIS in the strait watch box" + fireNote + " · zoom out for Bab el-Mandeb & Suez · click any marker";
 }
 
 /* ---------- supply buffers ---------- */
@@ -1402,6 +1617,216 @@ $("sev-filters").addEventListener("click", ev => {
   renderEvents();
 });
 
+/* ---------- oil price pressure signal ---------- */
+const SIG_WEIGHTS = { transits: 25, brent: 15, stocks: 15, cot: 10, markets: 15, strikes: 10, tone: 10 };
+function sigComponents() {
+  const s = state.statusRow, c = [];
+  if (s?.transits_throughput_pct != null) {
+    const tp = +s.transits_throughput_pct;
+    c.push({ key: "transits", name: "Transit disruption", value: Math.min(100, Math.max(0, 100 - tp)),
+      note: tp + "% of pre-crisis traffic" });
+  }
+  if (s?.brent_change_24h_pct != null) {
+    const ch = +s.brent_change_24h_pct;
+    c.push({ key: "brent", name: "Brent momentum (24 h)", value: Math.min(100, Math.max(0, (ch + 5) / 10 * 100)),
+      note: (ch >= 0 ? "+" : "") + fmt(ch) + "% in 24 h" });
+  }
+  if (state.eiaStocks?.crude?.length >= 2) {
+    const se = state.eiaStocks.crude, d = se[se.length - 1].v - se[se.length - 2].v; // M bbl w/w
+    c.push({ key: "stocks", name: "Inventory draws (weekly)", value: Math.min(100, Math.max(0, (3 - d) / 6 * 100)),
+      note: (d >= 0 ? "+" : "−") + fmt(Math.abs(d), 1) + "M bbl in US crude stocks w/w (EIA)" });
+  }
+  if (state.cot) {
+    c.push({ key: "cot", name: "Speculative positioning", value: Math.min(100, Math.max(0, (state.cot.z + 2) / 4 * 100)),
+      note: "net long " + fmt(state.cot.latest.net, 0) + "k contracts · z " + fmt(state.cot.z, 1) + " (26 wk)" });
+  }
+  if (state.pmOil?.length) {
+    const m100 = state.pmOil.find(m => m.threshold === 100) ||
+      state.pmOil.filter(m => m.threshold >= 90).sort((a, b) => a.threshold - b.threshold)[0];
+    if (m100) c.push({ key: "markets", name: "Prediction markets", value: Math.min(100, Math.max(0, m100.prob * 100)),
+      note: Math.round(m100.prob * 100) + "% chance WTI hits $" + m100.threshold + " (Polymarket)" });
+  }
+  if (state.strikeVol) {
+    const base = state.strikeVol.avg7 * 2 || 1;
+    c.push({ key: "strikes", name: "Strike reporting volume", value: Math.min(100, state.strikeVol.latest / base * 100),
+      note: fmtInt(state.strikeVol.latest) + " articles vs 7-day avg " + fmt(state.strikeVol.avg7, 1) + " (GDELT)" });
+  }
+  if (state.tone) {
+    const t = Math.min(0, Math.max(-10, state.tone.latest));
+    c.push({ key: "tone", name: "US–Iran rhetoric tone", value: -t / 10 * 100,
+      note: "tone " + fmt(state.tone.latest, 1) + " · 7-day " + (state.tone.delta7 >= 0 ? "+" : "") + fmt(state.tone.delta7, 1) + " (GDELT)" });
+  }
+  return c;
+}
+function renderSignal() {
+  const comps = sigComponents();
+  if (comps.length < 2) return;   // not enough inputs to say anything
+  $("signal-card").hidden = false;
+  let wSum = 0, acc = 0;
+  for (const c of comps) { const w = SIG_WEIGHTS[c.key] || 5; c.w = w; wSum += w; acc += c.value * w; }
+  const score = Math.round(acc / wSum);
+  const band = score >= 67 ? ["Critical", "var(--critical)"] : score >= 34 ? ["Elevated", "var(--warning)"] : ["Cooling", "var(--good)"];
+  $("signal-note").textContent = comps.length + " of " + Object.keys(SIG_WEIGHTS).length + " components live · weights redistribute when a feed is missing";
+  /* gauge — same ring geometry as the hero gauges */
+  const R = 50, C = 2 * Math.PI * R, size = 120;
+  const svg = svgEl("svg", { viewBox: "0 0 " + size + " " + size, width: size, height: size, role: "img", "aria-label": "Oil price pressure " + score + " of 100, " + band[0] });
+  svg.append(svgEl("circle", { cx: size / 2, cy: size / 2, r: R, fill: "none", stroke: "color-mix(in srgb, " + band[1] + " 16%, var(--surface))", "stroke-width": 9 }));
+  svg.append(svgEl("circle", {
+    cx: size / 2, cy: size / 2, r: R, fill: "none", stroke: band[1], "stroke-width": 9, "stroke-linecap": "round",
+    "stroke-dasharray": C.toFixed(1), "stroke-dashoffset": (C * (1 - score / 100)).toFixed(1),
+    transform: "rotate(-90 " + size / 2 + " " + size / 2 + ")",
+  }));
+  const val = svgEl("text", { x: size / 2, y: size / 2 + 2, "text-anchor": "middle", class: "g-val", style: "fill:var(--text);font-size:26px" });
+  val.textContent = score; svg.append(val);
+  const of = svgEl("text", { x: size / 2, y: size / 2 + 17, "text-anchor": "middle", class: "g-of" });
+  of.textContent = "/ 100"; svg.append(of);
+  const g = $("signal-gauge"); g.replaceChildren(svg);
+  const b = document.createElement("span"); b.className = "g-band"; b.textContent = band[0];
+  b.style.background = "color-mix(in srgb, " + band[1] + " 16%, var(--surface))";
+  b.style.color = band[1]; b.style.border = "1px solid color-mix(in srgb, " + band[1] + " 40%, var(--border))";
+  g.append(b);
+  /* component breakdown */
+  const wrap = $("signal-components"); wrap.replaceChildren();
+  for (const c of comps) {
+    const row = document.createElement("div"); row.className = "res-row";
+    const name = document.createElement("span"); name.className = "res-name"; name.textContent = c.name;
+    const track = document.createElement("div"); track.className = "res-track";
+    const bar = document.createElement("div"); bar.className = "res-bar";
+    bar.style.width = Math.max(1.5, c.value * 0.55) + "%";
+    bar.style.background = c.value >= 67 ? "var(--critical)" : c.value >= 34 ? "var(--warning)" : "var(--good)";
+    const v = document.createElement("span"); v.className = "res-val"; v.textContent = Math.round(c.value);
+    const note = document.createElement("span"); note.className = "res-note"; note.textContent = c.note;
+    track.append(bar, v, note); row.append(name, track); wrap.append(row);
+  }
+  $("signal-method-text").textContent =
+    "Each component is normalized to 0–100 (0 = no upward pressure, 100 = extreme upward pressure) and combined with fixed weights " +
+    "(transit disruption 25, Brent momentum 15, inventory draws 15, prediction markets 15, positioning 10, strike reporting 10, rhetoric tone 10). " +
+    "When a feed is unavailable its weight is redistributed across the rest. This is an indicator of upward pressure on oil prices " +
+    "built from public data — it is not a price prediction, and crowded positioning (a high score) can precede sharp reversals. Not investment advice.";
+}
+
+/* ---------- political signals ---------- */
+function renderPolitics() {
+  const items = state.feeds?.items;
+  if (!items?.length) return;
+  $("politics-card").hidden = false;
+  const list = state.polTag === "all" ? items : items.filter(i => (i.tags || []).includes(state.polTag));
+  $("politics-note").textContent = (state.polTag === "all" ? items.length + " items" : list.length + " " + state.polTag + " of " + items.length) +
+    " · White House, Trump, IAEA, UN, OFAC, IRNA, Al Jazeera · polled ~20 min";
+  const ul = $("politics"); ul.replaceChildren();
+  for (const it of list.slice(0, state.polShown)) {
+    const li = document.createElement("li");
+    if (it.highlight) li.className = "pol-hl";
+    const src = document.createElement("span"); src.className = "pol-src" + (it.highlight ? " hl" : "");
+    src.textContent = it.source;
+    const body = document.createElement("div"); body.className = "ev-body";
+    const t = document.createElement("div"); t.className = "ev-title";
+    if (it.url) {
+      const a = document.createElement("a"); a.href = it.url; a.target = "_blank"; a.rel = "noopener";
+      a.textContent = it.title; t.append(a);
+    } else t.textContent = it.title;
+    const meta = document.createElement("div"); meta.className = "ev-meta";
+    meta.textContent = (it.published ? relTime(it.published) + " · " + timeFmt(it.published) : "undated");
+    body.append(t, meta);
+    if (it.tags?.length) {
+      const tags = document.createElement("div"); tags.className = "pol-tags";
+      for (const tg of it.tags) {
+        const s = document.createElement("span"); s.className = "pol-tag"; s.textContent = tg; tags.append(s);
+      }
+      body.append(tags);
+    }
+    li.append(src, body); ul.append(li);
+  }
+  $("politics-more").hidden = state.polShown >= list.length;
+  for (const x of $("pol-filters").querySelectorAll("button")) x.setAttribute("aria-pressed", x.dataset.tag === state.polTag);
+}
+$("pol-filters").addEventListener("click", ev => {
+  const b = ev.target.closest("button"); if (!b) return;
+  state.polTag = b.dataset.tag; state.polShown = 10; renderPolitics();
+});
+$("politics-more").addEventListener("click", () => { state.polShown += 10; renderPolitics(); });
+
+/* ---------- oil fundamentals ---------- */
+function renderFundamentals() {
+  const t = $("fund-tiles"); t.replaceChildren();
+  let any = false;
+  const wkDelta = series => {
+    if (!series || series.length < 2) return null;
+    const d = series[series.length - 1].v - series[series.length - 2].v;
+    return { d, asOf: series[series.length - 1].period,
+      spark: sparkline(series.slice(-10).map(p => p.v), "var(--muted)", 150, 24) };
+  };
+  const stocks = [
+    ["US commercial crude stocks", state.eiaStocks?.crude],
+    ["Cushing hub stocks", state.eiaStocks?.cushing],
+    ["Strategic Petroleum Reserve", state.eiaStocks?.spr],
+  ];
+  for (const [label, series] of stocks) {
+    const r = wkDelta(series); if (!r) continue; any = true;
+    t.append(tile(label, fmt(series[series.length - 1].v, 1) + "M bbl",
+      (r.d >= 0 ? "▲ +" : "▼ −") + fmt(Math.abs(r.d), 1) + "M bbl w/w (EIA, " + r.asOf + ")",
+      r.d < 0 ? "down-bad" : "up-good", r.spark));
+  }
+  if (state.oil.length > 2) {
+    any = true;
+    const spreads = state.oil.filter(p => p.wti > 0).map(p => ({ t: p.t, v: p.brent - p.wti }));
+    const latest = spreads[spreads.length - 1];
+    t.append(tile("Brent–WTI spread", "$" + fmt(latest.v),
+      "wide spread = strong seaborne crude demand vs US inland supply", "",
+      sparkline(spreads.slice(-40).map(p => p.v), "var(--series-1)", 150, 24)));
+  }
+  if (state.cot) {
+    any = true;
+    t.append(tile("Speculative net long (WTI)", fmt(state.cot.latest.net, 0) + "k contracts",
+      "z-score " + (state.cot.z >= 0 ? "+" : "") + fmt(state.cot.z, 1) + " vs 26 weeks · CFTC COT " + dayFmt(state.cot.latest.t),
+      state.cot.z > 1 ? "up-bad" : "",
+      sparkline(state.cot.hist.map(p => p.net), "var(--series-2)", 150, 24)));
+  }
+  if (state.dxy) {
+    any = true;
+    t.append(tile("USD strength (DXY proxy)", fmt(state.dxy.value, 1),
+      "ECB rates " + state.dxy.date + " · stronger dollar usually weighs on oil", ""));
+  }
+  if (!any) return;
+  $("fundamentals-card").hidden = false;
+  const missing = EIA_KEY === "PUT_KEY_HERE" ? " · add an EIA key (free) for the stocks tiles" : "";
+  $("fund-note").textContent = "EIA weekly · CFTC weekly (Fri) · ECB daily" + missing;
+}
+
+/* ---------- live AIS presence (repo poller) ---------- */
+function renderAis() {
+  const hours = state.ais?.hours;
+  if (!hours?.length) return;
+  $("ais-card").hidden = false;
+  $("ais-note").textContent = state.ais.methodology || "live AIS presence counts";
+  const last = hours[hours.length - 1];
+  const t = $("ais-tiles"); t.replaceChildren();
+  t.append(
+    tile("Hormuz box — latest hour", fmtInt(last.hormuz_total), fmtInt(last.hormuz_tanker) + " tankers · " + timeFmt(last.hour), ""),
+    tile("Bab el-Mandeb box — latest hour", fmtInt(last.bab_total), fmtInt(last.bab_tanker) + " tankers · " + timeFmt(last.hour), ""),
+  );
+  const recent = hours.slice(-24);
+  const box = $("ais-chart"); box.replaceChildren();
+  const W = Math.max(box.clientWidth || 900, 300), H = 160, M = chartMargins(box);
+  const svg = svgEl("svg", { viewBox: "0 0 " + W + " " + H, width: "100%", role: "img", "aria-label": "Hourly live AIS vessel presence, Hormuz and Bab el-Mandeb" });
+  const max = Math.max(1, ...recent.map(h => Math.max(h.hormuz_total || 0, h.bab_total || 0)));
+  const { plotW, plotH, y } = frame(svg, W, H, 0, max, v => fmtInt(v), M);
+  const slot = plotW / recent.length, bw = Math.max(2, slot / 2 - 2);
+  recent.forEach((h, i) => {
+    const x0 = M.left + i * slot + 1;
+    for (const [key, color, k] of [["hormuz_total", "var(--series-1)", 0], ["bab_total", "var(--series-2)", 1]]) {
+      const v = h[key] || 0;
+      svg.append(svgEl("rect", { x: x0 + k * (bw + 2), y: y(v), width: bw, height: plotH + M.top - y(v), fill: color, opacity: 0.85 }));
+    }
+    if (i % 6 === 0) {
+      const txt = svgEl("text", { x: x0, y: H - 6, "font-size": 10 });
+      txt.textContent = new Date(h.hour).toLocaleTimeString("en-GB", { hour: "2-digit", minute: "2-digit" });
+      svg.append(txt);
+    }
+  });
+  box.append(svg);
+}
+
 /* ---------- data loading ---------- */
 async function loadAll() {
   for (const id of ["oil-card", "transit-card"]) $(id).classList.add("refreshing");
@@ -1427,13 +1852,32 @@ async function loadAll() {
     getCSV(API + "/data/hormuz-index.csv"),
     getJSON(API + "/api/v1/ports"),
     getJSON(API + "/api/v1/vessels"),
+    /* trigger-monitor additions — all resolve null on failure by design,
+       so they never count toward the failed-feeds alert below */
+    fetchOpt("data/feeds.json"),
+    fetchOpt("data/ais_transits.json"),
+    fetchEiaStocks(),
+    fetchCot(),
+    fetchPmOil(),
+    fetchDxy(),
+    fetchFires(),
+    fetchOpt("data/gdelt.json"),   // tone + strike volume, polled server-side (GDELT is CORS-unreliable)
   ]);
-  const [oil, transits, events, status, live, spr, cushing, pipelines, impact, briefs, markets, gas, tbt, strandedH, snapshot, carriers, chokepoints, idxHist, ports, vessels] = results.map(r => r.status === "fulfilled" ? r.value : null);
+  const [oil, transits, events, status, live, spr, cushing, pipelines, impact, briefs, markets, gas, tbt, strandedH, snapshot, carriers, chokepoints, idxHist, ports, vessels, feeds, ais, eiaStocks, cot, pmOil, dxy, fires, gdelt] = results.map(r => r.status === "fulfilled" ? r.value : null);
   if (oil) state.oil = oil.map(r => ({ t: Date.parse(r.timestamp_iso), brent: +r.brent_usd, wti: +r.wti_usd })).filter(p => p.brent > 0).sort((a, b) => a.t - b.t);
   if (transits) state.transits = transits.map(r => ({ t: Date.parse(r.date), tanker: +r.n_tanker, other: Math.max(0, (+r.n_total) - (+r.n_tanker)) })).sort((a, b) => a.t - b.t);
   if (events) state.events = events.events || [];
   if (status && status[0]) state.statusRow = status[0];
   if (gas) state.gas = gas;
+  if (feeds) state.feeds = feeds;
+  if (ais) state.ais = ais;
+  if (eiaStocks) state.eiaStocks = eiaStocks;
+  if (cot) state.cot = cot;
+  if (pmOil) state.pmOil = pmOil;
+  if (dxy) state.dxy = dxy;
+  if (fires) state.fires = fires;
+  if (gdelt?.tone) state.tone = gdelt.tone;
+  if (gdelt?.strikeVol) state.strikeVol = gdelt.strikeVol;
   if (live) {
     state.live = live;
     state.preCrisisBaseline = live.transits?.baseline || 88;
@@ -1452,6 +1896,10 @@ async function loadAll() {
   renderCarriers(carriers);
   renderChokepoints(chokepoints);
   renderMap(ports, chokepoints, pipelines, vessels);
+  renderSignal();
+  renderPolitics();
+  renderFundamentals();
+  renderAis();
   const failed = results.filter(r => r.status === "rejected").length;
   const alertBox = $("alert");
   if (failed) {
