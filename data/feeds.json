@@ -1,6 +1,17 @@
 {
- "asOf": "2026-07-22T20:11:41.620175+00:00",
+ "asOf": "2026-07-22T20:47:36.615077+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Gaza man returns home after family believed he was dead",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/gaza-man-returns-home-after-family-believed-he-was-dead?traffic_source=rss",
+   "published": "2026-07-22T19:59:42+00:00",
+   "summary": "Hamada Al Banna reunited with his family more than a year after an explosion that left him in a coma.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "UN Press",
    "title": "Put Stop to Exploitation, Plundering of Natural Resources, Secretary-General Urges Security Council, Calling for Strong Governance Grounded in Justice, Transparency",
@@ -596,15 +607,6 @@
    "url": "https://press.un.org/en/2026/sc16418.doc.htm",
    "published": "2026-07-21T22:00:26+00:00",
    "summary": "Syria’s political transition has reached an important institutional milestone with the establishment of a People’s Assembly and Constitutional Supreme Court, senior UN officials told the Security Council today, warning that continued insecurity, Israeli military activity and a severely underfunded humanitarian response threaten the country’s delicate progress.",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "Presidential Message on the Anniversary of the Liberation of Guam",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/07/presidential-message-on-the-anniversary-of-the-liberation-of-guam/",
-   "published": "2026-07-21T21:30:51+00:00",
-   "summary": "Today, our Nation marks the 82nd anniversary of the American liberation of Guam—the day the United States shattered a brutal occupation and carried freedom back to an island that had endured more than 2 years of suffering under Imperial Japan.&#160; That hard-won triumph stands among the defining victories of the Second World War and endures [&#8230;] The post Presidential Message on the Anniversa",
    "tags": [],
    "highlight": false
   }
