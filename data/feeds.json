@@ -1,6 +1,17 @@
 {
- "asOf": "2026-07-22T20:47:36.615077+00:00",
+ "asOf": "2026-07-22T21:41:51.708998+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Khatam al-Anbia warns US against attacking infrastructure",
+   "url": "https://en.irna.ir/news/86216994/Khatam-al-Anbia-warns-US-against-attacking-infrastructure",
+   "published": "2026-07-22T21:02:46+00:00",
+   "summary": "Tehran, IRNA – Top Iranian military body Khatam al-Anbiya Central Headquarters has issued stark warning against targeting Iran’s infrastructure.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Gaza man returns home after family believed he was dead",
@@ -598,15 +609,6 @@
    "url": "https://press.un.org/en/blog/sc16419",
    "published": "2026-07-21T22:01:11+00:00",
    "summary": "The Security Council holds an open debate on \"natural resources governance: the foundation of peace, security and prosperity”.",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Syria’s Political Transition Reaches Milestone, UN Official Tells Security Council, as Speakers Call for Israel’s Withdrawal, Focus on Economic Recovery",
-   "url": "https://press.un.org/en/2026/sc16418.doc.htm",
-   "published": "2026-07-21T22:00:26+00:00",
-   "summary": "Syria’s political transition has reached an important institutional milestone with the establishment of a People’s Assembly and Constitutional Supreme Court, senior UN officials told the Security Council today, warning that continued insecurity, Israeli military activity and a severely underfunded humanitarian response threaten the country’s delicate progress.",
    "tags": [],
    "highlight": false
   }
