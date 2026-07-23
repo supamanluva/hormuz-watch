@@ -1,6 +1,28 @@
 {
- "asOf": "2026-07-23T16:03:23.333000+00:00",
+ "asOf": "2026-07-23T16:41:14.914403+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "US House votes to limit Iran war for first time since ceasefire breakdown",
+   "url": "https://www.aljazeera.com/news/2026/7/23/us-house-votes-to-limit-iran-war-for-first-time-since-ceasefire-breakdown?traffic_source=rss",
+   "published": "2026-07-23T16:12:43+00:00",
+   "summary": "The Senate was also expected to vote on War Powers resolution, in largely symbolic move attempting to reign in Trump.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "The missing half of mediation",
+   "url": "https://www.aljazeera.com/opinions/2026/7/23/the-missing-half-of-mediation?traffic_source=rss",
+   "published": "2026-07-23T16:08:54+00:00",
+   "summary": "The future of diplomacy between the US and Iran depends on giving mediators the backing needed to make agreements stick.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Ghalibaf: US punished itself with triple-digit oil prices",
@@ -499,17 +521,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "Gaza man returns home after family believed he was dead",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/gaza-man-returns-home-after-family-believed-he-was-dead?traffic_source=rss",
-   "published": "2026-07-22T19:59:42+00:00",
-   "summary": "Hamada Al Banna reunited with his family more than a year after an explosion that left him in a coma.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
    "source": "UN Press",
    "title": "United Nations Board of Auditors Holds Eightieth Regular Session, 21-22 July at UN Headquarters, New York",
    "url": "https://press.un.org/en/2026/org1757.doc.htm",
@@ -525,17 +536,6 @@
    "published": "2026-07-22T17:35:05+00:00",
    "summary": "Following are UN Secretary-General António Guterres’ remarks at the Security Council open debate on “Natural resource governance: the foundation of peace, security and prosperity”, in New York today:",
    "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Hamas’s new leader calls for permanent Gaza ceasefire",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/hamass-new-leader-calls-for-permanent-gaza-ceasefire?traffic_source=rss",
-   "published": "2026-07-22T17:02:50+00:00",
-   "summary": "In his first speech since being elected Hamas political chief, Khalil al-Hayya called for a permanent ceasefire in Gaza.",
-   "tags": [
-    "diplomacy"
-   ],
    "highlight": false
   },
   {
