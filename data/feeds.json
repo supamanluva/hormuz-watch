@@ -1,6 +1,40 @@
 {
- "asOf": "2026-07-23T10:13:25.930201+00:00",
+ "asOf": "2026-07-23T11:11:52.436387+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "President Pezeshkian officially welcomes Iraqi prime minister in Tehran",
+   "url": "https://en.irna.ir/news/86217368/President-Pezeshkian-officially-welcomes-Iraqi-prime-minister",
+   "published": "2026-07-23T10:25:19+00:00",
+   "summary": "Tehran, IRNA – Iranian President Masoud Pezeshkian has officially welcomed Iraqi Prime Minister Ali Faleh al-Zaidi in Tehran, as the two sides prepare to discuss bilateral relations and sign cooperation agreements.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Rubio says Iran ‘begging’ for a deal with US but not ready to make one",
+   "url": "https://www.aljazeera.com/news/2026/7/23/rubio-says-iran-begging-for-a-deal-with-us-but-not-ready-to-make-one?traffic_source=rss",
+   "published": "2026-07-23T10:19:58+00:00",
+   "summary": "Secretary of state says US has &#039;a head for an eye&#039; policy as strikes hit Iran for a 12th straight night.",
+   "tags": [
+    "strikes",
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Thai sailors sue owners of cargo ship hit in Hormuz",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/thai-sailors-sue-owners-of-cargo-ship-hit-in-hormuz?traffic_source=rss",
+   "published": "2026-07-23T09:45:59+00:00",
+   "summary": "Thai sailors sue owners of cargo ship hit in Hormuz",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "Justice at last??? House panel accuses Jack Smith of lying to Congress, urges DOJ to prosecute:",
@@ -49,7 +83,7 @@
    "title": "Latest US attacks target several locations across Iran, leaving two dead and 11 injured",
    "url": "https://en.irna.ir/news/86217280/Latest-US-attacks-target-several-locations-across-Iran-leaving",
    "published": "2026-07-23T08:58:01+00:00",
-   "summary": "Tehran, IRNA – The latest US missile and air attacks have targeted several locations across Iran, including areas in the southern and central provinces, leaving at least two people dead and 11 others injured, according to local officials.",
+   "summary": "Tehran, IRNA – The latest US missile and air attacks have targeted several locations across Iran, including areas in the southern, western, and central provinces, leaving at least two people dead and 11 others injured, according to local officials.",
    "tags": [
     "strikes"
    ],
@@ -469,18 +503,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "Can the Suez save Asian oil consumers after Houthis shut Bab al-Mandeb?",
-   "url": "https://www.aljazeera.com/news/2026/7/22/can-the-suez-save-asian-oil-consumers-after-houthis-shut-bab-al-mandeb?traffic_source=rss",
-   "published": "2026-07-22T12:36:06+00:00",
-   "summary": "About 6 million barrels of crude per day that pass through the strait to Asia are now at risk, experts say.",
-   "tags": [
-    "shipping",
-    "oil"
-   ],
-   "highlight": false
-  },
-  {
    "source": "IRNA (Iran state wire)",
    "title": "IRGC strikes inflict heavy damage on US bases in Jordan",
    "url": "https://en.irna.ir/news/86216657/IRGC-strikes-inflict-heavy-damage-on-US-bases-in-Jordan",
@@ -528,17 +550,6 @@
    "published": "2026-07-22T12:00:59+00:00",
    "summary": "WASHINGTON, DC &#8212; Today, Assistant to the President and Director of the White House Office of Science and Technology Policy Michael Kratsios unveiled more than $5 billion in Federal commitments expanding the Genesis Mission alongside new mission-driven National Science and Technology Challenges. Tune in to the Genesis Mission 2026 Summit live on July 22, 2026 [&#8230;] The post Trump Administ",
    "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Italy makes financial ‘exceptions’ in bid to hire Pep Guardiola as coach",
-   "url": "https://www.aljazeera.com/sports/2026/7/22/italy-makes-financial-exceptions-in-bid-to-hire-pep-guardiola-as-coach?traffic_source=rss",
-   "published": "2026-07-22T11:39:49+00:00",
-   "summary": "Italy&#039;s football federation chief holds talks with Guardiola over vacant role, but appointment not yet confirmed.",
-   "tags": [
-    "diplomacy"
-   ],
    "highlight": false
   },
   {
@@ -624,15 +635,6 @@
    "title": "[No Title] - Post from July 22, 2026",
    "url": "https://trumpstruth.org/statuses/40207",
    "published": "2026-07-22T10:00:26+00:00",
-   "summary": "",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from July 22, 2026",
-   "url": "https://trumpstruth.org/statuses/40208",
-   "published": "2026-07-22T10:00:16+00:00",
    "summary": "",
    "tags": [],
    "highlight": true
