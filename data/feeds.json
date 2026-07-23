@@ -1,6 +1,38 @@
 {
- "asOf": "2026-07-23T21:47:05.306887+00:00",
+ "asOf": "2026-07-23T22:13:17.131850+00:00",
  "items": [
+  {
+   "source": "Trump · Truth Social",
+   "title": "Please let this statement serve to represent, until further notice, that from this point forth, any and all damages done to Ships, Cargo, or anything related thereto, will be paid for by Iranian Money that the United States has in its possession, and controls. These damages may be very substantial but, nevertheless, this is the fair and equitable thing to do. Thank you for your attention to this matter! President DONALD J. TRUMP",
+   "url": "https://trumpstruth.org/statuses/40220",
+   "published": "2026-07-23T22:04:55+00:00",
+   "summary": "Please let this statement serve to represent, until further notice, that from this point forth, any and all damages done to Ships, Cargo, or anything related thereto, will be paid for by Iranian Money that the United States has in its possession, and controls. These damages may be very substantial but, nevertheless, this is the fair and equitable thing to do. Thank you for your attention to this m",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Trump warns of largest strikes on Iran yet as Tehran lashes out across Gulf",
+   "url": "https://www.aljazeera.com/news/2026/7/23/trump-warns-of-biggest-strikes-yet-on-iran-as-tehran-lashes-out-across-gulf?traffic_source=rss",
+   "published": "2026-07-23T21:43:28+00:00",
+   "summary": "The US president&#039;s threat comes after another day of Iranian attacks on Bahrain, Kuwait and Jordan.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "US-Saudi nuclear deal hinges on normalisation with Israel",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/us-saudi-nuclear-deal-hinges-on-normalisation-with-israel?traffic_source=rss",
+   "published": "2026-07-23T21:41:25+00:00",
+   "summary": "President Trump said a proposed US-Saudi civilian nuclear deal is subject to Saudi Arabia joining the Abraham Accords",
+   "tags": [
+    "diplomacy",
+    "nuclear"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Indian activist Wangchuk ends 26-day hunger strike over exam paper leaks",
@@ -446,29 +478,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "Saudi Arabia and US agree to landmark nuclear deal for civilian purposes",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/saudi-arabia-and-us-agree-to-landmark-nuclear-deal-for-civilian-purposes?traffic_source=rss",
-   "published": "2026-07-23T05:31:11+00:00",
-   "summary": "The US and Saudi Arabia have agreed to a civilian nuclear deal allowing Riyadh to build nuclear reactors.",
-   "tags": [
-    "diplomacy",
-    "nuclear"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Five soldiers killed in southern Thailand checkpoint attack",
-   "url": "https://www.aljazeera.com/news/2026/7/23/five-soldiers-killed-in-southern-thailand-checkpoint-attack?traffic_source=rss",
-   "published": "2026-07-23T03:53:05+00:00",
-   "summary": "The assault in Narathiwat comes a day after a car bombing elsewhere in the province wounded a police officer.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
    "source": "Trump · Truth Social",
    "title": "[No Title] - Post from July 23, 2026",
    "url": "https://trumpstruth.org/statuses/40216",
@@ -635,18 +644,6 @@
    "summary": "MAGA CANDIDATES WON EVERYTHING LAST NIGHT IN ARIZONA, A COMPLETE SWEEP!!! I WON ARIZONA 18 MONTHS AGO. THE DUMOCRATS ARE DUMBFOUNDED. AFTER DECADES, ARIZONA IS BECOMING A REPUBLICAN STATE. CONGRATULATIONS TO ALL! President DONALD J. TRUMP",
    "tags": [],
    "highlight": true
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran slams IAEA chief for his silence on US attacks and threats against peaceful nuclear facilities",
-   "url": "https://en.irna.ir/news/86216635/Iran-slams-IAEA-chief-for-his-silence-on-US-attacks-and-threats",
-   "published": "2026-07-22T12:25:35+00:00",
-   "summary": "Tehran, IRNA – Foreign Ministry spokesperson Esmaeil Baqaei, condemning the continued US attacks and threats against Iran's peaceful nuclear facilities, has deplored the Director General of the International Atomic Energy Agency for his silence on the US military targeting sites under IAEA safeguards.",
-   "tags": [
-    "strikes",
-    "nuclear"
-   ],
-   "highlight": false
   }
  ]
 }
