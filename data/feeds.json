@@ -1,6 +1,20 @@
 {
- "asOf": "2026-07-22T22:45:47.361697+00:00",
+ "asOf": "2026-07-22T23:46:28.930637+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Yemen’s Houthis claim attack on two Saudi oil tankers",
+   "url": "https://www.aljazeera.com/news/2026/7/22/yemens-houthis-claim-attack-on-two-saudi-oil-tankers?traffic_source=rss",
+   "published": "2026-07-22T22:26:14+00:00",
+   "summary": "Claimed attacks come days after Houthis announced naval embargo on Saudi vessels",
+   "tags": [
+    "strikes",
+    "sanctions",
+    "shipping",
+    "oil"
+   ],
+   "highlight": false
+  },
   {
    "source": "UN Press",
    "title": "Minerals Must Benefit Countries, Communities, Not Finance Criminals, Conflict, Security Council Hears during Day-Long Debate on Natural-Resources Governance",
@@ -607,15 +621,6 @@
    "url": "https://trumpstruth.org/statuses/40196",
    "published": "2026-07-22T03:45:56+00:00",
    "summary": "",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from July 22, 2026",
-   "url": "https://trumpstruth.org/statuses/40197",
-   "published": "2026-07-22T03:45:46+00:00",
-   "summary": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116961570518477700",
    "tags": [],
    "highlight": true
   }
