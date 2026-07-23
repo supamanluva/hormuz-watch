@@ -1,6 +1,106 @@
 {
- "asOf": "2026-07-23T13:15:54.064996+00:00",
+ "asOf": "2026-07-23T16:03:23.333000+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Ghalibaf: US punished itself with triple-digit oil prices",
+   "url": "https://en.irna.ir/news/86217586/Ghalibaf-US-punished-itself-with-triple-digit-oil-prices",
+   "published": "2026-07-23T15:36:41+00:00",
+   "summary": "Tehran, IRNA – Parliament Speaker Mohammad Bagher Ghalibaf has mocked the US over the rise in global oil prices above $100 a barrel, saying Washington has ended up punishing itself instead of Iran.",
+   "tags": [
+    "oil"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "IRGC targets US base in retaliation for strike on Arbaeen pilgrims’ route",
+   "url": "https://en.irna.ir/news/86217554/IRGC-targets-US-base-in-retaliation-for-strike-on-Arbaeen-pilgrims",
+   "published": "2026-07-23T15:16:28+00:00",
+   "summary": "Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) has announced a retaliatory strike against a US military facility in response to a recent attack on the Shalamcheh border crossing, which is a route utilized by Arbaeen pilgrims.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Trump says Saudi nuclear pact hinges on kingdom joining Abraham Accords",
+   "url": "https://www.aljazeera.com/news/2026/7/23/trump-says-saudi-nuclear-pact-hinges-on-kingdom-joining-abraham-accords?traffic_source=rss",
+   "published": "2026-07-23T14:57:42+00:00",
+   "summary": "Claim casts further confusion over deal to launch US-supported civilian nuclear programme in Saudi Arabia.",
+   "tags": [
+    "diplomacy",
+    "nuclear"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Kuwait-Iraq border crossing hit in drone attack",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/kuwait-iraq-border-crossing-hit-in-drone-attack?traffic_source=rss",
+   "published": "2026-07-23T14:53:56+00:00",
+   "summary": "Kuwait&#039;s Defence Ministry said a drone attack hit the Abdali border crossing with Iraq, causing damage but no casualties",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Foreign minister heads to Kyrgyzstan for SCO ministerial meeting",
+   "url": "https://en.irna.ir/news/86217560/Foreign-minister-heads-to-Kyrgyzstan-for-SCO-ministerial-meeting",
+   "published": "2026-07-23T14:41:15+00:00",
+   "summary": "Tehran, IRNA – Foreign Minister Abbas Araghchi has left for Kyrgyzstan to attend a meeting of the Council of Foreign Ministers of the Shanghai Cooperation Organization (SCO) and hold talks with his counterparts on key regional and international issues.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "How shipping insurance rates are rising, as Hormuz, Bab al-Mandeb shut down",
+   "url": "https://www.aljazeera.com/economy/2026/7/23/how-shipping-insurance-rates-are-rising-as-hormuz-bab-al-mandeb-shut-down?traffic_source=rss",
+   "published": "2026-07-23T14:19:30+00:00",
+   "summary": "Insurance rates through Hormuz are currently four times the five-year average.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Tehran condemns UK decision to grant US access to military bases, says Britain complicit in aggression",
+   "url": "https://en.irna.ir/news/86217499/Tehran-condemns-UK-decision-to-grant-US-access-to-military-bases",
+   "published": "2026-07-23T14:11:52+00:00",
+   "summary": "Tehran, IRNA – Iran’s Ministry of Foreign Affairs has condemned Britain’s decision to grant the United States access to British military bases and infrastructure for strikes against the Islamic Republic, declaring this action a clear violation of the UN Charter and international law, which makes the European country complicit in the aggression against Iran.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran, Iraq sign four agreements, MoUs to expand bilateral cooperation",
+   "url": "https://en.irna.ir/news/86217536/Iran-Iraq-sign-four-agreements-MoUs-to-expand-bilateral-cooperation",
+   "published": "2026-07-23T13:59:44+00:00",
+   "summary": "Tehran, IRNA – Senior Iranian and Iraqi officials have signed four agreements and memorandums of understanding (MoUs) aimed at upgrading bilateral relations and expanding cooperation between the two countries.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Former Iranian foreign minister to Americans: Save your children from Trump’s quagmire",
+   "url": "https://en.irna.ir/news/86217508/Former-Iranian-foreign-minister-to-Americans-Save-your-children",
+   "published": "2026-07-23T13:31:42+00:00",
+   "summary": "Tehran, IRNA – Manouchehr Mottaki, former Iranian foreign minister and Member of Parliament representing Tehran, has addressed the American people, saying: “Thousands of American troops stationed at military bases in the Persian Gulf states, Jordan, and Iraq are currently within range of Iranian missiles. I advise you to bring them home today, so that tomorrow you will not be deprived of the chanc",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Which Middle East nations have nuclear programmes, and how were they built?",
@@ -470,45 +570,11 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "War on Iran: Hegseth wants $70B more to keep fighting",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/war-on-iran-hegseth-wants-70b-more-to-keep-fighting?traffic_source=rss",
-   "published": "2026-07-22T15:52:54+00:00",
-   "summary": "Iran activated air defence systems across Tehran on the 11th night of US strikes.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Proposed US-Saudi nuclear energy deal: What we know so far",
-   "url": "https://www.aljazeera.com/news/2026/7/22/proposed-us-saudi-nuclear-energy-deal-what-we-know-so-far?traffic_source=rss",
-   "published": "2026-07-22T15:46:56+00:00",
-   "summary": "Reports suggest ‌the Trump administration backs a pact with Saudi Arabia allowing it to enrich uranium.",
-   "tags": [
-    "diplomacy",
-    "nuclear"
-   ],
-   "highlight": false
-  },
-  {
    "source": "IRNA (Iran state wire)",
    "title": "53 martyred, 592 wounded in recent US aggression on Iran: Health Ministry",
    "url": "https://en.irna.ir/news/86216793/53-martyred-592-wounded-in-recent-US-aggression-on-Iran-Health",
    "published": "2026-07-22T15:33:14+00:00",
    "summary": "Tehran, IRNA – The Iranian Ministry of Health reports that US airstrikes on the country between June 27 and the morning of July 31 left 53 people martyred and 592 others wounded.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Trump threatens to bomb Iranian bridges, power plants over ship attacks",
-   "url": "https://www.aljazeera.com/news/2026/7/22/trump-threatens-to-bomb-iranian-bridges-power-plants-over-ship-attacks?traffic_source=rss",
-   "published": "2026-07-22T15:24:13+00:00",
-   "summary": "Iranian official says Tehran would respond to US attacks by sparking power outages in countries hosting US troops.",
    "tags": [
     "strikes"
    ],
@@ -586,66 +652,6 @@
     "nuclear"
    ],
    "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "Trump Administration Announces More Than $5 Billion for the Genesis Mission, a National Mission on AI for Science",
-   "url": "https://www.whitehouse.gov/releases/2026/07/45502/",
-   "published": "2026-07-22T12:00:59+00:00",
-   "summary": "WASHINGTON, DC &#8212; Today, Assistant to the President and Director of the White House Office of Science and Technology Policy Michael Kratsios unveiled more than $5 billion in Federal commitments expanding the Genesis Mission alongside new mission-driven National Science and Technology Challenges. Tune in to the Genesis Mission 2026 Summit live on July 22, 2026 [&#8230;] The post Trump Administ",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "War history is written by impact, not by number of deaths: Iran’s envoy to Trump",
-   "url": "https://en.irna.ir/news/86216498/War-history-is-written-by-impact-not-by-number-of-deaths-Iran-s",
-   "published": "2026-07-22T10:54:08+00:00",
-   "summary": "London, IRNA — History of wars is written by the depth of impact, not the number of deaths, says Iran’s ambassador to Germany, in response to US President Donald Trump’s recent message comparing the war of aggression against Iran to other US wars in terms of duration and casualties.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Arab analyst says Tehran holds multiple cards to surprise Washington",
-   "url": "https://en.irna.ir/news/86216237/Arab-analyst-says-Tehran-holds-multiple-cards-to-surprise-Washington",
-   "published": "2026-07-22T10:23:30+00:00",
-   "summary": "Tehran, IRNA – An Iraqi political analyst says the recent US attacks against Iran pursue specific objectives, stressing that Tehran holds several game-changers that can surprise Washington.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Army drones hit US bases in Jordan, Bahrain in latest phase of Operation Thunder",
-   "url": "https://en.irna.ir/news/86216429/Army-drones-hit-US-bases-in-Jordan-Bahrain-in-latest-phase-of",
-   "published": "2026-07-22T10:11:23+00:00",
-   "summary": "Tehran, IRNA – Iran’s Army says it launched a new wave of drone strikes against US military facilities in Jordan and Bahrain early Wednesday as part of the 22nd phase of its ongoing Operation Thunder.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "A Crooked Election System!!! SAVE AMERICA!!!NJ governor forced to admit hundreds of foreigners voted in elections after Dems claimed no problem:",
-   "url": "https://trumpstruth.org/statuses/40202",
-   "published": "2026-07-22T10:01:01+00:00",
-   "summary": "A Crooked Election System!!! SAVE AMERICA!!! NJ governor forced to admit hundreds of foreigners voted in elections after Dems claimed no problem: https:// justthenews.com/politics-polic y/elections/state-motor-vehicle-system-registers-6600-non-citizens-vote-new-jersey",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from July 22, 2026",
-   "url": "https://trumpstruth.org/statuses/40203",
-   "published": "2026-07-22T10:00:57+00:00",
-   "summary": "",
-   "tags": [],
-   "highlight": true
   }
  ]
 }
