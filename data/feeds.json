@@ -1,6 +1,40 @@
 {
- "asOf": "2026-07-23T03:57:16.381427+00:00",
+ "asOf": "2026-07-23T06:18:58.848312+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "US attacks Iran for 12th night as the House approves defence spending",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/us-attacks-iran-for-12th-night-as-the-house-approves-defence-spending?traffic_source=rss",
+   "published": "2026-07-23T05:36:27+00:00",
+   "summary": "Strikes from the US on Iran are raining down for the 12th night in a row.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Saudi Arabia and US agree to landmark nuclear deal for civilian purposes",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/saudi-arabia-and-us-agree-to-landmark-nuclear-deal-for-civilian-purposes?traffic_source=rss",
+   "published": "2026-07-23T05:31:11+00:00",
+   "summary": "The US and Saudi Arabia have agreed to a civilian nuclear deal allowing Riyadh to build nuclear reactors.",
+   "tags": [
+    "diplomacy",
+    "nuclear"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Five soldiers killed in southern Thailand checkpoint attack",
+   "url": "https://www.aljazeera.com/news/2026/7/23/five-soldiers-killed-in-southern-thailand-checkpoint-attack?traffic_source=rss",
+   "published": "2026-07-23T03:53:05+00:00",
+   "summary": "The assault in Narathiwat comes a day after a car bombing elsewhere in the province wounded a police officer.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Armed attackers kill more than 20 in northwest Nigeria",
@@ -592,41 +626,6 @@
    "summary": "Defense Secretary Pete Hegseth tells US senators that the war has cost the US $37.5bn so far.",
    "tags": [
     "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Chelsea signs Morgan Rogers from Aston Villa in record British deal",
-   "url": "https://www.aljazeera.com/sports/2026/7/22/chelsea-sign-morgan-rogers-from-aston-villa-in-record-british-deal?traffic_source=rss",
-   "published": "2026-07-22T08:08:08+00:00",
-   "summary": "The 23-year-old Rogers, one of the Premier League&#039;s top attacking talents, has signed a contract until 2033.",
-   "tags": [
-    "strikes",
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "In photos: Commemoration art event for child martyrs held in Tehran",
-   "url": "https://en.irna.ir/photo/86216050/In-photos-Commemoration-art-event-for-child-martyrs-held-in",
-   "published": "2026-07-22T07:38:51+00:00",
-   "summary": "The cultural‑artistic event “Unfinished Homework” took place at Tehran’s Tabiat Bridge to honor the memory of more than 400 Iranian child martyrs, who lost their lives in the joint US–Israeli terror attack on Iran.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran warns US of ‘powerful’ response if nuclear sites attacked",
-   "url": "https://en.irna.ir/news/86216052/Iran-warns-US-of-powerful-response-if-nuclear-sites-attacked",
-   "published": "2026-07-22T06:05:59+00:00",
-   "summary": "Tehran, IRNA – Khatam al-Anbiya Central Headquarters has warned the United States against any attack on Iran’s nuclear and sensitive facilities, saying such an action would constitute an expansion of the war in the region.",
-   "tags": [
-    "strikes",
-    "nuclear"
    ],
    "highlight": false
   }
