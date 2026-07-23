@@ -1,12 +1,48 @@
 {
- "asOf": "2026-07-23T17:13:02.796140+00:00",
+ "asOf": "2026-07-23T17:55:58.950382+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "What are the security implications of the US-Saudi nuclear deal?",
+   "url": "https://www.aljazeera.com/news/2026/7/23/what-are-the-security-implications-of-the-us-saudi-nuclear-deal?traffic_source=rss",
+   "published": "2026-07-23T17:27:57+00:00",
+   "summary": "Concerns are growing over a nuclear arms race in the Middle East.",
+   "tags": [
+    "diplomacy",
+    "nuclear"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Oil surges past $100 in a first since May as Middle East conflicts rage",
+   "url": "https://www.aljazeera.com/news/2026/7/23/oil-surges-past-100-in-a-first-since-may-as-middle-east-conflicts-rage?traffic_source=rss",
+   "published": "2026-07-23T17:05:18+00:00",
+   "summary": "Oil prices rise for a fifth day after Yemen&#039;s Houthis say they struck Saudi Arabian oil tankers in the Red Sea.",
+   "tags": [
+    "shipping",
+    "oil"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Trump: US-Saudi nuclear deal hinges on Saudi joining Abraham Accords",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/trump-us-saudi-nuclear-deal-hinges-on-saudi-joining-abraham-accords?traffic_source=rss",
+   "published": "2026-07-23T16:58:58+00:00",
+   "summary": "The US and Saudi Arabia have reached a civilian nuclear cooperation deal.",
+   "tags": [
+    "diplomacy",
+    "nuclear"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "US House votes to limit Iran war for first time since ceasefire breakdown",
    "url": "https://www.aljazeera.com/news/2026/7/23/us-house-votes-to-limit-iran-war-for-first-time-since-ceasefire-breakdown?traffic_source=rss",
    "published": "2026-07-23T16:12:43+00:00",
-   "summary": "The Senate was also expected to vote on War Powers resolution, in largely symbolic move attempting to reign in Trump.",
+   "summary": "Senate fails to pass latest War Powers resolution, in largely symbolic move attempting to reign in Trump.",
    "tags": [
     "diplomacy"
    ],
@@ -462,42 +498,6 @@
    "published": "2026-07-22T22:06:26+00:00",
    "summary": "Countries and communities, especially in resource-rich Africa, must benefit most from the minerals in their own backyards, speakers affirmed today at a Security Council debate on “Natural resources governance: the foundation of peace, security and prosperity”.",
    "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iranian missiles show deadly precision amid US-Iran war escalation",
-   "url": "https://www.aljazeera.com/news/2026/7/22/iranian-missiles-show-deadly-precision-amid-us-iran-war-escalation?traffic_source=rss",
-   "published": "2026-07-22T22:03:13+00:00",
-   "summary": "Killing of three US soldiers at Jordan base shows Iran maintains the ability to exact deadly toll in grinding conflict.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "US launches new strikes as Iran warns of regional turmoil",
-   "url": "https://www.aljazeera.com/news/2026/7/22/iran-warns-of-regional-turmoil-if-us-threats-and-attacks-do-not?traffic_source=rss",
-   "published": "2026-07-22T21:41:32+00:00",
-   "summary": "Tehran&#039;s chief negotiator says if Iran&#039;s &#039;security is not ensured, no infrastructure will be safe&#039;.",
-   "tags": [
-    "strikes",
-    "diplomacy",
-    "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "US and Saudi Arabia announce nuclear cooperation deal",
-   "url": "https://www.aljazeera.com/news/2026/7/22/us-and-saudi-arabia-announce-nuclear-cooperation-deal?traffic_source=rss",
-   "published": "2026-07-22T21:30:25+00:00",
-   "summary": "Trump administration says &#039;historic&#039; agreement will &#039;reinforce global nonproliferation standards&#039; and create jobs in US.",
-   "tags": [
-    "diplomacy",
-    "nuclear"
-   ],
    "highlight": false
   },
   {
