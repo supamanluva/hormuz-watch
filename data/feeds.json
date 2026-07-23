@@ -1,6 +1,37 @@
 {
- "asOf": "2026-07-23T02:44:30.908834+00:00",
+ "asOf": "2026-07-23T03:57:16.381427+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Armed attackers kill more than 20 in northwest Nigeria",
+   "url": "https://www.aljazeera.com/news/2026/7/23/armed-attackers-kill-more-than-20-in-northwest-nigeria?traffic_source=rss",
+   "published": "2026-07-23T03:21:00+00:00",
+   "summary": "The attacks reflect a surge in violence as armed gangs continue raiding villages in northwest and central Nigeria.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "[No Title] - Post from July 23, 2026",
+   "url": "https://trumpstruth.org/statuses/40216",
+   "published": "2026-07-23T03:07:05+00:00",
+   "summary": "https://www. instagram.com/p/DbBSMG8jqBx/",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "In Gaza, a long path to recovery for one woman who lost eye, and daughter",
+   "url": "https://www.aljazeera.com/features/2026/7/23/in-gaza-a-long-path-to-recovery-for-one-woman-who-lost-eye-and-daughter?traffic_source=rss",
+   "published": "2026-07-23T03:07:01+00:00",
+   "summary": "Psychological wounds compound Najwa&#039;s physical injuries after losing her daughter in an Israeli air strike.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "Exclusive — Cyprus Energy Minister: Trump’s ‘Energy Security’ Engagement ‘Vital’ to Future of West:",
@@ -12,10 +43,10 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "Iran war live: US launches new attacks; Houthis attack 2 Saudi oil tankers",
+   "title": "Iran war live: US kills 2, wounds 11; Houthis attack 2 Saudi oil tankers",
    "url": "https://www.aljazeera.com/news/liveblog/2026/7/23/iran-war-live-us-launches-new-attacks-houthis-attack-2-saudi-oil-tankers?traffic_source=rss",
    "published": "2026-07-23T00:00:00+00:00",
-   "summary": "US and Iran trade new threats as more explosions are reported in Iranian cities, including Sirik, Ahvaz and Bushehr.",
+   "summary": "US and Iran trade attacks as more explosions are reported in Iranian cities, including Sirik, Ahvaz and Bushehr.",
    "tags": [
     "strikes",
     "shipping",
@@ -598,35 +629,6 @@
     "nuclear"
    ],
    "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "New US terror attacks target locations in southern, northwestern Iran",
-   "url": "https://en.irna.ir/news/86216056/New-US-terror-attacks-target-locations-in-southern-northwestern",
-   "published": "2026-07-22T05:58:01+00:00",
-   "summary": "Tehran, IRNA – The United States continues its aggression on Iran, conducting new attacks that targeted several locations in the south and northwest of the country.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from July 22, 2026",
-   "url": "https://trumpstruth.org/statuses/40193",
-   "published": "2026-07-22T03:47:12+00:00",
-   "summary": "",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from July 22, 2026",
-   "url": "https://trumpstruth.org/statuses/40194",
-   "published": "2026-07-22T03:46:31+00:00",
-   "summary": "",
-   "tags": [],
-   "highlight": true
   }
  ]
 }
