@@ -1,6 +1,17 @@
 {
- "asOf": "2026-07-23T19:12:15.787999+00:00",
+ "asOf": "2026-07-23T19:56:09.899583+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Resumption of oil exports: Will Yemen recover its economic lifeline?",
+   "url": "https://www.aljazeera.com/economy/2026/7/23/resumption-of-oil-exports-will-yemen-recover-its-economic-lifeline?traffic_source=rss",
+   "published": "2026-07-23T19:28:24+00:00",
+   "summary": "Yemen has proven oil reserves estimated at three billion barrels, but the security environment hinders its export.",
+   "tags": [
+    "oil"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Children wounded in Israeli strike on Khan Younis",
@@ -465,17 +476,6 @@
    "summary": "https://www. instagram.com/p/DbBSMG8jqBx/",
    "tags": [],
    "highlight": true
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "In Gaza, a long path to recovery for one woman who lost eye, and daughter",
-   "url": "https://www.aljazeera.com/features/2026/7/23/in-gaza-a-long-path-to-recovery-for-one-woman-who-lost-eye-and-daughter?traffic_source=rss",
-   "published": "2026-07-23T03:07:01+00:00",
-   "summary": "Psychological wounds compound Najwa&#039;s physical injuries after losing her daughter in an Israeli air strike.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
   },
   {
    "source": "Trump · Truth Social",
