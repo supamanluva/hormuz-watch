@@ -1,6 +1,28 @@
 {
- "asOf": "2026-07-23T17:55:58.950382+00:00",
+ "asOf": "2026-07-23T19:12:15.787999+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Children wounded in Israeli strike on Khan Younis",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/children-wounded-in-israeli-strike-on-khan-younis?traffic_source=rss",
+   "published": "2026-07-23T18:55:53+00:00",
+   "summary": "Children were rushed to hospital after an Israeli strike hit a tent sheltering displaced people in Khan Younis.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Iraqi PM makes first official visit to Iran in bid to deepen ties",
+   "url": "https://www.aljazeera.com/news/2026/7/23/iraqi-pm-makes-first-official-visit-to-iran-to-deepen-ties?traffic_source=rss",
+   "published": "2026-07-23T18:34:41+00:00",
+   "summary": "Ali al-Zaidi will hold talks with senior Iranian officials on cooperation, shared interests and security.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "What are the security implications of the US-Saudi nuclear deal?",
@@ -463,33 +485,6 @@
    "summary": "Exclusive — Cyprus Energy Minister: Trump’s ‘Energy Security’ Engagement ‘Vital’ to Future of West: https://www. breitbart.com/politics/2026/07 /22/exclusive-cyprus-energy-minister-trumps-energy-security-engagement-vital-to-future-of-west/",
    "tags": [],
    "highlight": true
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iran war live: US kills 2, wounds 11; Houthis attack 2 Saudi oil tankers",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/7/23/iran-war-live-us-launches-new-attacks-houthis-attack-2-saudi-oil-tankers?traffic_source=rss",
-   "published": "2026-07-23T00:00:00+00:00",
-   "summary": "US and Iran trade attacks as more explosions are reported in Iranian cities, including Sirik, Ahvaz and Bushehr.",
-   "tags": [
-    "strikes",
-    "shipping",
-    "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Yemen’s Houthis claim attack on two Saudi oil tankers",
-   "url": "https://www.aljazeera.com/news/2026/7/22/yemens-houthis-claim-attack-on-two-saudi-oil-tankers?traffic_source=rss",
-   "published": "2026-07-22T22:26:14+00:00",
-   "summary": "Claimed attacks come days after Houthis announced naval embargo on Saudi vessels",
-   "tags": [
-    "strikes",
-    "sanctions",
-    "shipping",
-    "oil"
-   ],
-   "highlight": false
   },
   {
    "source": "UN Press",
