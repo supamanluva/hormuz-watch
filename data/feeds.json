@@ -1,6 +1,51 @@
 {
- "asOf": "2026-07-24T06:15:26.686519+00:00",
+ "asOf": "2026-07-24T08:13:16.370877+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "US attacks Iran as Houthis allow Chinese ships to pass: What’s the latest?",
+   "url": "https://www.aljazeera.com/news/2026/7/24/us-attacks-iran-as-houthis-allow-chinese-ships-to-pass-whats-the-latest?traffic_source=rss",
+   "published": "2026-07-24T07:59:01+00:00",
+   "summary": "The number of tanker crossings in the Strait of Hormuz dropped to lowest levels in two months on Thursday.",
+   "tags": [
+    "strikes",
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran warns against global silence and ambivalent stances on illegal US–Israeli aggression",
+   "url": "https://en.irna.ir/news/86217888/Iran-warns-against-global-silence-and-ambivalent-stances-on-illegal",
+   "published": "2026-07-24T07:21:02+00:00",
+   "summary": "Tehran, IRNA — Foreign Minister Abbas Araghchi, referring to the unprovoked and illegal war launched by the United States and the Israeli regime on Iran, says the silence on illegitimate attacks or hesitant stance by world countries would only encourage the aggressors to repeat their crimes.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Indian activist Wangchuk ends 26-day hunger strike",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/indian-activist-wangchuk-ends-26-day-hunger-strike?traffic_source=rss",
+   "published": "2026-07-24T07:08:21+00:00",
+   "summary": "Indian activist Sonam Wangchuk has ended a 26-day hunger strike over leaked medical entrance exams",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran warns PGCC states on possible attacks, calls to clarify US claim of their complicity in war",
+   "url": "https://en.irna.ir/news/86217864/Iran-warns-PGCC-states-on-possible-attacks-calls-to-clarify",
+   "published": "2026-07-24T07:08:06+00:00",
+   "summary": "Tehran, IRNA — Iran’s Foreign Ministry spokesperson Esmaeil Baqaei calls on the regional bloc of Persian Gulf Arab countries and Jordan to officially explain the claim of the US Central Command (CENTCOM) about their direct participation in the American terror attacks against Iran.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Israel carries out blasts across south Lebanon despite ‘ceasefire’ deal",
@@ -477,17 +522,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "Kuwait-Iraq border crossing hit in drone attack",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/kuwait-iraq-border-crossing-hit-in-drone-attack?traffic_source=rss",
-   "published": "2026-07-23T14:53:56+00:00",
-   "summary": "Kuwait&#039;s Defence Ministry said a drone attack hit the Abdali border crossing with Iraq, causing damage but no casualties",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
    "source": "IRNA (Iran state wire)",
    "title": "Foreign minister heads to Kyrgyzstan for SCO ministerial meeting",
    "url": "https://en.irna.ir/news/86217560/Foreign-minister-heads-to-Kyrgyzstan-for-SCO-ministerial-meeting",
@@ -495,17 +529,6 @@
    "summary": "Tehran, IRNA – Foreign Minister Abbas Araghchi has left for Kyrgyzstan to attend a meeting of the Council of Foreign Ministers of the Shanghai Cooperation Organization (SCO) and hold talks with his counterparts on key regional and international issues.",
    "tags": [
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "How shipping insurance rates are rising, as Hormuz, Bab al-Mandeb shut down",
-   "url": "https://www.aljazeera.com/economy/2026/7/23/how-shipping-insurance-rates-are-rising-as-hormuz-bab-al-mandeb-shut-down?traffic_source=rss",
-   "published": "2026-07-23T14:19:30+00:00",
-   "summary": "Insurance rates through Hormuz are currently four times the five-year average.",
-   "tags": [
-    "shipping"
    ],
    "highlight": false
   },
@@ -611,28 +634,6 @@
    "url": "https://en.irna.ir/news/86217315/Iranian-Army-launches-drone-attacks-on-three-US-bases-in-Kuwait",
    "published": "2026-07-23T09:22:44+00:00",
    "summary": "Tehran, IRNA – The Iranian Army has carried out large-scale drone attacks on US military positions at three bases in Kuwait, targeting ammunition and logistics depots, as well as fuel storage facilities.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iraqi PM: Iraq and Iran are bound by historic and civilizational ties",
-   "url": "https://en.irna.ir/news/86217300/Iraqi-PM-Iraq-and-Iran-are-bound-by-historic-and-civilizational",
-   "published": "2026-07-23T09:10:52+00:00",
-   "summary": "Tehran, IRNA – Iraqi Prime Minister Ali al-Zaidi, who has headed to Tehran for an official visit, says he will meet senior officials for talks on issues of mutual interest and regional developments, emphasizing that the two countries are bound by historic and civilizational ties.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Latest US attacks target several locations across Iran, leaving two dead and 11 injured",
-   "url": "https://en.irna.ir/news/86217280/Latest-US-attacks-target-several-locations-across-Iran-leaving",
-   "published": "2026-07-23T08:58:01+00:00",
-   "summary": "Tehran, IRNA – The latest US missile and air attacks have targeted several locations across Iran, including areas in the southern, western, and central provinces, leaving at least two people dead and 11 others injured, according to local officials.",
    "tags": [
     "strikes"
    ],
