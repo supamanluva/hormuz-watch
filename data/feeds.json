@@ -1,5 +1,5 @@
 {
- "asOf": "2026-07-24T11:58:48.461663+00:00",
+ "asOf": "2026-07-24T12:41:14.366127+00:00",
  "items": [
   {
    "source": "Al Jazeera",
@@ -20,6 +20,18 @@
    "summary": "Tehran, IRNA — The Islamic Revolution Guards Corps (IRGC) says it has inflicted heavy damage and casualties on the invading US military, with an attack on an ammunition depot and barracks at America’s Ali Al Salem Air Base in Kuwait.",
    "tags": [
     "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Is the US-Saudi nuclear deal on, or in limbo?",
+   "url": "https://www.aljazeera.com/news/2026/7/24/is-the-us-saudi-nuclear-deal-on-or-in-limbo?traffic_source=rss",
+   "published": "2026-07-24T10:48:27+00:00",
+   "summary": "Trump&#039;s last-minute demand for Saudi normalisation with Israel has complicated the already sensitive deal.",
+   "tags": [
+    "diplomacy",
+    "nuclear"
    ],
    "highlight": false
   },
@@ -492,18 +504,6 @@
    "summary": "Ali al-Zaidi holds talks with senior Iranian officials on bilateral cooperation, shared interests and security.",
    "tags": [
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "What are the security implications of the US-Saudi nuclear deal?",
-   "url": "https://www.aljazeera.com/news/2026/7/23/what-are-the-security-implications-of-the-us-saudi-nuclear-deal?traffic_source=rss",
-   "published": "2026-07-23T17:27:57+00:00",
-   "summary": "Concerns are growing over a nuclear arms race in the Middle East.",
-   "tags": [
-    "diplomacy",
-    "nuclear"
    ],
    "highlight": false
   },
