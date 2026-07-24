@@ -1,6 +1,35 @@
 {
- "asOf": "2026-07-24T18:57:13.984414+00:00",
+ "asOf": "2026-07-24T19:40:34.500399+00:00",
  "items": [
+  {
+   "source": "White House",
+   "title": "Fact Sheet: President Donald J. Trump Restores Trust in the Smithsonian Institution",
+   "url": "https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-restores-trust-in-the-smithsonian-institution/",
+   "published": "2026-07-24T19:11:24+00:00",
+   "summary": "RESTORING TRUST IN THE SMITHSONIAN: Today, President Donald J. Trump signed an Executive Order to reestablish confidence in the Smithsonian Institution. As illustrated by the Domestic Policy Council’s report, Saving America&#8217;s Story: How Ideological Capture at the Smithsonian Institution&#8217;s National Museum of American History Erases Our Heritage (Report), the Smithsonian is failing to te",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "White House",
+   "title": "Restoring Trust in the Smithsonian Institution",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/07/restoring-trust-in-the-smithsonian-institution/",
+   "published": "2026-07-24T19:10:09+00:00",
+   "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered: Section 1. Policy. On March 27, 2025, I issued Executive Order 14253 (Restoring Truth and Sanity to American History). Pursuant to that order, the Domestic Policy Council recently completed a months-long review [&#8230;] The post Restoring Trust in the Smithsonian Inst",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "US school shooter pleads guilty in Georgia following father’s conviction",
+   "url": "https://www.aljazeera.com/news/2026/7/24/us-school-shooter-pleads-guilty-in-georgia-following-fathers-conviction?traffic_source=rss",
+   "published": "2026-07-24T18:31:22+00:00",
+   "summary": "Colt Gray pleads guilty to killing two students and two teachers in 2024 attack, which upped scrutiny of parental role.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Oman talking with Tehran on Hormuz as US and Iran continue strikes",
@@ -495,19 +524,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "UN envoy for Yemen ‘alarmed’ by Houthis’ Red Sea attacks, calls for talks",
-   "url": "https://www.aljazeera.com/news/2026/7/24/un-envoy-for-yemen-alarmed-by-houthis-red-sea-attacks-calls-for-talks?traffic_source=rss",
-   "published": "2026-07-24T00:03:25+00:00",
-   "summary": "Hans Grundberg warns that further confrontation risks &#039;deepening the suffering of the Yemeni people&#039;.",
-   "tags": [
-    "strikes",
-    "diplomacy",
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
    "source": "Trump · Truth Social",
    "title": "Rick Jackson, from the Great State of Georgia, very successfully campaigned for Governor, on being strong with “TRUMP,” and won, against a field of very talented and popular opponents, including an incredible guy, Burt Jones, who has a truly bright future ahead of him! Rick has been a very successful Businessman and Entrepreneur, and will now be a tremendous Governor, who will work tirelessly to Grow the Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Strengthen our Military/Veterans, Keep our Border SECURE, Ensure LAW AND ORDER, Safeguard our Elections, and Protect our always under siege Second Amendment. Now is the time for all Republicans to unite behind Rick to ensure he has a tremendous Victory in November! Rick will work closely with me to enact America First Policies. He is a FANTASTIC person who everyone is very proud of, as am I. Rick Jackson has my Complete and Total Endorsement to be the next Governor of Georgia – HE WILL NEVER LET YOU DOWN!",
    "url": "https://trumpstruth.org/statuses/40221",
@@ -606,28 +622,6 @@
    "published": "2026-07-23T16:31:06+00:00",
    "summary": "Following are UN Secretary-General António Guterres’ remarks to the Security Council open debate on the peaceful settlement of disputes, in New York today:",
    "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Opening 2027 Session, Economic and Social Council Unveils Plans for Leaner, More Substance-Oriented Interaction, Also Elects Bureau",
-   "url": "https://press.un.org/en/2026/ecosoc7235.doc.htm",
-   "published": "2026-07-23T16:19:39+00:00",
-   "summary": "The best chapters of the Economic and Social Council are still being written, that organ heard today as Nepal handed over the presidency to Algeria and a vision of a leaner, more substance-oriented Council.",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Security Council Committee concerning Libya Adds One Vessel to Its Sanctions List",
-   "url": "https://press.un.org/en/2026/sc16421.doc.htm",
-   "published": "2026-07-23T15:42:07+00:00",
-   "summary": "On 22 July 2026, the Committee approved the addition of one entry specified below to its List of individuals and entities subject to the assets freeze, travel ban and other measures relating to attempts to illicitly export petroleum, including crude oil and refined petroleum products, from Libya (the Libya Sanctions List), set out in paragraphs 15 and/or 17 of Security Council resolution 1970 (201",
-   "tags": [
-    "sanctions",
-    "shipping",
-    "oil"
-   ],
    "highlight": false
   }
  ]
