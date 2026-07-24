@@ -1,6 +1,132 @@
 {
- "asOf": "2026-07-24T01:43:50.598173+00:00",
+ "asOf": "2026-07-24T05:13:33.216520+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Israel carries out blasts across south Lebanon despite ‘ceasefire’ deal",
+   "url": "https://www.aljazeera.com/news/2026/7/24/israel-carries-out-blasts-across-south-lebanon-despite-ceasefire-deal?traffic_source=rss",
+   "published": "2026-07-24T04:39:50+00:00",
+   "summary": "Israeli attacks come amid ongoing talks with Lebanese officials to implement framework for peace between two countries.",
+   "tags": [
+    "strikes",
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "What a great guy, and baseball player!!! President DJT",
+   "url": "https://trumpstruth.org/statuses/40227",
+   "published": "2026-07-24T04:09:38+00:00",
+   "summary": "What a great guy, and baseball player!!! President DJT",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "[No Title] - Post from July 24, 2026",
+   "url": "https://trumpstruth.org/statuses/40228",
+   "published": "2026-07-24T04:09:18+00:00",
+   "summary": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116972986793236903",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "[No Title] - Post from July 24, 2026",
+   "url": "https://trumpstruth.org/statuses/40229",
+   "published": "2026-07-24T04:08:51+00:00",
+   "summary": "",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "[No Title] - Post from July 24, 2026",
+   "url": "https://trumpstruth.org/statuses/40230",
+   "published": "2026-07-24T04:07:00+00:00",
+   "summary": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116972976347462953",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "[No Title] - Post from July 24, 2026",
+   "url": "https://trumpstruth.org/statuses/40231",
+   "published": "2026-07-24T04:06:12+00:00",
+   "summary": "",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "As oil soars, experts watch Red Sea tankers for clarity on Houthi blockade",
+   "url": "https://www.aljazeera.com/economy/2026/7/24/as-oil-soars-experts-watch-red-sea-tankers-for-clarity-on-houthi-blockade?traffic_source=rss",
+   "published": "2026-07-24T03:34:10+00:00",
+   "summary": "Houthi attacks for now are shaping who moves Saudi crude, not whether it moves, analysts say, even as oil prices soar.",
+   "tags": [
+    "strikes",
+    "shipping",
+    "oil"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "What are the Abraham Accords?",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/what-are-the-abraham-accords-3?traffic_source=rss",
+   "published": "2026-07-24T03:08:49+00:00",
+   "summary": "US President Donald Trump has seemingly backpedalled on a nuclear deal with Saudi Arabia.",
+   "tags": [
+    "diplomacy",
+    "nuclear"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Araghchi warns compromised US officials against mindless aggression",
+   "url": "https://en.irna.ir/news/86217779/Araghchi-warns-compromised-US-officials-against-mindless-aggression",
+   "published": "2026-07-24T02:37:26+00:00",
+   "summary": "Tehran, IRNA – Iranian Foreign Minister Abbas Araghchi has strongly criticized certain elements within the US administration for ignoring realities on the ground and pushing policies that would only raise the cost of any potential agreement.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "US launches 13th night of strikes as Iran warns of escalation in the Gulf",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/us-launches-13th-night-of-strikes-as-iran-warns-of-escalation-in-the-gulf?traffic_source=rss",
+   "published": "2026-07-24T02:25:41+00:00",
+   "summary": "Al Jazeera’s Tohid Asadi reports from Tehran as the US launches strikes for the 13th consecutive night.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "‘There’s no salary’: DRC health workers tell of hardship as Ebola spreads",
+   "url": "https://www.aljazeera.com/features/2026/7/24/theres-no-salary-drc-health-workers-tell-of-hardship-as-ebola-spreads?traffic_source=rss",
+   "published": "2026-07-24T02:13:06+00:00",
+   "summary": "Health workers in the DRC battle a range of obstacles, from infection risk to angry mob attacks.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Mike Waltz pressed over Al Jazeera video during congressional hearing",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/aje-onl-nf_mike-waltz-pressed-over-al-jazeera-video-congress-230726?traffic_source=rss",
+   "published": "2026-07-24T01:24:41+00:00",
+   "summary": "Ted Lieu challenges UN Ambassador Mike Waltz after playing Al Jazeera footage of Iranian strikes in Jordan.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "Very good!!! President DJT",
@@ -45,7 +171,7 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "Iran war live: Trump weighs ‘massive attack’ on Iran",
+   "title": "Iran war live: US completes 13th night of strikes on Iran",
    "url": "https://www.aljazeera.com/news/liveblog/2026/7/24/iran-war-live-trump-weighs-massive-attack-on-iran?traffic_source=rss",
    "published": "2026-07-24T00:00:00+00:00",
    "summary": "Trump says he is considering a ‘massive attack’, as Iran&#039;s Araghchi says &#039;mindless aggression&#039; won&#039;t help a deal.",
@@ -417,18 +543,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "Which Middle East nations have nuclear programmes, and how were they built?",
-   "url": "https://www.aljazeera.com/news/2026/7/23/which-middle-east-nations-have-nuclear-programmes-and-how-were-they-built?traffic_source=rss",
-   "published": "2026-07-23T12:46:46+00:00",
-   "summary": "Saudi Arabia aims to join the region&#039;s nuclear club after it signs a deal with the US.",
-   "tags": [
-    "diplomacy",
-    "nuclear"
-   ],
-   "highlight": false
-  },
-  {
    "source": "IRNA (Iran state wire)",
    "title": "Advisor to Leader: Iran’s new phase of deterrence means attacks will not come at low cost",
    "url": "https://en.irna.ir/news/86217426/Advisor-to-Leader-Iran-s-new-phase-of-deterrence-means-attacks",
@@ -451,17 +565,6 @@
    "highlight": true
   },
   {
-   "source": "Al Jazeera",
-   "title": "Can Iran withstand new pressure from the US?",
-   "url": "https://www.aljazeera.com/video/project-force-2/2026/7/23/can-iran-withstand-new-pressure-from-the-us?traffic_source=rss",
-   "published": "2026-07-23T11:55:23+00:00",
-   "summary": "After a truce, the US has returned to war with Iran. Alex Gatopoulos looks at what’s different this time",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
    "source": "Trump · Truth Social",
    "title": "The Civil Nuclear Deal (There will be no enrichment of material!) being made between the United States Department of Energy and Saudi Arabia, which pertains only to non-military use such as the ones that Iran and UAE (and others) already have, will be approved, but is totally subject to Saudi Arabia joining the very respected and successful Abraham Accords. The United States is not opposed to Civil (Non-Enriched) Nuclear Facilities. Thank you for your attention to this matter! President DONALD J. TRUMP",
    "url": "https://trumpstruth.org/statuses/40218",
@@ -472,28 +575,6 @@
     "nuclear"
    ],
    "highlight": true
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Several killed as Ukraine, Russia trade attacks deep behind the front line",
-   "url": "https://www.aljazeera.com/news/2026/7/23/several-killed-as-ukraine-russia-trade-attacks-deep-behind-the-front-line?traffic_source=rss",
-   "published": "2026-07-23T11:36:31+00:00",
-   "summary": "Four have been killed by Russian strikes in Ukraine, while four others died in Russia and Crimea, according to reports.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Why a North Sea oilfield is emerging as British PM Burnham’s big test",
-   "url": "https://www.aljazeera.com/news/2026/7/23/why-a-north-sea-oilfield-is-emerging-as-british-pm-burnhams-big-test?traffic_source=rss",
-   "published": "2026-07-23T11:33:24+00:00",
-   "summary": "Reports suggesting the new British PM might allow drilling in the North Sea have excited Donald Trump, divided locals.",
-   "tags": [
-    "oil"
-   ],
-   "highlight": false
   },
   {
    "source": "UN Press",
@@ -512,29 +593,6 @@
    "summary": "Tehran, IRNA – Iranian President Masoud Pezeshkian has officially welcomed Iraqi Prime Minister Ali Faleh al-Zaidi in Tehran, as the two sides prepare to discuss bilateral relations and sign cooperation agreements.",
    "tags": [
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Rubio says Iran ‘begging’ for a deal with US but not ready to make one",
-   "url": "https://www.aljazeera.com/news/2026/7/23/rubio-says-iran-begging-for-a-deal-with-us-but-not-ready-to-make-one?traffic_source=rss",
-   "published": "2026-07-23T10:19:58+00:00",
-   "summary": "Secretary of state says US has &#039;a head for an eye&#039; policy as strikes hit Iran for a 12th straight night.",
-   "tags": [
-    "strikes",
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Thai sailors sue owners of cargo ship hit in Hormuz",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/thai-sailors-sue-owners-of-cargo-ship-hit-in-hormuz?traffic_source=rss",
-   "published": "2026-07-23T09:45:59+00:00",
-   "summary": "Thai sailors sue owners of cargo ship hit in Hormuz",
-   "tags": [
-    "shipping"
    ],
    "highlight": false
   },
@@ -575,66 +633,6 @@
    "url": "https://en.irna.ir/news/86217280/Latest-US-attacks-target-several-locations-across-Iran-leaving",
    "published": "2026-07-23T08:58:01+00:00",
    "summary": "Tehran, IRNA – The latest US missile and air attacks have targeted several locations across Iran, including areas in the southern, western, and central provinces, leaving at least two people dead and 11 others injured, according to local officials.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "IRGC to Jordanian, Kuwaiti peoples: US violating your countries’ sovereignty",
-   "url": "https://en.irna.ir/news/86217233/IRGC-to-Jordanian-Kuwaiti-peoples-US-violating-your-countries",
-   "published": "2026-07-23T07:56:14+00:00",
-   "summary": "Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) says it is the United States that, through its military bases in Kuwait and Jordan, has violated the two countries’ sovereignty, emphasizing that Iran has the legal right to target aggressors and those responsible for killing its people wherever they launch attacks.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "IRGC warns against using alternative routes to Strait of Hormuz after vessel catches fire",
-   "url": "https://en.irna.ir/news/86217154/IRGC-warns-against-using-alternative-routes-to-Strait-of-Hormuz",
-   "published": "2026-07-23T07:25:16+00:00",
-   "summary": "Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) has warned vessels against using alternative routes to the Strait of Hormuz, saying the waterway’s entrances and exits are under its “absolute control,” after a vessel caught fire.",
-   "tags": [
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from July 23, 2026",
-   "url": "https://trumpstruth.org/statuses/40216",
-   "published": "2026-07-23T03:07:05+00:00",
-   "summary": "https://www. instagram.com/p/DbBSMG8jqBx/",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Exclusive — Cyprus Energy Minister: Trump’s ‘Energy Security’ Engagement ‘Vital’ to Future of West:",
-   "url": "https://trumpstruth.org/statuses/40215",
-   "published": "2026-07-23T01:40:40+00:00",
-   "summary": "Exclusive — Cyprus Energy Minister: Trump’s ‘Energy Security’ Engagement ‘Vital’ to Future of West: https://www. breitbart.com/politics/2026/07 /22/exclusive-cyprus-energy-minister-trumps-energy-security-engagement-vital-to-future-of-west/",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "UN Press",
-   "title": "Minerals Must Benefit Countries, Communities, Not Finance Criminals, Conflict, Security Council Hears during Day-Long Debate on Natural-Resources Governance",
-   "url": "https://press.un.org/en/2026/sc16419.doc.htm",
-   "published": "2026-07-22T22:06:26+00:00",
-   "summary": "Countries and communities, especially in resource-rich Africa, must benefit most from the minerals in their own backyards, speakers affirmed today at a Security Council debate on “Natural resources governance: the foundation of peace, security and prosperity”.",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Khatam al-Anbia warns US against attacking infrastructure",
-   "url": "https://en.irna.ir/news/86216994/Khatam-al-Anbia-warns-US-against-attacking-infrastructure",
-   "published": "2026-07-22T21:02:46+00:00",
-   "summary": "Tehran, IRNA – Top Iranian military body Khatam al-Anbiya Central Headquarters has issued stark warning against targeting Iran’s infrastructure.",
    "tags": [
     "strikes"
    ],
