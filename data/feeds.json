@@ -1,6 +1,17 @@
 {
- "asOf": "2026-07-24T11:08:01.697349+00:00",
+ "asOf": "2026-07-24T11:58:48.461663+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "At least 11 killed in Ukraine as Moscow and Kyiv continue to trade attacks",
+   "url": "https://www.aljazeera.com/news/2026/7/24/at-least-11-killed-in-ukraine-as-moscow-and-kyiv-continue-to-trade-attacks?traffic_source=rss",
+   "published": "2026-07-24T11:45:04+00:00",
+   "summary": "Six people also killed in Ukrainian attack on Russia’s Kirov, and Wildberries warehouses hit again.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Iran hits US military locations in Kuwait, Bahrain in new phase of operations",
@@ -423,6 +434,15 @@
    "highlight": false
   },
   {
+   "source": "UN Press",
+   "title": "General Assembly Plenary, 106th Meeting (PM) 24 July 2026",
+   "url": "https://press.un.org/en/blog/ga12773",
+   "published": "2026-07-23T20:52:37+00:00",
+   "summary": "The General Assembly will take action on draft decisions and draft resolutions on a range of topics, including sustainable development, peacekeeping operations, a culture of peace, global health and foreign policy, among other topics.",
+   "tags": [],
+   "highlight": false
+  },
+  {
    "source": "Al Jazeera",
    "title": "Indian activist Wangchuk ends 26-day hunger strike over exam paper leaks",
    "url": "https://www.aljazeera.com/news/2026/7/23/indian-activist-wangchuk-ends-26-day-hunger-strike-over-exam-paper-leaks?traffic_source=rss",
@@ -484,18 +504,6 @@
    "tags": [
     "diplomacy",
     "nuclear"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Oil surges past $100 in a first since May as Middle East conflicts rage",
-   "url": "https://www.aljazeera.com/news/2026/7/23/oil-surges-past-100-in-a-first-since-may-as-middle-east-conflicts-rage?traffic_source=rss",
-   "published": "2026-07-23T17:05:18+00:00",
-   "summary": "Oil prices rise for a fifth day after Yemen&#039;s Houthis say they struck Saudi Arabian oil tankers in the Red Sea.",
-   "tags": [
-    "shipping",
-    "oil"
    ],
    "highlight": false
   },
@@ -629,15 +637,6 @@
     "nuclear"
    ],
    "highlight": true
-  },
-  {
-   "source": "UN Press",
-   "title": "Security Council, 10201st Meeting (AM & PM) Maintenance of International Peace and Security",
-   "url": "https://press.un.org/en/blog/sc16420",
-   "published": "2026-07-23T11:03:26+00:00",
-   "summary": "The Security Council holds a high-level open debate on conflict prevention and \"strengthening the mechanisms for the peaceful settlement of disputes: follow-up to Security Council resolution 2788 (2025)”.",
-   "tags": [],
-   "highlight": false
   }
  ]
 }
