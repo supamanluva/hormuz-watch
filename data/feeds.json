@@ -1,6 +1,55 @@
 {
- "asOf": "2026-07-24T21:31:48.732754+00:00",
+ "asOf": "2026-07-24T22:46:05.827242+00:00",
  "items": [
+  {
+   "source": "UN Press",
+   "title": "General Assembly Takes Action on Draft Resolutions on Myriad Topics",
+   "url": "https://press.un.org/en/2026/ga12773.doc.htm",
+   "published": "2026-07-24T21:50:17+00:00",
+   "summary": "The General Assembly will take action on draft decisions and draft resolutions on a range of topics, including sustainable development, peacekeeping operations, a culture of peace, and global health and foreign policy, among others.",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "UN Press",
+   "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General",
+   "url": "https://press.un.org/en/2026/db260724.doc.htm",
+   "published": "2026-07-24T21:45:49+00:00",
+   "summary": "The World Food Programme (WFP) warns that food assistance for more than 130,000 refugees in Burundi risks drawing down unless funding is received. WFP urgently needs $35 million to sustain food and nutrition support for refugees through August 2027. Without new resources, life-saving food distributions will end in October.",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "China, Philippine coastguard vessels clash in South China Sea",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/china-philippine-coastguard-vessels-clash-in-south-china-sea?traffic_source=rss",
+   "published": "2026-07-24T21:29:10+00:00",
+   "summary": "China, Philippine coastguard vessels clash in South China Sea.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Paramount agrees to pause Warner Bros deal while court case plays out",
+   "url": "https://www.aljazeera.com/economy/2026/7/24/paramount-agrees-to-pause-warner-bros-deal-while-court-case-plays-out?traffic_source=rss",
+   "published": "2026-07-24T21:27:45+00:00",
+   "summary": "The delay, filed in court on Friday, can cost Paramount $1.7bn in fees if the deal is not closed by next June.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "UN Press",
+   "title": "Activities of the Secretary-General in Geneva, 5-7 July 2026",
+   "url": "https://press.un.org/en/2026/sgt3468.doc.htm",
+   "published": "2026-07-24T21:20:37+00:00",
+   "summary": "The Secretary-General arrived in Geneva on Sunday, 5 July. The following morning, he took part in the inaugural Global Dialogue on AI (artificial intelligence) Governance.",
+   "tags": [],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Israeli settlers escalate attacks on Palestinians near Nablus",
@@ -23,10 +72,10 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "Saudi’s strike Yemen’s Houthi-held Hodeidah: Rebel media",
+   "title": "Saudi Arabia strikes Houthi-held Hodeidah, Yemeni group says",
    "url": "https://www.aljazeera.com/news/2026/7/24/saudis-strike-yemens-houthi-held-hodeida-rebel-media?traffic_source=rss",
    "published": "2026-07-24T20:27:16+00:00",
-   "summary": "This is a breaking news story.",
+   "summary": "Houthi-controlled foreign ministry warns that the attack will spark further escalation in the Yemeni conflict.",
    "tags": [
     "strikes"
    ],
@@ -79,6 +128,17 @@
    "published": "2026-07-24T19:10:09+00:00",
    "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered: Section 1. Policy. On March 27, 2025, I issued Executive Order 14253 (Restoring Truth and Sanity to American History). Pursuant to that order, the Domestic Policy Council recently completed a months-long review [&#8230;] The post Restoring Trust in the Smithsonian Inst",
    "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "ICC prosecutor Karim Khan removed over ‘political’ sex abuse claims",
+   "url": "https://www.aljazeera.com/news/2026/7/24/icc-prosecutor-khan-removed-over-sexual-misconduct-allegations-sources?traffic_source=rss",
+   "published": "2026-07-24T18:38:02+00:00",
+   "summary": "Karim Khan&#039;s defence team underscores that the prosecutor was removed while many court officials are under US sanctions.",
+   "tags": [
+    "sanctions"
+   ],
    "highlight": false
   },
   {
@@ -207,6 +267,15 @@
    "tags": [
     "strikes"
    ],
+   "highlight": false
+  },
+  {
+   "source": "UN Press",
+   "title": "Activities of Secretary-General in Dominican Republic and Haiti, 15-17 June",
+   "url": "https://press.un.org/en/2026/sgt3466.doc.htm",
+   "published": "2026-07-24T15:37:20+00:00",
+   "summary": "The Secretary-General travelled to Haiti via the Dominican Republic and he arrived in Santo Domingo on the evening of Monday, 15 June.",
+   "tags": [],
    "highlight": false
   },
   {
@@ -488,31 +557,6 @@
    "highlight": true
   },
   {
-   "source": "Al Jazeera",
-   "title": "As oil soars, experts watch Red Sea tankers for clarity on Houthi blockade",
-   "url": "https://www.aljazeera.com/economy/2026/7/24/as-oil-soars-experts-watch-red-sea-tankers-for-clarity-on-houthi-blockade?traffic_source=rss",
-   "published": "2026-07-24T03:34:10+00:00",
-   "summary": "Houthi attacks for now are shaping who moves Saudi crude, not whether it moves, analysts say, even as oil prices soar.",
-   "tags": [
-    "strikes",
-    "shipping",
-    "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "What are the Abraham Accords?",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/what-are-the-abraham-accords-3?traffic_source=rss",
-   "published": "2026-07-24T03:08:49+00:00",
-   "summary": "US President Donald Trump has seemingly backpedalled on a nuclear deal with Saudi Arabia.",
-   "tags": [
-    "diplomacy",
-    "nuclear"
-   ],
-   "highlight": false
-  },
-  {
    "source": "IRNA (Iran state wire)",
    "title": "Araghchi warns compromised US officials against mindless aggression",
    "url": "https://en.irna.ir/news/86217779/Araghchi-warns-compromised-US-officials-against-mindless-aggression",
@@ -520,17 +564,6 @@
    "summary": "Tehran, IRNA – Iranian Foreign Minister Abbas Araghchi has strongly criticized certain elements within the US administration for ignoring realities on the ground and pushing policies that would only raise the cost of any potential agreement.",
    "tags": [
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "US launches 13th night of strikes as Iran warns of escalation in the Gulf",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/us-launches-13th-night-of-strikes-as-iran-warns-of-escalation-in-the-gulf?traffic_source=rss",
-   "published": "2026-07-24T02:25:41+00:00",
-   "summary": "Al Jazeera’s Tohid Asadi reports from Tehran as the US launches strikes for the 13th consecutive night.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   },
@@ -585,44 +618,6 @@
    "url": "https://trumpstruth.org/statuses/40224",
    "published": "2026-07-23T23:22:58+00:00",
    "summary": "It is my Great Honor to endorse America First Patriot, Brian Strickland, who is running to be the next Attorney General of the Wonderful State of Georgia! A Proven Leader, Brian previously served as a Highly Respected State Senator and State Representative, delivering strong results for his Community. As your next Attorney General, Brian will continue fighting tirelessly to Ensure LAW AND ORDER, C",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "White House",
-   "title": "Actions by the United States in the Investigations under Section 301 of the Trade Act of 1974 of the Acts, Policies, and Practices of 60 Economies Related to the Failure of Each Economy to Impose and Effectively Enforce a Prohibition on the Importation of Goods Produced with Forced Labor",
-   "url": "https://www.whitehouse.gov/presidential-actions/2026/07/actions-by-the-united-states-in-the-investigations-under-section-301-of-the-trade-act-of-1974-of-the-acts-policies-and-practices-of-60-economies-related-to-the-failure-of-each-economy-to-impose-and/",
-   "published": "2026-07-23T22:48:44+00:00",
-   "summary": "MEMORANDUM FOR THE UNITED STATES TRADE REPRESENTATIVE Subject: Actions by the United States in the Investigations under Section 301 of the Trade Act of 1974 of the Acts, Policies, and Practices of 60 Economies Related to the Failure of Each Economy to Impose and Effectively Enforce a Prohibition on the Importation of Goods Produced with [&#8230;] The post Actions by the United States in the Invest",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "As Secretary-General Urges Security Council Members to 'Lead by Example’, Delegates Call for Greater Use of UN Diplomatic Toolbox to Peacefully Settle Disputes",
-   "url": "https://press.un.org/en/2026/sc16420.doc.htm",
-   "published": "2026-07-23T22:16:18+00:00",
-   "summary": "At today’s Security Council open debate on the peaceful settlement of disputes, speakers called for greater use of the UN’s diplomatic toolbox — including mediation, fact-finding and early action under Chapter VI of the world body’s Charter — stressing that diplomacy is the only path forward with Council members leading by example.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "President Trump’s Ratepayer Protection Pledge Secures American AI Dominance, Protects Consumers",
-   "url": "https://www.whitehouse.gov/releases/2026/07/president-trumps-ratepayer-protection-pledge-secures-american-ai-dominance-protects-consumers/",
-   "published": "2026-07-23T22:12:29+00:00",
-   "summary": "Today, President Donald J. Trump heralded a historic expansion of the Ratepayer Protection Pledge, bringing more than 200 additional utilities, data center developers, cooperatives, and states into this growing national commitment. The goal is clear: ensure the growth of data centers powering America’s AI dominance will not raise electricity bills for American households and businesses. [&#8230;] ",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Please let this statement serve to represent, until further notice, that from this point forth, any and all damages done to Ships, Cargo, or anything related thereto, will be paid for by Iranian Money that the United States has in its possession, and controls. These damages may be very substantial but, nevertheless, this is the fair and equitable thing to do. Thank you for your attention to this matter! President DONALD J. TRUMP",
-   "url": "https://trumpstruth.org/statuses/40220",
-   "published": "2026-07-23T22:04:55+00:00",
-   "summary": "Please let this statement serve to represent, until further notice, that from this point forth, any and all damages done to Ships, Cargo, or anything related thereto, will be paid for by Iranian Money that the United States has in its possession, and controls. These damages may be very substantial but, nevertheless, this is the fair and equitable thing to do. Thank you for your attention to this m",
    "tags": [],
    "highlight": true
   }
