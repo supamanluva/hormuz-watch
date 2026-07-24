@@ -1,6 +1,17 @@
 {
- "asOf": "2026-07-24T12:41:14.366127+00:00",
+ "asOf": "2026-07-24T13:14:06.018984+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "US summons Malaysia envoy over Israel policy",
+   "url": "https://www.aljazeera.com/news/2026/7/24/us-summons-malaysia-envoy-over-israel-policy?traffic_source=rss",
+   "published": "2026-07-24T12:49:27+00:00",
+   "summary": "Malaysia does not have any diplomatic ties with Israel and has long maintained its support for the Palestinian cause.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "At least 11 killed in Ukraine as Moscow and Kyiv continue to trade attacks",
@@ -494,17 +505,6 @@
    "published": "2026-07-23T18:55:29+00:00",
    "summary": "The Secretary-General's Peacebuilding Fund approved $2.4 million for a new programme to reduce insecurity across four regions of Mali, where communities and local institutions have come under sustained pressure and insecurity and violence. It aims to strengthen collaboration among local authorities, security forces and traditional leaders",
    "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iraqi PM makes first official visit to Iran in bid to deepen ties",
-   "url": "https://www.aljazeera.com/news/2026/7/23/iraqi-pm-makes-first-official-visit-to-iran-to-deepen-ties?traffic_source=rss",
-   "published": "2026-07-23T18:34:41+00:00",
-   "summary": "Ali al-Zaidi holds talks with senior Iranian officials on bilateral cooperation, shared interests and security.",
-   "tags": [
-    "diplomacy"
-   ],
    "highlight": false
   },
   {
