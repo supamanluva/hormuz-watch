@@ -1,6 +1,71 @@
 {
- "asOf": "2026-07-24T00:09:25.059637+00:00",
+ "asOf": "2026-07-24T01:43:50.598173+00:00",
  "items": [
+  {
+   "source": "Trump · Truth Social",
+   "title": "Very good!!! President DJT",
+   "url": "https://trumpstruth.org/statuses/40225",
+   "published": "2026-07-24T01:00:18+00:00",
+   "summary": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116972241542468155 Very good!!! President DJT",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "[No Title] - Post from July 24, 2026",
+   "url": "https://trumpstruth.org/statuses/40226",
+   "published": "2026-07-24T00:59:19+00:00",
+   "summary": "",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Israel bombs Gaza after displacement orders, kills two Palestinians",
+   "url": "https://www.aljazeera.com/news/2026/7/24/israel-bombs-gaza-after-displacement-orders-kills-two-palestinians?traffic_source=rss",
+   "published": "2026-07-24T00:29:08+00:00",
+   "summary": "Humanitarian situation in Gaza is &#039;desperate&#039;, UN official says, as Israeli violations of &#039;ceasefire&#039; intensify.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "UN envoy for Yemen ‘alarmed’ by Houthis’ Red Sea attacks, calls for talks",
+   "url": "https://www.aljazeera.com/news/2026/7/24/un-envoy-for-yemen-alarmed-by-houthis-red-sea-attacks-calls-for-talks?traffic_source=rss",
+   "published": "2026-07-24T00:03:25+00:00",
+   "summary": "Hans Grundberg warns that further confrontation risks &#039;deepening the suffering of the Yemeni people&#039;.",
+   "tags": [
+    "strikes",
+    "diplomacy",
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Iran war live: Trump weighs ‘massive attack’ on Iran",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/7/24/iran-war-live-trump-weighs-massive-attack-on-iran?traffic_source=rss",
+   "published": "2026-07-24T00:00:00+00:00",
+   "summary": "Trump says he is considering a ‘massive attack’, as Iran&#039;s Araghchi says &#039;mindless aggression&#039; won&#039;t help a deal.",
+   "tags": [
+    "strikes",
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Two Palestinians killed as Israel intensifies strikes on Gaza City",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/two-palestinians-killed-as-israel-intensifies-strikes-on-gaza-city?traffic_source=rss",
+   "published": "2026-07-23T23:53:13+00:00",
+   "summary": "Two Palestinians were killed and several others injured in a new wave of Israeli airstrikes on Gaza City.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "Rick Jackson, from the Great State of Georgia, very successfully campaigned for Governor, on being strong with “TRUMP,” and won, against a field of very talented and popular opponents, including an incredible guy, Burt Jones, who has a truly bright future ahead of him! Rick has been a very successful Businessman and Entrepreneur, and will now be a tremendous Governor, who will work tirelessly to Grow the Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Strengthen our Military/Veterans, Keep our Border SECURE, Ensure LAW AND ORDER, Safeguard our Elections, and Protect our always under siege Second Amendment. Now is the time for all Republicans to unite behind Rick to ensure he has a tremendous Victory in November! Rick will work closely with me to enact America First Policies. He is a FANTASTIC person who everyone is very proud of, as am I. Rick Jackson has my Complete and Total Endorsement to be the next Governor of Georgia – HE WILL NEVER LET YOU DOWN!",
@@ -88,7 +153,7 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "Trump warns of largest strikes on Iran yet as Tehran lashes out across Gulf",
+   "title": "US attacks Iran for 13th night as Trump threatens ‘bigger’ strikes",
    "url": "https://www.aljazeera.com/news/2026/7/23/trump-warns-of-biggest-strikes-yet-on-iran-as-tehran-lashes-out-across-gulf?traffic_source=rss",
    "published": "2026-07-23T21:43:28+00:00",
    "summary": "The US president&#039;s threat comes after another day of Iranian attacks on Bahrain, Kuwait and Jordan.",
@@ -494,18 +559,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "Iran, Houthis strike tankers as US bombing continues: What’s the latest?",
-   "url": "https://www.aljazeera.com/news/2026/7/23/iran-houthis-strike-tankers-as-us-bombing-continues-whats-the-latest?traffic_source=rss",
-   "published": "2026-07-23T09:20:46+00:00",
-   "summary": "With the Houthi naval blockade, shipping disruptions now impact the Bab al-Mandeb strait in addition to Hormuz.",
-   "tags": [
-    "strikes",
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
    "source": "IRNA (Iran state wire)",
    "title": "Iraqi PM: Iraq and Iran are bound by historic and civilizational ties",
    "url": "https://en.irna.ir/news/86217300/Iraqi-PM-Iraq-and-Iran-are-bound-by-historic-and-civilizational",
@@ -522,28 +575,6 @@
    "url": "https://en.irna.ir/news/86217280/Latest-US-attacks-target-several-locations-across-Iran-leaving",
    "published": "2026-07-23T08:58:01+00:00",
    "summary": "Tehran, IRNA – The latest US missile and air attacks have targeted several locations across Iran, including areas in the southern, western, and central provinces, leaving at least two people dead and 11 others injured, according to local officials.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Indian activist Wangchuk sets conditions to end hunger strike",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/indian-activist-wangchuk-sets-conditions-to-end-hunger-strike?traffic_source=rss",
-   "published": "2026-07-23T08:19:22+00:00",
-   "summary": "Indian activist Wangchuk sets conditions to end hunger strike",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Travellers panic as US attacks Iran-Iraq border crossing",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/travellers-panic-as-us-attacks-iran-iraq-border-crossing?traffic_source=rss",
-   "published": "2026-07-23T07:56:55+00:00",
-   "summary": "Travellers panic as US attacks Iran-Iraq border crossing",
    "tags": [
     "strikes"
    ],
@@ -568,17 +599,6 @@
    "summary": "Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) has warned vessels against using alternative routes to the Strait of Hormuz, saying the waterway’s entrances and exits are under its “absolute control,” after a vessel caught fire.",
    "tags": [
     "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Between hope and fear: Yemenis react to Houthi blockade on Saudi Arabia",
-   "url": "https://www.aljazeera.com/features/2026/7/23/between-hope-and-fear-yemenis-react-to-houthi-blockade-on-saudi-arabia?traffic_source=rss",
-   "published": "2026-07-23T06:08:47+00:00",
-   "summary": "Yemenis fear a maritime embargo on Saudi Arabia could reignite war, deepen shortages and worsen hunger.",
-   "tags": [
-    "sanctions"
    ],
    "highlight": false
   },
@@ -618,24 +638,6 @@
    "tags": [
     "strikes"
    ],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General",
-   "url": "https://press.un.org/en/2026/db260722.doc.htm",
-   "published": "2026-07-22T20:29:33+00:00",
-   "summary": "In Ukraine, the UN and aid partners are launching the 2026–2027 Winter Response Plan, which calls for $358 million to support 2.1 million people from October to March of next year through heating assistance, shelter repairs, healthcare, protection, food, and humanitarian cash assistance.",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "United Nations Board of Auditors Holds Eightieth Regular Session, 21-22 July at UN Headquarters, New York",
-   "url": "https://press.un.org/en/2026/org1757.doc.htm",
-   "published": "2026-07-22T18:00:05+00:00",
-   "summary": "The General Assembly established the United Nations Board of Auditors in 1946 as an important mechanism to promote accountability and transparency in the United Nations. The Board audits the accounts of the United Nations Organization and its funds and programmes and reports its findings and recommendations to the General Assembly, through the Advisory Committee on Administrative and Budgetary Que",
-   "tags": [],
    "highlight": false
   }
  ]
