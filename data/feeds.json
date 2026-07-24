@@ -1,6 +1,40 @@
 {
- "asOf": "2026-07-24T13:14:06.018984+00:00",
+ "asOf": "2026-07-24T15:05:37.078165+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran FM meets Chinese, Kyrgyz, Uzbek counterparts on sidelines of SCO conference",
+   "url": "https://en.irna.ir/news/86218195/Iran-FM-meets-Chinese-Kyrgyz-Uzbek-counterparts-on-sidelines",
+   "published": "2026-07-24T14:48:12+00:00",
+   "summary": "Tehran, IRNA — Iran’s foreign minister has held separate bilateral talks with his Chinese, Kyrgyz, and Uzbek counterparts on the sidelines of the summit.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "UN Press",
+   "title": "Secretary-General Deeply Alarmed by Resumed Houthi Attacks on Red Sea Vessels",
+   "url": "https://press.un.org/en/2026/sgsm23230.doc.htm",
+   "published": "2026-07-24T14:39:20+00:00",
+   "summary": "The following statement was issued today by the Spokesman for UN Secretary-General António Guterres:",
+   "tags": [
+    "strikes",
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Five killed in occupied West Bank after Israeli settlers attack",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/five-killed-in-occupied-west-bank-after-israeli-settlers-attack?traffic_source=rss",
+   "published": "2026-07-24T13:19:17+00:00",
+   "summary": "Four Palestinians and one Israeli were killed in a shooting in the occupied West Bank village of Till",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "US summons Malaysia envoy over Israel policy",
@@ -488,17 +522,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "Children wounded in Israeli strike on Khan Younis",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/children-wounded-in-israeli-strike-on-khan-younis?traffic_source=rss",
-   "published": "2026-07-23T18:55:53+00:00",
-   "summary": "Children were rushed to hospital after an Israeli strike hit a tent sheltering displaced people in Khan Younis.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
    "source": "UN Press",
    "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General",
    "url": "https://press.un.org/en/2026/db260723.doc.htm",
@@ -614,29 +637,6 @@
     "strikes"
    ],
    "highlight": false
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "A year ago the United States of America attacked, very powerfully, the Houthis, for their interference with commerce and trade, by shooting at ships. Since that time, and during our conflict with Iran, they have acted very responsibly. Unfortunately, now they are starting up again, shooting at two Saudi Arabian ships last night. Please let this TRUTH serve to represent that if they do this again, the U.S. will hold Iran responsible, in that the Houthis are a Surrogate and/or Proxy of Iran, and major military punishment will be inflicted upon Iran and, of course, the Houthis, themselves, who I am very disappointed with in that they have, until now, acted very professionally and smart. Thank you for your attention to this matter! President DONALD J. TRUMP",
-   "url": "https://trumpstruth.org/statuses/40219",
-   "published": "2026-07-23T12:16:49+00:00",
-   "summary": "A year ago the United States of America attacked, very powerfully, the Houthis, for their interference with commerce and trade, by shooting at ships. Since that time, and during our conflict with Iran, they have acted very responsibly. Unfortunately, now they are starting up again, shooting at two Saudi Arabian ships last night. Please let this TRUTH serve to represent that if they do this again, ",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "The Civil Nuclear Deal (There will be no enrichment of material!) being made between the United States Department of Energy and Saudi Arabia, which pertains only to non-military use such as the ones that Iran and UAE (and others) already have, will be approved, but is totally subject to Saudi Arabia joining the very respected and successful Abraham Accords. The United States is not opposed to Civil (Non-Enriched) Nuclear Facilities. Thank you for your attention to this matter! President DONALD J. TRUMP",
-   "url": "https://trumpstruth.org/statuses/40218",
-   "published": "2026-07-23T11:52:51+00:00",
-   "summary": "The Civil Nuclear Deal (There will be no enrichment of material!) being made between the United States Department of Energy and Saudi Arabia, which pertains only to non-military use such as the ones that Iran and UAE (and others) already have, will be approved, but is totally subject to Saudi Arabia joining the very respected and successful Abraham Accords. The United States is not opposed to Civi",
-   "tags": [
-    "diplomacy",
-    "nuclear"
-   ],
-   "highlight": true
   }
  ]
 }
