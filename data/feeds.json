@@ -1,6 +1,17 @@
 {
- "asOf": "2026-07-25T08:11:12.413507+00:00",
+ "asOf": "2026-07-25T10:02:06.887129+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Israel arrests dozens of Palestinians in West Bank amid settler attacks",
+   "url": "https://www.aljazeera.com/news/2026/7/25/israel-arrests-dozens-of-palestinians-in-west-bank-amid-settler-attacks?traffic_source=rss",
+   "published": "2026-07-25T09:10:01+00:00",
+   "summary": "Military crackdown follows a shooting that killed four Palestinians and two Israeli soldiers.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Guterres arrives in Syria in first official visit by a UN chief in 17 years",
@@ -502,17 +513,6 @@
    "url": "https://en.irna.ir/news/86217947/Iranian-Army-hits-US-bases-in-Jordan-and-Bahrain-with-drones",
    "published": "2026-07-24T09:09:34+00:00",
    "summary": "Tehran, IRNA – The Iranian Army has carried out retaliatory attacks on aggressive US military positions in Jordan and Bahrain, continuing its series of drone operations against enemy targets.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Major fire after Ukrainian strike on St Petersburg warehouse",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/major-fire-after-ukrainian-strike-on-st-petersburg-warehouse?traffic_source=rss",
-   "published": "2026-07-24T08:42:07+00:00",
-   "summary": "A major fire broke out at a Wildberries e-commerce warehouse in St Petersburg after a Ukrainian drone attack.",
    "tags": [
     "strikes"
    ],
