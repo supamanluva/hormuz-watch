@@ -1,6 +1,29 @@
 {
- "asOf": "2026-07-25T19:52:02.308986+00:00",
+ "asOf": "2026-07-25T20:26:58.789742+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran strongly condemns Ukraine's military attack on an Iranian commercial vessel in Caspian Sea",
+   "url": "https://en.irna.ir/news/86219325/Iran-strongly-condemns-Ukraine-s-military-attack-on-an-Iranian",
+   "published": "2026-07-25T20:15:42+00:00",
+   "summary": "Tehran, IRNA – Iranian Foreign Ministry strongly condemns the Ukrainian regime's attack on an Iranian commercial vessel in the Caspian Sea early Saturday morning—an incident that caused an explosion on the ship, resulting in the martyrdom of one sailor and injuries to another.",
+   "tags": [
+    "strikes",
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Head of Hamas-led police in northern Gaza killed by Israeli strike",
+   "url": "https://www.aljazeera.com/news/2026/7/25/head-of-hamas-led-police-in-northern-gaza-killed-by-israeli-strike?traffic_source=rss",
+   "published": "2026-07-25T20:00:43+00:00",
+   "summary": "Four other Palestinians were also killed by Israeli air strikes, and a policeman died from wounds sustained last week.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Iran’s government spars with state TV as mediators push talks with US",
@@ -552,17 +575,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "Five killed in occupied West Bank after Israeli settlers attack",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/five-killed-in-occupied-west-bank-after-israeli-settlers-attack?traffic_source=rss",
-   "published": "2026-07-24T13:19:17+00:00",
-   "summary": "Four Palestinians and one Israeli were killed in a shooting in the occupied West Bank village of Tal",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
    "source": "IRNA (Iran state wire)",
    "title": "Iran hits US military locations in Kuwait, Bahrain in new phase of operations",
    "url": "https://en.irna.ir/news/86218064/Iran-hits-US-military-locations-in-Kuwait-Bahrain-in-new-phase",
@@ -623,15 +635,6 @@
    "url": "https://trumpstruth.org/statuses/40227",
    "published": "2026-07-24T04:09:38+00:00",
    "summary": "What a great guy, and baseball player!!! President DJT",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from July 24, 2026",
-   "url": "https://trumpstruth.org/statuses/40228",
-   "published": "2026-07-24T04:09:18+00:00",
-   "summary": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116972986793236903",
    "tags": [],
    "highlight": true
   }
