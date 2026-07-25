@@ -1,6 +1,17 @@
 {
- "asOf": "2026-07-25T16:49:34.657462+00:00",
+ "asOf": "2026-07-25T18:06:36.380186+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Iran’s government spars with state TV as mediators push talks with US",
+   "url": "https://www.aljazeera.com/news/2026/7/25/irans-government-spars-with-state-tv-as-mediators-push-talks-with-us?traffic_source=rss",
+   "published": "2026-07-25T16:39:16+00:00",
+   "summary": "Gov&#039;t accuses IRIB of &#039;censorship&#039; after parts of president&#039;s speech not aired; station rejects &#039;improper attributions&#039;.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "[No Title] - Post from July 25, 2026",
@@ -548,17 +559,6 @@
    "summary": "Four Palestinians and one Israeli were killed in a shooting in the occupied West Bank village of Tal",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "US summons Malaysia envoy over Israel policy",
-   "url": "https://www.aljazeera.com/news/2026/7/24/us-summons-malaysia-envoy-over-israel-policy?traffic_source=rss",
-   "published": "2026-07-24T12:49:27+00:00",
-   "summary": "Malaysia does not have any diplomatic ties with Israel and has long maintained its support for the Palestinian cause.",
-   "tags": [
-    "diplomacy"
    ],
    "highlight": false
   },
