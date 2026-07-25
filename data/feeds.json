@@ -1,6 +1,17 @@
 {
- "asOf": "2026-07-25T07:12:23.103695+00:00",
+ "asOf": "2026-07-25T08:11:12.413507+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Guterres arrives in Syria in first official visit by a UN chief in 17 years",
+   "url": "https://www.aljazeera.com/news/2026/7/25/guterres-arrives-in-syria-in-first-official-visit-by-a-un-chief-in-17-years?traffic_source=rss",
+   "published": "2026-07-25T07:22:47+00:00",
+   "summary": "The UN chief will meet Syrian President Ahmed al-Sharaa, who was under UN Security Council sanctions until last year.",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Iran tells UN US attack on rescue vessels constitutes ‘war crime’",
@@ -58,7 +69,7 @@
    "title": "Iran war live: Trump says US ‘locked and loaded’ as it seeks Iran talks",
    "url": "https://www.aljazeera.com/news/liveblog/2026/7/25/iran-war-live-trump-says-us-locked-and-loaded-as-it-seeks-iran-talks?traffic_source=rss",
    "published": "2026-07-25T00:00:00+00:00",
-   "summary": "US President Donald Trump says Washington remains ‘locked and loaded’ while pursuing diplomatic talks with Tehran.",
+   "summary": "US President Donald Trump says Washington remains ‘locked and loaded’ while pursuing diplomatic talks with Iran.",
    "tags": [
     "diplomacy"
    ],
@@ -502,17 +513,6 @@
    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/major-fire-after-ukrainian-strike-on-st-petersburg-warehouse?traffic_source=rss",
    "published": "2026-07-24T08:42:07+00:00",
    "summary": "A major fire broke out at a Wildberries e-commerce warehouse in St Petersburg after a Ukrainian drone attack.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "US attacks Iran for 13th consecutive night",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/us-attacks-iran-for-13th-consecutive-night?traffic_source=rss",
-   "published": "2026-07-24T08:39:53+00:00",
-   "summary": "The US military says it has completed its 13th night of strikes against Iran.",
    "tags": [
     "strikes"
    ],
