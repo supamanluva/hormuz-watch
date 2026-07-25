@@ -1,6 +1,40 @@
 {
- "asOf": "2026-07-25T00:13:39.310295+00:00",
+ "asOf": "2026-07-25T00:59:38.059042+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Saudi-led coalition strikes Houthi-controlled Hodeidah",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/saudi-led-coalition-strikes-houthi-controlled-hodeidah?traffic_source=rss",
+   "published": "2026-07-25T00:31:16+00:00",
+   "summary": "The Saudi-led coalition strikes targeted Houthi-controlled Hodeidah governorate.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Iran war live: Trump says US ‘locked and loaded’ as it seeks Iran talks",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/7/25/iran-war-live-trump-says-us-locked-and-loaded-as-it-seeks-iran-talks?traffic_source=rss",
+   "published": "2026-07-25T00:00:00+00:00",
+   "summary": "US President Donald Trump says Washington remains ‘locked and loaded’ while pursuing diplomatic talks with Tehran.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Trump says ‘it’s time’ for Saudi Arabia to normalise ties with Israel",
+   "url": "https://www.aljazeera.com/news/2026/7/24/trump-says-its-time-for-saudi-arabia-to-normalise-ties-with-israel?traffic_source=rss",
+   "published": "2026-07-24T23:53:32+00:00",
+   "summary": "US president reiterates that the nuclear deal with the kingdom is conditioned on Riyadh joining the &#039;Abraham Accords&#039;.",
+   "tags": [
+    "diplomacy",
+    "nuclear"
+   ],
+   "highlight": false
+  },
   {
    "source": "UN Press",
    "title": "General Assembly Takes Action on Draft Resolutions on Myriad Topics",
@@ -455,34 +489,11 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "US attacks Iran as Houthis allow Chinese ships to pass: What’s the latest?",
-   "url": "https://www.aljazeera.com/news/2026/7/24/us-attacks-iran-as-houthis-allow-chinese-ships-to-pass-whats-the-latest?traffic_source=rss",
-   "published": "2026-07-24T07:59:01+00:00",
-   "summary": "The number of tanker crossings in the Strait of Hormuz dropped to lowest levels in two months on Thursday.",
-   "tags": [
-    "strikes",
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
    "source": "IRNA (Iran state wire)",
    "title": "Iran warns against global silence and ambivalent stances on illegal US–Israeli aggression",
    "url": "https://en.irna.ir/news/86217888/Iran-warns-against-global-silence-and-ambivalent-stances-on-illegal",
    "published": "2026-07-24T07:21:02+00:00",
    "summary": "Tehran, IRNA — Foreign Minister Abbas Araghchi, referring to the unprovoked and illegal war launched by the United States and the Israeli regime on Iran, says the silence on illegitimate attacks or hesitant stance by world countries would only encourage the aggressors to repeat their crimes.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Indian activist Wangchuk ends 26-day hunger strike",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/indian-activist-wangchuk-ends-26-day-hunger-strike?traffic_source=rss",
-   "published": "2026-07-24T07:08:21+00:00",
-   "summary": "Indian activist Sonam Wangchuk has ended a 26-day hunger strike over leaked medical entrance exams",
    "tags": [
     "strikes"
    ],
@@ -496,18 +507,6 @@
    "summary": "Tehran, IRNA — Iran’s Foreign Ministry spokesperson Esmaeil Baqaei calls on the regional bloc of Persian Gulf Arab countries and Jordan to officially explain the claim of the US Central Command (CENTCOM) about their direct participation in the American terror attacks against Iran.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Israel carries out blasts across south Lebanon despite ‘ceasefire’ deal",
-   "url": "https://www.aljazeera.com/news/2026/7/24/israel-carries-out-blasts-across-south-lebanon-despite-ceasefire-deal?traffic_source=rss",
-   "published": "2026-07-24T04:39:50+00:00",
-   "summary": "Israeli attacks come amid ongoing talks with Lebanese officials to implement framework for peace between two countries.",
-   "tags": [
-    "strikes",
-    "diplomacy"
    ],
    "highlight": false
   },
