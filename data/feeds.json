@@ -1,6 +1,39 @@
 {
- "asOf": "2026-07-25T10:02:06.887129+00:00",
+ "asOf": "2026-07-25T11:49:16.899296+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Tuberculosis: How drones are transforming care in the Philippines",
+   "url": "https://www.aljazeera.com/video/101-east/2026/7/25/tuberculosis-how-drones-are-transforming-care-in-the-philippines?traffic_source=rss",
+   "published": "2026-07-25T11:30:00+00:00",
+   "summary": "101 East meets the doctors using drones to fight tuberculosis and save lives in remote communities in the Philippines.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Six Palestinians killed in Gaza; death toll mounts to 73,317",
+   "url": "https://en.irna.ir/news/86218884/Six-Palestinians-killed-in-Gaza-death-toll-mounts-to-73-317",
+   "published": "2026-07-25T10:13:08+00:00",
+   "summary": "Tehran, IRNA — The continued Israeli attacks on the Gaza Strip have claimed 6 more lives, raising the total number of martyrs in the area to 73,317.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran, Armenia agree to form joint energy task force",
+   "url": "https://en.irna.ir/news/86218912/Iran-Armenia-agree-to-form-joint-energy-task-force",
+   "published": "2026-07-25T10:06:21+00:00",
+   "summary": "Tehran, IRNA – Iran and Armenia have agreed to establish a specialized joint task force to expand cooperation in the energy sector, following high-level talks in Tehran on Saturday.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Israel arrests dozens of Palestinians in West Bank amid settler attacks",
@@ -497,17 +530,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "Philippines accuses China of using water cannon on vessels for second day",
-   "url": "https://www.aljazeera.com/news/2026/7/24/philippines-accuses-china-of-using-water-cannon-on-vessels-for-second-day?traffic_source=rss",
-   "published": "2026-07-24T09:20:43+00:00",
-   "summary": "The Philippine Coast Guard says 12 China Coast Guard vessels and three Chinese maritime militia vessels were involved.",
-   "tags": [
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
    "source": "IRNA (Iran state wire)",
    "title": "Iranian Army hits US bases in Jordan and Bahrain with drones",
    "url": "https://en.irna.ir/news/86217947/Iranian-Army-hits-US-bases-in-Jordan-and-Bahrain-with-drones",
@@ -606,24 +628,6 @@
     "diplomacy"
    ],
    "highlight": false
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Very good!!! President DJT",
-   "url": "https://trumpstruth.org/statuses/40225",
-   "published": "2026-07-24T01:00:18+00:00",
-   "summary": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116972241542468155 Very good!!! President DJT",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from July 24, 2026",
-   "url": "https://trumpstruth.org/statuses/40226",
-   "published": "2026-07-24T00:59:19+00:00",
-   "summary": "",
-   "tags": [],
-   "highlight": true
   }
  ]
 }
