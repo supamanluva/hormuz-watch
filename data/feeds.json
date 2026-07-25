@@ -1,6 +1,17 @@
 {
- "asOf": "2026-07-25T20:49:09.621162+00:00",
+ "asOf": "2026-07-25T21:48:44.968559+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran condemns terrorist attack in Pakistan",
+   "url": "https://en.irna.ir/news/86219351/Iran-condemns-terrorist-attack-in-Pakistan",
+   "published": "2026-07-25T21:32:33+00:00",
+   "summary": "Tehran, IRNA – Iranian Foreign Ministry spokesperson Esmaeil Baqaei strongly condemned the terrorist attack on a police checkpoint in the city of Tank, located in Pakistan's Khyber Pakhtunkhwa province.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Iran strongly condemns Ukraine's military attack on an Iranian commercial vessel in Caspian Sea",
@@ -628,15 +639,6 @@
     "strikes"
    ],
    "highlight": false
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "What a great guy, and baseball player!!! President DJT",
-   "url": "https://trumpstruth.org/statuses/40227",
-   "published": "2026-07-24T04:09:38+00:00",
-   "summary": "What a great guy, and baseball player!!! President DJT",
-   "tags": [],
-   "highlight": true
   }
  ]
 }
