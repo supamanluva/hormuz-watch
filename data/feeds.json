@@ -1,6 +1,26 @@
 {
- "asOf": "2026-07-25T14:40:49.775699+00:00",
+ "asOf": "2026-07-25T15:48:33.098633+00:00",
  "items": [
+  {
+   "source": "Trump · Truth Social",
+   "title": "[No Title] - Post from July 25, 2026",
+   "url": "https://trumpstruth.org/statuses/40240",
+   "published": "2026-07-25T15:16:09+00:00",
+   "summary": "",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Yemeni army strikes Saudi Aramco facilities in twin operations",
+   "url": "https://en.irna.ir/news/86219157/Yemeni-army-strikes-Saudi-Aramco-facilities-in-twin-operations",
+   "published": "2026-07-25T14:45:49+00:00",
+   "summary": "Tehran, IRNA – The spokesperson of the Yemeni Armed Forces, Brigadier General Yahya Saree, announces that the country’s military units have carried out two separate operations targeting Saudi Aramco facilities in Jizan and Yanbu with dozens of ballistic missiles, cruise missiles, and drones.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "UN rapporteur calls for arms embargo on Israeli regime",
@@ -612,24 +632,6 @@
    "url": "https://trumpstruth.org/statuses/40228",
    "published": "2026-07-24T04:09:18+00:00",
    "summary": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116972986793236903",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from July 24, 2026",
-   "url": "https://trumpstruth.org/statuses/40229",
-   "published": "2026-07-24T04:08:51+00:00",
-   "summary": "",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from July 24, 2026",
-   "url": "https://trumpstruth.org/statuses/40230",
-   "published": "2026-07-24T04:07:00+00:00",
-   "summary": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116972976347462953",
    "tags": [],
    "highlight": true
   }
