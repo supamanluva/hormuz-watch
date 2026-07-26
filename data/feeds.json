@@ -1,12 +1,24 @@
 {
- "asOf": "2026-07-26T18:11:20.525735+00:00",
+ "asOf": "2026-07-26T18:45:57.947313+00:00",
  "items": [
   {
    "source": "Al Jazeera",
-   "title": "Berlin police shoot dead suspect in car ramming attack on Pride event",
+   "title": "Romania summons Russian envoy as it shoots down third intruding drone",
+   "url": "https://www.aljazeera.com/news/2026/7/26/romania-summons-russian-envoy-as-it-shoots-down-third-intruding-drone?traffic_source=rss",
+   "published": "2026-07-26T18:17:22+00:00",
+   "summary": "The ongoing violations of Romanian airspace raise concerns over impact on NATO states of Russia-Ukraine war.",
+   "tags": [
+    "strikes",
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Berlin police shoot dead suspect in car-ramming attack at Pride event",
    "url": "https://www.aljazeera.com/news/2026/7/26/berlin-police-shoot-dead-suspect-in-car-ramming-attack-on-pride-event?traffic_source=rss",
    "published": "2026-07-26T17:51:37+00:00",
-   "summary": "This is a breaking news story.",
+   "summary": "Abdul Ballout, a&nbsp;German citizen with Lebanese roots, accused of carrying out an &#039;Islamic terror attack&#039;.",
    "tags": [
     "strikes"
    ],
@@ -561,17 +573,6 @@
    "summary": "Gaza’s Interior Ministry says Israel is targeting police personnel with the aim of &#039;spreading chaos&#039; in the Gaza Strip.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iran’s government spars with state TV as mediators push talks with US",
-   "url": "https://www.aljazeera.com/news/2026/7/25/irans-government-spars-with-state-tv-as-mediators-push-talks-with-us?traffic_source=rss",
-   "published": "2026-07-25T16:39:16+00:00",
-   "summary": "Gov&#039;t accuses IRIB of &#039;censorship&#039; after parts of president&#039;s speech not aired; station rejects &#039;improper attributions&#039;.",
-   "tags": [
-    "diplomacy"
    ],
    "highlight": false
   },
