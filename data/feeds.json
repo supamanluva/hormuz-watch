@@ -1,6 +1,62 @@
 {
- "asOf": "2026-07-26T07:19:53.910450+00:00",
+ "asOf": "2026-07-26T09:12:04.046856+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Israel debate boils over in the United States",
+   "url": "https://www.aljazeera.com/video/the-listening-post/2026/7/26/israel-debate-boils-over-in-the-united-states?traffic_source=rss",
+   "published": "2026-07-26T08:53:39+00:00",
+   "summary": "How far have US politics - and media - really shifted on the topic of Israel?",
+   "tags": [
+    "oil"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Alamut Castle named UNESCO World Heritage site",
+   "url": "https://en.irna.ir/news/86219713/Alamut-Castle-named-UNESCO-World-Heritage-site",
+   "published": "2026-07-26T08:24:33+00:00",
+   "summary": "Tehran, IRNA – Iran’s Alamut Castle and related fortifications have been inscribed on the UNESCO World Heritage List, becoming the country’s 30th tangible cultural heritage site to receive the international designation.",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Tehran, Muscat hold constructive talks on safe navigation in Strait of Hormuz: Iran",
+   "url": "https://en.irna.ir/news/86219663/Tehran-Muscat-hold-constructive-talks-on-safe-navigation-in",
+   "published": "2026-07-26T08:01:23+00:00",
+   "summary": "Tehran, IRNA – Iran and Oman have held several rounds of technical talks in Tehran on arrangements for safe navigation through the Strait of Hormuz, with Iranian Foreign Ministry spokesperson Esmaeil Baqaei describing the discussions as useful and forward-looking.",
+   "tags": [
+    "diplomacy",
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Israel raids West Bank live: Dozens of Palestinians detained during assault",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/7/26/israel-raids-west-bank-live-dozens-of-palestinians-detained-during-assault?traffic_source=rss",
+   "published": "2026-07-26T07:55:30+00:00",
+   "summary": "Incursions and arrests ongoing as terrified Palestinian residents brace for military and settler attacks.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Cape Verde World Cup star Vozinha agrees deal with Chile’s Colo Colo",
+   "url": "https://www.aljazeera.com/sports/2026/7/26/cape-verde-world-cup-star-vozinha-agrees-deal-with-chiles-colo-colo?traffic_source=rss",
+   "published": "2026-07-26T07:04:11+00:00",
+   "summary": "The 40-year-old goalkeeper made global headlines after starring in Cape Verde’s historic run at the World Cup.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "IRGC releases list of US military assets heavily damaged in Iranian attacks",
@@ -92,12 +148,14 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "Iran war live: Tehran slams Ukraine attack; West Bank unrest continues",
+   "title": "Iran war live: Baghaei says progress made in Oman talks on Strait of Hormuz",
    "url": "https://www.aljazeera.com/news/liveblog/2026/7/26/iran-war-live-tehran-summons-ukraine-diplomats-over-caspian-sea-attack?traffic_source=rss",
    "published": "2026-07-26T00:00:25+00:00",
-   "summary": "Tehran says the Ukranian attack killed at least one sailor and wounded another.",
+   "summary": "Tehran says the Ukrainian attack killed at least one sailor and wounded another.",
    "tags": [
-    "strikes"
+    "strikes",
+    "diplomacy",
+    "shipping"
    ],
    "highlight": false
   },
@@ -449,17 +507,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "Israeli settlers escalate attacks on Palestinians near Nablus",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/israeli-settlers-escalate-attacks-on-palestinians-near-nablus?traffic_source=rss",
-   "published": "2026-07-24T20:40:27+00:00",
-   "summary": "Israeli settlers have set fire to Palestinian homes and vehicles in villages near Nablus",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
    "source": "Trump · Truth Social",
    "title": "Republican Kurt Alme is a terrific candidate for the U.S. Senate in the Wonderful State of Montana, which I love and WON BIG in 2016, 2020, and 2024. He loves the U.S.A., and is a truly Great American Patriot! Kurt is running against a Radical Left Democrat named Alani Bankhead, who loves High Taxes, Open Borders, No Consequences for Violent Criminals, Men in Women’s Sports, and Transgender for Everybody, among other CRAZY ideas! Kurt is one of the Strongest, and most Conservative, Republican Candidates in the Country, whereas his Opponent, Alani Bankhead, is a Radical Left Extremist, who will put our Country, and Safety, LAST. Kurt, on the other hand, will ALWAYS put Montana, and America, FIRST. Alani Bankhead is a Radical Left LUNATIC Dumocrat, whose values are not those of the people of Montana, or the United States of America — But the good news is that Kurt Alme is the PATRIOT that everyone is looking for, and has my Complete and Total Endorsement — KURT WILL NEVER LET YOU DOWN!",
    "url": "https://trumpstruth.org/statuses/40237",
@@ -467,17 +514,6 @@
    "summary": "Republican Kurt Alme is a terrific candidate for the U.S. Senate in the Wonderful State of Montana, which I love and WON BIG in 2016, 2020, and 2024. He loves the U.S.A., and is a truly Great American Patriot! Kurt is running against a Radical Left Democrat named Alani Bankhead, who loves High Taxes, Open Borders, No Consequences for Violent Criminals, Men in Women’s Sports, and Transgender for Ev",
    "tags": [],
    "highlight": true
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Saudi Arabia strikes Houthi-held Hodeidah, Yemeni group says",
-   "url": "https://www.aljazeera.com/news/2026/7/24/saudis-strike-yemens-houthi-held-hodeida-rebel-media?traffic_source=rss",
-   "published": "2026-07-24T20:27:16+00:00",
-   "summary": "Houthi-controlled Foreign Ministry warns that the attack will trigger further escalation in the Yemeni conflict.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
   },
   {
    "source": "White House",
@@ -505,17 +541,6 @@
    "url": "https://en.irna.ir/news/86218315/Top-comdr-One-US-soldier-will-die-for-every-Iranian-civilian",
    "published": "2026-07-24T20:16:09+00:00",
    "summary": "Tehran, IRNA – Iran’s top military commander has declared a new battlefield equation, warning that every Iranian civilian martyred in US attacks will be answered with the death of an American soldier.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Car bomb attack kills 27 in northwest Pakistan",
-   "url": "https://www.aljazeera.com/news/2026/7/24/car-bomb-attack-kills-27-in-northwest-pakistan?traffic_source=rss",
-   "published": "2026-07-24T19:16:18+00:00",
-   "summary": "The Pakistani Taliban said four suicide bombers carried out the assault in the country&#039;s northwest.",
    "tags": [
     "strikes"
    ],
@@ -613,29 +638,6 @@
    "published": "2026-07-24T15:06:43+00:00",
    "summary": "Tehran, IRNA — An Omani diplomatic delegation has traveled to Tehran to discuss the mechanisms regarding the Strait of Hormuz.",
    "tags": [
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran FM meets Chinese, Kyrgyz, Uzbek counterparts on sidelines of SCO conference",
-   "url": "https://en.irna.ir/news/86218195/Iran-FM-meets-Chinese-Kyrgyz-Uzbek-counterparts-on-sidelines",
-   "published": "2026-07-24T14:48:12+00:00",
-   "summary": "Tehran, IRNA — Iran’s foreign minister has held separate bilateral talks with his Chinese, Kyrgyz, and Uzbek counterparts on the sidelines of the summit.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Secretary-General Deeply Alarmed by Resumed Houthi Attacks on Red Sea Vessels",
-   "url": "https://press.un.org/en/2026/sgsm23230.doc.htm",
-   "published": "2026-07-24T14:39:20+00:00",
-   "summary": "The following statement was issued today by the Spokesman for UN Secretary-General António Guterres:",
-   "tags": [
-    "strikes",
     "shipping"
    ],
    "highlight": false
