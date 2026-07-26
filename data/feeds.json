@@ -1,6 +1,24 @@
 {
- "asOf": "2026-07-26T15:10:40.773756+00:00",
+ "asOf": "2026-07-26T15:47:27.316686+00:00",
  "items": [
+  {
+   "source": "Trump · Truth Social",
+   "title": "[No Title] - Post from July 26, 2026",
+   "url": "https://trumpstruth.org/statuses/40257",
+   "published": "2026-07-26T15:43:18+00:00",
+   "summary": "",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "[No Title] - Post from July 26, 2026",
+   "url": "https://trumpstruth.org/statuses/40256",
+   "published": "2026-07-26T15:16:18+00:00",
+   "summary": "",
+   "tags": [],
+   "highlight": true
+  },
   {
    "source": "Al Jazeera",
    "title": "Israel carries out double tap strike in central Gaza",
@@ -620,24 +638,6 @@
    "summary": "https:// x.com/lauraloomer/status/20806 57818466586812?s=46",
    "tags": [],
    "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Alaska removes thousands from state’s active voter list, erroneously flagging some citizens:",
-   "url": "https://trumpstruth.org/statuses/40238",
-   "published": "2026-07-25T03:21:29+00:00",
-   "summary": "Alaska removes thousands from state’s active voter list, erroneously flagging some citizens: https:// alaskabeacon.com/2026/07/23/al aska-removes-thousands-from-states-active-voter-list-erroneously-flagging-some-citizens/",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "UN Press",
-   "title": "General Assembly Takes Action on Draft Resolutions on Myriad Topics",
-   "url": "https://press.un.org/en/2026/ga12773.doc.htm",
-   "published": "2026-07-24T21:50:17+00:00",
-   "summary": "The General Assembly will take action on draft decisions and draft resolutions on a range of topics, including sustainable development, peacekeeping operations, a culture of peace, and global health and foreign policy, among others.",
-   "tags": [],
-   "highlight": false
   }
  ]
 }
