@@ -1,6 +1,28 @@
 {
- "asOf": "2026-07-26T17:46:48.101866+00:00",
+ "asOf": "2026-07-26T18:11:20.525735+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Berlin police shoot dead suspect in car ramming attack on Pride event",
+   "url": "https://www.aljazeera.com/news/2026/7/26/berlin-police-shoot-dead-suspect-in-car-ramming-attack-on-pride-event?traffic_source=rss",
+   "published": "2026-07-26T17:51:37+00:00",
+   "summary": "This is a breaking news story.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Israel launches military incursion into Syria amid UN condemnation",
+   "url": "https://www.aljazeera.com/news/2026/7/26/israel-launches-military-incursion-into-syria-amid-un-condemnation?traffic_source=rss",
+   "published": "2026-07-26T17:40:15+00:00",
+   "summary": "The UN&#039;s Guterres condemned violations of Syria&#039;s sovereignty as he visited and called for sanctions to be lifted.",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "‘Freeze the conflict’: Drones slow Kazakh oil flow amid Russia-Ukraine war",
@@ -582,30 +604,6 @@
    "tags": [
     "strikes",
     "sanctions"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iran blames US for Hormuz dispute as both sides confirm ongoing talks",
-   "url": "https://www.aljazeera.com/news/2026/7/25/iran-blames-us-for-hormuz-dispute-as-both-sides-confirm-ongoing-talks?traffic_source=rss",
-   "published": "2026-07-25T12:49:06+00:00",
-   "summary": "Iran reports no new US strikes overnight into Saturday for the first time in two weeks.",
-   "tags": [
-    "strikes",
-    "diplomacy",
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "At least 15 killed in Ukrainian and Russian strikes as holiday camp hit",
-   "url": "https://www.aljazeera.com/news/2026/7/25/at-least-11-killed-in-ukrainian-and-russian-strikes-as-holiday-camp-hit?traffic_source=rss",
-   "published": "2026-07-25T12:41:02+00:00",
-   "summary": "Five children among 12 killed in Russian-held resort, while Russian drone kills three Ukrainian drivers at courier firm.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   },
