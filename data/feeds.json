@@ -1,6 +1,29 @@
 {
- "asOf": "2026-07-26T05:16:24.266844+00:00",
+ "asOf": "2026-07-26T07:19:53.910450+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "IRGC releases list of US military assets heavily damaged in Iranian attacks",
+   "url": "https://en.irna.ir/news/86219475/IRGC-releases-list-of-US-military-assets-heavily-damaged-in-Iranian",
+   "published": "2026-07-26T06:36:18+00:00",
+   "summary": "Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) has released a list of US military assets that were heavily damaged in recent attacks by Iran’s Armed Forces in response to Washington’s aggression against the country.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran summons Ukrainian chargé d’affaires over attack on commercial vessel",
+   "url": "https://en.irna.ir/news/86219460/Iran-summons-Ukrainian-charg%C3%A9-d-affaires-over-attack-on-commercial",
+   "published": "2026-07-26T06:05:35+00:00",
+   "summary": "Tehran, IRNA – Iran’s Foreign Ministry has summoned Ukraine’s chargé d’affaires in Tehran following a military attack by Ukrainian forces on an Iranian commercial vessel in the Caspian Sea that killed one sailor and injured several others.",
+   "tags": [
+    "strikes",
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "New front in US-Iran war escalates as Houthis fire at Saudi oil facilities",
@@ -129,6 +152,17 @@
    "url": "https://en.irna.ir/news/86219351/Iran-condemns-terrorist-attack-in-Pakistan",
    "published": "2026-07-25T21:32:33+00:00",
    "summary": "Tehran, IRNA – Iranian Foreign Ministry spokesperson Esmaeil Baqaei strongly condemned the terrorist attack on a police checkpoint in the city of Tank, located in Pakistan's Khyber Pakhtunkhwa province.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran condemns terror attack in Pakistan",
+   "url": "https://en.irna.ir/news/86219351/Iran-condemns-terror-attack-in-Pakistan",
+   "published": "2026-07-25T21:32:33+00:00",
+   "summary": "Tehran, IRNA – Iranian Foreign Ministry spokesperson Esmaeil Baqaei has strongly condemned the terrorist attack on a police checkpoint in the city of Tank, located in Pakistan’s Khyber Pakhtunkhwa Province.",
    "tags": [
     "strikes"
    ],
@@ -603,39 +637,6 @@
    "tags": [
     "strikes",
     "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran hits US military locations in Kuwait, Bahrain in new phase of operations",
-   "url": "https://en.irna.ir/news/86218064/Iran-hits-US-military-locations-in-Kuwait-Bahrain-in-new-phase",
-   "published": "2026-07-24T10:51:42+00:00",
-   "summary": "Tehran, IRNA — The Islamic Revolution Guards Corps (IRGC) says it has inflicted heavy damage and casualties on the invading US military, with an attack on an ammunition depot and barracks at America’s Ali Al Salem Air Base in Kuwait.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iranian Army hits US bases in Jordan and Bahrain with drones",
-   "url": "https://en.irna.ir/news/86217947/Iranian-Army-hits-US-bases-in-Jordan-and-Bahrain-with-drones",
-   "published": "2026-07-24T09:09:34+00:00",
-   "summary": "Tehran, IRNA – The Iranian Army has carried out retaliatory attacks on aggressive US military positions in Jordan and Bahrain, continuing its series of drone operations against enemy targets.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "More deaths and destruction reported as US keeps targeting Iran’s civilians, vital infrastructure",
-   "url": "https://en.irna.ir/news/86217917/More-deaths-and-destruction-reported-as-US-keeps-targeting-Iran-s",
-   "published": "2026-07-24T08:15:22+00:00",
-   "summary": "Tehran, IRNA – More people are martyred and several more wounded as the terrorist US military launches missile attacks on six Iranian provinces overnight, with the majority of casualties reported in Khuzestan, southwestern Ira.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   }
