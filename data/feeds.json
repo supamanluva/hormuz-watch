@@ -1,6 +1,52 @@
 {
- "asOf": "2026-07-26T15:47:27.316686+00:00",
+ "asOf": "2026-07-26T17:46:48.101866+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "‘Freeze the conflict’: Drones slow Kazakh oil flow amid Russia-Ukraine war",
+   "url": "https://www.aljazeera.com/news/2026/7/26/freeze-the-conflict-drones-slow-kazakh-oil-flow-amid-russia-ukraine-war?traffic_source=rss",
+   "published": "2026-07-26T17:13:55+00:00",
+   "summary": "Kazakh oil exports halted after drone attacks disrupt supplies, posing risks to the economy and energy markets.",
+   "tags": [
+    "strikes",
+    "oil"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Ukraine’s attack on Iranian vessel ‘cannot go unanswered’: Araghchi",
+   "url": "https://en.irna.ir/news/86220215/Ukraine-s-attack-on-Iranian-vessel-cannot-go-unanswered-Araghchi",
+   "published": "2026-07-26T16:53:39+00:00",
+   "summary": "Tehran, IRNA - Foreign Minister Abbas Araghchi warned that Ukraine’s attack on an Iranian commercial vessel in the Caspian Sea “cannot go unanswered,” describing the strike as a blatant violation of the UN Charter orchestrated at Israel’s behest to drag Europe into the war.",
+   "tags": [
+    "strikes",
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Israel obstructing takeover of pilot zones in Lebanon’s south: Military",
+   "url": "https://www.aljazeera.com/news/2026/7/26/israel-obstructing-takeover-of-pilot-zones-in-lebanons-south-military?traffic_source=rss",
+   "published": "2026-07-26T16:49:59+00:00",
+   "summary": "Israel is violating agreements by shelling &#039;pilot villages&#039;, Lebanon&#039;s army asserts.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iranology Foundation chief meets Saudi, Pakistani envoys to expand academic cooperation",
+   "url": "https://en.irna.ir/news/86220191/Iranology-Foundation-chief-meets-Saudi-Pakistani-envoys-to-expand",
+   "published": "2026-07-26T16:17:32+00:00",
+   "summary": "Tehran, IRNA – The head of Iran’s Iranology Foundation held separate meetings with the ambassadors of Saudi Arabia and Pakistan on Sunday to discuss expanding scientific and cultural cooperation, while also exchanging views on regional developments and the importance of diplomacy.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "[No Title] - Post from July 26, 2026",
@@ -575,17 +621,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "Tuberculosis: How drones are transforming care in the Philippines",
-   "url": "https://www.aljazeera.com/video/101-east/2026/7/25/tuberculosis-how-drones-are-transforming-care-in-the-philippines?traffic_source=rss",
-   "published": "2026-07-25T11:30:00+00:00",
-   "summary": "101 East meets the doctors using drones to fight tuberculosis and save lives in remote communities in the Philippines.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
    "source": "IRNA (Iran state wire)",
    "title": "Six Palestinians killed in Gaza; death toll mounts to 73,317",
    "url": "https://en.irna.ir/news/86218884/Six-Palestinians-killed-in-Gaza-death-toll-mounts-to-73-317",
@@ -606,38 +641,6 @@
     "diplomacy"
    ],
    "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Israel arrests dozens of Palestinians in West Bank amid settler attacks",
-   "url": "https://www.aljazeera.com/news/2026/7/25/israel-arrests-dozens-of-palestinians-in-west-bank-amid-settler-attacks?traffic_source=rss",
-   "published": "2026-07-25T09:10:01+00:00",
-   "summary": "Military crackdown follows a shooting that killed four Palestinians and two Israeli soldiers.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran tells UN US attack on rescue vessels constitutes ‘war crime’",
-   "url": "https://en.irna.ir/news/86218480/Iran-tells-UN-US-attack-on-rescue-vessels-constitutes-war-crime",
-   "published": "2026-07-25T05:52:56+00:00",
-   "summary": "New York, IRNA – Iran has formally complained to the United Nations, saying the United States has committed a “war crime” by deliberately targeting two Iranian maritime search-and-rescue vessels, saying the ships were engaged solely in humanitarian operations and were not involved in any military activity at the time of the attack.",
-   "tags": [
-    "strikes",
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from July 25, 2026",
-   "url": "https://trumpstruth.org/statuses/40239",
-   "published": "2026-07-25T03:32:47+00:00",
-   "summary": "https:// x.com/lauraloomer/status/20806 57818466586812?s=46",
-   "tags": [],
-   "highlight": true
   }
  ]
 }
