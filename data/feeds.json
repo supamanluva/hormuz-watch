@@ -1,6 +1,17 @@
 {
- "asOf": "2026-07-26T00:08:39.964169+00:00",
+ "asOf": "2026-07-26T01:01:30.820795+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Iran war live: Tehran summons Ukraine diplomats over Caspian Sea attack",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/7/26/iran-war-live-tehran-summons-ukraine-diplomats-over-caspian-sea-attack?traffic_source=rss",
+   "published": "2026-07-26T00:00:25+00:00",
+   "summary": "Tehran says the Ukranian attack killed at least one sailor and wounded another.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "What’s behind the Israeli crackdown in the occupied West Bank?",
@@ -26,7 +37,7 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "One dead, 16 injured as car reportedly strikes crowd at Berlin LGBTQ event",
+   "title": "One dead, 17 injured as car reportedly strikes crowd at Berlin LGBTQ event",
    "url": "https://www.aljazeera.com/news/2026/7/25/one-dead-14-injured-as-car-reportedly-strikes-crowd-at-berlin-lgbtq-event?traffic_source=rss",
    "published": "2026-07-25T22:31:19+00:00",
    "summary": "German police say they believe car drove into Tiergarten park, near the route of a Pride march, hitting several people.",
@@ -471,17 +482,6 @@
    "tags": [
     "diplomacy",
     "nuclear"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Huge crater after back-to-back Israeli strikes on Gaza refugee camp",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/huge-crater-after-back-to-back-israeli-strikes-on-gaza-refugee-camp?traffic_source=rss",
-   "published": "2026-07-24T18:01:18+00:00",
-   "summary": "Huge crater after back-to-back Israeli strikes on Gaza refugee camp.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   },
