@@ -1,6 +1,28 @@
 {
- "asOf": "2026-07-26T12:10:25.515362+00:00",
+ "asOf": "2026-07-26T12:46:40.052994+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Yemen downs Saudi spy drone over Jawf province",
+   "url": "https://en.irna.ir/news/86220017/Yemen-downs-Saudi-spy-drone-over-Jawf-province",
+   "published": "2026-07-26T12:38:05+00:00",
+   "summary": "Tehran, IRNA – Yemen’s armed forces announced on Sunday that they shot down a Saudi-operated reconnaissance drone over the northern province of Al-Jawf, as tensions in the region continue to escalate.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Iran’s army issues warning ahead of Netanyahu’s US visit",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/irans-army-issues-warning-ahead-of-netanyahus-us-visit?traffic_source=rss",
+   "published": "2026-07-26T11:56:50+00:00",
+   "summary": "Iran says it has stopped retaliatory operations in the Gulf, but warns the war could expand if US strikes continue.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Anti-war protesters demand end to US use of UK airbase to strike Iran",
@@ -570,18 +592,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "Trump says ‘it’s time’ for Saudi Arabia to normalise ties with Israel",
-   "url": "https://www.aljazeera.com/news/2026/7/24/trump-says-its-time-for-saudi-arabia-to-normalise-ties-with-israel?traffic_source=rss",
-   "published": "2026-07-24T23:53:32+00:00",
-   "summary": "US president reiterates that the nuclear deal with the kingdom is conditioned on Riyadh joining the &#039;Abraham Accords&#039;.",
-   "tags": [
-    "diplomacy",
-    "nuclear"
-   ],
-   "highlight": false
-  },
-  {
    "source": "UN Press",
    "title": "General Assembly Takes Action on Draft Resolutions on Myriad Topics",
    "url": "https://press.un.org/en/2026/ga12773.doc.htm",
@@ -624,17 +634,6 @@
    "published": "2026-07-24T20:19:11+00:00",
    "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered: Section 1. Policy. On March 27, 2025, I issued Executive Order 14253 (Restoring Truth and Sanity to American History). Pursuant to that order, the Domestic Policy Council recently completed a months-long review [&#8230;] The post Restoring Trust in the Smithsonian Inst",
    "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Top commander: New equation is one US trooper will die for every Iranian civilian martyred",
-   "url": "https://en.irna.ir/news/86218315/Top-commander-New-equation-is-one-US-trooper-will-die-for-every",
-   "published": "2026-07-24T20:16:09+00:00",
-   "summary": "Tehran, IRNA – Iran's top military commander has declared a new battlefield equation, warning that every Iranian civilian martyred in US attacks will be met with the death of an American soldier.",
-   "tags": [
-    "strikes"
-   ],
    "highlight": false
   }
  ]
