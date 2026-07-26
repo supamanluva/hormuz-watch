@@ -1,6 +1,18 @@
 {
- "asOf": "2026-07-26T01:01:30.820795+00:00",
+ "asOf": "2026-07-26T02:44:53.595376+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Yemen’s Houthis target Saudi oil facilities along the Red Sea",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/yemens-houthis-target-saudi-oil-facilities-along-the-red-sea?traffic_source=rss",
+   "published": "2026-07-26T00:49:12+00:00",
+   "summary": "Yemen&#039;s Houthis say they have targeted oil facilities in Saudi Arabia owned by Aramco.",
+   "tags": [
+    "shipping",
+    "oil"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Iran war live: Tehran summons Ukraine diplomats over Caspian Sea attack",
@@ -37,10 +49,10 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "One dead, 17 injured as car reportedly strikes crowd at Berlin LGBTQ event",
+   "title": "One dead, 16 injured as car strikes crowd at Berlin LGBTQ event",
    "url": "https://www.aljazeera.com/news/2026/7/25/one-dead-14-injured-as-car-reportedly-strikes-crowd-at-berlin-lgbtq-event?traffic_source=rss",
    "published": "2026-07-25T22:31:19+00:00",
-   "summary": "German police say they believe car drove into Tiergarten park, near the route of a Pride march, hitting several people.",
+   "summary": "German police say a white car drove into Tiergarten Park, near the route of a Pride march, hitting several people.",
    "tags": [
     "strikes"
    ],
@@ -82,10 +94,10 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "Head of Hamas-led police in northern Gaza killed by Israeli strike",
+   "title": "Head of police in northern Gaza killed in Israeli strike",
    "url": "https://www.aljazeera.com/news/2026/7/25/head-of-hamas-led-police-in-northern-gaza-killed-by-israeli-strike?traffic_source=rss",
    "published": "2026-07-25T20:00:43+00:00",
-   "summary": "Four other Palestinians were also killed by Israeli air strikes, and a policeman died from wounds sustained last week.",
+   "summary": "Gaza’s Interior Ministry says Israel is targeting police personnel with the aim of &#039;spreading chaos&#039; in the Gaza Strip.",
    "tags": [
     "strikes"
    ],
@@ -470,18 +482,6 @@
    "tags": [
     "strikes",
     "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Trump’s Israel condition on Saudi nuclear deal",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/trumps-israel-condition-on-saudi-nuclear-deal?traffic_source=rss",
-   "published": "2026-07-24T18:11:26+00:00",
-   "summary": "Trump’s Israel condition on Saudi nuclear deal",
-   "tags": [
-    "diplomacy",
-    "nuclear"
    ],
    "highlight": false
   },
