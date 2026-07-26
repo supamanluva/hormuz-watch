@@ -1,6 +1,17 @@
 {
- "asOf": "2026-07-26T18:45:57.947313+00:00",
+ "asOf": "2026-07-26T19:16:51.547983+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Israeli settlers burn two mosques in occupied West Bank",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/israeli-settlers-burn-two-mosques-in-occupied-west-bank?traffic_source=rss",
+   "published": "2026-07-26T18:51:34+00:00",
+   "summary": "Israeli settlers set fire to two mosques in separate attacks across the occupied West Bank, causing significant damage.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Romania summons Russian envoy as it shoots down third intruding drone",
@@ -562,17 +573,6 @@
    "tags": [
     "strikes",
     "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Head of police in northern Gaza killed in Israeli strike",
-   "url": "https://www.aljazeera.com/news/2026/7/25/head-of-hamas-led-police-in-northern-gaza-killed-by-israeli-strike?traffic_source=rss",
-   "published": "2026-07-25T20:00:43+00:00",
-   "summary": "Gaza’s Interior Ministry says Israel is targeting police personnel with the aim of &#039;spreading chaos&#039; in the Gaza Strip.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   },
