@@ -1,6 +1,40 @@
 {
- "asOf": "2026-07-26T14:01:52.964603+00:00",
+ "asOf": "2026-07-26T15:10:40.773756+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Israel carries out double tap strike in central Gaza",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/israel-carries-out-double-tap-strike-in-central-gaza?traffic_source=rss",
+   "published": "2026-07-26T14:47:02+00:00",
+   "summary": "Israel carries out double tap strike in central Gaza",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran condemns US attacks on rescue vessels as breach of humanitarian law",
+   "url": "https://en.irna.ir/news/86220093/Iran-condemns-US-attacks-on-rescue-vessels-as-breach-of-humanitarian",
+   "published": "2026-07-26T14:41:16+00:00",
+   "summary": "Tehran, IRNA – Iran’s High Council for Human Rights has condemned deliberate US attacks on two Iranian maritime search-and-rescue vessels, saying the strikes constituted a grave violation of international humanitarian law and the rules governing humanitarian relief operations.",
+   "tags": [
+    "strikes",
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Israeli air strike on a vehicle in Gaza kills two Hamas security officials",
+   "url": "https://www.aljazeera.com/news/2026/7/26/israeli-air-strike-on-a-vehicle-in-gaza-kills-two-hamas-security-officials?traffic_source=rss",
+   "published": "2026-07-26T13:51:53+00:00",
+   "summary": "The head of internal security for Hamas in central Gaza was among the dead.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "Thank you to Highly Respected Mohammed VI, the King of Morocco — Such a Great Honor! I look forward to traveling the entire length of this Great Highway someday, hopefully soon! President DONALD J. TRUMP",
@@ -567,17 +601,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "Guterres arrives in Syria in first official visit by a UN chief in 17 years",
-   "url": "https://www.aljazeera.com/news/2026/7/25/guterres-arrives-in-syria-in-first-official-visit-by-a-un-chief-in-17-years?traffic_source=rss",
-   "published": "2026-07-25T07:22:47+00:00",
-   "summary": "The UN chief will meet Syrian President Ahmed al-Sharaa, who was under UN Security Council sanctions until last year.",
-   "tags": [
-    "sanctions"
-   ],
-   "highlight": false
-  },
-  {
    "source": "IRNA (Iran state wire)",
    "title": "Iran tells UN US attack on rescue vessels constitutes ‘war crime’",
    "url": "https://en.irna.ir/news/86218480/Iran-tells-UN-US-attack-on-rescue-vessels-constitutes-war-crime",
@@ -608,31 +631,11 @@
    "highlight": true
   },
   {
-   "source": "Al Jazeera",
-   "title": "Firefighters battle fire after fertiliser explosion in England",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/firefighters-battle-fire-after-fertiliser-explosion-in-england?traffic_source=rss",
-   "published": "2026-07-25T02:29:13+00:00",
-   "summary": "A fertiliser explosion at a farm in Essex triggered a major incident.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
    "source": "UN Press",
    "title": "General Assembly Takes Action on Draft Resolutions on Myriad Topics",
    "url": "https://press.un.org/en/2026/ga12773.doc.htm",
    "published": "2026-07-24T21:50:17+00:00",
    "summary": "The General Assembly will take action on draft decisions and draft resolutions on a range of topics, including sustainable development, peacekeeping operations, a culture of peace, and global health and foreign policy, among others.",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General",
-   "url": "https://press.un.org/en/2026/db260724.doc.htm",
-   "published": "2026-07-24T21:45:49+00:00",
-   "summary": "The World Food Programme (WFP) warns that food assistance for more than 130,000 refugees in Burundi risks drawing down unless funding is received. WFP urgently needs $35 million to sustain food and nutrition support for refugees through August 2027. Without new resources, life-saving food distributions will end in October.",
    "tags": [],
    "highlight": false
   }
