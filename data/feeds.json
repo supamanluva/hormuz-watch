@@ -1,6 +1,26 @@
 {
- "asOf": "2026-07-26T12:46:40.052994+00:00",
+ "asOf": "2026-07-26T13:18:54.031858+00:00",
  "items": [
+  {
+   "source": "Trump · Truth Social",
+   "title": "[No Title] - Post from July 26, 2026",
+   "url": "https://trumpstruth.org/statuses/40253",
+   "published": "2026-07-26T13:11:26+00:00",
+   "summary": "",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Eighteen people missing in South China Sea after Vietnamese ship sank",
+   "url": "https://www.aljazeera.com/news/2026/7/26/eighteen-people-missing-in-south-china-sea-after-vietnamese-ship-sank?traffic_source=rss",
+   "published": "2026-07-26T12:50:26+00:00",
+   "summary": "There were 62 people aboard the vessel when it sank, all of them Vietnamese nationals.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Yemen downs Saudi spy drone over Jawf province",
@@ -9,6 +29,17 @@
    "summary": "Tehran, IRNA – Yemen’s armed forces announced on Sunday that they shot down a Saudi-operated reconnaissance drone over the northern province of Al-Jawf, as tensions in the region continue to escalate.",
    "tags": [
     "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "President Ahmed al-Sharaa: Syria seeking security deal with Israel",
+   "url": "https://www.aljazeera.com/news/2026/7/26/president-ahmed-al-sharaa-syria-seeking-security-deal-with-israel?traffic_source=rss",
+   "published": "2026-07-26T12:34:13+00:00",
+   "summary": "Syrian President al-Sharaa tells Al Jazeera Damascus seeks a security deal with Israel, and warns of chaos in Lebanon.",
+   "tags": [
+    "diplomacy"
    ],
    "highlight": false
   },
@@ -570,28 +601,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "Saudi-led coalition strikes Houthi-controlled Hodeidah",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/saudi-led-coalition-strikes-houthi-controlled-hodeidah?traffic_source=rss",
-   "published": "2026-07-25T00:31:16+00:00",
-   "summary": "The Saudi-led coalition strikes targeted Houthi-controlled Hodeidah governorate.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iran war live: Trump says US ‘locked and loaded’ as it seeks Iran talks",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/7/25/iran-war-live-trump-says-us-locked-and-loaded-as-it-seeks-iran-talks?traffic_source=rss",
-   "published": "2026-07-25T00:00:00+00:00",
-   "summary": "US President Donald Trump says Washington remains ‘locked and loaded’ while pursuing diplomatic talks with Iran.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
    "source": "UN Press",
    "title": "General Assembly Takes Action on Draft Resolutions on Myriad Topics",
    "url": "https://press.un.org/en/2026/ga12773.doc.htm",
@@ -626,15 +635,6 @@
    "summary": "Republican Kurt Alme is a terrific candidate for the U.S. Senate in the Wonderful State of Montana, which I love and WON BIG in 2016, 2020, and 2024. He loves the U.S.A., and is a truly Great American Patriot! Kurt is running against a Radical Left Democrat named Alani Bankhead, who loves High Taxes, Open Borders, No Consequences for Violent Criminals, Men in Women’s Sports, and Transgender for Ev",
    "tags": [],
    "highlight": true
-  },
-  {
-   "source": "White House",
-   "title": "Restoring Trust in the Smithsonian Institution",
-   "url": "https://www.whitehouse.gov/presidential-actions/2026/07/restoring-trust-in-the-smithsonian-institution-e061/",
-   "published": "2026-07-24T20:19:11+00:00",
-   "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered: Section 1. Policy. On March 27, 2025, I issued Executive Order 14253 (Restoring Truth and Sanity to American History). Pursuant to that order, the Domestic Policy Council recently completed a months-long review [&#8230;] The post Restoring Trust in the Smithsonian Inst",
-   "tags": [],
-   "highlight": false
   }
  ]
 }
