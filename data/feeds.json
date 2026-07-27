@@ -1,6 +1,28 @@
 {
- "asOf": "2026-07-27T17:46:45.681708+00:00",
+ "asOf": "2026-07-27T18:56:18.287796+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Saudi Arabia defends against drone strikes from ‘Iran-backed’ groups",
+   "url": "https://www.aljazeera.com/news/2026/7/27/saudi-arabia-defends-against-drone-strikes-from-iran-backed-groups?traffic_source=rss",
+   "published": "2026-07-27T17:58:27+00:00",
+   "summary": "Drones launched at Saudi, Jordan and Iraq suggest Iran, or linked groups, may be testing US as it mulls new strategy.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "New UK PM Burnham assures Zelenskyy of continuing Ukraine support",
+   "url": "https://www.aljazeera.com/news/2026/7/27/new-uk-pm-burnham-assures-zelenskyy-of-continuing-ukraine-support?traffic_source=rss",
+   "published": "2026-07-27T17:41:46+00:00",
+   "summary": "Burnham is the fifth British prime minister to deal with President Zelenskyy since the war on Ukraine started in 2022.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "[No Title] - Post from July 27, 2026",
@@ -594,29 +616,6 @@
    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/israel-carries-out-double-tap-strike-in-central-gaza?traffic_source=rss",
    "published": "2026-07-26T14:47:02+00:00",
    "summary": "Israel carries out double tap strike in central Gaza",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran condemns US attacks on rescue vessels as breach of humanitarian law",
-   "url": "https://en.irna.ir/news/86220093/Iran-condemns-US-attacks-on-rescue-vessels-as-breach-of-humanitarian",
-   "published": "2026-07-26T14:41:16+00:00",
-   "summary": "Tehran, IRNA – Iran’s High Council for Human Rights has condemned deliberate US attacks on two Iranian maritime search-and-rescue vessels, saying the strikes constituted a grave violation of international humanitarian law and the rules governing humanitarian relief operations.",
-   "tags": [
-    "strikes",
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Israeli air strike on a vehicle in Gaza kills two Hamas security officials",
-   "url": "https://www.aljazeera.com/news/2026/7/26/israeli-air-strike-on-a-vehicle-in-gaza-kills-two-hamas-security-officials?traffic_source=rss",
-   "published": "2026-07-26T13:51:53+00:00",
-   "summary": "The head of internal security for Hamas in central Gaza was among the dead.",
    "tags": [
     "strikes"
    ],
