@@ -1,6 +1,29 @@
 {
- "asOf": "2026-07-27T00:11:12.478413+00:00",
+ "asOf": "2026-07-27T01:01:41.968689+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Iran war live: Tehran halts retaliatory strikes after pause in US attacks",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/7/27/iran-war-live-iran-halts-retaliatory-strikes-after-pause-in-us-attacks?traffic_source=rss",
+   "published": "2026-07-27T00:00:00+00:00",
+   "summary": "The US has paused its two-week bombing campaign against Iran, prompting Tehran to suspend its retaliatory attacks.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Khamenei ties US-Iran peace deal to Israel ending attacks on Lebanon",
+   "url": "https://www.aljazeera.com/news/2026/7/26/us-iran-peace-deal-depends-on-israel-leaving-lebanon-says-khamenei?traffic_source=rss",
+   "published": "2026-07-26T23:44:29+00:00",
+   "summary": "Iran&#039;s supreme leader calls for &#039;absolute, unconditional termination&#039; of Israel&#039;s attacks on Lebanon.",
+   "tags": [
+    "strikes",
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "[No Title] - Post from July 26, 2026",
@@ -587,29 +610,6 @@
     "strikes",
     "shipping",
     "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "US military disables tanker accused of breaking the Iran blockade",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/us-military-disables-tanker-accused-of-breaking-the-iran-blockade?traffic_source=rss",
-   "published": "2026-07-26T04:33:16+00:00",
-   "summary": "The US military has released footage it says shows forces boarding one tanker.",
-   "tags": [
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Tehran summons Ukrainian diplomat after Kyiv bombs an Iranian ship",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/tehran-summons-ukrainian-diplomat-after-kyiv-bombs-an-iranian-ship?traffic_source=rss",
-   "published": "2026-07-26T03:49:29+00:00",
-   "summary": "Iran has condemned a Ukrainian attack on one of its commercial vessels.",
-   "tags": [
-    "strikes",
-    "shipping"
    ],
    "highlight": false
   },
