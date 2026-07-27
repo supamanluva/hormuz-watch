@@ -1,6 +1,48 @@
 {
- "asOf": "2026-07-27T21:32:01.292723+00:00",
+ "asOf": "2026-07-27T22:11:02.552240+00:00",
  "items": [
+  {
+   "source": "Trump · Truth Social",
+   "title": "BREAKING NEWS: The Failing New York Times, after 10 years of harassment, slander, and libel, just failed again in their desperate attempt to have our powerful Defamation Lawsuit against them dropped. As we requested, the Highly Respected Judge has called for an updated complaint, which will lay out, in extreme detail, all the ways in which The Times has repeatedly and consistently acted, with actual malice in defaming me, my family, our Great MAGA Movement, and America, itself. We will continue to hold The Times and their “comrades” in the Mainstream Media accountable for publishing, promoting, and dealing in Fake News. Thank you for your attention to this matter! President DONALD J. TRUMP",
+   "url": "https://trumpstruth.org/statuses/40320",
+   "published": "2026-07-27T21:52:33+00:00",
+   "summary": "BREAKING NEWS: The Failing New York Times, after 10 years of harassment, slander, and libel, just failed again in their desperate attempt to have our powerful Defamation Lawsuit against them dropped. As we requested, the Highly Respected Judge has called for an updated complaint, which will lay out, in extreme detail, all the ways in which The Times has repeatedly and consistently acted, with actu",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": true
+  },
+  {
+   "source": "UN Press",
+   "title": "Invest More in Traditional Midwives, Health Centred on Human Rights, Secretary-General Urges Governments in Observance Message for World’s Indigenous Peoples",
+   "url": "https://press.un.org/en/2026/sgsm23231.doc.htm",
+   "published": "2026-07-27T21:41:39+00:00",
+   "summary": "Following is UN Secretary-General António Guterres’ message for the International Day of the World’s Indigenous Peoples, observed on 9 August:",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Video shows man subdued after stabbing three women in Paris",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/video-shows-man-subdued-after-stabbing-three-women-in-paris?traffic_source=rss",
+   "published": "2026-07-27T21:27:08+00:00",
+   "summary": "Three women were wounded, two of them seriously, in a knife attack near Porte de Clichy in Paris.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Hopes of return to diplomacy as US-Iran hold fire for third day",
+   "url": "https://www.aljazeera.com/news/2026/7/27/hopes-of-return-to-diplomacy-as-us-iran-hold-fire-for-third-day?traffic_source=rss",
+   "published": "2026-07-27T21:04:09+00:00",
+   "summary": "Mediators from Qatar and Pakistan work to restart ceasefire talks amid fragile pause in hostilities.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "Sen. Ron Johnson: Move to End the Filibuster Now—Before Democrats Do:",
@@ -463,15 +505,6 @@
    "highlight": true
   },
   {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from July 26, 2026",
-   "url": "https://trumpstruth.org/statuses/40297",
-   "published": "2026-07-26T21:01:57+00:00",
-   "summary": "",
-   "tags": [],
-   "highlight": true
-  },
-  {
    "source": "Al Jazeera",
    "title": "US and Iran hit pause on strikes for second day",
    "url": "https://www.aljazeera.com/news/2026/7/26/us-and-iran-hit-pause-on-strikes-for-second-day?traffic_source=rss",
@@ -582,41 +615,6 @@
    "summary": "The UN&#039;s Guterres condemned violations of Syria&#039;s sovereignty as he visited and called for sanctions to be lifted.",
    "tags": [
     "sanctions"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "‘Freeze the conflict’: Drones slow Kazakh oil flow amid Russia-Ukraine war",
-   "url": "https://www.aljazeera.com/news/2026/7/26/freeze-the-conflict-drones-slow-kazakh-oil-flow-amid-russia-ukraine-war?traffic_source=rss",
-   "published": "2026-07-26T17:13:55+00:00",
-   "summary": "Kazakh oil exports halted after drone attacks disrupt supplies, posing risks to the economy and energy markets.",
-   "tags": [
-    "strikes",
-    "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Ukraine’s attack on Iranian vessel ‘cannot go unanswered’: Araghchi",
-   "url": "https://en.irna.ir/news/86220215/Ukraine-s-attack-on-Iranian-vessel-cannot-go-unanswered-Araghchi",
-   "published": "2026-07-26T16:53:39+00:00",
-   "summary": "Tehran, IRNA - Foreign Minister Abbas Araghchi warned that Ukraine’s attack on an Iranian commercial vessel in the Caspian Sea “cannot go unanswered,” describing the strike as a blatant violation of the UN Charter orchestrated at Israel’s behest to drag Europe into the war.",
-   "tags": [
-    "strikes",
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Israel obstructing takeover of pilot zones in Lebanon’s south: Military",
-   "url": "https://www.aljazeera.com/news/2026/7/26/israel-obstructing-takeover-of-pilot-zones-in-lebanons-south-military?traffic_source=rss",
-   "published": "2026-07-26T16:49:59+00:00",
-   "summary": "Israel is violating agreements by shelling &#039;pilot villages&#039;, Lebanon&#039;s army asserts.",
-   "tags": [
-    "diplomacy"
    ],
    "highlight": false
   }
