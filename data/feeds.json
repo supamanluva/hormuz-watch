@@ -1,6 +1,17 @@
 {
- "asOf": "2026-07-27T14:18:49.277092+00:00",
+ "asOf": "2026-07-27T15:25:49.777079+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran denies reports of proposing direct talks with US",
+   "url": "https://en.irna.ir/news/86221080/Iran-denies-reports-of-proposing-direct-talks-with-US",
+   "published": "2026-07-27T14:47:24+00:00",
+   "summary": "Tehran, IRNA – Foreign Ministry spokesperson Esmaeil Baqaei has dismissed as “fabricated” recent media reports that it has proposed direct talks with Washington.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Iran’s envoy to Russia says Ukraine-hit vessel carried no military cargo",
@@ -607,17 +618,6 @@
    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/anti-war-protesters-demand-end-to-us-use-of-uk-airbase-to-strike-iran?traffic_source=rss",
    "published": "2026-07-26T11:18:00+00:00",
    "summary": "Anti-war activists have protested outside a UK airbase over US forces using it to bomb Iran",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Pezeshkian calls for int’l legal action over damage inflicted on Iran’s transport infrastructure",
-   "url": "https://en.irna.ir/news/86219949/Pezeshkian-calls-for-int-l-legal-action-over-damage-inflicted",
-   "published": "2026-07-26T11:10:56+00:00",
-   "summary": "Tehran, IRNA – President Masoud Pezeshkian has called for pursuing legal action through competent international organizations over damage to Iran’s transport infrastructure, describing US attacks on the country’s civilian facilities as a clear example of “war crime.”",
    "tags": [
     "strikes"
    ],
