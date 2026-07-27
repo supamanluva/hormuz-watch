@@ -1,6 +1,27 @@
 {
- "asOf": "2026-07-27T18:56:18.287796+00:00",
+ "asOf": "2026-07-27T20:13:50.337410+00:00",
  "items": [
+  {
+   "source": "UN Press",
+   "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General",
+   "url": "https://press.un.org/en/2026/db260727.doc.htm",
+   "published": "2026-07-27T19:25:03+00:00",
+   "summary": "In the Democratic Republic of the Congo, where as of 25 July, confirmed Ebola cases reportedly reached 3,200, the UN and partners continue to assist authorities on surveillance, contact tracing, laboratory testing and patient care. The World Food Programme has provided over 140,000 meals and food to vulnerable people.",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "UN Press",
+   "title": "Civilians Bear Brunt of Rising Hostilities in Ukraine, Black Sea Port Attacks, UN Officials Warn, as Security Council Speakers Decry Impact on Global Food Security",
+   "url": "https://press.un.org/en/2026/sc16422.doc.htm",
+   "published": "2026-07-27T18:17:55+00:00",
+   "summary": "Intensified hostilities in Ukraine, the Russian Federation and surrounding maritime corridors are exacting a devastating toll on civilians and imperiling global food security, senior UN officials warned the Security Council today, citing attacks on third-party merchant vessels and a 20 per cent spike in wheat prices since the start of July.",
+   "tags": [
+    "strikes",
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Saudi Arabia defends against drone strikes from ‘Iran-backed’ groups",
@@ -596,28 +617,6 @@
    "summary": "Israel is violating agreements by shelling &#039;pilot villages&#039;, Lebanon&#039;s army asserts.",
    "tags": [
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iranology Foundation chief meets Saudi, Pakistani envoys to expand academic cooperation",
-   "url": "https://en.irna.ir/news/86220191/Iranology-Foundation-chief-meets-Saudi-Pakistani-envoys-to-expand",
-   "published": "2026-07-26T16:17:32+00:00",
-   "summary": "Tehran, IRNA – The head of Iran’s Iranology Foundation held separate meetings with the ambassadors of Saudi Arabia and Pakistan on Sunday to discuss expanding scientific and cultural cooperation, while also exchanging views on regional developments and the importance of diplomacy.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Israel carries out double tap strike in central Gaza",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/israel-carries-out-double-tap-strike-in-central-gaza?traffic_source=rss",
-   "published": "2026-07-26T14:47:02+00:00",
-   "summary": "Israel carries out double tap strike in central Gaza",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   }
