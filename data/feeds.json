@@ -1,6 +1,17 @@
 {
- "asOf": "2026-07-28T16:21:41.466322+00:00",
+ "asOf": "2026-07-28T16:57:40.605582+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran says countries using frozen assets would face Hormuz transit ban",
+   "url": "https://en.irna.ir/news/86222224/Iran-says-countries-using-frozen-assets-would-face-Hormuz-transit",
+   "published": "2026-07-28T16:39:53+00:00",
+   "summary": "Tehran, IRNA – An Iranian military spokesperson has warned that any company or country receiving payments from Iran’s frozen assets under a proposal outlined by US President Donald Trump would be barred from transiting the Strait of Hormuz.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Iran rejects Trump frozen funds plan, warns ships of Hormuz transit ban",
@@ -592,17 +603,6 @@
    "tags": [
     "strikes",
     "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Mapping Israeli settler violence in the West Bank",
-   "url": "https://www.aljazeera.com/news/2026/7/27/mapping-israeli-settler-violence-in-the-west-bank?traffic_source=rss",
-   "published": "2026-07-27T15:27:22+00:00",
-   "summary": "Israeli settlers have set fire to a mosque in the West Bank village of Qusra, and continued violent attacks.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   }
