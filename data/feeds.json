@@ -1,12 +1,34 @@
 {
- "asOf": "2026-07-28T12:07:58.573559+00:00",
+ "asOf": "2026-07-28T13:03:06.035330+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "‘We’re here to stay’: West Bank Palestinians defy Israeli attacks",
+   "url": "https://www.aljazeera.com/features/2026/7/28/were-here-to-stay-west-bank-palestinians-defy-israeli-attacks?traffic_source=rss",
+   "published": "2026-07-28T12:32:42+00:00",
+   "summary": "Settlers burned homes and a mosque in at-Tuwani. Residents say it is part of a campaign to push them off their land.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Why has Iran’s economy not collapsed under US war pressure?",
+   "url": "https://www.aljazeera.com/economy/2026/7/28/why-has-irans-economy-not-collapsed-under-us-war-pressure?traffic_source=rss",
+   "published": "2026-07-28T12:30:18+00:00",
+   "summary": "Millions in sanctions-hit country keep absorbing economic shockwaves, with analysts saying trend looks set to continue.",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Legal action underway over Ukrainian attack on Iranian ship ‘Anna’: Diplomat",
    "url": "https://en.irna.ir/news/86222056/Legal-action-underway-over-Ukrainian-attack-on-Iranian-ship-Anna",
    "published": "2026-07-28T12:05:23+00:00",
-   "summary": "Moscow, IRNA – Iran’s Consul General in Russia’s Astrakhan, Ahmad Heydarian says that legal action is underway against Ukraine over a drone attack on the Iranian vessel “Anna” in the Caspian Sea, which he condemned as an act of aggression.",
+   "summary": "Moscow, IRNA – Iran’s Consul General in Russia’s Astrakhan, Ahmad Heydarian, says that legal action is underway against Ukraine over a drone attack on the Iranian vessel “Anna” in the Caspian Sea, which he condemned as an act of aggression.",
    "tags": [
     "strikes",
     "shipping"
@@ -588,28 +610,6 @@
    "published": "2026-07-27T13:04:29+00:00",
    "summary": "Christmas planning is underway at the White House, and President Donald J. Trump and First Lady Melania Trump are excited to continue the cherished tradition of welcoming volunteers to help celebrate the holiday season at the People’s House. Starting today, applications are open for those interested in volunteering for 2026 Christmas at the White House. [&#8230;] The post First Lady Melania Trump ",
    "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Moment Ukrainian drones strike Russia’s Belgorod",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/moment-ukrainian-drones-strike-russias-belgorod?traffic_source=rss",
-   "published": "2026-07-27T10:59:17+00:00",
-   "summary": "Dramatic videos captured the moment Ukrainian drones hit Belgorod, a Russian city near the Ukrainian border.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Why has the US halted its bombing of Iran?",
-   "url": "https://www.aljazeera.com/news/2026/7/27/why-has-the-us-halted-its-bombing-of-iran?traffic_source=rss",
-   "published": "2026-07-27T10:55:52+00:00",
-   "summary": "Tit-for-tat strikes have halted in the Middle East amid reports of depleted US weapons stocks.",
-   "tags": [
-    "strikes"
-   ],
    "highlight": false
   }
  ]
