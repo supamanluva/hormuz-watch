@@ -1,6 +1,17 @@
 {
- "asOf": "2026-07-28T21:33:17.203279+00:00",
+ "asOf": "2026-07-28T22:10:48.532815+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Israeli airstrike destroys Gaza City mosque near displacement camp",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/israeli-airstrike-destroys-gaza-city-mosque-near-displacement-camp?traffic_source=rss",
+   "published": "2026-07-28T21:24:20+00:00",
+   "summary": "Video footage captures an Israeli airstrike hitting Al-Muttaqin Mosque in Gaza City, next to Yarmouk Stadium",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Araghchi stresses to Ukraine FM need to make up for attack",
@@ -591,17 +602,6 @@
    "summary": "Healthcare workers at an Ebola treatment centre in Bunia, Democratic Republic of Congo, have gone on strike.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Houthis want to copy Iran’s Hormuz control in the Red Sea: Yemeni FM",
-   "url": "https://www.aljazeera.com/news/2026/7/28/houthis-want-to-copy-irans-hormuz-control-in-the-red-sea-yemeni-fm?traffic_source=rss",
-   "published": "2026-07-28T00:51:50+00:00",
-   "summary": "Speaking in Riyadh, Yemen&#039;s internationally recognised government warns global complacency has emboldened the Houthis.",
-   "tags": [
-    "shipping"
    ],
    "highlight": false
   }
