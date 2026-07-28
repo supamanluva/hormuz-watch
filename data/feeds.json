@@ -1,6 +1,39 @@
 {
- "asOf": "2026-07-28T15:34:21.270156+00:00",
+ "asOf": "2026-07-28T16:21:41.466322+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Iran rejects Trump frozen funds plan, warns ships of Hormuz transit ban",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/iran-rejects-trump-frozen-funds-plan-warns-ships-of-hormuz-transit-ban?traffic_source=rss",
+   "published": "2026-07-28T15:28:33+00:00",
+   "summary": "Iran rejected Trump’s claim that ships damaged by Iran in the Gulf would be compensated from frozen Iranian funds.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Trump expresses frustration with Netanyahu before White House meeting",
+   "url": "https://www.aljazeera.com/news/2026/7/28/trump-expresses-frustration-with-netanyahu-before-white-house-meeting?traffic_source=rss",
+   "published": "2026-07-28T15:21:43+00:00",
+   "summary": "US president says Iran talks progressing, reups threats if diplomacy fails before sit down with Israeli prime minister.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "German investigators find apparent motive after Berlin Pride attack",
+   "url": "https://www.aljazeera.com/news/2026/7/28/german-investigators-find-apparent-motive-after-berlin-pride-attack?traffic_source=rss",
+   "published": "2026-07-28T15:20:43+00:00",
+   "summary": "Prosecutors say they uncover video of accused Berlin Pride attacker pledging allegiance to ISIL (ISIS).",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "‘Up Like a Rocket!’ CNN Data Guru Says Lindsey Graham’s Sister Is Now ‘Clear Favorite’ to Win Primary:",
@@ -570,41 +603,6 @@
    "summary": "Israeli settlers have set fire to a mosque in the West Bank village of Qusra, and continued violent attacks.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "How Israel uses settler-soldier terror to colonise the West Bank",
-   "url": "https://www.aljazeera.com/opinions/2026/7/27/how-israel-uses-settler-soldier-terror-to-colonise-the-west-bank?traffic_source=rss",
-   "published": "2026-07-27T15:27:09+00:00",
-   "summary": "Settler attacks are not isolated incidents. They are all part of a strategy to grab land and colonise.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran denies reports of proposing direct talks with US",
-   "url": "https://en.irna.ir/news/86221080/Iran-denies-reports-of-proposing-direct-talks-with-US",
-   "published": "2026-07-27T14:47:24+00:00",
-   "summary": "Tehran, IRNA – Foreign Ministry spokesperson Esmaeil Baqaei has dismissed as “fabricated” recent media reports that it has proposed direct talks with Washington.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran’s envoy to Russia says Ukraine-hit vessel carried no military cargo",
-   "url": "https://en.irna.ir/news/86221125/Iran-s-envoy-to-Russia-says-Ukraine-hit-vessel-carried-no-military",
-   "published": "2026-07-27T14:00:42+00:00",
-   "summary": "Moscow, IRNA – Iran’s ambassador to Russia has condemned a recent drone attack by Ukraine against an Iranian vessel in the Caspian Sea as a “criminal act”, saying the vessel was fully civilian, carrying no military cargo.",
-   "tags": [
-    "strikes",
-    "diplomacy",
-    "shipping"
    ],
    "highlight": false
   }
