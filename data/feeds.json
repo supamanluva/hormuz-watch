@@ -1,6 +1,30 @@
 {
- "asOf": "2026-07-28T06:15:58.673754+00:00",
+ "asOf": "2026-07-28T09:21:52.755866+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Kremlin says Iran capable of defending its rights after Ukrainian assault on vessel",
+   "url": "https://en.irna.ir/news/86221652/Kremlin-says-Iran-capable-of-defending-its-rights-after-Ukrainian",
+   "published": "2026-07-28T08:28:28+00:00",
+   "summary": "Tehran, IRNA – Kremlin spokesperson Dmitry Peskov says Iran has the necessary capabilities to defend its rights, commenting on Ukraine’s drone attack on an Iranian commercial vessel in the Caspian Sea.",
+   "tags": [
+    "strikes",
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iraqi resistance rejects Saudi claim of drone attacks from Iraq’s soil",
+   "url": "https://en.irna.ir/news/86221550/Iraqi-resistance-rejects-Saudi-claim-of-drone-attacks-from-Iraq-s",
+   "published": "2026-07-28T06:55:32+00:00",
+   "summary": "Tehran, IRNA – The Islamic Resistance in Iraq has rejected Saudi Arabia’s claim that drone attacks against oil facilities in the kingdom originated from Iraqi territory, warning Riyadh against any “foolish action” based on the allegation.",
+   "tags": [
+    "strikes",
+    "oil"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Palestine weekly: West Bank in flames after Tal killings",
@@ -79,12 +103,12 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "Iran war live: Trump says US talking to Tehran, set to meet Netanyahu",
+   "title": "Iran war live: Oman sends Hormuz plan with Gulf nations reportedly onboard",
    "url": "https://www.aljazeera.com/news/liveblog/2026/7/28/iran-war-live-trump-touts-friendly-talks-netanyahu-arrives-in-us?traffic_source=rss",
    "published": "2026-07-28T00:00:00+00:00",
-   "summary": "Iran says US &#039;struggling&#039; to end five-month-old war, as Netanyahu arrives in Washington, DC, for talks with Trump.",
+   "summary": "Under the Omani proposal, which reportedly has regional backing, Tehran won&#039;t have sole control ⁠of the vital waterway.",
    "tags": [
-    "diplomacy"
+    "shipping"
    ],
    "highlight": false
   },
@@ -591,30 +615,6 @@
    "summary": "The US has paused its two-week bombing campaign against Iran, prompting Tehran to suspend its retaliatory attacks.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Khamenei ties US-Iran peace deal to Israel ending attacks on Lebanon",
-   "url": "https://www.aljazeera.com/news/2026/7/26/us-iran-peace-deal-depends-on-israel-leaving-lebanon-says-khamenei?traffic_source=rss",
-   "published": "2026-07-26T23:44:29+00:00",
-   "summary": "Iran&#039;s supreme leader calls for &#039;absolute, unconditional termination&#039; of Israel&#039;s attacks on Lebanon.",
-   "tags": [
-    "strikes",
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "US and Iran hit pause on strikes for second day",
-   "url": "https://www.aljazeera.com/news/2026/7/26/us-and-iran-hit-pause-on-strikes-for-second-day?traffic_source=rss",
-   "published": "2026-07-26T20:55:52+00:00",
-   "summary": "The relative calm comes amid reports of renewed efforts to restore diplomatic talks.",
-   "tags": [
-    "strikes",
-    "diplomacy"
    ],
    "highlight": false
   }
