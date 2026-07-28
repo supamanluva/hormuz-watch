@@ -1,6 +1,15 @@
 {
- "asOf": "2026-07-28T22:10:48.532815+00:00",
+ "asOf": "2026-07-28T22:45:11.228095+00:00",
  "items": [
+  {
+   "source": "UN Press",
+   "title": "From Gaza to Gulf, Peace in Middle East Hinges on Resolving Israel-Palestinian Conflict, Security Council Speakers Stress, amid Calls for Political Progress",
+   "url": "https://press.un.org/en/2026/sc16423.doc.htm",
+   "published": "2026-07-28T21:58:25+00:00",
+   "summary": "In a Middle East aflame with tensions, from Gaza to the Gulf, resolving the Palestine-Israel conflict remains central to wider peace, the Security Council heard today.",
+   "tags": [],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Israeli airstrike destroys Gaza City mosque near displacement camp",
@@ -591,17 +600,6 @@
    "tags": [
     "strikes",
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Ebola response workers strike in DR Congo as death toll spikes",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/ebola-response-workers-strike-in-dr-congo-as-death-toll-spikes?traffic_source=rss",
-   "published": "2026-07-28T02:33:05+00:00",
-   "summary": "Healthcare workers at an Ebola treatment centre in Bunia, Democratic Republic of Congo, have gone on strike.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   }
