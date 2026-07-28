@@ -1,6 +1,17 @@
 {
- "asOf": "2026-07-28T09:21:52.755866+00:00",
+ "asOf": "2026-07-28T10:16:05.355153+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Minister: Iran, Turkmenistan discuss expanding ties in transport, energy, infrastructure",
+   "url": "https://en.irna.ir/news/86221823/Minister-Iran-Turkmenistan-discuss-expanding-ties-in-transport",
+   "published": "2026-07-28T10:03:22+00:00",
+   "summary": "Tehran, IRNA – Minister of Roads and Urban Development Farzaneh Sadegh has discussed ways to operationalize joint agreements with Turkmenistan in the fields of transport, energy, gas, electricity, and infrastructure development, as well as the formation of a joint committee to implement bilateral agreements.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Kremlin says Iran capable of defending its rights after Ukrainian assault on vessel",
@@ -602,17 +613,6 @@
    "url": "https://www.aljazeera.com/news/2026/7/27/russia-and-ukraine-trade-attacks-killing-10-including-child-in-chernihiv?traffic_source=rss",
    "published": "2026-07-27T03:34:06+00:00",
    "summary": "Kyiv says Russian strikes killed six, including a child at a supermarket, as Moscow says Ukrainian strikes killed four.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iran war live: Tehran halts retaliatory strikes after pause in US attacks",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/7/27/iran-war-live-iran-halts-retaliatory-strikes-after-pause-in-us-attacks?traffic_source=rss",
-   "published": "2026-07-27T00:00:00+00:00",
-   "summary": "The US has paused its two-week bombing campaign against Iran, prompting Tehran to suspend its retaliatory attacks.",
    "tags": [
     "strikes"
    ],
