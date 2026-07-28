@@ -1,6 +1,17 @@
 {
- "asOf": "2026-07-28T18:54:41.346601+00:00",
+ "asOf": "2026-07-28T19:40:50.288902+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran, Ukraine foreign ministers hold talks over phone",
+   "url": "https://en.irna.ir/news/86222350/Iran-Ukraine-foreign-ministers-hold-talks-over-phone",
+   "published": "2026-07-28T19:33:31+00:00",
+   "summary": "Tehran, IRNA – Foreign Minister Abbas Araghchi and Ukrainian Foreign Minister Andrii Sybiha held a phone call on Tuesday evening.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Lindsey Graham ‘almost cried’ tears of joy over war on Iran, footage shows",
@@ -593,17 +604,6 @@
    "summary": "Drones launched at Saudi, Jordan and Iraq suggest Iran, or linked groups, may be testing US as it mulls new strategy.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "New UK PM Burnham assures Zelenskyy of continuing Ukraine support",
-   "url": "https://www.aljazeera.com/news/2026/7/27/new-uk-pm-burnham-assures-zelenskyy-of-continuing-ukraine-support?traffic_source=rss",
-   "published": "2026-07-27T17:41:46+00:00",
-   "summary": "Burnham is the fifth British prime minister to deal with President Zelenskyy since the war on Ukraine started in 2022.",
-   "tags": [
-    "diplomacy"
    ],
    "highlight": false
   }
