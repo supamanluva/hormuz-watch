@@ -1,6 +1,26 @@
 {
- "asOf": "2026-07-28T03:51:33.456362+00:00",
+ "asOf": "2026-07-28T06:15:58.673754+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Palestine weekly: West Bank in flames after Tal killings",
+   "url": "https://www.aljazeera.com/news/2026/7/28/palestine-weekly-west-bank-in-flames-after-tal-killings?traffic_source=rss",
+   "published": "2026-07-28T05:58:22+00:00",
+   "summary": "Deadly settler attack outside Nablus sets off days of raids, arson, closures and mass arrests.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "White House",
+   "title": "Presidential Message on the 45th Anniversary of the Martyrdom of Father Stanley Rother",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/07/presidential-message-on-the-45th-anniversary-of-the-martyrdom-of-father-stanley-rother/",
+   "published": "2026-07-28T04:30:00+00:00",
+   "summary": "Today, Melania and I join with American Catholics and people of faith all across the world in honoring the towering legacy of Father Stanley Rother—an Oklahoma farm boy, the first American-born martyr beatified by the Catholic Church, and a champion of human dignity who heroically laid down his life to bring the light of Jesus [&#8230;] The post Presidential Message on the 45th Anniversary of the ",
+   "tags": [],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Ukraine’s Zelenskyy set to meet Trump as Iran and Ukraine wars converge",
@@ -59,7 +79,7 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "Iran war live: Trump says ‘friendly’ talks ongoing; Netanyahu arrives in US",
+   "title": "Iran war live: Trump says US talking to Tehran, set to meet Netanyahu",
    "url": "https://www.aljazeera.com/news/liveblog/2026/7/28/iran-war-live-trump-touts-friendly-talks-netanyahu-arrives-in-us?traffic_source=rss",
    "published": "2026-07-28T00:00:00+00:00",
    "summary": "Iran says US &#039;struggling&#039; to end five-month-old war, as Netanyahu arrives in Washington, DC, for talks with Trump.",
@@ -595,29 +615,6 @@
    "tags": [
     "strikes",
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Houthis claim Saudi drone downed over northwestern Yemen",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/houthis-claim-saudi-drone-downed-over-northwestern-yemen?traffic_source=rss",
-   "published": "2026-07-26T20:19:34+00:00",
-   "summary": "Iran-backed Houthi forces claim they shot down a Saudi reconnaissance drone over northwestern Yemen.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "What lies ahead for Iran’s economy as scope of US war grows beyond Hormuz?",
-   "url": "https://www.aljazeera.com/news/2026/7/26/what-lies-ahead-for-iran-as-scope-of-us-war-grows-beyond-hormuz?traffic_source=rss",
-   "published": "2026-07-26T19:31:58+00:00",
-   "summary": "Mediation efforts continue but uncertainty remains as risks of further disruptions in international waterways grow.",
-   "tags": [
-    "diplomacy",
-    "shipping"
    ],
    "highlight": false
   }
