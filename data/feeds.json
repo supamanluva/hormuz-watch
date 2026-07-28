@@ -1,6 +1,31 @@
 {
- "asOf": "2026-07-28T02:43:21.739523+00:00",
+ "asOf": "2026-07-28T03:51:33.456362+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Ukraine’s Zelenskyy set to meet Trump as Iran and Ukraine wars converge",
+   "url": "https://www.aljazeera.com/news/2026/7/28/ukraines-zelenskyy-set-to-meet-trump-as-iran-and-ukraine-wars-converge?traffic_source=rss",
+   "published": "2026-07-28T03:16:30+00:00",
+   "summary": "The US Senate will vote Tuesday on Russian sanctions, days after Ukraine attacked an Iranian vessel in the Caspian Sea.",
+   "tags": [
+    "strikes",
+    "sanctions",
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Trump says Iran talks taking place during pause in US military strikes",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/trump-says-iran-talks-taking-place-during-pause-in-us-military-strikes?traffic_source=rss",
+   "published": "2026-07-28T02:47:55+00:00",
+   "summary": "US President Donald Trump says talks with Iran are continuing during a pause in US military strikes",
+   "tags": [
+    "strikes",
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Ebola response workers strike in DR Congo as death toll spikes",
@@ -592,28 +617,6 @@
    "summary": "Mediation efforts continue but uncertainty remains as risks of further disruptions in international waterways grow.",
    "tags": [
     "diplomacy",
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Al-Sharaa outlines Syria’s approach to security with Israel and Lebanon",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/al-sharaa-outlines-syrias-approach-to-security-with-israel-and-lebanon?traffic_source=rss",
-   "published": "2026-07-26T19:27:57+00:00",
-   "summary": "Syrian President Ahmed al-Sharaa said Damascus is working towards a security agreement with Israel.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "46 people rescued from sunken ship in South China Sea",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/46-people-rescued-from-sunken-ship-in-south-china-sea?traffic_source=rss",
-   "published": "2026-07-26T19:22:45+00:00",
-   "summary": "Footage shows rescuers pulling survivors from a Vietnamese vessel that sank in the South China Sea.",
-   "tags": [
     "shipping"
    ],
    "highlight": false
