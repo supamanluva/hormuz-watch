@@ -1,6 +1,30 @@
 {
- "asOf": "2026-07-29T23:10:28.262963+00:00",
+ "asOf": "2026-07-29T23:46:14.993844+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Saudi Arabia seeks international coalition against Houthis in Red Sea",
+   "url": "https://www.aljazeera.com/news/2026/7/29/saudi-arabia-seeks-international-coalition-against-houthis-in-red-sea?traffic_source=rss",
+   "published": "2026-07-29T23:34:26+00:00",
+   "summary": "Riyadh seeks partners to safeguard shipping in Red Sea as strikes on energy tankers expand, pushing oil prices higher.",
+   "tags": [
+    "strikes",
+    "shipping",
+    "oil"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Iraq calls Saudi-US attacks a ‘flagrant violation of sovereignty’",
+   "url": "https://www.aljazeera.com/news/2026/7/29/iraq-calls-saudi-us-attacks-flagrant-violation-of-sovereignty?traffic_source=rss",
+   "published": "2026-07-29T23:10:15+00:00",
+   "summary": "Prime Minister Ali al-Zaidi cancels first official trip to Saudi Arabia in protest.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "Does anybody have any idea how much Money and Prestige the United States Supreme Court has cost our Nation with their negative Rulings on Birthright Citizenship and TARIFFS? The answer, TRILLIONS AND TRILLIONS OF DOLLARS! President DONALD J. TRUMP",
@@ -570,35 +594,12 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "Iran and Oman exchange proposals to manage Strait of Hormuz",
-   "url": "https://www.aljazeera.com/news/2026/7/28/iran-and-oman-exchange-proposals-to-manage-strait-of-hormuz?traffic_source=rss",
-   "published": "2026-07-28T21:01:19+00:00",
-   "summary": "Omani proposal is based on the Strait of Malacca model, where ships that use the strait provide voluntary fees.",
-   "tags": [
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
    "source": "UN Press",
    "title": "Activities of Secretary-General in China, 16-20 July",
    "url": "https://press.un.org/en/2026/sgt3469.doc.htm",
    "published": "2026-07-28T20:45:26+00:00",
    "summary": "United Nations Secretary-General António Guterres arrived in Shanghai, China, late on Thursday morning, 16 July.",
    "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Kyiv warns Iran against escalation after Ukraine’s Caspian Sea attack",
-   "url": "https://www.aljazeera.com/news/2026/7/28/kyiv-warns-iran-against-escalation-after-ukraines-caspian-sea-attack?traffic_source=rss",
-   "published": "2026-07-28T20:29:42+00:00",
-   "summary": "Kyiv claims its Caspian Sea strike targeted Russian warships, denying intent to harm civilian vessels or individuals.",
-   "tags": [
-    "strikes",
-    "shipping"
-   ],
    "highlight": false
   },
   {
