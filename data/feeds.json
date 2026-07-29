@@ -1,6 +1,17 @@
 {
- "asOf": "2026-07-29T20:28:18.982059+00:00",
+ "asOf": "2026-07-29T21:08:32.310086+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Videos show aftermath of US-Saudi strikes on Iraq PMF bases",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/videos-show-aftermath-of-us-saudi-strikes-on-iraq-pmf-bases?traffic_source=rss",
+   "published": "2026-07-29T20:31:10+00:00",
+   "summary": "US and Saudi forces launched coordinated airstrikes targeting Iran-backed Popular Mobilisation Forces (PMF) bases",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "White House",
    "title": "Presidential Message on the Birthday of Alexis de Tocqueville",
@@ -609,17 +620,6 @@
    "summary": "Tehran, IRNA – Foreign Minister Abbas Araghchi and Ukrainian Foreign Minister Andrii Sybiha held a phone call on Tuesday evening.",
    "tags": [
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Lindsey Graham ‘almost cried’ tears of joy over war on Iran, footage shows",
-   "url": "https://www.aljazeera.com/news/2026/7/28/lindsey-graham-almost-cried-tears-of-joy-over-war-on-iran-footage-shows?traffic_source=rss",
-   "published": "2026-07-28T18:01:03+00:00",
-   "summary": "Excerpts from a planned documentary show the hawkish senator claiming credit for persuading Donald Trump to attack Iran.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   },
