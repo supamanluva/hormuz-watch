@@ -1,6 +1,26 @@
 {
- "asOf": "2026-07-29T18:45:00.208564+00:00",
+ "asOf": "2026-07-29T19:54:21.061630+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Al-Shabab kills five Kenyan security personnel in ambush",
+   "url": "https://www.aljazeera.com/news/2026/7/29/al-shabab-kills-five-kenyan-security-personnel-in-ambush?traffic_source=rss",
+   "published": "2026-07-29T19:06:38+00:00",
+   "summary": "The ambush is part of a rapid surge in cross-border attacks along Kenya&#039;s northern frontier.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "UN Press",
+   "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General",
+   "url": "https://press.un.org/en/2026/db260729.doc.htm",
+   "published": "2026-07-29T18:57:12+00:00",
+   "summary": "By 2050, Latin America will have 38.3 million fewer school-age people, a study by the Economic Commission for Latin America and the Caribbean and the UN Educational, Scientific and Cultural Organization (UNESCO) found. It recommends integrating data on migration, births, enrolment and location to safeguard investment in education.",
+   "tags": [],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Army Chief: Armed Forces will defend Iran’s soil and independence against aggressors to their last breath",
@@ -616,24 +636,6 @@
    "url": "https://trumpstruth.org/statuses/40378",
    "published": "2026-07-28T17:28:28+00:00",
    "summary": "Trump touts explosive early growth of new child savings accounts: https://www. washingtontimes.com/news/2026/ jul/22/trump-touts-explosive-early-growth-new-child-savings-accounts/",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Trump: ‘With communism, everything turns to s***’:",
-   "url": "https://trumpstruth.org/statuses/40379",
-   "published": "2026-07-28T17:27:18+00:00",
-   "summary": "Trump: ‘With communism, everything turns to s***’: https://www. washingtonexaminer.com/news/wh ite-house/4659752/trump-communism-dont-think-anybody-wants-that-georgia-remarks/",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Trump blasts Jon Ossoff, 'communist' Democrats in Georgia speech:",
-   "url": "https://trumpstruth.org/statuses/40380",
-   "published": "2026-07-28T17:26:57+00:00",
-   "summary": "Trump blasts Jon Ossoff, 'communist' Democrats in Georgia speech: https:// justthenews.com/politics-polic y/all-things-trump/trump-blasts-jon-ossoff-communist-democrats-georgia-speech",
    "tags": [],
    "highlight": true
   }
