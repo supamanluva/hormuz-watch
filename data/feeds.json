@@ -1,6 +1,15 @@
 {
- "asOf": "2026-07-29T16:53:59.488153+00:00",
+ "asOf": "2026-07-29T17:35:51.928702+00:00",
  "items": [
+  {
+   "source": "Trump · Truth Social",
+   "title": "[No Title] - Post from July 29, 2026",
+   "url": "https://trumpstruth.org/statuses/40392",
+   "published": "2026-07-29T17:03:48+00:00",
+   "summary": "",
+   "tags": [],
+   "highlight": true
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Hakim condemns joint US-Saudi attacks on PMF positions in Iraq",
@@ -9,6 +18,17 @@
    "summary": "Tehran, IRNA – The head of Iraq’s National Wisdom Movement, Sayyid Ammar al-Hakim, has condemned the attacks by the US and Saudi Arabia on multiple Popular Mobilization Units (PMU) headquarters across various provinces of the country.",
    "tags": [
     "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Is the world at risk of another energy shock?",
+   "url": "https://www.aljazeera.com/video/counting-the-cost/2026/7/29/is-the-world-at-risk-of-another-energy-shock?traffic_source=rss",
+   "published": "2026-07-29T16:43:37+00:00",
+   "summary": "Disruptions across Strait of Hormuz, Bab al-Mandeb and the Black Sea threaten supplies and raise costs for consumers.",
+   "tags": [
+    "shipping"
    ],
    "highlight": false
   },
@@ -608,24 +628,6 @@
     "strikes"
    ],
    "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "75 Years on, as Conflicts, Persecution Persist Worldwide, Secretary-General Urges Renewing Commitment to 1951 Refugee Convention, Choosing Humanity over Fear",
-   "url": "https://press.un.org/en/2026/sgsm23232.doc.htm",
-   "published": "2026-07-28T17:08:11+00:00",
-   "summary": "The following statement by UN Secretary-General António Guterres was issued today:",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "We’re going to bring this heroic young man, and his family, into the White House with, perhaps, the boy he saved, to give him a High Civilian Honor. Very brave, he deserves it! President DONALD J. TRUMP",
-   "url": "https://trumpstruth.org/statuses/40374",
-   "published": "2026-07-28T17:05:05+00:00",
-   "summary": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116998687659903888 We’re going to bring this heroic young man, and his family, into the White House with, perhaps, the boy he saved, to give him a High Civilian Honor. Very brave, he deserves it! President DONALD J. TRUMP",
-   "tags": [],
-   "highlight": true
   }
  ]
 }
