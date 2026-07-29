@@ -1,12 +1,67 @@
 {
- "asOf": "2026-07-29T14:54:46.779413+00:00",
+ "asOf": "2026-07-29T16:53:59.488153+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Hakim condemns joint US-Saudi attacks on PMF positions in Iraq",
+   "url": "https://en.irna.ir/news/86223240/Hakim-condemns-joint-US-Saudi-attacks-on-PMF-positions-in-Iraq",
+   "published": "2026-07-29T16:49:47+00:00",
+   "summary": "Tehran, IRNA – The head of Iraq’s National Wisdom Movement, Sayyid Ammar al-Hakim, has condemned the attacks by the US and Saudi Arabia on multiple Popular Mobilization Units (PMU) headquarters across various provinces of the country.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iraq’s security council condemns US-Saudi strikes on Hashd al-Shaabi",
+   "url": "https://en.irna.ir/news/86223224/Iraq-s-security-council-condemns-US-Saudi-strikes-on-Hashd-al-Shaabi",
+   "published": "2026-07-29T16:20:36+00:00",
+   "summary": "Tehran, IRNA – The Iraqi National Security Council condemns dawn attacks by the United States and Saudi Arabia on Popular Mobilization Forces bases in Iraq, saying it will draw up a comprehensive security plan to counter any violation of the country’s sovereignty.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "US imposes fresh Iran-related sanctions amid continued pressure campaign",
+   "url": "https://en.irna.ir/news/86223244/US-imposes-fresh-Iran-related-sanctions-amid-continued-pressure",
+   "published": "2026-07-29T16:09:25+00:00",
+   "summary": "Tehran, IRNA – The United States has imposed a new round of sanctions targeting eight oil tankers and 10 entities linked to Iran, in the latest step in Washington’s continued hostile approach toward the Islamic Republic.",
+   "tags": [
+    "sanctions",
+    "shipping",
+    "oil"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "White House",
+   "title": "Crime Plummets to Another Historic Low Under President Trump",
+   "url": "https://www.whitehouse.gov/releases/2026/07/crime-plummets-another-historic-low-under-president-trump/",
+   "published": "2026-07-29T15:53:22+00:00",
+   "summary": "Under President Donald J. Trump, violent crime is collapsing at a pace unmatched in modern American history. A new mid-year report confirms that homicides are again on track to reach the lowest level in more than a century — building on last year’s extraordinary progress and delivering on one of President Trump’s core promises to [&#8230;] The post Crime Plummets to Another Historic Low Under Pres",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Trump says US to deliver ‘beating’ to Iran after bases again targeted",
+   "url": "https://www.aljazeera.com/news/2026/7/29/trump-says-us-to-deliver-beating-to-iran-after-bases-again-targeted?traffic_source=rss",
+   "published": "2026-07-29T15:43:05+00:00",
+   "summary": "US president promises major escalation a day after new Iran attacks and his White House meeting with Netanyahu.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Iran strongly condemns US-Saudi strikes on Iraq",
    "url": "https://en.irna.ir/news/86223183/Iran-strongly-condemns-US-Saudi-strikes-on-Iraq",
    "published": "2026-07-29T14:30:58+00:00",
-   "summary": "Tehran, IRNA – Iran has condemned “aggressive attacks” attacks on Iraq by the US and Saudi Arabia, saying the strikes violated Iraq’s sovereignty and the UN Charter and were aimed at expanding conflict in West Asia.",
+   "summary": "Tehran, IRNA – Iran has condemned “aggressive attacks” on Iraq by the US and Saudi Arabia, saying the strikes violated Iraq’s sovereignty and the UN Charter and were aimed at expanding conflict in West Asia.",
    "tags": [
     "strikes"
    ],
@@ -571,59 +626,6 @@
    "summary": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/116998687659903888 We’re going to bring this heroic young man, and his family, into the White House with, perhaps, the boy he saved, to give him a High Civilian Honor. Very brave, he deserves it! President DONALD J. TRUMP",
    "tags": [],
    "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from July 28, 2026",
-   "url": "https://trumpstruth.org/statuses/40375",
-   "published": "2026-07-28T17:04:55+00:00",
-   "summary": "",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran says countries using frozen assets would face Hormuz transit ban",
-   "url": "https://en.irna.ir/news/86222224/Iran-says-countries-using-frozen-assets-would-face-Hormuz-transit",
-   "published": "2026-07-28T16:39:53+00:00",
-   "summary": "Tehran, IRNA – An Iranian military spokesperson has warned that any company or country receiving payments from Iran’s frozen assets under a proposal outlined by US President Donald Trump would be barred from transiting the Strait of Hormuz.",
-   "tags": [
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iran rejects Trump frozen funds plan, warns ships of Hormuz transit ban",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/iran-rejects-trump-frozen-funds-plan-warns-ships-of-hormuz-transit-ban?traffic_source=rss",
-   "published": "2026-07-28T15:28:33+00:00",
-   "summary": "Iran rejected Trump’s claim that ships damaged by Iran in the Gulf would be compensated from frozen Iranian funds.",
-   "tags": [
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Trump expresses frustration with Netanyahu before White House meeting",
-   "url": "https://www.aljazeera.com/news/2026/7/28/trump-expresses-frustration-with-netanyahu-before-white-house-meeting?traffic_source=rss",
-   "published": "2026-07-28T15:21:43+00:00",
-   "summary": "US president says Iran talks progressing, reups threats if diplomacy fails before sit down with Israeli prime minister.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "German investigators find apparent motive after Berlin Pride attack",
-   "url": "https://www.aljazeera.com/news/2026/7/28/german-investigators-find-apparent-motive-after-berlin-pride-attack?traffic_source=rss",
-   "published": "2026-07-28T15:20:43+00:00",
-   "summary": "Prosecutors say they uncover video of accused Berlin Pride attacker pledging allegiance to ISIL (ISIS).",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
   }
  ]
 }
