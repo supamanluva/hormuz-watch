@@ -1,6 +1,41 @@
 {
- "asOf": "2026-07-29T05:13:25.522733+00:00",
+ "asOf": "2026-07-29T07:23:59.899365+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Iran attacks US bases in Middle East as Trump meets Netanyahu",
+   "url": "https://www.aljazeera.com/news/2026/7/29/iran-attacks-us-bases-in-middle-east-as-trump-meets-netanyahu?traffic_source=rss",
+   "published": "2026-07-29T05:43:03+00:00",
+   "summary": "Iran has also struck three ships in the Strait of Hormuz and rejected Oman’s proposal on managing the waterway.",
+   "tags": [
+    "strikes",
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "IRGC Navy targets, stops three violating oil tankers",
+   "url": "https://en.irna.ir/news/86222501/IRGC-Navy-targets-stops-three-violating-oil-tankers",
+   "published": "2026-07-29T05:40:36+00:00",
+   "summary": "Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) Navy says three oil tankers violating regulations had been struck and stopped after ignoring its warnings.",
+   "tags": [
+    "shipping",
+    "oil"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "US air base, Central Command center in Jordan targeted: IRGC",
+   "url": "https://en.irna.ir/news/86222477/US-air-base-Central-Command-center-in-Jordan-targeted-IRGC",
+   "published": "2026-07-29T05:33:17+00:00",
+   "summary": "Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) says that its Aerospace Force has targeted a US air base and the US military’s Central Command center in Jordan with ballistic missiles.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Iran missiles target US forces in Jordan after a five-day pause in war",
@@ -25,7 +60,7 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "Saudi Arabia, US carry out strikes on Iran-backed groups in Iraq",
+   "title": "Iraqi armed groups condemn “dangerous escalation” after US-Saudi strikes",
    "url": "https://www.aljazeera.com/news/2026/7/29/saudi-arabia-us-carry-out-strikes-on-iran-backed-groups-in-iraq?traffic_source=rss",
    "published": "2026-07-29T01:37:23+00:00",
    "summary": "Riyadh says its targeted attacks were done in coordination with the US military.",
@@ -103,7 +138,7 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "Iran war live: US, Saudi forces attack Tehran-aligned groups in Iraq",
+   "title": "Iran war live: US, Saudi forces attack Iraq; IRGC fires missiles at Jordan",
    "url": "https://www.aljazeera.com/news/liveblog/2026/7/29/iran-war-live-us-accuses-irgc-of-surprise-ballistic-missile-attacks?traffic_source=rss",
    "published": "2026-07-29T00:00:00+00:00",
    "summary": "Attacks come as Saudi Arabia intercepts drones and Iran warns of &#039;any action&#039; to maintain its control of Hormuz.",
@@ -170,6 +205,17 @@
    "url": "https://en.irna.ir/news/86222389/Araghchi-stresses-to-Ukraine-FM-need-to-make-up-for-attack",
    "published": "2026-07-28T21:15:52+00:00",
    "summary": "Foreign Minister Abbas Araghchi and his Ukrainian counterpart, Andrii Sybiha, held a phone call on Tuesday evening few days after the attack on an Iranian cargo ship by Ukrainian forces in the Caspian Sea.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Araghchi stresses Ukraine needs to make up for attack",
+   "url": "https://en.irna.ir/news/86222389/Araghchi-stresses-Ukraine-needs-to-make-up-for-attack",
+   "published": "2026-07-28T21:15:00+00:00",
+   "summary": "Tehran, IRNA — Foreign Minister Abbas Araghchi and his Ukrainian counterpart have held a phone call a few days after the attack on an Iranian cargo ship by Ukrainian forces in the Caspian Sea.",
    "tags": [
     "strikes"
    ],
@@ -559,46 +605,6 @@
    "summary": "Moscow, IRNA – Iran’s Consul General in Russia’s Astrakhan, Ahmad Heydarian, says that legal action is underway against Ukraine over a drone attack on the Iranian vessel “Anna” in the Caspian Sea, which he condemned as an act of aggression.",
    "tags": [
     "strikes",
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Israeli settler attack on at-Tuwani",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/israeli-settler-attack-on-at-tuwani?traffic_source=rss",
-   "published": "2026-07-28T11:27:08+00:00",
-   "summary": "Settler attacks in the occupied West Bank are at record highs.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "General Assembly, 107th Meeting (AM) 28 July 2026",
-   "url": "https://press.un.org/en/blog/ga12774",
-   "published": "2026-07-28T11:08:45+00:00",
-   "summary": "At 10 a.m. the General Assembly will take action on draft decisions and draft resolutions on a range of topics, including the question of equitable representation on and increase in the membership of the Security Council and other matters related to the Security Council, South-South cooperation for development, peacekeeping operations, the Durban Declaration and Programme of Action, global health ",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Security Council, 10203rd Meeting (AM & PM) Middle East, Palestine",
-   "url": "https://press.un.org/en/blog/sc16423",
-   "published": "2026-07-28T11:08:42+00:00",
-   "summary": "At 10 a.m., the Security Council will hold its quarterly debate on the situation in the Middle East, including the Palestinian question, with briefings expected by Deputy Special Coordinator and Resident Coordinator at the Office of the UN Special Coordinator for the Middle East Peace Process Ramiz Alakbarov and High Representative of the Board of Peace to Gaza Nickolay Mladenov.",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Khorramshahr–Basra sea line launched to ease Arbaeen pilgrim travel",
-   "url": "https://en.irna.ir/news/86221877/Khorramshahr-Basra-sea-line-launched-to-ease-Arbaeen-pilgrim",
-   "published": "2026-07-28T10:36:15+00:00",
-   "summary": "Khorramshahr, IRNA – A new passenger sea line between Khorramshahr and Basra has been launched by the Islamic Republic of Iran Shipping Company to provide safe services and facilitate the travel of Arbaeen pilgrims.",
-   "tags": [
     "shipping"
    ],
    "highlight": false
