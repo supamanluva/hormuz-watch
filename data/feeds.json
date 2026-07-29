@@ -1,6 +1,84 @@
 {
- "asOf": "2026-07-29T08:16:43.781975+00:00",
+ "asOf": "2026-07-29T11:13:56.413060+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Russia charges Telegram founder Pavel Durov with ‘aiding terrorism’",
+   "url": "https://www.aljazeera.com/news/2026/7/29/russia-charges-telegram-founder-pavel-durov-with-aiding-terrorism?traffic_source=rss",
+   "published": "2026-07-29T10:18:49+00:00",
+   "summary": "Russia&#039;s FSB says Telegram has not pulled content used by Ukrainian intelligence and &#039;terrorist&#039; groups to plan attacks.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "PMF says 20 of its members lost lives in US, Saudi aggression against Iraq",
+   "url": "https://en.irna.ir/news/86222898/PMF-says-20-of-its-members-lost-lives-in-US-Saudi-aggression",
+   "published": "2026-07-29T09:55:03+00:00",
+   "summary": "Tehran, IRNA – At least 20 members of Iraq’s Popular Mobilization Forces (PMF) have been killed and 32 others wounded in a joint US-Saudi attack on the force’s positions in several Iraqi provinces, the PMF has said, adding that the casualty figures are not final.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Envoy: US–Israeli continued unlawful actions pose grave threat to int’l peace and security",
+   "url": "https://en.irna.ir/news/86222550/Envoy-US-Israeli-continued-unlawful-actions-pose-grave-threat",
+   "published": "2026-07-29T08:37:25+00:00",
+   "summary": "New York, IRNA – Ambassador and Deputy Permanent Representative of the Islamic Republic of Iran Gholamhossein Darzi says the continued unlawful actions by the United States and the Israeli regime pose a grave threat to international peace and security.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran, Iraq agree to enhance border security to facilitate Arbaeen pilgrimage",
+   "url": "https://en.irna.ir/news/86222693/Iran-Iraq-agree-to-enhance-border-security-to-facilitate-Arbaeen",
+   "published": "2026-07-29T08:33:57+00:00",
+   "summary": "Qasr-e Shirin, IRNA — Border security forces from Iran and Iraq have reached an agreement to strengthen joint border security and streamline Arbaeen pilgrims’ border crossing.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "US and Saudi Arabia strike ‘Iran-aligned’ groups in Iraq",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/us-and-saudi-arabia-strike-iran-aligned-groups-in-iraq?traffic_source=rss",
+   "published": "2026-07-29T08:33:39+00:00",
+   "summary": "The US and Saudi Arabia launched joint air strikes on Iraq, targeting ‘Iran-aligned’ groups.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Iran and Oman swap proposals to manage Strait of Hormuz: What we know",
+   "url": "https://www.aljazeera.com/news/2026/7/29/iran-and-oman-swap-proposals-to-manage-strait-of-hormuz-what-we-know?traffic_source=rss",
+   "published": "2026-07-29T08:16:06+00:00",
+   "summary": "Iran is proposing a deal that would see it have significantly more control than Oman.",
+   "tags": [
+    "diplomacy",
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Russian industrial sites on fire after Ukrainian drone attacks",
+   "url": "https://www.aljazeera.com/news/2026/7/29/russian-industrial-sites-on-fire-after-ukrainian-drone-attacks?traffic_source=rss",
+   "published": "2026-07-29T07:57:04+00:00",
+   "summary": "Russia&#039;s top online retailer Wildberries says it has evacuated warehouses in Ryazan.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Iran attacks US bases in Middle East as Trump meets Netanyahu",
@@ -31,6 +109,17 @@
    "url": "https://en.irna.ir/news/86222477/US-air-base-Central-Command-center-in-Jordan-targeted-IRGC",
    "published": "2026-07-29T05:33:17+00:00",
    "summary": "Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) says that its Aerospace Force has targeted a US air base and the US military’s Central Command center in Jordan with ballistic missiles.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "US air base, CENTCOM headquarters in Jordan targeted: IRGC",
+   "url": "https://en.irna.ir/news/86222477/US-air-base-CENTCOM-headquarters-in-Jordan-targeted-IRGC",
+   "published": "2026-07-29T05:33:17+00:00",
+   "summary": "Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) says that its Aerospace Force has targeted a US air base and the US military’s CENTCOM headquarters in Jordan with ballistic missiles.",
    "tags": [
     "strikes"
    ],
@@ -524,90 +613,6 @@
    "summary": "https://www. nist.gov/news-events/news/2026 /07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities",
    "tags": [],
    "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "She only went public because she was caught!Software vendor disputes NJ governor's ‘glitch’ claim, says state approves foreigners on voter roll:",
-   "url": "https://trumpstruth.org/statuses/40368",
-   "published": "2026-07-28T13:52:56+00:00",
-   "summary": "She only went public because she was caught! Software vendor disputes NJ governor's ‘glitch’ claim, says state approves foreigners on voter roll: https:// justthenews.com/nation/states/ software-vendor-disputes-nj-governors-glitch-claim-says-state-approved-foreigners",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "MIKE DAVIS: Why criminal referral of Jack Smith was 100% justified:",
-   "url": "https://trumpstruth.org/statuses/40369",
-   "published": "2026-07-28T13:52:30+00:00",
-   "summary": "MIKE DAVIS: Why criminal referral of Jack Smith was 100% justified: https://www. foxnews.com/opinion/mike-davis -why-criminal-referral-jack-smith-100-percent-justified",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "It was a Rigged Election that we must learn from. Never forget!",
-   "url": "https://trumpstruth.org/statuses/40370",
-   "published": "2026-07-28T13:52:13+00:00",
-   "summary": "It was a Rigged Election that we must learn from. Never forget! https://www. dailymail.com/news/article-159 93893/Trump-2020-election-win-biden-poll.html",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "China capable of playing effective role in establishing regional, global peace, says Iranian envoy",
-   "url": "https://en.irna.ir/news/86222100/China-capable-of-playing-effective-role-in-establishing-regional",
-   "published": "2026-07-28T13:30:53+00:00",
-   "summary": "Tehran, IRNA – Iran’s Ambassador to China, Abdolreza Rahmani-Fazli, has emphasized that China can play both a direct and an indirect role in establishing security and fostering regional and international peace.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Trump says ‘good chance’ of progress in Iran talks. What we know",
-   "url": "https://www.aljazeera.com/news/2026/7/28/trump-says-good-chance-of-progress-in-iran-talks-what-we-know?traffic_source=rss",
-   "published": "2026-07-28T13:06:02+00:00",
-   "summary": "Negotiators are trying to break the deadlock over transit fees and management of the Strait of Hormuz.",
-   "tags": [
-    "diplomacy",
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "‘We’re here to stay’: West Bank Palestinians defy Israeli attacks",
-   "url": "https://www.aljazeera.com/features/2026/7/28/were-here-to-stay-west-bank-palestinians-defy-israeli-attacks?traffic_source=rss",
-   "published": "2026-07-28T12:32:42+00:00",
-   "summary": "Settlers burned homes and a mosque in at-Tuwani. Residents say it is part of a campaign to push them off their land.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Why has Iran’s economy not collapsed under US war pressure?",
-   "url": "https://www.aljazeera.com/economy/2026/7/28/why-has-irans-economy-not-collapsed-under-us-war-pressure?traffic_source=rss",
-   "published": "2026-07-28T12:30:18+00:00",
-   "summary": "Millions in sanctions-hit country keep absorbing economic shockwaves, with analysts saying trend looks set to continue.",
-   "tags": [
-    "sanctions"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Legal action underway over Ukrainian attack on Iranian ship ‘Anna’: Diplomat",
-   "url": "https://en.irna.ir/news/86222056/Legal-action-underway-over-Ukrainian-attack-on-Iranian-ship-Anna",
-   "published": "2026-07-28T12:05:23+00:00",
-   "summary": "Moscow, IRNA – Iran’s Consul General in Russia’s Astrakhan, Ahmad Heydarian, says that legal action is underway against Ukraine over a drone attack on the Iranian vessel “Anna” in the Caspian Sea, which he condemned as an act of aggression.",
-   "tags": [
-    "strikes",
-    "shipping"
-   ],
-   "highlight": false
   }
  ]
 }
