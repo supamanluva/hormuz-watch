@@ -1,6 +1,29 @@
 {
- "asOf": "2026-07-29T13:49:48.732270+00:00",
+ "asOf": "2026-07-29T14:54:46.779413+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran strongly condemns US-Saudi strikes on Iraq",
+   "url": "https://en.irna.ir/news/86223183/Iran-strongly-condemns-US-Saudi-strikes-on-Iraq",
+   "published": "2026-07-29T14:30:58+00:00",
+   "summary": "Tehran, IRNA – Iran has condemned “aggressive attacks” attacks on Iraq by the US and Saudi Arabia, saying the strikes violated Iraq’s sovereignty and the UN Charter and were aimed at expanding conflict in West Asia.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "‘There is no ceasefire’ say Palestinians in Gaza after new Israeli strikes",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/there-is-no-ceasefire-say-palestinians-in-gaza-after-new-israeli-strikes?traffic_source=rss",
+   "published": "2026-07-29T14:09:09+00:00",
+   "summary": "&#039;There is no ceasefire&#039; say Palestinians in Gaza after new Israeli strikes",
+   "tags": [
+    "strikes",
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Iraqi presidency condemns US, Saudi attacks on Hashd al-Shaabi",
@@ -599,27 +622,6 @@
    "summary": "Prosecutors say they uncover video of accused Berlin Pride attacker pledging allegiance to ISIL (ISIS).",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Independent Audit Advisory Committee Holds Seventy-Fifth Session, 22-24 July",
-   "url": "https://press.un.org/en/2026/org1758.doc.htm",
-   "published": "2026-07-28T15:03:34+00:00",
-   "summary": "The Independent Audit Advisory Committee of the United Nations held its seventy-fifth session from 22 to 24 July at United Nations Headquarters in New York.",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "President Trump on Fox & Friends: America’s Unrelenting Strength Keeps Maximum Pressure on Iran",
-   "url": "https://www.whitehouse.gov/releases/2026/07/president-trump-on-fox-friends-americas-unrelenting-strength-keeps-maximum-pressure-on-iran/",
-   "published": "2026-07-28T15:00:00+00:00",
-   "summary": "This morning on Fox &#38; Friends, President Donald J. Trump delivered a clear, uncompromising update on U.S. operations against Iran. President Trump detailed total naval control of the Strait of Hormuz, unmatched U.S. intelligence and strike readiness, and a firm strategy that keeps maximum pressure on the Iranian regime while leaving the door open to [&#8230;] The post President Trump on Fox &a",
-   "tags": [
-    "strikes",
-    "shipping"
    ],
    "highlight": false
   }
