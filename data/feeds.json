@@ -1,6 +1,39 @@
 {
- "asOf": "2026-07-29T01:43:42.933642+00:00",
+ "asOf": "2026-07-29T05:13:25.522733+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Iran missiles target US forces in Jordan after a five-day pause in war",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/iran-missiles-target-us-forces-in-jordan-after-a-five-day-pause-in-war?traffic_source=rss",
+   "published": "2026-07-29T02:54:45+00:00",
+   "summary": "The US military says it has successfully intercepted a barrage of missiles fired by Iran at its troops in Jordan.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Israel kills Palestinian, destroys mosque in Gaza",
+   "url": "https://www.aljazeera.com/news/2026/7/29/israel-kills-palestinian-destroys-mosque-in-gaza?traffic_source=rss",
+   "published": "2026-07-29T02:45:59+00:00",
+   "summary": "Israeli settlers also attack a Palestinian family in Bethlehem in the occupied West Bank.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Saudi Arabia, US carry out strikes on Iran-backed groups in Iraq",
+   "url": "https://www.aljazeera.com/news/2026/7/29/saudi-arabia-us-carry-out-strikes-on-iran-backed-groups-in-iraq?traffic_source=rss",
+   "published": "2026-07-29T01:37:23+00:00",
+   "summary": "Riyadh says its targeted attacks were done in coordination with the US military.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Media not invited as Trump, Netanyahu hold talks at the White House",
@@ -567,41 +600,6 @@
    "summary": "Khorramshahr, IRNA – A new passenger sea line between Khorramshahr and Basra has been launched by the Islamic Republic of Iran Shipping Company to provide safe services and facilitate the travel of Arbaeen pilgrims.",
    "tags": [
     "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Minister: Iran, Turkmenistan discuss expanding ties in transport, energy, infrastructure",
-   "url": "https://en.irna.ir/news/86221823/Minister-Iran-Turkmenistan-discuss-expanding-ties-in-transport",
-   "published": "2026-07-28T10:03:22+00:00",
-   "summary": "Tehran, IRNA – Minister of Roads and Urban Development Farzaneh Sadegh has discussed ways to operationalize joint agreements with Turkmenistan in the fields of transport, energy, gas, electricity, and infrastructure development, as well as the formation of a joint committee to implement bilateral agreements.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Kremlin says Iran capable of defending its rights after Ukrainian assault on vessel",
-   "url": "https://en.irna.ir/news/86221652/Kremlin-says-Iran-capable-of-defending-its-rights-after-Ukrainian",
-   "published": "2026-07-28T08:28:28+00:00",
-   "summary": "Tehran, IRNA – Kremlin spokesperson Dmitry Peskov says Iran has the necessary capabilities to defend its rights, commenting on Ukraine’s drone attack on an Iranian commercial vessel in the Caspian Sea.",
-   "tags": [
-    "strikes",
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iraqi resistance rejects Saudi claim of drone attacks from Iraq’s soil",
-   "url": "https://en.irna.ir/news/86221550/Iraqi-resistance-rejects-Saudi-claim-of-drone-attacks-from-Iraq-s",
-   "published": "2026-07-28T06:55:32+00:00",
-   "summary": "Tehran, IRNA – The Islamic Resistance in Iraq has rejected Saudi Arabia’s claim that drone attacks against oil facilities in the kingdom originated from Iraqi territory, warning Riyadh against any “foolish action” based on the allegation.",
-   "tags": [
-    "strikes",
-    "oil"
    ],
    "highlight": false
   }
