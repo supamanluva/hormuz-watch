@@ -1,6 +1,29 @@
 {
- "asOf": "2026-07-29T17:35:51.928702+00:00",
+ "asOf": "2026-07-29T18:11:00.763999+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Iran pushes back against US as regional attacks heat up",
+   "url": "https://www.aljazeera.com/news/2026/7/29/iran-pushes-back-against-us-as-regional-attacks-heat-up?traffic_source=rss",
+   "published": "2026-07-29T17:45:27+00:00",
+   "summary": "New round of strikes raises fears of further escalation as Iran rejects Omani proposal for joint Hormuz oversight.",
+   "tags": [
+    "strikes",
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "UN Press",
+   "title": "Security Council Extends Sanctions Regime Targeting Non-State Armed Groups, Individuals in Central African Republic for One Year, Unanimously Adopting Resolution 2827 (2026)",
+   "url": "https://press.un.org/en/2026/sc16424.doc.htm",
+   "published": "2026-07-29T17:29:13+00:00",
+   "summary": "The Security Council today renewed the sanctions regime targeting non-State armed groups and individuals operating in the Central African Republic for another year.",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "[No Title] - Post from July 29, 2026",
@@ -127,6 +150,17 @@
    "summary": "The US says it intercepted an Iranian &#039;surprise attack&#039; on US forces as fears rise of wider war.",
    "tags": [
     "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "UN Press",
+   "title": "Security Council, 10204th Meeting (AM) Central African Republic",
+   "url": "https://press.un.org/en/blog/sc16424",
+   "published": "2026-07-29T11:28:57+00:00",
+   "summary": "The Security Council will vote on a draft resolution to extend the 2745 sanctions regime related to the Central African Republic, which expires at the end of the month, and renew the mandate of the Panel of Experts supporting the 2745 Sanctions Committee, which expires on 31 August. The sanctions regime covers an asset freeze and prevention of the supply, sale or transfer of weapons and military v",
+   "tags": [
+    "sanctions"
    ],
    "highlight": false
   },
@@ -597,37 +631,6 @@
    "summary": "Trump gives emotional tribute to fallen Army Lt Tyler Feehan after flying grieving family on Air Force One: https://www. foxnews.com/politics/trump-pay s-emotional-tribute-fallen-army-lt-tyler-feehan-flying-grieving-family-air-force-one",
    "tags": [],
    "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Tariffs pull, USMCA pushes: Toyota to Texas:",
-   "url": "https://trumpstruth.org/statuses/40376",
-   "published": "2026-07-28T17:24:57+00:00",
-   "summary": "Tariffs pull, USMCA pushes: Toyota to Texas: https:// thehill.com/opinion/white-hous e/5965989-toyota-texas-tacoma-tariffs-impact/",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "War on Iran: Phase II: Day 17",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/war-on-iran-phase-ii-day-17?traffic_source=rss",
-   "published": "2026-07-28T17:15:20+00:00",
-   "summary": "Political déjà vu as US President Donald Trump says negotiations with Iran are back on.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Ukraine’s Zelenskyy hails ‘good meeting’ with Trump at White House",
-   "url": "https://www.aljazeera.com/news/2026/7/28/ukraines-zelenskyy-hails-good-meeting-with-trump-at-white-house?traffic_source=rss",
-   "published": "2026-07-28T17:12:56+00:00",
-   "summary": "Discussions included joint production of Patriot missiles in Ukraine to bolster defence against Russian aerial attacks.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
   }
  ]
 }
