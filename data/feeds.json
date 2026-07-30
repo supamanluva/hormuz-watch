@@ -1,6 +1,17 @@
 {
- "asOf": "2026-07-30T12:18:41.772828+00:00",
+ "asOf": "2026-07-30T12:59:12.304554+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "IRGC strike obliterates 3 US F-35s, kills troops in Jordan",
+   "url": "https://en.irna.ir/news/86223773/IRGC-strike-obliterates-3-US-F-35s-kills-troops-in-Jordan",
+   "published": "2026-07-30T12:25:43+00:00",
+   "summary": "Tehran, IRNA — The Aerospace Force of the Islamic Revolution Guards Corps (IRGC) has announced it has destroyed three American F-35 fighter jets and killed US military personnel in a retaliatory missile strike on Al Azraq Air Base in Jordan.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Israeli strikes kill at least four, including children, across Gaza Strip",
@@ -464,10 +475,10 @@
   },
   {
    "source": "IRNA (Iran state wire)",
-   "title": "Iran strongly condemns US-Saudi strikes on Iraq",
+   "title": "Iran strongly condemns US–Saudi strikes on Iraq",
    "url": "https://en.irna.ir/news/86223183/Iran-strongly-condemns-US-Saudi-strikes-on-Iraq",
    "published": "2026-07-29T14:30:58+00:00",
-   "summary": "Tehran, IRNA – Iran has condemned “aggressive attacks” on Iraq by the US and Saudi Arabia, saying the strikes violated Iraq’s sovereignty and the UN Charter and were aimed at expanding conflict in West Asia.",
+   "summary": "Tehran, IRNA — Iran has condemned “aggressive attacks” on Iraq by the US and Saudi Arabia, saying the strikes violated Iraq’s sovereignty and the UN Charter and were aimed at expanding conflict in West Asia.",
    "tags": [
     "strikes"
    ],
@@ -633,15 +644,6 @@
    "summary": "THE MASSIE MASSACRE in the Great Commonwealth of Kentucky has had a really great impact on Senator Rand Paul who will be running in two years. He’s been terrific, lately! President DJT",
    "tags": [],
    "highlight": true
-  },
-  {
-   "source": "UN Press",
-   "title": "From Gaza to Gulf, Peace in Middle East Hinges on Resolving Israel-Palestinian Conflict, Security Council Speakers Stress, amid Calls for Political Progress",
-   "url": "https://press.un.org/en/2026/sc16423.doc.htm",
-   "published": "2026-07-28T21:58:25+00:00",
-   "summary": "In a Middle East aflame with tensions, from Gaza to the Gulf, resolving the Palestine-Israel conflict remains central to wider peace, the Security Council heard today.",
-   "tags": [],
-   "highlight": false
   }
  ]
 }
