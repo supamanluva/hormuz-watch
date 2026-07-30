@@ -1,9 +1,30 @@
 {
- "asOf": "2026-07-30T00:55:45.957391+00:00",
+ "asOf": "2026-07-30T02:42:50.735072+00:00",
  "items": [
   {
    "source": "Al Jazeera",
-   "title": "Russian ballistic missile strikes on Kyiv come after Zelenskyy’s warning",
+   "title": "Japan turns to Canadian crude as Asia feels Hormuz supply pinch",
+   "url": "https://www.aljazeera.com/news/2026/7/30/japan-turns-to-canadian-crude-as-asia-feels-hormuz-supply-pinch?traffic_source=rss",
+   "published": "2026-07-30T01:42:30+00:00",
+   "summary": "Uncertainty over crude oil supplies via the Strait of Hormuz is pushing Asian states towards Canada&#039;s TMX crude oil.",
+   "tags": [
+    "shipping",
+    "oil"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "Thank you Abe! President DJT",
+   "url": "https://trumpstruth.org/statuses/40394",
+   "published": "2026-07-30T01:18:18+00:00",
+   "summary": "Thank you Abe! President DJT",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "One killed in Russian missile strikes on Kyiv, day after Zelenskyy warning",
    "url": "https://www.aljazeera.com/news/2026/7/30/russia-ballistic-missile-strikes-on-kyiv-come-after-zelenskyys-warning?traffic_source=rss",
    "published": "2026-07-30T00:23:13+00:00",
    "summary": "Returning from the US, Zelenskyy says Ukraine&#039;s safety depends on allies’ willingness to provide anti-missile defences.",
@@ -14,7 +35,7 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "Iran war live: Trump threatens to hit ‘very hard’ over strikes on Jordan",
+   "title": "Iran war live: US launches ‘powerful’ strikes after IRGC attack on Jordan",
    "url": "https://www.aljazeera.com/news/liveblog/2026/7/30/iran-war-live-trump-threatens-to-hit-back-hard-over-strikes-on-jordan?traffic_source=rss",
    "published": "2026-07-30T00:00:00+00:00",
    "summary": "Threat comes as Iranian media report that four Iranians were killed in joint US-Saudi attacks in Iraq.",
@@ -531,18 +552,6 @@
    "highlight": true
   },
   {
-   "source": "Al Jazeera",
-   "title": "Iran war live: US, Saudi forces attack Iraq; IRGC fires missiles at Jordan",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/7/29/iran-war-live-us-accuses-irgc-of-surprise-ballistic-missile-attacks?traffic_source=rss",
-   "published": "2026-07-29T00:00:00+00:00",
-   "summary": "Attacks come as Saudi Arabia intercepts drones and Iran warns of &#039;any action&#039; to maintain its control of Hormuz.",
-   "tags": [
-    "strikes",
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
    "source": "Trump · Truth Social",
    "title": "Congratulations to the Great Jay Clayton on his confirmation by the United States Senate, to be the next Director of National Intelligence. Jay is outstanding in every way, and will do a spectacular job as Director! President DONALD J. TRUMP",
    "url": "https://trumpstruth.org/statuses/40384",
@@ -630,15 +639,6 @@
     "diplomacy"
    ],
    "highlight": false
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "RT @realDonaldTrumpWe’re going to bring this heroic young man, and his family, into the White House with, perhaps, the boy he saved, to give him a High Civilian Honor. Very brave, he deserves it! President DONALD J. TRUMP",
-   "url": "https://trumpstruth.org/statuses/40383",
-   "published": "2026-07-28T17:30:24+00:00",
-   "summary": "RT @ realDonaldTrump We’re going to bring this heroic young man, and his family, into the White House with, perhaps, the boy he saved, to give him a High Civilian Honor. Very brave, he deserves it! President DONALD J. TRUMP",
-   "tags": [],
-   "highlight": true
   }
  ]
 }
