@@ -1,6 +1,29 @@
 {
- "asOf": "2026-07-30T07:05:27.486596+00:00",
+ "asOf": "2026-07-30T09:03:35.355360+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "US strikes cause extensive damage on Iran’s Qeshm Island",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/us-strikes-cause-extensive-damage-on-irans-qeshm-island?traffic_source=rss",
+   "published": "2026-07-30T07:24:55+00:00",
+   "summary": "Video from Iran&#039;s Qeshm Island shows widespread damage following US attacks.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "In the waters off Malaysia, Iranian oil sales continue despite blockade",
+   "url": "https://www.aljazeera.com/news/2026/7/30/in-the-waters-off-malaysia-iranian-oil-sales-continue-despite-blockade?traffic_source=rss",
+   "published": "2026-07-30T07:02:42+00:00",
+   "summary": "A large anchorage area off the coast of Malaysia is a major marketplace for sanctioned oil.",
+   "tags": [
+    "sanctions",
+    "oil"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "IRGC warns of harsh response to countries involved in aiding US aggression",
@@ -29,7 +52,7 @@
    "title": "US launches ‘heavy wave’ of new strikes on Iran",
    "url": "https://www.aljazeera.com/news/2026/7/30/us-launches-another-round-of-attacks-on-iran?traffic_source=rss",
    "published": "2026-07-30T03:56:07+00:00",
-   "summary": "Iranian media report that a couple and their two-year-old child were killed in latest US attacks on Qeshm Island.",
+   "summary": "Iranian media report that a couple and their two-year-old child were killed in the latest US attacks on Qeshm island.",
    "tags": [
     "strikes"
    ],
@@ -491,28 +514,6 @@
    "url": "https://en.irna.ir/news/86222477/US-air-base-CENTCOM-headquarters-in-Jordan-targeted-IRGC",
    "published": "2026-07-29T05:33:17+00:00",
    "summary": "Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) says that its Aerospace Force has targeted a US air base and the US military’s CENTCOM headquarters in Jordan with ballistic missiles.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iran missiles target US forces in Jordan after a five-day pause in war",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/iran-missiles-target-us-forces-in-jordan-after-a-five-day-pause-in-war?traffic_source=rss",
-   "published": "2026-07-29T02:54:45+00:00",
-   "summary": "The US military says it has successfully intercepted a barrage of missiles fired by Iran at its troops in Jordan.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Israel kills Palestinian, destroys mosque in Gaza",
-   "url": "https://www.aljazeera.com/news/2026/7/29/israel-kills-palestinian-destroys-mosque-in-gaza?traffic_source=rss",
-   "published": "2026-07-29T02:45:59+00:00",
-   "summary": "Israeli settlers also attack a Palestinian family in Bethlehem in the occupied West Bank.",
    "tags": [
     "strikes"
    ],
