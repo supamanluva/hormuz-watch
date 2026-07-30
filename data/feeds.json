@@ -1,6 +1,70 @@
 {
- "asOf": "2026-07-30T15:28:58.304860+00:00",
+ "asOf": "2026-07-30T17:40:56.411935+00:00",
  "items": [
+  {
+   "source": "Trump · Truth Social",
+   "title": "President Trump Makes an Announcement with the Secretary of Transportation:",
+   "url": "https://trumpstruth.org/statuses/40396",
+   "published": "2026-07-30T17:09:36+00:00",
+   "summary": "President Trump Makes an Announcement with the Secretary of Transportation: https:// youtube.com/watch?v=sCPQKhHlN9 k&amp;t=1016s&amp;pp=2AH4B5ACAdIHCQlkAqO1ajebQw%3D%3D&amp;ra=m",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "‘To play God’: Cuba’s healthcare system collapses under US pressure",
+   "url": "https://www.aljazeera.com/news/longform/2026/7/30/to-play-god-cubas-healthcare-system-collapses-under-us-pressure?traffic_source=rss",
+   "published": "2026-07-30T16:34:12+00:00",
+   "summary": "As the Trump administration tightens US sanctions, Cuba&#039;s healthcare sector struggles with fuel and supply shortages.",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "NATO jets scramble as Russian missile detonates in Poland",
+   "url": "https://www.aljazeera.com/news/2026/7/30/nato-jets-scramble-as-russian-missile-detonates-in-poland?traffic_source=rss",
+   "published": "2026-07-30T16:28:51+00:00",
+   "summary": "The growing series of NATO airspace violations is raising concern that Russia&#039;s war on Ukraine could escalate.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "IRGC video of retaliatory strikes on US targets in Jordan",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/irgc-video-of-retaliatory-strikes-on-us-targets-in-jordan?traffic_source=rss",
+   "published": "2026-07-30T16:06:08+00:00",
+   "summary": "The IRGC released a video of what they say were missiles launched by their naval forces targeting US aircraft in Jordan.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Araghchi: Any participation in military attacks against Iran will carry consequences",
+   "url": "https://en.irna.ir/news/86223863/Araghchi-Any-participation-in-military-attacks-against-Iran",
+   "published": "2026-07-30T15:55:31+00:00",
+   "summary": "Tehran, IRNA — Foreign Minister Abbas Araghchi says that any party that participates, in any way, in committing a military attack against Iran must accept responsibility for its consequences.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Tehran urges Cyprus not to let foreign bases be used for attacks against Iran",
+   "url": "https://en.irna.ir/news/86223882/Tehran-urges-Cyprus-not-to-let-foreign-bases-be-used-for-attacks",
+   "published": "2026-07-30T15:28:48+00:00",
+   "summary": "Tehran, IRNA — Foreign Minister Abbas Araghchi urged Cyprus to prevent hostile forces from using foreign military bases on the island for acts of aggression against Iran.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "Todd Blanche is a STAR, and everyone knows it! He has the potential to go down as one of the Greatest Attorney Generals of All Time. However, John Cornyn, of Texas, and Thom Tillis, of North Carolina, both of whom I refused to Endorse, and whose political careers have been ended by my action, are refusing to vote for this Great Nominee, who will remain, in any event, as Acting. Remember, both Cornyn and Tillis voted for Merrick Garland, and others, too numerous to mention. I have no objection to temporarily withdrawing Todd’s name, if they do not do the right thing, and putting him back after Cornyn and Tillis are out of office. President DONALD J. TRUMP",
@@ -351,17 +415,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "Videos show aftermath of US-Saudi strikes on Iraq PMF bases",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/videos-show-aftermath-of-us-saudi-strikes-on-iraq-pmf-bases?traffic_source=rss",
-   "published": "2026-07-29T20:31:10+00:00",
-   "summary": "US and Saudi forces launched coordinated airstrikes targeting Iran-backed Popular Mobilisation Forces (PMF) bases",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
    "source": "White House",
    "title": "Presidential Message on the Birthday of Alexis de Tocqueville",
    "url": "https://www.whitehouse.gov/briefings-statements/2026/07/presidential-message-on-the-birthday-of-alexis-de-tocqueville/",
@@ -369,17 +422,6 @@
    "summary": "Today, our Nation honors the life, legacy, and enduring wisdom of Alexis de Tocqueville—a great witness to the promise of our young Republic and one of the most brilliant political minds in the history of the world. In May of 1831, French magistrate Alexis de Tocqueville arrived on American soil for the first time, beginning [&#8230;] The post Presidential Message on the Birthday of Alexis de Tocq",
    "tags": [
     "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Al-Shabab kills five Kenyan security personnel in ambush",
-   "url": "https://www.aljazeera.com/news/2026/7/29/al-shabab-kills-five-kenyan-security-personnel-in-ambush?traffic_source=rss",
-   "published": "2026-07-29T19:06:38+00:00",
-   "summary": "The ambush is part of a rapid surge in cross-border attacks along Kenya&#039;s northern frontier.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   },
@@ -408,20 +450,8 @@
    "title": "Army Chief: Armed Forces will defend Iran’s soil, independence against aggressors to their last breath",
    "url": "https://en.irna.ir/news/86223313/Army-Chief-Armed-Forces-will-defend-Iran-s-soil-independence",
    "published": "2026-07-29T18:21:00+00:00",
-   "summary": "Tehran, IRNA — The commander of the Islamic Republic of Iran’s Army, Major General Amir Hatami, has congratulated and offered condolences on the martyrdom of Brigadier General Majid Kazemi, the heroic pilot of the Sukhoi 24, and emphasized that the Army is true to its promise to the nation and will defend the sacred the Islamic System and the pure soil of Iran and its independence against aggresso",
+   "summary": "Tehran, IRNA — The commander of the Islamic Republic of Iran’s Army, Major General Amir Hatami, has congratulated and offered condolences on the martyrdom of Brigadier General Majid Kazemi, the heroic pilot of the Sukhoi 24.",
    "tags": [
-    "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Fire erupts on ships at Egypt’s Damietta port",
-   "url": "https://www.aljazeera.com/news/2026/7/29/fire-erupts-on-ships-at-egypts-damietta-port?traffic_source=rss",
-   "published": "2026-07-29T18:01:57+00:00",
-   "summary": "Oil ministry says no injuries in incident affecting two vessels, with port operations expected to resume overnight.",
-   "tags": [
-    "shipping",
     "oil"
    ],
    "highlight": false
@@ -620,33 +650,6 @@
     "strikes"
    ],
    "highlight": false
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Senator Ron Johnson is working hard with Senate Republican Leadership to adopt a Budget Resolution before the August recess. This is the first step towards getting as much of THE SAVE AMERICA ACT as possible in a Budget Bill, funding our Troops, and helping our Farmers. I am calling on the Senate to get this critical first step done before the August recess. This Resolution can be adopted at a simple Majority threshold. GET IT DONE! Thank you for your attention to this matter. President DONALD J. TRUMP",
-   "url": "https://trumpstruth.org/statuses/40390",
-   "published": "2026-07-29T01:09:06+00:00",
-   "summary": "Senator Ron Johnson is working hard with Senate Republican Leadership to adopt a Budget Resolution before the August recess. This is the first step towards getting as much of THE SAVE AMERICA ACT as possible in a Budget Bill, funding our Troops, and helping our Farmers. I am calling on the Senate to get this critical first step done before the August recess. This Resolution can be adopted at a sim",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "It is my Great Honor to endorse Amir Hassan, who is running to represent the fantastic people of Michigan’s 8th Congressional District! From bravely fighting for our incredible U.S. Navy, to protecting his Community as a Federal Law Enforcement Officer, Amir has served our Nation with distinction, and will bring that same Fighting Spirit to the U.S. Congress. His opponent, Kristen McDonald Rivet, voted against NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if she and the Dumocrats ever got in, all of these things would be terminated. She wants massive Tax Increases, Open Borders, Men playing in Women’s Sports, and Transgender for Everybody. On the other hand, Amir will work hard to Grow the Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Champion American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Strengthen our Great Military/Veterans, and Defend our always under siege Second Amendment. Amir Hassan has my Complete and Total Endorsement to be the next Representative from Michigan’s 8th Congressional District — HE WILL NEVER LET YOU DOWN!",
-   "url": "https://trumpstruth.org/statuses/40388",
-   "published": "2026-07-29T00:59:25+00:00",
-   "summary": "It is my Great Honor to endorse Amir Hassan, who is running to represent the fantastic people of Michigan’s 8th Congressional District! From bravely fighting for our incredible U.S. Navy, to protecting his Community as a Federal Law Enforcement Officer, Amir has served our Nation with distinction, and will bring that same Fighting Spirit to the U.S. Congress. His opponent, Kristen McDonald Rivet, ",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Prime Minister Bibi Netanyahu of Israel, along with myself and Representatives. Had a very good meeting! Obviously, many important subjects were discussed. President DONALD J. TRUMP",
-   "url": "https://trumpstruth.org/statuses/40389",
-   "published": "2026-07-29T00:57:07+00:00",
-   "summary": "Prime Minister Bibi Netanyahu of Israel, along with myself and Representatives. Had a very good meeting! Obviously, many important subjects were discussed. President DONALD J. TRUMP",
-   "tags": [],
-   "highlight": true
   }
  ]
 }
