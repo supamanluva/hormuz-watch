@@ -1,6 +1,39 @@
 {
- "asOf": "2026-07-30T02:42:50.735072+00:00",
+ "asOf": "2026-07-30T06:01:39.020979+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "US launches ‘powerful’ strikes on Iran after Jordan attack",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/us-launches-powerful-strikes-on-iran-after-jordan-attack?traffic_source=rss",
+   "published": "2026-07-30T04:55:36+00:00",
+   "summary": "The US has bombed multiple cities across southern Iran in what Central Command described as a ‘heavy wave of strikes’.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "US launches another round of attacks on Iran",
+   "url": "https://www.aljazeera.com/news/2026/7/30/us-launches-another-round-of-attacks-on-iran?traffic_source=rss",
+   "published": "2026-07-30T03:56:07+00:00",
+   "summary": "Targets across southern Iran hit, including on strategic Qeshm Island.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Israeli strikes leave buildings burning in Gaza City",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/israeli-strikes-leave-buildings-burning-in-gaza-city?traffic_source=rss",
+   "published": "2026-07-30T03:49:25+00:00",
+   "summary": "Israeli strikes have displaced dozens of families in Gaza City&#039;s Shati refugee camp.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Japan turns to Canadian crude as Asia feels Hormuz supply pinch",
@@ -24,7 +57,7 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "One killed in Russian missile strikes on Kyiv, day after Zelenskyy warning",
+   "title": "Seven killed in Russian strikes on Kyiv, a day after Zelenskyy warning",
    "url": "https://www.aljazeera.com/news/2026/7/30/russia-ballistic-missile-strikes-on-kyiv-come-after-zelenskyys-warning?traffic_source=rss",
    "published": "2026-07-30T00:23:13+00:00",
    "summary": "Returning from the US, Zelenskyy says Ukraine&#039;s safety depends on allies’ willingness to provide anti-missile defences.",
@@ -35,10 +68,10 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "Iran war live: US launches ‘powerful’ strikes after IRGC attack on Jordan",
+   "title": "Iran war live: US attack kills Iranian couple, toddler on Qeshm Island",
    "url": "https://www.aljazeera.com/news/liveblog/2026/7/30/iran-war-live-trump-threatens-to-hit-back-hard-over-strikes-on-jordan?traffic_source=rss",
    "published": "2026-07-30T00:00:00+00:00",
-   "summary": "Threat comes as Iranian media report that four Iranians were killed in joint US-Saudi attacks in Iraq.",
+   "summary": "US strike hits residential building on Qeshm, killing an Iranian couple and their two year old child.",
    "tags": [
     "strikes"
    ],
@@ -474,28 +507,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "Iraqi armed groups condemn ‘dangerous escalation’ after US-Saudi strikes",
-   "url": "https://www.aljazeera.com/news/2026/7/29/saudi-arabia-us-carry-out-strikes-on-iran-backed-groups-in-iraq?traffic_source=rss",
-   "published": "2026-07-29T01:37:23+00:00",
-   "summary": "Riyadh says its targeted attacks were done in coordination with the US military.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Media not invited as Trump, Netanyahu hold talks at the White House",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/media-not-invited-as-trump-netanyahu-hold-talks-at-the-white-house?traffic_source=rss",
-   "published": "2026-07-29T01:19:55+00:00",
-   "summary": "US President Donald Trump has held talks at the White House with Israeli Prime Minister Benjamin Netanyahu.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
    "source": "Trump · Truth Social",
    "title": "Senator Ron Johnson is working hard with Senate Republican Leadership to adopt a Budget Resolution before the August recess. This is the first step towards getting as much of THE SAVE AMERICA ACT as possible in a Budget Bill, funding our Troops, and helping our Farmers. I am calling on the Senate to get this critical first step done before the August recess. This Resolution can be adopted at a simple Majority threshold. GET IT DONE! Thank you for your attention to this matter. President DONALD J. TRUMP",
    "url": "https://trumpstruth.org/statuses/40390",
@@ -503,17 +514,6 @@
    "summary": "Senator Ron Johnson is working hard with Senate Republican Leadership to adopt a Budget Resolution before the August recess. This is the first step towards getting as much of THE SAVE AMERICA ACT as possible in a Budget Bill, funding our Troops, and helping our Farmers. I am calling on the Senate to get this critical first step done before the August recess. This Resolution can be adopted at a sim",
    "tags": [],
    "highlight": true
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Turkiye takes ‘historic step’ on energy alliance with Iraq",
-   "url": "https://www.aljazeera.com/news/2026/7/29/turkiye-takes-historic-step-on-energy-alliance-with-iraq?traffic_source=rss",
-   "published": "2026-07-29T01:07:09+00:00",
-   "summary": "Ankara could receive 1 million barrels per day of Iraqi oil after Turkish Petroleum stake in BP-run Kirkuk oilfield.",
-   "tags": [
-    "oil"
-   ],
-   "highlight": false
   },
   {
    "source": "Trump · Truth Social",
