@@ -1,12 +1,23 @@
 {
- "asOf": "2026-07-30T00:10:33.979479+00:00",
+ "asOf": "2026-07-30T00:55:45.957391+00:00",
  "items": [
   {
    "source": "Al Jazeera",
-   "title": "Iran war live: Trump threatens to hit back hard over strikes on Jordan",
+   "title": "Russian ballistic missile strikes on Kyiv come after Zelenskyy’s warning",
+   "url": "https://www.aljazeera.com/news/2026/7/30/russia-ballistic-missile-strikes-on-kyiv-come-after-zelenskyys-warning?traffic_source=rss",
+   "published": "2026-07-30T00:23:13+00:00",
+   "summary": "Returning from the US, Zelenskyy says Ukraine&#039;s safety depends on allies’ willingness to provide anti-missile defences.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Iran war live: Trump threatens to hit ‘very hard’ over strikes on Jordan",
    "url": "https://www.aljazeera.com/news/liveblog/2026/7/30/iran-war-live-trump-threatens-to-hit-back-hard-over-strikes-on-jordan?traffic_source=rss",
    "published": "2026-07-30T00:00:00+00:00",
-   "summary": "Threat comes as Iranian media says four Iranians were killed in joint US-Saudi attacks on Iraq.",
+   "summary": "Threat comes as Iranian media report that four Iranians were killed in joint US-Saudi attacks in Iraq.",
    "tags": [
     "strikes"
    ],
@@ -548,19 +559,6 @@
    "summary": "THE MASSIE MASSACRE in the Great Commonwealth of Kentucky has had a really great impact on Senator Rand Paul who will be running in two years. He’s been terrific, lately! President DJT",
    "tags": [],
    "highlight": true
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Yemen’s Houthis claim missile attack on Saudi Arabia oil tanker",
-   "url": "https://www.aljazeera.com/news/2026/7/28/yemens-houthis-claim-missile-attack-on-saudi-arabia-oil-tanker?traffic_source=rss",
-   "published": "2026-07-28T23:16:44+00:00",
-   "summary": "The Houthis recently declared a naval blockade on Saudi Arabia in the Red Sea, targeting several tankers.",
-   "tags": [
-    "strikes",
-    "shipping",
-    "oil"
-   ],
-   "highlight": false
   },
   {
    "source": "UN Press",
