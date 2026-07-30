@@ -1,6 +1,17 @@
 {
- "asOf": "2026-07-29T23:46:14.993844+00:00",
+ "asOf": "2026-07-30T00:10:33.979479+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Iran war live: Trump threatens to hit back hard over strikes on Jordan",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/7/30/iran-war-live-trump-threatens-to-hit-back-hard-over-strikes-on-jordan?traffic_source=rss",
+   "published": "2026-07-30T00:00:00+00:00",
+   "summary": "Threat comes as Iranian media says four Iranians were killed in joint US-Saudi attacks on Iraq.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Saudi Arabia seeks international coalition against Houthis in Red Sea",
@@ -558,17 +569,6 @@
    "published": "2026-07-28T21:58:25+00:00",
    "summary": "In a Middle East aflame with tensions, from Gaza to the Gulf, resolving the Palestine-Israel conflict remains central to wider peace, the Security Council heard today.",
    "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Israeli airstrike destroys Gaza City mosque near displacement camp",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/israeli-airstrike-destroys-gaza-city-mosque-near-displacement-camp?traffic_source=rss",
-   "published": "2026-07-28T21:24:20+00:00",
-   "summary": "Video footage captures an Israeli airstrike hitting Al-Muttaqin Mosque in Gaza City, next to Yarmouk Stadium",
-   "tags": [
-    "strikes"
-   ],
    "highlight": false
   },
   {
