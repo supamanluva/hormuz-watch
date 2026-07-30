@@ -1,6 +1,18 @@
 {
- "asOf": "2026-07-30T06:01:39.020979+00:00",
+ "asOf": "2026-07-30T07:05:27.486596+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "IRGC warns of harsh response to countries involved in aiding US aggression",
+   "url": "https://en.irna.ir/news/86223506/IRGC-warns-of-harsh-response-to-countries-involved-in-aiding",
+   "published": "2026-07-30T06:40:10+00:00",
+   "summary": "Tehran, IRNA – The Islamic Revolution Guards Corpse (IRGC) has once again warned against any complicity in the US attacks and crimes in Iran, stressing that any country involved in aiding the aggressor would be dealt with firmly and harshly.",
+   "tags": [
+    "strikes",
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "US launches ‘powerful’ strikes on Iran after Jordan attack",
@@ -14,10 +26,10 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "US launches another round of attacks on Iran",
+   "title": "US launches ‘heavy wave’ of new strikes on Iran",
    "url": "https://www.aljazeera.com/news/2026/7/30/us-launches-another-round-of-attacks-on-iran?traffic_source=rss",
    "published": "2026-07-30T03:56:07+00:00",
-   "summary": "Targets across southern Iran hit, including on strategic Qeshm Island.",
+   "summary": "Iranian media report that a couple and their two-year-old child were killed in latest US attacks on Qeshm Island.",
    "tags": [
     "strikes"
    ],
@@ -57,7 +69,7 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "Seven killed in Russian strikes on Kyiv, a day after Zelenskyy warning",
+   "title": "At least 14 killed as Russia strikes Ukraine a day after Zelenskyy warning",
    "url": "https://www.aljazeera.com/news/2026/7/30/russia-ballistic-missile-strikes-on-kyiv-come-after-zelenskyys-warning?traffic_source=rss",
    "published": "2026-07-30T00:23:13+00:00",
    "summary": "Returning from the US, Zelenskyy says Ukraine&#039;s safety depends on allies’ willingness to provide anti-missile defences.",
@@ -624,17 +636,6 @@
    "url": "https://press.un.org/en/2026/ga12774.doc.htm",
    "published": "2026-07-28T20:05:01+00:00",
    "summary": "After taking stock of progress towards Security Council reform and looking ahead to future negotiations on that topic, the General Assembly today adopted several texts relating to upcoming reviews and meetings, as well as to its Second Committee (Economic and Financial) and Fourth Committee (Special Political and Decolonization).",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran, Ukraine foreign ministers hold talks over phone",
-   "url": "https://en.irna.ir/news/86222350/Iran-Ukraine-foreign-ministers-hold-talks-over-phone",
-   "published": "2026-07-28T19:33:31+00:00",
-   "summary": "Tehran, IRNA – Foreign Minister Abbas Araghchi and Ukrainian Foreign Minister Andrii Sybiha held a phone call on Tuesday evening.",
    "tags": [
     "diplomacy"
    ],
