@@ -1,6 +1,100 @@
 {
- "asOf": "2026-07-30T20:12:46.403097+00:00",
+ "asOf": "2026-07-30T21:33:20.592408+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iranian envoy, president of Montenegro stress expansion of bilateral ties",
+   "url": "https://en.irna.ir/news/86224048/Iranian-envoy-president-of-Montenegro-stress-expansion-of-bilateral",
+   "published": "2026-07-30T21:16:34+00:00",
+   "summary": "Tehran, IRNA – The accredited ambassador of the Islamic Republic of Iran to Montenegro, while presenting his credentials during a meeting with that country's president, emphasized that Iran is determined to develop and strengthen relations with all interested nations based on mutual respect and shared interests.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Will Saudi Arabia be dragged further into the war in Iran?",
+   "url": "https://www.aljazeera.com/video/inside-story/2026/7/30/will-saudi-arabia-be-dragged-further-into-the-war-in-iran?traffic_source=rss",
+   "published": "2026-07-30T21:00:28+00:00",
+   "summary": "Anger in Iraq after US-Saudi strikes on paramilitary group with ties to Tehran.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "UN Press",
+   "title": "Security Council Sanctions Committee Established Pursuant to Resolution 1988 (2011) Amends Five Names on Its Sanctions List",
+   "url": "https://press.un.org/en/2026/sc16425.doc.htm",
+   "published": "2026-07-30T20:46:23+00:00",
+   "summary": "On 30 July 2026, the Security Council Committee established pursuant to resolution 1988 (2011) enacted the amendments specified with strikethrough and/or underline in the entries below on its 1988 List of individuals and entities subject to the assets freeze, travel ban and arms embargo set out in paragraph 1 of Security Council resolution 2816 (2026), and adopted under Chapter VII of the Charter ",
+   "tags": [
+    "strikes",
+    "sanctions"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Security camera shows ‘Russian missile’ exploding in Poland",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/security-camera-shows-russian-missile-exploding-in-poland?traffic_source=rss",
+   "published": "2026-07-30T20:39:38+00:00",
+   "summary": "Security camera video shows the moment a suspected Russian missile exploded inside Poland.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "White House",
+   "title": "Fact Sheet: President Donald J. Trump Delegates Defense Production Act Authority with Respect to Recoverable Critical Minerals and Materials That Are Essential to Our National Defense",
+   "url": "https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-delegates-defense-production-act-authority-with-respect-to-recoverable-critical-minerals-and-materials-that-are-essential-to-our-national-defense/",
+   "published": "2026-07-30T20:34:56+00:00",
+   "summary": "SECURING AMERICA’S SUPPLY CHAINS:&#160;Today, President Donald J. Trump signed a Presidential Determination delegating authority under the Defense Production Act to institute export restrictions on recoverable critical minerals and materials (CMMs). ENSURING OUR NATIONAL DEFENSE:&#160;President Trump is taking action to ensure that the United States has the&#160;industrial resources necessary to e",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "White House",
+   "title": "Presidential Permit: Authorizing Cameron County, Texas, To Own, Operate, and Maintain the Brownsville and Matamoros Bridge in Brownsville, Texas",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/07/presidential-permit-authorizing-cameron-county-texas-to-own-operate-and-maintain-the-brownsville-and-matamoros-bridge-in-brownsville-texas/",
+   "published": "2026-07-30T20:34:13+00:00",
+   "summary": "By virtue of the authority vested in me as President of the United States of America (the &#8220;President&#8221;), I hereby grant permission, subject to the conditions set forth herein, to Cameron County, Texas (the &#8220;permittee&#8221;), to own, operate, and maintain a vehicular, pedestrian, and bicycle crossing, known as the Brownsville and Matamoros Bridge (B&#38;M Bridge), [&#8230;] The po",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "White House",
+   "title": "Presidential Determination Pursuant to Section 101 of the Defense Production Act of 1950, as Amended, on Recoverable Critical Minerals and Materials",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/07/presidential-determination-pursuant-to-section-101-of-the-defense-production-act-of-1950-as-amended-on-recoverable-critical-minerals-and-materials/",
+   "published": "2026-07-30T20:33:26+00:00",
+   "summary": "MEMORANDUM FOR THE SECRETARY OF COMMERCE SUBJECT: Presidential Determination Pursuant to Section 101 of the Defense Production Act of 1950, as Amended, on Recoverable Critical Minerals and Materials Section 1. Policy and General Findings. (a) Recoverable critical minerals and materials (CMMs) are industrial resources necessary to promote the national defense. (b) &#160;America&#8217;s inadequate s",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "US authorities probe cyberattack on water systems in Minnesota",
+   "url": "https://www.aljazeera.com/news/2026/7/30/us-authorities-probe-cyberattack-on-water-systems-in-minnesota?traffic_source=rss",
+   "published": "2026-07-30T20:32:13+00:00",
+   "summary": "A cyberattack targeted more than 30 water facilities in the Midwestern US state earlier this week.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Pakistan coal mine explosion kills at least 11, traps dozens",
+   "url": "https://www.aljazeera.com/news/2026/7/30/pakistan-coal-mine-explosion-kills-at-least-11-traps-dozens?traffic_source=rss",
+   "published": "2026-07-30T20:07:56+00:00",
+   "summary": "Accidents common in Pakistan’s coal mining industry, particularly in Balochistan, where many mines lack basic safety.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Iranian Army strikes key US base in Bahrain in 26th phase of Operation Thunder",
@@ -10,6 +104,15 @@
    "tags": [
     "strikes"
    ],
+   "highlight": false
+  },
+  {
+   "source": "UN Press",
+   "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General",
+   "url": "https://press.un.org/en/2026/db260730.doc.htm",
+   "published": "2026-07-30T17:52:17+00:00",
+   "summary": "In Yemen, UN Deputy Emergency Relief Coordinator Indrika Ratwatt has allocated $10 million from the UN Central Emergency Response Fund to respond to rapidly scale up emergency food and critical health, water and sanitation services. More than 18 million people, over half of the population, are facing acute food insecurity.",
+   "tags": [],
    "highlight": false
   },
   {
@@ -371,41 +474,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "Iran war live: US attack kills Iranian couple, toddler on Qeshm Island",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/7/30/iran-war-live-trump-threatens-to-hit-back-hard-over-strikes-on-jordan?traffic_source=rss",
-   "published": "2026-07-30T00:00:00+00:00",
-   "summary": "US strike hits residential building on Qeshm, killing an Iranian couple and their two year old child.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Saudi Arabia seeks international coalition against Houthis in Red Sea",
-   "url": "https://www.aljazeera.com/news/2026/7/29/saudi-arabia-seeks-international-coalition-against-houthis-in-red-sea?traffic_source=rss",
-   "published": "2026-07-29T23:34:26+00:00",
-   "summary": "Riyadh seeks partners to safeguard shipping in Red Sea as strikes on energy tankers expand, pushing oil prices higher.",
-   "tags": [
-    "strikes",
-    "shipping",
-    "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iraq calls Saudi-US attacks a ‘flagrant violation of sovereignty’",
-   "url": "https://www.aljazeera.com/news/2026/7/29/iraq-calls-saudi-us-attacks-flagrant-violation-of-sovereignty?traffic_source=rss",
-   "published": "2026-07-29T23:10:15+00:00",
-   "summary": "Prime Minister Ali al-Zaidi cancels first official trip to Saudi Arabia in protest.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
    "source": "Trump · Truth Social",
    "title": "Does anybody have any idea how much Money and Prestige the United States Supreme Court has cost our Nation with their negative Rulings on Birthright Citizenship and TARIFFS? The answer, TRILLIONS AND TRILLIONS OF DOLLARS! President DONALD J. TRUMP",
    "url": "https://trumpstruth.org/statuses/40393",
@@ -415,14 +483,12 @@
    "highlight": true
   },
   {
-   "source": "Al Jazeera",
-   "title": "Trump threatens Iran strikes after attack on US base in Jordan",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/trump-threatens-iran-strikes-after-attack-on-us-base-in-jordan?traffic_source=rss",
-   "published": "2026-07-29T21:18:24+00:00",
-   "summary": "”It’s our turn.” President Donald Trump says the US will hit Iran “very hard” following an attack on US forces in Jordan",
-   "tags": [
-    "strikes"
-   ],
+   "source": "UN Press",
+   "title": "New Permanent Representative of United Kingdom Presents Credentials",
+   "url": "https://press.un.org/en/2026/bio5633.doc.htm",
+   "published": "2026-07-29T21:04:12+00:00",
+   "summary": "The new Permanent Representative of United Kingdom to the United Nations, Sarah MacIntosh, presented her credentials to UN Deputy Secretary-General Amina J. Mohammed today.",
+   "tags": [],
    "highlight": false
   },
   {
@@ -570,82 +636,6 @@
    "url": "https://en.irna.ir/news/86223147/Iraqi-presidency-condemns-US-Saudi-attacks-on-Hashd-al-Shaabi",
    "published": "2026-07-29T13:30:45+00:00",
    "summary": "Tehran, IRNA – In a statement issued on Wednesday, the Iraqi presidency condemned the early morning attacks by the United States and Saudi Arabia on positions of Iraq’s Popular Mobilization Units (Hashd al-Shaabi).",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Many more people died of Covid under the Biden Administration than under the Trump Administration. “Operation Warp Speed” was a SPECTACULAR SUCCESS, in fact, many say, one of the most successful things ever done by an American President. I overrode Fauci on this. His ideas were CRAZY! Also, I said from the beginning that the Virus came from the Wuhan Laboratory in China. Fauci strongly disagreed, always trying to protect China. I Inherited Fauci, who was there since the 1980’s, but with each passing day, relied less and less on him. He made too many bad calls, like on MASKS. Remember at the beginning he was an anti-masker. He then switched to a super-masker. In any event I didn’t let him shut the Country down, although he wanted to. I went the Federalist way, and let the governors decide. The Republican governors did a much better job than the Dumocrats. Fauci was largely taken out of play, and then along came Sleepy Joe Biden, who made Fauci a “King!” I called Biden to tell him Fauci was no good, either didn’t have a clue, or was dishonest. The call was well received, but sadly,not acted on. Biden went on to give Fauci vast destructive power. The rest is history! President DJT",
-   "url": "https://trumpstruth.org/statuses/40391",
-   "published": "2026-07-29T11:46:42+00:00",
-   "summary": "Many more people died of Covid under the Biden Administration than under the Trump Administration. “Operation Warp Speed” was a SPECTACULAR SUCCESS, in fact, many say, one of the most successful things ever done by an American President. I overrode Fauci on this. His ideas were CRAZY! Also, I said from the beginning that the Virus came from the Wuhan Laboratory in China. Fauci strongly disagreed, ",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "UN Press",
-   "title": "Security Council, 10204th Meeting (AM) Central African Republic",
-   "url": "https://press.un.org/en/blog/sc16424",
-   "published": "2026-07-29T11:28:57+00:00",
-   "summary": "The Security Council will vote on a draft resolution to extend the 2745 sanctions regime related to the Central African Republic, which expires at the end of the month, and renew the mandate of the Panel of Experts supporting the 2745 Sanctions Committee, which expires on 31 August. The sanctions regime covers an asset freeze and prevention of the supply, sale or transfer of weapons and military v",
-   "tags": [
-    "sanctions"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "PMF says 20 of its members lost lives in US, Saudi aggression against Iraq",
-   "url": "https://en.irna.ir/news/86222898/PMF-says-20-of-its-members-lost-lives-in-US-Saudi-aggression",
-   "published": "2026-07-29T09:55:03+00:00",
-   "summary": "Tehran, IRNA – At least 20 members of Iraq’s Popular Mobilization Forces (PMF) have been killed and 32 others wounded in a joint US-Saudi attack on the force’s positions in several Iraqi provinces, the PMF has said, adding that the casualty figures are not final.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Envoy: US–Israeli continued unlawful actions pose grave threat to int’l peace and security",
-   "url": "https://en.irna.ir/news/86222550/Envoy-US-Israeli-continued-unlawful-actions-pose-grave-threat",
-   "published": "2026-07-29T08:37:25+00:00",
-   "summary": "New York, IRNA – Ambassador and Deputy Permanent Representative of the Islamic Republic of Iran Gholamhossein Darzi says the continued unlawful actions by the United States and the Israeli regime pose a grave threat to international peace and security.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran, Iraq agree to enhance border security to facilitate Arbaeen pilgrimage",
-   "url": "https://en.irna.ir/news/86222693/Iran-Iraq-agree-to-enhance-border-security-to-facilitate-Arbaeen",
-   "published": "2026-07-29T08:33:57+00:00",
-   "summary": "Qasr-e Shirin, IRNA — Border security forces from Iran and Iraq have reached an agreement to strengthen joint border security and streamline Arbaeen pilgrims’ border crossing.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "IRGC Navy targets, stops three violating oil tankers",
-   "url": "https://en.irna.ir/news/86222501/IRGC-Navy-targets-stops-three-violating-oil-tankers",
-   "published": "2026-07-29T05:40:36+00:00",
-   "summary": "Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) Navy says three oil tankers violating regulations had been struck and stopped after ignoring its warnings.",
-   "tags": [
-    "shipping",
-    "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "US air base, Central Command center in Jordan targeted: IRGC",
-   "url": "https://en.irna.ir/news/86222477/US-air-base-Central-Command-center-in-Jordan-targeted-IRGC",
-   "published": "2026-07-29T05:33:17+00:00",
-   "summary": "Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) says that its Aerospace Force has targeted a US air base and the US military’s Central Command center in Jordan with ballistic missiles.",
    "tags": [
     "strikes"
    ],
