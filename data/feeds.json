@@ -1,6 +1,115 @@
 {
- "asOf": "2026-07-30T09:03:35.355360+00:00",
+ "asOf": "2026-07-30T11:44:29.888478+00:00",
  "items": [
+  {
+   "source": "White House",
+   "title": "First Lady Melania Trump Facilitates Her Fifth Ukraine–Russia Family Reunification",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/07/first-lady-melania-trump-facilitates-her-fifth-ukrainerussia-family-reunification/",
+   "published": "2026-07-30T11:04:08+00:00",
+   "summary": "First Lady Melania Trump has helped reunite a fifth group of Ukrainian and Russian children with their loved ones, continuing her humanitarian work on behalf of those affected by the war. A total of five children were reunited today. This milestone marks another step toward ensuring that innocent kids can safely return to their homes, [&#8230;] The post First Lady Melania Trump Facilitates Her Fif",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran will never accept US-style ceasefire, will keep responding to aggressor: MP",
+   "url": "https://en.irna.ir/news/86223707/Iran-will-never-accept-US-style-ceasefire-will-keep-responding",
+   "published": "2026-07-30T10:36:46+00:00",
+   "summary": "Tehran, IRNA — Alaeddin Boroujerdi, a senior Iranian lawmaker and member of the Parliament’s National Security and Foreign Policy Commission, referring to the United States’ noncompliance with the commitment, says the American-style ceasefire is never acceptable for the Islamic Republic.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Israeli raids and settler attacks intensify across the occupied West Bank",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/israeli-raids-and-settler-attacks-intensify-across-the-occupied-west-bank?traffic_source=rss",
+   "published": "2026-07-30T10:21:53+00:00",
+   "summary": "Israeli raids and settler attacks intensify across the occupied West Bank",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Attack on northwest Pakistan police post kills 11 officers",
+   "url": "https://www.aljazeera.com/news/2026/7/30/attack-on-northwest-pakistan-police-post-kills-11-officers?traffic_source=rss",
+   "published": "2026-07-30T10:21:02+00:00",
+   "summary": "Fifteen attackers were also killed during the hours-long raid in Pakistan&#039;s northwestern Hangu district.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Several children killed and wounded in Israeli attacks across Gaza",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/several-children-killed-and-wounded-in-israeli-attacks-across-gaza?traffic_source=rss",
+   "published": "2026-07-30T10:20:19+00:00",
+   "summary": "Israeli strikes hit multiple areas across Gaza overnight, including tents sheltering displaced families in al-Mawasi.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Why is Saudi Arabia forming a coalition to protect the Red Sea?",
+   "url": "https://www.aljazeera.com/news/2026/7/30/why-is-saudi-arabia-forming-a-coalition-to-protect-the-red-sea?traffic_source=rss",
+   "published": "2026-07-30T10:18:53+00:00",
+   "summary": "The alliance aims to defend shipping from attacks by Iran-backed Houthis in Yemen.",
+   "tags": [
+    "strikes",
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Poland says Russian missile breaches NATO airspace",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/30-07-sv-lublin-air-sirens-pl?traffic_source=rss",
+   "published": "2026-07-30T10:13:52+00:00",
+   "summary": "Poland says a Russian missile landed inside Polish territory, breaching NATO airspace during a Russian attack on Ukraine",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "US hits multiple targets in Iran as IRGC pledges retaliation: What we know",
+   "url": "https://www.aljazeera.com/news/2026/7/30/us-hits-multiple-targets-in-iran-as-irgc-pledges-retaliation-what-we-know?traffic_source=rss",
+   "published": "2026-07-30T09:49:29+00:00",
+   "summary": "Jordan said it intercepted missiles shortly after the US struck Iranian sites including Qeshm and Bushehr.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Man who stabbed author Salman Rushdie convicted of ‘terrorism’ charges",
+   "url": "https://www.aljazeera.com/news/2026/7/30/man-who-stabbed-author-salman-rushdie-convicted-of-terrorism-charges?traffic_source=rss",
+   "published": "2026-07-30T09:17:06+00:00",
+   "summary": "US court finds attacker, who is already serving a 25-year prison sentence, guilty of additional charges over 2022 assault.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Photos: Zelenskyy urges ‘protection of life’ amid deadly Russian attacks",
+   "url": "https://www.aljazeera.com/gallery/2026/7/30/photos-zelenskyy-urges-protection-of-life-amid-deadly-russian-attacks?traffic_source=rss",
+   "published": "2026-07-30T09:10:07+00:00",
+   "summary": "Russia launches more than 70 missiles and 280 drones in a major attack on Ukraine that kills at least eight people.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "US strikes cause extensive damage on Iran’s Qeshm Island",
@@ -29,7 +138,7 @@
    "title": "IRGC warns of harsh response to countries involved in aiding US aggression",
    "url": "https://en.irna.ir/news/86223506/IRGC-warns-of-harsh-response-to-countries-involved-in-aiding",
    "published": "2026-07-30T06:40:10+00:00",
-   "summary": "Tehran, IRNA – The Islamic Revolution Guards Corpse (IRGC) has once again warned against any complicity in the US attacks and crimes in Iran, stressing that any country involved in aiding the aggressor would be dealt with firmly and harshly.",
+   "summary": "Tehran, IRNA – The Islamic Revolution Guard Corps (IRGC) has once again warned against any complicity in the US attacks and crimes in Iran, stressing that any country involved in aiding the aggressor would be dealt with firmly and harshly.",
    "tags": [
     "strikes",
     "diplomacy"
@@ -210,6 +319,17 @@
    "highlight": false
   },
   {
+   "source": "IRNA (Iran state wire)",
+   "title": "Army Chief: Armed Forces will defend Iran’s soil, independence against aggressors to their last breath",
+   "url": "https://en.irna.ir/news/86223313/Army-Chief-Armed-Forces-will-defend-Iran-s-soil-independence",
+   "published": "2026-07-29T18:21:00+00:00",
+   "summary": "Tehran, IRNA — The commander of the Islamic Republic of Iran’s Army, Major General Amir Hatami, has congratulated and offered condolences on the martyrdom of Brigadier General Majid Kazemi, the heroic pilot of the Sukhoi 24, and emphasized that the Army is true to its promise to the nation and will defend the sacred the Islamic System and the pure soil of Iran and its independence against aggresso",
+   "tags": [
+    "oil"
+   ],
+   "highlight": false
+  },
+  {
    "source": "Al Jazeera",
    "title": "Fire erupts on ships at Egypt’s Damietta port",
    "url": "https://www.aljazeera.com/news/2026/7/29/fire-erupts-on-ships-at-egypts-damietta-port?traffic_source=rss",
@@ -265,6 +385,17 @@
    "highlight": false
   },
   {
+   "source": "IRNA (Iran state wire)",
+   "title": "Hakim condemns joint US-Saudi attacks on PMU positions in Iraq",
+   "url": "https://en.irna.ir/news/86223240/Hakim-condemns-joint-US-Saudi-attacks-on-PMU-positions-in-Iraq",
+   "published": "2026-07-29T16:49:47+00:00",
+   "summary": "Tehran, IRNA – The head of Iraq’s National Wisdom Movement, Sayyid Ammar al-Hakim, has condemned the attacks by the US and Saudi Arabia on multiple Popular Mobilization Units (PMU) headquarters across various provinces of the country.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
    "source": "Al Jazeera",
    "title": "Is the world at risk of another energy shock?",
    "url": "https://www.aljazeera.com/video/counting-the-cost/2026/7/29/is-the-world-at-risk-of-another-energy-shock?traffic_source=rss",
@@ -279,6 +410,17 @@
    "source": "IRNA (Iran state wire)",
    "title": "Iraq’s security council condemns US-Saudi strikes on Hashd al-Shaabi",
    "url": "https://en.irna.ir/news/86223224/Iraq-s-security-council-condemns-US-Saudi-strikes-on-Hashd-al-Shaabi",
+   "published": "2026-07-29T16:20:36+00:00",
+   "summary": "Tehran, IRNA – The Iraqi National Security Council condemns dawn attacks by the United States and Saudi Arabia on Popular Mobilization Forces bases in Iraq, saying it will draw up a comprehensive security plan to counter any violation of the country’s sovereignty.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iraq’s Security Council condemns US–Saudi strikes on Hashd al-Shaabi",
+   "url": "https://en.irna.ir/news/86223224/Iraq-s-Security-Council-condemns-US-Saudi-strikes-on-Hashd-al-Shaabi",
    "published": "2026-07-29T16:20:36+00:00",
    "summary": "Tehran, IRNA – The Iraqi National Security Council condemns dawn attacks by the United States and Saudi Arabia on Popular Mobilization Forces bases in Iraq, saying it will draw up a comprehensive security plan to counter any violation of the country’s sovereignty.",
    "tags": [
@@ -331,18 +473,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "‘There is no ceasefire’ say Palestinians in Gaza after new Israeli strikes",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/there-is-no-ceasefire-say-palestinians-in-gaza-after-new-israeli-strikes?traffic_source=rss",
-   "published": "2026-07-29T14:09:09+00:00",
-   "summary": "&#039;There is no ceasefire&#039; say Palestinians in Gaza after new Israeli strikes",
-   "tags": [
-    "strikes",
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
    "source": "IRNA (Iran state wire)",
    "title": "Iraqi presidency condemns US, Saudi attacks on Hashd al-Shaabi",
    "url": "https://en.irna.ir/news/86223147/Iraqi-presidency-condemns-US-Saudi-attacks-on-Hashd-al-Shaabi",
@@ -363,17 +493,6 @@
    "highlight": true
   },
   {
-   "source": "Al Jazeera",
-   "title": "Iran hits US in Jordan, US-Saudi strikes on Iraq: Is war spreading?",
-   "url": "https://www.aljazeera.com/news/2026/7/29/iran-hits-us-in-jordan-us-saudi-strikes-on-iraq-is-war-spreading?traffic_source=rss",
-   "published": "2026-07-29T11:34:58+00:00",
-   "summary": "The US says it intercepted an Iranian &#039;surprise attack&#039; on US forces as fears rise of wider war.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
    "source": "UN Press",
    "title": "Security Council, 10204th Meeting (AM) Central African Republic",
    "url": "https://press.un.org/en/blog/sc16424",
@@ -381,28 +500,6 @@
    "summary": "The Security Council will vote on a draft resolution to extend the 2745 sanctions regime related to the Central African Republic, which expires at the end of the month, and renew the mandate of the Panel of Experts supporting the 2745 Sanctions Committee, which expires on 31 August. The sanctions regime covers an asset freeze and prevention of the supply, sale or transfer of weapons and military v",
    "tags": [
     "sanctions"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "‘Iran attacks now to send message as US assets build up in Israel’",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/iran-attacks-now-to-send-message-as-us-assets-build-up-in?traffic_source=rss",
-   "published": "2026-07-29T11:19:46+00:00",
-   "summary": "‘Iran attacks now to send message as US assets build up in Israel’",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Russia charges Telegram founder Pavel Durov with ‘aiding terrorism’",
-   "url": "https://www.aljazeera.com/news/2026/7/29/russia-charges-telegram-founder-pavel-durov-with-aiding-terrorism?traffic_source=rss",
-   "published": "2026-07-29T10:18:49+00:00",
-   "summary": "Russia&#039;s FSB says Telegram has not pulled content used by Ukrainian intelligence and &#039;terrorist&#039; groups to plan attacks.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   },
@@ -436,52 +533,6 @@
    "summary": "Qasr-e Shirin, IRNA — Border security forces from Iran and Iraq have reached an agreement to strengthen joint border security and streamline Arbaeen pilgrims’ border crossing.",
    "tags": [
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "US and Saudi Arabia strike ‘Iran-aligned’ groups in Iraq",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/us-and-saudi-arabia-strike-iran-aligned-groups-in-iraq?traffic_source=rss",
-   "published": "2026-07-29T08:33:39+00:00",
-   "summary": "The US and Saudi Arabia launched joint air strikes on Iraq, targeting ‘Iran-aligned’ groups.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iran and Oman swap proposals to manage Strait of Hormuz: What we know",
-   "url": "https://www.aljazeera.com/news/2026/7/29/iran-and-oman-swap-proposals-to-manage-strait-of-hormuz-what-we-know?traffic_source=rss",
-   "published": "2026-07-29T08:16:06+00:00",
-   "summary": "Iran is proposing a deal that would see it have significantly more control than Oman.",
-   "tags": [
-    "diplomacy",
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Russian industrial sites on fire after Ukrainian drone attacks",
-   "url": "https://www.aljazeera.com/news/2026/7/29/russian-industrial-sites-on-fire-after-ukrainian-drone-attacks?traffic_source=rss",
-   "published": "2026-07-29T07:57:04+00:00",
-   "summary": "Russia&#039;s top online retailer Wildberries says it has evacuated warehouses in Ryazan.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iran attacks US bases in Middle East as Trump meets Netanyahu",
-   "url": "https://www.aljazeera.com/news/2026/7/29/iran-attacks-us-bases-in-middle-east-as-trump-meets-netanyahu?traffic_source=rss",
-   "published": "2026-07-29T05:43:03+00:00",
-   "summary": "Iran has also struck three ships in the Strait of Hormuz and rejected Oman’s proposal on managing the waterway.",
-   "tags": [
-    "strikes",
-    "shipping"
    ],
    "highlight": false
   },
@@ -589,57 +640,6 @@
    "published": "2026-07-28T21:58:25+00:00",
    "summary": "In a Middle East aflame with tensions, from Gaza to the Gulf, resolving the Palestine-Israel conflict remains central to wider peace, the Security Council heard today.",
    "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Araghchi stresses to Ukraine FM need to make up for attack",
-   "url": "https://en.irna.ir/news/86222389/Araghchi-stresses-to-Ukraine-FM-need-to-make-up-for-attack",
-   "published": "2026-07-28T21:15:52+00:00",
-   "summary": "Foreign Minister Abbas Araghchi and his Ukrainian counterpart, Andrii Sybiha, held a phone call on Tuesday evening few days after the attack on an Iranian cargo ship by Ukrainian forces in the Caspian Sea.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Araghchi stresses Ukraine needs to make up for attack",
-   "url": "https://en.irna.ir/news/86222389/Araghchi-stresses-Ukraine-needs-to-make-up-for-attack",
-   "published": "2026-07-28T21:15:00+00:00",
-   "summary": "Tehran, IRNA — Foreign Minister Abbas Araghchi and his Ukrainian counterpart have held a phone call a few days after the attack on an Iranian cargo ship by Ukrainian forces in the Caspian Sea.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Activities of Secretary-General in China, 16-20 July",
-   "url": "https://press.un.org/en/2026/sgt3469.doc.htm",
-   "published": "2026-07-28T20:45:26+00:00",
-   "summary": "United Nations Secretary-General António Guterres arrived in Shanghai, China, late on Thursday morning, 16 July.",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General",
-   "url": "https://press.un.org/en/2026/db260728.doc.htm",
-   "published": "2026-07-28T20:09:13+00:00",
-   "summary": "The International Organization for Migration (IOM) today warned of the staggering scale of people trafficked worldwide by criminal networks and forced to participate in online scams in a multi-billion-dollar criminal industry. Between 2022 and 2025, IOM assisted over 3,500 victims across South-East Asia.",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Adopting Several Drafts, General Assembly Decides to Immediately Continue Negotiations on Security Council Reform, Sets Terms of Upcoming High-Level Meetings",
-   "url": "https://press.un.org/en/2026/ga12774.doc.htm",
-   "published": "2026-07-28T20:05:01+00:00",
-   "summary": "After taking stock of progress towards Security Council reform and looking ahead to future negotiations on that topic, the General Assembly today adopted several texts relating to upcoming reviews and meetings, as well as to its Second Committee (Economic and Financial) and Fourth Committee (Special Political and Decolonization).",
-   "tags": [
-    "diplomacy"
-   ],
    "highlight": false
   }
  ]
