@@ -1,6 +1,18 @@
 {
- "asOf": "2026-07-30T11:44:29.888478+00:00",
+ "asOf": "2026-07-30T12:18:41.772828+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Israeli strikes kill at least four, including children, across Gaza Strip",
+   "url": "https://www.aljazeera.com/news/2026/7/30/israeli-strikes-kill-at-least-four-including-children-across-gaza-strip?traffic_source=rss",
+   "published": "2026-07-30T11:32:30+00:00",
+   "summary": "Bombings take place as Hamas officials meet with Qatari, Egyptian and Turkish mediators in Cairo to discuss truce.",
+   "tags": [
+    "strikes",
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "White House",
    "title": "First Lady Melania Trump Facilitates Her Fifth Ukraine–Russia Family Reunification",
@@ -448,17 +460,6 @@
    "published": "2026-07-29T15:53:22+00:00",
    "summary": "Under President Donald J. Trump, violent crime is collapsing at a pace unmatched in modern American history. A new mid-year report confirms that homicides are again on track to reach the lowest level in more than a century — building on last year’s extraordinary progress and delivering on one of President Trump’s core promises to [&#8230;] The post Crime Plummets to Another Historic Low Under Pres",
    "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Trump says US to deliver ‘beating’ to Iran after bases again targeted",
-   "url": "https://www.aljazeera.com/news/2026/7/29/trump-says-us-to-deliver-beating-to-iran-after-bases-again-targeted?traffic_source=rss",
-   "published": "2026-07-29T15:43:05+00:00",
-   "summary": "US president promises major escalation a day after new Iran attacks and his White House meeting with Netanyahu.",
-   "tags": [
-    "strikes"
-   ],
    "highlight": false
   },
   {
