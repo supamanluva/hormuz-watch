@@ -1,6 +1,17 @@
 {
- "asOf": "2026-07-30T21:33:20.592408+00:00",
+ "asOf": "2026-07-30T22:10:47.854331+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Why is US GDP growth slowing, and how can it be reversed?",
+   "url": "https://www.aljazeera.com/economy/2026/7/30/why-is-us-gdp-growth-slowing-and-how-can-it-be-reversed?traffic_source=rss",
+   "published": "2026-07-30T21:39:37+00:00",
+   "summary": "Tariffs and oil price hikes create a supply shock, dragging down US economic growth in the second quarter of 2026.",
+   "tags": [
+    "oil"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Iranian envoy, president of Montenegro stress expansion of bilateral ties",
@@ -461,17 +472,6 @@
    "summary": "Thank you Abe! President DJT",
    "tags": [],
    "highlight": true
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "At least 14 killed as Russia strikes Ukraine a day after Zelenskyy warning",
-   "url": "https://www.aljazeera.com/news/2026/7/30/russia-ballistic-missile-strikes-on-kyiv-come-after-zelenskyys-warning?traffic_source=rss",
-   "published": "2026-07-30T00:23:13+00:00",
-   "summary": "Returning from the US, Zelenskyy says Ukraine&#039;s safety depends on allies’ willingness to provide anti-missile defences.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
   },
   {
    "source": "Trump · Truth Social",
