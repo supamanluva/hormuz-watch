@@ -1,6 +1,39 @@
 {
- "asOf": "2026-07-31T16:08:09.168997+00:00",
+ "asOf": "2026-07-31T18:14:13.458342+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Why is Israel arming illegal settlers?",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/why-is-israel-arming-illegal-settlers?traffic_source=rss",
+   "published": "2026-07-31T18:02:14+00:00",
+   "summary": "As settler attacks reach record levels, the government has distributed more than 100,000 assault rifles to Israelis.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Western allies warn North Korean IT workers funding nuclear arsenal",
+   "url": "https://www.aljazeera.com/news/2026/7/31/western-allies-warn-north-korean-it-workers-funding-nuclear-arsenal?traffic_source=rss",
+   "published": "2026-07-31T17:06:52+00:00",
+   "summary": "Pyongyang accused of using hard currency earned by AI-assisted workers to power armaments programme.",
+   "tags": [
+    "nuclear"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Persian Gulf Strait Authority says Hormuz remains closed",
+   "url": "https://en.irna.ir/news/86224486/Persian-Gulf-Strait-Authority-says-Hormuz-remains-closed",
+   "published": "2026-07-31T16:18:54+00:00",
+   "summary": "Tehran, IRNA – Persian Gulf Strait Authority says that transit through the Strait of Hormuz remains suspended due to continuing “aggressive actions” by US military forces in the region.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "I am pleased to announce that the man who so foolishly led the Indiana State Senate, with almost every Candidate losing their Race, many of them in Office for years, will not be seeking Re-Election as Senate President because he wouldn’t have had a chance to be elected — Better yet would be if he would resign from Office, completely, but he will be met by us at the Indiana Polls. Rodric Bray should be ashamed of himself for costing our Country, mainly the Republican Party, two U.S. House Seats, and for costing all of his colleagues who went along with him, an Election loss! Isn’t it amazing how Politics works? I want to thank the Great State of Indiana for your support, not only in my Presidential Election, which we won with the Highest Vote in the History of the State, but also for your support in getting rid of wayward Senators, led down the Path of Destruction by a FOOL named Rodric Bray. Indiana, I will never forget your loyalty! President DONALD J. TRUMP",
@@ -486,17 +519,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "War on Iran: Phase II: Day 19",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/war-on-iran-phase-ii-day-19?traffic_source=rss",
-   "published": "2026-07-30T14:56:59+00:00",
-   "summary": "The US resumes bombing Iran, with a family of three killed in Qeshm Island.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
    "source": "IRNA (Iran state wire)",
    "title": "IRGC hits US airbase in Kuwait in fresh wave of attacks",
    "url": "https://en.irna.ir/news/86223825/IRGC-hits-US-airbase-in-Kuwait-in-fresh-wave-of-attacks",
@@ -535,18 +557,6 @@
    "summary": "Tehran, IRNA — The Aerospace Force of the Islamic Revolution Guards Corps (IRGC) has announced it has destroyed three American F-35 fighter jets and killed US military personnel in a retaliatory missile strike on Al Azraq Air Base in Jordan.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Israeli strikes kill at least four, including children, across Gaza Strip",
-   "url": "https://www.aljazeera.com/news/2026/7/30/israeli-strikes-kill-at-least-four-including-children-across-gaza-strip?traffic_source=rss",
-   "published": "2026-07-30T11:32:30+00:00",
-   "summary": "Bombings take place as Hamas officials meet with Qatari, Egyptian and Turkish mediators in Cairo to discuss truce.",
-   "tags": [
-    "strikes",
-    "diplomacy"
    ],
    "highlight": false
   },
@@ -629,15 +639,6 @@
    "tags": [
     "oil"
    ],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General",
-   "url": "https://press.un.org/en/2026/db260729.doc.htm",
-   "published": "2026-07-29T18:57:12+00:00",
-   "summary": "By 2050, Latin America will have 38.3 million fewer school-age people, a study by the Economic Commission for Latin America and the Caribbean and the UN Educational, Scientific and Cultural Organization (UNESCO) found. It recommends integrating data on migration, births, enrolment and location to safeguard investment in education.",
-   "tags": [],
    "highlight": false
   }
  ]
