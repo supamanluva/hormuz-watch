@@ -1,6 +1,28 @@
 {
- "asOf": "2026-07-31T14:12:07.782463+00:00",
+ "asOf": "2026-07-31T15:13:31.017829+00:00",
  "items": [
+  {
+   "source": "Trump · Truth Social",
+   "title": "I am pleased to announce that the man who so foolishly led the Indiana State Senate, with almost every Candidate losing their Race, many of them in Office for years, will not be seeking Re-Election as Senate President because he wouldn’t have had a chance to be elected — Better yet would be if he would resign from Office, completely, but he will be met by us at the Indiana Polls. Rodric Bray should be ashamed of himself for costing our Country, mainly the Republican Party, two U.S. House Seats, and for costing all of his colleagues who went along with him, an Election loss! Isn’t it amazing how Politics works? I want to thank the Great State of Indiana for your support, not only in my Presidential Election, which we won with the Highest Vote in the History of the State, but also for your support in getting rid of wayward Senators, led down the Path of Destruction by a FOOL named Rodric Bray. Indiana, I will never forget your loyalty! President DONALD J. TRUMP",
+   "url": "https://trumpstruth.org/statuses/40403",
+   "published": "2026-07-31T14:50:41+00:00",
+   "summary": "I am pleased to announce that the man who so foolishly led the Indiana State Senate, with almost every Candidate losing their Race, many of them in Office for years, will not be seeking Re-Election as Senate President because he wouldn’t have had a chance to be elected — Better yet would be if he would resign from Office, completely, but he will be met by us at the Indiana Polls. Rodric Bray shoul",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Russia and Ukraine report casualties as they continue to trade attacks",
+   "url": "https://www.aljazeera.com/news/2026/7/31/russia-and-ukraine-report-casualties-as-they-continue-to-trade-attacks?traffic_source=rss",
+   "published": "2026-07-31T14:22:51+00:00",
+   "summary": "Ukraine hit Russian oil refineries several times, while Russia struck Dnipropetrovsk and a cargo vessel near Odesa.",
+   "tags": [
+    "strikes",
+    "shipping",
+    "oil"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Iran envoy delivers Leader’s message to Russian Orthodox patriarch",
@@ -549,17 +571,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "Israeli raids and settler attacks intensify across the occupied West Bank",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/israeli-raids-and-settler-attacks-intensify-across-the-occupied-west-bank?traffic_source=rss",
-   "published": "2026-07-30T10:21:53+00:00",
-   "summary": "Israeli raids and settler attacks intensify across the occupied West Bank",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
    "source": "IRNA (Iran state wire)",
    "title": "IRGC warns of harsh response to countries involved in aiding US aggression",
    "url": "https://en.irna.ir/news/86223506/IRGC-warns-of-harsh-response-to-countries-involved-in-aiding",
@@ -627,17 +638,6 @@
    "published": "2026-07-29T18:57:12+00:00",
    "summary": "By 2050, Latin America will have 38.3 million fewer school-age people, a study by the Economic Commission for Latin America and the Caribbean and the UN Educational, Scientific and Cultural Organization (UNESCO) found. It recommends integrating data on migration, births, enrolment and location to safeguard investment in education.",
    "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Army Chief: Armed Forces will defend Iran’s soil and independence against aggressors to their last breath",
-   "url": "https://en.irna.ir/news/86223313/Army-Chief-Armed-Forces-will-defend-Iran-s-soil-and-independence",
-   "published": "2026-07-29T18:21:00+00:00",
-   "summary": "Tehran, IRNA – The Commander of the Islamic Republic of Iran’s Army, Major General Amir Hatami, has congratulated and offered condolences on the martyrdom of Brigadier General Majid Kazemi, the heroic pilot of the Sukhoi 24, and emphasized that the Army is true to its promise to the nation and will defend the sacred the Islamic System and the pure soil of Iran and its independence against aggresso",
-   "tags": [
-    "oil"
-   ],
    "highlight": false
   }
  ]
