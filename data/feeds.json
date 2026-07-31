@@ -1,6 +1,17 @@
 {
- "asOf": "2026-07-31T00:10:34.921986+00:00",
+ "asOf": "2026-07-31T00:59:52.050425+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Iran war live: Trump says Hamas to disarm, Israel to leave Gaza gradually",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-trump-says-hamas-to-disarm-israel-to-leave-gaza-gradually?traffic_source=rss",
+   "published": "2026-07-31T00:03:58+00:00",
+   "summary": "Hamas member told Al Jazeera all implementation would be conditioned on Israel implementing its part of deal.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Trump announces Hamas to disarm paving way for Israel to withdraw from Gaza",
@@ -491,17 +502,6 @@
    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/us-launches-powerful-strikes-on-iran-after-jordan-attack?traffic_source=rss",
    "published": "2026-07-30T04:55:36+00:00",
    "summary": "The US has bombed multiple cities across southern Iran in what Central Command described as a ‘heavy wave of strikes’.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "US launches ‘heavy wave’ of new strikes on Iran",
-   "url": "https://www.aljazeera.com/news/2026/7/30/us-launches-another-round-of-attacks-on-iran?traffic_source=rss",
-   "published": "2026-07-30T03:56:07+00:00",
-   "summary": "Iranian media report that a couple and their two-year-old child were killed in the latest US attacks on Qeshm island.",
    "tags": [
     "strikes"
    ],
