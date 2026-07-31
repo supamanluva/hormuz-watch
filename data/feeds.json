@@ -1,6 +1,17 @@
 {
- "asOf": "2026-07-31T00:59:52.050425+00:00",
+ "asOf": "2026-07-31T01:43:54.818287+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Baghaei: US attack on a residential home in Qeshm is reminiscent of ISIS's terrorist acts",
+   "url": "https://en.irna.ir/news/86224084/Baghaei-US-attack-on-a-residential-home-in-Qeshm-is-reminiscent",
+   "published": "2026-07-31T01:21:10+00:00",
+   "summary": "Tehran, IRNA — Foreign Ministry spokesperson Esmaeil Baqaei in reaction to the US raid on a home in Qeshm, which resulted in the deaths of the parents of a five-member family, described the atrocity as reminiscent of the terrorist acts committed by ISIS.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Iran war live: Trump says Hamas to disarm, Israel to leave Gaza gradually",
@@ -57,10 +68,10 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "Trump says Board of Peace reaches agreement on disarmament of Hamas in Gaza",
+   "title": "Hamas reaches Gaza disarmament agreement with Trump’s Board of Peace",
    "url": "https://www.aljazeera.com/news/2026/7/30/trump-says-board-of-peace-reaches-agreement-on-disarmament-of-hamas-in-gaza?traffic_source=rss",
    "published": "2026-07-30T22:34:19+00:00",
-   "summary": "US president says Israel will withdraw from Gaza following the disarmament of Hamas.",
+   "summary": "US president says Israel will withdraw from Gaza once the Palestinian group disarms.",
    "tags": [
     "diplomacy"
    ],
@@ -624,17 +635,6 @@
    "url": "https://en.irna.ir/news/86223240/Hakim-condemns-joint-US-Saudi-attacks-on-PMU-positions-in-Iraq",
    "published": "2026-07-29T16:49:47+00:00",
    "summary": "Tehran, IRNA – The head of Iraq’s National Wisdom Movement, Sayyid Ammar al-Hakim, has condemned the attacks by the US and Saudi Arabia on multiple Popular Mobilization Units (PMU) headquarters across various provinces of the country.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iraq’s security council condemns US-Saudi strikes on Hashd al-Shaabi",
-   "url": "https://en.irna.ir/news/86223224/Iraq-s-security-council-condemns-US-Saudi-strikes-on-Hashd-al-Shaabi",
-   "published": "2026-07-29T16:20:36+00:00",
-   "summary": "Tehran, IRNA – The Iraqi National Security Council condemns dawn attacks by the United States and Saudi Arabia on Popular Mobilization Forces bases in Iraq, saying it will draw up a comprehensive security plan to counter any violation of the country’s sovereignty.",
    "tags": [
     "strikes"
    ],
