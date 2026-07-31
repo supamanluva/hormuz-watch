@@ -1,6 +1,49 @@
 {
- "asOf": "2026-07-31T09:46:04.402197+00:00",
+ "asOf": "2026-07-31T12:26:36.199308+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Russia’s Africa Corps killed Mali civilians in air strike: HRW",
+   "url": "https://www.aljazeera.com/news/2026/7/31/russias-africa-corps-killed-mali-civilians-in-air-strike-hrw?traffic_source=rss",
+   "published": "2026-07-31T11:41:32+00:00",
+   "summary": "Russian paramilitaries fight alongside Malian soldiers battling multiple armed groups linked to al-Qaeda and ISIL.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Gaza Board of Peace announces Hamas disarmament agreement: What we know",
+   "url": "https://www.aljazeera.com/news/2026/7/31/gaza-board-of-peace-announces-hamas-disarmament-agreement-what-we-know?traffic_source=rss",
+   "published": "2026-07-31T11:23:09+00:00",
+   "summary": "Under the agreement, Israel would have to withdraw from Gaza. But experts remain sceptical.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "IRGC targets, stops two violating oil tankers in Strait of Hormuz",
+   "url": "https://en.irna.ir/news/86224310/IRGC-targets-stops-two-violating-oil-tankers-in-Strait-of-Hormuz",
+   "published": "2026-07-31T11:07:56+00:00",
+   "summary": "Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) says two oil tankers violating regulations had been struck and stopped after ignoring its warnings.",
+   "tags": [
+    "shipping",
+    "oil"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "John Cornyn never had a problem with the so called “Fund,” which will not benefit me, but rather the great American Patriots who were hunted down like dogs and whose lives were unfairly and illegally destroyed by the Crooked Joe Biden Administration, until after I decided to Endorse and Support his Republican Primary opponent in Texas, who easily won the Nomination for the United States Senate. Perhaps there has never been a group of people treated so badly in our Nation’s history. They are suffering still, many ruined, and I felt that they should be given compensation for what has been done to them. I gave up any payments for myself, which would have been substantial, including for the illegal and unprecedented raid on Mar-a-Lago, my home in Florida, even though many legal experts, and others, including John Cornyn, said it was a shocking and disgusting display of “weaponization” against me. Such an event has never happened before, and hopefully will never happen again! I will always feel that these victims of government abuse should be paid back for what they were forced to endure, their lives have been ruined! Millions of people agree with me, as was proven in my landslide Presidential win, where this was a major subject of debate, and so did John Cornyn, until he lost his Election to an opponent that I Endorsed. Todd Blanche, a good man, should be immediately approved as U.S. Attorney General. Thank you for your attention to this matter! President DONALD J. TRUMP",
+   "url": "https://trumpstruth.org/statuses/40402",
+   "published": "2026-07-31T11:03:27+00:00",
+   "summary": "John Cornyn never had a problem with the so called “Fund,” which will not benefit me, but rather the great American Patriots who were hunted down like dogs and whose lives were unfairly and illegally destroyed by the Crooked Joe Biden Administration, until after I decided to Endorse and Support his Republican Primary opponent in Texas, who easily won the Nomination for the United States Senate. Pe",
+   "tags": [],
+   "highlight": true
+  },
   {
    "source": "Al Jazeera",
    "title": "IRGC strikes US targets in Kuwait a day after US hits Iran: Latest events",
@@ -36,12 +79,13 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "Iran war live: IRGC claims ‘retaliatory attack’ on Kuwait",
+   "title": "Iran war live: IRGC claims attack on Kuwait; Gaza peace deal announced",
    "url": "https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-irgc-claims-retaliatory-attack-on-kuwait?traffic_source=rss",
    "published": "2026-07-31T06:49:38+00:00",
-   "summary": "Iran has continued its attacks on Gulf states, in what it calls retaliation for US strikes on Thursday.",
+   "summary": "Iran says attacks in response to US strikes; Hamas says any deal is conditional on Israel&#039;s full withdrawal from Gaza.",
    "tags": [
-    "strikes"
+    "strikes",
+    "diplomacy"
    ],
    "highlight": false
   },
@@ -505,29 +549,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "Several children killed and wounded in Israeli attacks across Gaza",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/several-children-killed-and-wounded-in-israeli-attacks-across-gaza?traffic_source=rss",
-   "published": "2026-07-30T10:20:19+00:00",
-   "summary": "Israeli strikes hit multiple areas across Gaza overnight, including tents sheltering displaced families in al-Mawasi.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Why is Saudi Arabia forming a coalition to protect the Red Sea?",
-   "url": "https://www.aljazeera.com/news/2026/7/30/why-is-saudi-arabia-forming-a-coalition-to-protect-the-red-sea?traffic_source=rss",
-   "published": "2026-07-30T10:18:53+00:00",
-   "summary": "The alliance aims to defend shipping from attacks by Iran-backed Houthis in Yemen.",
-   "tags": [
-    "strikes",
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
    "source": "IRNA (Iran state wire)",
    "title": "IRGC warns of harsh response to countries involved in aiding US aggression",
    "url": "https://en.irna.ir/news/86223506/IRGC-warns-of-harsh-response-to-countries-involved-in-aiding",
@@ -618,26 +639,6 @@
     "oil"
    ],
    "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Security Council Extends Sanctions Regime Targeting Non-State Armed Groups, Individuals in Central African Republic for One Year, Unanimously Adopting Resolution 2827 (2026)",
-   "url": "https://press.un.org/en/2026/sc16424.doc.htm",
-   "published": "2026-07-29T17:29:13+00:00",
-   "summary": "The Security Council today renewed the sanctions regime targeting non-State armed groups and individuals operating in the Central African Republic for another year.",
-   "tags": [
-    "sanctions"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from July 29, 2026",
-   "url": "https://trumpstruth.org/statuses/40392",
-   "published": "2026-07-29T17:03:48+00:00",
-   "summary": "",
-   "tags": [],
-   "highlight": true
   }
  ]
 }
