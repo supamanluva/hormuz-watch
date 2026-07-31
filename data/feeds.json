@@ -1,6 +1,28 @@
 {
- "asOf": "2026-07-31T12:26:36.199308+00:00",
+ "asOf": "2026-07-31T14:12:07.782463+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran envoy delivers Leader’s message to Russian Orthodox patriarch",
+   "url": "https://en.irna.ir/news/86224394/Iran-envoy-delivers-Leader-s-message-to-Russian-Orthodox-patriarch",
+   "published": "2026-07-31T13:02:39+00:00",
+   "summary": "Moscow, IRNA – Iran’s ambassador to Russia, Kazem Jalali, has delivered a message from the Leader of the Islamic Revolution, Ayatollah Sayyid Mojtaba Khamenei, to the Russian Orthodox Church leader, Patriarch Kirill, during a meeting in Moscow.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Palestinians in Gaza react to latest ceasefire deal",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/31-07-sv-gazans-react-to-latest-deal-ps?traffic_source=rss",
+   "published": "2026-07-31T12:59:48+00:00",
+   "summary": "‘Enough is enough’, Palestinians in Gaza express little hope that the latest ceasefire deal will end the war.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Russia’s Africa Corps killed Mali civilians in air strike: HRW",
@@ -17,7 +39,7 @@
    "title": "Gaza Board of Peace announces Hamas disarmament agreement: What we know",
    "url": "https://www.aljazeera.com/news/2026/7/31/gaza-board-of-peace-announces-hamas-disarmament-agreement-what-we-know?traffic_source=rss",
    "published": "2026-07-31T11:23:09+00:00",
-   "summary": "Under the agreement, Israel would have to withdraw from Gaza. But experts remain sceptical.",
+   "summary": "Under the agreement, Israel would have to withdraw from Gaza. But Palestinians remain sceptical.",
    "tags": [
     "diplomacy"
    ],
@@ -538,17 +560,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "Attack on northwest Pakistan police post kills 11 officers",
-   "url": "https://www.aljazeera.com/news/2026/7/30/attack-on-northwest-pakistan-police-post-kills-11-officers?traffic_source=rss",
-   "published": "2026-07-30T10:21:02+00:00",
-   "summary": "Fifteen attackers were also killed during the hours-long raid in Pakistan&#039;s northwestern Hangu district.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
    "source": "IRNA (Iran state wire)",
    "title": "IRGC warns of harsh response to countries involved in aiding US aggression",
    "url": "https://en.irna.ir/news/86223506/IRGC-warns-of-harsh-response-to-countries-involved-in-aiding",
@@ -624,17 +635,6 @@
    "url": "https://en.irna.ir/news/86223313/Army-Chief-Armed-Forces-will-defend-Iran-s-soil-and-independence",
    "published": "2026-07-29T18:21:00+00:00",
    "summary": "Tehran, IRNA – The Commander of the Islamic Republic of Iran’s Army, Major General Amir Hatami, has congratulated and offered condolences on the martyrdom of Brigadier General Majid Kazemi, the heroic pilot of the Sukhoi 24, and emphasized that the Army is true to its promise to the nation and will defend the sacred the Islamic System and the pure soil of Iran and its independence against aggresso",
-   "tags": [
-    "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Army Chief: Armed Forces will defend Iran’s soil, independence against aggressors to their last breath",
-   "url": "https://en.irna.ir/news/86223313/Army-Chief-Armed-Forces-will-defend-Iran-s-soil-independence",
-   "published": "2026-07-29T18:21:00+00:00",
-   "summary": "Tehran, IRNA — The commander of the Islamic Republic of Iran’s Army, Major General Amir Hatami, has congratulated and offered condolences on the martyrdom of Brigadier General Majid Kazemi, the heroic pilot of the Sukhoi 24.",
    "tags": [
     "oil"
    ],
