@@ -1,6 +1,17 @@
 {
- "asOf": "2026-07-31T08:45:15.962018+00:00",
+ "asOf": "2026-07-31T09:46:04.402197+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "IRGC strikes US targets in Kuwait a day after US hits Iran: Latest events",
+   "url": "https://www.aljazeera.com/news/2026/7/31/irgc-strikes-us-targets-in-kuwait-a-day-after-us-hits-iran-latest-events?traffic_source=rss",
+   "published": "2026-07-31T09:09:54+00:00",
+   "summary": "Iran says it struck Kuwait in retaliation for US strikes on multiple locations in Iran, including Qeshm island.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "US–Saudi strikes on PMF launched without Baghdad’s knowledge, says Iraqi gov’t spox",
@@ -513,17 +524,6 @@
    "tags": [
     "strikes",
     "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Poland says Russian missile breaches NATO airspace",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/30-07-sv-lublin-air-sirens-pl?traffic_source=rss",
-   "published": "2026-07-30T10:13:52+00:00",
-   "summary": "Poland says a Russian missile landed inside Polish territory, breaching NATO airspace during a Russian attack on Ukraine",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   },
