@@ -1,6 +1,15 @@
 {
- "asOf": "2026-07-31T18:14:13.458342+00:00",
+ "asOf": "2026-07-31T18:55:25.662348+00:00",
  "items": [
+  {
+   "source": "White House",
+   "title": "ICYMI: Confirm Todd Blanche as Attorney General",
+   "url": "https://www.whitehouse.gov/releases/2026/07/icymi-confirm-todd-blanche-as-attorney-general/",
+   "published": "2026-07-31T18:21:59+00:00",
+   "summary": "President Donald J. Trump’s nominee for Attorney General, Todd Blanche, should be confirmed by the U.S. Senate without delay. As President Trump has stated, “Todd Blanche is a STAR, and everyone knows it!” A broad coalition of law enforcement organizations, state attorneys general, former Justice Department officials, editorial boards, legal experts, advocacy groups, and Members [&#8230;] The post",
+   "tags": [],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Why is Israel arming illegal settlers?",
@@ -628,17 +637,6 @@
    "published": "2026-07-29T21:04:12+00:00",
    "summary": "The new Permanent Representative of United Kingdom to the United Nations, Sarah MacIntosh, presented her credentials to UN Deputy Secretary-General Amina J. Mohammed today.",
    "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "Presidential Message on the Birthday of Alexis de Tocqueville",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/07/presidential-message-on-the-birthday-of-alexis-de-tocqueville/",
-   "published": "2026-07-29T19:44:12+00:00",
-   "summary": "Today, our Nation honors the life, legacy, and enduring wisdom of Alexis de Tocqueville—a great witness to the promise of our young Republic and one of the most brilliant political minds in the history of the world. In May of 1831, French magistrate Alexis de Tocqueville arrived on American soil for the first time, beginning [&#8230;] The post Presidential Message on the Birthday of Alexis de Tocq",
-   "tags": [
-    "oil"
-   ],
    "highlight": false
   }
  ]
