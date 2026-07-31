@@ -1,6 +1,72 @@
 {
- "asOf": "2026-07-31T02:44:28.604697+00:00",
+ "asOf": "2026-07-31T07:43:59.456958+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "US–Saudi strikes on PMF launched without Baghdad’s knowledge, says Iraqi gov’t spox",
+   "url": "https://en.irna.ir/news/86224145/US-Saudi-strikes-on-PMF-launched-without-Baghdad-s-knowledge",
+   "published": "2026-07-31T06:51:29+00:00",
+   "summary": "Tehran, IRNA — The Iraqi government spokesperson says that the US–Saudi airstrikes targeting the Popular Mobilization Forces (PMF) were carried out without Baghdad’s prior knowledge.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Pakistan’s attacks on Afghanistan are about more than the TTP",
+   "url": "https://www.aljazeera.com/opinions/2026/7/31/pakistans-attacks-on-afghanistan-are-about-more-than-the-ttp?traffic_source=rss",
+   "published": "2026-07-31T06:50:52+00:00",
+   "summary": "Islamabad is using a domestic insurgency to justify its broader pursuit of strategic dominance.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Iran war live: IRGC claims ‘retaliatory attack’ on Kuwait",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-irgc-claims-retaliatory-attack-on-kuwait?traffic_source=rss",
+   "published": "2026-07-31T06:49:38+00:00",
+   "summary": "Iran has continued its attacks on Gulf states, in what it calls retaliation for US strikes on Thursday.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "How US Senate Russia sanctions could spell 100% tariffs for India, China",
+   "url": "https://www.aljazeera.com/news/2026/7/31/how-us-senate-russia-sanctions-could-spell-100-tariffs-for-india-china?traffic_source=rss",
+   "published": "2026-07-31T06:24:37+00:00",
+   "summary": "Russian energy exports could face sweeping tariffs under bill named for late Senator Lindsey Graham.",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Iran holds funeral for Revolutionary Guard members reportedly killed in US",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/iran-holds-funeral-for-revolutionary-guard-members-reportedly-killed-in-us?traffic_source=rss",
+   "published": "2026-07-31T04:34:04+00:00",
+   "summary": "Residents gathered in the northwestern Iranian for the funeral of IRGC members killed in what Iran says was a US strike.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Southern Lebanese towns near Beaufort Castle hit by Israeli strikes",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/aje-onl-nf_south-lebanon-towns-beaufort-hit-by-israeli-strike-300726?traffic_source=rss",
+   "published": "2026-07-31T04:09:08+00:00",
+   "summary": "IDF said it used 700 tonnes of explosives to destroy parts of a Hezbollah tunnel network in southern Lebanon.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "‘They got trapped:’ Race to save miners after deadly blast in Pakistan",
@@ -16,6 +82,17 @@
    "source": "IRNA (Iran state wire)",
    "title": "Baghaei: US attack on a residential home in Qeshm is reminiscent of ISIS's terrorist acts",
    "url": "https://en.irna.ir/news/86224084/Baghaei-US-attack-on-a-residential-home-in-Qeshm-is-reminiscent",
+   "published": "2026-07-31T01:21:10+00:00",
+   "summary": "Tehran, IRNA — Foreign Ministry spokesperson Esmaeil Baqaei in reaction to the US raid on a home in Qeshm, which resulted in the deaths of the parents of a five-member family, described the atrocity as reminiscent of the terrorist acts committed by ISIS.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Baqaei: US attack on a residential home in Qeshm is reminiscent of ISIS's terrorist acts",
+   "url": "https://en.irna.ir/news/86224084/Baqaei-US-attack-on-a-residential-home-in-Qeshm-is-reminiscent",
    "published": "2026-07-31T01:21:10+00:00",
    "summary": "Tehran, IRNA — Foreign Ministry spokesperson Esmaeil Baqaei in reaction to the US raid on a home in Qeshm, which resulted in the deaths of the parents of a five-member family, described the atrocity as reminiscent of the terrorist acts committed by ISIS.",
    "tags": [
@@ -451,62 +528,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "US hits multiple targets in Iran as IRGC pledges retaliation: What we know",
-   "url": "https://www.aljazeera.com/news/2026/7/30/us-hits-multiple-targets-in-iran-as-irgc-pledges-retaliation-what-we-know?traffic_source=rss",
-   "published": "2026-07-30T09:49:29+00:00",
-   "summary": "Jordan said it intercepted missiles shortly after the US struck Iranian sites including Qeshm and Bushehr.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Man who stabbed author Salman Rushdie convicted of ‘terrorism’ charges",
-   "url": "https://www.aljazeera.com/news/2026/7/30/man-who-stabbed-author-salman-rushdie-convicted-of-terrorism-charges?traffic_source=rss",
-   "published": "2026-07-30T09:17:06+00:00",
-   "summary": "US court finds attacker, who is already serving a 25-year prison sentence, guilty of additional charges over 2022 assault.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Photos: Zelenskyy urges ‘protection of life’ amid deadly Russian attacks",
-   "url": "https://www.aljazeera.com/gallery/2026/7/30/photos-zelenskyy-urges-protection-of-life-amid-deadly-russian-attacks?traffic_source=rss",
-   "published": "2026-07-30T09:10:07+00:00",
-   "summary": "Russia launches more than 70 missiles and 280 drones in a major attack on Ukraine that kills at least eight people.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "US strikes cause extensive damage on Iran’s Qeshm Island",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/us-strikes-cause-extensive-damage-on-irans-qeshm-island?traffic_source=rss",
-   "published": "2026-07-30T07:24:55+00:00",
-   "summary": "Video from Iran&#039;s Qeshm Island shows widespread damage following US attacks.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "In the waters off Malaysia, Iranian oil sales continue despite blockade",
-   "url": "https://www.aljazeera.com/news/2026/7/30/in-the-waters-off-malaysia-iranian-oil-sales-continue-despite-blockade?traffic_source=rss",
-   "published": "2026-07-30T07:02:42+00:00",
-   "summary": "A large anchorage area off the coast of Malaysia is a major marketplace for sanctioned oil.",
-   "tags": [
-    "sanctions",
-    "oil"
-   ],
-   "highlight": false
-  },
-  {
    "source": "IRNA (Iran state wire)",
    "title": "IRGC warns of harsh response to countries involved in aiding US aggression",
    "url": "https://en.irna.ir/news/86223506/IRGC-warns-of-harsh-response-to-countries-involved-in-aiding",
@@ -617,28 +638,6 @@
    "summary": "",
    "tags": [],
    "highlight": true
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Hakim condemns joint US-Saudi attacks on PMF positions in Iraq",
-   "url": "https://en.irna.ir/news/86223240/Hakim-condemns-joint-US-Saudi-attacks-on-PMF-positions-in-Iraq",
-   "published": "2026-07-29T16:49:47+00:00",
-   "summary": "Tehran, IRNA – The head of Iraq’s National Wisdom Movement, Sayyid Ammar al-Hakim, has condemned the attacks by the US and Saudi Arabia on multiple Popular Mobilization Units (PMU) headquarters across various provinces of the country.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Hakim condemns joint US-Saudi attacks on PMU positions in Iraq",
-   "url": "https://en.irna.ir/news/86223240/Hakim-condemns-joint-US-Saudi-attacks-on-PMU-positions-in-Iraq",
-   "published": "2026-07-29T16:49:47+00:00",
-   "summary": "Tehran, IRNA – The head of Iraq’s National Wisdom Movement, Sayyid Ammar al-Hakim, has condemned the attacks by the US and Saudi Arabia on multiple Popular Mobilization Units (PMU) headquarters across various provinces of the country.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
   }
  ]
 }
