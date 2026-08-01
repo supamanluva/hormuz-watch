@@ -1,6 +1,17 @@
 {
- "asOf": "2026-07-31T22:29:13.685053+00:00",
+ "asOf": "2026-08-01T00:10:46.434716+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Iran war live: Iran says it has a plan to respond to any US attacks",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-iran-says-it-has-a-plan-to-respond-to-any-us-attacks?traffic_source=rss",
+   "published": "2026-07-31T23:59:40+00:00",
+   "summary": "An Iranian official quoted by Tasnim says comprehensive plans are in place to respond to any &#039;mad&#039; US strikes.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "[No Title] - Post from July 31, 2026",
@@ -492,17 +503,6 @@
    "tags": [
     "strikes",
     "sanctions"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Security camera shows ‘Russian missile’ exploding in Poland",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/security-camera-shows-russian-missile-exploding-in-poland?traffic_source=rss",
-   "published": "2026-07-30T20:39:38+00:00",
-   "summary": "Security camera video shows the moment a suspected Russian missile exploded inside Poland.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   },
