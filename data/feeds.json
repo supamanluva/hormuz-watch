@@ -1,6 +1,29 @@
 {
- "asOf": "2026-08-01T04:02:15.740487+00:00",
+ "asOf": "2026-08-01T07:17:07.075298+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Israeli regime launches fresh attacks on Lebanon amid ceasefire",
+   "url": "https://en.irna.ir/news/86224752/Israeli-regime-launches-fresh-attacks-on-Lebanon-amid-ceasefire",
+   "published": "2026-08-01T06:50:24+00:00",
+   "summary": "Tehran, IRNA – The Israeli regime’s military carried out new attacks on southern Lebanon early Saturday, with local media reporting explosions in several areas despite ongoing diplomatic efforts aimed at maintaining stability along the border.",
+   "tags": [
+    "strikes",
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Continued US warmongering will tighten Strait of Hormuz closure: Top security official",
+   "url": "https://en.irna.ir/news/86224684/Continued-US-warmongering-will-tighten-Strait-of-Hormuz-closure",
+   "published": "2026-08-01T05:51:38+00:00",
+   "summary": "Tehran, IRNA – The secretary of Iran’s Supreme National Security Council has warned that continued maritime blockade and warmongering by the United States will further tighten the closure of the Strait of Hormuz.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Yemen’s Houthis deny plan to charge ships transiting Red Sea",
@@ -25,10 +48,10 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "Russian missile attack kills three in Ukraine’s Kyiv",
+   "title": "Russian missile attacks kill at least nine in Ukraine’s Kyiv",
    "url": "https://www.aljazeera.com/news/2026/8/1/russian-missile-attack-kills-three-in-ukraines-kyiv?traffic_source=rss",
    "published": "2026-08-01T02:06:00+00:00",
-   "summary": "Residents trapped as partially collapsed building catches fire after deadly strike on Ukrainian capital.",
+   "summary": "Residents trapped as partially collapsed buildings catch fire after deadly strike on Ukrainian capital.",
    "tags": [
     "strikes"
    ],
@@ -609,26 +632,6 @@
    "url": "https://en.irna.ir/news/86223825/IRGC-hits-US-airbase-in-Kuwait-in-fresh-wave-of-attacks",
    "published": "2026-07-30T13:39:06+00:00",
    "summary": "Tehran, IRNA — The Islamic Revolution Guards Corps (IRGC) announces that it has hit the US airbase in Ali Al Salem, Kuwait, destroying two drone hangars, a fuel tank, and military helicopters.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "The White House Government Transparency Task Force Fact Sheet",
-   "url": "https://www.whitehouse.gov/releases/2026/07/the-white-house-government-transparency-task-force-fact-sheet/",
-   "published": "2026-07-30T13:18:36+00:00",
-   "summary": "The White House Government Transparency Task Force releases the following fact sheet approved by the directors of the Office of the Director of National Intelligence, the National Security Agency, the Central Intelligence Agency, and the Department of Homeland Security relating to President Donald J. Trump’s recent declassification of documents. These documents were originally produced by [&#8230;",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "US missile strike on Qeshm kills 3 family members, says Iranian official",
-   "url": "https://en.irna.ir/news/86223792/US-missile-strike-on-Qeshm-kills-3-family-members-says-Iranian",
-   "published": "2026-07-30T13:14:55+00:00",
-   "summary": "Tehran, IRNA – The deputy governor-general of Hormozgan Province says that a US missile struck a home on Iran’s Qeshm Island on Thursday, killing a child and his parents, and wounding his two siblings.",
    "tags": [
     "strikes"
    ],
