@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-01T22:49:34.091744+00:00",
+ "asOf": "2026-08-01T23:27:36.492108+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Michigan joins Minnesota in reporting cyberattacks, with FBI investigating",
+   "url": "https://www.aljazeera.com/news/2026/8/1/michigan-joins-minnesota-in-reporting-cyber-attacks-with-fbi-investigating?traffic_source=rss",
+   "published": "2026-08-01T22:34:36+00:00",
+   "summary": "No culprit has been identified in any of the attacks, which comes after authorities warned of possible Iranian plot.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "US Arabs eye ‘historic’ Senate win for Abdul El-Sayed despite AIPAC attacks",
@@ -568,17 +579,6 @@
    "url": "https://www.aljazeera.com/news/2026/7/31/world-reacts-with-cautious-optimism-to-hamas-disarmament-agreement?traffic_source=rss",
    "published": "2026-07-31T18:51:50+00:00",
    "summary": "Deal for Hamas to disarm in stages in return for Israeli withdrawal has been announced, but implementation will be key.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Trump says Hamas disarmament deal will be complex to deliver",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/trump-says-hamas-disarmament-deal-will-be-complex-to-deliver?traffic_source=rss",
-   "published": "2026-07-31T18:44:33+00:00",
-   "summary": "Trump said Israel strongly supports an agreement for the complete disarmament of Hamas",
    "tags": [
     "diplomacy"
    ],
