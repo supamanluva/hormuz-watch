@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-01T15:09:38.959528+00:00",
+ "asOf": "2026-08-01T15:45:52.643331+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Two ex-Sri Lanka officials sentenced to death over 2019 Easter bombings",
+   "url": "https://www.aljazeera.com/news/2026/8/1/two-ex-sri-lanka-officials-sentenced-to-death-over-2019-easter-bombings?traffic_source=rss",
+   "published": "2026-08-01T15:34:15+00:00",
+   "summary": "Former officials will appeal sentences handed down for neglecting intelligence warnings before the deadly attacks.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Israeli strike destroys Gaza hospital warehouse",
@@ -453,17 +464,6 @@
    "url": "https://en.irna.ir/news/86224145/US-Saudi-strikes-on-PMF-launched-without-Baghdad-s-knowledge",
    "published": "2026-07-31T06:51:29+00:00",
    "summary": "Tehran, IRNA — The Iraqi government spokesperson says that the US–Saudi airstrikes targeting the Popular Mobilization Forces (PMF) were carried out without Baghdad’s prior knowledge.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Pakistan’s attacks on Afghanistan are about more than the TTP",
-   "url": "https://www.aljazeera.com/opinions/2026/7/31/pakistans-attacks-on-afghanistan-are-about-more-than-the-ttp?traffic_source=rss",
-   "published": "2026-07-31T06:50:52+00:00",
-   "summary": "Islamabad is using a domestic insurgency to justify its broader pursuit of strategic dominance.",
    "tags": [
     "strikes"
    ],
