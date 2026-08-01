@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-01T21:48:38.519184+00:00",
+ "asOf": "2026-08-01T22:26:45.092095+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Foreign Ministry: Iran to use all means for legitimate defense of national rights and security",
+   "url": "https://en.irna.ir/news/86225495/Foreign-Ministry-Iran-to-use-all-means-for-legitimate-defense",
+   "published": "2026-08-01T22:02:35+00:00",
+   "summary": "Tehran, IRNA – In a statement regarding the continued epic defense of Iran’s sovereignty against unlawful US threats and attacks, the Ministry of Foreign Affairs of the Islamic Republic of Iran emphasized that it would utilize all means to legitimately defend the nation’s rights and security.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Fighting breaks out in western Tigray as Ethiopia and TPLF trade blame",
@@ -601,18 +612,6 @@
    "summary": "Moscow, IRNA – Iran’s ambassador to Russia, Kazem Jalali, has delivered a message from the Leader of the Islamic Revolution, Ayatollah Sayyid Mojtaba Khamenei, to the Russian Orthodox Church leader, Patriarch Kirill, during a meeting in Moscow.",
    "tags": [
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "IRGC targets, stops two violating oil tankers in Strait of Hormuz",
-   "url": "https://en.irna.ir/news/86224310/IRGC-targets-stops-two-violating-oil-tankers-in-Strait-of-Hormuz",
-   "published": "2026-07-31T11:07:56+00:00",
-   "summary": "Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) says two oil tankers violating regulations had been struck and stopped after ignoring its warnings.",
-   "tags": [
-    "shipping",
-    "oil"
    ],
    "highlight": false
   }
