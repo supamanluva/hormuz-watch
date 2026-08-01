@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-01T14:01:15.270155+00:00",
+ "asOf": "2026-08-01T15:09:38.959528+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Israeli strike destroys Gaza hospital warehouse",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/01-08-israel-strike-gaza-hospital-sv-mp4?traffic_source=rss",
+   "published": "2026-08-01T14:07:36+00:00",
+   "summary": "Israeli strike destroys medical supplies warehouse at Gaza&#039;s Al-Aqsa Martyrs Hospital, staff say.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Iran warns against ‘flames of war’ amid US strike threats on energy sites",
@@ -455,18 +466,6 @@
    "summary": "Islamabad is using a domestic insurgency to justify its broader pursuit of strategic dominance.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iran war live: IRGC claims attack on Kuwait; Gaza peace deal announced",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-irgc-claims-retaliatory-attack-on-kuwait?traffic_source=rss",
-   "published": "2026-07-31T06:49:38+00:00",
-   "summary": "Iran says attacks in response to US strikes; Hamas says any deal is conditional on Israel&#039;s full withdrawal from Gaza.",
-   "tags": [
-    "strikes",
-    "diplomacy"
    ],
    "highlight": false
   },
