@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-01T09:10:35.886157+00:00",
+ "asOf": "2026-08-01T10:07:46.125364+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Sri Lanka sentences two officials to death for not stopping Easter bombings",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/sri-lanka-sentences-two-officials-to-death-for-not-stopping-easter-bombings?traffic_source=rss",
+   "published": "2026-08-01T09:19:47+00:00",
+   "summary": "Sri Lanka sentences two officials to death for not stopping 2019 Easter bombings.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Israeli regime launches fresh attacks on Lebanon amid ceasefire",
@@ -434,17 +445,6 @@
    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/aje-onl-nf_south-lebanon-towns-beaufort-hit-by-israeli-strike-300726?traffic_source=rss",
    "published": "2026-07-31T04:09:08+00:00",
    "summary": "IDF said it used 700 tonnes of explosives to destroy parts of a Hezbollah tunnel network in southern Lebanon.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "‘They got trapped:’ Race to save miners after deadly blast in Pakistan",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/they-got-trapped-race-to-save-miners-after-deadly-blast-in-pakistan?traffic_source=rss",
-   "published": "2026-07-31T01:59:34+00:00",
-   "summary": "Emergency workers are digging to get oxygen into a mine after an explosion in Pakistan&#039;s Balochistan Province.",
    "tags": [
     "strikes"
    ],
