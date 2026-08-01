@@ -1,6 +1,49 @@
 {
- "asOf": "2026-08-01T00:59:47.111283+00:00",
+ "asOf": "2026-08-01T02:44:33.177926+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Russian missile attack kills three in Ukraine’s Kyiv",
+   "url": "https://www.aljazeera.com/news/2026/8/1/russian-missile-attack-kills-three-in-ukraines-kyiv?traffic_source=rss",
+   "published": "2026-08-01T02:06:00+00:00",
+   "summary": "Residents trapped as partially collapsed building catches fire after deadly strike on Ukrainian capital.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "US military says F-35B jet fighter crashes in California, pilot safe",
+   "url": "https://www.aljazeera.com/news/2026/8/1/us-military-says-f-35b-jet-fighter-crashes-in-california-pilot-safe?traffic_source=rss",
+   "published": "2026-08-01T01:55:27+00:00",
+   "summary": "The jet went down on Friday near the Miramar airbase in San Diego.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "Federal Appeals Court Rejects Bid to Block Trump’s Mail Voting Restrictions:",
+   "url": "https://trumpstruth.org/statuses/40408",
+   "published": "2026-08-01T01:46:40+00:00",
+   "summary": "Federal Appeals Court Rejects Bid to Block Trump’s Mail Voting Restrictions: https://www. theepochtimes.com/us/federal-a ppeals-court-rejects-bid-to-block-trumps-mail-voting-restrictions-6068410",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Israel launches attacks across Gaza one day after Hamas agrees to disarm",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/israel-launches-attacks-across-gaza-one-day-after-hamas-agrees-to-disarm?traffic_source=rss",
+   "published": "2026-08-01T00:48:37+00:00",
+   "summary": "Israeli attacks across Gaza have killed at least two Palestinians, hours after Hamas agreed to a draft peace deal.",
+   "tags": [
+    "strikes",
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Iran war live: Trump threatens strikes, Iran says it has a plan to respond",
@@ -439,17 +482,6 @@
    "highlight": true
   },
   {
-   "source": "Al Jazeera",
-   "title": "Hamas reaches Gaza disarmament agreement with Board of Peace",
-   "url": "https://www.aljazeera.com/news/2026/7/30/trump-says-board-of-peace-reaches-agreement-on-disarmament-of-hamas-in-gaza?traffic_source=rss",
-   "published": "2026-07-30T22:34:19+00:00",
-   "summary": "US president says Israel will withdraw from Gaza once the Palestinian group disarms.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
    "source": "Trump · Truth Social",
    "title": "Today, the Board of Peace reached a HISTORIC agreement for the COMPLETE DISARMAMENT of Hamas and all other armed groups in Gaza. This is a monumental step toward lasting PEACE and SECURITY.This agreement is a critical step towards Gaza finally being governed by a new Palestinian government that will work closely with the Board of Peace to help the Palestinian people. At the same time, Israel will have the security it deserves, with Gaza no longer used as a base for terror attacks.This is a major milestone in the implementation of the Trump 20-Point Plan. The agreement will be carried out in carefully structured phases. As disarmament is completed, Israeli forces will withdraw, and the International Stabilization Force will work with a new Palestinian police force to take responsibility for Gaza being safe for its residents and its neighbors.One year ago there was a violent raging war, humanitarian crisis and hostages kept in brutal captivity. We have made historic progress and there is still much work to do.I want to thank the mediators—Egypt, Qatar, and Türkiye—for their important efforts, and especially my outstanding team, whose tireless work made this historic breakthrough possible.The threat that emerged from Gaza on October 7 will NOT be allowed to rebuild! Under this agreement, Gaza will finally be in the hands of a new Palestinian government that serves its PEOPLE.CONGRATULATIONS TO ALL ON THIS AMAZING DEVELOPMENT, THAT EVERYBODY SAID COULD NEVER BE ACHIEVED!DONALD J. TRUMPPresident of the United States of America",
    "url": "https://trumpstruth.org/statuses/40397",
@@ -462,17 +494,6 @@
    "highlight": true
   },
   {
-   "source": "Al Jazeera",
-   "title": "Why is US GDP growth slowing, and how can it be reversed?",
-   "url": "https://www.aljazeera.com/economy/2026/7/30/why-is-us-gdp-growth-slowing-and-how-can-it-be-reversed?traffic_source=rss",
-   "published": "2026-07-30T21:39:37+00:00",
-   "summary": "Tariffs and oil price hikes create a supply shock, dragging down US economic growth in the second quarter of 2026.",
-   "tags": [
-    "oil"
-   ],
-   "highlight": false
-  },
-  {
    "source": "IRNA (Iran state wire)",
    "title": "Iranian envoy, president of Montenegro stress expansion of bilateral ties",
    "url": "https://en.irna.ir/news/86224048/Iranian-envoy-president-of-Montenegro-stress-expansion-of-bilateral",
@@ -480,17 +501,6 @@
    "summary": "Tehran, IRNA – The accredited ambassador of the Islamic Republic of Iran to Montenegro, while presenting his credentials during a meeting with that country's president, emphasized that Iran is determined to develop and strengthen relations with all interested nations based on mutual respect and shared interests.",
    "tags": [
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Will Saudi Arabia be dragged further into the war in Iran?",
-   "url": "https://www.aljazeera.com/video/inside-story/2026/7/30/will-saudi-arabia-be-dragged-further-into-the-war-in-iran?traffic_source=rss",
-   "published": "2026-07-30T21:00:28+00:00",
-   "summary": "Anger in Iraq after US-Saudi strikes on paramilitary group with ties to Tehran.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   },
@@ -619,17 +629,6 @@
    "url": "https://en.irna.ir/news/86223792/US-missile-strike-on-Qeshm-kills-3-family-members-says-Iranian",
    "published": "2026-07-30T13:14:55+00:00",
    "summary": "Tehran, IRNA – The deputy governor-general of Hormozgan Province says that a US missile struck a home on Iran’s Qeshm Island on Thursday, killing a child and his parents, and wounding his two siblings.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "IRGC strike obliterates 3 US F-35s, kills troops in Jordan",
-   "url": "https://en.irna.ir/news/86223773/IRGC-strike-obliterates-3-US-F-35s-kills-troops-in-Jordan",
-   "published": "2026-07-30T12:25:43+00:00",
-   "summary": "Tehran, IRNA — The Aerospace Force of the Islamic Revolution Guards Corps (IRGC) has announced it has destroyed three American F-35 fighter jets and killed US military personnel in a retaliatory missile strike on Al Azraq Air Base in Jordan.",
    "tags": [
     "strikes"
    ],
