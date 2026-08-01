@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-01T10:07:46.125364+00:00",
+ "asOf": "2026-08-01T10:56:53.839379+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Iranian Kurdish parties in Iraq face a delicate balance amid Iran attacks",
+   "url": "https://www.aljazeera.com/news/2026/8/1/iranian-kurdish-parties-in-iraq-face-a-delicate-balance-amid-iran-attacks?traffic_source=rss",
+   "published": "2026-08-01T09:47:39+00:00",
+   "summary": "Iranian Kurdish groups based in Iraq have been heavily attacked in the war, but most deny US assistance.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Sri Lanka sentences two officials to death for not stopping Easter bombings",
@@ -434,17 +445,6 @@
    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/iran-holds-funeral-for-revolutionary-guard-members-reportedly-killed-in-us?traffic_source=rss",
    "published": "2026-07-31T04:34:04+00:00",
    "summary": "Residents gathered in the northwestern Iranian for the funeral of IRGC members killed in what Iran says was a US strike.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Southern Lebanese towns near Beaufort Castle hit by Israeli strikes",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/aje-onl-nf_south-lebanon-towns-beaufort-hit-by-israeli-strike-300726?traffic_source=rss",
-   "published": "2026-07-31T04:09:08+00:00",
-   "summary": "IDF said it used 700 tonnes of explosives to destroy parts of a Hezbollah tunnel network in southern Lebanon.",
    "tags": [
     "strikes"
    ],
