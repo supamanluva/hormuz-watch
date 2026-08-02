@@ -1,6 +1,74 @@
 {
- "asOf": "2026-08-02T14:01:40.073019+00:00",
+ "asOf": "2026-08-02T15:46:28.726654+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iranian envoy: External challenges cannot affect Iran-Pakistan relations",
+   "url": "https://en.irna.ir/news/86226298/Iranian-envoy-External-challenges-cannot-affect-Iran-Pakistan",
+   "published": "2026-08-02T15:32:09+00:00",
+   "summary": "Islamabad, IRNA – Iranian Ambassador to Pakistan Reza Amiri Moghadam says that challenges and external factors cannot weaken the longstanding relationship between Tehran and Islamabad, describing ties between the two neighboring countries as a model of sincere interaction and mutual respect for regional relations.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Ukrainian farmers use temporary storage to revive grain exports",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/ukrainian-farmers-use-temporary-storage-to-revive-grain-exports?traffic_source=rss",
+   "published": "2026-08-02T15:14:26+00:00",
+   "summary": "Russian attacks disrupt Black Sea exports, forcing Ukrainian farmers to use temporary grain storage.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Heatwave forces nuclear shutdown in Hungary",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/08-02-2026-hungary-nuclear-plant-sv?traffic_source=rss",
+   "published": "2026-08-02T14:44:34+00:00",
+   "summary": "Hungary says a heatwave has forced the shutdown of its largest nuclear plant as low Danube levels disrupt cooling.",
+   "tags": [
+    "nuclear"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Tanks, troops and space",
+   "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/2/tanks-troops-and-space?traffic_source=rss",
+   "published": "2026-08-02T14:34:21+00:00",
+   "summary": "Andrius Kubilius on the lessons from Ukraine and why drones and space are transforming Europe&#039;s security strategy.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "No breakthrough on Strait of Hormuz as Trump halts attack on Iran",
+   "url": "https://www.aljazeera.com/news/2026/8/2/no-breakthrough-on-strait-of-hormuz-as-trump-halts-attack-on-iran?traffic_source=rss",
+   "published": "2026-08-02T14:11:54+00:00",
+   "summary": "Iran says Trump&#039;s comment on pullback from threatened strikes made &#039;within the context of psychological operations&#039;.",
+   "tags": [
+    "strikes",
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Rubio’s bypass plan: Can the world escape the Strait of Hormuz chokepoint?",
+   "url": "https://www.aljazeera.com/economy/2026/8/2/rubios-bypass-plan-can-the-world-escape-the-strait-of-hormuz-chokepoint?traffic_source=rss",
+   "published": "2026-08-02T13:59:49+00:00",
+   "summary": "Experts warn that Marco Rubio&#039;s Hormuz bypass plan is hindered by pipeline limits and severe Red Sea threats.",
+   "tags": [
+    "strikes",
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Pakistan-administered Kashmir election boycott follows deadly crackdown",
@@ -507,39 +575,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "Trump mimics sound of Patriot missile interceptions",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/aje-onl-nf_01-08-trump-jordan-missiles-clip-010826?traffic_source=rss",
-   "published": "2026-08-01T11:21:32+00:00",
-   "summary": "US President Donald Trump mimicked missile interceptions as he described the US military shooting down Iranian missiles.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iranian Kurdish parties in Iraq face a delicate balance amid Iran attacks",
-   "url": "https://www.aljazeera.com/news/2026/8/1/iranian-kurdish-parties-in-iraq-face-a-delicate-balance-amid-iran-attacks?traffic_source=rss",
-   "published": "2026-08-01T09:47:39+00:00",
-   "summary": "Iranian Kurdish groups based in Iraq have been heavily attacked in the war, but most deny US assistance.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Sri Lanka sentences two officials to death for not stopping Easter bombings",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/sri-lanka-sentences-two-officials-to-death-for-not-stopping-easter-bombings?traffic_source=rss",
-   "published": "2026-08-01T09:19:47+00:00",
-   "summary": "Sri Lanka sentences two officials to death for not stopping 2019 Easter bombings.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
    "source": "IRNA (Iran state wire)",
    "title": "Israeli regime launches fresh attacks on Lebanon amid ceasefire",
    "url": "https://en.irna.ir/news/86224752/Israeli-regime-launches-fresh-attacks-on-Lebanon-amid-ceasefire",
@@ -559,28 +594,6 @@
    "summary": "Tehran, IRNA – The secretary of Iran’s Supreme National Security Council has warned that continued maritime blockade and warmongering by the United States will further tighten the closure of the Strait of Hormuz.",
    "tags": [
     "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Yemen’s Houthis deny plan to charge ships transiting Red Sea",
-   "url": "https://www.aljazeera.com/news/2026/8/1/yemens-houthis-deny-plan-to-charge-ships-transiting-red-sea?traffic_source=rss",
-   "published": "2026-08-01T03:33:38+00:00",
-   "summary": "Houthis say Red Sea route remains free to use, pushing back on report of new shipping fees.",
-   "tags": [
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Is Israel really ready to withdraw from Gaza?",
-   "url": "https://www.aljazeera.com/news/2026/8/1/is-israel-really-ready-to-withdraw-from-gaza?traffic_source=rss",
-   "published": "2026-08-01T03:21:52+00:00",
-   "summary": "Netanyahu faces political turmoil over Gaza disarmament plan tied to Israel&#039;s potential withdrawal from the enclave.",
-   "tags": [
-    "oil"
    ],
    "highlight": false
   },
@@ -611,15 +624,6 @@
    "url": "https://www.whitehouse.gov/releases/2026/07/president-trump-hosts-historic-cabinet-meeting-at-camp-david/",
    "published": "2026-07-31T19:55:19+00:00",
    "summary": "President Donald J. Trump convened his Cabinet today for the first live, televised Cabinet meeting at Camp David in American history. The session showcased the Trump Administration’s rapid progress in restoring American strength, security, prosperity, and common sense after years of Democrat-driven decline. President Trump opened the meeting by highlighting some of his Administration’s signature [",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "ICYMI: Confirm Todd Blanche as Attorney General",
-   "url": "https://www.whitehouse.gov/releases/2026/07/icymi-confirm-todd-blanche-as-attorney-general/",
-   "published": "2026-07-31T18:21:59+00:00",
-   "summary": "President Donald J. Trump’s nominee for Attorney General, Todd Blanche, should be confirmed by the U.S. Senate without delay. As President Trump has stated, “Todd Blanche is a STAR, and everyone knows it!” A broad coalition of law enforcement organizations, state attorneys general, former Justice Department officials, editorial boards, legal experts, advocacy groups, and Members [&#8230;] The post",
    "tags": [],
    "highlight": false
   }
