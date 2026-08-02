@@ -1,5 +1,5 @@
 {
- "asOf": "2026-08-02T12:13:19.175681+00:00",
+ "asOf": "2026-08-02T12:45:22.270723+00:00",
  "items": [
   {
    "source": "Trump · Truth Social",
@@ -92,12 +92,13 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "Israel kills eight in Gaza despite Trump’s Hamas disarmament plan",
+   "title": "Israeli forces kill 8 in Gaza, toll now 18 since latest Trump peace plan",
    "url": "https://www.aljazeera.com/news/2026/8/2/israel-kills-five-in-gaza-despite-trumps-hamas-disarmament-plan?traffic_source=rss",
    "published": "2026-08-02T02:58:51+00:00",
-   "summary": "Strikes hit Gaza homes after the US unveiled plans for Hamas disarmament and Israeli withdrawal.",
+   "summary": "Israeli ceasefire violations mount as strikes target critical Gaza infrastructure and residential buildings",
    "tags": [
-    "strikes"
+    "strikes",
+    "diplomacy"
    ],
    "highlight": false
   },
