@@ -1,6 +1,28 @@
 {
- "asOf": "2026-08-02T05:14:04.515679+00:00",
+ "asOf": "2026-08-02T06:20:18.632468+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "UN voices concern over Israeli demolitions in Lebanon",
+   "url": "https://en.irna.ir/news/86225617/UN-voices-concern-over-Israeli-demolitions-in-Lebanon",
+   "published": "2026-08-02T06:07:34+00:00",
+   "summary": "Tehran, IRNA – The United Nations has expressed deep concern over Israel’s demolitions in southern Lebanon, which have continued in recent days despite a ceasefire.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Three dead including female bomber in Moscow restaurant attack",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/three-dead-including-female-bomber-in-moscow-restaurant-attack?traffic_source=rss",
+   "published": "2026-08-02T04:44:55+00:00",
+   "summary": "At least three people are dead and more than 20 injured after a bomb exploded outside a restaurant in central Moscow.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Trump cancels Iran strike, says ‘deal perimeters’ reached",
@@ -51,13 +73,14 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "Iran war live: Trump cancels attack, says ‘perimeters of a deal’ agreed",
+   "title": "Iran war live: Trump cancels attack, calls for a ‘rapid’ deal on Hormuz",
    "url": "https://www.aljazeera.com/news/liveblog/2026/8/2/iran-war-live-tehran-warns-of-decisive-response-to-any-us-aggression?traffic_source=rss",
    "published": "2026-08-02T00:00:00+00:00",
    "summary": "Move comes after Iran&#039;s top diplomat warned of a &#039;decisive response&#039; to any US-Israeli &#039;aggression&#039;.",
    "tags": [
     "strikes",
-    "diplomacy"
+    "diplomacy",
+    "shipping"
    ],
    "highlight": false
   },
@@ -551,17 +574,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "Iran war live: Tehran attacks Kuwait, threatens region with ‘flames of war’",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-iran-says-it-has-a-plan-to-respond-to-any-us-attacks?traffic_source=rss",
-   "published": "2026-07-31T23:59:40+00:00",
-   "summary": "Kuwait says several vital facilities were targets of Iranian drones that its army detected and destroyed since dawn.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
    "source": "White House",
    "title": "To Facilitate Positive Adjustment to Competition from Imports of Quartz Surface Products",
    "url": "https://www.whitehouse.gov/presidential-actions/2026/07/to-facilitate-positive-adjustment-to-competition-from-imports-of-quartz-surface-products/",
@@ -608,17 +620,6 @@
    "summary": "Tehran, IRNA – Persian Gulf Strait Authority says that transit through the Strait of Hormuz remains suspended due to continuing “aggressive actions” by US military forces in the region.",
    "tags": [
     "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran envoy delivers Leader’s message to Russian Orthodox patriarch",
-   "url": "https://en.irna.ir/news/86224394/Iran-envoy-delivers-Leader-s-message-to-Russian-Orthodox-patriarch",
-   "published": "2026-07-31T13:02:39+00:00",
-   "summary": "Moscow, IRNA – Iran’s ambassador to Russia, Kazem Jalali, has delivered a message from the Leader of the Islamic Revolution, Ayatollah Sayyid Mojtaba Khamenei, to the Russian Orthodox Church leader, Patriarch Kirill, during a meeting in Moscow.",
-   "tags": [
-    "diplomacy"
    ],
    "highlight": false
   }
