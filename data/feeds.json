@@ -1,6 +1,26 @@
 {
- "asOf": "2026-08-02T18:10:35.137429+00:00",
+ "asOf": "2026-08-02T18:45:06.700870+00:00",
  "items": [
+  {
+   "source": "Trump · Truth Social",
+   "title": "The Winning Shot in the Bedminster Club Championship! Thank you very much to all of those who participated. I won with a score of 70, and am so honored in that, unlike the rest of the field, I’m given very little time to practice, because I’m focused on many other things. It’s called TALENT, and I have it, and they don’t! President DONALD J. TRUMP",
+   "url": "https://trumpstruth.org/statuses/40461",
+   "published": "2026-08-02T18:30:59+00:00",
+   "summary": "The Winning Shot in the Bedminster Club Championship! Thank you very much to all of those who participated. I won with a score of 70, and am so honored in that, unlike the rest of the field, I’m given very little time to practice, because I’m focused on many other things. It’s called TALENT, and I have it, and they don’t! President DONALD J. TRUMP",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Fetus found among the ruins of a deadly Israeli strike on Gaza",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/fetus-found-among-the-ruins-of-a-deadly-israeli-strike-on-gaza?traffic_source=rss",
+   "published": "2026-08-02T17:57:01+00:00",
+   "summary": "Residents searching through the rubble of an Israeli strike in western Gaza City recovered the body of an unborn baby.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Suicide bomber kills 14 outside police station in Pakistan’s Swat",
@@ -521,15 +541,6 @@
    "highlight": false
   },
   {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from August 1, 2026",
-   "url": "https://trumpstruth.org/statuses/40435",
-   "published": "2026-08-01T18:19:44+00:00",
-   "summary": "",
-   "tags": [],
-   "highlight": true
-  },
-  {
    "source": "Al Jazeera",
    "title": "At least 9 people killed in Russian missile attacks on Kyiv",
    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/at-least-9-people-killed-in-russian-missile-attacks-on-kyiv?traffic_source=rss",
@@ -550,18 +561,6 @@
     "strikes",
     "diplomacy",
     "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Israeli strikes kill seven across Gaza, destroy medical supply warehouse",
-   "url": "https://www.aljazeera.com/news/2026/8/1/israeli-strikes-kill-four-across-gaza-destroy-medical-supply-warehouse?traffic_source=rss",
-   "published": "2026-08-01T16:07:10+00:00",
-   "summary": "Attacks kill seven as Gaza Health Ministry condemns &#039;heinous&#039; strike on medicine stores, days after disarmament deal.",
-   "tags": [
-    "strikes",
-    "diplomacy"
    ],
    "highlight": false
   },
