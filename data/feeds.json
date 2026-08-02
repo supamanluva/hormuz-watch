@@ -1,6 +1,53 @@
 {
- "asOf": "2026-08-02T12:45:22.270723+00:00",
+ "asOf": "2026-08-02T14:01:40.073019+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Pakistan-administered Kashmir election boycott follows deadly crackdown",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/02-08-reported-kamal-hyder-pak-pk?traffic_source=rss",
+   "published": "2026-08-02T13:40:55+00:00",
+   "summary": "Residents in Muzaffarabad, in Pakistan-administered Kashmir, have boycotted the election amid a strike.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "Why I Put President Trump's Name on Palm Beach's Airport:",
+   "url": "https://trumpstruth.org/statuses/40456",
+   "published": "2026-08-02T12:58:43+00:00",
+   "summary": "Why I Put President Trump's Name on Palm Beach's Airport: https:// townhall.com/columnists/meg-we inberger/2026/07/14/why-i-put-president-trumps-name-on-palm-beachs-airport-n2679374",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "Trump’s Energy Triumph:",
+   "url": "https://trumpstruth.org/statuses/40457",
+   "published": "2026-08-02T12:58:05+00:00",
+   "summary": "Trump’s Energy Triumph: https://www. wsj.com/opinion/trumps-energy- triumph-82e4b953",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "Mexico's Problem:",
+   "url": "https://trumpstruth.org/statuses/40458",
+   "published": "2026-08-02T12:57:45+00:00",
+   "summary": "Mexico's Problem: https://www. billoreilly.com/b/Mexicos-Prob lem/-45344169968241838.html",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "'PO'd' Evers vows to resist any FBI effort to seize Milwaukee ballots:",
+   "url": "https://trumpstruth.org/statuses/40459",
+   "published": "2026-08-02T12:57:27+00:00",
+   "summary": "'PO'd' Evers vows to resist any FBI effort to seize Milwaukee ballots: https://www. jsonline.com/story/news/politi cs/2026/03/11/tony-evers-vows-to-resist-any-effort-to-seize-2020-milwaukee-ballots/89097930007/",
+   "tags": [],
+   "highlight": true
+  },
   {
    "source": "Trump · Truth Social",
    "title": "Trump's new NIH chief outlines sweeping reforms like new pandemic playbook, vaccine injury body:",
@@ -380,44 +427,6 @@
    "highlight": true
   },
   {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from August 1, 2026",
-   "url": "https://trumpstruth.org/statuses/40430",
-   "published": "2026-08-01T18:13:34+00:00",
-   "summary": "",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from August 1, 2026",
-   "url": "https://trumpstruth.org/statuses/40431",
-   "published": "2026-08-01T18:13:20+00:00",
-   "summary": "",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from August 1, 2026",
-   "url": "https://trumpstruth.org/statuses/40432",
-   "published": "2026-08-01T18:13:00+00:00",
-   "summary": "",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Because of President Donald J. Trump, Oil Exports are SURGING!",
-   "url": "https://trumpstruth.org/statuses/40433",
-   "published": "2026-08-01T18:12:32+00:00",
-   "summary": "Because of President Donald J. Trump, Oil Exports are SURGING!",
-   "tags": [
-    "oil"
-   ],
-   "highlight": true
-  },
-  {
    "source": "Al Jazeera",
    "title": "At least 9 people killed in Russian missile attacks on Kyiv",
    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/at-least-9-people-killed-in-russian-missile-attacks-on-kyiv?traffic_source=rss",
@@ -572,17 +581,6 @@
    "summary": "Netanyahu faces political turmoil over Gaza disarmament plan tied to Israel&#039;s potential withdrawal from the enclave.",
    "tags": [
     "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Russian missile attacks kill at least nine in Ukraine’s Kyiv",
-   "url": "https://www.aljazeera.com/news/2026/8/1/russian-missile-attack-kills-three-in-ukraines-kyiv?traffic_source=rss",
-   "published": "2026-08-01T02:06:00+00:00",
-   "summary": "Residents trapped as partially collapsed buildings catch fire after deadly strike on Ukrainian capital.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   },
