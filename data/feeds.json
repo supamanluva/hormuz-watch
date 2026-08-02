@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-01T23:27:36.492108+00:00",
+ "asOf": "2026-08-02T00:07:39.300817+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Singapore bans UK band Massive Attack over Palestinian flag",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/singapore-bans-uk-band-massive-attack-over-palestinian-flag?traffic_source=rss",
+   "published": "2026-08-01T23:57:30+00:00",
+   "summary": "Singapore barred two members of British band Massive Attack from re-entering the country.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Michigan joins Minnesota in reporting cyberattacks, with FBI investigating",
@@ -204,10 +215,10 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "At least three killed in explosion near cafe in Russia’s Moscow",
+   "title": "Three die in Moscow restaurant bombing",
    "url": "https://www.aljazeera.com/news/2026/8/1/russia-says-explosion-near-cafe-in-moscow-kills-three?traffic_source=rss",
    "published": "2026-08-01T18:22:35+00:00",
-   "summary": "More than 15 people also ​injured ‌in the blast in Kudrinskaya Square, authorities say.",
+   "summary": "Russian officials say more than 21 others were ​injured ‌in the blast in Kudrinskaya Square.",
    "tags": [
     "strikes"
    ],
@@ -568,17 +579,6 @@
    "url": "https://www.aljazeera.com/news/2026/7/31/trump-says-us-has-understanding-with-israel-on-hamas-disarmament-deal?traffic_source=rss",
    "published": "2026-07-31T19:18:54+00:00",
    "summary": "Israel has not yet agreed to plan for Hamas to surrender weapons in exchange for full Israeli withdrawal from Gaza.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "World reacts with cautious optimism to Hamas disarmament agreement",
-   "url": "https://www.aljazeera.com/news/2026/7/31/world-reacts-with-cautious-optimism-to-hamas-disarmament-agreement?traffic_source=rss",
-   "published": "2026-07-31T18:51:50+00:00",
-   "summary": "Deal for Hamas to disarm in stages in return for Israeli withdrawal has been announced, but implementation will be key.",
    "tags": [
     "diplomacy"
    ],
