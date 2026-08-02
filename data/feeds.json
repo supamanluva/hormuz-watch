@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-02T10:06:17.200105+00:00",
+ "asOf": "2026-08-02T11:17:07.712408+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran’s top rights body: US strike on Qeshm home grave violation of int’l humanitarian law",
+   "url": "https://en.irna.ir/news/86226013/Iran-s-top-rights-body-US-strike-on-Qeshm-home-grave-violation",
+   "published": "2026-08-02T10:05:40+00:00",
+   "summary": "Tehran, IRNA – Iran’s High Council for Human Rights has strongly condemned the latest US attacks on residential areas in Iran, which left civilian casualties, calling the aggression “a clear example of American human rights” and a grave violation of international humanitarian law.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Why has Trump halted Iran attacks, and what is the deal he is hinting at?",
@@ -97,14 +108,12 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "Iran war live: Trump cancels attack, calls for a ‘rapid’ deal on Hormuz",
+   "title": "Iran war live: Trump cancels attack, Israel kills 9 in Gaza",
    "url": "https://www.aljazeera.com/news/liveblog/2026/8/2/iran-war-live-tehran-warns-of-decisive-response-to-any-us-aggression?traffic_source=rss",
    "published": "2026-08-02T00:00:00+00:00",
    "summary": "Move comes after Iran&#039;s top diplomat warned of a &#039;decisive response&#039; to any US-Israeli &#039;aggression&#039;.",
    "tags": [
-    "strikes",
-    "diplomacy",
-    "shipping"
+    "strikes"
    ],
    "highlight": false
   },
@@ -611,17 +620,6 @@
    "published": "2026-07-31T18:21:59+00:00",
    "summary": "President Donald J. Trump’s nominee for Attorney General, Todd Blanche, should be confirmed by the U.S. Senate without delay. As President Trump has stated, “Todd Blanche is a STAR, and everyone knows it!” A broad coalition of law enforcement organizations, state attorneys general, former Justice Department officials, editorial boards, legal experts, advocacy groups, and Members [&#8230;] The post",
    "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Persian Gulf Strait Authority says Hormuz remains closed",
-   "url": "https://en.irna.ir/news/86224486/Persian-Gulf-Strait-Authority-says-Hormuz-remains-closed",
-   "published": "2026-07-31T16:18:54+00:00",
-   "summary": "Tehran, IRNA – Persian Gulf Strait Authority says that transit through the Strait of Hormuz remains suspended due to continuing “aggressive actions” by US military forces in the region.",
-   "tags": [
-    "shipping"
-   ],
    "highlight": false
   }
  ]
