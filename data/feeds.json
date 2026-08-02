@@ -1,6 +1,66 @@
 {
- "asOf": "2026-08-02T00:07:39.300817+00:00",
+ "asOf": "2026-08-02T04:01:44.042479+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Trump cancels Iran strike, says ‘deal perimeters’ reached",
+   "url": "https://www.aljazeera.com/news/2026/8/2/trump-cancels-iran-strike-says-deal-perimeters-reached?traffic_source=rss",
+   "published": "2026-08-02T03:36:43+00:00",
+   "summary": "The US president announced that he has cancelled a planned military strike on Iran, claiming progress in talks.",
+   "tags": [
+    "strikes",
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Israel kills eight in Gaza despite Trump’s Hamas disarmament plan",
+   "url": "https://www.aljazeera.com/news/2026/8/2/israel-kills-five-in-gaza-despite-trumps-hamas-disarmament-plan?traffic_source=rss",
+   "published": "2026-08-02T02:58:51+00:00",
+   "summary": "Strikes hit Gaza homes after the US unveiled plans for Hamas disarmament and Israeli withdrawal.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "The U.S.A. is locked and loaded and ready to go against the Islamic Republic of Iran, at levels of Military Terror, Strength, and Power not seen since World War II. Despite this, we have just been asked by Iran, and other Middle Eastern Countries, to hold off any attack in that the perimeters of a deal has been agreed to. This would include the Immediate, Complete, and Total OPENING OF THE HORMUZ STRAIT, and an end to Iran’s nuclear threat. Based on this request, I have agreed, for the future benefit of the WORLD and, likewise, the survival of a successful and prosperous Iran, to cancel the attack, subject to being able to rapidly make a DEAL. The Country of Israel joins me in this commitment. Get to work, everybody, and get it DONE. Thank you for your attention to this matter! President DONALD J. TRUMP",
+   "url": "https://trumpstruth.org/statuses/40453",
+   "published": "2026-08-02T02:05:08+00:00",
+   "summary": "The U.S.A. is locked and loaded and ready to go against the Islamic Republic of Iran, at levels of Military Terror, Strength, and Power not seen since World War II. Despite this, we have just been asked by Iran, and other Middle Eastern Countries, to hold off any attack in that the perimeters of a deal has been agreed to. This would include the Immediate, Complete, and Total OPENING OF THE HORMUZ ",
+   "tags": [
+    "strikes",
+    "diplomacy",
+    "nuclear",
+    "shipping"
+   ],
+   "highlight": true
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Hungary plans to shut down only nuclear power plant amid drought",
+   "url": "https://www.aljazeera.com/news/2026/8/2/hungary-plans-to-shut-down-only-nuclear-power-plant-amid-drought?traffic_source=rss",
+   "published": "2026-08-02T00:49:25+00:00",
+   "summary": "Officials say they must shut down nation&#039;s sole nuclear plant as record-low Danube water levels disrupt reactor cooling.",
+   "tags": [
+    "nuclear"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Iran war live: Trump cancels attack, says ‘perimeters of a deal’ agreed",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/8/2/iran-war-live-tehran-warns-of-decisive-response-to-any-us-aggression?traffic_source=rss",
+   "published": "2026-08-02T00:00:00+00:00",
+   "summary": "Move comes after Iran&#039;s top diplomat warned of a &#039;decisive response&#039; to any US-Israeli &#039;aggression&#039;.",
+   "tags": [
+    "strikes",
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Singapore bans UK band Massive Attack over Palestinian flag",
@@ -215,7 +275,7 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "Three die in Moscow restaurant bombing",
+   "title": "Moscow restaurant bombing kills three",
    "url": "https://www.aljazeera.com/news/2026/8/1/russia-says-explosion-near-cafe-in-moscow-kills-three?traffic_source=rss",
    "published": "2026-08-01T18:22:35+00:00",
    "summary": "Russian officials say more than 21 others were ​injured ‌in the blast in Kudrinskaya Square.",
@@ -295,15 +355,6 @@
    "url": "https://trumpstruth.org/statuses/40428",
    "published": "2026-08-01T18:09:03+00:00",
    "summary": "",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "The Triumphal Arch, prior to affixing the magnificent Statues and Artwork!",
-   "url": "https://trumpstruth.org/statuses/40429",
-   "published": "2026-08-01T18:04:57+00:00",
-   "summary": "The Triumphal Arch, prior to affixing the magnificent Statues and Artwork!",
    "tags": [],
    "highlight": true
   },
@@ -511,34 +562,12 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "Children face higher threat of US deportation as legal support deal expires",
-   "url": "https://www.aljazeera.com/news/2026/7/31/children-face-higher-threat-of-us-deportation-as-legal-support-deal-expires?traffic_source=rss",
-   "published": "2026-07-31T21:11:57+00:00",
-   "summary": "Advocates warn expiring contract could leave 24,000 children without legal representation, increasing risk of expulsion.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
    "source": "White House",
    "title": "To Facilitate Positive Adjustment to Competition from Imports of Quartz Surface Products",
    "url": "https://www.whitehouse.gov/presidential-actions/2026/07/to-facilitate-positive-adjustment-to-competition-from-imports-of-quartz-surface-products/",
    "published": "2026-07-31T21:00:00+00:00",
    "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA A PROCLAMATION 1. On May 18, 2026, the United States International Trade Commission (ITC) transmitted to the President a report (ITC Report) on its investigation under section 202 of the Trade Act of 1974, as amended (Trade Act) (19 U.S.C. 2252), with respect to imports of [&#8230;] The post To Facilitate Positive Adjustment to Competition from Impo",
    "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Venezuela government and opposition to hold talks aimed at path to election",
-   "url": "https://www.aljazeera.com/news/2026/7/31/venezuela-govt-and-opposition-to-hold-talks-aimed-at-path-to-elections?traffic_source=rss",
-   "published": "2026-07-31T20:28:39+00:00",
-   "summary": "Talks to be led by former lawmaker Dinorah Figuera as opposition figure Maria Corina Machado left out of proceedings.",
-   "tags": [
-    "diplomacy"
-   ],
    "highlight": false
   },
   {
@@ -560,28 +589,6 @@
    "published": "2026-07-31T19:55:19+00:00",
    "summary": "President Donald J. Trump convened his Cabinet today for the first live, televised Cabinet meeting at Camp David in American history. The session showcased the Trump Administration’s rapid progress in restoring American strength, security, prosperity, and common sense after years of Democrat-driven decline. President Trump opened the meeting by highlighting some of his Administration’s signature [",
    "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Poland protests to Russian ambassador over missile incursion",
-   "url": "https://www.aljazeera.com/news/2026/7/31/poland-protests-to-russian-ambassador-over-missile-incursion?traffic_source=rss",
-   "published": "2026-07-31T19:48:17+00:00",
-   "summary": "Warsaw asserts missile recently made, illustrating Russia&#039;s nightly barrage against Ukraine is draining arsenal.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Trump says US has ‘understanding’ with Israel on Hamas disarmament deal",
-   "url": "https://www.aljazeera.com/news/2026/7/31/trump-says-us-has-understanding-with-israel-on-hamas-disarmament-deal?traffic_source=rss",
-   "published": "2026-07-31T19:18:54+00:00",
-   "summary": "Israel has not yet agreed to plan for Hamas to surrender weapons in exchange for full Israeli withdrawal from Gaza.",
-   "tags": [
-    "diplomacy"
-   ],
    "highlight": false
   },
   {
