@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-02T16:43:46.900938+00:00",
+ "asOf": "2026-08-02T17:11:11.090961+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Suicide bomber kills 14 outside police station in Pakistan’s Swat",
+   "url": "https://www.aljazeera.com/news/2026/8/2/suicide-bomber-kills-14-outside-police-station-in-pakistans-swat?traffic_source=rss",
+   "published": "2026-08-02T16:40:44+00:00",
+   "summary": "Explosion took place near crowd rallying against a surge in violence in northwestern Pakistan.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "[No Title] - Post from August 2, 2026",
@@ -551,17 +562,6 @@
    "tags": [
     "strikes",
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Two ex-Sri Lanka officials sentenced to death over 2019 Easter bombings",
-   "url": "https://www.aljazeera.com/news/2026/8/1/two-ex-sri-lanka-officials-sentenced-to-death-over-2019-easter-bombings?traffic_source=rss",
-   "published": "2026-08-01T15:34:15+00:00",
-   "summary": "Former officials will appeal sentences handed down for neglecting intelligence warnings before the deadly attacks.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   },
