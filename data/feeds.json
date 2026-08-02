@@ -1,6 +1,54 @@
 {
- "asOf": "2026-08-02T18:45:06.700870+00:00",
+ "asOf": "2026-08-02T19:51:05.559204+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Israelis attack Armenian monastery in Jerusalem’s Old City",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/israelis-attack-armenian-monastery-in-jerusalems-old-city?traffic_source=rss",
+   "published": "2026-08-02T19:39:32+00:00",
+   "summary": "Six Jewish Israelis were filmed spitting at the entrance to Saint James Monastery in Jerusalem&#039;s Old City.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Iran says negotiations with Oman over Strait of Hormuz in final stages",
+   "url": "https://www.aljazeera.com/news/2026/8/2/iran-says-negotiations-with-oman-over-strait-of-hormuz-in-final-stages?traffic_source=rss",
+   "published": "2026-08-02T19:08:06+00:00",
+   "summary": "Tehran&#039;s announcement comes after Trump said US would hold off on new Iran attack in hope of quick deal.",
+   "tags": [
+    "strikes",
+    "diplomacy",
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Baqaei: Hormuz Strait not to return to pre-war status",
+   "url": "https://en.irna.ir/news/86226412/Baqaei-Hormuz-Strait-not-to-return-to-pre-war-status",
+   "published": "2026-08-02T19:02:11+00:00",
+   "summary": "Tehran, IRNA – Foreign Ministry Spokesperson Esmaeil Baqaei said that the Strait of Hormuz will never return to the situation that existed before the war, stressing that agreement with Oman does not mean reopening of the strait.",
+   "tags": [
+    "diplomacy",
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Ukrainian drone attacks kill eight in response to Russian missiles",
+   "url": "https://www.aljazeera.com/news/2026/8/2/ukrainian-drone-attacks-kill-eight-in-response-to-russian-missiles?traffic_source=rss",
+   "published": "2026-08-02T18:37:23+00:00",
+   "summary": "Ukrainian strikes target Russian oil hubs and high-rises as Zelenskyy warns of critical Patriot interceptor shortages.",
+   "tags": [
+    "strikes",
+    "oil"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "The Winning Shot in the Bedminster Club Championship! Thank you very much to all of those who participated. I won with a score of 70, and am so honored in that, unlike the rest of the field, I’m given very little time to practice, because I’m focused on many other things. It’s called TALENT, and I have it, and they don’t! President DONALD J. TRUMP",
@@ -530,41 +578,6 @@
    "highlight": true
   },
   {
-   "source": "Al Jazeera",
-   "title": "Moscow restaurant bombing kills three",
-   "url": "https://www.aljazeera.com/news/2026/8/1/russia-says-explosion-near-cafe-in-moscow-kills-three?traffic_source=rss",
-   "published": "2026-08-01T18:22:35+00:00",
-   "summary": "Russian officials say more than 21 others were ​injured ‌in the blast in Kudrinskaya Square.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "At least 9 people killed in Russian missile attacks on Kyiv",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/at-least-9-people-killed-in-russian-missile-attacks-on-kyiv?traffic_source=rss",
-   "published": "2026-08-01T17:45:26+00:00",
-   "summary": "At least 9 people have been killed and dozens injured in Russian missile strikes on Kyiv.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Turkiye and Iraq sign one-year oil pipeline deal amid global shift",
-   "url": "https://www.aljazeera.com/news/2026/8/1/turkiye-and-iraq-sign-one-year-oil-pipeline-deal-amid-global-shift?traffic_source=rss",
-   "published": "2026-08-01T16:43:34+00:00",
-   "summary": "The renewed agreement ensures crude flow of 750,000 barrels a day through the Iraq-Turkiye pipeline, officials confirm.",
-   "tags": [
-    "strikes",
-    "diplomacy",
-    "oil"
-   ],
-   "highlight": false
-  },
-  {
    "source": "IRNA (Iran state wire)",
    "title": "Eight Palestinians killed in Gaza; death toll nears 73,350",
    "url": "https://en.irna.ir/news/86225182/Eight-Palestinians-killed-in-Gaza-death-toll-nears-73-350",
@@ -617,15 +630,6 @@
     "strikes",
     "shipping"
    ],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "President Trump Hosts Historic Cabinet Meeting at Camp David",
-   "url": "https://www.whitehouse.gov/releases/2026/07/president-trump-hosts-historic-cabinet-meeting-at-camp-david/",
-   "published": "2026-07-31T19:55:19+00:00",
-   "summary": "President Donald J. Trump convened his Cabinet today for the first live, televised Cabinet meeting at Camp David in American history. The session showcased the Trump Administration’s rapid progress in restoring American strength, security, prosperity, and common sense after years of Democrat-driven decline. President Trump opened the meeting by highlighting some of his Administration’s signature [",
-   "tags": [],
    "highlight": false
   }
  ]
