@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-02T22:43:36.811231+00:00",
+ "asOf": "2026-08-02T23:08:10.798835+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Sudan army drone attack on Darfur kills 35, rights group says",
+   "url": "https://www.aljazeera.com/news/2026/8/2/sudan-army-drone-attack-on-darfur-kills-35-rights-group-says?traffic_source=rss",
+   "published": "2026-08-02T22:51:09+00:00",
+   "summary": "Tens of thousands of people have been killed in the ongoing war between army chief al-Burhan and RSF commander Dagalo.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Is Washington dictating the agenda for talks in Venezuela?",
@@ -417,17 +428,6 @@
    "summary": "Tehran, IRNA – In a statement regarding the continued epic defense of Iran’s sovereignty against unlawful US threats and attacks, the Ministry of Foreign Affairs of the Islamic Republic of Iran emphasized that it would utilize all means to legitimately defend the nation’s rights and security.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Fighting breaks out in western Tigray as Ethiopia and TPLF trade blame",
-   "url": "https://www.aljazeera.com/news/2026/8/1/fighting-breaks-out-in-western-tigray-as-ethiopia-and-tplf-trade-blame?traffic_source=rss",
-   "published": "2026-08-01T20:38:41+00:00",
-   "summary": "Clashes near Sheraro mark one of the most serious threats yet to the fragile 2022 Pretoria peace deal.",
-   "tags": [
-    "diplomacy"
    ],
    "highlight": false
   },
