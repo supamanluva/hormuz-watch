@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-02T19:51:05.559204+00:00",
+ "asOf": "2026-08-02T20:27:30.278711+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Is Washington dictating the agenda for talks in Venezuela?",
+   "url": "https://www.aljazeera.com/video/inside-story/2026/8/2/is-washington-dictating-the-agenda-for-talks-in-venezuela?traffic_source=rss",
+   "published": "2026-08-02T20:01:21+00:00",
+   "summary": "Venezuela&#039;s government and a section of the opposition plan to hold talks, backed by the US.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Israelis attack Armenian monastery in Jerusalem’s Old City",
@@ -446,17 +457,6 @@
    "summary": "",
    "tags": [],
    "highlight": true
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Palestinian children among those detained by Israel in West Bank raids",
-   "url": "https://www.aljazeera.com/news/2026/8/1/palestinian-children-among-those-detained-in-israeli-west-bank-raids?traffic_source=rss",
-   "published": "2026-08-01T18:51:14+00:00",
-   "summary": "Settler violence escalates, with illegal outposts and frequent attacks reported across Ramallah, Hebron and Nablus.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
   },
   {
    "source": "Trump · Truth Social",
