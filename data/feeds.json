@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-02T15:46:28.726654+00:00",
+ "asOf": "2026-08-02T16:11:30.112238+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "How to end the ‘Hormuz war’",
+   "url": "https://www.aljazeera.com/opinions/2026/8/2/how-to-end-the-hormuz?traffic_source=rss",
+   "published": "2026-08-02T15:33:20+00:00",
+   "summary": "The least bad option for the US is to let the MoU Article 5 play out.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Iranian envoy: External challenges cannot affect Iran-Pakistan relations",
@@ -547,17 +558,6 @@
    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/01-08-israel-strike-gaza-hospital-sv-mp4?traffic_source=rss",
    "published": "2026-08-01T14:07:36+00:00",
    "summary": "Israeli strike destroys medical supplies warehouse at Gaza&#039;s Al-Aqsa Martyrs Hospital, staff say.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iran warns against ‘flames of war’ amid US strike threats on energy sites",
-   "url": "https://www.aljazeera.com/news/2026/8/1/iran-warns-against-fire-of-war-amid-us-strike-threats-on-energy-sites?traffic_source=rss",
-   "published": "2026-08-01T12:44:54+00:00",
-   "summary": "Iranian media says retaliation plan ready after US media suggest potential imminent attacks against civilian sites.",
    "tags": [
     "strikes"
    ],
