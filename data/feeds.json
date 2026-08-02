@@ -1,6 +1,30 @@
 {
- "asOf": "2026-08-02T06:20:18.632468+00:00",
+ "asOf": "2026-08-02T10:06:17.200105+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Why has Trump halted Iran attacks, and what is the deal he is hinting at?",
+   "url": "https://www.aljazeera.com/news/2026/8/2/why-has-trump-halted-iran-attacks-and-what-is-the-deal-he-is-hinting-at?traffic_source=rss",
+   "published": "2026-08-02T09:43:10+00:00",
+   "summary": "Trump says &#039;perimeters of a deal has been agreed to&#039; as he pauses attacks. But is there any substance to his claim?",
+   "tags": [
+    "strikes",
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Trump ‘cancels attack on Iran’ saying deal is near",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/trump-cancels-attack-on-iran-saying-deal-is-near?traffic_source=rss",
+   "published": "2026-08-02T08:43:15+00:00",
+   "summary": "US President Trump announced he was cancelling a planned attack on Iran with the ‘perimeters of a deal’ agreed to.",
+   "tags": [
+    "strikes",
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "UN voices concern over Israeli demolitions in Lebanon",
@@ -547,29 +571,6 @@
    "summary": "Residents trapped as partially collapsed buildings catch fire after deadly strike on Ukrainian capital.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "US military says F-35B jet fighter crashes in California, pilot safe",
-   "url": "https://www.aljazeera.com/news/2026/8/1/us-military-says-f-35b-jet-fighter-crashes-in-california-pilot-safe?traffic_source=rss",
-   "published": "2026-08-01T01:55:27+00:00",
-   "summary": "The jet went down on Friday near the Miramar airbase in San Diego.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Israel launches attacks across Gaza one day after Hamas agrees to disarm",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/israel-launches-attacks-across-gaza-one-day-after-hamas-agrees-to-disarm?traffic_source=rss",
-   "published": "2026-08-01T00:48:37+00:00",
-   "summary": "Israeli attacks across Gaza have killed at least two Palestinians, hours after Hamas agreed to a draft peace deal.",
-   "tags": [
-    "strikes",
-    "diplomacy"
    ],
    "highlight": false
   },
