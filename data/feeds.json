@@ -1,6 +1,49 @@
 {
- "asOf": "2026-08-03T00:10:06.672525+00:00",
+ "asOf": "2026-08-03T01:00:17.270855+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Suicide bombing kills at least 14 people in Pakistan’s Swat Valley",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/suicide-bombing-kills-at-least-14-people-in-pakistans-swat-valley?traffic_source=rss",
+   "published": "2026-08-03T00:18:50+00:00",
+   "summary": "Footage shows blast victims hurried into a hospital in northwestern Pakistan, after a suicide bombing.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "[No Title] - Post from August 3, 2026",
+   "url": "https://trumpstruth.org/statuses/40462",
+   "published": "2026-08-03T00:07:19+00:00",
+   "summary": "",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Iran war live: Trump says talks to resume; Tehran urges US to honour MoU",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/8/3/iran-war-live-trump-says-talks-set-to-begin-tehran-urges-us-to-honour-mou?traffic_source=rss",
+   "published": "2026-08-03T00:00:15+00:00",
+   "summary": "US President Donald Trump says an agreement with Iran is imminent, with negotiations set to begin on Monday.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Trump says new round of Iran talks will begin Monday",
+   "url": "https://www.aljazeera.com/news/2026/8/2/trump-says-new-round-of-iran-talks-will-begin-monday?traffic_source=rss",
+   "published": "2026-08-02T23:48:08+00:00",
+   "summary": "The US president says Gulf allies and Tehran urged him to delay planned strikes.",
+   "tags": [
+    "strikes",
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Sudan army drone attack on Darfur kills 35, rights group says",
@@ -388,39 +431,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "Singapore bans UK band Massive Attack over Palestinian flag",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/singapore-bans-uk-band-massive-attack-over-palestinian-flag?traffic_source=rss",
-   "published": "2026-08-01T23:57:30+00:00",
-   "summary": "Singapore barred two members of British band Massive Attack from re-entering the country.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Michigan joins Minnesota in reporting cyberattacks, with FBI investigating",
-   "url": "https://www.aljazeera.com/news/2026/8/1/michigan-joins-minnesota-in-reporting-cyber-attacks-with-fbi-investigating?traffic_source=rss",
-   "published": "2026-08-01T22:34:36+00:00",
-   "summary": "No culprit has been identified in any of the attacks, which comes after authorities warned of possible Iranian plot.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "US Arabs eye ‘historic’ Senate win for Abdul El-Sayed despite AIPAC attacks",
-   "url": "https://www.aljazeera.com/news/2026/8/1/us-arabs-eye-historic-senate-win-for-abdul-el-sayed-despite-aipac-attacks?traffic_source=rss",
-   "published": "2026-08-01T22:31:52+00:00",
-   "summary": "Senate race in Michigan comes to embody Democratic rift over Israel, as AIPAC spends heavily against progressive doctor.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
    "source": "IRNA (Iran state wire)",
    "title": "Foreign Ministry: Iran to use all means for legitimate defense of national rights and security",
    "url": "https://en.irna.ir/news/86225495/Foreign-Ministry-Iran-to-use-all-means-for-legitimate-defense",
@@ -565,15 +575,6 @@
    "url": "https://trumpstruth.org/statuses/40438",
    "published": "2026-08-01T18:28:09+00:00",
    "summary": "",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "President Trump is fixing our wonderful White House, just like he is fixing our Country!",
-   "url": "https://trumpstruth.org/statuses/40439",
-   "published": "2026-08-01T18:27:57+00:00",
-   "summary": "President Trump is fixing our wonderful White House, just like he is fixing our Country!",
    "tags": [],
    "highlight": true
   },
