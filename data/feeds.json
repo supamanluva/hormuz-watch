@@ -1,6 +1,87 @@
 {
- "asOf": "2026-08-03T09:19:49.329620+00:00",
+ "asOf": "2026-08-03T13:13:34.747738+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran says harassment of its commercial shipping shows US is still pursuing confrontation",
+   "url": "https://en.irna.ir/news/86227058/Iran-says-harassment-of-its-commercial-shipping-shows-US-is-still",
+   "published": "2026-08-03T11:15:35+00:00",
+   "summary": "Tehran, IRNA – Foreign Ministry spokesperson Esmaeil Baqaei says continued US attacks, sanctions, and intimidation targeting Iranian commercial vessels show that Washington is still pursuing a policy of confrontation with Iran, describing the measures as acts of piracy.",
+   "tags": [
+    "strikes",
+    "sanctions",
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Ukraine strikes Russia’s biggest retailer again",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/08-03-2026-ukraine-strikes-wildberies-russia?traffic_source=rss",
+   "published": "2026-08-03T11:03:23+00:00",
+   "summary": "Ukraine has struck another warehouse belonging to Russian e-commerce giant Wildberries in a long-range drone attack.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Tehran, Muscat negotiating temporary Hormuz shipping corridor as talks continue",
+   "url": "https://en.irna.ir/news/86227034/Tehran-Muscat-negotiating-temporary-Hormuz-shipping-corridor",
+   "published": "2026-08-03T11:00:09+00:00",
+   "summary": "Tehran, IRNA – Iran is negotiating with Oman to establish a temporary shipping corridor in the Strait of Hormuz that would serve as a single two-way route rather than multiple separate lanes, Iranian Foreign Ministry Spokesperson Esmaeil Baqaei says.",
+   "tags": [
+    "diplomacy",
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Israel defies Trump’s peace plan as it escalates deadly attacks on Gaza",
+   "url": "https://www.aljazeera.com/news/2026/8/3/israel-defies-trumps-peace-plan-as-it-escalates-deadly-attacks-on-gaza?traffic_source=rss",
+   "published": "2026-08-03T10:53:47+00:00",
+   "summary": "Israel escalates Gaza attacks and pushes hardline demands, threatening the US-backed peace roadmap.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "First moments of Egypt earthquake caught during livestream",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/first-moments-of-egypt-earthquake-caught-during-livestream?traffic_source=rss",
+   "published": "2026-08-03T10:04:27+00:00",
+   "summary": "A magnitude 5.4 earthquake struck Egypt, north of Suez early on Monday, startling a content creator during a livestream.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Trump says new Iran negotiations starting: What we know",
+   "url": "https://www.aljazeera.com/news/2026/8/3/trump-says-new-iran-negotiations-starting-what-we-know?traffic_source=rss",
+   "published": "2026-08-03T09:44:53+00:00",
+   "summary": "Analysts say deal on Hormuz might be achievable but lasting peace agreement still far off.",
+   "tags": [
+    "diplomacy",
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Who is Jordan Salinas, ‘hero’ bystander who confronted Idaho shooter?",
+   "url": "https://www.aljazeera.com/news/2026/8/3/who-is-jordan-salinas-hero-bystander-who-confronted-idaho-shooter?traffic_source=rss",
+   "published": "2026-08-03T09:01:15+00:00",
+   "summary": "Suspected attacker, identified as 24-year-old Chad Williams, killed at least three people in the US on Saturday.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Israel launches new attacks on southern Lebanon in violation of truce",
@@ -374,59 +455,12 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "Trump ‘cancels attack on Iran’ saying deal is near",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/trump-cancels-attack-on-iran-saying-deal-is-near?traffic_source=rss",
-   "published": "2026-08-02T08:43:15+00:00",
-   "summary": "US President Trump announced he was cancelling a planned attack on Iran with the ‘perimeters of a deal’ agreed to.",
-   "tags": [
-    "strikes",
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
    "source": "IRNA (Iran state wire)",
    "title": "UN voices concern over Israeli demolitions in Lebanon",
    "url": "https://en.irna.ir/news/86225617/UN-voices-concern-over-Israeli-demolitions-in-Lebanon",
    "published": "2026-08-02T06:07:34+00:00",
    "summary": "Tehran, IRNA – The United Nations has expressed deep concern over Israel’s demolitions in southern Lebanon, which have continued in recent days despite a ceasefire.",
    "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Three dead including female bomber in Moscow restaurant attack",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/three-dead-including-female-bomber-in-moscow-restaurant-attack?traffic_source=rss",
-   "published": "2026-08-02T04:44:55+00:00",
-   "summary": "At least three people are dead and more than 20 injured after a bomb exploded outside a restaurant in central Moscow.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Trump cancels Iran strike, says ‘deal perimeters’ reached",
-   "url": "https://www.aljazeera.com/news/2026/8/2/trump-cancels-iran-strike-says-deal-perimeters-reached?traffic_source=rss",
-   "published": "2026-08-02T03:36:43+00:00",
-   "summary": "The US president announced that he has cancelled a planned military strike on Iran, claiming progress in talks.",
-   "tags": [
-    "strikes",
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Israeli forces kill 8 in Gaza, toll now 18 since latest Trump peace plan",
-   "url": "https://www.aljazeera.com/news/2026/8/2/israel-kills-five-in-gaza-despite-trumps-hamas-disarmament-plan?traffic_source=rss",
-   "published": "2026-08-02T02:58:51+00:00",
-   "summary": "Israeli ceasefire violations mount as strikes target critical Gaza infrastructure and residential buildings",
-   "tags": [
-    "strikes",
     "diplomacy"
    ],
    "highlight": false
@@ -444,17 +478,6 @@
     "shipping"
    ],
    "highlight": true
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Hungary plans to shut down only nuclear power plant amid drought",
-   "url": "https://www.aljazeera.com/news/2026/8/2/hungary-plans-to-shut-down-only-nuclear-power-plant-amid-drought?traffic_source=rss",
-   "published": "2026-08-02T00:49:25+00:00",
-   "summary": "Officials say they must shut down nation&#039;s sole nuclear plant as record-low Danube water levels disrupt reactor cooling.",
-   "tags": [
-    "nuclear"
-   ],
-   "highlight": false
   },
   {
    "source": "IRNA (Iran state wire)",
@@ -612,29 +635,6 @@
    "summary": "Tehran, IRNA – At least eight Palestinians have been killed in the latest Israeli attacks on the Gaza Strip, bringing the total number of fatalities from the nearly three-year-long war to 73,349.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Israeli regime launches fresh attacks on Lebanon amid ceasefire",
-   "url": "https://en.irna.ir/news/86224752/Israeli-regime-launches-fresh-attacks-on-Lebanon-amid-ceasefire",
-   "published": "2026-08-01T06:50:24+00:00",
-   "summary": "Tehran, IRNA – The Israeli regime’s military carried out new attacks on southern Lebanon early Saturday, with local media reporting explosions in several areas despite ongoing diplomatic efforts aimed at maintaining stability along the border.",
-   "tags": [
-    "strikes",
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Continued US warmongering will tighten Strait of Hormuz closure: Top security official",
-   "url": "https://en.irna.ir/news/86224684/Continued-US-warmongering-will-tighten-Strait-of-Hormuz-closure",
-   "published": "2026-08-01T05:51:38+00:00",
-   "summary": "Tehran, IRNA – The secretary of Iran’s Supreme National Security Council has warned that continued maritime blockade and warmongering by the United States will further tighten the closure of the Strait of Hormuz.",
-   "tags": [
-    "shipping"
    ],
    "highlight": false
   }
