@@ -20,3 +20,4 @@ as_of,days_since_closure,verdict_status,verdict_short,ais_status,brent_usd,wti_u
 2026-07-31T11:07:06.571Z,152,closed,No,restricted,89.62,84.16,-1.06,8,10,88,11,portwatch,daily,IMF PortWatch,141,1377,0,1377,50,,5862,50,2025-06-01,false,9,0,8,191450,-0.06524859715516117,,56,live,live,live,tiled12-active30m
 2026-08-01T10:47:08.882Z,153,closed,No,restricted,87.93,84.67,2.38,8,10,88,11,portwatch,daily,IMF PortWatch,131,1344,0,1344,43,48.6,5913,50,2025-06-01,false,9,0,8,193075,0.6516356053694774,,56,live,live,live,tiled12-active30m
 2026-08-02T10:47:06.065Z,154,closed,No,restricted,87.93,84.67,2.38,8,10,88,11,portwatch,daily,IMF PortWatch,138,1351,0,1351,73,,5955,39,2026-07-29,true,9,0,8,190000,-1.5926453450731581,,55,live,live,live,tiled12-active30m
+2026-08-03T11:27:05.972Z,155,closed,No,restricted,83.44,79.57,-5.11,8,10,88,11,portwatch,daily,IMF PortWatch,122,1364,0,1364,64,,5996,35,2026-07-29,true,9,0,8,190950,0.34156594850236466,,59,live,live,live,tiled12-active30m
