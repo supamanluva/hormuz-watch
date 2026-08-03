@@ -1,6 +1,47 @@
 {
- "asOf": "2026-08-03T19:20:11.125622+00:00",
+ "asOf": "2026-08-03T20:02:00.124512+00:00",
  "items": [
+  {
+   "source": "UN Press",
+   "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General",
+   "url": "https://press.un.org/en/2026/db260803.doc.htm",
+   "published": "2026-08-03T19:54:28+00:00",
+   "summary": "In Gaza, air strikes, shelling and shooting continued over the weekend, reportedly killing dozens of people, including civilians, the Office for the Coordination of Humanitarian Affairs reports. Gaza’s Ministry of Health documented over 150 fatalities in July, the highest reported monthly death toll so far this year.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Trump says talks with Iran are ‘last chance’ to forge a deal",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/trump-says-talks-with-iran-are-last-chance-to-forge-a-deal?traffic_source=rss",
+   "published": "2026-08-03T19:45:30+00:00",
+   "summary": "US President Donald Trump said Iran has a &quot;last chance&quot; to reach a nuclear agreement.",
+   "tags": [
+    "diplomacy",
+    "nuclear"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "I just spoke with the Governor of Missouri, Mike Kehoe, an outstanding guy, and told him I am approving 24.5 Million Dollars for the severe storms, winds, tornadoes, and flooding they have experienced. Missouri is in good hands with the Governor, Senators Eric Schmitt and Josh Hawley, and fantastic Chair of the House Ways and Means Committee, Jason Smith. God bless you all! President DONALD J. TRUMP",
+   "url": "https://trumpstruth.org/statuses/40467",
+   "published": "2026-08-03T19:40:27+00:00",
+   "summary": "I just spoke with the Governor of Missouri, Mike Kehoe, an outstanding guy, and told him I am approving 24.5 Million Dollars for the severe storms, winds, tornadoes, and flooding they have experienced. Missouri is in good hands with the Governor, Senators Eric Schmitt and Josh Hawley, and fantastic Chair of the House Ways and Means Committee, Jason Smith. God bless you all! President DONALD J. TRU",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "White House",
+   "title": "Establishing the President’s Military Spouse Commission",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/08/establishing-the-presidents-military-spouse-commission-af64/",
+   "published": "2026-08-03T19:13:55+00:00",
+   "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered: Section 1.&#160; Purpose and Policy.&#160; Military spouses are intrinsically linked to the good order, readiness, and retention of our military. &#160;Their support and contributions to our Armed Forces are crucial to [&#8230;] The post Establishing the President&#821",
+   "tags": [],
+   "highlight": false
+  },
   {
    "source": "White House",
    "title": "Fact Sheet: President Donald J. Trump Establishes the President’s Military Spouse Commission",
@@ -449,17 +490,6 @@
    "highlight": true
   },
   {
-   "source": "Al Jazeera",
-   "title": "Saudi Crown Prince MBS urges Trump to ‘prioritise dialogue’ in US-Iran war",
-   "url": "https://www.aljazeera.com/news/2026/8/2/saudi-crown-prince-mbs-urges-trump-to-prioritise-dialogue-in-us-iran-war?traffic_source=rss",
-   "published": "2026-08-02T16:10:32+00:00",
-   "summary": "US president halted strikes after earlier threatening Iran with unprecedented force.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
    "source": "IRNA (Iran state wire)",
    "title": "Iranian envoy: External challenges cannot affect Iran-Pakistan relations",
    "url": "https://en.irna.ir/news/86226298/Iranian-envoy-External-challenges-cannot-affect-Iran-Pakistan",
@@ -616,35 +646,6 @@
    "published": "2026-08-01T18:32:55+00:00",
    "summary": "RT @ realDonaldTrump Great job by Chairman Rick Crawford on FoxNews interview - A total Pro!!! President DJT",
    "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "RT @grenellAt the @ufc fights in Serbia the crowd goes wild for a @realDonaldTrump sign flung open by the crowd….",
-   "url": "https://trumpstruth.org/statuses/40441",
-   "published": "2026-08-01T18:32:51+00:00",
-   "summary": "RT @ grenell At the @ ufc fights in Serbia the crowd goes wild for a @ realDonaldTrump sign flung open by the crowd….",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "RT @realDonaldTrumpPresident Trump is fixing our wonderful White House, just like he is fixing our Country!",
-   "url": "https://trumpstruth.org/statuses/40442",
-   "published": "2026-08-01T18:32:35+00:00",
-   "summary": "RT @ realDonaldTrump President Trump is fixing our wonderful White House, just like he is fixing our Country!",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "RT @realDonaldTrumpBecause of President Donald J. Trump, Oil Exports are SURGING!",
-   "url": "https://trumpstruth.org/statuses/40443",
-   "published": "2026-08-01T18:32:14+00:00",
-   "summary": "RT @ realDonaldTrump Because of President Donald J. Trump, Oil Exports are SURGING!",
-   "tags": [
-    "oil"
-   ],
    "highlight": true
   }
  ]
