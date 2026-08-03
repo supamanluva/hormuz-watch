@@ -1,6 +1,30 @@
 {
- "asOf": "2026-08-03T06:34:52.280391+00:00",
+ "asOf": "2026-08-03T09:19:49.329620+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Israel launches new attacks on southern Lebanon in violation of truce",
+   "url": "https://en.irna.ir/news/86226845/Israel-launches-new-attacks-on-southern-Lebanon-in-violation",
+   "published": "2026-08-03T08:40:52+00:00",
+   "summary": "Tehran, IRNA – The Israeli regime has continued its attacks on southern Lebanon, targeting several areas with drones and artillery despite a ceasefire between the two sides.",
+   "tags": [
+    "strikes",
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Talks with Oman on Strait of Hormuz bilateral, not linked to any third party: Baqaei",
+   "url": "https://en.irna.ir/news/86226822/Talks-with-Oman-on-Strait-of-Hormuz-bilateral-not-linked-to",
+   "published": "2026-08-03T08:39:04+00:00",
+   "summary": "Tehran, IRNA – Foreign Ministry spokesperson Esmaeil Baqaei says the ongoing talks between Iran and Oman regarding the management of the Strait of Hormuz are completely bilateral in nature between the two coastal states and aimed at determining the safe shipping route through the strategic waterway.",
+   "tags": [
+    "diplomacy",
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Trump pauses ‘massive attack’ on Iran, says new talks to begin",
@@ -35,7 +59,7 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "Iran war live: Trump says talks to resume; Tehran urges US to honour MoU",
+   "title": "Iran war live: Iranian foreign ministry says no current talks with US",
    "url": "https://www.aljazeera.com/news/liveblog/2026/8/3/iran-war-live-trump-says-talks-set-to-begin-tehran-urges-us-to-honour-mou?traffic_source=rss",
    "published": "2026-08-03T00:00:15+00:00",
    "summary": "US President Donald Trump says an agreement with Iran is imminent, with negotiations set to begin on Monday.",
@@ -108,7 +132,7 @@
    "title": "Baqaei: Hormuz Strait not to return to pre-war status",
    "url": "https://en.irna.ir/news/86226412/Baqaei-Hormuz-Strait-not-to-return-to-pre-war-status",
    "published": "2026-08-02T19:02:11+00:00",
-   "summary": "Tehran, IRNA – Foreign Ministry Spokesperson Esmaeil Baqaei said that the Strait of Hormuz will never return to the situation that existed before the war, stressing that agreement with Oman does not mean reopening of the strait.",
+   "summary": "Tehran, IRNA – Foreign Ministry Spokesperson Esmaeil Baqaei says the Strait of Hormuz will never return to the situation that existed before the war, stressing that the agreement with Oman does not mean the reopening of the strait.",
    "tags": [
     "diplomacy",
     "shipping"
@@ -610,27 +634,6 @@
    "published": "2026-08-01T05:51:38+00:00",
    "summary": "Tehran, IRNA – The secretary of Iran’s Supreme National Security Council has warned that continued maritime blockade and warmongering by the United States will further tighten the closure of the Strait of Hormuz.",
    "tags": [
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "To Facilitate Positive Adjustment to Competition from Imports of Quartz Surface Products",
-   "url": "https://www.whitehouse.gov/presidential-actions/2026/07/to-facilitate-positive-adjustment-to-competition-from-imports-of-quartz-surface-products/",
-   "published": "2026-07-31T21:00:00+00:00",
-   "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA A PROCLAMATION 1. On May 18, 2026, the United States International Trade Commission (ITC) transmitted to the President a report (ITC Report) on its investigation under section 202 of the Trade Act of 1974, as amended (Trade Act) (19 U.S.C. 2252), with respect to imports of [&#8230;] The post To Facilitate Positive Adjustment to Competition from Impo",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Araghchi: Maritime blockade and attacks on Iranian shipping are sources of regional insecurity",
-   "url": "https://en.irna.ir/news/86224558/Araghchi-Maritime-blockade-and-attacks-on-Iranian-shipping-are",
-   "published": "2026-07-31T20:18:57+00:00",
-   "summary": "Tehran, IRNA – The foreign ministers of the Islamic Republic of Iran and India discussed bilateral relations and regional developments in a telephone conversation on Friday.",
-   "tags": [
-    "strikes",
     "shipping"
    ],
    "highlight": false
