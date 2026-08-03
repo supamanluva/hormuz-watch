@@ -1,6 +1,24 @@
 {
- "asOf": "2026-08-03T18:46:36.512488+00:00",
+ "asOf": "2026-08-03T19:20:11.125622+00:00",
  "items": [
+  {
+   "source": "White House",
+   "title": "Fact Sheet: President Donald J. Trump Establishes the President’s Military Spouse Commission",
+   "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-establishes-the-presidents-military-spouse-commission/",
+   "published": "2026-08-03T18:55:57+00:00",
+   "summary": "STRENGTHENING MILITARY READINESS:&#160;Today, President Donald J. Trump signed an Executive Order establishing the Military Spouse Commission to strengthen military readiness by improving the quality of life for military spouses and families.&#160;&#160; PRIORITIZING MILITARY&#160;EXCELLENCE:&#160;President Trump recognizes that military spouses are essential to the strength, readiness, and retent",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "White House",
+   "title": "Establishing the President’s Military Spouse Commission",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/08/establishing-the-presidents-military-spouse-commission/",
+   "published": "2026-08-03T18:20:09+00:00",
+   "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered: Section 1. Purpose and Policy. Military spouses are intrinsically linked to the good order, readiness, and retention of our military. Their support and contributions to our Armed Forces are crucial to [&#8230;] The post Establishing the President&#8217;s Military Spous",
+   "tags": [],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Drone slams into Russian beach, killing at least 7 people",
@@ -627,24 +645,6 @@
    "tags": [
     "oil"
    ],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "RT @realDonaldTrumpThe Triumphal Arch, prior to affixing the magnificent Statues and Artwork!",
-   "url": "https://trumpstruth.org/statuses/40444",
-   "published": "2026-08-01T18:32:08+00:00",
-   "summary": "RT @ realDonaldTrump The Triumphal Arch, prior to affixing the magnificent Statues and Artwork!",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "RT @realDonaldTrump",
-   "url": "https://trumpstruth.org/statuses/40445",
-   "published": "2026-08-01T18:31:49+00:00",
-   "summary": "RT @ realDonaldTrump",
-   "tags": [],
    "highlight": true
   }
  ]
