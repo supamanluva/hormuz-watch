@@ -1,6 +1,49 @@
 {
- "asOf": "2026-08-03T16:19:01.885288+00:00",
+ "asOf": "2026-08-03T18:46:36.512488+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Drone slams into Russian beach, killing at least 7 people",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/drone-slams-into-russian-beach-killing-at-least-7-people?traffic_source=rss",
+   "published": "2026-08-03T18:05:23+00:00",
+   "summary": "Video shows the moment a drone struck a crowded beach near the Russian Black Sea resort of Gelendzhik.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Trump blasts ‘duplicitous’ Iran after Tehran denies it is in talks with the US",
+   "url": "https://www.aljazeera.com/news/2026/8/3/trump-blasts-duplicitous-iran-after-tehran-denies-it-is-in-talks-with-the-us?traffic_source=rss",
+   "published": "2026-08-03T17:38:01+00:00",
+   "summary": "US president demands &#039;Total Surrender&#039; amid escalating naval blockade in the crucial Strait of Hormuz.",
+   "tags": [
+    "diplomacy",
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "[No Title] - Post from August 3, 2026",
+   "url": "https://trumpstruth.org/statuses/40466",
+   "published": "2026-08-03T16:51:03+00:00",
+   "summary": "",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Uncertainty on Iranians’ minds as Trump fluctuates on war and talk",
+   "url": "https://www.aljazeera.com/news/2026/8/3/uncertainty-on-iranians-minds-as-trump-fluctuates-on-war-and-talk?traffic_source=rss",
+   "published": "2026-08-03T16:33:08+00:00",
+   "summary": "Iranians feeling pressure amid US president&#039;s on-again, off-again comments on conflict and negotiations.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Romanian navy blasts riverbed to protect nuclear plant",
@@ -61,7 +104,7 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "More than 10 killed as Russia and Ukraine trade heavy attacks",
+   "title": "At least 17 killed as Russia and Ukraine trade heavy attacks",
    "url": "https://www.aljazeera.com/news/2026/8/3/more-than-10-killed-as-russia-and-ukraine-trade-heavy-attacks?traffic_source=rss",
    "published": "2026-08-03T14:23:07+00:00",
    "summary": "Exchange of fire intensifies as the war, now in its fifth year, shows no signs of slowing down.",
@@ -399,17 +442,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "How to end the ‘Hormuz war’",
-   "url": "https://www.aljazeera.com/opinions/2026/8/2/how-to-end-the-hormuz?traffic_source=rss",
-   "published": "2026-08-02T15:33:20+00:00",
-   "summary": "The least bad option for the US is to let the MoU Article 5 play out.",
-   "tags": [
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
    "source": "IRNA (Iran state wire)",
    "title": "Iranian envoy: External challenges cannot affect Iran-Pakistan relations",
    "url": "https://en.irna.ir/news/86226298/Iranian-envoy-External-challenges-cannot-affect-Iran-Pakistan",
@@ -417,28 +449,6 @@
    "summary": "Islamabad, IRNA – Iranian Ambassador to Pakistan Reza Amiri Moghadam says that challenges and external factors cannot weaken the longstanding relationship between Tehran and Islamabad, describing ties between the two neighboring countries as a model of sincere interaction and mutual respect for regional relations.",
    "tags": [
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Ukrainian farmers use temporary storage to revive grain exports",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/ukrainian-farmers-use-temporary-storage-to-revive-grain-exports?traffic_source=rss",
-   "published": "2026-08-02T15:14:26+00:00",
-   "summary": "Russian attacks disrupt Black Sea exports, forcing Ukrainian farmers to use temporary grain storage.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Heatwave forces nuclear shutdown in Hungary",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/08-02-2026-hungary-nuclear-plant-sv?traffic_source=rss",
-   "published": "2026-08-02T14:44:34+00:00",
-   "summary": "Hungary says a heatwave has forced the shutdown of its largest nuclear plant as low Danube levels disrupt cooling.",
-   "tags": [
-    "nuclear"
    ],
    "highlight": false
   },
@@ -634,15 +644,6 @@
    "url": "https://trumpstruth.org/statuses/40445",
    "published": "2026-08-01T18:31:49+00:00",
    "summary": "RT @ realDonaldTrump",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "RT @realDonaldTrumpLook for yourselves at the VANDALISM that took place at The Reflecting Pool. The material is being cut with a knife or a box cutter, for all to see!",
-   "url": "https://trumpstruth.org/statuses/40446",
-   "published": "2026-08-01T18:31:45+00:00",
-   "summary": "RT @ realDonaldTrump Look for yourselves at the VANDALISM that took place at The Reflecting Pool. The material is being cut with a knife or a box cutter, for all to see!",
    "tags": [],
    "highlight": true
   }
