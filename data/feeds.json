@@ -1,6 +1,18 @@
 {
- "asOf": "2026-08-03T02:44:19.065219+00:00",
+ "asOf": "2026-08-03T06:34:52.280391+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Trump pauses ‘massive attack’ on Iran, says new talks to begin",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/trump-pauses-massive-attack-on-iran-says-new-talks-to-begin?traffic_source=rss",
+   "published": "2026-08-03T03:17:33+00:00",
+   "summary": "US President Trump says new talks with Iran will start Monday ‘in the form of a negotiation’ after calling off attack.",
+   "tags": [
+    "strikes",
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Suicide bombing kills at least 14 people in Pakistan’s Swat Valley",
@@ -37,10 +49,11 @@
    "title": "Trump says new round of Iran talks will begin Monday",
    "url": "https://www.aljazeera.com/news/2026/8/2/trump-says-new-round-of-iran-talks-will-begin-monday?traffic_source=rss",
    "published": "2026-08-02T23:48:08+00:00",
-   "summary": "The US president says Gulf allies and Tehran urged him to delay planned strikes.",
+   "summary": "The US president says Gulf allies and Tehran urged him to delay planned strikes, as oil prices dropped in response.",
    "tags": [
     "strikes",
-    "diplomacy"
+    "diplomacy",
+    "oil"
    ],
    "highlight": false
   },
@@ -416,17 +429,6 @@
    "summary": "Officials say they must shut down nation&#039;s sole nuclear plant as record-low Danube water levels disrupt reactor cooling.",
    "tags": [
     "nuclear"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iran war live: Trump cancels attack, Israel kills 9 in Gaza",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/8/2/iran-war-live-tehran-warns-of-decisive-response-to-any-us-aggression?traffic_source=rss",
-   "published": "2026-08-02T00:00:00+00:00",
-   "summary": "Move comes after Iran&#039;s top diplomat warned of a &#039;decisive response&#039; to any US-Israeli &#039;aggression&#039;.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   },
