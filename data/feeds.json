@@ -1,6 +1,28 @@
 {
- "asOf": "2026-08-04T06:16:25.929673+00:00",
+ "asOf": "2026-08-04T08:14:16.706006+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "UFC’s Allan Nascimento dead aged 34 after apparent heart attack",
+   "url": "https://www.aljazeera.com/sports/2026/8/4/ufcs-allan-nascimento-dead-aged-34-after-apparent-heart-attack?traffic_source=rss",
+   "published": "2026-08-04T07:19:29+00:00",
+   "summary": "The Brazilian fighter died in his sleep after a suspected heart attack, the UFC said.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Cleric hails resolve of families of martyrs who ascended in recent US terrorist attacks",
+   "url": "https://en.irna.ir/news/86227559/Cleric-hails-resolve-of-families-of-martyrs-who-ascended-in-recent",
+   "published": "2026-08-04T06:19:14+00:00",
+   "summary": "Qeshm, IRNA – The Friday Prayer Imam in Qeshm, Hojatoleslam Gholam-Reza Hajebi, has praised the steadfastness of the martyrs’ families in recent US terrorist attacks.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Palestine weekly: Israel kills dozens in Gaza after Hamas disarmament deal",
@@ -589,28 +611,6 @@
    "summary": "US President Trump says new talks with Iran will start Monday ‘in the form of a negotiation’ after calling off attack.",
    "tags": [
     "strikes",
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Suicide bombing kills at least 14 people in Pakistan’s Swat Valley",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/suicide-bombing-kills-at-least-14-people-in-pakistans-swat-valley?traffic_source=rss",
-   "published": "2026-08-03T00:18:50+00:00",
-   "summary": "Footage shows blast victims hurried into a hospital in northwestern Pakistan, after a suicide bombing.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iran war live: Iranian foreign ministry says no current talks with US",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/8/3/iran-war-live-trump-says-talks-set-to-begin-tehran-urges-us-to-honour-mou?traffic_source=rss",
-   "published": "2026-08-03T00:00:15+00:00",
-   "summary": "US President Donald Trump says an agreement with Iran is imminent, with negotiations set to begin on Monday.",
-   "tags": [
     "diplomacy"
    ],
    "highlight": false
