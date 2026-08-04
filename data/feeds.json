@@ -1,9 +1,31 @@
 {
- "asOf": "2026-08-04T08:14:16.706006+00:00",
+ "asOf": "2026-08-04T10:20:03.184771+00:00",
  "items": [
   {
    "source": "Al Jazeera",
-   "title": "UFC’s Allan Nascimento dead aged 34 after apparent heart attack",
+   "title": "Cars burn in reported settler attack in occupied West Bank",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/cars-burn-in-reported-settler-attack-in-occupied-west-bank?traffic_source=rss",
+   "published": "2026-08-04T08:51:47+00:00",
+   "summary": "Cars burn in reported settler attack in occupied West Bank",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "We demand accountability for the Beirut blast",
+   "url": "https://www.aljazeera.com/opinions/2026/8/4/we-demand-accountability-for-the-beirut-blast?traffic_source=rss",
+   "published": "2026-08-04T08:51:46+00:00",
+   "summary": "Six years after the explosion, the domestic investigation is complete, but an indictment is yet to be issued.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Nascimento: UFC fighter dead at 34 after apparent heart attack",
    "url": "https://www.aljazeera.com/sports/2026/8/4/ufcs-allan-nascimento-dead-aged-34-after-apparent-heart-attack?traffic_source=rss",
    "published": "2026-08-04T07:19:29+00:00",
    "summary": "The Brazilian fighter died in his sleep after a suspected heart attack, the UFC said.",
@@ -585,30 +607,6 @@
    "url": "https://en.irna.ir/news/86226845/Israel-launches-new-attacks-on-southern-Lebanon-in-violation",
    "published": "2026-08-03T08:40:52+00:00",
    "summary": "Tehran, IRNA – The Israeli regime has continued its attacks on southern Lebanon, targeting several areas with drones and artillery despite a ceasefire between the two sides.",
-   "tags": [
-    "strikes",
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Talks with Oman on Strait of Hormuz bilateral, not linked to any third party: Baqaei",
-   "url": "https://en.irna.ir/news/86226822/Talks-with-Oman-on-Strait-of-Hormuz-bilateral-not-linked-to",
-   "published": "2026-08-03T08:39:04+00:00",
-   "summary": "Tehran, IRNA – Foreign Ministry spokesperson Esmaeil Baqaei says the ongoing talks between Iran and Oman regarding the management of the Strait of Hormuz are completely bilateral in nature between the two coastal states and aimed at determining the safe shipping route through the strategic waterway.",
-   "tags": [
-    "diplomacy",
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Trump pauses ‘massive attack’ on Iran, says new talks to begin",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/trump-pauses-massive-attack-on-iran-says-new-talks-to-begin?traffic_source=rss",
-   "published": "2026-08-03T03:17:33+00:00",
-   "summary": "US President Trump says new talks with Iran will start Monday ‘in the form of a negotiation’ after calling off attack.",
    "tags": [
     "strikes",
     "diplomacy"
