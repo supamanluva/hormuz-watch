@@ -1,6 +1,26 @@
 {
- "asOf": "2026-08-04T16:44:31.370047+00:00",
+ "asOf": "2026-08-04T18:03:49.297073+00:00",
  "items": [
+  {
+   "source": "Trump · Truth Social",
+   "title": "It was my Great Honor to welcome Highly Respected and very popular Pennsylvania State Treasurer, Stacy Garrity, into the Oval Office. Stacy is running to be the next Governor of the GREAT Commonwealth of Pennsylvania. She has my Complete and Total Endorsement. She will do a fantastic job!",
+   "url": "https://trumpstruth.org/statuses/40540",
+   "published": "2026-08-04T17:30:23+00:00",
+   "summary": "It was my Great Honor to welcome Highly Respected and very popular Pennsylvania State Treasurer, Stacy Garrity, into the Oval Office. Stacy is running to be the next Governor of the GREAT Commonwealth of Pennsylvania. She has my Complete and Total Endorsement. She will do a fantastic job!",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Gaza holds mass funeral for 112 people killed in Israel’s 2023 Sabra attack",
+   "url": "https://www.aljazeera.com/news/2026/8/4/gaza-holds-mass-funeral-for-112-people-killed-in-israels-2023-sabra-attack?traffic_source=rss",
+   "published": "2026-08-04T17:03:24+00:00",
+   "summary": "Thousands join to bury remains after they were recovered from rubble of homes destroyed during Israel’s genocidal war.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "War on Iran: Trump says Iran has one ‘last chance’",
@@ -263,15 +283,6 @@
    "url": "https://trumpstruth.org/statuses/40525",
    "published": "2026-08-04T14:30:53+00:00",
    "summary": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117037716920827611",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from August 4, 2026",
-   "url": "https://trumpstruth.org/statuses/40526",
-   "published": "2026-08-04T14:30:34+00:00",
-   "summary": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117037715892419107",
    "tags": [],
    "highlight": true
   },
@@ -575,18 +586,6 @@
    "summary": "Video shows the moment a drone struck a crowded beach near the Russian Black Sea resort of Gelendzhik.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Trump says ongoing talks are Iran’s ‘last chance’",
-   "url": "https://www.aljazeera.com/news/2026/8/3/trump-blasts-duplicitous-iran-after-tehran-denies-it-is-in-talks-with-the-us?traffic_source=rss",
-   "published": "2026-08-03T17:38:01+00:00",
-   "summary": "US president demands &#039;Total Surrender&#039; amid escalating naval blockade in the crucial Strait of Hormuz.",
-   "tags": [
-    "diplomacy",
-    "shipping"
    ],
    "highlight": false
   },
