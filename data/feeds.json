@@ -1,6 +1,59 @@
 {
- "asOf": "2026-08-04T10:20:03.184771+00:00",
+ "asOf": "2026-08-04T12:09:17.583061+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Nine killed in escalating long-range strikes between Russia and Ukraine",
+   "url": "https://www.aljazeera.com/news/2026/8/4/nine-killed-in-escalating-long-range-strikes-between-russia-and-ukraine?traffic_source=rss",
+   "published": "2026-08-04T11:26:28+00:00",
+   "summary": "Missile and drone strikes far beyond the front lines are causing a mounting civilian death toll in both countries.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Misread as passive, the Gulf is quietly ending fifty years of dependence",
+   "url": "https://www.aljazeera.com/opinions/2026/8/4/the-gulf-can-no-longer-outsource-its-security?traffic_source=rss",
+   "published": "2026-08-04T11:05:58+00:00",
+   "summary": "Iran’s attacks exposed the limits of external guarantees and the need for a Gulf-built security architecture.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "Justice Department touts 'largest denaturalization effort ever' with 25 cases filed in two weeks:",
+   "url": "https://trumpstruth.org/statuses/40512",
+   "published": "2026-08-04T11:05:48+00:00",
+   "summary": "Justice Department touts 'largest denaturalization effort ever' with 25 cases filed in two weeks: https:// justthenews.com/government/cou rts-law/justice-department-touts-largest-denaturalization-effort-ever-25-cases-filed",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "‘One last chance’: The times Trump threatened Iran, said deal imminent",
+   "url": "https://www.aljazeera.com/features/2026/8/4/one-last-chance-the-times-trump-threatened-iran-said-deal-imminent?traffic_source=rss",
+   "published": "2026-08-04T10:53:33+00:00",
+   "summary": "US president has claimed Iran &#039;desperate&#039; to do a deal or given Tehran &#039;last chance&#039; on multiple occasions.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Pakistan determined to finalize FTA with Iran: Minister",
+   "url": "https://en.irna.ir/news/86227754/Pakistan-determined-to-finalize-FTA-with-Iran-Minister",
+   "published": "2026-08-04T10:34:11+00:00",
+   "summary": "Islamabad, IRNA – Pakistan’s Commerce Minister Jam Kamal Khan has emphasized the coordinated efforts of Islamabad and Tehran in eliminating barriers to trade, border infrastructure, and customs, adding that Pakistan is determined to finalize the Iran–Pakistan Free Trade Agreement (FTA).",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Cars burn in reported settler attack in occupied West Bank",
@@ -332,15 +385,6 @@
    "highlight": true
   },
   {
-   "source": "Trump · Truth Social",
-   "title": "Congressman Tom Barrett is an incredible Representative for the Wonderful People of Michigan's 7th Congressional District! Tom bravely served our Country as an Army Helicopter Pilot and, in Congress, he is fighting hard to Grow our Economy, Cut Taxes, Keep our Border SECURE, Support Law Enforcement, Stand with our Military/Vets, and Protect our always under siege Second Amendment. Together, we will ensure PEACE THROUGH STRENGTH. Tom Barrett has my Complete and Total Endorsement for Re-Election. Election Day is Tuesday, August 4th. GET OUT AND VOTE FOR TOM – HE WILL NEVER LET YOU DOWN! Find your Voting Location here:",
-   "url": "https://trumpstruth.org/statuses/40493",
-   "published": "2026-08-03T22:16:49+00:00",
-   "summary": "Congressman Tom Barrett is an incredible Representative for the Wonderful People of Michigan's 7th Congressional District! Tom bravely served our Country as an Army Helicopter Pilot and, in Congress, he is fighting hard to Grow our Economy, Cut Taxes, Keep our Border SECURE, Support Law Enforcement, Stand with our Military/Vets, and Protect our always under siege Second Amendment. Together, we wil",
-   "tags": [],
-   "highlight": true
-  },
-  {
    "source": "UN Press",
    "title": "Press Conference by Security Council President on Work Programme for August",
    "url": "https://press.un.org/en/2026/260803_sc.doc.htm",
@@ -564,52 +608,6 @@
    "summary": "Israel escalates Gaza attacks and pushes hardline demands, threatening the US-backed peace roadmap.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "First moments of Egypt earthquake caught during livestream",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/first-moments-of-egypt-earthquake-caught-during-livestream?traffic_source=rss",
-   "published": "2026-08-03T10:04:27+00:00",
-   "summary": "A magnitude 5.4 earthquake struck Egypt, north of Suez early on Monday, startling a content creator during a livestream.",
-   "tags": [
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Trump says new Iran negotiations starting: What we know",
-   "url": "https://www.aljazeera.com/news/2026/8/3/trump-says-new-iran-negotiations-starting-what-we-know?traffic_source=rss",
-   "published": "2026-08-03T09:44:53+00:00",
-   "summary": "Analysts say deal on Hormuz might be achievable but lasting peace agreement still far off.",
-   "tags": [
-    "diplomacy",
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Who is Jordan Salinas, ‘hero’ bystander who confronted Idaho shooter?",
-   "url": "https://www.aljazeera.com/news/2026/8/3/who-is-jordan-salinas-hero-bystander-who-confronted-idaho-shooter?traffic_source=rss",
-   "published": "2026-08-03T09:01:15+00:00",
-   "summary": "Suspected attacker, identified as 24-year-old Chad Williams, killed at least three people in the US on Saturday.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Israel launches new attacks on southern Lebanon in violation of truce",
-   "url": "https://en.irna.ir/news/86226845/Israel-launches-new-attacks-on-southern-Lebanon-in-violation",
-   "published": "2026-08-03T08:40:52+00:00",
-   "summary": "Tehran, IRNA – The Israeli regime has continued its attacks on southern Lebanon, targeting several areas with drones and artillery despite a ceasefire between the two sides.",
-   "tags": [
-    "strikes",
-    "diplomacy"
    ],
    "highlight": false
   }
