@@ -1,6 +1,51 @@
 {
- "asOf": "2026-08-04T14:58:40.032774+00:00",
+ "asOf": "2026-08-04T16:44:31.370047+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "War on Iran: Trump says Iran has one ‘last chance’",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/war-on-iran-trump-says-iran-has-one-last-chance?traffic_source=rss",
+   "published": "2026-08-04T16:13:49+00:00",
+   "summary": "US President Donald Trump says Iran has ‘one last chance’ to make a deal, but Tehran is in no hurry to take it.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Why did Trump attack Jeanine Pirro over US reflecting pool ‘vandalism’?",
+   "url": "https://www.aljazeera.com/news/2026/8/4/why-did-trump-attack-jeanine-pirro-over-us-reflecting-pool-vandalism?traffic_source=rss",
+   "published": "2026-08-04T16:01:35+00:00",
+   "summary": "US president&#039;s hand-picked DC attorney in firing line after dropping charges for vandalism of Washington landmark.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Qatar says indirect talks continue to reopen Strait of Hormuz",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/aje-onl-nf_qatar-aims-to-avoid-regional-escalation-040826?traffic_source=rss",
+   "published": "2026-08-04T15:34:40+00:00",
+   "summary": "Qatar FM spokesman Dr. Majed al-Ansari says indirect talks are continuing to avoid further regional escalation.",
+   "tags": [
+    "diplomacy",
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Drone appears to stalk man before exploding",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/drone-appears-to-stalk-man-before-exploding?traffic_source=rss",
+   "published": "2026-08-04T15:11:51+00:00",
+   "summary": "A drone was seen following a man at a minibus-turned-market in Kherson, southern Ukraine, before exploding on Tuesday.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "It was my Honor to welcome now Senator Darline Graham Nordone (The sister of the Late, Great Lindsey Graham!), from the Wonderful State of South Carolina, into the Oval Office. We have known each other for a long time — She is a spectacular person, and a true American Patriot. Lindsey was one of the greatest people and Senators I have ever known, and his sister shares his deep love of our Country, and the State of South Carolina. During her visit, I asked Darline, for the Good of our Nation, to run for the U.S. Senate in the Special Republican Primary on Tuesday, August 11, 2026. She accepted, as there is nobody better to honor the legacy of her beloved brother, Lindsey. Darline, who comes from an absolutely incredible family, has been a WINNER all of her life, and has my Complete and Total Endorsement in the Special Election for U.S. Senate in South Carolina — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
@@ -509,7 +554,7 @@
    "title": "Fact Sheet: President Donald J. Trump Establishes the President’s Military Spouse Commission",
    "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-establishes-the-presidents-military-spouse-commission/",
    "published": "2026-08-03T18:55:57+00:00",
-   "summary": "STRENGTHENING MILITARY READINESS:&#160;Today, President Donald J. Trump signed an Executive Order establishing the Military Spouse Commission to strengthen military readiness by improving the quality of life for military spouses and families.&#160;&#160; PRIORITIZING MILITARY&#160;EXCELLENCE:&#160;President Trump recognizes that military spouses are essential to the strength, readiness, and retent",
+   "summary": "STRENGTHENING MILITARY READINESS: Today, President Donald J. Trump signed an Executive Order establishing the Military Spouse Commission to strengthen military readiness by improving the quality of life for military spouses and families. PRIORITIZING MILITARY&#160;EXCELLENCE:&#160;President Trump recognizes that military spouses are essential to the strength, readiness, and retention of our milita",
    "tags": [],
    "highlight": false
   },
@@ -542,51 +587,6 @@
    "tags": [
     "diplomacy",
     "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Uncertainty on Iranians’ minds as Trump fluctuates on war and talk",
-   "url": "https://www.aljazeera.com/news/2026/8/3/uncertainty-on-iranians-minds-as-trump-fluctuates-on-war-and-talk?traffic_source=rss",
-   "published": "2026-08-03T16:33:08+00:00",
-   "summary": "Iranians feeling pressure amid US president&#039;s on-again, off-again comments on conflict and negotiations.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Romanian navy blasts riverbed to protect nuclear plant",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/romanian-navy-blasts-riverbed-to-protect-nuclear-plant?traffic_source=rss",
-   "published": "2026-08-03T16:01:43+00:00",
-   "summary": "Romania&#039;s military detonated part of the Danube riverbed to redirect water towards the Cernavoda Nuclear Power Plant.",
-   "tags": [
-    "nuclear"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Tigray refugees flee into Sudan after deadly violence on Ethiopia border",
-   "url": "https://www.aljazeera.com/news/2026/8/3/tigray-refugees-flee-into-sudan-after-deadly-violence-on-ethiopia-border?traffic_source=rss",
-   "published": "2026-08-03T15:19:32+00:00",
-   "summary": "Ethiopian army accused of attacking Tigray forces in Shererina amid escalating tensions at the Sudan-Ethiopia border.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Pentagon boosts Patriot, THAAD interceptor output amid stockpile strain",
-   "url": "https://www.aljazeera.com/economy/2026/8/3/pentagon-boosts-patriot-thaad-interceptor-output-amid-stockpile-strain?traffic_source=rss",
-   "published": "2026-08-03T14:47:20+00:00",
-   "summary": "Defence giants Lockheed and Northrop see billion-dollar deals as Pentagon accelerates missile arsenal production",
-   "tags": [
-    "strikes",
-    "diplomacy"
    ],
    "highlight": false
   },
