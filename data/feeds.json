@@ -1,6 +1,29 @@
 {
- "asOf": "2026-08-04T12:09:17.583061+00:00",
+ "asOf": "2026-08-04T13:07:11.645948+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Seventh round of Israel-Lebanon talks begins – what’s on the agenda?",
+   "url": "https://www.aljazeera.com/news/2026/8/4/seventh-round-of-israel-lebanon-talks-begins-whats-on-the-agenda?traffic_source=rss",
+   "published": "2026-08-04T12:22:19+00:00",
+   "summary": "The latest talks come as Israel continues to occupy and strike southern Lebanon.",
+   "tags": [
+    "strikes",
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Can Pakistan keep US-Iran diplomacy alive as mistrust deepens?",
+   "url": "https://www.aljazeera.com/news/2026/8/4/can-pakistan-keep-us-iran-diplomacy-alive-as-mistrust-deepens?traffic_source=rss",
+   "published": "2026-08-04T12:21:41+00:00",
+   "summary": "New diplomatic push undertaken as repeated ceasefire failures expose limits of mediation.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Nine killed in escalating long-range strikes between Russia and Ukraine",
@@ -583,29 +606,6 @@
    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/08-03-2026-ukraine-strikes-wildberies-russia?traffic_source=rss",
    "published": "2026-08-03T11:03:23+00:00",
    "summary": "Ukraine has struck another warehouse belonging to Russian e-commerce giant Wildberries in a long-range drone attack.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Tehran, Muscat negotiating temporary Hormuz shipping corridor as talks continue",
-   "url": "https://en.irna.ir/news/86227034/Tehran-Muscat-negotiating-temporary-Hormuz-shipping-corridor",
-   "published": "2026-08-03T11:00:09+00:00",
-   "summary": "Tehran, IRNA – Iran is negotiating with Oman to establish a temporary shipping corridor in the Strait of Hormuz that would serve as a single two-way route rather than multiple separate lanes, Iranian Foreign Ministry Spokesperson Esmaeil Baqaei says.",
-   "tags": [
-    "diplomacy",
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Israel defies Trump’s peace plan as it escalates deadly attacks on Gaza",
-   "url": "https://www.aljazeera.com/news/2026/8/3/israel-defies-trumps-peace-plan-as-it-escalates-deadly-attacks-on-gaza?traffic_source=rss",
-   "published": "2026-08-03T10:53:47+00:00",
-   "summary": "Israel escalates Gaza attacks and pushes hardline demands, threatening the US-backed peace roadmap.",
    "tags": [
     "strikes"
    ],
