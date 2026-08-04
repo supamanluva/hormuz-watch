@@ -1,9 +1,32 @@
 {
- "asOf": "2026-08-04T01:43:21.750492+00:00",
+ "asOf": "2026-08-04T03:53:00.345113+00:00",
  "items": [
   {
    "source": "Al Jazeera",
-   "title": "Iran war live: Tehran denies US talks as Trump warns of ‘last chance’",
+   "title": "US stocks near record high, oil falls as Trump claims Iran talks under way",
+   "url": "https://www.aljazeera.com/economy/2026/8/4/us-stocks-near-record-high-oil-falls-as-trump-claims-iran-talks-underway?traffic_source=rss",
+   "published": "2026-08-04T02:56:26+00:00",
+   "summary": "Benchmark S&amp;P500 approaches all-time peak as Washington, Tehran offer conflicting accounts of status of talks.",
+   "tags": [
+    "diplomacy",
+    "oil"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Board of Peace says no Israeli withdrawal from Gaza before Hamas disarms",
+   "url": "https://www.aljazeera.com/news/2026/8/4/board-of-peace-says-no-israeli-withdrawal-from-gaza-before-hamas-disarms?traffic_source=rss",
+   "published": "2026-08-04T01:43:51+00:00",
+   "summary": "Netanyahu and board director Maldenov meet amid tensions over Gaza disarmament roadmap and recent Israeli attacks.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Iran war live: Tehran slams US blockade as Trump warns of ‘last chance’",
    "url": "https://www.aljazeera.com/news/liveblog/2026/8/4/iran-war-live-tehran-denies-us-talks-as-trump-warns-of-last-chance?traffic_source=rss",
    "published": "2026-08-04T00:00:00+00:00",
    "summary": "US president says talks with Iran are under way, warning the negotiations are Tehran&#039;s &#039;last chance&#039; to secure a deal.",
@@ -590,28 +613,6 @@
     "strikes",
     "diplomacy",
     "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Sudan army drone attack on Darfur kills 35, rights group says",
-   "url": "https://www.aljazeera.com/news/2026/8/2/sudan-army-drone-attack-on-darfur-kills-35-rights-group-says?traffic_source=rss",
-   "published": "2026-08-02T22:51:09+00:00",
-   "summary": "Tens of thousands of people have been killed in the ongoing war between army chief al-Burhan and RSF commander Dagalo.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Is Washington dictating the agenda for talks in Venezuela?",
-   "url": "https://www.aljazeera.com/video/inside-story/2026/8/2/is-washington-dictating-the-agenda-for-talks-in-venezuela?traffic_source=rss",
-   "published": "2026-08-02T20:01:21+00:00",
-   "summary": "Venezuela&#039;s government and a section of the opposition plan to hold talks, backed by the US.",
-   "tags": [
-    "diplomacy"
    ],
    "highlight": false
   }
