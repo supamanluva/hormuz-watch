@@ -1,6 +1,15 @@
 {
- "asOf": "2026-08-04T19:15:09.825138+00:00",
+ "asOf": "2026-08-04T20:39:21.677594+00:00",
  "items": [
+  {
+   "source": "UN Press",
+   "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General",
+   "url": "https://press.un.org/en/2026/db260804.doc.htm",
+   "published": "2026-08-04T19:38:14+00:00",
+   "summary": "In Venezuela, the Office for the Coordination of Humanitarian Affairs reports that 200,000 people affected by devastating earthquakes five weeks ago have received hot meals, healthcare, safe water, shelter, legal and psychological support through the joint efforts of the UN, aid partners, local communities and the authorities.",
+   "tags": [],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Baqaei: Iran-Oman talks on Strait of Hormuz progressing positively",
@@ -600,17 +609,6 @@
    "published": "2026-08-03T18:20:09+00:00",
    "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered: Section 1. Purpose and Policy. Military spouses are intrinsically linked to the good order, readiness, and retention of our military. Their support and contributions to our Armed Forces are crucial to [&#8230;] The post Establishing the President&#8217;s Military Spous",
    "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Industry minister travels to Pakistan for trade, free trade talks",
-   "url": "https://en.irna.ir/news/86227279/Industry-minister-travels-to-Pakistan-for-trade-free-trade-talks",
-   "published": "2026-08-03T14:26:53+00:00",
-   "summary": "Tehran, IRNA – Minister of Industry, Mine and Trade, Mohammad Atabak, has traveled to Islamabad, leading a high-level delegation of government officials and private sector representatives for talks aimed at expanding economic, trade and industrial cooperation.",
-   "tags": [
-    "diplomacy"
-   ],
    "highlight": false
   }
  ]
