@@ -1,12 +1,24 @@
 {
- "asOf": "2026-08-04T03:53:00.345113+00:00",
+ "asOf": "2026-08-04T06:16:25.929673+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Palestine weekly: Israel kills dozens in Gaza after Hamas disarmament deal",
+   "url": "https://www.aljazeera.com/news/2026/8/4/palestine-weekly-israel-kills-dozens-in-gaza-after-hamas-disarmament-deal?traffic_source=rss",
+   "published": "2026-08-04T06:00:10+00:00",
+   "summary": "Israeli strikes on Gaza only intensified in the days following a US-brokered agreement billed as a &#039;breakthrough&#039;.",
+   "tags": [
+    "strikes",
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "US stocks near record high, oil falls as Trump claims Iran talks under way",
    "url": "https://www.aljazeera.com/economy/2026/8/4/us-stocks-near-record-high-oil-falls-as-trump-claims-iran-talks-underway?traffic_source=rss",
    "published": "2026-08-04T02:56:26+00:00",
-   "summary": "Benchmark S&amp;P500 approaches all-time peak as Washington, Tehran offer conflicting accounts of status of talks.",
+   "summary": "Benchmark S&amp;P 500 approaches all-time peak as Washington, Tehran offer conflicting accounts of status of talks.",
    "tags": [
     "diplomacy",
     "oil"
@@ -600,19 +612,6 @@
    "summary": "US President Donald Trump says an agreement with Iran is imminent, with negotiations set to begin on Monday.",
    "tags": [
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Trump says new round of Iran talks will begin Monday",
-   "url": "https://www.aljazeera.com/news/2026/8/2/trump-says-new-round-of-iran-talks-will-begin-monday?traffic_source=rss",
-   "published": "2026-08-02T23:48:08+00:00",
-   "summary": "The US president says Gulf allies and Tehran urged him to delay planned strikes, as oil prices dropped in response.",
-   "tags": [
-    "strikes",
-    "diplomacy",
-    "oil"
    ],
    "highlight": false
   }
