@@ -1,6 +1,70 @@
 {
- "asOf": "2026-08-05T10:17:01.921005+00:00",
+ "asOf": "2026-08-05T12:08:44.664493+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Turkish cargo ship catches fire after Black Sea drone attack",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/08-05-2026-drone-attacks-turkish-ship-sv?traffic_source=rss",
+   "published": "2026-08-05T11:49:25+00:00",
+   "summary": "A Turkish cargo ship caught fire after a drone attack near Russia’s Black Sea port of Novorossiysk.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Israeli forces detain Palestinians during raid in occupied West Bank",
+   "url": "https://www.aljazeera.com/news/2026/8/5/israeli-forces-detain-palestinians-during-raid-in-occupied-west-bank?traffic_source=rss",
+   "published": "2026-08-05T11:31:32+00:00",
+   "summary": "A journalist covering events was severely beaten by Israeli soldiers, while locals were also attacked.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Lebanon and Israel still split over disarming Hezbollah at Rome talks",
+   "url": "https://www.aljazeera.com/news/2026/8/5/lebanon-and-israel-still-split-over-disarming-hezbollah-at-rome-talks?traffic_source=rss",
+   "published": "2026-08-05T11:01:32+00:00",
+   "summary": "Disagreements remain in second day of resumed talks over disarming Hezbollah and Israeli withdrawal from South Lebanon.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Japanese envoy celebrates 100th anniversary of Tehran–Tokyo diplomatic ties",
+   "url": "https://en.irna.ir/news/86228576/Japanese-envoy-celebrates-100th-anniversary-of-Tehran-Tokyo-diplomatic",
+   "published": "2026-08-05T10:56:34+00:00",
+   "summary": "Tehran, IRNA — Japan’s Ambassador to Iran, Tsukada Tamaki, has performed the iconic theme music from the Japanese television series Oshin with Tehran’s private Istgah Orchestra, marking the approach of the 100th anniversary of diplomatic relations between Tehran and Tokyo.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "White House",
+   "title": "FBI Secretly Opened Probe Alleging Trump Fired Comey because he was a Russian Asset, Declassified Memos Show",
+   "url": "https://www.whitehouse.gov/releases/2026/08/fbi-secretly-opened-probe-alleging-trump-fired-comey-because-he-was-a-russian-asset-declassified-memos-show/",
+   "published": "2026-08-05T10:51:05+00:00",
+   "summary": "By John Solomon The FBI opened a criminal probe specifically targeting Donald Trump in May 2017, alleging the newly elected president may have been acting as a Russian asset when he fired then-Director James Comey even though the bureau’s own evidence overwhelmingly showed at the time there was no collusion with the Kremlin. Internal FBI [&#8230;] The post FBI Secretly Opened Probe Alleging Trump ",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran supports Palestinian leaders’ decisions in negotiations: President Pezeshkian",
+   "url": "https://en.irna.ir/news/86228550/Iran-supports-Palestinian-leaders-decisions-in-negotiations",
+   "published": "2026-08-05T10:37:40+00:00",
+   "summary": "Tehran, IRNA – President Masoud Pezeshkian says that Iran supports any decision, initiative, or measure adopted by Palestinian leaders during the ongoing negotiation process, reiterating Tehran’s continued backing for the Palestinian people.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Iran, Pakistan reaffirm $10 bn trade goal, advance free trade agreement",
@@ -538,40 +602,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "Qatar says indirect talks continue to reopen Strait of Hormuz",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/aje-onl-nf_qatar-aims-to-avoid-regional-escalation-040826?traffic_source=rss",
-   "published": "2026-08-04T15:34:40+00:00",
-   "summary": "Qatar FM spokesman Dr. Majed al-Ansari says indirect talks are continuing to avoid further regional escalation.",
-   "tags": [
-    "diplomacy",
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Drone appears to stalk man before exploding",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/drone-appears-to-stalk-man-before-exploding?traffic_source=rss",
-   "published": "2026-08-04T15:11:51+00:00",
-   "summary": "A drone was seen following a man at a minibus-turned-market in Kherson, southern Ukraine, before exploding on Tuesday.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Beirut port blast anniversary overshadowed by new wave of destruction",
-   "url": "https://www.aljazeera.com/news/2026/8/4/beirut-port-blast-anniversary-overshadowed-by-new-wave-of-destruction?traffic_source=rss",
-   "published": "2026-08-04T14:23:33+00:00",
-   "summary": "As much of southern Lebanon lies in ruins due to Israeli attacks, residents struggle once again to rebuild their lives.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
    "source": "IRNA (Iran state wire)",
    "title": "Pakistan determined to finalize FTA with Iran: Minister",
    "url": "https://en.irna.ir/news/86227754/Pakistan-determined-to-finalize-FTA-with-Iran-Minister",
@@ -579,37 +609,6 @@
    "summary": "Islamabad, IRNA – Pakistan’s Commerce Minister Jam Kamal Khan has emphasized the coordinated efforts of Islamabad and Tehran in eliminating barriers to trade, border infrastructure, and customs, adding that Pakistan is determined to finalize the Iran–Pakistan Free Trade Agreement (FTA).",
    "tags": [
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Cleric hails resolve of families of martyrs who ascended in recent US terrorist attacks",
-   "url": "https://en.irna.ir/news/86227559/Cleric-hails-resolve-of-families-of-martyrs-who-ascended-in-recent",
-   "published": "2026-08-04T06:19:14+00:00",
-   "summary": "Qeshm, IRNA – The Friday Prayer Imam in Qeshm, Hojatoleslam Gholam-Reza Hajebi, has praised the steadfastness of the martyrs’ families in recent US terrorist attacks.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Press Conference by Security Council President on Work Programme for August",
-   "url": "https://press.un.org/en/2026/260803_sc.doc.htm",
-   "published": "2026-08-03T20:11:46+00:00",
-   "summary": "The Security Council’s programme of work for August features an open debate on conflict and hunger, the representative of Denmark, the organ’s President for the month, told correspondents at a Headquarters press conference today.",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General",
-   "url": "https://press.un.org/en/2026/db260803.doc.htm",
-   "published": "2026-08-03T19:54:28+00:00",
-   "summary": "In Gaza, air strikes, shelling and shooting continued over the weekend, reportedly killing dozens of people, including civilians, the Office for the Coordination of Humanitarian Affairs reports. Gaza’s Ministry of Health documented over 150 fatalities in July, the highest reported monthly death toll so far this year.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   }
