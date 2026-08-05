@@ -1,6 +1,18 @@
 {
- "asOf": "2026-08-05T20:47:17.569675+00:00",
+ "asOf": "2026-08-05T22:11:48.483278+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Iran says Hormuz talks with Oman in ‘final’ stages as route approved",
+   "url": "https://www.aljazeera.com/news/2026/8/5/iran-says-hormuz-talks-with-oman-in-final-stages-as-route-approved?traffic_source=rss",
+   "published": "2026-08-05T20:55:52+00:00",
+   "summary": "The geographical coordinates of the route in the waterway have been agreed upon with Oman, according to Tehran.",
+   "tags": [
+    "diplomacy",
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "I was 28-1 last night on Endorsements, and numerous of them were outliers, but if you studied the Fake News, you would think it was just the opposite, 1-28. All they talked about was the one, and that’s why they call it the FAKE NEWS! President DJT",
@@ -596,18 +608,6 @@
    "published": "2026-08-05T00:47:48+00:00",
    "summary": "Today, our Nation celebrates the 236th birthday of the United States Coast Guard, a force of American law enforcement professionals and Coast Guardsmen who stand constant watch over our shores, our waters, and our glorious way of life.&#160; From the earliest days of our Republic, Coast Guardsmen have answered every call with the vigilance and [&#8230;] The post Presidential Message on the Birthda",
    "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iran war live: Tehran-Oman talks on Hormuz ‘positive’; ship hit in Red Sea",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/8/5/iran-war-live-tehran-oman-talks-on-hormuz-positive-ship-hit-in-red-sea?traffic_source=rss",
-   "published": "2026-08-05T00:00:00+00:00",
-   "summary": "Iran says talks with Oman are proceeding &#039;positively&#039; as US officials say a deal could be possible soon.",
-   "tags": [
-    "diplomacy",
-    "shipping"
-   ],
    "highlight": false
   }
  ]
