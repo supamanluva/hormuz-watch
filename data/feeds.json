@@ -1,6 +1,37 @@
 {
- "asOf": "2026-08-05T14:36:37.390553+00:00",
+ "asOf": "2026-08-05T16:20:25.031782+00:00",
  "items": [
+  {
+   "source": "White House",
+   "title": "President Trump and Republicans Deliver Big Wins for the Silver State",
+   "url": "https://www.whitehouse.gov/releases/2026/08/president-trump-and-republicans-deliver-big-wins-for-the-silver-state/",
+   "published": "2026-08-05T15:53:47+00:00",
+   "summary": "From the largest tax cut for working families in American history to the most secure border on record, Nevada is winning again under President Donald J. Trump and Republican leadership in Congress and the statehouse. Since returning to office, President Trump has cut taxes, driven down crime, secured the border, opened federal lands, unleashed American [&#8230;] The post President Trump and Republ",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "War on Iran: US-Iran deal edges closer",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/war-on-iran-us-iran-deal-edges-closer?traffic_source=rss",
+   "published": "2026-08-05T15:12:34+00:00",
+   "summary": "A deal between the US and Iran could be signed within 48 hours, according to US officials.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Germany investigates explosive device attached to drone at Leipzig airport",
+   "url": "https://www.aljazeera.com/news/2026/8/5/germany-investigates-explosive-device-attached-to-drone-at-leipzig-airport?traffic_source=rss",
+   "published": "2026-08-05T14:40:32+00:00",
+   "summary": "An airport employee spotted the object carrying what authorities described as &#039;an unknown explosive device&#039;.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Iran’s industry minister meets Pakistani PM after joint trade committee talks",
@@ -577,36 +608,6 @@
    "summary": "More than 45 vessels have been affected by the strike at Argentinian ports.",
    "tags": [
     "strikes",
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Security Council, 10205th Meeting (AM) Terrorism",
-   "url": "https://press.un.org/en/blog/13b7e7a6-69ac-4685-86a5-b0b4fdf4be06",
-   "published": "2026-08-04T20:06:17+00:00",
-   "summary": "The Security Council will convene for a briefing on the Secretary-General’s latest biannual strategic-level report, S/2026/638, on the threat posed by the Islamic State in Iraq and the Levant (ISIL/Da’esh) to international peace and security. Oguljeren Niyazberdiyeva, Chief of the Office of the Under-Secretary-General for Counter-Terrorism at the UN Office of Counter-Terrorism (UNOCT), and Carmen ",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General",
-   "url": "https://press.un.org/en/2026/db260804.doc.htm",
-   "published": "2026-08-04T19:38:14+00:00",
-   "summary": "In Venezuela, the Office for the Coordination of Humanitarian Affairs reports that 200,000 people affected by devastating earthquakes five weeks ago have received hot meals, healthcare, safe water, shelter, legal and psychological support through the joint efforts of the UN, aid partners, local communities and the authorities.",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Baqaei: Iran-Oman talks on Strait of Hormuz progressing positively",
-   "url": "https://en.irna.ir/news/86228014/Baqaei-Iran-Oman-talks-on-Strait-of-Hormuz-progressing-positively",
-   "published": "2026-08-04T18:44:33+00:00",
-   "summary": "Tehran, IRNA – Iran and Oman are continuing talks on establishing safe shipping arrangements in the Strait of Hormuz, Iranian Foreign Ministry spokesman Esmaeil Baghaei says.",
-   "tags": [
-    "diplomacy",
     "shipping"
    ],
    "highlight": false
