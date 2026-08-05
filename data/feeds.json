@@ -1,6 +1,27 @@
 {
- "asOf": "2026-08-05T19:41:13.809090+00:00",
+ "asOf": "2026-08-05T20:17:01.080316+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Gharibabadi: Agreement between Iran and Oman on arrangements for Strait of Hormuz is finalizing",
+   "url": "https://en.irna.ir/news/86228870/Gharibabadi-Agreement-between-Iran-and-Oman-on-arrangements",
+   "published": "2026-08-05T20:05:40+00:00",
+   "summary": "Tehran, IRNA – Iranian Deputy Foreign Minister Kazem Gharibabadi said on Wednesday that whether Tehran would collect transit fees from vessels passing through the Strait of Hormuz would depend on decisions by the country's highest authorities and on United States conduct.",
+   "tags": [
+    "diplomacy",
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "UN Press",
+   "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General",
+   "url": "https://press.un.org/en/2026/db260805.doc.htm",
+   "published": "2026-08-05T20:01:08+00:00",
+   "summary": "Enter summary text here and keep the P tags.",
+   "tags": [],
+   "highlight": false
+  },
   {
    "source": "UN Press",
    "title": "Strong International Cooperation, Concrete Action Key to Defeat Da’esh’s Expansive, Adaptive Network, Top UN Counter-terrorism Officials Tell Security Council",
@@ -587,26 +608,6 @@
     "diplomacy",
     "shipping"
    ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Russian missile attack kills 14, injures 27 in Ukraine’s Kyiv region",
-   "url": "https://www.aljazeera.com/news/2026/8/4/russia-strikes-ukrainian-capital-kyiv-with-ballistic-missiles?traffic_source=rss",
-   "published": "2026-08-04T23:24:43+00:00",
-   "summary": "The latest attack comes after at least 27 people were killed in both Russia and Ukraine earlier this week.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "Manufacturing Jobs Flock to the U.S. Thanks to President Trump’s America First Economic Agenda",
-   "url": "https://www.whitehouse.gov/releases/2026/08/manufacturing-jobs-flock-to-the-u-s-thanks-to-president-trumps-america-first-economic-agenda/",
-   "published": "2026-08-04T21:33:29+00:00",
-   "summary": "With President Trump’s economic agenda taking effect, the United States is seeing an economic revival across our manufacturing industry. July saw the strongest expansion in domestic manufacturing activity in more than four years, marking seven consecutive months of growth in the sector. The results are clear: President Trump’s Working Families Tax Cuts and America First [&#8230;] The post Manufact",
-   "tags": [],
    "highlight": false
   }
  ]
