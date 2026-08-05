@@ -1,6 +1,73 @@
 {
- "asOf": "2026-08-05T08:14:05.880398+00:00",
+ "asOf": "2026-08-05T10:17:01.921005+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran, Pakistan reaffirm $10 bn trade goal, advance free trade agreement",
+   "url": "https://en.irna.ir/news/86228393/Iran-Pakistan-reaffirm-10-bn-trade-goal-advance-free-trade",
+   "published": "2026-08-05T09:16:45+00:00",
+   "summary": "Islamabad, IRNA – Iran and Pakistan have signed a memorandum of understanding to expand bilateral trade, reaffirming their commitment to raising annual trade to $10 billion and advancing negotiations toward a free trade agreement.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Russian attacks kill 17, exploiting Ukraine’s lack of missile interceptors",
+   "url": "https://www.aljazeera.com/news/2026/8/5/russian-attacks-kill-17-exploiting-ukraines-lack-of-missile-interceptors?traffic_source=rss",
+   "published": "2026-08-05T09:16:39+00:00",
+   "summary": "Ukrainian President Volodymyr Zelenskyy says Russian forces used 29 missiles and 115 drones during the assault.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Trump hails progress but warned Iran of ‘hard hit’ if no deal reached",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/08-05-2026-clip-trump-iran-talks-sot?traffic_source=rss",
+   "published": "2026-08-05T09:05:46+00:00",
+   "summary": "US President Donald Trump says progress with Iran has been made, but warned Iran of &#039;hard hit&#039; if no deal reached.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Japan tests US-Tomahawk missile as it moves away from Post-WWII status",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/japan-tests-us-tomahawk-missile-as-it-moves-away-from-post-wwii-status?traffic_source=rss",
+   "published": "2026-08-05T08:37:04+00:00",
+   "summary": "Japan tested a US-Tomahawk cruise missile, launching from their Chokai warship in the Pacific Ocean on July 29.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "FIFA’s Infantino set for crunch meeting after World Cup selloff crisis",
+   "url": "https://www.aljazeera.com/sports/2026/8/5/fifas-infantino-set-for-crunch-meeting-after-world-cup-selloff-crisis?traffic_source=rss",
+   "published": "2026-08-05T08:35:13+00:00",
+   "summary": "Gianni Infantino under increasing pressure before Wednesday&#039;s FIFA talks after president&#039;s failed World Cup selloff.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "AI models attempted ‘unsanctioned’ cyberattacks in tests, watchdog says",
+   "url": "https://www.aljazeera.com/economy/2026/8/5/ai-models-attempted-unsanctioned-cyberattacks-in-tests-watchdog-says?traffic_source=rss",
+   "published": "2026-08-05T08:14:54+00:00",
+   "summary": "AI Security Institute says Mythos 5 attempted to insert malicious code into open-source project without human direction.",
+   "tags": [
+    "strikes",
+    "sanctions"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "In photos: Final farewell to family killed in US attack on Iran’s Qeshm Island",
@@ -505,63 +572,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "Why are oil companies posting record profits amid Iran war disruption?",
-   "url": "https://www.aljazeera.com/features/2026/8/4/why-are-oil-companies-posting-record-profits-amid-iran-war-disruption?traffic_source=rss",
-   "published": "2026-08-04T14:04:28+00:00",
-   "summary": "Big Oil companies have bagged astronomical profits as the critical Strait of Hormuz remains closed.",
-   "tags": [
-    "shipping",
-    "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Hamas negotiator says deal to disarm was necessary to ‘save Gaza’",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/hamas-negotiator-says-deal-to-disarm-was-necessary-to-save?traffic_source=rss",
-   "published": "2026-08-04T13:34:43+00:00",
-   "summary": "Hamas negotiator says deal to disarm was necessary to ‘save Gaza’",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "More than 150 people rescued in English Channel after boat catches fire",
-   "url": "https://www.aljazeera.com/news/2026/8/4/more-than-150-people-rescued-in-english-channel-after-boat-catches-fire?traffic_source=rss",
-   "published": "2026-08-04T12:47:59+00:00",
-   "summary": "Rescue boats from both France and the UK took part in the operation to evacuate passengers from the stricken vessel.",
-   "tags": [
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Seventh round of Israel-Lebanon talks begins – what’s on the agenda?",
-   "url": "https://www.aljazeera.com/news/2026/8/4/seventh-round-of-israel-lebanon-talks-begins-whats-on-the-agenda?traffic_source=rss",
-   "published": "2026-08-04T12:22:19+00:00",
-   "summary": "The latest talks come as Israel continues to occupy and strike southern Lebanon.",
-   "tags": [
-    "strikes",
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Can Pakistan keep US-Iran diplomacy alive as mistrust deepens?",
-   "url": "https://www.aljazeera.com/news/2026/8/4/can-pakistan-keep-us-iran-diplomacy-alive-as-mistrust-deepens?traffic_source=rss",
-   "published": "2026-08-04T12:21:41+00:00",
-   "summary": "New diplomatic push undertaken as repeated ceasefire failures expose limits of mediation.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
    "source": "IRNA (Iran state wire)",
    "title": "Pakistan determined to finalize FTA with Iran: Minister",
    "url": "https://en.irna.ir/news/86227754/Pakistan-determined-to-finalize-FTA-with-Iran-Minister",
@@ -601,15 +611,6 @@
    "tags": [
     "strikes"
    ],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "Under President Trump, U.S. Factories Expand at Fastest Clip in More Than Four Years",
-   "url": "https://www.whitehouse.gov/releases/2026/08/under-president-trump-u-s-factories-expand-at-fastest-clip-in-more-than-four-years/",
-   "published": "2026-08-03T19:41:16+00:00",
-   "summary": "U.S. manufacturing activity surged in July at the strongest rate in more than four years — driven by soaring demand, record production, and a wave of new hiring. This is the latest clear result of President Donald J. Trump’s economic agenda delivering an industrial renaissance across America. The Institute for Supply Management Manufacturing PMI shows [&#8230;] The post Under President Trump, U.S.",
-   "tags": [],
    "highlight": false
   }
  ]
