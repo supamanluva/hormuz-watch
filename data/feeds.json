@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-05T22:45:01.616671+00:00",
+ "asOf": "2026-08-05T23:13:01.862404+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Erica Schwartz confirmed as new CDC chief amid US agency turmoil",
+   "url": "https://www.aljazeera.com/news/2026/8/5/erica-schwartz-confirmed-as-new-cdc-chief-amid-us-agency-turmoil?traffic_source=rss",
+   "published": "2026-08-05T22:46:03+00:00",
+   "summary": "US public health agency faces toughest test as Schwartz takes charge amid political pressure and public health crises.",
+   "tags": [
+    "oil"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Iran says Hormuz talks with Oman in ‘final’ stages as route approved",
@@ -599,15 +610,6 @@
    "tags": [
     "strikes"
    ],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "Presidential Message on the Birthday of the United States Coast Guard",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/08/presidential-message-on-the-birthday-of-the-united-states-coast-guard/",
-   "published": "2026-08-05T00:47:48+00:00",
-   "summary": "Today, our Nation celebrates the 236th birthday of the United States Coast Guard, a force of American law enforcement professionals and Coast Guardsmen who stand constant watch over our shores, our waters, and our glorious way of life.&#160; From the earliest days of our Republic, Coast Guardsmen have answered every call with the vigilance and [&#8230;] The post Presidential Message on the Birthda",
-   "tags": [],
    "highlight": false
   }
  ]
