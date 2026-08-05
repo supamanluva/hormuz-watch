@@ -1,6 +1,51 @@
 {
- "asOf": "2026-08-05T16:58:31.045558+00:00",
+ "asOf": "2026-08-05T18:14:32.088592+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "At least one Lebanese person, two Israeli soldiers killed in south Lebanon",
+   "url": "https://www.aljazeera.com/news/2026/8/5/at-least-one-lebanese-person-two-israeli-soldiers-killed-in-south-lebanon?traffic_source=rss",
+   "published": "2026-08-05T17:12:34+00:00",
+   "summary": "The violence comes amid talks between Lebanon and Israel as Beirut pushes for a phased Israeli troop withdrawal.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "LIV Golf secures ‘lead’ investor for player-driven future after Saudi exit",
+   "url": "https://www.aljazeera.com/sports/2026/8/5/liv-golf-secures-lead-investor-for-player-driven-life-after-saudi-future?traffic_source=rss",
+   "published": "2026-08-05T17:06:04+00:00",
+   "summary": "An agreement with an unnamed investor is approved by the LIV Golf board to replace Saudi Arabia deal.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran says joint statement with Oman on Hormuz in final stage; warns of third party obstruction",
+   "url": "https://en.irna.ir/news/86228813/Iran-says-joint-statement-with-Oman-on-Hormuz-in-final-stage",
+   "published": "2026-08-05T16:59:02+00:00",
+   "summary": "Tehran, IRNA – Foreign Ministry spokesman Esmaeil Baqaei, referring to Iran-Oman talks on safe shipping through the Strait of Hormuz, says the two sides are now working on a joint statement based on main considerations and points agreed upon during the negotiations.",
+   "tags": [
+    "diplomacy",
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Russia kills 17 in ballistic missile attacks around Kyiv",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/5-8-sv-russia-attacks-kyiv-ua?traffic_source=rss",
+   "published": "2026-08-05T16:42:24+00:00",
+   "summary": "At least 17 people were killed after Russia launched an overnight ballistic missile and drone attack on Kyiv.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "White House",
    "title": "President Trump and Republicans Deliver Big Wins for the Silver State",
@@ -563,52 +608,6 @@
    "summary": "Families of victims of the Beirut port blast marked six years since the explosion by demanding truth and accountability.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "US says deal on reopening Hormuz close as Iran, Oman hold ‘positive’ talks",
-   "url": "https://www.aljazeera.com/news/2026/8/4/us-says-deal-on-reopening-hormuz-close-as-iran-oman-hold-positive-talks?traffic_source=rss",
-   "published": "2026-08-04T20:59:32+00:00",
-   "summary": "Negotiators are working to expand safe shipping through the strait, though key differences remain unresolved.",
-   "tags": [
-    "diplomacy",
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "US court deals blow to Trump’s bid to scrap climate grant programme",
-   "url": "https://www.aljazeera.com/news/2026/8/4/us-court-deals-blow-to-trumps-bid-to-scrap-climate-grant-programme?traffic_source=rss",
-   "published": "2026-08-04T20:35:56+00:00",
-   "summary": "A US federal appeals court says EPA likely acted unlawfully in trying to cancel Biden-era clean energy grants.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "‘I wanted to hug whatever remained’: Gaza families’ 3-year wait for funeral",
-   "url": "https://www.aljazeera.com/news/2026/8/4/i-wanted-to-hug-whatever-remained-gaza-families-3-year-wait-for-funeral?traffic_source=rss",
-   "published": "2026-08-04T20:32:51+00:00",
-   "summary": "Thousands gather for mass funeral of 112 members of Abu Shreia and al-Hassaina families killed in 2023 Israeli attack.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Argentina grain exports halt as maritime pilots strike over Milei decree",
-   "url": "https://www.aljazeera.com/news/2026/8/4/argentina-grain-exports-halt-as-maritime-pilots-strike-over-milei-decree?traffic_source=rss",
-   "published": "2026-08-04T20:20:11+00:00",
-   "summary": "More than 45 vessels have been affected by the strike at Argentinian ports.",
-   "tags": [
-    "strikes",
-    "shipping"
    ],
    "highlight": false
   }
