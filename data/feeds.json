@@ -1,6 +1,26 @@
 {
- "asOf": "2026-08-05T18:14:32.088592+00:00",
+ "asOf": "2026-08-05T19:41:13.809090+00:00",
  "items": [
+  {
+   "source": "UN Press",
+   "title": "Strong International Cooperation, Concrete Action Key to Defeat Da’esh’s Expansive, Adaptive Network, Top UN Counter-terrorism Officials Tell Security Council",
+   "url": "https://press.un.org/en/2026/sc16426.doc.htm",
+   "published": "2026-08-05T18:18:51+00:00",
+   "summary": "Winning the fight against Islamic State in the Levant (ISIL/Da’esh) and its splinter groups requires intensive international cooperation and practical action, senior UN officials told the Security Council today, warning that terror networks are quickly adapting to the world’s shifting technological and geopolitical landscapes.",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Is the conflict between Russia and Ukraine deepening?",
+   "url": "https://www.aljazeera.com/video/inside-story/2026/8/5/is-the-conflict-between-russia-and-ukraine-deepening?traffic_source=rss",
+   "published": "2026-08-05T18:16:03+00:00",
+   "summary": "The war sees a surge in attacks by both sides with little diplomatic movement.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "At least one Lebanese person, two Israeli soldiers killed in south Lebanon",
@@ -199,7 +219,7 @@
   },
   {
    "source": "White House",
-   "title": "FBI Secretly Opened Probe Alleging Trump Fired Comey because he was a Russian Asset, Declassified Memos Show",
+   "title": "FBI Secretly Opened Probe Alleging Trump Fired Comey Because He Was a Russian Asset, Declassified Memos Show",
    "url": "https://www.whitehouse.gov/releases/2026/08/fbi-secretly-opened-probe-alleging-trump-fired-comey-because-he-was-a-russian-asset-declassified-memos-show/",
    "published": "2026-08-05T10:51:05+00:00",
    "summary": "By John Solomon The FBI opened a criminal probe specifically targeting Donald Trump in May 2017, alleging the newly elected president may have been acting as a Russian asset when he fired then-Director James Comey even though the bureau’s own evidence overwhelmingly showed at the time there was no collusion with the Kremlin. Internal FBI [&#8230;] The post FBI Secretly Opened Probe Alleging Trump ",
@@ -587,28 +607,6 @@
    "published": "2026-08-04T21:33:29+00:00",
    "summary": "With President Trump’s economic agenda taking effect, the United States is seeing an economic revival across our manufacturing industry. July saw the strongest expansion in domestic manufacturing activity in more than four years, marking seven consecutive months of growth in the sector. The results are clear: President Trump’s Working Families Tax Cuts and America First [&#8230;] The post Manufact",
    "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Funeral for family killed in US strike on Iran’s Qeshm Island",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/funeral-for-family-killed-in-us-strike-on-irans-qeshm-island?traffic_source=rss",
-   "published": "2026-08-04T21:11:50+00:00",
-   "summary": "The funeral for a couple and their toddler took place after they were killed in the US strike on Iran&#039;s Qeshm Island.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Six years on, Beirut blast families still await justice",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/six-years-on-beirut-blast-families-still-await-justice?traffic_source=rss",
-   "published": "2026-08-04T21:03:15+00:00",
-   "summary": "Families of victims of the Beirut port blast marked six years since the explosion by demanding truth and accountability.",
-   "tags": [
-    "strikes"
-   ],
    "highlight": false
   }
  ]
