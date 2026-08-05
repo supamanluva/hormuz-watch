@@ -1,9 +1,39 @@
 {
- "asOf": "2026-08-05T00:13:07.777293+00:00",
+ "asOf": "2026-08-05T00:55:52.189777+00:00",
  "items": [
   {
+   "source": "Trump · Truth Social",
+   "title": "[No Title] - Post from August 5, 2026",
+   "url": "https://trumpstruth.org/statuses/40556",
+   "published": "2026-08-05T00:54:23+00:00",
+   "summary": "",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "[No Title] - Post from August 5, 2026",
+   "url": "https://trumpstruth.org/statuses/40557",
+   "published": "2026-08-05T00:54:14+00:00",
+   "summary": "",
+   "tags": [],
+   "highlight": true
+  },
+  {
    "source": "Al Jazeera",
-   "title": "Russia strikes Ukrainian capital Kyiv with ballistic missiles",
+   "title": "Iran war live: Tehran-Oman talks on Hormuz ‘positive’; ship hit in Red Sea",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/8/5/iran-war-live-tehran-oman-talks-on-hormuz-positive-ship-hit-in-red-sea?traffic_source=rss",
+   "published": "2026-08-05T00:00:00+00:00",
+   "summary": "Iran says talks with Oman are proceeding &#039;positively&#039; as US officials say a deal could be possible soon.",
+   "tags": [
+    "diplomacy",
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "One killed, five injured in Russian ballistic missile attack on Kyiv",
    "url": "https://www.aljazeera.com/news/2026/8/4/russia-strikes-ukrainian-capital-kyiv-with-ballistic-missiles?traffic_source=rss",
    "published": "2026-08-04T23:24:43+00:00",
    "summary": "The latest attack comes after at least 27 people were killed in both Russia and Ukraine earlier this week.",
@@ -408,24 +438,6 @@
    "highlight": true
   },
   {
-   "source": "Trump · Truth Social",
-   "title": "FIRST ON FOX: Trump to open direct line with military families in ground-up readiness push:",
-   "url": "https://trumpstruth.org/statuses/40531",
-   "published": "2026-08-04T14:37:25+00:00",
-   "summary": "FIRST ON FOX: Trump to open direct line with military families in ground-up readiness push: https://www. foxnews.com/politics/first-fox -trump-open-direct-line-military-families-ground-up-readiness-push",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "President Trump celebrates Bedminster club championship, brags little practice was needed to score a 70:",
-   "url": "https://trumpstruth.org/statuses/40532",
-   "published": "2026-08-04T14:37:08+00:00",
-   "summary": "President Trump celebrates Bedminster club championship, brags little practice was needed to score a 70: https://www. foxnews.com/outkick-sports/pre sident-trump-celebrates-bedminster-club-championship-brags-little-practice-needed-score-70",
-   "tags": [],
-   "highlight": true
-  },
-  {
    "source": "Al Jazeera",
    "title": "Beirut port blast anniversary overshadowed by new wave of destruction",
    "url": "https://www.aljazeera.com/news/2026/8/4/beirut-port-blast-anniversary-overshadowed-by-new-wave-of-destruction?traffic_source=rss",
@@ -543,17 +555,6 @@
    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/cars-burn-in-reported-settler-attack-in-occupied-west-bank?traffic_source=rss",
    "published": "2026-08-04T08:51:47+00:00",
    "summary": "Cars burn in reported settler attack in occupied West Bank",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "We demand accountability for the Beirut blast",
-   "url": "https://www.aljazeera.com/opinions/2026/8/4/we-demand-accountability-for-the-beirut-blast?traffic_source=rss",
-   "published": "2026-08-04T08:51:46+00:00",
-   "summary": "Six years after the explosion, the domestic investigation is complete, but an indictment is yet to be issued.",
    "tags": [
     "strikes"
    ],
