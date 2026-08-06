@@ -1,6 +1,39 @@
 {
- "asOf": "2026-08-06T07:22:25.921993+00:00",
+ "asOf": "2026-08-06T09:24:51.608388+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Why is France developing a new nuclear strategy?",
+   "url": "https://www.aljazeera.com/video/project-force-2/2026/8/6/why-is-france-developing-a-new-nuclear-strategy?traffic_source=rss",
+   "published": "2026-08-06T08:17:26+00:00",
+   "summary": "As the US retreats from Europe and Russia adopts an aggressive posture, France plans to add weapons to its arsenal",
+   "tags": [
+    "nuclear"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Russian strikes kill six in Ukraine as Moscow intercepts hundreds of drones",
+   "url": "https://www.aljazeera.com/news/2026/8/6/russian-strikes-kill-six-in-ukraine-as-moscow-intercepts-hundreds-of-drones?traffic_source=rss",
+   "published": "2026-08-06T07:36:56+00:00",
+   "summary": "Ukraine officials say three people killed in Kharkiv region and three in Sumy, as Russia says it intercepted 605 drones.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Ex-Bangladesh cricket captain Shakib’s home petrol-bombed in Hasina fallout",
+   "url": "https://www.aljazeera.com/sports/2026/8/6/ex-bangladesh-cricket-captain-shakibs-home-petrol-bombed-in-hasina-fallout?traffic_source=rss",
+   "published": "2026-08-06T07:34:12+00:00",
+   "summary": "Former Bangladesh captain Shakib Al Hasan&#039;s home attacked after joining former Prime Minister Sheikh Hasina’s event.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "A US proposal for missile defense that’s been tried before",
@@ -434,39 +467,6 @@
    "summary": "Ukrainian President Volodymyr Zelenskyy says Russian forces used 29 missiles and 115 drones during the assault.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Trump hails progress but warned Iran of ‘hard hit’ if no deal reached",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/08-05-2026-clip-trump-iran-talks-sot?traffic_source=rss",
-   "published": "2026-08-05T09:05:46+00:00",
-   "summary": "US President Donald Trump says progress with Iran has been made, but warned Iran of &#039;hard hit&#039; if no deal reached.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Japan tests US-Tomahawk missile as it moves away from Post-WWII status",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/japan-tests-us-tomahawk-missile-as-it-moves-away-from-post-wwii-status?traffic_source=rss",
-   "published": "2026-08-05T08:37:04+00:00",
-   "summary": "Japan tested a US-Tomahawk cruise missile, launching from their Chokai warship in the Pacific Ocean on July 29.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "FIFA’s Infantino set for crunch meeting after World Cup selloff crisis",
-   "url": "https://www.aljazeera.com/sports/2026/8/5/fifas-infantino-set-for-crunch-meeting-after-world-cup-selloff-crisis?traffic_source=rss",
-   "published": "2026-08-05T08:35:13+00:00",
-   "summary": "Gianni Infantino under increasing pressure before Wednesday&#039;s FIFA talks after president&#039;s failed World Cup selloff.",
-   "tags": [
-    "diplomacy"
    ],
    "highlight": false
   },
