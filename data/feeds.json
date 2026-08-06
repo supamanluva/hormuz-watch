@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-06T11:13:16.445196+00:00",
+ "asOf": "2026-08-06T12:09:23.695750+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Ebola outbreak accelerates as healthcare workers strike over pay",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/ebola-outbreak-accelerates-as-healthcare-workers-strike-over-pay?traffic_source=rss",
+   "published": "2026-08-06T11:20:41+00:00",
+   "summary": "Ebola outbreak accelerates as healthcare workers strike over pay",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Hormuz deal ‘close’: What’s the latest on each side’s positions?",
@@ -415,17 +426,6 @@
    "summary": "A journalist covering events was severely beaten by Israeli soldiers, while locals were also attacked.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Lebanon and Israel still split over disarming Hezbollah at Rome talks",
-   "url": "https://www.aljazeera.com/news/2026/8/5/lebanon-and-israel-still-split-over-disarming-hezbollah-at-rome-talks?traffic_source=rss",
-   "published": "2026-08-05T11:01:32+00:00",
-   "summary": "Disagreements remain in second day of resumed talks over disarming Hezbollah and Israeli withdrawal from South Lebanon.",
-   "tags": [
-    "diplomacy"
    ],
    "highlight": false
   },
