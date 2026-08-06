@@ -1,6 +1,40 @@
 {
- "asOf": "2026-08-06T05:12:44.666252+00:00",
+ "asOf": "2026-08-06T07:22:25.921993+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "A US proposal for missile defense that’s been tried before",
+   "url": "https://www.aljazeera.com/video/project-force-2/2026/8/6/a-us-proposal-for-missile-defense-thats-been-tried-before?traffic_source=rss",
+   "published": "2026-08-06T06:51:27+00:00",
+   "summary": "What is a Golden Dome, and why does Donald Trump want one?",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Ukraine escalates strikes on Russian shipping",
+   "url": "https://www.aljazeera.com/video/project-force-2/2026/8/6/ukraine-escalates-strikes-on-russian-shipping?traffic_source=rss",
+   "published": "2026-08-06T06:40:18+00:00",
+   "summary": "Striking hundreds of targets in a matter of weeks, Ukraine has found a new way to pressure Russia&#039;s hold on Crimea",
+   "tags": [
+    "strikes",
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Strait of Hormuz tolls would harm livelihoods worldwide, shipowners warn",
+   "url": "https://www.aljazeera.com/economy/2026/8/6/strait-of-hormuz-tolls-would-harm-livelihoods-worldwide-shipowners-warn?traffic_source=rss",
+   "published": "2026-08-06T05:05:06+00:00",
+   "summary": "Eight leading shipping organisations sign letter opposing fees in critical waterway.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "Cash is king: Washington Republicans bankroll midterms as National Democrat coffers are in the red:",
@@ -72,7 +106,7 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "Iran war live: Tehran, Oman close in on Hormuz deal; Houthis attack tankers",
+   "title": "Iran war live: Trump denies munitions shortages; Tehran, Oman near deal",
    "url": "https://www.aljazeera.com/news/liveblog/2026/8/6/iran-war-live-tehran-oman-close-in-on-hormuz-deal-houthis-attack-tankers?traffic_source=rss",
    "published": "2026-08-06T00:00:00+00:00",
    "summary": "Iran, Oman agree on shipping routes in the Strait of Hormuz, as Houthis attack Saudi tankers and Israel bombs Lebanon.",
@@ -437,18 +471,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "AI models attempted ‘unsanctioned’ cyberattacks in tests, watchdog says",
-   "url": "https://www.aljazeera.com/economy/2026/8/5/ai-models-attempted-unsanctioned-cyberattacks-in-tests-watchdog-says?traffic_source=rss",
-   "published": "2026-08-05T08:14:54+00:00",
-   "summary": "AI Security Institute says Mythos 5 attempted to insert malicious code into open-source project without human direction.",
-   "tags": [
-    "strikes",
-    "sanctions"
-   ],
-   "highlight": false
-  },
-  {
    "source": "IRNA (Iran state wire)",
    "title": "In photos: Final farewell to family killed in US attack on Iran’s Qeshm Island",
    "url": "https://en.irna.ir/photo/86228135/In-photos-Final-farewell-to-family-killed-in-US-attack-on-Iran-s",
@@ -523,17 +545,6 @@
    "highlight": true
   },
   {
-   "source": "Al Jazeera",
-   "title": "Explosions across Kyiv as Russian missiles strike Ukraine’s capital",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/explosions-across-kyiv-as-russian-missiles-strike-ukraines-capital?traffic_source=rss",
-   "published": "2026-08-05T04:38:00+00:00",
-   "summary": "At least one person has been killed after a Russian ballistic missile attack on Ukraine’s capital Wednesday morning.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
    "source": "Trump · Truth Social",
    "title": "Scott Bessent interviewed by Joe Kernen!",
    "url": "https://trumpstruth.org/statuses/40584",
@@ -568,17 +579,6 @@
    "summary": "",
    "tags": [],
    "highlight": true
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "North Korea’s Kim Yo Jong issues military threat over Japan missile test",
-   "url": "https://www.aljazeera.com/news/2026/8/5/north-koreas-kim-yo-jong-issues-military-threat-over-japan-missile-test?traffic_source=rss",
-   "published": "2026-08-05T03:48:21+00:00",
-   "summary": "The powerful sister of North Korean leader Kim Jong Un has accused Japan of moving beyond a defensive posture.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
   },
   {
    "source": "Trump · Truth Social",
