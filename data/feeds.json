@@ -1,6 +1,29 @@
 {
- "asOf": "2026-08-06T12:09:23.695750+00:00",
+ "asOf": "2026-08-06T13:45:13.063582+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Will the US-Iran war and Hormuz deadlock last for months?",
+   "url": "https://www.aljazeera.com/news/2026/8/6/will-the-us-iran-war-and-hormuz-deadlock-last-for-months?traffic_source=rss",
+   "published": "2026-08-06T13:13:25+00:00",
+   "summary": "Will the war on Iran and Hormuz deadlock last for months? Experts analyse the obstacles blocking a lasting deal.",
+   "tags": [
+    "diplomacy",
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Mohamed Salah signs two-year deal with Trabzonspor after Liverpool exit",
+   "url": "https://www.aljazeera.com/sports/2026/8/6/mohamed-salah-signs-two-year-deal-with-trabzonspor-after-liverpool-exit?traffic_source=rss",
+   "published": "2026-08-06T13:07:31+00:00",
+   "summary": "Egypt&#039;s Mohamed Salah, who left Liverpool last season after nine years with Premier League club, signs for Trabzonspor.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Ebola outbreak accelerates as healthcare workers strike over pay",
@@ -404,28 +427,6 @@
    "tags": [
     "diplomacy",
     "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Turkish cargo ship catches fire after Black Sea drone attack",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/08-05-2026-drone-attacks-turkish-ship-sv?traffic_source=rss",
-   "published": "2026-08-05T11:49:25+00:00",
-   "summary": "A Turkish cargo ship caught fire after a drone attack near Russia’s Black Sea port of Novorossiysk.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Israeli forces detain Palestinians during raid in occupied West Bank",
-   "url": "https://www.aljazeera.com/news/2026/8/5/israeli-forces-detain-palestinians-during-raid-in-occupied-west-bank?traffic_source=rss",
-   "published": "2026-08-05T11:31:32+00:00",
-   "summary": "A journalist covering events was severely beaten by Israeli soldiers, while locals were also attacked.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   },
