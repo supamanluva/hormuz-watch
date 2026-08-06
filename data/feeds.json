@@ -1,6 +1,18 @@
 {
- "asOf": "2026-08-06T09:24:51.608388+00:00",
+ "asOf": "2026-08-06T11:13:16.445196+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Hormuz deal ‘close’: What’s the latest on each side’s positions?",
+   "url": "https://www.aljazeera.com/news/2026/8/6/hormuz-deal-close-whats-the-latest-on-each-sides-positions?traffic_source=rss",
+   "published": "2026-08-06T10:20:57+00:00",
+   "summary": "US officials say they would not accept any arrangement on the waterway that would leave Iran in control.",
+   "tags": [
+    "diplomacy",
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Why is France developing a new nuclear strategy?",
@@ -456,17 +468,6 @@
    "summary": "Islamabad, IRNA – Iran and Pakistan have signed a memorandum of understanding to expand bilateral trade, reaffirming their commitment to raising annual trade to $10 billion and advancing negotiations toward a free trade agreement.",
    "tags": [
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Russian attacks kill 17, exploiting Ukraine’s lack of missile interceptors",
-   "url": "https://www.aljazeera.com/news/2026/8/5/russian-attacks-kill-17-exploiting-ukraines-lack-of-missile-interceptors?traffic_source=rss",
-   "published": "2026-08-05T09:16:39+00:00",
-   "summary": "Ukrainian President Volodymyr Zelenskyy says Russian forces used 29 missiles and 115 drones during the assault.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   },
