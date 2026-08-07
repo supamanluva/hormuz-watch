@@ -1,6 +1,53 @@
 {
- "asOf": "2026-08-07T11:06:16.286733+00:00",
+ "asOf": "2026-08-07T11:28:13.014068+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Trump says war ‘can’t go much longer’ – what’s the latest on talks?",
+   "url": "https://www.aljazeera.com/news/2026/8/7/trump-says-war-cant-go-much-longer-whats-the-latest-on?traffic_source=rss",
+   "published": "2026-08-07T11:15:44+00:00",
+   "summary": "Reports suggest that Tehran is discussing a bill barring US and Israeli vessels from passing the Strait of Hormuz.",
+   "tags": [
+    "diplomacy",
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Houthi attacks on gov’t forces hint that a major battle in Yemen is brewing",
+   "url": "https://www.aljazeera.com/news/2026/8/7/houthi-attacks-on-govt-forces-hint-that-a-major-battle-in-yemen-is-brewing?traffic_source=rss",
+   "published": "2026-08-07T11:11:10+00:00",
+   "summary": "Houthis&#039; expansion of cross-border attacks means an even bloodier war may be imminent, analysts say.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Saudi ⁠Arabia, Pakistan and Turkiye sign defence deal amid regional turmoil",
+   "url": "https://www.aljazeera.com/news/2026/8/7/saudi-%e2%81%a0arabia-pakistan-and-turkiye-sign-defence-deal-amid-regional-turmoil?traffic_source=rss",
+   "published": "2026-08-07T11:03:07+00:00",
+   "summary": "The agreement states that an ⁠attack on any one of the ⁠three countries is an ⁠attack against them all, Pakistan says.",
+   "tags": [
+    "strikes",
+    "diplomacy",
+    "oil"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Houthi strikes in Yemen as Saudi Arabia braces for attacks: What we know",
+   "url": "https://www.aljazeera.com/news/2026/8/7/houthi-strikes-hit-yemen-as-saudi-arabia-braces-for-attacks-what-we-know?traffic_source=rss",
+   "published": "2026-08-07T10:52:34+00:00",
+   "summary": "Tensions between the Houthis and Saudi Arabia have increased since the US-Israel war on Iran began.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Iran, Azerbaijan agree to expand sports and youth cooperation",
@@ -43,6 +90,17 @@
    "summary": "A viral video shows medical staff protecting a patient as an earthquake struck Japan during surgery.",
    "tags": [
     "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "‘Still searching for truth’: Daughter of Sikh activist killed 30 years ago",
+   "url": "https://www.aljazeera.com/news/2026/8/7/still-searching-for-truth-daughter-of-sikh-activist-killed-30-years-ago?traffic_source=rss",
+   "published": "2026-08-07T06:29:40+00:00",
+   "summary": "India activist Jaswant Singh Khalra&#039;s daughter Navkiran talks about slain father&#039;s legacy, which inspired a recent film.",
+   "tags": [
+    "diplomacy"
    ],
    "highlight": false
   },
@@ -544,63 +602,6 @@
    "summary": "Attacks are deadliest in Yemen&#039;s conflict between Houthis and government forces in years.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Will the US-Iran war and Hormuz deadlock last for months?",
-   "url": "https://www.aljazeera.com/news/2026/8/6/will-the-us-iran-war-and-hormuz-deadlock-last-for-months?traffic_source=rss",
-   "published": "2026-08-06T13:13:25+00:00",
-   "summary": "Will the war on Iran and Hormuz deadlock last for months? Experts analyse the obstacles blocking a lasting deal.",
-   "tags": [
-    "diplomacy",
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Mohamed Salah signs two-year deal with Trabzonspor after Liverpool exit",
-   "url": "https://www.aljazeera.com/sports/2026/8/6/mohamed-salah-signs-two-year-deal-with-trabzonspor-after-liverpool-exit?traffic_source=rss",
-   "published": "2026-08-06T13:07:31+00:00",
-   "summary": "Egypt&#039;s Mohamed Salah, who left Liverpool last season after nine years with Premier League club, signs for Trabzonspor.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Ebola outbreak accelerates as healthcare workers strike over pay",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/ebola-outbreak-accelerates-as-healthcare-workers-strike-over-pay?traffic_source=rss",
-   "published": "2026-08-06T11:20:41+00:00",
-   "summary": "Ebola outbreak accelerates as healthcare workers strike over pay",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Hormuz deal ‘close’: What’s the latest on each side’s positions?",
-   "url": "https://www.aljazeera.com/news/2026/8/6/hormuz-deal-close-whats-the-latest-on-each-sides-positions?traffic_source=rss",
-   "published": "2026-08-06T10:20:57+00:00",
-   "summary": "US officials say they would not accept any arrangement on the waterway that would leave Iran in control.",
-   "tags": [
-    "diplomacy",
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Why is France developing a new nuclear strategy?",
-   "url": "https://www.aljazeera.com/video/project-force-2/2026/8/6/why-is-france-developing-a-new-nuclear-strategy?traffic_source=rss",
-   "published": "2026-08-06T08:17:26+00:00",
-   "summary": "As the US retreats from Europe and Russia adopts an aggressive posture, France plans to add weapons to its arsenal",
-   "tags": [
-    "nuclear"
    ],
    "highlight": false
   }
