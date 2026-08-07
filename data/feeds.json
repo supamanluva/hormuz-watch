@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-07T18:26:18.903876+00:00",
+ "asOf": "2026-08-07T18:48:44.788741+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Baqaei: Before anyone can lay claim to spoils of war, they must first have won the war",
+   "url": "https://en.irna.ir/news/86229877/Baqaei-Before-anyone-can-lay-claim-to-spoils-of-war-they-must",
+   "published": "2026-08-07T18:45:20+00:00",
+   "summary": "Tehran, IRNA – In a message responding to remarks by US President Donald Trump, who claimed the right to seize spoils from Iran, Foreign Ministry spokesperson Esmaeil Baqaei emphasized that before anyone can lay claim to war spoils, they must first emerge victorious in the war.",
+   "tags": [
+    "oil"
+   ],
+   "highlight": false
+  },
   {
    "source": "White House",
    "title": "ICYMI: Statement from President Donald J. Trump",
@@ -591,18 +602,6 @@
    "summary": "Abdulrahman Mohamed El-Sayed wants to terminate the Filibuster, and so do I — At least we have something in common! President DONALD J. TRUMP",
    "tags": [],
    "highlight": true
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "How fragile is Lebanon’s uneasy peace?",
-   "url": "https://www.aljazeera.com/video/inside-story/2026/8/6/how-fragile-is-lebanons-uneasy?traffic_source=rss",
-   "published": "2026-08-06T20:38:29+00:00",
-   "summary": "Israel goes on the attack after the first soldiers are killed since ceasefire began two months ago.",
-   "tags": [
-    "strikes",
-    "diplomacy"
-   ],
-   "highlight": false
   }
  ]
 }
