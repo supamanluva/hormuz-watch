@@ -1,6 +1,28 @@
 {
- "asOf": "2026-08-07T10:09:32.668720+00:00",
+ "asOf": "2026-08-07T11:06:16.286733+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran, Azerbaijan agree to expand sports and youth cooperation",
+   "url": "https://en.irna.ir/news/86229675/Iran-Azerbaijan-agree-to-expand-sports-and-youth-cooperation",
+   "published": "2026-08-07T10:31:55+00:00",
+   "summary": "Tehran, IRNA – Iran and Azerbaijan have agreed to expand cooperation in sports and youth affairs during talks between their sports ministers.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "‘De-escalation’: Europe hesitates as US pushes for Hormuz naval mission",
+   "url": "https://www.aljazeera.com/news/2026/8/7/hld-european-caution-slowing-us-push-for-hormuz-naval-coalition?traffic_source=rss",
+   "published": "2026-08-07T10:00:56+00:00",
+   "summary": "The UK and France are not seeking confrontation with Iran in the US-Israeli war Europe largely rejected, say analysts.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Israeli artillery strikes hit southern Lebanon",
@@ -579,28 +601,6 @@
    "summary": "As the US retreats from Europe and Russia adopts an aggressive posture, France plans to add weapons to its arsenal",
    "tags": [
     "nuclear"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Russian strikes kill six in Ukraine as Moscow intercepts hundreds of drones",
-   "url": "https://www.aljazeera.com/news/2026/8/6/russian-strikes-kill-six-in-ukraine-as-moscow-intercepts-hundreds-of-drones?traffic_source=rss",
-   "published": "2026-08-06T07:36:56+00:00",
-   "summary": "Ukraine officials say three people killed in Kharkiv region and three in Sumy, as Russia says it intercepted 605 drones.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Ex-Bangladesh cricket captain Shakib’s home petrol-bombed in Hasina fallout",
-   "url": "https://www.aljazeera.com/sports/2026/8/6/ex-bangladesh-cricket-captain-shakibs-home-petrol-bombed-in-hasina-fallout?traffic_source=rss",
-   "published": "2026-08-06T07:34:12+00:00",
-   "summary": "Former Bangladesh captain Shakib Al Hasan&#039;s home attacked after joining former Prime Minister Sheikh Hasina’s event.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   }
