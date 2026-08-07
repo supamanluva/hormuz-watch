@@ -1,6 +1,18 @@
 {
- "asOf": "2026-08-07T09:45:14.014959+00:00",
+ "asOf": "2026-08-07T10:09:32.668720+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Israeli artillery strikes hit southern Lebanon",
+   "url": "https://en.irna.ir/news/86229621/Israeli-artillery-strikes-hit-southern-Lebanon",
+   "published": "2026-08-07T10:00:11+00:00",
+   "summary": "Tehran, IRNA – The Israeli artillery shelled areas in southern Lebanon early on Friday, Lebanon’s Al Mayadeen television reported, describing the attack as another violation of the ceasefire agreement.",
+   "tags": [
+    "strikes",
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Earthquake strikes as doctors perform surgery",
@@ -587,17 +599,6 @@
    "url": "https://www.aljazeera.com/sports/2026/8/6/ex-bangladesh-cricket-captain-shakibs-home-petrol-bombed-in-hasina-fallout?traffic_source=rss",
    "published": "2026-08-06T07:34:12+00:00",
    "summary": "Former Bangladesh captain Shakib Al Hasan&#039;s home attacked after joining former Prime Minister Sheikh Hasina’s event.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "A US proposal for missile defense that’s been tried before",
-   "url": "https://www.aljazeera.com/video/project-force-2/2026/8/6/a-us-proposal-for-missile-defense-thats-been-tried-before?traffic_source=rss",
-   "published": "2026-08-06T06:51:27+00:00",
-   "summary": "What is a Golden Dome, and why does Donald Trump want one?",
    "tags": [
     "strikes"
    ],
