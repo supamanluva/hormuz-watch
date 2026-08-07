@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-07T12:24:29.280502+00:00",
+ "asOf": "2026-08-07T12:46:32.007121+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Iran’s grip on trade is a potent weapon, but it has an expiry date",
+   "url": "https://www.aljazeera.com/opinions/2026/8/7/irans-grip-on-trade-is-a-potent-weapon-but-it-has-an-expiry-date?traffic_source=rss",
+   "published": "2026-08-07T12:28:52+00:00",
+   "summary": "Iran can exploit dependence on Hormuz today, but prolonged disruption will erode that leverage",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "New evidence further undermines claim that 2020 election was ‘most secure’ in history:",
@@ -219,7 +230,7 @@
    "title": "Pezeshkian stresses resilience and regional cooperation",
    "url": "https://en.irna.ir/news/86229482/Pezeshkian-stresses-resilience-and-regional-cooperation",
    "published": "2026-08-07T01:19:41+00:00",
-   "summary": "Tehran, IRNA – Iranian President Masoud Pezeshkian has said his administration is expanding regional cooperation, strengthening domestic infrastructure, and accelerating railway development to counter the impact of sanctions while maintaining economic stability and public services.",
+   "summary": "Tehran, IRNA – President Masoud Pezeshkian says his administration is expanding regional cooperation, strengthening domestic infrastructure, and accelerating railway development to counter the impact of sanctions while maintaining economic stability and public services.",
    "tags": [
     "sanctions"
    ],
@@ -591,17 +602,6 @@
    "summary": "The Bundesliga Young Player of the Season in 2025/26 reportedly signed for record fee on deal until 2033.",
    "tags": [
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Houthi attacks on Yemeni government forces reportedly kills at least 30",
-   "url": "https://www.aljazeera.com/news/2026/8/6/houthis-claim-to-have-killed-45-in-attacks-on-yemeni-government-forces?traffic_source=rss",
-   "published": "2026-08-06T13:59:41+00:00",
-   "summary": "Attacks are deadliest in Yemen&#039;s conflict between Houthis and government forces in years.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   }
