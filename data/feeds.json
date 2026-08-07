@@ -1,6 +1,18 @@
 {
- "asOf": "2026-08-07T21:02:28.633819+00:00",
+ "asOf": "2026-08-07T21:21:19.677024+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Lebanon points to ‘positive progress’ on borders, prisoners in Israel talks",
+   "url": "https://www.aljazeera.com/news/2026/8/7/lebanon-points-to-positive-progress-on-borders-prisoners-in-israel-talks?traffic_source=rss",
+   "published": "2026-08-07T21:02:31+00:00",
+   "summary": "New Israeli attacks reported in southern Lebanon as Beirut offers optimism after the seventh round of discussions.",
+   "tags": [
+    "strikes",
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "THE PROTECT COLLEGE SPORTS ACT is a great Bill, and the Senate will hopefully stay in D.C. until it passes. Without this Bill, millions of young Athletes will be hurt, programs will be canceled, Women's and Olympic Sports will go away, the fans will be robbed, and Universities will go broke. Nobody has done more to protect Women Athletes than me — and this Bill CLEARLY protects the Laws in 27 States protecting Women's Sports, and banning Men from Women's Sports. Anyone who tells you differently is LYING! Stop grandstanding, and try getting this done. Thank you for your attention to this matter! President DONALD J. TRUMP",
@@ -595,15 +607,6 @@
    "url": "https://www.whitehouse.gov/presidential-actions/2026/08/ending-birth-tourism/",
    "published": "2026-08-06T21:07:11+00:00",
    "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered: Section 1. Purpose. United States citizenship is among the greatest inheritances the Nation can bestow. It embodies a sacred bond between the American people and the Nation in which they live, [&#8230;] The post Ending Birth Tourism appeared first on The White House .",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "Fact Sheet: President Donald J. Trump Bolsters National Security and Strengthens U.S. Supply Chains by Imposing Tariffs on Polysilicon and its Derivatives",
-   "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-bolsters-national-security-and-strengthens-u-s-supply-chains-by-imposing-tariffs-on-polysilicon-and-its-derivatives/",
-   "published": "2026-08-06T21:04:59+00:00",
-   "summary": "DEFENDING THE AMERICAN INDUSTRIAL BASE:&#160;Today, President Donald J. Trump signed a Proclamation to protect America’s polysilicon industry and supply chain from imports that threaten national security.&#160; STRENGTHENING ECONOMIC AND NATIONAL SECURITY:&#160;&#160;President Trump’s polysilicon tariff program will protect the national security of the United States and its defense and defense-adj",
    "tags": [],
    "highlight": false
   }
