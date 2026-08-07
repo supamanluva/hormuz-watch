@@ -1,6 +1,28 @@
 {
- "asOf": "2026-08-07T18:48:44.788741+00:00",
+ "asOf": "2026-08-07T19:27:30.082096+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Pezeshkian: Iran seeks dialogue while refusing pressure",
+   "url": "https://en.irna.ir/news/86229893/Pezeshkian-Iran-seeks-dialogue-while-refusing-pressure",
+   "published": "2026-08-07T19:06:01+00:00",
+   "summary": "Tehran, IRNA – President Masoud Pezeshkian has defended Iran’s approach to negotiations with the United States and Europe, saying Tehran is prepared to pursue dialogue to protect its national interests but will not accept demands that undermine its sovereignty or defensive capabilities. He also stressed improved relations with neighboring countries, coordination with the country’s leadership and a",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Several killed in attacks on Ukraine as Kyiv hits Russian e-commerce giant",
+   "url": "https://www.aljazeera.com/news/2026/8/7/several-killed-in-attacks-on-ukraine-as-kyiv-hits-russian-e-commerce-giant?traffic_source=rss",
+   "published": "2026-08-07T18:54:55+00:00",
+   "summary": "Ukraine continues to strike warehouses and logistics hubs run by Wildberries, which it says aid Moscow&#039;s war efforts.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Baqaei: Before anyone can lay claim to spoils of war, they must first have won the war",
@@ -584,24 +606,6 @@
     "sanctions"
    ],
    "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "National Purple Heart Day, 2026",
-   "url": "https://www.whitehouse.gov/presidential-actions/2026/08/national-purple-heart-day-2026/",
-   "published": "2026-08-06T20:54:24+00:00",
-   "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA A PROCLAMATION On National Purple Heart Day, we honor the immeasurable sacrifices of every valiant service member wounded or killed in combat in defense of our Nation and we reaffirm our eternal gratitude for their unrivaled heroism. First bestowed by General George Washington in 1782, the [&#8230;] The post National Purple Heart Day, 2026 appeared ",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Abdulrahman Mohamed El-Sayed wants to terminate the Filibuster, and so do I — At least we have something in common! President DONALD J. TRUMP",
-   "url": "https://trumpstruth.org/statuses/40611",
-   "published": "2026-08-06T20:39:55+00:00",
-   "summary": "Abdulrahman Mohamed El-Sayed wants to terminate the Filibuster, and so do I — At least we have something in common! President DONALD J. TRUMP",
-   "tags": [],
-   "highlight": true
   }
  ]
 }
