@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-07T19:27:30.082096+00:00",
+ "asOf": "2026-08-07T20:02:19.746391+00:00",
  "items": [
+  {
+   "source": "White House",
+   "title": "Fact Sheet: President Donald J. Trump Announces Billions in New Deals and Investments to Power American Mining",
+   "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-announces-billions-in-new-deals-and-investments-to-power-american-mining/",
+   "published": "2026-08-07T19:44:19+00:00",
+   "summary": "BOLSTERING AMERICAN MINING:&#160;Today, President Donald J. Trump held a historic roundtable with the mining industry where he announced over $2 billion in critical mining and mining-related projects to revitalize the industry and over $180 million in mining school investments to bolster the American mining workforce.&#160; PRIORITIZING DOMESTIC CRITICAL MATERIALS AND THEIR SUPPLY CHAINS:&#160;Pre",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Pezeshkian: Iran seeks dialogue while refusing pressure",
@@ -594,17 +605,6 @@
    "published": "2026-08-06T21:03:35+00:00",
    "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA A PROCLAMATION 1.&#160; Polysilicon is the base material underpinning the security of America&#8217;s semiconductor and solar-power supply chains.&#160; Yet for decades, America has allowed foreign countries to weaken United States producers in the polysilicon sector ‑- eroding our economic and national security.&#160; Today, I&#160;am taking action",
    "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "US diplomat Rubio targets Cuban military officials, companies in sanctions",
-   "url": "https://www.aljazeera.com/news/2026/8/6/us-diplomat-rubio-targets-cuban-military-officials-companies-in-sanctions?traffic_source=rss",
-   "published": "2026-08-06T20:59:29+00:00",
-   "summary": "US says the five entities and eight individuals sanctioned help Cuba acquire military equipment from Russia and China.",
-   "tags": [
-    "sanctions"
-   ],
    "highlight": false
   }
  ]
