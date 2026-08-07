@@ -1,6 +1,29 @@
 {
- "asOf": "2026-08-07T12:46:32.007121+00:00",
+ "asOf": "2026-08-07T13:17:20.307623+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Saudi Arabia, Turkiye and Pakistan sign joint defence pact",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/saudi-arabia-turkiye-and-pakistan-sign-joint-defence-pact?traffic_source=rss",
+   "published": "2026-08-07T12:44:41+00:00",
+   "summary": "The Saudi crown prince, Turkish president and Pakistani prime minister have signed a joint defence agreement in Mecca.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "UN chief condemns both Ukraine and Russia amid escalation in war",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/un-chief-condemns-both-ukraine-and-russia-amid-escalation-in-war?traffic_source=rss",
+   "published": "2026-08-07T12:34:13+00:00",
+   "summary": "UN chief Guterres calls for de-escalation and a ceasefire as Russia-Ukraine attacks intensify.",
+   "tags": [
+    "strikes",
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Iran’s grip on trade is a potent weapon, but it has an expiry date",
@@ -49,7 +72,7 @@
    "title": "Saudi ⁠Arabia, Pakistan and Turkiye sign defence deal amid regional turmoil",
    "url": "https://www.aljazeera.com/news/2026/8/7/saudi-%e2%81%a0arabia-pakistan-and-turkiye-sign-defence-deal-amid-regional-turmoil?traffic_source=rss",
    "published": "2026-08-07T11:03:07+00:00",
-   "summary": "The agreement states that an ⁠attack on any one of the ⁠three countries is an ⁠attack against them all, Pakistan says.",
+   "summary": "The agreement states that an ⁠attack on any one of the ⁠three countries is an ⁠attack against them all.",
    "tags": [
     "strikes",
     "diplomacy",
@@ -577,29 +600,6 @@
    "url": "https://www.aljazeera.com/news/2026/8/6/unicef-says-one-child-killed-per-day-in-gaza-since-ceasefire-2?traffic_source=rss",
    "published": "2026-08-06T15:00:54+00:00",
    "summary": "At least 300 children reported killed in Gaza in 300 days since October 2025 truce between Israel and Hamas was agreed.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "War on Iran: Iran and Oman agree on Strait of Hormuz deal",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/aje-onl-nf_aje-onl-nf-iran-omar-hormuz-deal-060826?traffic_source=rss",
-   "published": "2026-08-06T14:57:04+00:00",
-   "summary": "Iran and Oman agree on new coordinates for ships to pass through the Strait of Hormuz.",
-   "tags": [
-    "diplomacy",
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Real Madrid sign Ivory Coast’s Yan Diomande from RB Leipzig",
-   "url": "https://www.aljazeera.com/sports/2026/8/6/real-madrid-sign-ivory-coasts-yan-diomande-for-record-fee-from-rp-leipzig?traffic_source=rss",
-   "published": "2026-08-06T14:47:40+00:00",
-   "summary": "The Bundesliga Young Player of the Season in 2025/26 reportedly signed for record fee on deal until 2033.",
    "tags": [
     "diplomacy"
    ],
