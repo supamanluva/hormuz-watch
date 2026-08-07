@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-07T02:41:44.489481+00:00",
+ "asOf": "2026-08-07T03:43:25.703960+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Exclusive report with the 308 people rescued by Nigerian forces",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/exclusive-report-with-the-308-people-rescued-by-nigerian-forces?traffic_source=rss",
+   "published": "2026-08-07T02:30:23+00:00",
+   "summary": "Nigerian security forces have rescued 308 people abducted in separate attacks in northern Niger and Kwara states.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "RT @realDonaldTrumpDonald Trump Won The Iran War:",
@@ -589,17 +600,6 @@
    "summary": "Striking hundreds of targets in a matter of weeks, Ukraine has found a new way to pressure Russia&#039;s hold on Crimea",
    "tags": [
     "strikes",
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Strait of Hormuz tolls would harm livelihoods worldwide, shipowners warn",
-   "url": "https://www.aljazeera.com/economy/2026/8/6/strait-of-hormuz-tolls-would-harm-livelihoods-worldwide-shipowners-warn?traffic_source=rss",
-   "published": "2026-08-06T05:05:06+00:00",
-   "summary": "Eight leading shipping organisations sign letter opposing fees in critical waterway.",
-   "tags": [
     "shipping"
    ],
    "highlight": false
