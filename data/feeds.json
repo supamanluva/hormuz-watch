@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-08T14:18:09.206119+00:00",
+ "asOf": "2026-08-08T14:39:45.070529+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "War on Iran: Phase II: Day 28",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/war-on-iran-phase-ii-day-28?traffic_source=rss",
+   "published": "2026-08-08T14:09:02+00:00",
+   "summary": "Saudi-Pakistan-Turkiye pact draws mixed reactions, as Iran and Oman agree a Hormuz security framework.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Iran deliberates Hormuz arrangement amid uncertain prospects with US",
@@ -605,17 +616,6 @@
    "summary": "Tensions between the Houthis and Saudi Arabia have increased since the US-Israel war on Iran began.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran, Azerbaijan agree to expand sports and youth cooperation",
-   "url": "https://en.irna.ir/news/86229675/Iran-Azerbaijan-agree-to-expand-sports-and-youth-cooperation",
-   "published": "2026-08-07T10:31:55+00:00",
-   "summary": "Tehran, IRNA – Iran and Azerbaijan have agreed to expand cooperation in sports and youth affairs during talks between their sports ministers.",
-   "tags": [
-    "diplomacy"
    ],
    "highlight": false
   }
