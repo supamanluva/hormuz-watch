@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-08T11:55:41.491575+00:00",
+ "asOf": "2026-08-08T12:16:13.169318+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Hormozgan IRGC commander: Iran’s Persian Gulf security rooted in national resolve",
+   "url": "https://en.irna.ir/news/86230551/Hormozgan-IRGC-commander-Iran-s-Persian-Gulf-security-rooted",
+   "published": "2026-08-08T11:59:08+00:00",
+   "summary": "Hormozgan, IRNA – The commander of the IRGC’s Imam Sajjad Division in Hormozgan province, Brigadier General Hassan Sanatkaran, says that Iran’s security and authority in the Strait of Hormuz and the Persian Gulf stem from national faith and resistance against foreign pressure.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "[No Title] - Post from August 8, 2026",
@@ -605,18 +616,6 @@
    "summary": "The UK and France are not seeking confrontation with Iran in the US-Israeli war Europe largely rejected, say analysts.",
    "tags": [
     "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Israeli artillery strikes hit southern Lebanon",
-   "url": "https://en.irna.ir/news/86229621/Israeli-artillery-strikes-hit-southern-Lebanon",
-   "published": "2026-08-07T10:00:11+00:00",
-   "summary": "Tehran, IRNA – The Israeli artillery shelled areas in southern Lebanon early on Friday, Lebanon’s Al Mayadeen television reported, describing the attack as another violation of the ceasefire agreement.",
-   "tags": [
-    "strikes",
-    "diplomacy"
    ],
    "highlight": false
   }
