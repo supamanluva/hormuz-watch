@@ -1,5 +1,5 @@
 {
- "asOf": "2026-08-08T17:15:57.645526+00:00",
+ "asOf": "2026-08-08T17:39:09.843751+00:00",
  "items": [
   {
    "source": "Trump · Truth Social",
@@ -9,6 +9,17 @@
    "summary": "",
    "tags": [],
    "highlight": true
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Serbia and Ukraine pledge closer economic ties, eye free trade deal",
+   "url": "https://www.aljazeera.com/news/2026/8/8/serbia-and-ukraine-pledge-closer-economic-ties-eye-free-trade-deal?traffic_source=rss",
+   "published": "2026-08-08T17:05:17+00:00",
+   "summary": "Serbia says it will help rebuild Ukrainian cities and provide aid as the two countries deepen cooperation.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
   },
   {
    "source": "Al Jazeera",
@@ -600,17 +611,6 @@
    "url": "https://www.aljazeera.com/news/2026/8/7/turkiye-saudi-arabi-pakistan-sign-joint-defence-agreement-whats-in-it?traffic_source=rss",
    "published": "2026-08-07T13:28:40+00:00",
    "summary": "Pact will &#039;reshape security architecture&#039; of the region, experts say.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Saudi Arabia, Turkiye and Pakistan sign joint defence pact",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/saudi-arabia-turkiye-and-pakistan-sign-joint-defence-pact?traffic_source=rss",
-   "published": "2026-08-07T12:44:41+00:00",
-   "summary": "The Saudi crown prince, Turkish president and Pakistani prime minister have signed a joint defence agreement in Mecca.",
    "tags": [
     "diplomacy"
    ],
