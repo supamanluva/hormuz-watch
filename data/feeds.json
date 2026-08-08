@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-08T14:01:26.144093+00:00",
+ "asOf": "2026-08-08T14:18:09.206119+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Iran deliberates Hormuz arrangement amid uncertain prospects with US",
+   "url": "https://www.aljazeera.com/news/2026/8/8/iran-deliberates-hormuz-arrangement-amid-uncertain-prospects-with-us?traffic_source=rss",
+   "published": "2026-08-08T13:52:40+00:00",
+   "summary": "Iran and Oman have agreed on the coordinates of routes to be taken by vessels through the Strait of Hormuz.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Drones spotted in Bulgaria and Germany raise concerns of Russian escalation",
@@ -605,17 +616,6 @@
    "summary": "Tehran, IRNA – Iran and Azerbaijan have agreed to expand cooperation in sports and youth affairs during talks between their sports ministers.",
    "tags": [
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "‘De-escalation’: Europe hesitates as US pushes for Hormuz naval mission",
-   "url": "https://www.aljazeera.com/news/2026/8/7/hld-european-caution-slowing-us-push-for-hormuz-naval-coalition?traffic_source=rss",
-   "published": "2026-08-07T10:00:56+00:00",
-   "summary": "The UK and France are not seeking confrontation with Iran in the US-Israeli war Europe largely rejected, say analysts.",
-   "tags": [
-    "shipping"
    ],
    "highlight": false
   }
