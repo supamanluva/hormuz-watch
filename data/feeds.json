@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-08T18:41:07.443295+00:00",
+ "asOf": "2026-08-08T19:02:07.616518+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Yemen’s government forces attack Houthis amid renewed shelling of Marib",
+   "url": "https://www.aljazeera.com/news/2026/8/8/yemens-government-forces-attack-houthis-amid-renewed-shelling-of-marib?traffic_source=rss",
+   "published": "2026-08-08T18:43:20+00:00",
+   "summary": "Fears of a wider conflict grow as Yemen’s army counterattacks and expert warns ‘all the warning signs are there’.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "[No Title] - Post from August 8, 2026",
@@ -602,17 +613,6 @@
    "summary": "Health Minister Qassem Bahaibah says 14 injured, accuses group of targeting residential areas and displacement camps.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Turkiye, Saudi Arabia, Pakistan sign joint defence agreement: What’s in it?",
-   "url": "https://www.aljazeera.com/news/2026/8/7/turkiye-saudi-arabi-pakistan-sign-joint-defence-agreement-whats-in-it?traffic_source=rss",
-   "published": "2026-08-07T13:28:40+00:00",
-   "summary": "Pact will &#039;reshape security architecture&#039; of the region, experts say.",
-   "tags": [
-    "diplomacy"
    ],
    "highlight": false
   }
