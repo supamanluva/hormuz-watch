@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-08T20:39:23.379301+00:00",
+ "asOf": "2026-08-08T21:39:09.920241+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "What are the challenges facing the Mecca agreement?",
+   "url": "https://www.aljazeera.com/video/inside-story/2026/8/8/challenges-facing-mecca-agreement?traffic_source=rss",
+   "published": "2026-08-08T20:25:43+00:00",
+   "summary": "Saudi Arabia turns to Turkiye and Pakistan for defence ties, raising questions overreliance on the US.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "Very true! President DJT",
@@ -603,15 +614,6 @@
    "tags": [
     "diplomacy"
    ],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "Nominations Sent to the Senate",
-   "url": "https://www.whitehouse.gov/presidential-actions/2026/08/nominations-sent-to-the-senate-e61c/",
-   "published": "2026-08-07T15:09:20+00:00",
-   "summary": "NOMINATIONS SENT TO THE SENATE: Leslie Becera, of Virginia, to be an Assistant Secretary of Transportation. Justin Bytheway, of Utah, to be Ambassador Extraordinary and Plenipotentiary of the United States of America to the Kingdom of Tonga. Marc Dillard, of Virginia, a Career Member of the Senior Foreign Service, Class of Minister-Counselor, to be Ambassador [&#8230;] The post Nominations Sent to",
-   "tags": [],
    "highlight": false
   }
  ]
