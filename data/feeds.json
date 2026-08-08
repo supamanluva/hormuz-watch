@@ -1,6 +1,18 @@
 {
- "asOf": "2026-08-08T04:11:21.447474+00:00",
+ "asOf": "2026-08-08T04:44:01.795328+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Russian strikes near Ukrainian capital kill three, including child",
+   "url": "https://www.aljazeera.com/news/2026/8/8/russian-strikes-near-ukrainian-capital-kill-three-including-child?traffic_source=rss",
+   "published": "2026-08-08T04:18:45+00:00",
+   "summary": "Attack comes as US Senate passes new Russia sanctions and Kyiv appeals for air defence interceptors.",
+   "tags": [
+    "strikes",
+    "sanctions"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Saudi intelligence chief meets Iraqi PM, renews Riyadh visit invitation",
@@ -607,17 +619,6 @@
    "summary": "",
    "tags": [],
    "highlight": true
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Pezeshkian stresses resilience and regional cooperation",
-   "url": "https://en.irna.ir/news/86229482/Pezeshkian-stresses-resilience-and-regional-cooperation",
-   "published": "2026-08-07T01:19:41+00:00",
-   "summary": "Tehran, IRNA – President Masoud Pezeshkian says his administration is expanding regional cooperation, strengthening domestic infrastructure, and accelerating railway development to counter the impact of sanctions while maintaining economic stability and public services.",
-   "tags": [
-    "sanctions"
-   ],
-   "highlight": false
   }
  ]
 }
