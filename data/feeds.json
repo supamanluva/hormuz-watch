@@ -1,6 +1,28 @@
 {
- "asOf": "2026-08-08T19:17:19.096552+00:00",
+ "asOf": "2026-08-08T19:38:14.638786+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "IRGC spokesman: Strait of Hormuz becomes strategic tool of power",
+   "url": "https://en.irna.ir/news/86230645/IRGC-spokesman-Strait-of-Hormuz-becomes-strategic-tool-of-power",
+   "published": "2026-08-08T19:28:03+00:00",
+   "summary": "Bandar Abbas, IRNA – Iran’s Islamic Revolution Guards Corps (IRGC) spokesperson Brigadier General Hossein Mohebbi says that the Strait of Hormuz has evolved beyond an economic passage into a strategic instrument of power and war amid changing patterns of modern conflicts.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "US slams Chinese ‘nature reserve’ as effort to claim South China Sea",
+   "url": "https://www.aljazeera.com/news/2026/8/8/us-slams-chinese-nature-reserve-as-effort-to-claim-south-china-sea?traffic_source=rss",
+   "published": "2026-08-08T18:57:53+00:00",
+   "summary": "US State Department accuses China of attempting to deny Filipino vessels access to fishing grounds in contested area.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Yemen’s government forces attack Houthis amid renewed shelling of Marib",
@@ -592,28 +614,6 @@
    "published": "2026-08-07T15:09:20+00:00",
    "summary": "NOMINATIONS SENT TO THE SENATE: Leslie Becera, of Virginia, to be an Assistant Secretary of Transportation. Justin Bytheway, of Utah, to be Ambassador Extraordinary and Plenipotentiary of the United States of America to the Kingdom of Tonga. Marc Dillard, of Virginia, a Career Member of the Senior Foreign Service, Class of Minister-Counselor, to be Ambassador [&#8230;] The post Nominations Sent to",
    "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Security Council Press Statement on Terrorist Attack in Pakistan",
-   "url": "https://press.un.org/en/2026/sc16428.doc.htm",
-   "published": "2026-08-07T14:53:49+00:00",
-   "summary": "The following Security Council press statement was issued today by Council President Christina Markus Lassen (Denmark):",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Two civilians killed in Houthi strike on Marib, says Yemen’s government",
-   "url": "https://www.aljazeera.com/news/2026/8/7/two-civilians-killed-in-houthi-strike-on-marib-says-yemens-government?traffic_source=rss",
-   "published": "2026-08-07T14:22:24+00:00",
-   "summary": "Health Minister Qassem Bahaibah says 14 injured, accuses group of targeting residential areas and displacement camps.",
-   "tags": [
-    "strikes"
-   ],
    "highlight": false
   }
  ]
