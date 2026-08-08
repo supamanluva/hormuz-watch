@@ -1,6 +1,41 @@
 {
- "asOf": "2026-08-08T14:57:17.550145+00:00",
+ "asOf": "2026-08-08T15:14:39.853831+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Strait of Hormuz will stay closed until US changes course: Iran’s security chief",
+   "url": "https://en.irna.ir/news/86230740/Strait-of-Hormuz-will-stay-closed-until-US-changes-course-Iran-s",
+   "published": "2026-08-08T15:13:11+00:00",
+   "summary": "Tehran, IRNA – Iran’s top security official says the Strait of Hormuz would not reopen until the United States changes its policies towards Tehran, laying out a list of conditions that includes an end to military aggression and sanctions against Iran.",
+   "tags": [
+    "sanctions",
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "UAE says Iran targeted ADNOC tanker in Strait of Hormuz, no casualties",
+   "url": "https://www.aljazeera.com/news/2026/8/8/uae-says-iran-targeted-adnoc-tanker-in-hormuz-no-casualties-2?traffic_source=rss",
+   "published": "2026-08-08T15:01:29+00:00",
+   "summary": "Gulf and Arab governments condemn Iran over missile strike on Emirati tanker.",
+   "tags": [
+    "strikes",
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Iraq’s Kurdish region wants to stay out of regional conflicts: PM Barzani",
+   "url": "https://www.aljazeera.com/news/2026/8/8/iraqs-kurdish-region-wants-to-stay-out-of-regional-conflicts-pm-barzani?traffic_source=rss",
+   "published": "2026-08-08T14:58:42+00:00",
+   "summary": "In an interview with Al Jazeera, Masrour Barzani denies any &#039;pressure&#039; to enter the Iran war despite over 1,000 attacks.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "War on Iran: Phase II: Day 28",
@@ -581,41 +616,6 @@
    "tags": [
     "diplomacy",
     "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Houthi attacks on gov’t forces hint that a major battle in Yemen is brewing",
-   "url": "https://www.aljazeera.com/news/2026/8/7/houthi-attacks-on-govt-forces-hint-that-a-major-battle-in-yemen-is-brewing?traffic_source=rss",
-   "published": "2026-08-07T11:11:10+00:00",
-   "summary": "Houthis&#039; expansion of cross-border attacks means an even bloodier war may be imminent, analysts say.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Saudi ⁠Arabia, Pakistan and Turkiye sign defence deal amid regional turmoil",
-   "url": "https://www.aljazeera.com/news/2026/8/7/saudi-%e2%81%a0arabia-pakistan-and-turkiye-sign-defence-deal-amid-regional-turmoil?traffic_source=rss",
-   "published": "2026-08-07T11:03:07+00:00",
-   "summary": "The agreement states that an ⁠attack on any one of the ⁠three countries is an ⁠attack against them all.",
-   "tags": [
-    "strikes",
-    "diplomacy",
-    "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Houthi strikes in Yemen as Saudi Arabia braces for attacks: What we know",
-   "url": "https://www.aljazeera.com/news/2026/8/7/houthi-strikes-hit-yemen-as-saudi-arabia-braces-for-attacks-what-we-know?traffic_source=rss",
-   "published": "2026-08-07T10:52:34+00:00",
-   "summary": "Tensions between the Houthis and Saudi Arabia have increased since the US-Israel war on Iran began.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   }
