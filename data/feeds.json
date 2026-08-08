@@ -1,6 +1,30 @@
 {
- "asOf": "2026-08-08T00:28:56.764111+00:00",
+ "asOf": "2026-08-08T01:12:45.504399+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "US Senate passes sweeping Russian energy sanctions bill amid Ukraine war",
+   "url": "https://www.aljazeera.com/economy/2026/8/8/us-senate-passes-sweeping-russian-energy-sanctions-bill-amid-ukraine-war?traffic_source=rss",
+   "published": "2026-08-08T00:06:22+00:00",
+   "summary": "Legislation implements aggressive economic sanctions, including 100 percent tariff on Russian oil and gas importers.",
+   "tags": [
+    "sanctions",
+    "oil"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Iran war live: Trilateral Mecca defence pact signed, as Hormuz deal looms",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/8/8/iran-war-live-trilateral-mecca-defence-pact-signed-as-hormuz-deal-looms?traffic_source=rss",
+   "published": "2026-08-08T00:00:00+00:00",
+   "summary": "Saudi crown prince, Turkish president and Pakistani prime minister sign a joint defence agreement in Mecca.",
+   "tags": [
+    "diplomacy",
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Medics among six Palestinians injured in Israeli attacks across West Bank",
@@ -594,24 +618,6 @@
    "tags": [
     "diplomacy"
    ],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "Fact Sheet: President Donald J. Trump Ends Birth Tourism and Protects the Meaning and Value of American Citizenship",
-   "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-ends-birth-tourism-and-protects-the-meaning-and-value-of-american-citizenship/",
-   "published": "2026-08-06T21:11:38+00:00",
-   "summary": "SAFEGUARDING AMERICAN CITIZENSHIP AND ENDING BIRTH TOURISM:&#160;Today, President Donald J. Trump signed two Executive Orders to continue to protect the meaning and value of American citizenship after&#160;Trump v. Barbara.&#160;&#160; PROTECTING THE VALUE OF AMERICAN CITIZENSHIP:&#160;President Trump recognizes that the privilege of United States citizenship is a priceless and profound gift.&#160",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "Continuing to Protect the Meaning and Value of American Citizenship",
-   "url": "https://www.whitehouse.gov/presidential-actions/2026/08/continuing-to-protect-the-meaning-and-value-of-american-citizenship/",
-   "published": "2026-08-06T21:08:24+00:00",
-   "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it&#160;is&#160;hereby ordered: Section 1. Purpose. The privilege of United States citizenship remains a priceless and profound gift. Since my first day in office, my Administration has guarded against the risks posed by malign foreign actors [&#8230;] The post Continuing to Protect the Mea",
-   "tags": [],
    "highlight": false
   }
  ]
