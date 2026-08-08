@@ -1,6 +1,28 @@
 {
- "asOf": "2026-08-08T21:56:14.379939+00:00",
+ "asOf": "2026-08-08T22:39:02.637987+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Car bomb attack rattles Colombia after inauguration of hardline president",
+   "url": "https://www.aljazeera.com/news/2026/8/8/car-bomb-attack-rattles-colombia-after-inauguration-of-hardline-president?traffic_source=rss",
+   "published": "2026-08-08T22:22:36+00:00",
+   "summary": "Government promises harsh response following explosives attack on Pan-American Highway in southwest of country.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Will Pakistan-Saudi-Turkiye defence pact change US strategy?",
+   "url": "https://www.aljazeera.com/news/2026/8/8/will-pakistan-saudi-turkiye-defence-pact-change-us-strategy?traffic_source=rss",
+   "published": "2026-08-08T21:28:12+00:00",
+   "summary": "Some experts say the deal precipitates a larger strategic shift in Middle East while others say it reinforces US goals.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "What are the challenges facing the Mecca agreement?",
@@ -589,28 +611,6 @@
    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/saudi-arabia-pakistan-turkiye-defence-pact-challenges-us-role?traffic_source=rss",
    "published": "2026-08-07T16:23:33+00:00",
    "summary": "Defence analyst Alex Alfirraz Scheers says the Saudi Arabia-Pakistan-Turkiye defence agreement signals a realignment",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iranian Interests Section in Egypt: Trump begging for the deal he destroyed",
-   "url": "https://en.irna.ir/news/86229836/Iranian-Interests-Section-in-Egypt-Trump-begging-for-the-deal",
-   "published": "2026-08-07T16:02:09+00:00",
-   "summary": "Tehran, IRNA — The Interests Section of the Islamic Republic of Iran in Cairo stated that in 2026, US President Donald Trump is begging for the agreement he himself destroyed.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Sri Lanka prisoners riot leaving 3 dead, 23 injured in chaos",
-   "url": "https://www.aljazeera.com/news/2026/8/7/sri-lanka-prisoners-riot-leaving-3-dead-23-injured-in-chaos?traffic_source=rss",
-   "published": "2026-08-07T15:10:22+00:00",
-   "summary": "Authorities suspect narcotics dealers and gang rivalries are behind prison violence at facilities in Sri Lanka.",
    "tags": [
     "diplomacy"
    ],
