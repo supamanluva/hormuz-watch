@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-08T16:14:59.645425+00:00",
+ "asOf": "2026-08-08T16:40:37.059077+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran’s new governance of Strait of Hormuz is irreversible: Army spokesperson",
+   "url": "https://en.irna.ir/news/86230796/Iran-s-new-governance-of-Strait-of-Hormuz-is-irreversible-Army",
+   "published": "2026-08-08T16:27:14+00:00",
+   "summary": "Tehran, IRNA – The spokesperson for the Iranian Army says the United States has no choice but to accept the current situation in the Strait of Hormuz, emphasizing that the mechanism established by the Islamic Republic to control shipping through the strategic waterway is irreversible.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Strait of Hormuz will stay closed until US changes course: Iran’s security chief",
@@ -60,10 +71,10 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "Drones spotted in Bulgaria and Germany raise concerns of Russian escalation",
+   "title": "Drones spotted in Bulgaria and Germany raise concerns about Russian escalation",
    "url": "https://www.aljazeera.com/news/2026/8/8/drones-spotted-in-bulgaria-and-germany-raise-concerns-of-russian-escalation?traffic_source=rss",
    "published": "2026-08-08T12:30:52+00:00",
-   "summary": "The drone incidents in Europe have ignited fears that Moscow&#039;s war on Kyiv is now entangling NATO nations.",
+   "summary": "Drone incidents in Europe igniting fears that Moscow&#039;s war on Kyiv is entangling NATO nations.",
    "tags": [
     "strikes"
    ],
@@ -603,18 +614,6 @@
    "published": "2026-08-07T12:28:52+00:00",
    "summary": "Iran can exploit dependence on Hormuz today, but prolonged disruption will erode that leverage",
    "tags": [
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Trump says war ‘can’t go much longer’ – what’s the latest on talks?",
-   "url": "https://www.aljazeera.com/news/2026/8/7/trump-says-war-cant-go-much-longer-whats-the-latest-on?traffic_source=rss",
-   "published": "2026-08-07T11:15:44+00:00",
-   "summary": "Reports suggest that Tehran is discussing a bill barring US and Israeli vessels from passing the Strait of Hormuz.",
-   "tags": [
-    "diplomacy",
     "shipping"
    ],
    "highlight": false
