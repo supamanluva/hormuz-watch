@@ -1,6 +1,28 @@
 {
- "asOf": "2026-08-08T03:01:18.419152+00:00",
+ "asOf": "2026-08-08T03:40:09.294460+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "US Senate passes Russia sanctions that could hurt India and China",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/07-08-sv-us-sanctions-russia-us?traffic_source=rss",
+   "published": "2026-08-08T03:20:41+00:00",
+   "summary": "The US Senate approved its strongest move against Russia under Trump.",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Submerged Indonesian village re-emerges as drought lowers water levels",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/08-08-2026-indonesia-drought-sv?traffic_source=rss",
+   "published": "2026-08-08T02:54:02+00:00",
+   "summary": "Drone footage shows the remains of a submerged village re-emerging from Indonesia’s Karian Reservoir after a drought.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "[No Title] - Post from August 8, 2026",
@@ -595,28 +617,6 @@
    "tags": [
     "diplomacy",
     "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "‘No red line’: South Lebanon residents outraged as Israel resumes strikes",
-   "url": "https://www.aljazeera.com/news/2026/8/6/south-lebanon-people-speak-out-as-israel-launches-attacks-ceasefire?traffic_source=rss",
-   "published": "2026-08-06T23:46:37+00:00",
-   "summary": "People in southern Lebanon question their government&#039;s approach as Israel launches more attacks and displacement orders.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iran’s Ghalibaf accuses Trump of conducting show diplomacy ‘on loop’",
-   "url": "https://www.aljazeera.com/news/2026/8/6/irans-ghalibaf-accuses-trump-of-conducting-show-diplomacy-on-loop?traffic_source=rss",
-   "published": "2026-08-06T23:34:47+00:00",
-   "summary": "US president says he is involved in talks and war will end &#039;pretty soon&#039;, claiming that Iran cannot &#039;go much longer&#039;.",
-   "tags": [
-    "diplomacy"
    ],
    "highlight": false
   }
