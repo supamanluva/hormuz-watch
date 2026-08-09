@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-09T03:47:43.563173+00:00",
+ "asOf": "2026-08-09T05:10:43.906211+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Iran seeks way out of ‘neither war nor peace’ stalemate with US",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/08-08-clip-pezeshkian-iran-ir?traffic_source=rss",
+   "published": "2026-08-09T04:12:39+00:00",
+   "summary": "Iran President Pezeshkian said he hopes talks with Oman can end the “neither war nor peace” state of relations with US.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "[No Title] - Post from August 9, 2026",
@@ -595,17 +606,6 @@
    "summary": "Tehran, IRNA – President Masoud Pezeshkian has defended Iran’s approach to negotiations with the United States and Europe, saying Tehran is prepared to pursue dialogue to protect its national interests but will not accept demands that undermine its sovereignty or defensive capabilities. He also stressed improved relations with neighboring countries, coordination with the country’s leadership and a",
    "tags": [
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Several killed in attacks on Ukraine as Kyiv hits Russian e-commerce giant",
-   "url": "https://www.aljazeera.com/news/2026/8/7/several-killed-in-attacks-on-ukraine-as-kyiv-hits-russian-e-commerce-giant?traffic_source=rss",
-   "published": "2026-08-07T18:54:55+00:00",
-   "summary": "Ukraine continues to strike warehouses and logistics hubs run by Wildberries, which it says aid Moscow&#039;s war efforts.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   },
