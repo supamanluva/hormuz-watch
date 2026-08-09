@@ -1,6 +1,18 @@
 {
- "asOf": "2026-08-09T05:10:43.906211+00:00",
+ "asOf": "2026-08-09T05:42:38.411443+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Iran issues new demands as Pezeshkian seeks deal",
+   "url": "https://www.aljazeera.com/news/2026/8/9/iran-issues-new-demands-as-pezeshkian-seeks-deal?traffic_source=rss",
+   "published": "2026-08-09T05:06:02+00:00",
+   "summary": "Senior Iranian security official sets broader conditions for reopening Hormuz.",
+   "tags": [
+    "diplomacy",
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Iran seeks way out of ‘neither war nor peace’ stalemate with US",
@@ -572,18 +584,6 @@
    "summary": "Since January, Palestinians have reported more than 11,000 Israeli attacks in the occupied West Bank, officials say.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Lebanon points to ‘positive progress’ on borders, prisoners in Israel talks",
-   "url": "https://www.aljazeera.com/news/2026/8/7/lebanon-points-to-positive-progress-on-borders-prisoners-in-israel-talks?traffic_source=rss",
-   "published": "2026-08-07T21:02:31+00:00",
-   "summary": "New Israeli attacks reported in southern Lebanon as Beirut offers optimism after the seventh round of discussions.",
-   "tags": [
-    "strikes",
-    "diplomacy"
    ],
    "highlight": false
   },
