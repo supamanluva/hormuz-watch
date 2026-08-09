@@ -1,5 +1,5 @@
 {
- "asOf": "2026-08-09T12:42:19.559307+00:00",
+ "asOf": "2026-08-09T13:09:07.125075+00:00",
  "items": [
   {
    "source": "Al Jazeera",
@@ -53,6 +53,17 @@
    "summary": "The Iranian president calls for an end to deadlock with the US, declaring it the right moment for a lasting agreement.",
    "tags": [
     "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Saudi Arabia says fire extinguished at Aramco facility in Jizan",
+   "url": "https://www.aljazeera.com/news/2026/8/9/saudi-arabia-says-fire-extinguished-at-aramco-facility-in-jizan?traffic_source=rss",
+   "published": "2026-08-09T07:58:00+00:00",
+   "summary": "Saudi Energy Ministry gives no cause, but Houthis claim attack at refinery. No casualties reported.",
+   "tags": [
+    "strikes"
    ],
    "highlight": false
   },
@@ -583,17 +594,6 @@
    "tags": [
     "strikes",
     "sanctions"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Saudi intelligence chief meets Iraqi PM, renews Riyadh visit invitation",
-   "url": "https://www.aljazeera.com/news/2026/8/8/saudi-intelligence-chief-meets-iraqi-pm-renews-riyadh-visit-invitation?traffic_source=rss",
-   "published": "2026-08-08T03:42:43+00:00",
-   "summary": "Prime Minister Ali al-Zaidi had cancelled an earlier Saudi trip after deadly July 29 US-Saudi strikes on Iraq.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   },
