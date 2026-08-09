@@ -1,6 +1,28 @@
 {
- "asOf": "2026-08-09T10:00:30.086760+00:00",
+ "asOf": "2026-08-09T10:58:41.540788+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Araghchi: US violations must end before Iran-US talks can resume",
+   "url": "https://en.irna.ir/news/86231380/Araghchi-US-violations-must-end-before-Iran-US-talks-can-resume",
+   "published": "2026-08-09T10:09:22+00:00",
+   "summary": "Tehran, IRNA — Foreign Minister Abbas Araghchi says negotiations between Iran and the United States are currently not taking place, stressing that talks cannot resume until Washington ends its violation of commitments and compensates for those breaches.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Why is Pezeshkian urging an end to Iran’s ‘no war, no peace’ status?",
+   "url": "https://www.aljazeera.com/news/2026/8/9/why-is-pezeshkian-urging-an-end-to-irans-no-war-no-peace-status?traffic_source=rss",
+   "published": "2026-08-09T10:02:59+00:00",
+   "summary": "The Iranian president calls for an end to deadlock with the US, declaring it the right moment for a lasting agreement.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Nagasaki mayor says ‘humanity and nuclear weapons cannot coexist’",
@@ -577,18 +599,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "Iran war live: ‘High-level’ approval still pending from Tehran on Oman deal",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/8/8/iran-war-live-trilateral-mecca-defence-pact-signed-as-hormuz-deal-looms?traffic_source=rss",
-   "published": "2026-08-08T00:00:00+00:00",
-   "summary": "Iran, Oman agree on framework regarding Hormuz, with final approval still pending from Tehran.",
-   "tags": [
-    "diplomacy",
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
    "source": "White House",
    "title": "Fact Sheet: President Donald J. Trump Announces Billions in New Deals and Investments to Power American Mining",
    "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-announces-billions-in-new-deals-and-investments-to-power-american-mining/",
@@ -607,17 +617,6 @@
    "summary": "Tehran, IRNA – President Masoud Pezeshkian has defended Iran’s approach to negotiations with the United States and Europe, saying Tehran is prepared to pursue dialogue to protect its national interests but will not accept demands that undermine its sovereignty or defensive capabilities. He also stressed improved relations with neighboring countries, coordination with the country’s leadership and a",
    "tags": [
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Baqaei: Before anyone can lay claim to spoils of war, they must first have won the war",
-   "url": "https://en.irna.ir/news/86229877/Baqaei-Before-anyone-can-lay-claim-to-spoils-of-war-they-must",
-   "published": "2026-08-07T18:45:20+00:00",
-   "summary": "Tehran, IRNA – In a message responding to remarks by US President Donald Trump, who claimed the right to seize spoils from Iran, Foreign Ministry spokesperson Esmaeil Baqaei emphasized that before anyone can lay claim to war spoils, they must first emerge victorious in the war.",
-   "tags": [
-    "oil"
    ],
    "highlight": false
   }
