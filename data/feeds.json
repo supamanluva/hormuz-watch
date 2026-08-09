@@ -1,6 +1,18 @@
 {
- "asOf": "2026-08-08T23:56:09.497117+00:00",
+ "asOf": "2026-08-09T00:31:48.759894+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Iran war live: Tehran demands end to US blockade to reopen Strait of Hormuz",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/8/9/iran-war-live-tehran-demands-end-to-us-blockade-to-reopen-strait-of-hormuz?traffic_source=rss",
+   "published": "2026-08-09T00:00:00+00:00",
+   "summary": "IRGC sets conditions to reopen Strait of Hormuz as US seeks commitments to end attacks on ships in the waterway.",
+   "tags": [
+    "strikes",
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Vance says US ‘destroyed’ Iran’s nuclear programme",
@@ -603,17 +615,6 @@
    "published": "2026-08-07T18:04:10+00:00",
    "summary": "Click here to read the post on Truth Social. The post ICYMI: Statement from President Donald J. Trump appeared first on The White House .",
    "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Ground prepared for resuming Persian Gulf States security talks: Deputy FM",
-   "url": "https://en.irna.ir/news/86229855/Ground-prepared-for-resuming-Persian-Gulf-States-security-talks",
-   "published": "2026-08-07T16:48:01+00:00",
-   "summary": "Tehran, IRNA – Iran’s Deputy Foreign Minister for Legal and International Affairs Kazem Gharibabadi believes that as soon as peace and stability are restored in the region, the ground will be prepared for resuming security talks among the Persian Gulf states.",
-   "tags": [
-    "diplomacy"
-   ],
    "highlight": false
   }
  ]
