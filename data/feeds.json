@@ -1,6 +1,44 @@
 {
- "asOf": "2026-08-09T20:40:25.991926+00:00",
+ "asOf": "2026-08-09T20:58:40.849151+00:00",
  "items": [
+  {
+   "source": "Trump · Truth Social",
+   "title": "With the great Gary Player, today, at Bedminster!",
+   "url": "https://trumpstruth.org/statuses/40692",
+   "published": "2026-08-09T20:51:43+00:00",
+   "summary": "With the great Gary Player, today, at Bedminster!",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "51 years of bad behavior!",
+   "url": "https://trumpstruth.org/statuses/40691",
+   "published": "2026-08-09T20:50:09+00:00",
+   "summary": "51 years of bad behavior!",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "The 10th Hole at Trump International Golf Club, Palm Beach County, Florida!",
+   "url": "https://trumpstruth.org/statuses/40690",
+   "published": "2026-08-09T20:44:16+00:00",
+   "summary": "The 10th Hole at Trump International Golf Club, Palm Beach County, Florida!",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Germany warns of ‘daily hybrid warfare’ after explosive-laden drone found",
+   "url": "https://www.aljazeera.com/news/2026/8/9/germany-warns-of-daily-hybrid-warfare-following-suspected-drone-attack?traffic_source=rss",
+   "published": "2026-08-09T20:40:25+00:00",
+   "summary": "Espionage, sabotage, cyberattacks, and covert operations are a &#039;constant reality&#039;, says Germany&#039;s interior minister.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "[No Title] - Post from August 9, 2026",
@@ -447,33 +485,6 @@
    "highlight": false
   },
   {
-   "source": "Trump · Truth Social",
-   "title": "Very true! President DJT",
-   "url": "https://trumpstruth.org/statuses/40666",
-   "published": "2026-08-08T19:58:34+00:00",
-   "summary": "RT: https://truthsocial.com/users/mrddmia/statuses/117060035123254425 Very true! President DJT",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Great Poll Numbers. Thank You!!! President DJT",
-   "url": "https://trumpstruth.org/statuses/40662",
-   "published": "2026-08-08T19:52:51+00:00",
-   "summary": "Great Poll Numbers. Thank You!!! President DJT",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Cash is king: Washington Republicans bankroll midterms as National Democrat coffers are in the red:",
-   "url": "https://trumpstruth.org/statuses/40663",
-   "published": "2026-08-08T19:51:34+00:00",
-   "summary": "Cash is king: Washington Republicans bankroll midterms as National Democrat coffers are in the red: https:// justthenews.com/politics-polic y/elections/cash-king-republicans-bankroll-midterms-democrat-coffers-are-red",
-   "tags": [],
-   "highlight": true
-  },
-  {
    "source": "IRNA (Iran state wire)",
    "title": "IRGC spokesman: Strait of Hormuz becomes strategic tool of power",
    "url": "https://en.irna.ir/news/86230645/IRGC-spokesman-Strait-of-Hormuz-becomes-strategic-tool-of-power",
@@ -605,17 +616,6 @@
    "summary": "Iran and Oman have agreed on the coordinates of routes to be taken by vessels through the Strait of Hormuz.",
    "tags": [
     "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Drones spotted in Bulgaria and Germany raise concerns about Russian escalation",
-   "url": "https://www.aljazeera.com/news/2026/8/8/drones-spotted-in-bulgaria-and-germany-raise-concerns-of-russian-escalation?traffic_source=rss",
-   "published": "2026-08-08T12:30:52+00:00",
-   "summary": "Drone incidents in Europe igniting fears that Moscow&#039;s war on Kyiv is entangling NATO nations.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   }
