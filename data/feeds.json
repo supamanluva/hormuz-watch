@@ -1,6 +1,15 @@
 {
- "asOf": "2026-08-09T13:09:07.125075+00:00",
+ "asOf": "2026-08-09T13:42:57.042395+00:00",
  "items": [
+  {
+   "source": "Trump · Truth Social",
+   "title": "[No Title] - Post from August 9, 2026",
+   "url": "https://trumpstruth.org/statuses/40685",
+   "published": "2026-08-09T13:32:24+00:00",
+   "summary": "",
+   "tags": [],
+   "highlight": true
+  },
   {
    "source": "Al Jazeera",
    "title": "‘US and Iran are talking past each other’ in indirect negotiations",
@@ -542,15 +551,6 @@
     "shipping"
    ],
    "highlight": false
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from August 8, 2026",
-   "url": "https://trumpstruth.org/statuses/40658",
-   "published": "2026-08-08T11:10:14+00:00",
-   "summary": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117059577812036128",
-   "tags": [],
-   "highlight": true
   },
   {
    "source": "IRNA (Iran state wire)",
