@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-08T23:38:43.096439+00:00",
+ "asOf": "2026-08-08T23:56:09.497117+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Vance says US ‘destroyed’ Iran’s nuclear programme",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/vance-says-us-destroyed-irans-nuclear-programme?traffic_source=rss",
+   "published": "2026-08-08T23:27:55+00:00",
+   "summary": "US Vice President JD Vance claims Washington has “destroyed” Iran’s nuclear programme and degraded its military.",
+   "tags": [
+    "nuclear"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Car bomb attack rattles Colombia after inauguration of hardline president",
@@ -600,17 +611,6 @@
    "url": "https://en.irna.ir/news/86229855/Ground-prepared-for-resuming-Persian-Gulf-States-security-talks",
    "published": "2026-08-07T16:48:01+00:00",
    "summary": "Tehran, IRNA – Iran’s Deputy Foreign Minister for Legal and International Affairs Kazem Gharibabadi believes that as soon as peace and stability are restored in the region, the ground will be prepared for resuming security talks among the Persian Gulf states.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Saudi Arabia, Pakistan, Turkiye defence pact challenges US role",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/saudi-arabia-pakistan-turkiye-defence-pact-challenges-us-role?traffic_source=rss",
-   "published": "2026-08-07T16:23:33+00:00",
-   "summary": "Defence analyst Alex Alfirraz Scheers says the Saudi Arabia-Pakistan-Turkiye defence agreement signals a realignment",
    "tags": [
     "diplomacy"
    ],
