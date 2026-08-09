@@ -1,6 +1,18 @@
 {
- "asOf": "2026-08-09T14:19:28.064079+00:00",
+ "asOf": "2026-08-09T14:40:22.729385+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Syria says it reached deal with Moscow on future of Russian bases",
+   "url": "https://www.aljazeera.com/news/2026/8/9/syria-says-it-reached-deal-with-moscow-on-future-of-russian-bases?traffic_source=rss",
+   "published": "2026-08-09T14:20:51+00:00",
+   "summary": "Hmeimim airbase and Tartus naval base will become joint training and capacity-building centres under the agreement.",
+   "tags": [
+    "strikes",
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "[No Title] - Post from August 9, 2026",
@@ -582,18 +594,6 @@
    "summary": "Deal aims to secure scandium supply as China restricts exports for defence products.",
    "tags": [
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Russian strikes near Ukrainian capital kill four, including child",
-   "url": "https://www.aljazeera.com/news/2026/8/8/russian-strikes-near-ukrainian-capital-kill-three-including-child?traffic_source=rss",
-   "published": "2026-08-08T04:18:45+00:00",
-   "summary": "Attack comes as US Senate passes new Russia sanctions and Kyiv appeals for air defence interceptors.",
-   "tags": [
-    "strikes",
-    "sanctions"
    ],
    "highlight": false
   },
