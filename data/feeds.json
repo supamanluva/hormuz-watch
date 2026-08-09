@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-09T22:57:45.625431+00:00",
+ "asOf": "2026-08-09T23:15:14.871447+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Union reports 108 attacks on Palestinian journalists in July",
+   "url": "https://www.aljazeera.com/news/2026/8/9/union-reports-108-attacks-on-palestinian-journalists-in-july?traffic_source=rss",
+   "published": "2026-08-09T23:01:25+00:00",
+   "summary": "Palestinian Journalists Syndicate exposes rising threats, with over 270 journalists killed in Gaza since October 2023.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "[No Title] - Post from August 9, 2026",
@@ -603,17 +614,6 @@
    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/war-on-iran-phase-ii-day-28?traffic_source=rss",
    "published": "2026-08-08T14:09:02+00:00",
    "summary": "Saudi-Pakistan-Turkiye pact draws mixed reactions, as Iran and Oman agree a Hormuz security framework.",
-   "tags": [
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iran deliberates Hormuz arrangement amid uncertain prospects with US",
-   "url": "https://www.aljazeera.com/news/2026/8/8/iran-deliberates-hormuz-arrangement-amid-uncertain-prospects-with-us?traffic_source=rss",
-   "published": "2026-08-08T13:52:40+00:00",
-   "summary": "Iran and Oman have agreed on the coordinates of routes to be taken by vessels through the Strait of Hormuz.",
    "tags": [
     "shipping"
    ],
