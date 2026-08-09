@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-09T11:56:07.151857+00:00",
+ "asOf": "2026-08-09T12:42:19.559307+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "‘US and Iran are talking past each other’ in indirect negotiations",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/us-and-iran-are-talking-past-each-other-in-indirect-negotiations?traffic_source=rss",
+   "published": "2026-08-09T11:53:03+00:00",
+   "summary": "‘US and Iran are talking past each other’ in indirect negotiations",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Russian forces kill several in Ukraine, launch ‘brutal’ attack in Odesa",
@@ -583,17 +594,6 @@
    "summary": "Prime Minister Ali al-Zaidi had cancelled an earlier Saudi trip after deadly July 29 US-Saudi strikes on Iraq.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "US Senate passes Russia sanctions that could hurt India and China",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/07-08-sv-us-sanctions-russia-us?traffic_source=rss",
-   "published": "2026-08-08T03:20:41+00:00",
-   "summary": "The US Senate approved its strongest move against Russia under Trump.",
-   "tags": [
-    "sanctions"
    ],
    "highlight": false
   },
