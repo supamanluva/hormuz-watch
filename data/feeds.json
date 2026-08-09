@@ -1,6 +1,18 @@
 {
- "asOf": "2026-08-09T08:04:08.506435+00:00",
+ "asOf": "2026-08-09T08:22:47.546771+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Nagasaki mayor says ‘humanity and nuclear weapons cannot coexist’",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/nagasaki-mayor-says-humanity-and-nuclear-weapons-cannot?traffic_source=rss",
+   "published": "2026-08-09T07:56:47+00:00",
+   "summary": "Nagasaki Mayor says ‘humanity and nuclear weapons can&#039;t coexist’ as Japan marks anniversary of the US atomic bombing.",
+   "tags": [
+    "strikes",
+    "nuclear"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Iran issues new demands as Pezeshkian seeks deal",
@@ -572,17 +584,6 @@
    "tags": [
     "diplomacy",
     "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Medics among six Palestinians injured in Israeli attacks across West Bank",
-   "url": "https://www.aljazeera.com/news/2026/8/7/medics-among-six-palestinians-injured-in-israeli-attacks-across-west-bank?traffic_source=rss",
-   "published": "2026-08-07T23:15:01+00:00",
-   "summary": "Since January, Palestinians have reported more than 11,000 Israeli attacks in the occupied West Bank, officials say.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   },
