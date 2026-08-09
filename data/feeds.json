@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-09T01:12:51.830824+00:00",
+ "asOf": "2026-08-09T02:10:31.524602+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Israeli settler attacks rise as West Bank residents lose land",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/09-08-reported-nour-odeh-bethlehem?traffic_source=rss",
+   "published": "2026-08-09T01:43:04+00:00",
+   "summary": "Palestinians near Bethlehem describe daily settler attacks as violence rises across the West Bank.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "[No Title] - Post from August 9, 2026",
@@ -606,15 +617,6 @@
    "tags": [
     "oil"
    ],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "ICYMI: Statement from President Donald J. Trump",
-   "url": "https://www.whitehouse.gov/releases/2026/08/icymi-statement-from-president-donald-j-trump/",
-   "published": "2026-08-07T18:04:10+00:00",
-   "summary": "Click here to read the post on Truth Social. The post ICYMI: Statement from President Donald J. Trump appeared first on The White House .",
-   "tags": [],
    "highlight": false
   }
  ]
