@@ -1,5 +1,5 @@
 {
- "asOf": "2026-08-09T09:04:12.603206+00:00",
+ "asOf": "2026-08-09T09:22:32.950168+00:00",
  "items": [
   {
    "source": "Al Jazeera",
@@ -202,12 +202,13 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "Iran war live: Tehran sets Hormuz terms, Houthis claim attack on Saudi site",
+   "title": "Iran war live: Tehran seeks ‘to create grounds’ for talks with US",
    "url": "https://www.aljazeera.com/news/liveblog/2026/8/9/iran-war-live-tehran-demands-end-to-us-blockade-to-reopen-strait-of-hormuz?traffic_source=rss",
    "published": "2026-08-09T00:00:00+00:00",
-   "summary": "IRGC sets conditions to reopen Strait of Hormuz as US seeks commitments to end attacks on ships in the waterway.",
+   "summary": "IRGC sets conditions to reopen the Strait of Hormuz as the US seeks commitments to end attacks on ships in the waterway.",
    "tags": [
     "strikes",
+    "diplomacy",
     "shipping"
    ],
    "highlight": false
