@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-09T17:16:41.573836+00:00",
+ "asOf": "2026-08-09T17:57:32.321843+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Leader appoints ex-IRGC chief Mohsen Rezaei as his envoy to Iran’s top security body",
+   "url": "https://en.irna.ir/news/86231774/Leader-appoints-ex-IRGC-chief-Mohsen-Rezaei-as-his-envoy-to-Iran-s",
+   "published": "2026-08-09T17:18:42+00:00",
+   "summary": "Tehran, IRNA - Leader of the Islamic Revolution Ayatollah Sayyid Mojtaba Hosseini Khamenei has appointed former Islamic Revolution Guards Corps (IRGC) commander Mohsen Rezaei as his representative to the Supreme National Security Council (SNSC).",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "Gary Player at Trump Turnberry!",
@@ -605,17 +616,6 @@
    "summary": "Tehran, IRNA – Deputy Foreign Minister for Legal and International Affairs Kazem Gharibabadi says the ratification and entry into force of the Convention on the Legal Status of the Caspian Sea will have no impact on the delimitation of the seabed and subsoil of the body of water.",
    "tags": [
     "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "President Pezeshkian calls Hiroshima, Nagasaki bombings “among greatest crimes against humanity”",
-   "url": "https://en.irna.ir/news/86230352/President-Pezeshkian-calls-Hiroshima-Nagasaki-bombings-among",
-   "published": "2026-08-08T09:44:17+00:00",
-   "summary": "Tehran, IRNA – President Masoud Pezeshkian wrote that on the anniversary of the US atomic bombings of Hiroshima and Nagasaki, the mindset that still governs Washington today—one that threatens nations with destruction and targets civilian infrastructure—must be condemned.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   }
