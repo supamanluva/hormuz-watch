@@ -1,6 +1,28 @@
 {
- "asOf": "2026-08-09T15:56:58.894730+00:00",
+ "asOf": "2026-08-09T16:15:38.474641+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran’s parliamentary commission approves framework of bill on Strait of Hormuz",
+   "url": "https://en.irna.ir/news/86231711/Iran-s-parliamentary-commission-approves-framework-of-bill-on",
+   "published": "2026-08-09T16:13:36+00:00",
+   "summary": "Tehran, IRNA – The Iranian Parliament’s National Security and Foreign Policy Commission has approved the general outlines of a draft bill on managing the Strait of Hormuz and the Persian Gulf.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "War on Iran: Phase II: Day 29",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/war-on-iran-phase-ii-day-29?traffic_source=rss",
+   "published": "2026-08-09T15:46:09+00:00",
+   "summary": "Iran says the Strait of Hormuz will remain restricted unless the US meets a series of demands.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Iran will never retreat from Strait of Hormuz: Expediency Council chief",
@@ -594,28 +616,6 @@
    "summary": "Tehran, IRNA – President Masoud Pezeshkian wrote that on the anniversary of the US atomic bombings of Hiroshima and Nagasaki, the mindset that still governs Washington today—one that threatens nations with destruction and targets civilian infrastructure—must be condemned.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "US announces $400m investment in Australian rare earth mine",
-   "url": "https://www.aljazeera.com/news/2026/8/8/us-announces-400m-investment-in-australian-rare-earth-mine?traffic_source=rss",
-   "published": "2026-08-08T09:30:12+00:00",
-   "summary": "Deal aims to secure scandium supply as China restricts exports for defence products.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "Fact Sheet: President Donald J. Trump Announces Billions in New Deals and Investments to Power American Mining",
-   "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-announces-billions-in-new-deals-and-investments-to-power-american-mining/",
-   "published": "2026-08-07T19:44:19+00:00",
-   "summary": "BOLSTERING AMERICAN MINING:&#160;Today, President Donald J. Trump held a historic roundtable with the mining industry where he announced over $2 billion in critical mining and mining-related projects to revitalize the industry and over $180 million in mining school investments to bolster the American mining workforce.&#160; PRIORITIZING DOMESTIC CRITICAL MATERIALS AND THEIR SUPPLY CHAINS:&#160;Pre",
-   "tags": [
-    "diplomacy"
    ],
    "highlight": false
   }
