@@ -1,10 +1,21 @@
 {
- "asOf": "2026-08-09T18:41:19.601074+00:00",
+ "asOf": "2026-08-09T19:20:06.224147+00:00",
  "items": [
   {
    "source": "IRNA (Iran state wire)",
    "title": "Leader appoints ex-IRGC chief Mohsen Rezaei as his envoy to Iran’s top security body",
    "url": "https://en.irna.ir/news/86231774/Leader-appoints-ex-IRGC-chief-Mohsen-Rezaei-as-his-envoy-to-Iran-s",
+   "published": "2026-08-09T17:18:42+00:00",
+   "summary": "Tehran, IRNA - Leader of the Islamic Revolution Ayatollah Sayyid Mojtaba Hosseini Khamenei has appointed former Islamic Revolution Guards Corps (IRGC) commander Mohsen Rezaei as his representative to the Supreme National Security Council (SNSC).",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Leader appoints Mohsen Rezaei as his envoy to Iran’s top security body",
+   "url": "https://en.irna.ir/news/86231774/Leader-appoints-Mohsen-Rezaei-as-his-envoy-to-Iran-s-top-security",
    "published": "2026-08-09T17:18:42+00:00",
    "summary": "Tehran, IRNA - Leader of the Islamic Revolution Ayatollah Sayyid Mojtaba Hosseini Khamenei has appointed former Islamic Revolution Guards Corps (IRGC) commander Mohsen Rezaei as his representative to the Supreme National Security Council (SNSC).",
    "tags": [
@@ -605,17 +616,6 @@
    "summary": "Hormozgan, IRNA – The commander of the IRGC’s Imam Sajjad Division in Hormozgan province, Brigadier General Hassan Sanatkaran, says that Iran’s security and authority in the Strait of Hormuz and the Persian Gulf stem from national faith and resistance against foreign pressure.",
    "tags": [
     "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Gharibabadi: Caspian Sea convention does not affect delimitation of seabed, subsoil",
-   "url": "https://en.irna.ir/news/86230493/Gharibabadi-Caspian-Sea-convention-does-not-affect-delimitation",
-   "published": "2026-08-08T10:56:24+00:00",
-   "summary": "Tehran, IRNA – Deputy Foreign Minister for Legal and International Affairs Kazem Gharibabadi says the ratification and entry into force of the Convention on the Legal Status of the Caspian Sea will have no impact on the delimitation of the seabed and subsoil of the body of water.",
-   "tags": [
-    "oil"
    ],
    "highlight": false
   }
