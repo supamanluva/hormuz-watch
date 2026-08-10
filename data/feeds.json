@@ -1,6 +1,28 @@
 {
- "asOf": "2026-08-10T18:26:59.703686+00:00",
+ "asOf": "2026-08-10T18:50:02.542647+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Oman trying to contain extensive oil spill from stricken tanker",
+   "url": "https://www.aljazeera.com/news/2026/8/10/oman-trying-to-contain-extensive-oil-spill-from-stricken-tanker?traffic_source=rss",
+   "published": "2026-08-10T18:15:23+00:00",
+   "summary": "The Caroline Bezengi is believed to be part of Russia&#039;s &#039;shadow fleet&#039; that Moscow uses to circumvent Western sanctions.",
+   "tags": [
+    "sanctions",
+    "shipping",
+    "oil"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "White House",
+   "title": "One Year Later, President Trump Has Delivered on Making D.C. Safe Again",
+   "url": "https://www.whitehouse.gov/releases/2026/08/one-year-later-president-trump-has-delivered-on-making-d-c-safe-again/",
+   "published": "2026-08-10T18:06:42+00:00",
+   "summary": "One year after President Donald J. Trump declared a crime emergency in the District of Columbia and unleashed the Make D.C. Safe and Beautiful Task Force, the results are undeniable. The nation’s capital is no longer a Democrat-run nightmare of murder and lawlessness. Violent predators, gangbangers, drug traffickers, and sex offenders have been removed from [&#8230;] The post One Year Later, Presi",
+   "tags": [],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "Also, with respect to the Iran negotiations, Iran should be responsible for the damages and death caused to the people of Lebanon, Syria, Yemen, and Gaza! President DONALD J. TRUMP",
@@ -604,28 +626,6 @@
    "summary": "‘US and Iran are talking past each other’ in indirect negotiations",
    "tags": [
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Russian forces kill several in Ukraine, launch ‘brutal’ attack in Odesa",
-   "url": "https://www.aljazeera.com/news/2026/8/9/russian-forces-kill-several-in-ukraine-launch-brutal-attack-in-odesa?traffic_source=rss",
-   "published": "2026-08-09T10:55:06+00:00",
-   "summary": "President Volodymyr Zelenskyy accuses Moscow of harming global food security amid a plate of attacks on Odesa&#039;s port.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Yemeni army warns Houthis after attacks heighten escalation risk",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/yemeni-army-warns-houthis-after-attacks-heighten-escalation-risk?traffic_source=rss",
-   "published": "2026-08-09T10:45:57+00:00",
-   "summary": "Yemeni army warns Houthis after attacks heighten escalation risk",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   }
