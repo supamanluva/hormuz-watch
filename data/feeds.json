@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-10T21:03:24.404852+00:00",
+ "asOf": "2026-08-10T21:23:39.248364+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Baqaei: US addiction to sanctions exposes Washington’s policy failure",
+   "url": "https://en.irna.ir/news/86232859/Baqaei-US-addiction-to-sanctions-exposes-Washington-s-policy",
+   "published": "2026-08-10T21:16:20+00:00",
+   "summary": "Tehran, IRNA – Iranian Foreign Ministry spokesperson Esmaeil Baqaei has strongly rejected the US Treasury Secretary’s boast of “suffocating” Iran through economic sanctions, describing the claim as both pathetic and clear evidence of America’s compulsive addiction to coercive measures.",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Iran’s vice president urges upgrading cybersecurity, passive defense amid enemy plots",
@@ -614,17 +625,6 @@
    "summary": "Hillary Clinton: “The world may not like Trump’s Gaza plan — but there is no alternative: If even I, an implacable opponent of the president, can accept this as the best option, then surely others can too?” https://www. ft.com/content/2472e584-758b-4 a3f-83d1-9fba042a9312",
    "tags": [],
    "highlight": true
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran’s parliamentary commission approves framework of bill on Strait of Hormuz",
-   "url": "https://en.irna.ir/news/86231711/Iran-s-parliamentary-commission-approves-framework-of-bill-on",
-   "published": "2026-08-09T16:13:36+00:00",
-   "summary": "Tehran, IRNA – The Iranian Parliament’s National Security and Foreign Policy Commission has approved the general outlines of a draft bill on managing the Strait of Hormuz and the Persian Gulf.",
-   "tags": [
-    "shipping"
-   ],
-   "highlight": false
   }
  ]
 }
