@@ -1,6 +1,35 @@
 {
- "asOf": "2026-08-10T16:43:26.848891+00:00",
+ "asOf": "2026-08-10T17:30:41.789468+00:00",
  "items": [
+  {
+   "source": "UN Press",
+   "title": "Activities of Secretary-General in Cyprus, 27-29 July",
+   "url": "https://press.un.org/en/2026/sgt3472.doc.htm",
+   "published": "2026-08-10T17:13:20+00:00",
+   "summary": "On Monday night, 27 July, the Secretary-General arrived in Cyprus to express his commitment to support for Cypriot communities in the search for a comprehensive and sustainable settlement of the Cyprus issue.",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Colombia earthquake live: Magnitude 7.4 quake strikes near Bogota; 47 dead",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/8/10/colombia-earthquake-live-magnitude-7-4-quake-strikes-near-bogota-47-dead?traffic_source=rss",
+   "published": "2026-08-10T17:00:41+00:00",
+   "summary": "Officials say at least 47 people have been killed in the quake, with some still trapped under rubble.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "UN Press",
+   "title": "Activities of Secretary-General in Syria, 25-26 July",
+   "url": "https://press.un.org/en/2026/sgt3470.doc.htm",
+   "published": "2026-08-10T16:44:11+00:00",
+   "summary": "The Secretary-General arrived in Damascus, Syria, on the morning of Saturday, 25 July.",
+   "tags": [],
+   "highlight": false
+  },
   {
    "source": "UN Press",
    "title": "Secretary-General Calls for Action to Protect Aid Workers, Respect Rules of War, in World Humanitarian Day Message",
@@ -599,35 +628,6 @@
     "diplomacy"
    ],
    "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Why is Pezeshkian urging an end to Iran’s ‘no war, no peace’ status?",
-   "url": "https://www.aljazeera.com/news/2026/8/9/why-is-pezeshkian-urging-an-end-to-irans-no-war-no-peace-status?traffic_source=rss",
-   "published": "2026-08-09T10:02:59+00:00",
-   "summary": "The Iranian president calls for an end to deadlock with the US, declaring it the right moment for a lasting agreement.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from August 9, 2026",
-   "url": "https://trumpstruth.org/statuses/40674",
-   "published": "2026-08-09T02:22:33+00:00",
-   "summary": "",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from August 9, 2026",
-   "url": "https://trumpstruth.org/statuses/40675",
-   "published": "2026-08-09T02:22:26+00:00",
-   "summary": "",
-   "tags": [],
-   "highlight": true
   }
  ]
 }
