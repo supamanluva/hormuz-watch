@@ -1,6 +1,26 @@
 {
- "asOf": "2026-08-10T14:14:03.062921+00:00",
+ "asOf": "2026-08-10T15:13:11.889044+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Indian police attack protesters seeking action over ‘exam irregularities’",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/indian-police-attack-protesters-seeking-action-over-exam?traffic_source=rss",
+   "published": "2026-08-10T14:52:32+00:00",
+   "summary": "Indian police attack protesters seeking action over ‘exam irregularities’ in Jharkhand.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "[No Title] - Post from August 10, 2026",
+   "url": "https://trumpstruth.org/statuses/40701",
+   "published": "2026-08-10T14:29:15+00:00",
+   "summary": "",
+   "tags": [],
+   "highlight": true
+  },
   {
    "source": "Al Jazeera",
    "title": "War on Iran: Phase II: Day 30",
@@ -552,17 +572,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "Iran seeks way out of ‘neither war nor peace’ stalemate with US",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/08-08-clip-pezeshkian-iran-ir?traffic_source=rss",
-   "published": "2026-08-09T04:12:39+00:00",
-   "summary": "Iran President Pezeshkian said he hopes talks with Oman can end the “neither war nor peace” state of relations with US.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
    "source": "Trump · Truth Social",
    "title": "[No Title] - Post from August 9, 2026",
    "url": "https://trumpstruth.org/statuses/40674",
@@ -612,15 +621,6 @@
    "title": "[No Title] - Post from August 9, 2026",
    "url": "https://trumpstruth.org/statuses/40679",
    "published": "2026-08-09T02:21:50+00:00",
-   "summary": "",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from August 9, 2026",
-   "url": "https://trumpstruth.org/statuses/40680",
-   "published": "2026-08-09T02:21:40+00:00",
    "summary": "",
    "tags": [],
    "highlight": true
