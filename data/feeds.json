@@ -1,6 +1,50 @@
 {
- "asOf": "2026-08-10T13:37:45.009649+00:00",
+ "asOf": "2026-08-10T14:14:03.062921+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "War on Iran: Phase II: Day 30",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/war-on-iran-phase-ii-day-30?traffic_source=rss",
+   "published": "2026-08-10T14:07:04+00:00",
+   "summary": "Donald Trump says the US is only ‘semi-negotiating’ with Iran.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Enemy calculations based on AI and spy networks were thwarted: Pezeshkian",
+   "url": "https://en.irna.ir/news/86232633/Enemy-calculations-based-on-AI-and-spy-networks-were-thwarted",
+   "published": "2026-08-10T14:04:19+00:00",
+   "summary": "Tehran, IRNA - President Masoud Pezeshkian says enemies had assumed they could collapse the Islamic Republic by creating insecurity and pressure, but their calculations based on AI, spy networks, and hired agents were completely foiled.",
+   "tags": [
+    "oil"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Record 230 people reach UK on single boat after crossing English Channel",
+   "url": "https://www.aljazeera.com/news/2026/8/10/record-230-people-reach-uk-on-single-boat-after-crossing-english-channel?traffic_source=rss",
+   "published": "2026-08-10T14:02:38+00:00",
+   "summary": "The government has accused people smugglers of &#039;cramming&#039; migrants onto &#039;unseaworthy vessels&#039; and putting lives at risk.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Iran changed the rules in Hormuz. The Gulf is changing the rules for Iran",
+   "url": "https://www.aljazeera.com/opinions/2026/8/10/iran-changed-the-rules-in-hormuz-the-gulf-is-changing-the-rules-for-iran?traffic_source=rss",
+   "published": "2026-08-10T14:00:02+00:00",
+   "summary": "Iran gained leverage in Hormuz, but its neighbours are reshaping regional security to limit what Tehran can do with it.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Jeff Bezos consortium nears deal to buy stake in Liverpool FC: Reports",
@@ -79,10 +123,10 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "How significant is Mohsen Rezaei’s appointment as Iran’s security chief?",
+   "title": "How significant is Mohsen Rezaee’s appointment as Iran’s security chief?",
    "url": "https://www.aljazeera.com/news/2026/8/10/who-is-mohsen-rezaei-and-how-significant-is-his-appointment?traffic_source=rss",
    "published": "2026-08-10T10:11:48+00:00",
-   "summary": "Former IRGC commander Rezaei will be taking over as secretary of Iran&#039;s top security body amid Hormuz talks.",
+   "summary": "Former IRGC commander Rezaee will be taking over as secretary of Iran&#039;s top security body amid Hormuz talks.",
    "tags": [
     "diplomacy",
     "shipping"
@@ -580,48 +624,6 @@
    "summary": "",
    "tags": [],
    "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from August 9, 2026",
-   "url": "https://trumpstruth.org/statuses/40681",
-   "published": "2026-08-09T02:21:32+00:00",
-   "summary": "",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from August 9, 2026",
-   "url": "https://trumpstruth.org/statuses/40682",
-   "published": "2026-08-09T02:21:31+00:00",
-   "summary": "",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Israeli settler attacks rise as West Bank residents lose land",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/09-08-reported-nour-odeh-bethlehem?traffic_source=rss",
-   "published": "2026-08-09T01:43:04+00:00",
-   "summary": "Palestinians near Bethlehem describe daily settler attacks as violence rises across the West Bank.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iran war live: Tehran seeks ‘to create grounds’ for talks with US",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/8/9/iran-war-live-tehran-demands-end-to-us-blockade-to-reopen-strait-of-hormuz?traffic_source=rss",
-   "published": "2026-08-09T00:00:00+00:00",
-   "summary": "IRGC sets conditions to reopen the Strait of Hormuz as the US seeks commitments to end attacks on ships in the waterway.",
-   "tags": [
-    "strikes",
-    "diplomacy",
-    "shipping"
-   ],
-   "highlight": false
   }
  ]
 }
