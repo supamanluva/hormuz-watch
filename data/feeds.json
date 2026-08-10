@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-10T18:50:02.542647+00:00",
+ "asOf": "2026-08-10T19:28:16.949913+00:00",
  "items": [
+  {
+   "source": "UN Press",
+   "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General",
+   "url": "https://press.un.org/en/2026/db260810.doc.htm",
+   "published": "2026-08-10T19:22:55+00:00",
+   "summary": "Yemen faces a greater risk of renewed large-scale conflict than at any point since the UN-brokered truce of April 2022, Hans Grundberg, the Secretary-General’s Personal Envoy for Yemen, warns. Mr. Grundberg is engaging intensively with the Yemeni parties, regional actors and global partners on options for de-escalation.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Oman trying to contain extensive oil spill from stricken tanker",
@@ -45,10 +56,10 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "Colombia earthquake live: Magnitude 7.4 quake strikes near Bogota; 69 dead",
+   "title": "Colombia earthquake live: Magnitude 7.4 quake strikes near Bogota; 111 dead",
    "url": "https://www.aljazeera.com/news/liveblog/2026/8/10/colombia-earthquake-live-magnitude-7-4-quake-strikes-near-bogota-47-dead?traffic_source=rss",
    "published": "2026-08-10T17:00:41+00:00",
-   "summary": "Officials say at least 69 people have been killed in the quake, with some still trapped under rubble.",
+   "summary": "Officials say at least 111 people have been killed in the quake, with some still trapped under rubble.",
    "tags": [
     "strikes"
    ],
@@ -617,17 +628,6 @@
    "summary": "",
    "tags": [],
    "highlight": true
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "‘US and Iran are talking past each other’ in indirect negotiations",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/us-and-iran-are-talking-past-each-other-in-indirect-negotiations?traffic_source=rss",
-   "published": "2026-08-09T11:53:03+00:00",
-   "summary": "‘US and Iran are talking past each other’ in indirect negotiations",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
   }
  ]
 }
