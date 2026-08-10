@@ -1,6 +1,24 @@
 {
- "asOf": "2026-08-10T19:28:16.949913+00:00",
+ "asOf": "2026-08-10T20:03:20.094585+00:00",
  "items": [
+  {
+   "source": "White House",
+   "title": "Fact Sheet: President Donald J. Trump Delivers Gold Standard Childhood Vaccine Recommendations for Americans",
+   "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-delivers-gold-standard-childhood-vaccine-recommendations-for-americans/",
+   "published": "2026-08-10T19:44:46+00:00",
+   "summary": "DELIVERING GOLD STANDARD CHILDHOOD VACCINE RECOMMENDATIONS:&#160;Today, President Donald J. Trump signed an Executive Order to recognize Gold Standard Childhood Vaccine Recommendations that maximize parental choices over vaccinations for their children and align three categories of childhood immunizations with scientific evidence and best practices from peer, developed countries. ENSURING AMERICAN",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "White House",
+   "title": "Delivering Gold Standard Childhood Vaccine Recommendations for Americans",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/08/delivering-gold-standard-childhood-vaccine-recommendations-for-americans/",
+   "published": "2026-08-10T19:41:50+00:00",
+   "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it&#160;is&#160;hereby ordered: Section 1. Purpose and Policy. Pursuant to the Presidential Memorandum of December 5, 2025 (Aligning United States Core Childhood Vaccine Recommendations with Best Practices from Peer, Developed Countries), the Department of Health and Human Services [&#8230;",
+   "tags": [],
+   "highlight": false
+  },
   {
    "source": "UN Press",
    "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General",
@@ -607,27 +625,6 @@
     "shipping"
    ],
    "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Syria says it reached deal with Moscow on future of Russian bases",
-   "url": "https://www.aljazeera.com/news/2026/8/9/syria-says-it-reached-deal-with-moscow-on-future-of-russian-bases?traffic_source=rss",
-   "published": "2026-08-09T14:20:51+00:00",
-   "summary": "Hmeimim airbase and Tartus naval base will become joint training and capacity-building centres under the agreement.",
-   "tags": [
-    "strikes",
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from August 9, 2026",
-   "url": "https://trumpstruth.org/statuses/40685",
-   "published": "2026-08-09T13:32:24+00:00",
-   "summary": "",
-   "tags": [],
-   "highlight": true
   }
  ]
 }
