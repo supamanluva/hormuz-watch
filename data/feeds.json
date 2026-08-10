@@ -1,6 +1,18 @@
 {
- "asOf": "2026-08-10T03:11:30.567945+00:00",
+ "asOf": "2026-08-10T04:05:49.390264+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Oil prices climb as Iranian demands cloud outlook for Strait of Hormuz",
+   "url": "https://www.aljazeera.com/economy/2026/8/10/oil-prices-climb-as-iranian-demands-cloud-outlook-for-strait-of-hormuz?traffic_source=rss",
+   "published": "2026-08-10T03:24:38+00:00",
+   "summary": "Brent crude prices rise as Tehran says critical waterway will not reopen without major US concessions.",
+   "tags": [
+    "shipping",
+    "oil"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Houthis launch fresh ballistic missile and drone attacks on al-Makha port",
@@ -568,17 +580,6 @@
    "url": "https://www.aljazeera.com/news/2026/8/8/serbia-and-ukraine-pledge-closer-economic-ties-eye-free-trade-deal?traffic_source=rss",
    "published": "2026-08-08T17:05:17+00:00",
    "summary": "Serbia says it will help rebuild Ukrainian cities and provide aid as the two countries deepen cooperation.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Saudi-Pakistan-Turkiye pact: A new shield or strategic signal?",
-   "url": "https://www.aljazeera.com/news/2026/8/8/saudi-pakistan-turkiye-pact-a-new-shield-or-strategic-signal?traffic_source=rss",
-   "published": "2026-08-08T16:52:11+00:00",
-   "summary": "The agreement names no adversary, but analysts say Iran and its regional network are central to the thinking behind it.",
    "tags": [
     "diplomacy"
    ],
