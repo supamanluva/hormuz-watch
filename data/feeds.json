@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-10T00:33:00.889637+00:00",
+ "asOf": "2026-08-10T01:13:00.426819+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Houthis renew missile and drone attacks on Yemen’s port of al-Makha",
+   "url": "https://www.aljazeera.com/news/2026/8/10/houthis-renew-missile-and-drone-attacks-on-yemens-port-of-al-makha?traffic_source=rss",
+   "published": "2026-08-10T00:19:43+00:00",
+   "summary": "The latest Houthi attacks come less than 24 hours after an earlier barrage struck al-Makha (Mocha) and its commercial port.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Iran war live: US ‘semi-negotiating’ with Tehran; Israel rejects Gaza plan",
@@ -605,17 +616,6 @@
    "tags": [
     "strikes",
     "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iraq’s Kurdish region wants to stay out of regional conflicts: PM Barzani",
-   "url": "https://www.aljazeera.com/news/2026/8/8/iraqs-kurdish-region-wants-to-stay-out-of-regional-conflicts-pm-barzani?traffic_source=rss",
-   "published": "2026-08-08T14:58:42+00:00",
-   "summary": "In an interview with Al Jazeera, Masrour Barzani denies any &#039;pressure&#039; to enter the Iran war despite over 1,000 attacks.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   }
