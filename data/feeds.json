@@ -1,6 +1,15 @@
 {
- "asOf": "2026-08-10T15:13:11.889044+00:00",
+ "asOf": "2026-08-10T15:44:43.601391+00:00",
  "items": [
+  {
+   "source": "UN Press",
+   "title": "Security Council Press Statement on Yemen",
+   "url": "https://press.un.org/en/2026/sc16429.doc.htm",
+   "published": "2026-08-10T15:20:44+00:00",
+   "summary": "The following Security Council press statement was issued today by Council President Christina Markus Lassen (Denmark):",
+   "tags": [],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Indian police attack protesters seeking action over ‘exam irregularities’",
@@ -612,15 +621,6 @@
    "title": "[No Title] - Post from August 9, 2026",
    "url": "https://trumpstruth.org/statuses/40678",
    "published": "2026-08-09T02:22:00+00:00",
-   "summary": "",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from August 9, 2026",
-   "url": "https://trumpstruth.org/statuses/40679",
-   "published": "2026-08-09T02:21:50+00:00",
    "summary": "",
    "tags": [],
    "highlight": true
