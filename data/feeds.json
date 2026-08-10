@@ -1,6 +1,27 @@
 {
- "asOf": "2026-08-10T11:42:49.762063+00:00",
+ "asOf": "2026-08-10T12:25:23.180137+00:00",
  "items": [
+  {
+   "source": "Trump · Truth Social",
+   "title": "This is big news! Lazy Senators don’t play well in Iowa. President DJTIowa Democrats’ U.S. Senate candidate has absentee problem, missed nearly 60% of legislative votes:",
+   "url": "https://trumpstruth.org/statuses/40700",
+   "published": "2026-08-10T12:09:15+00:00",
+   "summary": "This is big news! Lazy Senators don’t play well in Iowa. President DJT Iowa Democrats’ U.S. Senate candidate has absentee problem, missed nearly 60% of legislative votes: https:// justthenews.com/politics-polic y/elections/iowa-state-house-democrat-josh-turek-missed-nearly-60-votes-during-2026",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "‘Long-range sanctions’: Ukraine hopes strikes cause Russia fear and losses",
+   "url": "https://www.aljazeera.com/news/2026/8/10/long-range-sanctions-ukraine-hopes-strikes-cause-russia-fear-and-losses?traffic_source=rss",
+   "published": "2026-08-10T11:51:28+00:00",
+   "summary": "Al Jazeera is given rare access to one of Ukraine&#039;s long-range drone units tasked with targeting Russia.",
+   "tags": [
+    "strikes",
+    "sanctions"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Baqaei dismisses Netanyahu’s claim on Iran’s nuclear program as fabrication",
@@ -36,7 +57,7 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "Who is Mohsen Rezaei, and how significant is his appointment?",
+   "title": "How significant is Mohsen Rezaei’s appointment as Iran’s security chief?",
    "url": "https://www.aljazeera.com/news/2026/8/10/who-is-mohsen-rezaei-and-how-significant-is-his-appointment?traffic_source=rss",
    "published": "2026-08-10T10:11:48+00:00",
    "summary": "Former IRGC commander Rezaei will be taking over as secretary of Iran&#039;s top security body amid Hormuz talks.",
@@ -557,15 +578,6 @@
    "highlight": true
   },
   {
-   "source": "Trump · Truth Social",
-   "title": "Trump's Vegas Visit Hammers Tax Wins:",
-   "url": "https://trumpstruth.org/statuses/40683",
-   "published": "2026-08-09T02:20:58+00:00",
-   "summary": "Trump's Vegas Visit Hammers Tax Wins: https:// townhall.com/news/cameron-arca nd/2026/08/05/trumps-vegas-hit-hammers-tax-wins-n2680764",
-   "tags": [],
-   "highlight": true
-  },
-  {
    "source": "Al Jazeera",
    "title": "Israeli settler attacks rise as West Bank residents lose land",
    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/09-08-reported-nour-odeh-bethlehem?traffic_source=rss",
@@ -608,17 +620,6 @@
    "summary": "Government promises harsh response following explosives attack on Pan-American Highway in southwest of country.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Will Pakistan-Saudi-Turkiye defence pact change US strategy?",
-   "url": "https://www.aljazeera.com/news/2026/8/8/will-pakistan-saudi-turkiye-defence-pact-change-us-strategy?traffic_source=rss",
-   "published": "2026-08-08T21:28:12+00:00",
-   "summary": "Some experts say the deal precipitates a larger strategic shift in Middle East while others say it reinforces US goals.",
-   "tags": [
-    "diplomacy"
    ],
    "highlight": false
   }
