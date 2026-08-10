@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-10T17:30:41.789468+00:00",
+ "asOf": "2026-08-10T18:26:59.703686+00:00",
  "items": [
+  {
+   "source": "Trump · Truth Social",
+   "title": "Also, with respect to the Iran negotiations, Iran should be responsible for the damages and death caused to the people of Lebanon, Syria, Yemen, and Gaza! President DONALD J. TRUMP",
+   "url": "https://trumpstruth.org/statuses/40703",
+   "published": "2026-08-10T17:37:05+00:00",
+   "summary": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117072168149236615 Also, with respect to the Iran negotiations, Iran should be responsible for the damages and death caused to the people of Lebanon, Syria, Yemen, and Gaza! President DONALD J. TRUMP",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": true
+  },
   {
    "source": "UN Press",
    "title": "Activities of Secretary-General in Cyprus, 27-29 July",
@@ -12,10 +23,10 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "Colombia earthquake live: Magnitude 7.4 quake strikes near Bogota; 47 dead",
+   "title": "Colombia earthquake live: Magnitude 7.4 quake strikes near Bogota; 69 dead",
    "url": "https://www.aljazeera.com/news/liveblog/2026/8/10/colombia-earthquake-live-magnitude-7-4-quake-strikes-near-bogota-47-dead?traffic_source=rss",
    "published": "2026-08-10T17:00:41+00:00",
-   "summary": "Officials say at least 47 people have been killed in the quake, with some still trapped under rubble.",
+   "summary": "Officials say at least 69 people have been killed in the quake, with some still trapped under rubble.",
    "tags": [
     "strikes"
    ],
@@ -615,17 +626,6 @@
    "summary": "Yemeni army warns Houthis after attacks heighten escalation risk",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Araghchi: US violations must end before Iran-US talks can resume",
-   "url": "https://en.irna.ir/news/86231380/Araghchi-US-violations-must-end-before-Iran-US-talks-can-resume",
-   "published": "2026-08-09T10:09:22+00:00",
-   "summary": "Tehran, IRNA — Foreign Minister Abbas Araghchi says negotiations between Iran and the United States are currently not taking place, stressing that talks cannot resume until Washington ends its violation of commitments and compensates for those breaches.",
-   "tags": [
-    "diplomacy"
    ],
    "highlight": false
   }
