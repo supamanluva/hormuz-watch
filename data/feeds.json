@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-10T12:25:23.180137+00:00",
+ "asOf": "2026-08-10T12:48:15.750482+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Deputy Parliament speaker says Hormuz will not return to pre-war status",
+   "url": "https://en.irna.ir/news/86232538/Deputy-Parliament-speaker-says-Hormuz-will-not-return-to-pre-war",
+   "published": "2026-08-10T12:34:24+00:00",
+   "summary": "Tehran, IRNA – Deputy Parliament Speaker Ali Nikzad says that the Strait of Hormuz will not return to the conditions that existed before the war, adding that the United States and the Israeli regime have realized the hard way that there was no military solution to reopening the strategic waterway.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "This is big news! Lazy Senators don’t play well in Iowa. President DJTIowa Democrats’ U.S. Senate candidate has absentee problem, missed nearly 60% of legislative votes:",
@@ -609,17 +620,6 @@
    "summary": "US Vice President JD Vance claims Washington has “destroyed” Iran’s nuclear programme and degraded its military.",
    "tags": [
     "nuclear"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Car bomb attack rattles Colombia after inauguration of hardline president",
-   "url": "https://www.aljazeera.com/news/2026/8/8/car-bomb-attack-rattles-colombia-after-inauguration-of-hardline-president?traffic_source=rss",
-   "published": "2026-08-08T22:22:36+00:00",
-   "summary": "Government promises harsh response following explosives attack on Pan-American Highway in southwest of country.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   }
