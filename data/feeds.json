@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-10T08:04:06.336143+00:00",
+ "asOf": "2026-08-10T09:14:42.943062+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "North Korea’s hackers using AI for attacks, cybersecurity firm says",
+   "url": "https://www.aljazeera.com/economy/2026/8/10/north-koreas-hackers-using-ai-for-attacks-cybersecurity-firm-says?traffic_source=rss",
+   "published": "2026-08-10T07:59:04+00:00",
+   "summary": "Hacking group Kimsuky using AI-generated documents in spear-phishing attacks, South Korean cybersecurity firm says.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Trump signals shift to economic pressure on Iran over new military strikes",
@@ -573,17 +584,6 @@
    "summary": "US State Department accuses China of attempting to deny Filipino vessels access to fishing grounds in contested area.",
    "tags": [
     "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Yemen’s government forces attack Houthis amid renewed shelling of Marib",
-   "url": "https://www.aljazeera.com/news/2026/8/8/yemens-government-forces-attack-houthis-amid-renewed-shelling-of-marib?traffic_source=rss",
-   "published": "2026-08-08T18:43:20+00:00",
-   "summary": "Fears of a wider conflict grow as Yemen’s army counterattacks and expert warns ‘all the warning signs are there’.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   },
