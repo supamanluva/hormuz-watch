@@ -1,6 +1,29 @@
 {
- "asOf": "2026-08-10T09:14:42.943062+00:00",
+ "asOf": "2026-08-10T09:56:52.123978+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran, Oman continue talks on safe shipping route through Strait of Hormuz: FM spokesperson",
+   "url": "https://en.irna.ir/news/86232345/Iran-Oman-continue-talks-on-safe-shipping-route-through-Strait",
+   "published": "2026-08-10T09:47:08+00:00",
+   "summary": "Tehran, IRNA – Iran and Oman are continuing negotiations on a mechanism for safe navigation through the Strait of Hormuz, with the two sides yet to finalize a joint statement on the issue, Foreign Ministry spokesperson Esmaeil Baqaei says.",
+   "tags": [
+    "diplomacy",
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran parliament to decide fate of Caspian Sea convention: Foreign Ministry spokesperson",
+   "url": "https://en.irna.ir/news/86232282/Iran-parliament-to-decide-fate-of-Caspian-Sea-convention-Foreign",
+   "published": "2026-08-10T09:16:02+00:00",
+   "summary": "Tehran, IRNA — Iran’s Foreign Ministry spokesperson Esmail Baqaei has stressed that the country independently makes decisions on international agreements based on its national interests, saying the final decision on the Convention on the Legal Status of the Caspian Sea rests with the Iranian Parliament.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "North Korea’s hackers using AI for attacks, cybersecurity firm says",
@@ -595,29 +618,6 @@
    "summary": "Tehran, IRNA – Iran and Oman are close to an agreement on a temporary shipping route through the Strait of Hormuz, Foreign Minister Abbas Araghchi says, while cautioning that the reopening of the strategic waterway remains subject to other conditions.",
    "tags": [
     "diplomacy",
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran’s new governance of Strait of Hormuz is irreversible: Army spokesperson",
-   "url": "https://en.irna.ir/news/86230796/Iran-s-new-governance-of-Strait-of-Hormuz-is-irreversible-Army",
-   "published": "2026-08-08T16:27:14+00:00",
-   "summary": "Tehran, IRNA – The spokesperson for the Iranian Army says the United States has no choice but to accept the current situation in the Strait of Hormuz, emphasizing that the mechanism established by the Islamic Republic to control shipping through the strategic waterway is irreversible.",
-   "tags": [
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Strait of Hormuz will stay closed until US changes course: Iran’s security chief",
-   "url": "https://en.irna.ir/news/86230740/Strait-of-Hormuz-will-stay-closed-until-US-changes-course-Iran-s",
-   "published": "2026-08-08T15:13:11+00:00",
-   "summary": "Tehran, IRNA – Iran’s top security official says the Strait of Hormuz would not reopen until the United States changes its policies towards Tehran, laying out a list of conditions that includes an end to military aggression and sanctions against Iran.",
-   "tags": [
-    "sanctions",
     "shipping"
    ],
    "highlight": false
