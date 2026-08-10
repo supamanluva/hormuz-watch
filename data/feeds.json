@@ -1,5 +1,5 @@
 {
- "asOf": "2026-08-10T21:23:39.248364+00:00",
+ "asOf": "2026-08-10T21:43:18.268653+00:00",
  "items": [
   {
    "source": "IRNA (Iran state wire)",
@@ -10,6 +10,15 @@
    "tags": [
     "sanctions"
    ],
+   "highlight": false
+  },
+  {
+   "source": "White House",
+   "title": "Presidential Message on National Shooting Sports Month",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/08/presidential-message-on-national-shooting-sports-month-4561/",
+   "published": "2026-08-10T21:06:36+00:00",
+   "summary": "This National Shooting Sports Month, we celebrate America’s proud tradition of recreational shooting and hunting and the glorious exercise of our Second Amendment rights.&#160; For generations, this time-honored way of life has instilled discipline, promoted rugged individualism that drove American civilization west, and connected millions of Americans to the great outdoors.&#160; The right to kee",
+   "tags": [],
    "highlight": false
   },
   {
@@ -614,15 +623,6 @@
    "url": "https://trumpstruth.org/statuses/40687",
    "published": "2026-08-09T16:55:59+00:00",
    "summary": "Gary Player at Trump Turnberry!",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Hillary Clinton: “The world may not like Trump’s Gaza plan — but there is no alternative: If even I, an implacable opponent of the president, can accept this as the best option, then surely others can too?”",
-   "url": "https://trumpstruth.org/statuses/40686",
-   "published": "2026-08-09T16:51:51+00:00",
-   "summary": "Hillary Clinton: “The world may not like Trump’s Gaza plan — but there is no alternative: If even I, an implacable opponent of the president, can accept this as the best option, then surely others can too?” https://www. ft.com/content/2472e584-758b-4 a3f-83d1-9fba042a9312",
    "tags": [],
    "highlight": true
   }
