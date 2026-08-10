@@ -1,6 +1,51 @@
 {
- "asOf": "2026-08-10T09:56:52.123978+00:00",
+ "asOf": "2026-08-10T11:42:49.762063+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Baqaei dismisses Netanyahu’s claim on Iran’s nuclear program as fabrication",
+   "url": "https://en.irna.ir/news/86232385/Baqaei-dismisses-Netanyahu-s-claim-on-Iran-s-nuclear-program",
+   "published": "2026-08-10T11:11:22+00:00",
+   "summary": "Tehran, IRNA – Foreign Ministry spokesperson Esmaeil Baqaei has rejected Israeli Prime Minister Benjamin Netanyahu’s claim about the nature of Iran’s nuclear program as an outright fabrication, calling the allegation of an Iranian atomic bomb a lie that has been propagated for three decades.",
+   "tags": [
+    "nuclear"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "At least 13 killed in Ukrainian drone attack on Russia’s Nizhnekamsk",
+   "url": "https://www.aljazeera.com/news/2026/8/10/at-least-13-killed-in-ukrainian-drone-attack-on-russias-nizhnekamsk?traffic_source=rss",
+   "published": "2026-08-10T10:55:38+00:00",
+   "summary": "A day of mourning has been declared in the Russian republic of Tatarstan after the attack killed 13 people.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "US lacks moral or legal standing to demand reopening of Strait of Hormuz: Iran",
+   "url": "https://en.irna.ir/news/86232400/US-lacks-moral-or-legal-standing-to-demand-reopening-of-Strait",
+   "published": "2026-08-10T10:49:27+00:00",
+   "summary": "Tehran, IRNA — Foreign Ministry spokesperson Esmaeil Baqaei says Iran’s move to close the shipping through the Strait of Hormuz was in response to the continued US aggressive actions against the country, arguing that Washington has no moral or legal standing to demand the reopening of the strategic waterway.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Who is Mohsen Rezaei, and how significant is his appointment?",
+   "url": "https://www.aljazeera.com/news/2026/8/10/who-is-mohsen-rezaei-and-how-significant-is-his-appointment?traffic_source=rss",
+   "published": "2026-08-10T10:11:48+00:00",
+   "summary": "Former IRGC commander Rezaei will be taking over as secretary of Iran&#039;s top security body amid Hormuz talks.",
+   "tags": [
+    "diplomacy",
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Iran, Oman continue talks on safe shipping route through Strait of Hormuz: FM spokesperson",
@@ -574,51 +619,6 @@
    "summary": "Some experts say the deal precipitates a larger strategic shift in Middle East while others say it reinforces US goals.",
    "tags": [
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "What are the challenges facing the Mecca agreement?",
-   "url": "https://www.aljazeera.com/video/inside-story/2026/8/8/challenges-facing-mecca-agreement?traffic_source=rss",
-   "published": "2026-08-08T20:25:43+00:00",
-   "summary": "Saudi Arabia turns to Turkiye and Pakistan for defence ties, raising questions overreliance on the US.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "IRGC spokesman: Strait of Hormuz becomes strategic tool of power",
-   "url": "https://en.irna.ir/news/86230645/IRGC-spokesman-Strait-of-Hormuz-becomes-strategic-tool-of-power",
-   "published": "2026-08-08T19:28:03+00:00",
-   "summary": "Bandar Abbas, IRNA – Iran’s Islamic Revolution Guards Corps (IRGC) spokesperson Brigadier General Hossein Mohebbi says that the Strait of Hormuz has evolved beyond an economic passage into a strategic instrument of power and war amid changing patterns of modern conflicts.",
-   "tags": [
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "US slams Chinese ‘nature reserve’ as effort to claim South China Sea",
-   "url": "https://www.aljazeera.com/news/2026/8/8/us-slams-chinese-nature-reserve-as-effort-to-claim-south-china-sea?traffic_source=rss",
-   "published": "2026-08-08T18:57:53+00:00",
-   "summary": "US State Department accuses China of attempting to deny Filipino vessels access to fishing grounds in contested area.",
-   "tags": [
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran, Oman close to deal on temporary Strait of Hormuz shipping route: Araghchi",
-   "url": "https://en.irna.ir/news/86230808/Iran-Oman-close-to-deal-on-temporary-Strait-of-Hormuz-shipping",
-   "published": "2026-08-08T16:47:21+00:00",
-   "summary": "Tehran, IRNA – Iran and Oman are close to an agreement on a temporary shipping route through the Strait of Hormuz, Foreign Minister Abbas Araghchi says, while cautioning that the reopening of the strategic waterway remains subject to other conditions.",
-   "tags": [
-    "diplomacy",
-    "shipping"
    ],
    "highlight": false
   }
