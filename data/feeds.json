@@ -1,6 +1,30 @@
 {
- "asOf": "2026-08-11T04:36:41.193729+00:00",
+ "asOf": "2026-08-11T05:11:18.436518+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Huge fire breaks out at Libya’s Zawiya refinery after drone attack",
+   "url": "https://www.aljazeera.com/news/2026/8/11/huge-fire-breaks-out-at-libyas-zawiya-refinery-after-drone-attack?traffic_source=rss",
+   "published": "2026-08-11T04:37:27+00:00",
+   "summary": "National oil company warns it may halt operations at the country&#039;s largest operating refinery if drone attacks continue.",
+   "tags": [
+    "strikes",
+    "oil"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Fire rages after drone strikes Libya’s largest oil refinery",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/fire-rages-after-drone-strikes-libyas-largest-oil-refinery?traffic_source=rss",
+   "published": "2026-08-11T04:09:10+00:00",
+   "summary": "A drone attack ignited gasoline at Libya&#039;s Zawiya oil refinery, the country&#039;s largest operational facility.",
+   "tags": [
+    "strikes",
+    "oil"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Trump demands compensation from Iran as talks on Strait of Hormuz continue",
@@ -578,29 +602,6 @@
    "tags": [
     "diplomacy",
     "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran, Oman continue talks on safe shipping route through Strait of Hormuz: FM spokesperson",
-   "url": "https://en.irna.ir/news/86232345/Iran-Oman-continue-talks-on-safe-shipping-route-through-Strait",
-   "published": "2026-08-10T09:47:08+00:00",
-   "summary": "Tehran, IRNA – Iran and Oman are continuing negotiations on a mechanism for safe navigation through the Strait of Hormuz, with the two sides yet to finalize a joint statement on the issue, Foreign Ministry spokesperson Esmaeil Baqaei says.",
-   "tags": [
-    "diplomacy",
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran parliament to decide fate of Caspian Sea convention: Foreign Ministry spokesperson",
-   "url": "https://en.irna.ir/news/86232282/Iran-parliament-to-decide-fate-of-Caspian-Sea-convention-Foreign",
-   "published": "2026-08-10T09:16:02+00:00",
-   "summary": "Tehran, IRNA — Iran’s Foreign Ministry spokesperson Esmail Baqaei has stressed that the country independently makes decisions on international agreements based on its national interests, saying the final decision on the Convention on the Legal Status of the Caspian Sea rests with the Iranian Parliament.",
-   "tags": [
-    "diplomacy"
    ],
    "highlight": false
   }
