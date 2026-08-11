@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-11T10:09:26.072996+00:00",
+ "asOf": "2026-08-11T10:43:07.786929+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Bangladesh and India battle to save cricket series after political turmoil",
+   "url": "https://www.aljazeera.com/sports/2026/8/11/bangladesh-and-india-battle-to-save-cricket-series-after-political-turmoil?traffic_source=rss",
+   "published": "2026-08-11T10:02:35+00:00",
+   "summary": "Bangladesh and India white-ball series under threat due to tensions that arose when Bangladeshi PM Hasina toppled.",
+   "tags": [
+    "oil"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Vietnam’s VinSpace announces deal with SpaceX to launch first satellite",
@@ -589,17 +600,6 @@
    "summary": "Iran gained leverage in Hormuz, but its neighbours are reshaping regional security to limit what Tehran can do with it.",
    "tags": [
     "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Jeff Bezos consortium nears deal to buy stake in Liverpool FC: Reports",
-   "url": "https://www.aljazeera.com/sports/2026/8/10/jeff-bezos-consortium-nears-deal-to-buy-stake-in-liverpool-fc-reports?traffic_source=rss",
-   "published": "2026-08-10T12:43:14+00:00",
-   "summary": "Investment reportedly values the club at about $5.9bn, making it one of the largest ever football club valuations.",
-   "tags": [
-    "diplomacy"
    ],
    "highlight": false
   }
