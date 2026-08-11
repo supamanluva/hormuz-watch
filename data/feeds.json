@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-11T09:45:13.096067+00:00",
+ "asOf": "2026-08-11T10:09:26.072996+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Vietnam’s VinSpace announces deal with SpaceX to launch first satellite",
+   "url": "https://www.aljazeera.com/economy/2026/8/11/vietnams-vinspace-announces-deal-with-spacex-to-launch-first-satellite?traffic_source=rss",
+   "published": "2026-08-11T09:43:11+00:00",
+   "summary": "Hanoi-based aerospace firm says it will partner with Elon Musk&#039;s rocket company to deploy satellites next year.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Ukraine’s 40-day campaign has not brought the war closer to an end",
@@ -589,17 +600,6 @@
    "summary": "Investment reportedly values the club at about $5.9bn, making it one of the largest ever football club valuations.",
    "tags": [
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Deputy Parliament speaker says Hormuz will not return to pre-war status",
-   "url": "https://en.irna.ir/news/86232538/Deputy-Parliament-speaker-says-Hormuz-will-not-return-to-pre-war",
-   "published": "2026-08-10T12:34:24+00:00",
-   "summary": "Tehran, IRNA – Deputy Parliament Speaker Ali Nikzad says that the Strait of Hormuz will not return to the conditions that existed before the war, adding that the United States and the Israeli regime have realized the hard way that there was no military solution to reopening the strategic waterway.",
-   "tags": [
-    "shipping"
    ],
    "highlight": false
   }
