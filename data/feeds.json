@@ -1,6 +1,15 @@
 {
- "asOf": "2026-08-11T19:12:52.993044+00:00",
+ "asOf": "2026-08-11T19:48:12.504892+00:00",
  "items": [
+  {
+   "source": "UN Press",
+   "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General",
+   "url": "https://press.un.org/en/2026/db260811.doc.htm",
+   "published": "2026-08-11T19:24:26+00:00",
+   "summary": "The West Bank is at the breaking point with Israeli settler violence reaching unprecedented levels, Deputy Special Coordinator for the Middle East Peace Process Ramiz Alakbarov warned today. So far this year, the UN has documented over 1,430 incidents, many of them deadly, impacting about 260 Palestinian communities.",
+   "tags": [],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "A GREAT new book out by Todd Starnes called, “The Golden Age: How Trump Saved America.” Everyone is raving about it!",
@@ -591,17 +600,6 @@
    "published": "2026-08-10T19:41:50+00:00",
    "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it&#160;is&#160;hereby ordered: Section 1. Purpose and Policy. Pursuant to the Presidential Memorandum of December 5, 2025 (Aligning United States Core Childhood Vaccine Recommendations with Best Practices from Peer, Developed Countries), the Department of Health and Human Services [&#8230;",
    "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General",
-   "url": "https://press.un.org/en/2026/db260810.doc.htm",
-   "published": "2026-08-10T19:22:55+00:00",
-   "summary": "Yemen faces a greater risk of renewed large-scale conflict than at any point since the UN-brokered truce of April 2022, Hans Grundberg, the Secretary-General’s Personal Envoy for Yemen, warns. Mr. Grundberg is engaging intensively with the Yemeni parties, regional actors and global partners on options for de-escalation.",
-   "tags": [
-    "diplomacy"
-   ],
    "highlight": false
   }
  ]
