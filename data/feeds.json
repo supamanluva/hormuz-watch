@@ -1,6 +1,40 @@
 {
- "asOf": "2026-08-11T13:36:47.090227+00:00",
+ "asOf": "2026-08-11T14:13:24.980558+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "‘Only job I know’: Philippine sailors return to sea despite wartime risks",
+   "url": "https://www.aljazeera.com/features/2026/8/11/only-job-i-know-philippine-sailors-return-to-sea-despite-wartime-risks?traffic_source=rss",
+   "published": "2026-08-11T14:06:09+00:00",
+   "summary": "Despite risks in the Strait of Hormuz and Black Sea, seafarers from the Philippines are still competing for jobs.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "What are Saudi Arabia, Turkiye and Pakistan’s joint military capabilities?",
+   "url": "https://www.aljazeera.com/news/2026/8/11/what-are-saudi-arabia-turkiye-and-pakistans-joint-military-capabilities?traffic_source=rss",
+   "published": "2026-08-11T13:47:50+00:00",
+   "summary": "The Mecca defence pact combines a top oil exporter, NATO&#039;s second-largest army and the only Muslim nuclear arsenal.",
+   "tags": [
+    "nuclear",
+    "oil"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Under Fire: Lebanon’s first responders | Al Jazeera Originals",
+   "url": "https://www.aljazeera.com/video/al-jazeera-documentaries/2026/8/11/aje-onl-or_lbn_paramedics-110826?traffic_source=rss",
+   "published": "2026-08-11T13:46:44+00:00",
+   "summary": "First responders in Lebanon risk their lives to save others even as Israeli attacks intensify around them.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Iran, US set new conditions during Hormuz talks: What does this mean?",
@@ -450,6 +484,15 @@
    "highlight": false
   },
   {
+   "source": "UN Press",
+   "title": "Security Council, 10207th Meeting (AM) Middle East",
+   "url": "https://press.un.org/en/blog/sc16430",
+   "published": "2026-08-10T20:40:29+00:00",
+   "summary": "At 10 a.m., the Security Council will hold a meeting on the Middle East, including the Palestinian question, its second in two weeks amid escalating violence in the West Bank affecting Palestinians and Israelis.",
+   "tags": [],
+   "highlight": false
+  },
+  {
    "source": "White House",
    "title": "Fact Sheet: President Donald J. Trump Delivers Gold Standard Childhood Vaccine Recommendations for Americans",
    "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-delivers-gold-standard-childhood-vaccine-recommendations-for-americans/",
@@ -557,49 +600,6 @@
    "summary": "Al-Burhan engaged in discreet consultations aiming to pave the way for a comprehensive Sudanese dialogue conference.",
    "tags": [
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "‘They need each other’: What’s behind the new Syria-Russia accord?",
-   "url": "https://www.aljazeera.com/news/2026/8/10/they-need-each-other-whats-behind-the-new-syria-russia-accord?traffic_source=rss",
-   "published": "2026-08-10T16:01:06+00:00",
-   "summary": "The Syrian-Russian agreement reflects a pragmatic approach redefining past alliances amid shifting geopolitics.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Oil prices, stocks surge as Hormuz closure drags on",
-   "url": "https://www.aljazeera.com/economy/2026/8/10/oil-prices-stocks-surge-as-hormuz-closure-drags-on?traffic_source=rss",
-   "published": "2026-08-10T15:45:39+00:00",
-   "summary": "US petrol prices dropped nine cents last week but could again surge if the strait closure continues, analysts warn.",
-   "tags": [
-    "shipping",
-    "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Security Council Press Statement on Yemen",
-   "url": "https://press.un.org/en/2026/sc16429.doc.htm",
-   "published": "2026-08-10T15:20:44+00:00",
-   "summary": "The following Security Council press statement was issued today by Council President Christina Markus Lassen (Denmark):",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Indian police attack protesters seeking action over ‘exam irregularities’",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/indian-police-attack-protesters-seeking-action-over-exam?traffic_source=rss",
-   "published": "2026-08-10T14:52:32+00:00",
-   "summary": "Indian police attack protesters seeking action over ‘exam irregularities’ in Jharkhand.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   }
