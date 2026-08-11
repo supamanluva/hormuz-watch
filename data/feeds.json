@@ -1,6 +1,19 @@
 {
- "asOf": "2026-08-11T12:24:55.831720+00:00",
+ "asOf": "2026-08-11T13:36:47.090227+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Iran, US set new conditions during Hormuz talks: What does this mean?",
+   "url": "https://www.aljazeera.com/news/2026/8/11/iran-us-set-new-conditions-during-hormuz-talks-what-does-this-mean?traffic_source=rss",
+   "published": "2026-08-11T12:27:15+00:00",
+   "summary": "Oil prices surge as talks stall over competing demands, hampering prospects for reopening crucial strait.",
+   "tags": [
+    "diplomacy",
+    "shipping",
+    "oil"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Pakistan’s Interior Minister leaves for Tehran for talks with Iranian officials",
@@ -587,17 +600,6 @@
    "summary": "Indian police attack protesters seeking action over ‘exam irregularities’ in Jharkhand.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "War on Iran: Phase II: Day 30",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/war-on-iran-phase-ii-day-30?traffic_source=rss",
-   "published": "2026-08-10T14:07:04+00:00",
-   "summary": "Donald Trump says the US is only ‘semi-negotiating’ with Iran.",
-   "tags": [
-    "diplomacy"
    ],
    "highlight": false
   }
