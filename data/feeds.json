@@ -1,6 +1,42 @@
 {
- "asOf": "2026-08-12T03:14:40.643944+00:00",
+ "asOf": "2026-08-12T05:03:24.655084+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Drone strikes power station near Libya’s largest oil refinery",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/drone-strikes-power-station-near-libyas-largest-oil-refinery?traffic_source=rss",
+   "published": "2026-08-12T04:13:34+00:00",
+   "summary": "A drone has struck a power station in Libya’s western city of Zawiya",
+   "tags": [
+    "strikes",
+    "oil"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Russia frees ex-US marine Gilman jailed since 2022",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/russia-frees-ex-us-marine-gilman-jailed-since-2022?traffic_source=rss",
+   "published": "2026-08-12T03:57:01+00:00",
+   "summary": "Russia has released former US marine Robert Gilman, who had been jailed since 2022 for attacking a police officer.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Oil prices rise as attacks dent hopes for Strait of Hormuz reopening",
+   "url": "https://www.aljazeera.com/economy/2026/8/12/oil-prices-rise-as-attacks-dent-hopes-for-strait-of-hormuz-reopening?traffic_source=rss",
+   "published": "2026-08-12T03:41:42+00:00",
+   "summary": "Brent crude climbs as renewed violence dampens hopes for a return to stability in energy markets.",
+   "tags": [
+    "strikes",
+    "shipping",
+    "oil"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Six killed in Houthi attack on Bab al-Mandeb ship, Yemen’s government says",
@@ -567,39 +603,6 @@
    "url": "https://www.aljazeera.com/opinions/2026/8/11/ukraines-40-day-campaign-has-not-brought-the-war-closer-to-an-end?traffic_source=rss",
    "published": "2026-08-11T08:13:31+00:00",
    "summary": "Kyiv is facing a brutal Russian response as its air defence missile stocks dwindle.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran condemns Israeli attacks on Lebanon, blames UNSC silence",
-   "url": "https://en.irna.ir/news/86233082/Iran-condemns-Israeli-attacks-on-Lebanon-blames-UNSC-silence",
-   "published": "2026-08-11T07:52:45+00:00",
-   "summary": "Tehran, IRNA – Iranian Foreign Ministry spokesperson Esmaeil Baqaei has strongly condemned recent Israeli attacks on southern Lebanon, saying the silence of the United Nations Security Council (UNSC) has encouraged further Israeli aggression.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Russian attacks kill six in Ukraine’s Zaporizhzhia",
-   "url": "https://www.aljazeera.com/news/2026/8/11/russian-attacks-kill-six-in-ukraines-zaporizhzhia?traffic_source=rss",
-   "published": "2026-08-11T07:07:51+00:00",
-   "summary": "A children&#039;s hospital has also been struck in Kyiv, according to Ukraine&#039;s state emergency service.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Yemen’s Houthis launch ballistic missile attacks on al-Makha and Marib",
-   "url": "https://www.aljazeera.com/news/2026/8/11/yemens-houthis-launch-ballistic-missile-attacks-on-al-makha-and-marib?traffic_source=rss",
-   "published": "2026-08-11T06:05:07+00:00",
-   "summary": "The latest attacks come just a day after Houthi rebels targeted al-Makha and its port, killing seven people.",
    "tags": [
     "strikes"
    ],
