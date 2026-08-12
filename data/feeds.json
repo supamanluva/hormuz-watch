@@ -1,6 +1,28 @@
 {
- "asOf": "2026-08-12T09:33:08.867334+00:00",
+ "asOf": "2026-08-12T10:45:28.828547+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "US failed to achieve all its stated objectives in war with Iran: IRGC spokesperson",
+   "url": "https://en.irna.ir/news/86234113/US-failed-to-achieve-all-its-stated-objectives-in-war-with-Iran",
+   "published": "2026-08-12T10:14:31+00:00",
+   "summary": "Tehran, IRNA – Islamic Revolution Guards Corps (IRGC) spokesperson Brigadier General Hossein Mohebbi says the United States failed to achieve all of its stated objectives in its war against Iran, reaching a point of desperation in less than 20 days and seeking intermediaries to negotiate an end to the conflict.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "‘The hardest mission of my life’: A rescuer’s loss in the Lebanon War",
+   "url": "https://www.aljazeera.com/video/al-jazeera-originals/2026/8/12/aje-onl-or_leb_paramedics_teaser-120826?traffic_source=rss",
+   "published": "2026-08-12T10:02:16+00:00",
+   "summary": "A Lebanon rescuer’s work is shaped by the daughter he lost in an Israeli attack on his station.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Iran, Pakistan stress expansion of trade, energy cooperation",
@@ -586,26 +608,6 @@
     "oil"
    ],
    "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Pakistan’s Interior Minister leaves for Tehran for talks with Iranian officials",
-   "url": "https://en.irna.ir/news/86233527/Pakistan-s-Interior-Minister-leaves-for-Tehran-for-talks-with",
-   "published": "2026-08-11T11:54:11+00:00",
-   "summary": "Islamabad, IRNA — Pakistan’s Interior Minister Senator Syed Mohsin Raza Naqvi left for Tehran hours ago to hold talks with officials of the Islamic Republic of Iran.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Obama’s Trump-Russia collusion report was corrupt from start: CIA review:",
-   "url": "https://trumpstruth.org/statuses/40729",
-   "published": "2026-08-11T11:32:21+00:00",
-   "summary": "Obama’s Trump-Russia collusion report was corrupt from start: CIA review: https:// nypost.com/2025/07/02/us-news/ obamas-trump-russia-collusion-report-was-corrupt-from-start-cia-review/",
-   "tags": [],
-   "highlight": true
   }
  ]
 }
