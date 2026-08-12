@@ -1,6 +1,48 @@
 {
- "asOf": "2026-08-12T12:48:23.768391+00:00",
+ "asOf": "2026-08-12T14:13:47.063180+00:00",
  "items": [
+  {
+   "source": "Trump · Truth Social",
+   "title": "Trey Gowdy wrote a GREAT new book, “THE SOUND OF REGRET,” which is flying off the shelves. Trey is a great writer (New York Times Bestselling Author!), among many other things. GET HIS BOOK N0W, he never disappoints! President DJT",
+   "url": "https://trumpstruth.org/statuses/40757",
+   "published": "2026-08-12T14:00:58+00:00",
+   "summary": "Trey Gowdy wrote a GREAT new book, “THE SOUND OF REGRET,” which is flying off the shelves. Trey is a great writer (New York Times Bestselling Author!), among many other things. GET HIS BOOK N0W, he never disappoints! President DJT",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "‘Burn in hell’: Israeli settlers spread hate through graffiti, attacks",
+   "url": "https://www.aljazeera.com/features/2026/8/12/burn-in-hell-israeli-settlers-spread-hate-through-graffiti-attacks?traffic_source=rss",
+   "published": "2026-08-12T13:58:02+00:00",
+   "summary": "Racist settler graffiti on West Bank homes and schools reveals a brazen ideological drive for Palestinian displacement.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Sudanese army intercepts RSF drones over el-Obeid",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/12-08-sv-sudan-intercepts-rsf-drones-su?traffic_source=rss",
+   "published": "2026-08-12T13:29:29+00:00",
+   "summary": "Sudanese army air defenses reportedly intercepted drones launched by the Rapid Support Forces (RSF) over el-Obeid.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Why has North Korea fired a missile ahead of US-South Korea drills?",
+   "url": "https://www.aljazeera.com/news/2026/8/12/why-has-north-korea-fired-a-missile-ahead-of-us-south-korea-drills?traffic_source=rss",
+   "published": "2026-08-12T13:10:14+00:00",
+   "summary": "Pyongyang has repeatedly condemned US–South Korea military drills, claiming they are a &#039;rehearsal for invasion&#039;.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "[No Title] - Post from August 12, 2026",
@@ -561,48 +603,6 @@
    "published": "2026-08-11T17:12:18+00:00",
    "summary": "The following statement was issued today by the Spokesman for UN Secretary-General António Guterres:",
    "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Remember Victims of Terrorism Responsibly, Never Exploit Their Stories to Sow More Hate, Secretary-General Urges in Observance Message",
-   "url": "https://press.un.org/en/2026/sgsm23238.doc.htm",
-   "published": "2026-08-11T16:19:11+00:00",
-   "summary": "Following is the text of UN Secretary-General António Guterres’ video message on the International Day of Remembrance of and Tribute to the Victims of Terrorism, observed on 21 August:",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "I am proud to announce that American Citizen Robert Gilman, a former United States Marine, is coming HOME! In a well known Media story, Robert was imprisoned in Russia in 2022, during the Biden Administration. After my discussions with President Vladimir Putin, Russia has agreed to release him, very much on a Humanitarian Basis. We appreciate this decision, and the fact that Russia asked for no one in return — No exchange took place. Robert will land at Andrews Air Force Base, in Washington, D.C., tonight, where my Representatives, some of whom are on the plane with him, will welcome Robert back to THE UNITED STATES OF AMERICA! I just spoke to him, and he had one request — A GREAT cheeseburger when he lands. I will take care of that! During my Administration, we have prioritized bringing home Americans Detained Abroad, and have done so at a level never seen before, returning hundreds of people to their families. We have also freed many non Americans who were under capture in different countries throughout the World. Robert Gilman has been reunited with his wonderful mother, Nancy, who is also on the plane with him, and will soon get to see all of his loved ones. Thank you to my incredible Team, including Special Envoy for Peace Missions, Steve Witkoff, Special Envoy for Hostage Response, Adam Boehler, Senior Director for Counterterrorism, Sebastian Gorka, Jared Kushner, and the many others who made this possible. GOD BLESS AMERICA! President DONALD J. TRUMP",
-   "url": "https://trumpstruth.org/statuses/40732",
-   "published": "2026-08-11T16:10:14+00:00",
-   "summary": "I am proud to announce that American Citizen Robert Gilman, a former United States Marine, is coming HOME! In a well known Media story, Robert was imprisoned in Russia in 2022, during the Biden Administration. After my discussions with President Vladimir Putin, Russia has agreed to release him, very much on a Humanitarian Basis. We appreciate this decision, and the fact that Russia asked for no on",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": true
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Pakistan Interior Minister arrives in Tehran for talks",
-   "url": "https://en.irna.ir/news/86233662/Pakistan-Interior-Minister-arrives-in-Tehran-for-talks",
-   "published": "2026-08-11T15:01:18+00:00",
-   "summary": "Tehran, IRNA – Pakistan’s Interior Minister Mohsin Naqvi arrives in Tehran, where he will be received by his Iranian counterpart for talks on bilateral issues and matters of mutual interest.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "‘Only job I know’: Philippine sailors return to sea despite wartime risks",
-   "url": "https://www.aljazeera.com/features/2026/8/11/only-job-i-know-philippine-sailors-return-to-sea-despite-wartime-risks?traffic_source=rss",
-   "published": "2026-08-11T14:06:09+00:00",
-   "summary": "Despite risks in the Strait of Hormuz and Black Sea, seafarers from the Philippines are still competing for jobs.",
-   "tags": [
-    "shipping"
-   ],
    "highlight": false
   }
  ]
