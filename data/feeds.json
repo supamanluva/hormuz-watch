@@ -1,6 +1,39 @@
 {
- "asOf": "2026-08-12T06:55:16.020110+00:00",
+ "asOf": "2026-08-12T08:12:54.841242+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Three killed in overnight attacks on Russian, Ukrainian port cities",
+   "url": "https://www.aljazeera.com/news/2026/8/12/three-killed-in-overnight-attacks-on-russian-ukrainian-port?traffic_source=rss",
+   "published": "2026-08-12T07:49:22+00:00",
+   "summary": "Russia&#039;s Novorossiysk &#039;endured a horrific night&#039;, with a child killed and dozens of buildings damaged, says local mayor.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Trump says his decoy plane faced ‘greater risk’ in secret flight change",
+   "url": "https://www.aljazeera.com/news/2026/8/12/trump-says-his-decoy-plane-faced-greater-risk-in-secret-flight-change?traffic_source=rss",
+   "published": "2026-08-12T07:31:15+00:00",
+   "summary": "Air Force One was still carrying journalists and top aides, who remained at apparent risk of an Iranian strike.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Autism and war: Gaza families grapple with destruction and loss",
+   "url": "https://www.aljazeera.com/features/2026/8/12/autism-and-war-gaza-families-grapple-with-destruction-and-loss?traffic_source=rss",
+   "published": "2026-08-12T07:27:42+00:00",
+   "summary": "Continuous bombing disrupts routines, causing sensory shocks and behavioural relapses in Gaza&#039;s autistic children.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Drone strikes power station near Libya’s largest oil refinery",
@@ -238,9 +271,8 @@
    "title": "Iran war live: Trump claims US in ‘total control’ of Strait of Hormuz",
    "url": "https://www.aljazeera.com/news/liveblog/2026/8/12/iran-war-live-us-fires-missiles-at-cargo-ship-violating-iran-blockade?traffic_source=rss",
    "published": "2026-08-12T00:00:00+00:00",
-   "summary": "Qatar says negotiations between Oman, Iran over future of shipping through Strait of Hormuz are making major progress.",
+   "summary": "US forces disable a Panama-flagged cargo ship attempting to sail towards an Iranian port.",
    "tags": [
-    "diplomacy",
     "shipping"
    ],
    "highlight": false
@@ -570,39 +602,6 @@
    "url": "https://www.aljazeera.com/news/2026/8/11/palestine-weekly-netanyahu-hedges-on-gaza-roadmap?traffic_source=rss",
    "published": "2026-08-11T11:28:05+00:00",
    "summary": "Attacks in Gaza slowed sharply this week even as Netanyahu publicly rejected Trump&#039;s 15-point peace plan.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Bangladesh and India battle to save cricket series after political turmoil",
-   "url": "https://www.aljazeera.com/sports/2026/8/11/bangladesh-and-india-battle-to-save-cricket-series-after-political-turmoil?traffic_source=rss",
-   "published": "2026-08-11T10:02:35+00:00",
-   "summary": "Bangladesh and India white-ball series under threat due to tensions that arose when Bangladeshi PM Hasina toppled.",
-   "tags": [
-    "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Vietnam’s VinSpace announces deal with SpaceX to launch first satellite",
-   "url": "https://www.aljazeera.com/economy/2026/8/11/vietnams-vinspace-announces-deal-with-spacex-to-launch-first-satellite?traffic_source=rss",
-   "published": "2026-08-11T09:43:11+00:00",
-   "summary": "Hanoi-based aerospace firm says it will partner with Elon Musk&#039;s rocket company to deploy satellites next year.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Ukraine’s 40-day campaign has not brought the war closer to an end",
-   "url": "https://www.aljazeera.com/opinions/2026/8/11/ukraines-40-day-campaign-has-not-brought-the-war-closer-to-an-end?traffic_source=rss",
-   "published": "2026-08-11T08:13:31+00:00",
-   "summary": "Kyiv is facing a brutal Russian response as its air defence missile stocks dwindle.",
    "tags": [
     "strikes"
    ],
