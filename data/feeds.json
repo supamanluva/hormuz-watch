@@ -1,6 +1,18 @@
 {
- "asOf": "2026-08-12T10:45:28.828547+00:00",
+ "asOf": "2026-08-12T11:09:38.888229+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Iran refutes Trump’s claim to ‘control’ Hormuz: What’s the latest in talks?",
+   "url": "https://www.aljazeera.com/news/2026/8/12/iran-refutes-trumps-claim-to-control-hormuz-whats-the-latest-in-talks?traffic_source=rss",
+   "published": "2026-08-12T10:27:22+00:00",
+   "summary": "Iran says Hormuz stays closed until US meets its demands and changes its &#039;behaviour&#039; as global energy prices rise.",
+   "tags": [
+    "diplomacy",
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "US failed to achieve all its stated objectives in war with Iran: IRGC spokesperson",
@@ -593,19 +605,6 @@
    "summary": "First responders in Lebanon risk their lives to save others even as Israeli attacks intensify around them.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iran, US set new conditions during Hormuz talks: What does this mean?",
-   "url": "https://www.aljazeera.com/news/2026/8/11/iran-us-set-new-conditions-during-hormuz-talks-what-does-this-mean?traffic_source=rss",
-   "published": "2026-08-11T12:27:15+00:00",
-   "summary": "Oil prices surge as talks stall over competing demands, hampering prospects for reopening crucial strait.",
-   "tags": [
-    "diplomacy",
-    "shipping",
-    "oil"
    ],
    "highlight": false
   }
