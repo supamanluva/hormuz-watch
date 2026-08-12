@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-12T08:50:35.810703+00:00",
+ "asOf": "2026-08-12T09:33:08.867334+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran, Pakistan stress expansion of trade, energy cooperation",
+   "url": "https://en.irna.ir/news/86234020/Iran-Pakistan-stress-expansion-of-trade-energy-cooperation",
+   "published": "2026-08-12T08:55:55+00:00",
+   "summary": "Tehran, IRNA – Iranian Oil Minister Mohsen Paknejad and Pakistan’s Interior Minister Syed Mohsin Raza Naqvi have emphasized the need to expand bilateral trade and economic exchanges, particularly in the energy sector.",
+   "tags": [
+    "oil"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Wildberries under fire: Why is Ukraine targeting a Russian retail giant?",
@@ -14,7 +25,7 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "Three killed in overnight attacks on Russian, Ukrainian port cities",
+   "title": "Four killed in overnight attacks in southern Russia, Ukraine",
    "url": "https://www.aljazeera.com/news/2026/8/12/three-killed-in-overnight-attacks-on-russian-ukrainian-port?traffic_source=rss",
    "published": "2026-08-12T07:49:22+00:00",
    "summary": "Russia&#039;s Novorossiysk &#039;endured a horrific night&#039;, with a child killed and dozens of buildings damaged, says local mayor.",
@@ -595,17 +606,6 @@
    "summary": "Obama’s Trump-Russia collusion report was corrupt from start: CIA review: https:// nypost.com/2025/07/02/us-news/ obamas-trump-russia-collusion-report-was-corrupt-from-start-cia-review/",
    "tags": [],
    "highlight": true
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "‘New level of danger’: Drone incidents scare Europe amid Russia-Ukraine war",
-   "url": "https://www.aljazeera.com/news/2026/8/11/new-level-of-danger-drone-incidents-scare-europe-amid-russia-ukraine-war?traffic_source=rss",
-   "published": "2026-08-11T11:30:48+00:00",
-   "summary": "After a drone crashes in Germany, fears of suspected Russian operations rise across Europe.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
   }
  ]
 }
