@@ -1,6 +1,15 @@
 {
- "asOf": "2026-08-12T18:08:17.081208+00:00",
+ "asOf": "2026-08-12T19:13:05.540871+00:00",
  "items": [
+  {
+   "source": "UN Press",
+   "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General",
+   "url": "https://press.un.org/en/2026/db260812.doc.htm",
+   "published": "2026-08-12T18:27:38+00:00",
+   "summary": "Since the Taliban takeover in August 2021, Afghanistan has systematically dismantled the rights of women — half its population — making it a global outlier with no parallel in the modern world, UN-Women reports. Half of Afghan women interviewed leave home only once or twice a month due to severe restrictions.",
+   "tags": [],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Drought exposes Nazi-era warship wrecks beneath the Danube",
@@ -102,7 +111,7 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "Why has North Korea fired a missile ahead of US-South Korea drills?",
+   "title": "Why has North Korea fired a missile before US-South Korea drills?",
    "url": "https://www.aljazeera.com/news/2026/8/12/why-has-north-korea-fired-a-missile-ahead-of-us-south-korea-drills?traffic_source=rss",
    "published": "2026-08-12T13:10:14+00:00",
    "summary": "Pyongyang has repeatedly condemned US–South Korea military drills, claiming they are a &#039;rehearsal for invasion&#039;.",
@@ -599,18 +608,6 @@
    "published": "2026-08-11T18:54:04+00:00",
    "summary": "United Nations Secretary-General António Guterres announced today the appointment of Major General Jawwad Ahmed of Pakistan as the new Force Commander for the United Nations Mission for the Referendum in Western Sahara (MINURSO).",
    "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran envoy to IAEA meets FM to review nuclear diplomacy",
-   "url": "https://en.irna.ir/news/86233792/Iran-envoy-to-IAEA-meets-FM-to-review-nuclear-diplomacy",
-   "published": "2026-08-11T18:29:05+00:00",
-   "summary": "Tehran, IRNA – Iran ambassador and permanent representative to the UN office and international organizations in Vienna met with Foreign Minister Seyed Abbas Araghchi to discuss the latest diplomatic developments, with a particular focus on the IAEA Board of Governors.",
-   "tags": [
-    "diplomacy",
-    "nuclear"
-   ],
    "highlight": false
   }
  ]
