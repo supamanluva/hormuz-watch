@@ -1,6 +1,152 @@
 {
- "asOf": "2026-08-12T00:36:03.024416+00:00",
+ "asOf": "2026-08-12T02:11:05.207620+00:00",
  "items": [
+  {
+   "source": "Trump · Truth Social",
+   "title": "RT @realDonaldTrump",
+   "url": "https://trumpstruth.org/statuses/40751",
+   "published": "2026-08-12T01:58:24+00:00",
+   "summary": "RT @ realDonaldTrump",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "[No Title] - Post from August 12, 2026",
+   "url": "https://trumpstruth.org/statuses/40748",
+   "published": "2026-08-12T01:49:19+00:00",
+   "summary": "",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "[No Title] - Post from August 12, 2026",
+   "url": "https://trumpstruth.org/statuses/40749",
+   "published": "2026-08-12T01:49:11+00:00",
+   "summary": "",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "[No Title] - Post from August 12, 2026",
+   "url": "https://trumpstruth.org/statuses/40750",
+   "published": "2026-08-12T01:49:04+00:00",
+   "summary": "",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "RT @realDonaldTrump",
+   "url": "https://trumpstruth.org/statuses/40747",
+   "published": "2026-08-12T01:40:46+00:00",
+   "summary": "RT @ realDonaldTrump",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "[No Title] - Post from August 12, 2026",
+   "url": "https://trumpstruth.org/statuses/40740",
+   "published": "2026-08-12T01:39:47+00:00",
+   "summary": "",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "[No Title] - Post from August 12, 2026",
+   "url": "https://trumpstruth.org/statuses/40741",
+   "published": "2026-08-12T01:39:22+00:00",
+   "summary": "",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "[No Title] - Post from August 12, 2026",
+   "url": "https://trumpstruth.org/statuses/40742",
+   "published": "2026-08-12T01:39:13+00:00",
+   "summary": "",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "[No Title] - Post from August 12, 2026",
+   "url": "https://trumpstruth.org/statuses/40743",
+   "published": "2026-08-12T01:39:05+00:00",
+   "summary": "",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "[No Title] - Post from August 12, 2026",
+   "url": "https://trumpstruth.org/statuses/40744",
+   "published": "2026-08-12T01:38:54+00:00",
+   "summary": "",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "[No Title] - Post from August 12, 2026",
+   "url": "https://trumpstruth.org/statuses/40745",
+   "published": "2026-08-12T01:38:44+00:00",
+   "summary": "",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "[No Title] - Post from August 12, 2026",
+   "url": "https://trumpstruth.org/statuses/40746",
+   "published": "2026-08-12T01:38:36+00:00",
+   "summary": "",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "[No Title] - Post from August 12, 2026",
+   "url": "https://trumpstruth.org/statuses/40739",
+   "published": "2026-08-12T01:25:21+00:00",
+   "summary": "",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "[No Title] - Post from August 12, 2026",
+   "url": "https://trumpstruth.org/statuses/40737",
+   "published": "2026-08-12T01:16:36+00:00",
+   "summary": "",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "[No Title] - Post from August 12, 2026",
+   "url": "https://trumpstruth.org/statuses/40738",
+   "published": "2026-08-12T01:16:36+00:00",
+   "summary": "",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "N Korea launches ballistic missile as S Korea, US plan military drills",
+   "url": "https://www.aljazeera.com/news/2026/8/12/n-korea-launches-ballistic-missile-as-s-korea-us-plan-military-drills?traffic_source=rss",
+   "published": "2026-08-12T00:39:53+00:00",
+   "summary": "Pyongyang conducts second weapons test in less than a week as Seoul, Washington gear up for annual military exercises.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "[No Title] - Post from August 12, 2026",
@@ -12,12 +158,13 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "Iran war live: US fires missiles at cargo ship violating Iran blockade",
+   "title": "Iran war live: Trump claims US in ‘total control’ of Strait of Hormuz",
    "url": "https://www.aljazeera.com/news/liveblog/2026/8/12/iran-war-live-us-fires-missiles-at-cargo-ship-violating-iran-blockade?traffic_source=rss",
    "published": "2026-08-12T00:00:00+00:00",
-   "summary": "US forces disable a Panama-flagged cargo ship attempting to sail towards an Iranian port.",
+   "summary": "Qatar says negotiations between Oman, Iran over future of shipping through Strait of Hormuz are making major progress.",
    "tags": [
-    "strikes"
+    "diplomacy",
+    "shipping"
    ],
    "highlight": false
   },
@@ -460,157 +607,6 @@
     "oil"
    ],
    "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Trump demands compensation from Iran as talks on Strait of Hormuz continue",
-   "url": "https://www.aljazeera.com/news/2026/8/11/trump-demands-compensation-from-iran-as-talks-on-strait-of-hormuz-continue?traffic_source=rss",
-   "published": "2026-08-11T02:32:47+00:00",
-   "summary": "US president seeks payment for &#039;50 years&#039; of alleged damages after Iran conditions opening of Hormuz on war reparations.",
-   "tags": [
-    "diplomacy",
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Chandler Hall, representing, on Television, the foolish Center for American Lack of Progress, stated that adding the National Guard to Cities, including our now Great Again, Washington, D.C., had “NO impact on Crime.” How crazy is that. Hall was met with furious dissent. The report is just another Radical Left SCAM, as are the people who fund this gaggle of Lunatics, including George Soros, Bill and Melinda Gates, Google, Apple, Visa, Goldman Sachs, Citigroup, WellsFargo, Bank of America, Walmart, Toyota, T-Mobile, and NBC Universal. Foreign support includes the Embassy of Japan, the Korea Foundation, Taipei Economic and Cultural Representative Office (Taiwan), and the Embassy of the United Arab Emirates. The Dumocrats love it, and are against anything “TRUMP.” These people, and others like them, are so bad for our Country. Their stated course is anything to hate or demean “TRUMP.” This will be met with a lawsuit, which is being drawn now. I am also strongly considering adding some of the contributors to this Fake Organization. Crime is way down since I took Office, and they know it. Liars, at this level, must be held accountable! President DONALD J. TRUMP",
-   "url": "https://trumpstruth.org/statuses/40727",
-   "published": "2026-08-11T02:31:44+00:00",
-   "summary": "Chandler Hall, representing, on Television, the foolish Center for American Lack of Progress, stated that adding the National Guard to Cities, including our now Great Again, Washington, D.C., had “NO impact on Crime.” How crazy is that. Hall was met with furious dissent. The report is just another Radical Left SCAM, as are the people who fund this gaggle of Lunatics, including George Soros, Bill a",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Great news for our Country! Supreme Court Justice Samuel Alito has announced that he is staying for another Term. He is one of the Greatest of All Time. We are all lucky! President DONALD J. TRUMP",
-   "url": "https://trumpstruth.org/statuses/40726",
-   "published": "2026-08-11T02:17:04+00:00",
-   "summary": "Great news for our Country! Supreme Court Justice Samuel Alito has announced that he is staying for another Term. He is one of the Greatest of All Time. We are all lucky! President DONALD J. TRUMP",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "FIFA would be making a terrible mistake if, for any reason, they even considered replacing President Gianni Infantino. He is fantastic, having just presided over the most successful World Cup, by four times, ever presented. If he is gone, it will never be as successful or profitable again! Thank you for your attention to this matter. President DJT",
-   "url": "https://trumpstruth.org/statuses/40725",
-   "published": "2026-08-11T01:31:23+00:00",
-   "summary": "FIFA would be making a terrible mistake if, for any reason, they even considered replacing President Gianni Infantino. He is fantastic, having just presided over the most successful World Cup, by four times, ever presented. If he is gone, it will never be as successful or profitable again! Thank you for your attention to this matter. President DJT",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from August 11, 2026",
-   "url": "https://trumpstruth.org/statuses/40723",
-   "published": "2026-08-11T00:25:33+00:00",
-   "summary": "",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "With great golfer, winner of 158 tournaments, 9 Majors, and 9 Senior Majors, Gary Player!",
-   "url": "https://trumpstruth.org/statuses/40724",
-   "published": "2026-08-11T00:25:23+00:00",
-   "summary": "With great golfer, winner of 158 tournaments, 9 Majors, and 9 Senior Majors, Gary Player!",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from August 11, 2026",
-   "url": "https://trumpstruth.org/statuses/40721",
-   "published": "2026-08-11T00:21:47+00:00",
-   "summary": "",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from August 11, 2026",
-   "url": "https://trumpstruth.org/statuses/40722",
-   "published": "2026-08-11T00:21:21+00:00",
-   "summary": "",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iran war live: Trump claims Hormuz Strait open, seeks Iranian compensation",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/8/11/iran-war-live-trump-claims-the-strait-is-open-seeks-iranian-compensation?traffic_source=rss",
-   "published": "2026-08-11T00:00:00+00:00",
-   "summary": "US President Donald Trump said he will seek compensation from Iran for casualties in the war.",
-   "tags": [
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Inside a secret launch site for Ukraine’s deep-strike drones",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/aje-onl-nf_secret-launch-site-for-ukraines-deep-strike-drone-100826?traffic_source=rss",
-   "published": "2026-08-10T23:18:53+00:00",
-   "summary": "AJ&#039;s Audrey MacAlpine reports from a secret launch site in eastern Ukraine, where soldiers prepare long-range drones.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "It was my Honor to welcome now Senator Darline Graham Nordone (The sister of the Late, Great Lindsey Graham!), from the Wonderful State of South Carolina, into the Oval Office. We have known each other for a long time — She is a spectacular person, and a true American Patriot. Lindsey was one of the greatest people and Senators I have ever known, and his sister shares his deep love of our Country, and the State of South Carolina. During her visit, I asked Darline, for the Good of our Nation, to run for the U.S. Senate in the Special Republican Primary on Tuesday, August 11, 2026. She accepted, as there is nobody better to honor the legacy of her beloved brother, Lindsey. Darline, who comes from an absolutely incredible family, has been a WINNER all of her life, and has my Complete and Total Endorsement in the Special Election for U.S. Senate in South Carolina. GET OUT AND VOTE FOR DARLINE — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP Find your Voting Location here:",
-   "url": "https://trumpstruth.org/statuses/40713",
-   "published": "2026-08-10T23:10:54+00:00",
-   "summary": "It was my Honor to welcome now Senator Darline Graham Nordone (The sister of the Late, Great Lindsey Graham!), from the Wonderful State of South Carolina, into the Oval Office. We have known each other for a long time — She is a spectacular person, and a true American Patriot. Lindsey was one of the greatest people and Senators I have ever known, and his sister shares his deep love of our Country,",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Congressman Barry Moore, an America First Patriot who has been with me from the very beginning (He was the first Elected Official in the Country to Endorse me!), is running for the United States Senate in Alabama, a place I love and WON BIG in 2016, 2020, and 2024, getting the Highest Vote in that Great State’s History. A very successful Businessman, Civic Leader, and Highly Respected State Legislator prior to becoming a distinguished Congressman, Barry has dedicated his life to serving his Community. As your next Senator, Barry will continue to fight tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Champion American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Ensure LAW AND ORDER, Strengthen our Brave Military/Veterans, Safeguard our Elections, and Defend our always under siege Second Amendment. Barry Moore is a good friend, fighter, and WINNER, and has my Complete and Total Endorsement to be the next United States Senator from Alabama – HE WILL NEVER LET YOU DOWN!",
-   "url": "https://trumpstruth.org/statuses/40714",
-   "published": "2026-08-10T23:09:01+00:00",
-   "summary": "Congressman Barry Moore, an America First Patriot who has been with me from the very beginning (He was the first Elected Official in the Country to Endorse me!), is running for the United States Senate in Alabama, a place I love and WON BIG in 2016, 2020, and 2024, getting the Highest Vote in that Great State’s History. A very successful Businessman, Civic Leader, and Highly Respected State Legisl",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Highly Respected Senator, “Coach” Tommy Tuberville, is running for Governor of Alabama, a place I love and WON BIG, six times, including Primaries, in 2016, 2020, and 2024! A former SEC Championship winning College Football Coach, and now, as a Highly Respected U.S. Senator, Tommy has proven he has the Courage and Wisdom to deliver strong results for the incredible people of his wonderful State and Nation. He is a Lifelong Leader, both on and off the field — A true WINNER! As your next Governor, “Coach” will work tirelessly to Grow the Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Champion American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Ensure LAW AND ORDER, Strengthen our Military/Veterans, Safeguard our Elections, and Protect our always under siege Second Amendment. I was proud to endorse “Coach” when he ran for the Senate in 2020, and am honored to do so again. Tommy Tuberville has my Complete and Total Endorsement to be the next Governor of the Great State of Alabama — HE WILL NEVER LET YOU DOWN!",
-   "url": "https://trumpstruth.org/statuses/40715",
-   "published": "2026-08-10T23:08:55+00:00",
-   "summary": "Highly Respected Senator, “Coach” Tommy Tuberville, is running for Governor of Alabama, a place I love and WON BIG, six times, including Primaries, in 2016, 2020, and 2024! A former SEC Championship winning College Football Coach, and now, as a Highly Respected U.S. Senator, Tommy has proven he has the Courage and Wisdom to deliver strong results for the incredible people of his wonderful State an",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "It is my Great Honor to endorse America First Patriot, Jerry Carl, who is running to represent the wonderful people of Alabama’s 1st Congressional District! A Highly Respected Legislator, and Successful Businessman, Jerry has been an incredible Voice for MAGA, and has been with me from the very beginning! In Congress, he will fight tirelessly to Grow our Economy, Support our Amazing Farmers and Ranchers, Cut Taxes and Regulations, Unleash American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Champion our Military/Veterans, Safeguard our Elections, and Defend our always under siege Second Amendment. Jerry Carl has my Complete and Total Endorsement to, once again, be the Representative of Alabama’s 1st Congressional District. Election Day is Tuesday, August 11th. GET OUT AND VOTE FOR JERRY — HE WILL NEVER LET YOU DOWN! Find your Voting Location here:",
-   "url": "https://trumpstruth.org/statuses/40716",
-   "published": "2026-08-10T23:07:25+00:00",
-   "summary": "It is my Great Honor to endorse America First Patriot, Jerry Carl, who is running to represent the wonderful people of Alabama’s 1st Congressional District! A Highly Respected Legislator, and Successful Businessman, Jerry has been an incredible Voice for MAGA, and has been with me from the very beginning! In Congress, he will fight tirelessly to Grow our Economy, Support our Amazing Farmers and Ra",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "It is my Great Honor to endorse America First Patriot, Rhett Marques, who is running to represent the wonderful people of Alabama’s 2nd Congressional District. Rhett is strongly supported by many of the Greatest MAGA Warriors in Alabama, including my friend, U.S. Senator Katie Britt, among others! A Highly Respected State Representative, Businessman, and Civic Leader, prior to running for Congress, Rhett has dedicated his life to serving his Community. As your next Congressman, he will fight tirelessly to Grow our Economy, Champion our Farmers and American Agriculture, Cut Taxes and Regulations, Unleash American Energy DOMINANCE, Promote MADE IN THE U.S.A., Keep our Border SECURE, Stop Migrant Crime, Strengthen our Military/Veterans, Advance Election Integrity, and Defend our always under siege Second Amendment. Rhett Marques has my Complete and Total Endorsement to be the next Representative from Alabama’s 2nd Congressional District. Election Day is Tuesday, August 11th. GET OUT AND VOTE FOR RHETT — HE WILL NEVER LET YOU DOWN! Find your Voting Location here:",
-   "url": "https://trumpstruth.org/statuses/40717",
-   "published": "2026-08-10T23:07:04+00:00",
-   "summary": "It is my Great Honor to endorse America First Patriot, Rhett Marques, who is running to represent the wonderful people of Alabama’s 2nd Congressional District. Rhett is strongly supported by many of the Greatest MAGA Warriors in Alabama, including my friend, U.S. Senator Katie Britt, among others! A Highly Respected State Representative, Businessman, and Civic Leader, prior to running for Congress",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Congressman Gary Palmer is doing a fantastic job representing the incredible people of Alabama’s 6th Congressional District! Gary is a Conservative Warrior who has strong support from his Community. In Congress, he is working hard to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Advance Election Integrity, Keep our Border SECURE, Stop Migrant Crime, Strengthen our Military/Veterans, and Protect our always under siege Second Amendment. Gary Palmer has my Complete and Total Endorsement for Re-Election. Election Day is Tuesday, August 11th. GET OUT AND VOTE FOR GARY — HE WILL NEVER LET YOU DOWN! Find your Voting Location here:",
-   "url": "https://trumpstruth.org/statuses/40718",
-   "published": "2026-08-10T23:06:48+00:00",
-   "summary": "Congressman Gary Palmer is doing a fantastic job representing the incredible people of Alabama’s 6th Congressional District! Gary is a Conservative Warrior who has strong support from his Community. In Congress, he is working hard to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Advance Election Integrity, Keep our Border SECURE, Stop M",
-   "tags": [],
-   "highlight": true
   }
  ]
 }
