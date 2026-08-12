@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-12T11:09:38.888229+00:00",
+ "asOf": "2026-08-12T11:42:39.284165+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Putin warns of tit-for-tat seizures of European vessels",
+   "url": "https://www.aljazeera.com/news/2026/8/12/putin-warns-of-tit-for-tat-seizures-of-european-vessels?traffic_source=rss",
+   "published": "2026-08-12T11:11:26+00:00",
+   "summary": "If European states seize vessels with Russian cargo, Moscow will respond in kind &#039;wherever necessary&#039;, says Putin.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Iran refutes Trump’s claim to ‘control’ Hormuz: What’s the latest in talks?",
@@ -594,17 +605,6 @@
    "tags": [
     "nuclear",
     "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Under Fire: Lebanon’s first responders | Al Jazeera Originals",
-   "url": "https://www.aljazeera.com/video/al-jazeera-documentaries/2026/8/11/aje-onl-or_lbn_paramedics-110826?traffic_source=rss",
-   "published": "2026-08-11T13:46:44+00:00",
-   "summary": "First responders in Lebanon risk their lives to save others even as Israeli attacks intensify around them.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   }
