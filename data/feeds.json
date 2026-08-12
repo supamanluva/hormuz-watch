@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-12T16:43:47.835125+00:00",
+ "asOf": "2026-08-12T17:09:06.596040+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iranian FM holds talks with Pakistani interior minister in Mashhad",
+   "url": "https://en.irna.ir/news/86234335/Iranian-FM-holds-talks-with-Pakistani-interior-minister-in-Mashhad",
+   "published": "2026-08-12T16:53:05+00:00",
+   "summary": "Mashhad, IRNA – Iranian Foreign Minister Abbas Araghchi meets with Pakistani Interior Minister Syed Mohsin Naqvi in Mashhad, holding talks as the Pakistani official visits the city to pay homage at the holy shrine of Imam Reza (AS).",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Is Russia’s economy cracking despite the Iran war windfall?",
@@ -600,15 +611,6 @@
     "diplomacy",
     "nuclear"
    ],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "ICYMI: “Violent crime keeps falling in biggest U.S. cities”",
-   "url": "https://www.whitehouse.gov/releases/2026/08/icymi-violent-crime-keeps-falling-in-biggest-u-s-cities/",
-   "published": "2026-08-11T17:38:27+00:00",
-   "summary": "A new mid-year crime report delivers more clear proof: President Donald J. Trump’s law-and-order agenda is crushing violent crime across America. According to the Major Cities Chiefs Association, homicides in the nation’s largest cities are down 17.2% from the first half of last year — alongside sharp declines in robberies, rapes, aggravated assaults, and overall [&#8230;] The post ICYMI: “Violent",
-   "tags": [],
    "highlight": false
   }
  ]
