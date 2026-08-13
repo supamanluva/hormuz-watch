@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-13T20:41:36.921527+00:00",
+ "asOf": "2026-08-13T21:04:02.644518+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Huge explosion rocks Italian munitions factory south of Rome",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/huge-explosion-rocks-italian-munitions-factory-south-of-rome?traffic_source=rss",
+   "published": "2026-08-13T20:52:48+00:00",
+   "summary": "A powerful explosion tore through a munitions faction south of the Italian capital Rome on Thursday.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "UN Press",
    "title": "Yemen at Risk of Entering Wider Middle East Conflict, UN Special Envoy Warns Security Council, as Several Members Condemn Escalating Houthi Attacks",
@@ -599,17 +610,6 @@
    "tags": [
     "strikes",
     "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iran remains defiant as it vows to fight US until demands met",
-   "url": "https://www.aljazeera.com/news/2026/8/12/iran-remains-defiant-as-it-vows-to-fight-us-until-demands-met?traffic_source=rss",
-   "published": "2026-08-12T15:29:20+00:00",
-   "summary": "IRGC advisers say Iran has replaced more missiles and drones than it used, and cite falling US munition stocks.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   }
