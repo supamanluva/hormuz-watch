@@ -1,6 +1,28 @@
 {
- "asOf": "2026-08-13T09:33:54.933864+00:00",
+ "asOf": "2026-08-13T10:46:29.727010+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Washington made major miscalculation over Strait of Hormuz: Araghchi",
+   "url": "https://en.irna.ir/news/86234656/Washington-made-major-miscalculation-over-Strait-of-Hormuz-Araghchi",
+   "published": "2026-08-13T10:31:41+00:00",
+   "summary": "Tehran, IRNA – Foreign Minister Abbas Araghchi has pointed to the United States’ intelligence failures and miscalculations, saying the war against Iran has been a clear example of those errors, and that Washington has now made an even bigger miscalculation regarding the Strait of Hormuz.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Yemeni forces say Houthi attack repelled in Taiz amid escalation",
+   "url": "https://www.aljazeera.com/news/2026/8/13/yemeni-forces-say-houthi-attack-repelled-in-taiz-amid-escalation?traffic_source=rss",
+   "published": "2026-08-13T09:30:24+00:00",
+   "summary": "Military escalation continues for days after the Yemeni government announced it is attacking Houthi positions.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "White House",
    "title": "The Great Transshipment Scam",
@@ -585,29 +607,6 @@
    "summary": "Air Force One was still carrying journalists and top aides, who remained at apparent risk of an Iranian strike.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Autism and war: Gaza families grapple with destruction and loss",
-   "url": "https://www.aljazeera.com/features/2026/8/12/autism-and-war-gaza-families-grapple-with-destruction-and-loss?traffic_source=rss",
-   "published": "2026-08-12T07:27:42+00:00",
-   "summary": "Continuous bombing disrupts routines, causing sensory shocks and behavioural relapses in Gaza&#039;s autistic children.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Drone strikes power station near Libya’s largest oil refinery",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/drone-strikes-power-station-near-libyas-largest-oil-refinery?traffic_source=rss",
-   "published": "2026-08-12T04:13:34+00:00",
-   "summary": "A drone has struck a power station in Libya’s western city of Zawiya",
-   "tags": [
-    "strikes",
-    "oil"
    ],
    "highlight": false
   }
