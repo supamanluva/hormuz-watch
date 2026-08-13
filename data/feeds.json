@@ -1,6 +1,26 @@
 {
- "asOf": "2026-08-13T00:01:32.451274+00:00",
+ "asOf": "2026-08-13T00:37:40.047342+00:00",
  "items": [
+  {
+   "source": "Trump · Truth Social",
+   "title": "[No Title] - Post from August 13, 2026",
+   "url": "https://trumpstruth.org/statuses/40786",
+   "published": "2026-08-13T00:02:57+00:00",
+   "summary": "",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Iran war live: US, Tehran exchange opposing claims over Hormuz control",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/8/13/iran-war-live-us-and-iran-exchange-opposing-claims-over-hormuz-control?traffic_source=rss",
+   "published": "2026-08-13T00:00:00+00:00",
+   "summary": "President Trump again insists US has &#039;total control&#039; of strait, while Tehran resolute that the US must meet its demands.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "[No Title] - Post from August 12, 2026",
@@ -216,15 +236,6 @@
    "url": "https://trumpstruth.org/statuses/40763",
    "published": "2026-08-12T22:02:54+00:00",
    "summary": "Congresswoman María Elvira Salazar is doing a truly fantastic job representing the wonderful people of Florida’s 27th Congressional District! A former News Anchor and Political Reporter, María knows the Wisdom and Courage required to confront the Corrupt Fake News, which seeks to divide and destroy our Great Country. In Congress, María is working hard to Grow our Economy, Cut Taxes and Regulations",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Congressman Carlos Gimenez is doing a fantastic job representing Florida’s 28th Congressional District! A Highly Respected Firefighter, Civic Leader, and Mayor of Miami-Dade County, prior to becoming a distinguished Congressman, Carlos has dedicated his life to serving his Community. In Congress, he is working hard to Grow our Economy, Cut Taxes and Regulations, Unleash American Energy DOMINANCE, Promote MADE IN THE U.S.A., Keep our Border SECURE, Stop Migrant Crime, Strengthen our Military/Veterans, Ensure LAW AND ORDER, and Protect our always under siege Second Amendment. Carlos Gimenez has my Complete and Total Endorsement for Re-Election! Early Voting is underway NOW, and Election Day is August 18th. GET OUT AND VOTE FOR CARLOS — HE WILL NEVER LET YOU DOWN! Find your Voting Location here:",
-   "url": "https://trumpstruth.org/statuses/40764",
-   "published": "2026-08-12T22:02:39+00:00",
-   "summary": "Congressman Carlos Gimenez is doing a fantastic job representing Florida’s 28th Congressional District! A Highly Respected Firefighter, Civic Leader, and Mayor of Miami-Dade County, prior to becoming a distinguished Congressman, Carlos has dedicated his life to serving his Community. In Congress, he is working hard to Grow our Economy, Cut Taxes and Regulations, Unleash American Energy DOMINANCE, ",
    "tags": [],
    "highlight": true
   },
@@ -579,17 +590,6 @@
    "summary": "Pyongyang conducts second weapons test in less than a week as Seoul, Washington gear up for annual military exercises.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iran war live: Trump claims US in ‘total control’ of Strait of Hormuz",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/8/12/iran-war-live-us-fires-missiles-at-cargo-ship-violating-iran-blockade?traffic_source=rss",
-   "published": "2026-08-12T00:00:00+00:00",
-   "summary": "US forces disable a Panama-flagged cargo ship attempting to sail towards an Iranian port.",
-   "tags": [
-    "shipping"
    ],
    "highlight": false
   },
