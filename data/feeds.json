@@ -1,9 +1,21 @@
 {
- "asOf": "2026-08-13T12:04:29.719349+00:00",
+ "asOf": "2026-08-13T12:27:33.800477+00:00",
  "items": [
   {
    "source": "Al Jazeera",
-   "title": "More than 135 million people in Europe set for temperatures over 35C",
+   "title": "US-Iran talks in deadlock – what’s the latest?",
+   "url": "https://www.aljazeera.com/news/2026/8/13/us-iran-talks-in-deadlock-whats-the-latest?traffic_source=rss",
+   "published": "2026-08-13T11:56:40+00:00",
+   "summary": "The US and Iran continue their standoff in the Strait of Hormuz as mediators try to coax talks.",
+   "tags": [
+    "diplomacy",
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "More than 135 million people in Europe face temperatures over 35C",
    "url": "https://www.aljazeera.com/news/2026/8/13/more-than-135-million-people-in-europe-set-for-temperatures-over-35c?traffic_source=rss",
    "published": "2026-08-13T11:38:39+00:00",
    "summary": "Europe is the fastest-warming continent in the world and in some places is ill-equipped to deal with hot weather.",
@@ -596,17 +608,6 @@
    "summary": "Tehran, IRNA – Iranian Oil Minister Mohsen Paknejad and Pakistan’s Interior Minister Syed Mohsin Raza Naqvi have emphasized the need to expand bilateral trade and economic exchanges, particularly in the energy sector.",
    "tags": [
     "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Wildberries under fire: Why is Ukraine targeting a Russian retail giant?",
-   "url": "https://www.aljazeera.com/news/2026/8/12/ukraines-strikes-on-russias-wildberries-arent-about-the-front-line?traffic_source=rss",
-   "published": "2026-08-12T08:19:05+00:00",
-   "summary": "The company akin to Amazon has come under heavy attacks in Russia as Kyiv tries to bring the sense of war home.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   }
