@@ -1,5 +1,5 @@
 {
- "asOf": "2026-08-13T23:24:57.585635+00:00",
+ "asOf": "2026-08-13T23:45:16.526862+00:00",
  "items": [
   {
    "source": "Trump · Truth Social",
@@ -36,6 +36,17 @@
    "summary": "RT @ realDonaldTrump It is my Great Honor to endorse America First Patriot, Kailee Buller, who is running to represent the Fantastic People of New York’s 22nd Congressional District! As the former Chief of Staff at the U.S. Department of Agriculture in my Administration, Kailee has proven she has the Courage and Wisdom to deliver strong results for the incredible people of her State, and our Natio",
    "tags": [],
    "highlight": true
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Gaza City police chief killed as Israel pushes on with deadly strikes",
+   "url": "https://www.aljazeera.com/news/2026/8/13/gaza-city-police-chief-killed-as-israel-pushes-on-with-deadly-strikes?traffic_source=rss",
+   "published": "2026-08-13T23:09:15+00:00",
+   "summary": "Latest Israeli attacks kill police official Jamal Abu Kamil in Gaza City and another person in Khan Younis.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
   },
   {
    "source": "Trump · Truth Social",
@@ -593,18 +604,6 @@
    "published": "2026-08-12T21:37:50+00:00",
    "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA A PROCLAMATION This National Substance Use Primary Prevention Month, we renew our pledge to safeguard our children, friends, families, and communities from the devastating reach of illicit drugs by stopping addiction before it ever begins.&#160; Substance abuse remains among the gravest threats confronting our country, poisoning [&#8230;] The post N",
    "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Drone attacks on energy infrastructure deepen Libya’s energy crisis",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/drone-attacks-on-energy-infrastructure-deepen-libyas-energy-crisis?traffic_source=rss",
-   "published": "2026-08-12T20:59:52+00:00",
-   "summary": "Repeated drone strikes on oil and power infrastructure are deepening Libya&#039;s energy crisis.",
-   "tags": [
-    "strikes",
-    "oil"
-   ],
    "highlight": false
   }
  ]
