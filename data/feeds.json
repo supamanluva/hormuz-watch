@@ -1,6 +1,39 @@
 {
- "asOf": "2026-08-13T06:14:43.834938+00:00",
+ "asOf": "2026-08-13T06:56:16.342635+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "The US is now using the ‘terrorist’ label to interfere in Brazil’s election",
+   "url": "https://www.aljazeera.com/opinions/2026/8/13/the-us-is-now-using-the-terrorist-label-to-interfere-in-brazils-election?traffic_source=rss",
+   "published": "2026-08-13T06:33:31+00:00",
+   "summary": "The designation of PCC and CV serves to expand Washington’s reach into the country’s politics and security.",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Will the Houthis shut down Saudi Arabian shipping?",
+   "url": "https://www.aljazeera.com/video/project-force-2/2026/8/13/will-the-houthis-shut-down-saudi-arabian-shipping?traffic_source=rss",
+   "published": "2026-08-13T06:21:24+00:00",
+   "summary": "The announcement of a new naval blockade threatens to restart full-scale war between Yemen&#039;s Houthis and Saudi Arabia",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran says future administration of Strait of Hormuz must address its environmental condition",
+   "url": "https://en.irna.ir/news/86234486/Iran-says-future-administration-of-Strait-of-Hormuz-must-address",
+   "published": "2026-08-13T06:17:10+00:00",
+   "summary": "Tehran, IRNA – Foreign Ministry spokesperson Esmaeil Baqaei says the environmental condition of the Strait of Hormuz and its surrounding waters must be treated as a core requirement in any future management framework for the Strait of Hormuz.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Russian strike sparks fire at Ukraine port; Zelenskyy seeks interceptors",
@@ -570,45 +603,11 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "Oil prices rise as attacks dent hopes for Strait of Hormuz reopening",
-   "url": "https://www.aljazeera.com/economy/2026/8/12/oil-prices-rise-as-attacks-dent-hopes-for-strait-of-hormuz-reopening?traffic_source=rss",
-   "published": "2026-08-12T03:41:42+00:00",
-   "summary": "Brent crude climbs as renewed violence dampens hopes for a return to stability in energy markets.",
-   "tags": [
-    "strikes",
-    "shipping",
-    "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Six killed in Houthi attack on Bab al-Mandeb ship, Yemen’s government says",
-   "url": "https://www.aljazeera.com/news/2026/8/12/six-killed-in-houthi-attack-on-bab-al-mandeb-ship-yemens-government-says?traffic_source=rss",
-   "published": "2026-08-12T03:09:06+00:00",
-   "summary": "Deaths on Egyptian-owned Tihamah mark first shipping deaths linked to Houthis since the US-Israel war on Iran began.",
-   "tags": [
-    "strikes",
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
    "source": "UN Press",
    "title": "Bring Perpetrators of Violent Religious-Based Crimes to Justice, Speak Out against Hate Speech, Discrimination, Secretary-General Urges in International Observance Message",
    "url": "https://press.un.org/en/2026/sgsm23240.doc.htm",
    "published": "2026-08-11T21:03:49+00:00",
    "summary": "Following is UN Secretary-General António Guterres’ message for the International Day Commemorating the Victims of Acts of Violence Based on Religion or Belief, observed on 22 August:",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "With West Bank Settler Violence at New High, Security Council Speakers Demand Accountability, Full Implementation of Resolution 2803 (2025)",
-   "url": "https://press.un.org/en/2026/sc16430.doc.htm",
-   "published": "2026-08-11T21:01:09+00:00",
-   "summary": "The West Bank is at a breaking point, with settler violence reaching unprecedented levels, the Security Council heard today.",
    "tags": [],
    "highlight": false
   }
