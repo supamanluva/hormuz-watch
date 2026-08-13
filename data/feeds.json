@@ -1,6 +1,51 @@
 {
- "asOf": "2026-08-13T14:33:20.270498+00:00",
+ "asOf": "2026-08-13T15:44:23.167675+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Will all-out war in Yemen reignite as the Houthis escalate attacks?",
+   "url": "https://www.aljazeera.com/news/2026/8/13/will-all-out-war-in-yemen-reignite-as-houthis-escalate-attacks?traffic_source=rss",
+   "published": "2026-08-13T15:27:52+00:00",
+   "summary": "Analysts say Saudi Arabia is strengthening its position with regional allies as the Houthis increase their attacks.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Iran says Strait of Hormuz under its control, rejects Trump claims",
+   "url": "https://www.aljazeera.com/news/2026/8/13/iran-says-strait-of-hormuz-under-its-control-rejects-trump-claims?traffic_source=rss",
+   "published": "2026-08-13T14:59:42+00:00",
+   "summary": "Iran asserts full control over the Strait of Hormuz, challenging US claims of dominance in the strategic waterway.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Oman says massive oil spill reaches coastline: What damage could it do?",
+   "url": "https://www.aljazeera.com/news/2026/8/13/oman-says-massive-oil-spill-reaches-coastline-what-damage-could-it-do?traffic_source=rss",
+   "published": "2026-08-13T14:29:58+00:00",
+   "summary": "Oil has been spilling from the Caroline Bezengi, a tanker that has been leaking crude since running aground off Oman.",
+   "tags": [
+    "shipping",
+    "oil"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Ukraine attacks key Russian grain terminal on Black Sea port",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/13-08-sv-ukraine-russia-grain-attack-ur?traffic_source=rss",
+   "published": "2026-08-13T14:29:20+00:00",
+   "summary": "Ukraine has damaged Russia’s grain export terminals in an attack on the Novorossiysk port.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Iran: No ship can transit Hormuz without authorization",
@@ -563,51 +608,6 @@
    "summary": "Sudanese army air defenses reportedly intercepted drones launched by the Rapid Support Forces (RSF) over el-Obeid.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Why has North Korea fired a missile before US-South Korea drills?",
-   "url": "https://www.aljazeera.com/news/2026/8/12/why-has-north-korea-fired-a-missile-ahead-of-us-south-korea-drills?traffic_source=rss",
-   "published": "2026-08-12T13:10:14+00:00",
-   "summary": "Pyongyang has repeatedly condemned US–South Korea military drills, claiming they are a &#039;rehearsal for invasion&#039;.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Putin warns of tit-for-tat seizures of European vessels",
-   "url": "https://www.aljazeera.com/news/2026/8/12/putin-warns-of-tit-for-tat-seizures-of-european-vessels?traffic_source=rss",
-   "published": "2026-08-12T11:11:26+00:00",
-   "summary": "If European states seize vessels with Russian cargo, Moscow will respond in kind &#039;wherever necessary&#039;, says Putin.",
-   "tags": [
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iran rejects Trump’s claim to ‘control’ Hormuz: What’s the latest in talks?",
-   "url": "https://www.aljazeera.com/news/2026/8/12/iran-refutes-trumps-claim-to-control-hormuz-whats-the-latest-in-talks?traffic_source=rss",
-   "published": "2026-08-12T10:27:22+00:00",
-   "summary": "Iran says Hormuz stays closed until US meets its demands and changes its &#039;behaviour&#039; as global energy prices rise.",
-   "tags": [
-    "diplomacy",
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "US failed to achieve all its stated objectives in war with Iran: IRGC spokesperson",
-   "url": "https://en.irna.ir/news/86234113/US-failed-to-achieve-all-its-stated-objectives-in-war-with-Iran",
-   "published": "2026-08-12T10:14:31+00:00",
-   "summary": "Tehran, IRNA – Islamic Revolution Guards Corps (IRGC) spokesperson Brigadier General Hossein Mohebbi says the United States failed to achieve all of its stated objectives in its war against Iran, reaching a point of desperation in less than 20 days and seeking intermediaries to negotiate an end to the conflict.",
-   "tags": [
-    "diplomacy"
    ],
    "highlight": false
   }
