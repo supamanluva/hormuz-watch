@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-13T10:46:29.727010+00:00",
+ "asOf": "2026-08-13T11:11:05.418473+00:00",
  "items": [
+  {
+   "source": "UN Press",
+   "title": "Security Council, 10208th Meeting (AM) Yemen",
+   "url": "https://press.un.org/en/blog/sc16431",
+   "published": "2026-08-13T10:59:32+00:00",
+   "summary": "At 10 a.m., the Security Council will hold a meeting on Yemen. UN Special Envoy for Yemen Hans Grundberg, an official from the UN Office for the Coordination of Humanitarian Affairs (OCHA) and a civil society representative are expected to brief on the latest developments in the country.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Washington made major miscalculation over Strait of Hormuz: Araghchi",
@@ -594,17 +605,6 @@
    "url": "https://www.aljazeera.com/news/2026/8/12/three-killed-in-overnight-attacks-on-russian-ukrainian-port?traffic_source=rss",
    "published": "2026-08-12T07:49:22+00:00",
    "summary": "Russia&#039;s Novorossiysk &#039;endured a horrific night&#039;, with a child killed and dozens of buildings damaged, says local mayor.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Trump says his decoy plane faced ‘greater risk’ in secret flight change",
-   "url": "https://www.aljazeera.com/news/2026/8/12/trump-says-his-decoy-plane-faced-greater-risk-in-secret-flight-change?traffic_source=rss",
-   "published": "2026-08-12T07:31:15+00:00",
-   "summary": "Air Force One was still carrying journalists and top aides, who remained at apparent risk of an Iranian strike.",
    "tags": [
     "strikes"
    ],
