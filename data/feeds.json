@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-13T06:56:16.342635+00:00",
+ "asOf": "2026-08-13T08:12:57.217316+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Israeli strikes in south Lebanon a ‘violation of international law’: PM",
+   "url": "https://www.aljazeera.com/news/2026/8/13/israeli-strikes-in-south-lebanon-a-violation-of-international-law-pm?traffic_source=rss",
+   "published": "2026-08-13T07:11:05+00:00",
+   "summary": "Prime Minister Nawaf Salam rejects Israel&#039;s claim that villages destroyed in southern Lebanon were military sites.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "The US is now using the ‘terrorist’ label to interfere in Brazil’s election",
@@ -588,17 +599,6 @@
    "tags": [
     "strikes",
     "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Russia frees ex-US marine Gilman jailed since 2022",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/russia-frees-ex-us-marine-gilman-jailed-since-2022?traffic_source=rss",
-   "published": "2026-08-12T03:57:01+00:00",
-   "summary": "Russia has released former US marine Robert Gilman, who had been jailed since 2022 for attacking a police officer.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   },
