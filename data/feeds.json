@@ -1,6 +1,67 @@
 {
- "asOf": "2026-08-13T21:04:02.644518+00:00",
+ "asOf": "2026-08-13T21:47:30.503540+00:00",
  "items": [
+  {
+   "source": "UN Press",
+   "title": "Security Council ISIL (Da’esh) and Al-Qaida Sanctions Committee Amends Four Entries on Its Sanctions List",
+   "url": "https://press.un.org/en/2026/sc16432.doc.htm",
+   "published": "2026-08-13T21:35:27+00:00",
+   "summary": "On 13 August 2026, the Security Council Committee pursuant to resolutions 1267 (1999), 1989 (2011) and 2253 (2015) concerning ISIL (Da’esh), Al‑Qaida and associated individuals, groups, undertakings and entities enacted the amendments specified with strikethrough and underline in the entries below on its ISIL (Da’esh) and Al-Qaida Sanctions List of individuals and entities subject to the assets fr",
+   "tags": [
+    "strikes",
+    "sanctions"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "White House",
+   "title": "Fact Sheet: President Donald J. Trump Rebuilds the U.S. Navy and America’s Shipbuilding Industrial Base",
+   "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-rebuilds-the-u-s-navy-and-americas-shipbuilding-industrial-base/",
+   "published": "2026-08-13T21:23:07+00:00",
+   "summary": "TRANSFORMING U.S. SHIPBUILDING:&#160;Today,&#160;President Donald J. Trump signed a National Security Presidential Memorandum to fix critical long-term issues in Navy shipbuilding and ship repair programs and restore capacity and competition to the maritime industrial base. ADDRESSING PERSISTENT FAILURES IN SHIPBUILDING:&#160;President Trump is revitalizing America’s shipbuilding industry, which i",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "White House",
+   "title": "Fact Sheet: President Donald J. Trump Bolsters National Security and Strengthens U.S. Supply Chains by Imposing Tariffs on Drones and Their Parts and Components",
+   "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-bolsters-national-security-and-strengthens-u-s-supply-chains-by-imposing-tariffs-on-drones-and-their-parts-and-components/",
+   "published": "2026-08-13T21:22:01+00:00",
+   "summary": "SECURING AMERICAN DRONE DOMINANCE:&#160;Today, President Donald J. Trump signed a Proclamation to address the national security threat posed by imports of drones and their components, including by strengthening America’s drone industry and supply chain. STRENGTHENING NATIONAL SECURITY:&#160;President Trump’s drone tariff program will protect the national security of the United States and its defen",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "White House",
+   "title": "Adjusting Imports of Unmanned Aircraft Systems and Unmanned Aircraft Systems Components into the United States",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/08/adjusting-imports-of-unmanned-aircraft-systems-and-unmanned-aircraft-systems-components-into-the-united-states/",
+   "published": "2026-08-13T21:21:57+00:00",
+   "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA A PROCLAMATION 1. &#160;Within the past 90 days, the Secretary of Commerce (Secretary) transmitted to me a report on his investigation into the effects of imports of unmanned aircraft systems (UAS), as well as their parts and components (together, UAS components), on the national security of [&#8230;] The post Adjusting Imports of Unmanned Aircraft ",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "White House",
+   "title": "Rebuilding the United States Navy and America’s Shipbuilding Industrial Base",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/08/rebuilding-the-united-states-navy-and-americas-shipbuilding-industrial-base/",
+   "published": "2026-08-13T21:21:46+00:00",
+   "summary": "MEMORANDUM FOR THE SECRETARY OF WAR THE DIRECTOR OF THE OFFICE OF MANAGEMENT AND BUDGET THE ASSISTANT TO THE PRESIDENT FOR NATIONAL SECURITY AFFAIRS SUBJECT: Rebuilding the United States Navy and America&#8217;s Shipbuilding Industrial Base By the authority vested in me as President by the Constitution and the laws of the United States of [&#8230;] The post Rebuilding the United States Navy and Am",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Israeli strikes in Gaza kill two, including police chief",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/israeli-strikes-in-gaza-kill-two-including-police-chief?traffic_source=rss",
+   "published": "2026-08-13T21:10:47+00:00",
+   "summary": "Israeli drone strikes killed at least 2 people and wounded several others in Gaza on Thursday.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Huge explosion rocks Italian munitions factory south of Rome",
@@ -50,7 +111,7 @@
    "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General",
    "url": "https://press.un.org/en/2026/db260813.doc.htm",
    "published": "2026-08-13T18:11:21+00:00",
-   "summary": "UN Emergency Relief Coordinator Tom Fletcher, has allocated $5 million from the UN Central Emergency Response Fund to support the humanitarian response in Colombia following the devastating earthquake there. The UN is also deploying teams to assess needs in most impacted areas, in coordination with local authorities.",
+   "summary": "UN Emergency Relief Coordinator Tom Fletcher has allocated $5 million from the UN Central Emergency Response Fund to support the humanitarian response in Colombia following the devastating earthquake there. The UN is also deploying teams to assess needs in most impacted areas, in coordination with local authorities.",
    "tags": [],
    "highlight": false
   },
@@ -542,71 +603,6 @@
    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/drone-attacks-on-energy-infrastructure-deepen-libyas-energy-crisis?traffic_source=rss",
    "published": "2026-08-12T20:59:52+00:00",
    "summary": "Repeated drone strikes on oil and power infrastructure are deepening Libya&#039;s energy crisis.",
-   "tags": [
-    "strikes",
-    "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Israeli air strike kills one in northern Gaza",
-   "url": "https://www.aljazeera.com/news/2026/8/12/israeli-air-strike-kills-one-in-northern-gaza?traffic_source=rss",
-   "published": "2026-08-12T20:58:42+00:00",
-   "summary": "Strike on a tuk-tuk in Beit Lahiya kills one, wounds five in first Israeli aerial bombardment in a week",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran: US ‘unprecedented violations’ of Geneva Conventions cannot be ignored",
-   "url": "https://en.irna.ir/news/86234389/Iran-US-unprecedented-violations-of-Geneva-Conventions-cannot",
-   "published": "2026-08-12T20:23:04+00:00",
-   "summary": "Tehran, IRNA – Iranian Foreign Ministry spokesperson Esmaeil Baqaei has condemned the US threats and airstrikes against Iran’s civilian infrastructure as clear war crimes, and warned that normalizing such \"unprecedented violations\" of the Geneva Conventions would erode the international legal order.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General",
-   "url": "https://press.un.org/en/2026/db260812.doc.htm",
-   "published": "2026-08-12T18:27:38+00:00",
-   "summary": "Since the Taliban takeover in August 2021, Afghanistan has systematically dismantled the rights of women — half its population — making it a global outlier with no parallel in the modern world, UN-Women reports. Half of Afghan women interviewed leave home only once or twice a month due to severe restrictions.",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Drought exposes Nazi-era warship wrecks beneath the Danube",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/drought-exposes-nazi-era-warship-wrecks-beneath-the-danube?traffic_source=rss",
-   "published": "2026-08-12T16:58:16+00:00",
-   "summary": "Record-low water levels on the Danube near Prahovo, Serbia, have exposed the wrecks of dozens of Nazi-era vessels",
-   "tags": [
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iranian FM holds talks with Pakistani interior minister in Mashhad",
-   "url": "https://en.irna.ir/news/86234335/Iranian-FM-holds-talks-with-Pakistani-interior-minister-in-Mashhad",
-   "published": "2026-08-12T16:53:05+00:00",
-   "summary": "Mashhad, IRNA – Iranian Foreign Minister Abbas Araghchi meets with Pakistani Interior Minister Syed Mohsin Naqvi in Mashhad, holding talks as the Pakistani official visits the city to pay homage at the holy shrine of Imam Reza (AS).",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Is Russia’s economy cracking despite the Iran war windfall?",
-   "url": "https://www.aljazeera.com/video/counting-the-cost/2026/8/12/is-russias-economy-cracking-despite-the-iran-war-windfall?traffic_source=rss",
-   "published": "2026-08-12T15:36:33+00:00",
-   "summary": "A widening deficit and Ukrainian strikes are testing Russia&#039;s economy, even as war in the Middle East lifts oil revenue.",
    "tags": [
     "strikes",
     "oil"
