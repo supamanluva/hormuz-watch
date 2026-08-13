@@ -1,6 +1,15 @@
 {
- "asOf": "2026-08-13T08:12:57.217316+00:00",
+ "asOf": "2026-08-13T09:33:54.933864+00:00",
  "items": [
+  {
+   "source": "White House",
+   "title": "The Great Transshipment Scam",
+   "url": "https://www.whitehouse.gov/releases/2026/08/the-great-transshipment-scam/",
+   "published": "2026-08-13T09:00:00+00:00",
+   "summary": "The post The Great Transshipment Scam appeared first on The White House .",
+   "tags": [],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Israeli strikes in south Lebanon a ‘violation of international law’: PM",
@@ -600,15 +609,6 @@
     "strikes",
     "oil"
    ],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Bring Perpetrators of Violent Religious-Based Crimes to Justice, Speak Out against Hate Speech, Discrimination, Secretary-General Urges in International Observance Message",
-   "url": "https://press.un.org/en/2026/sgsm23240.doc.htm",
-   "published": "2026-08-11T21:03:49+00:00",
-   "summary": "Following is UN Secretary-General António Guterres’ message for the International Day Commemorating the Victims of Acts of Violence Based on Religion or Belief, observed on 22 August:",
-   "tags": [],
    "highlight": false
   }
  ]
