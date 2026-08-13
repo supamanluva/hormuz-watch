@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-13T13:11:46.525572+00:00",
+ "asOf": "2026-08-13T14:33:20.270498+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran: No ship can transit Hormuz without authorization",
+   "url": "https://en.irna.ir/news/86234748/Iran-No-ship-can-transit-Hormuz-without-authorization",
+   "published": "2026-08-13T13:16:54+00:00",
+   "summary": "Tehran, IRNA - The spokesperson for the IRGC’s Khatam al-Anbiya Central Headquarter totally denied US claims regarding the normal navigation of vessels through the Strait of Hormuz, declaring: No ship can safely pass through the Strait of Hormuz without Iran’s authorization and supervision.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "[No Title] - Post from August 13, 2026",
@@ -597,17 +608,6 @@
    "summary": "Tehran, IRNA – Islamic Revolution Guards Corps (IRGC) spokesperson Brigadier General Hossein Mohebbi says the United States failed to achieve all of its stated objectives in its war against Iran, reaching a point of desperation in less than 20 days and seeking intermediaries to negotiate an end to the conflict.",
    "tags": [
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "‘The hardest mission of my life’: A rescuer’s loss in the Lebanon War",
-   "url": "https://www.aljazeera.com/video/al-jazeera-originals/2026/8/12/aje-onl-or_leb_paramedics_teaser-120826?traffic_source=rss",
-   "published": "2026-08-12T10:02:16+00:00",
-   "summary": "A Lebanon rescuer’s work is shaped by the daughter he lost in an Israeli attack on his station.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   }
