@@ -1,6 +1,18 @@
 {
- "asOf": "2026-08-13T03:16:53.821386+00:00",
+ "asOf": "2026-08-13T05:04:24.611457+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Oman says oil spill from stricken tanker has reached its coast",
+   "url": "https://www.aljazeera.com/economy/2026/8/13/oman-says-oil-spill-from-stricken-tanker-has-reached-its-coast?traffic_source=rss",
+   "published": "2026-08-13T04:26:11+00:00",
+   "summary": "Up to 40km of coastline affected by oil pollution, Omani environmental authority says.",
+   "tags": [
+    "shipping",
+    "oil"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "[No Title] - Post from August 13, 2026",
@@ -579,17 +591,6 @@
    "summary": "Iran&#039;s top security official says the Strait of Hormuz will not reopen unless the US meets its conditions.",
    "tags": [
     "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "N Korea launches ballistic missile as S Korea, US plan military drills",
-   "url": "https://www.aljazeera.com/news/2026/8/12/n-korea-launches-ballistic-missile-as-s-korea-us-plan-military-drills?traffic_source=rss",
-   "published": "2026-08-12T00:39:53+00:00",
-   "summary": "Pyongyang conducts second weapons test in less than a week as Seoul, Washington gear up for annual military exercises.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   },
