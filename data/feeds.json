@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-13T05:44:02.469058+00:00",
+ "asOf": "2026-08-13T06:14:43.834938+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Russian strike sparks fire at Ukraine port; Zelenskyy seeks interceptors",
+   "url": "https://www.aljazeera.com/news/2026/8/13/russian-strike-sparks-fire-at-ukraine-port-zelenskyy-seeks-interceptors?traffic_source=rss",
+   "published": "2026-08-13T05:26:05+00:00",
+   "summary": "Ukraine has reported an acute shortage of Patriot interceptors since the US went to war with Iran in February.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Oman says oil spill from stricken tanker has reached its coast",
@@ -579,17 +590,6 @@
    "summary": "Deaths on Egyptian-owned Tihamah mark first shipping deaths linked to Houthis since the US-Israel war on Iran began.",
    "tags": [
     "strikes",
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iran holds firm on Hormuz conditions as Pakistan’s Naqvi visits Tehran",
-   "url": "https://www.aljazeera.com/news/2026/8/12/iran-holds-firm-on-hormuz-conditions-as-pakistans-naqvi-visits-tehran?traffic_source=rss",
-   "published": "2026-08-12T02:29:30+00:00",
-   "summary": "Iran&#039;s top security official says the Strait of Hormuz will not reopen unless the US meets its conditions.",
-   "tags": [
     "shipping"
    ],
    "highlight": false
