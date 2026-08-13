@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-13T11:45:27.078980+00:00",
+ "asOf": "2026-08-13T12:04:29.719349+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "More than 135 million people in Europe set for temperatures over 35C",
+   "url": "https://www.aljazeera.com/news/2026/8/13/more-than-135-million-people-in-europe-set-for-temperatures-over-35c?traffic_source=rss",
+   "published": "2026-08-13T11:38:39+00:00",
+   "summary": "Europe is the fastest-warming continent in the world and in some places is ill-equipped to deal with hot weather.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "UN Press",
    "title": "Security Council, 10208th Meeting (AM) Yemen",
@@ -594,17 +605,6 @@
    "url": "https://www.aljazeera.com/news/2026/8/12/ukraines-strikes-on-russias-wildberries-arent-about-the-front-line?traffic_source=rss",
    "published": "2026-08-12T08:19:05+00:00",
    "summary": "The company akin to Amazon has come under heavy attacks in Russia as Kyiv tries to bring the sense of war home.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Four killed in overnight attacks in southern Russia, Ukraine",
-   "url": "https://www.aljazeera.com/news/2026/8/12/three-killed-in-overnight-attacks-on-russian-ukrainian-port?traffic_source=rss",
-   "published": "2026-08-12T07:49:22+00:00",
-   "summary": "Russia&#039;s Novorossiysk &#039;endured a horrific night&#039;, with a child killed and dozens of buildings damaged, says local mayor.",
    "tags": [
     "strikes"
    ],
