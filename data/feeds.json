@@ -1,6 +1,26 @@
 {
- "asOf": "2026-08-13T12:27:33.800477+00:00",
+ "asOf": "2026-08-13T13:11:46.525572+00:00",
  "items": [
+  {
+   "source": "Trump · Truth Social",
+   "title": "[No Title] - Post from August 13, 2026",
+   "url": "https://trumpstruth.org/statuses/40787",
+   "published": "2026-08-13T12:38:16+00:00",
+   "summary": "",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Falling Danube flow forces shutdown of Romania’s sole nuclear plant",
+   "url": "https://www.aljazeera.com/news/2026/8/13/falling-danube-flow-forces-shutdown-of-romanias-sole-nuclear-plant?traffic_source=rss",
+   "published": "2026-08-13T12:30:08+00:00",
+   "summary": "Romania had tried to avert a total shutdown of the plant, which usually generates a fifth of the country&#039;s electricity.",
+   "tags": [
+    "nuclear"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "US-Iran talks in deadlock – what’s the latest?",
@@ -363,15 +383,6 @@
    "highlight": true
   },
   {
-   "source": "Trump · Truth Social",
-   "title": "Congresswoman María Elvira Salazar is doing a truly fantastic job representing the wonderful people of Florida’s 27th Congressional District! A former News Anchor and Political Reporter, María knows the Wisdom and Courage required to confront the Corrupt Fake News, which seeks to divide and destroy our Great Country. In Congress, María is working hard to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Support our Brave Military/Veterans, and Defend our always under siege Second Amendment. María Elvira Salazar has my Complete and Total Endorsement for Re-Election! Early Voting is underway NOW, and Election Day is August 18th. GET OUT AND VOTE FOR MARÍA — SHE WILL NEVER LET YOU DOWN! Find your Voting Location here:",
-   "url": "https://trumpstruth.org/statuses/40763",
-   "published": "2026-08-12T22:02:54+00:00",
-   "summary": "Congresswoman María Elvira Salazar is doing a truly fantastic job representing the wonderful people of Florida’s 27th Congressional District! A former News Anchor and Political Reporter, María knows the Wisdom and Courage required to confront the Corrupt Fake News, which seeks to divide and destroy our Great Country. In Congress, María is working hard to Grow our Economy, Cut Taxes and Regulations",
-   "tags": [],
-   "highlight": true
-  },
-  {
    "source": "Al Jazeera",
    "title": "US strikes in Yemen killed 153 civilians in 2025, says Pentagon review",
    "url": "https://www.aljazeera.com/news/2026/8/12/us-strikes-in-yemen-killed-153-civilians-in-2025-says-pentagon-review?traffic_source=rss",
@@ -597,17 +608,6 @@
    "summary": "A Lebanon rescuer’s work is shaped by the daughter he lost in an Israeli attack on his station.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran, Pakistan stress expansion of trade, energy cooperation",
-   "url": "https://en.irna.ir/news/86234020/Iran-Pakistan-stress-expansion-of-trade-energy-cooperation",
-   "published": "2026-08-12T08:55:55+00:00",
-   "summary": "Tehran, IRNA – Iranian Oil Minister Mohsen Paknejad and Pakistan’s Interior Minister Syed Mohsin Raza Naqvi have emphasized the need to expand bilateral trade and economic exchanges, particularly in the energy sector.",
-   "tags": [
-    "oil"
    ],
    "highlight": false
   }
