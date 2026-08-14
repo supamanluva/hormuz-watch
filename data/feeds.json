@@ -1,6 +1,19 @@
 {
- "asOf": "2026-08-14T19:42:59.389321+00:00",
+ "asOf": "2026-08-14T20:00:07.348169+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "New aerial video reveals huge scale of oil spill off Oman",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/new-aerial-video-reveals-huge-scale-of-oil-spill-off-oman?traffic_source=rss",
+   "published": "2026-08-14T19:36:45+00:00",
+   "summary": "A potential environmental disaster is unfolding off Oman, where a grounded tanker is leaking sanctioned Russian oil.",
+   "tags": [
+    "sanctions",
+    "shipping",
+    "oil"
+   ],
+   "highlight": false
+  },
   {
    "source": "White House",
    "title": "Presidential Message on the Anniversary of Winning World War II",
@@ -596,17 +609,6 @@
    "summary": "Tehran, IRNA - The spokesperson for the IRGC’s Khatam al-Anbiya Central Headquarter totally denied US claims regarding the normal navigation of vessels through the Strait of Hormuz, declaring: No ship can safely pass through the Strait of Hormuz without Iran’s authorization and supervision.",
    "tags": [
     "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Falling Danube flow forces shutdown of Romania’s sole nuclear plant",
-   "url": "https://www.aljazeera.com/news/2026/8/13/falling-danube-flow-forces-shutdown-of-romanias-sole-nuclear-plant?traffic_source=rss",
-   "published": "2026-08-13T12:30:08+00:00",
-   "summary": "Romania had tried to avert a total shutdown of the plant, which usually generates a fifth of the country&#039;s electricity.",
-   "tags": [
-    "nuclear"
    ],
    "highlight": false
   }
