@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-14T08:48:12.579849+00:00",
+ "asOf": "2026-08-14T09:30:23.629475+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "What is a ‘ceasefire’ supposed to achieve?",
+   "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/8/14/what-is-a-ceasefire-supposed-to-achieve?traffic_source=rss",
+   "published": "2026-08-14T09:00:51+00:00",
+   "summary": "Gaza, Lebanon, Iran, Ukraine: four ceasefires, none that held. AJLabs on why truces keep collapsing.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Engine debris shattered Ryanair window, pulling passenger out, NTSB says",
@@ -599,17 +610,6 @@
    "summary": "The designation of PCC and CV serves to expand Washington’s reach into the country’s politics and security.",
    "tags": [
     "sanctions"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Will the Houthis shut down Saudi Arabian shipping?",
-   "url": "https://www.aljazeera.com/video/project-force-2/2026/8/13/will-the-houthis-shut-down-saudi-arabian-shipping?traffic_source=rss",
-   "published": "2026-08-13T06:21:24+00:00",
-   "summary": "The announcement of a new naval blockade threatens to restart full-scale war between Yemen&#039;s Houthis and Saudi Arabia",
-   "tags": [
-    "shipping"
    ],
    "highlight": false
   }
