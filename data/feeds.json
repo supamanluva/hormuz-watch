@@ -1,6 +1,18 @@
 {
- "asOf": "2026-08-14T20:00:07.348169+00:00",
+ "asOf": "2026-08-14T20:16:35.260155+00:00",
  "items": [
+  {
+   "source": "UN Press",
+   "title": "Security Council ISIL (Da’esh) and Al-Qaida Sanctions Committee Amends Four Entries on Its Sanctions List",
+   "url": "https://press.un.org/en/2026/sc16433.doc.htm",
+   "published": "2026-08-14T20:01:05+00:00",
+   "summary": "On 14 August 2026, the Security Council Committee pursuant to resolutions 1267 (1999), 1989 (2011) and 2253 (2015) concerning ISIL (Da’esh), Al‑Qaida and associated individuals, groups, undertakings and entities enacted the amendments specified with strikethrough and underline in the entries below on its ISIL (Da’esh) and Al-Qaida Sanctions List of individuals and entities subject to the assets fr",
+   "tags": [
+    "strikes",
+    "sanctions"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "New aerial video reveals huge scale of oil spill off Oman",
@@ -12,6 +24,15 @@
     "shipping",
     "oil"
    ],
+   "highlight": false
+  },
+  {
+   "source": "UN Press",
+   "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General",
+   "url": "https://press.un.org/en/2026/db260814.doc.htm",
+   "published": "2026-08-14T19:03:28+00:00",
+   "summary": "The UN Children’s Fund (UNICEF) reports that more than 2.6 million girls in Afghanistan have been denied a secondary education in the five years since the de facto authorities took power. UNICEF warns that girls who are out of school face heightened protection risks, including child labour, abuse, early marriage and gender-based violence.",
+   "tags": [],
    "highlight": false
   },
   {
@@ -587,28 +608,6 @@
    "tags": [
     "shipping",
     "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Ukraine attacks key Russian grain terminal on Black Sea port",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/13-08-sv-ukraine-russia-grain-attack-ur?traffic_source=rss",
-   "published": "2026-08-13T14:29:20+00:00",
-   "summary": "Ukraine has damaged Russia’s grain export terminals in an attack on the Novorossiysk port.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran: No ship can transit Hormuz without authorization",
-   "url": "https://en.irna.ir/news/86234748/Iran-No-ship-can-transit-Hormuz-without-authorization",
-   "published": "2026-08-13T13:16:54+00:00",
-   "summary": "Tehran, IRNA - The spokesperson for the IRGC’s Khatam al-Anbiya Central Headquarter totally denied US claims regarding the normal navigation of vessels through the Strait of Hormuz, declaring: No ship can safely pass through the Strait of Hormuz without Iran’s authorization and supervision.",
-   "tags": [
-    "shipping"
    ],
    "highlight": false
   }
