@@ -1,6 +1,18 @@
 {
- "asOf": "2026-08-14T21:53:14.394316+00:00",
+ "asOf": "2026-08-14T22:13:13.214611+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Trump says he will declare Strait of Hormuz a US ‘territory’",
+   "url": "https://www.aljazeera.com/news/2026/8/14/trump-says-he-will-declare-strait-of-hormuz-a-us-territory?traffic_source=rss",
+   "published": "2026-08-14T21:50:46+00:00",
+   "summary": "Control over the strait has been a sticking point in the ongoing ceasefire negotiations between the US and Iran.",
+   "tags": [
+    "diplomacy",
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "Just left a Rally in Nassau County in honor of Bruce Blakeman, who is running for Governor of New York. The crowd went WILD. Something very interesting is happening in New York State! He is a great person, a great politician and, if elected, will be the best Governor in the History of New York! President DONALD J. TRUMP",
@@ -598,18 +610,6 @@
    "summary": "Iran asserts full control over the Strait of Hormuz, challenging US claims of dominance in the strategic waterway.",
    "tags": [
     "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Oman says massive oil spill reaches coastline: What damage could it do?",
-   "url": "https://www.aljazeera.com/news/2026/8/13/oman-says-massive-oil-spill-reaches-coastline-what-damage-could-it-do?traffic_source=rss",
-   "published": "2026-08-13T14:29:58+00:00",
-   "summary": "Oil has been spilling from the Caroline Bezengi, a tanker that has been leaking crude since running aground off Oman.",
-   "tags": [
-    "shipping",
-    "oil"
    ],
    "highlight": false
   }
