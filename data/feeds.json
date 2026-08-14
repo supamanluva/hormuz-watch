@@ -1,6 +1,18 @@
 {
- "asOf": "2026-08-14T00:37:49.963103+00:00",
+ "asOf": "2026-08-14T01:13:09.984852+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "UAE accuses Iran of attacks on two ADNOC vessels in Strait of Hormuz",
+   "url": "https://www.aljazeera.com/news/2026/8/14/uae-accuses-iran-of-attacks-on-two-adnoc-vessels-in-strait-of-hormuz?traffic_source=rss",
+   "published": "2026-08-14T00:33:48+00:00",
+   "summary": "No injuries were reported in the attack, which the UAE called &#039;piracy&#039; and a threat to global energy security.",
+   "tags": [
+    "strikes",
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Yemen faces highest risk of returning to war since 2022 truce, UN warns",
@@ -595,17 +607,6 @@
    "published": "2026-08-12T21:43:13+00:00",
    "summary": "MEMORANDUM FOR THE VICE PRESIDENT THE SECRETARY OF STATE THE SECRETARY OF THE TREASURY THE SECRETARY OF WAR THE ATTORNEY GENERAL THE SECRETARY OF COMMERCE THE SECRETARY OF ENERGY THE SECRETARY OF HOMELAND SECURITY THE ASSISTANT TO THE PRESIDENT AND CHIEF OF STAFF THE DIRECTOR OF NATIONAL INTELLIGENCE THE ASSISTANT TO THE PRESIDENT FOR SCIENCE [&#8230;] The post Expanding Capabilities to Combat Tra",
    "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "Fact Sheet: President Donald J. Trump Expands Capabilities to Combat Transnational Cyber-Enabled Crime",
-   "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-expands-capabilities-to-combat-transnational-cyber-enabled-crime/",
-   "published": "2026-08-12T21:43:04+00:00",
-   "summary": "THWARTING CYBER CRIMES:&#160;Today, President Donald J. Trump signed a National Security Presidential Memorandum (NSPM) empowering U.S. Federal law enforcement to use cyber tools to disrupt transnational criminal organizations (TCOs) that operate in foreign jurisdictions to attack Americans.&#160; DISRUPTING CRIMINALS TARGETING AMERICANS:&#160;President Trump is unleashing every available tool to ",
-   "tags": [
-    "strikes"
-   ],
    "highlight": false
   }
  ]
