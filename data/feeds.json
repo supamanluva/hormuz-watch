@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-14T13:17:35.789297+00:00",
+ "asOf": "2026-08-14T13:55:21.674750+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Russia stance will be defended in court, pledges World Athletics chief Coe",
+   "url": "https://www.aljazeera.com/sports/2026/8/14/russia-stance-will-be-defended-in-court-pledges-world-athletics-chief-coe?traffic_source=rss",
+   "published": "2026-08-14T13:04:23+00:00",
+   "summary": "Russian Athletics has lodged new claim at Court of Arbitration for Sport to challenge sanctions, but WA will fight it.",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "Our beautiful World War II Memorial was just hit by Spray Painting Vandals. THERE CAN BE NO GREATER INSULT TO THOSE AMERICAN HEROES WHO DIED IN WORLD WAR II. First the Reflecting Pool, now this. We are on their trail! Where do these animals come from??? President DJT",
@@ -602,17 +613,6 @@
    "summary": "Tehran, IRNA – Foreign Minister Abbas Araghchi has pointed to the United States’ intelligence failures and miscalculations, saying the war against Iran has been a clear example of those errors, and that Washington has now made an even bigger miscalculation regarding the Strait of Hormuz.",
    "tags": [
     "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Yemeni forces say Houthi attack repelled in Taiz amid escalation",
-   "url": "https://www.aljazeera.com/news/2026/8/13/yemeni-forces-say-houthi-attack-repelled-in-taiz-amid-escalation?traffic_source=rss",
-   "published": "2026-08-13T09:30:24+00:00",
-   "summary": "Military escalation continues for days after the Yemeni government announced it is attacking Houthi positions.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   }
