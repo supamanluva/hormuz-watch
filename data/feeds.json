@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-14T10:44:04.228286+00:00",
+ "asOf": "2026-08-14T11:41:52.444900+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Russian ballistic attacks intensify as Kyiv claims Dnipropetrovsk advance",
+   "url": "https://www.aljazeera.com/news/2026/8/14/ukraine-liberates-dnipropetrovsk-as-russia-intensifies-missile-attacks?traffic_source=rss",
+   "published": "2026-08-14T11:04:40+00:00",
+   "summary": "Ukraine says it has liberated 26 settlements in the south as it retools under heavy bombardment.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Russia says hit Ukrainian railway and port facilities in new strikes",
@@ -601,17 +612,6 @@
    "published": "2026-08-13T09:00:00+00:00",
    "summary": "The post The Great Transshipment Scam appeared first on The White House .",
    "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Israeli strikes in south Lebanon a ‘violation of international law’: PM",
-   "url": "https://www.aljazeera.com/news/2026/8/13/israeli-strikes-in-south-lebanon-a-violation-of-international-law-pm?traffic_source=rss",
-   "published": "2026-08-13T07:11:05+00:00",
-   "summary": "Prime Minister Nawaf Salam rejects Israel&#039;s claim that villages destroyed in southern Lebanon were military sites.",
-   "tags": [
-    "strikes"
-   ],
    "highlight": false
   }
  ]
