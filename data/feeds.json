@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-14T01:13:09.984852+00:00",
+ "asOf": "2026-08-14T03:15:31.415860+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Talks between government and opposition mark a new chapter for Venezuela",
+   "url": "https://www.aljazeera.com/news/longform/2026/8/14/talks-between-government-and-opposition-mark-a-new-chapter-for-venezuela?traffic_source=rss",
+   "published": "2026-08-14T02:07:03+00:00",
+   "summary": "The government of Delcy Rodriguez held its first talks with part of Venezuela&#039;s opposition. But what will they achieve?",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "UAE accuses Iran of attacks on two ADNOC vessels in Strait of Hormuz",
@@ -598,15 +609,6 @@
    "tags": [
     "strikes"
    ],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "Expanding Capabilities to Combat Transnational Cyber-Enabled Crime",
-   "url": "https://www.whitehouse.gov/presidential-actions/2026/08/expanding-capabilities-to-combat-transnational-cyber-enabled-crime/",
-   "published": "2026-08-12T21:43:13+00:00",
-   "summary": "MEMORANDUM FOR THE VICE PRESIDENT THE SECRETARY OF STATE THE SECRETARY OF THE TREASURY THE SECRETARY OF WAR THE ATTORNEY GENERAL THE SECRETARY OF COMMERCE THE SECRETARY OF ENERGY THE SECRETARY OF HOMELAND SECURITY THE ASSISTANT TO THE PRESIDENT AND CHIEF OF STAFF THE DIRECTOR OF NATIONAL INTELLIGENCE THE ASSISTANT TO THE PRESIDENT FOR SCIENCE [&#8230;] The post Expanding Capabilities to Combat Tra",
-   "tags": [],
    "highlight": false
   }
  ]
