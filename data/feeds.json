@@ -1,6 +1,51 @@
 {
- "asOf": "2026-08-14T03:15:31.415860+00:00",
+ "asOf": "2026-08-14T05:42:30.351364+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Fear and attacks grip Taybeh, the last all-Christian town in the West Bank",
+   "url": "https://www.aljazeera.com/features/2026/8/14/fear-and-attacks-grip-taybeh-the-last-all-christian-town-in-the-west-bank?traffic_source=rss",
+   "published": "2026-08-14T05:08:32+00:00",
+   "summary": "Historic Taybeh, a Palestinian Christian town in the occupied West Bank, targeted by settlers in coordinated attacks.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Salvage work begins on tanker leaking oil off Oman, risk firm says",
+   "url": "https://www.aljazeera.com/economy/2026/8/14/salvage-work-begins-on-tanker-leaking-oil-off-oman-risk-firm-says?traffic_source=rss",
+   "published": "2026-08-14T04:52:45+00:00",
+   "summary": "Environmental NGO Greenpeace warns that spill has rapidly expanded to 1,300 square kilometres, threatening ecosystems.",
+   "tags": [
+    "shipping",
+    "oil"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "White House report details ‘Great Transshipment Scam’ costing tens of billions in tariff evasion:",
+   "url": "https://trumpstruth.org/statuses/40816",
+   "published": "2026-08-14T04:18:52+00:00",
+   "summary": "White House report details ‘Great Transshipment Scam’ costing tens of billions in tariff evasion: https:// justthenews.com/government/whi te-house/white-house-report-details-great-transshipment-scam-costing-tens-billions",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Oil slick from tanker carrying sanctioned Russian crude reaches Oman",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/oil-slick-from-tanker-carrying-sanctioned-russian-crude-reaches-oman?traffic_source=rss",
+   "published": "2026-08-14T03:20:09+00:00",
+   "summary": "An oil slick from the tanker the Caroline Bezengi has reached Oman’s coastline weeks after the vessel ran aground.",
+   "tags": [
+    "sanctions",
+    "shipping",
+    "oil"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Talks between government and opposition mark a new chapter for Venezuela",
@@ -359,15 +404,6 @@
    "highlight": true
   },
   {
-   "source": "Trump · Truth Social",
-   "title": "Judicial Watch Files Senate Ethics Complaint against Sen. Sheldon Whitehouse over Conflicts of Interest Concerning His Consultant Wife:",
-   "url": "https://trumpstruth.org/statuses/40789",
-   "published": "2026-08-13T16:57:27+00:00",
-   "summary": "Judicial Watch Files Senate Ethics Complaint against Sen. Sheldon Whitehouse over Conflicts of Interest Concerning His Consultant Wife: https://www. judicialwatch.org/ethics-compl aint-whitehouse/",
-   "tags": [],
-   "highlight": true
-  },
-  {
    "source": "Al Jazeera",
    "title": "Is Russia’s economy cracking despite the Iran war windfall?",
    "url": "https://www.aljazeera.com/video/counting-the-cost/2026/8/13/is-russias-economy-cracking-despite-the-iran-war-windfall?traffic_source=rss",
@@ -575,39 +611,6 @@
    "tags": [
     "shipping",
     "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iran war live: US, Tehran exchange opposing claims over Hormuz control",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/8/13/iran-war-live-us-and-iran-exchange-opposing-claims-over-hormuz-control?traffic_source=rss",
-   "published": "2026-08-13T00:00:00+00:00",
-   "summary": "President Trump again insists US has &#039;total control&#039; of strait, while Tehran resolute that the US must meet its demands.",
-   "tags": [
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "US strikes in Yemen killed 153 civilians in 2025, says Pentagon review",
-   "url": "https://www.aljazeera.com/news/2026/8/12/us-strikes-in-yemen-killed-153-civilians-in-2025-says-pentagon-review?traffic_source=rss",
-   "published": "2026-08-12T21:53:17+00:00",
-   "summary": "The unclassified Pentagon review sheds new light on civilian harm from the US campaign against Yemen’s Houthis.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Hegseth cautions that ICC may investigate US boat strikes in Latin America",
-   "url": "https://www.aljazeera.com/news/2026/8/12/hegseth-cautions-that-icc-may-investigate-us-boat-strikes-in-latin-america?traffic_source=rss",
-   "published": "2026-08-12T21:52:18+00:00",
-   "summary": "US defence chief vows to continue campaign against drug cartels, says Colombia has joined regional military coalition.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   }
