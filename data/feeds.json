@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-14T13:55:21.674750+00:00",
+ "asOf": "2026-08-14T15:05:26.693312+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Mutual defence: The alliances that preceded Turkiye-Pakistan-Saudi pact",
+   "url": "https://www.aljazeera.com/news/2026/8/14/mutual-defence-the-alliances-that-preceded-turkiye-pakistan-saudi-pact?traffic_source=rss",
+   "published": "2026-08-14T14:19:30+00:00",
+   "summary": "The pact says an armed ⁠⁠attack on any one of the ⁠⁠three countries would be ⁠⁠regarded as an ⁠⁠attack against them all.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Russia stance will be defended in court, pledges World Athletics chief Coe",
@@ -602,17 +613,6 @@
    "summary": "At 10 a.m., the Security Council will hold a meeting on Yemen. UN Special Envoy for Yemen Hans Grundberg, an official from the UN Office for the Coordination of Humanitarian Affairs (OCHA) and a civil society representative are expected to brief on the latest developments in the country.",
    "tags": [
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Washington made major miscalculation over Strait of Hormuz: Araghchi",
-   "url": "https://en.irna.ir/news/86234656/Washington-made-major-miscalculation-over-Strait-of-Hormuz-Araghchi",
-   "published": "2026-08-13T10:31:41+00:00",
-   "summary": "Tehran, IRNA – Foreign Minister Abbas Araghchi has pointed to the United States’ intelligence failures and miscalculations, saying the war against Iran has been a clear example of those errors, and that Washington has now made an even bigger miscalculation regarding the Strait of Hormuz.",
-   "tags": [
-    "shipping"
    ],
    "highlight": false
   }
