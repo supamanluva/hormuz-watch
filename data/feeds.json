@@ -1,6 +1,28 @@
 {
- "asOf": "2026-08-14T05:42:30.351364+00:00",
+ "asOf": "2026-08-14T06:12:20.028103+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran links Qeshm Island oil pollution to foreign military aggression in region",
+   "url": "https://en.irna.ir/news/86235016/Iran-links-Qeshm-Island-oil-pollution-to-foreign-military-aggression",
+   "published": "2026-08-14T06:10:42+00:00",
+   "summary": "Tehran, IRNA – Deputy Foreign Minister for Legal and International Affairs, Kazem Gharibabadi, says the recent oil pollution along the shores of Qeshm Island in Iran stems from the consequences of foreign military aggression in the region.",
+   "tags": [
+    "oil"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "North Korea fumes over upcoming US-South Korea military drills",
+   "url": "https://www.aljazeera.com/news/2026/8/14/north-korea-fumes-over-upcoming-us-south-korea-military-drills?traffic_source=rss",
+   "published": "2026-08-14T05:40:45+00:00",
+   "summary": "Pyongyang has accused the US of pushing the world &#039;to the brink of nuclear war&#039;.",
+   "tags": [
+    "nuclear"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Fear and attacks grip Taybeh, the last all-Christian town in the West Bank",
@@ -588,29 +610,6 @@
    "summary": "Tehran, IRNA – Foreign Ministry spokesperson Esmaeil Baqaei says the environmental condition of the Strait of Hormuz and its surrounding waters must be treated as a core requirement in any future management framework for the Strait of Hormuz.",
    "tags": [
     "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Russian strike sparks fire at Ukraine port; Zelenskyy seeks interceptors",
-   "url": "https://www.aljazeera.com/news/2026/8/13/russian-strike-sparks-fire-at-ukraine-port-zelenskyy-seeks-interceptors?traffic_source=rss",
-   "published": "2026-08-13T05:26:05+00:00",
-   "summary": "Ukraine has reported an acute shortage of Patriot interceptors since the US went to war with Iran in February.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Oman says oil spill from stricken tanker has reached its coast",
-   "url": "https://www.aljazeera.com/economy/2026/8/13/oman-says-oil-spill-from-stricken-tanker-has-reached-its-coast?traffic_source=rss",
-   "published": "2026-08-13T04:26:11+00:00",
-   "summary": "Up to 40km of coastline affected by oil pollution, Omani environmental authority says.",
-   "tags": [
-    "shipping",
-    "oil"
    ],
    "highlight": false
   }
