@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-14T15:26:45.142388+00:00",
+ "asOf": "2026-08-14T15:48:46.214214+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Qatar challenges AFC over open letter attacking FIFA President Infantino",
+   "url": "https://www.aljazeera.com/sports/2026/8/14/qatar-challenges-afc-over-open-letter-attacking-fifa-president-infantino?traffic_source=rss",
+   "published": "2026-08-14T15:36:58+00:00",
+   "summary": "Qatar FA President Hamad bin Khalifa Al-Thani complains about lack of consultation about AFC open letter to FIFA.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Mutual defence: The alliances that preceded Turkiye-Pakistan-Saudi pact",
@@ -591,17 +602,6 @@
    "tags": [
     "diplomacy",
     "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "More than 135 million people in Europe face temperatures over 35C",
-   "url": "https://www.aljazeera.com/news/2026/8/13/more-than-135-million-people-in-europe-set-for-temperatures-over-35c?traffic_source=rss",
-   "published": "2026-08-13T11:38:39+00:00",
-   "summary": "Europe is the fastest-warming continent in the world and in some places is ill-equipped to deal with hot weather.",
-   "tags": [
-    "diplomacy"
    ],
    "highlight": false
   },
