@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-14T07:40:37.550952+00:00",
+ "asOf": "2026-08-14T08:48:12.579849+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Engine debris shattered Ryanair window, pulling passenger out, NTSB says",
+   "url": "https://www.aljazeera.com/news/2026/8/14/engine-debris-shattered-ryanair-window-pulling-passenger-out-ntsb-says?traffic_source=rss",
+   "published": "2026-08-14T08:15:17+00:00",
+   "summary": "Flight crews had recorded four suspected bird strikes involving the same engine during the previous year.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Iran links Qeshm Island oil pollution to foreign military aggression in region",
@@ -597,17 +608,6 @@
    "url": "https://www.aljazeera.com/video/project-force-2/2026/8/13/will-the-houthis-shut-down-saudi-arabian-shipping?traffic_source=rss",
    "published": "2026-08-13T06:21:24+00:00",
    "summary": "The announcement of a new naval blockade threatens to restart full-scale war between Yemen&#039;s Houthis and Saudi Arabia",
-   "tags": [
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran says future administration of Strait of Hormuz must address its environmental condition",
-   "url": "https://en.irna.ir/news/86234486/Iran-says-future-administration-of-Strait-of-Hormuz-must-address",
-   "published": "2026-08-13T06:17:10+00:00",
-   "summary": "Tehran, IRNA – Foreign Ministry spokesperson Esmaeil Baqaei says the environmental condition of the Strait of Hormuz and its surrounding waters must be treated as a core requirement in any future management framework for the Strait of Hormuz.",
    "tags": [
     "shipping"
    ],
