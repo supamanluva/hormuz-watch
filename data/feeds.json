@@ -1,6 +1,29 @@
 {
- "asOf": "2026-08-14T22:53:41.954414+00:00",
+ "asOf": "2026-08-14T23:13:08.671446+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Houthi attack on port kills four eroding truce with Yemen’s government",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/houthi-attack-on-port-kills-four-eroding-truce-with-yemens-government?traffic_source=rss",
+   "published": "2026-08-14T22:58:58+00:00",
+   "summary": "Six Houthi ballistic missiles struck Yemen&#039;s government-held al-Makha port, killing at least four.",
+   "tags": [
+    "strikes",
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Yemen’s government says Houthi attack on al-Makha kills at least four",
+   "url": "https://www.aljazeera.com/news/2026/8/14/yemens-government-says-houthi-attack-on-al-makha-kills-at-least-four?traffic_source=rss",
+   "published": "2026-08-14T22:45:19+00:00",
+   "summary": "Hostilities are rising between Iran-backed Houthis and Yemen&#039;s internationally recognised government.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Trump says he will declare Strait of Hormuz a US ‘territory’ amid Iran war",
@@ -588,28 +611,6 @@
    "tags": [
     "strikes",
     "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Will all-out war in Yemen reignite as the Houthis escalate attacks?",
-   "url": "https://www.aljazeera.com/news/2026/8/13/will-all-out-war-in-yemen-reignite-as-houthis-escalate-attacks?traffic_source=rss",
-   "published": "2026-08-13T15:27:52+00:00",
-   "summary": "Analysts say Saudi Arabia is strengthening its position with regional allies as the Houthis increase their attacks.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iran says Strait of Hormuz under its control, rejects Trump claims",
-   "url": "https://www.aljazeera.com/news/2026/8/13/iran-says-strait-of-hormuz-under-its-control-rejects-trump-claims?traffic_source=rss",
-   "published": "2026-08-13T14:59:42+00:00",
-   "summary": "Iran asserts full control over the Strait of Hormuz, challenging US claims of dominance in the strategic waterway.",
-   "tags": [
-    "shipping"
    ],
    "highlight": false
   }
