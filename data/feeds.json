@@ -1,6 +1,29 @@
 {
- "asOf": "2026-08-15T05:13:46.569436+00:00",
+ "asOf": "2026-08-15T05:54:01.916335+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Strait of Hormuz can only be opened or closed by Iran’s command: Official",
+   "url": "https://en.irna.ir/news/86235515/Strait-of-Hormuz-can-only-be-opened-or-closed-by-Iran-s-command",
+   "published": "2026-08-15T05:19:33+00:00",
+   "summary": "Tehran, IRNA – Iran’s Deputy Foreign Minister for Legal and International Affairs, Kazem Gharibabadi, has rejected US President Donald Trump’s claims regarding the Strait of Hormuz, stressing that Iran retains authority over the strategic waterway.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Taiwan passes defence budget after record delay, retains drone funding",
+   "url": "https://www.aljazeera.com/economy/2026/8/15/taiwan-passes-defence-budget-after-record-delay-retains-drone-funding?traffic_source=rss",
+   "published": "2026-08-15T04:44:14+00:00",
+   "summary": "Taiwan parliament ends deadlock, ensuring vital drone programme funding amid rising cross-strait tensions with Beijing.",
+   "tags": [
+    "strikes",
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Iran says no decision yet on a return to talks with the US",
@@ -554,18 +577,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "UAE accuses Iran of attacks on two ADNOC vessels in Strait of Hormuz",
-   "url": "https://www.aljazeera.com/news/2026/8/14/uae-accuses-iran-of-attacks-on-two-adnoc-vessels-in-strait-of-hormuz?traffic_source=rss",
-   "published": "2026-08-14T00:33:48+00:00",
-   "summary": "No injuries were reported in the attack, which the UAE called &#039;piracy&#039; and a threat to global energy security.",
-   "tags": [
-    "strikes",
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
    "source": "UN Press",
    "title": "Security Council ISIL (Da’esh) and Al-Qaida Sanctions Committee Amends Four Entries on Its Sanctions List",
    "url": "https://press.un.org/en/2026/sc16432.doc.htm",
@@ -603,15 +614,6 @@
    "url": "https://www.whitehouse.gov/presidential-actions/2026/08/adjusting-imports-of-unmanned-aircraft-systems-and-unmanned-aircraft-systems-components-into-the-united-states/",
    "published": "2026-08-13T21:21:57+00:00",
    "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA A PROCLAMATION 1. &#160;Within the past 90 days, the Secretary of Commerce (Secretary) transmitted to me a report on his investigation into the effects of imports of unmanned aircraft systems (UAS), as well as their parts and components (together, UAS components), on the national security of [&#8230;] The post Adjusting Imports of Unmanned Aircraft ",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "Rebuilding the United States Navy and America’s Shipbuilding Industrial Base",
-   "url": "https://www.whitehouse.gov/presidential-actions/2026/08/rebuilding-the-united-states-navy-and-americas-shipbuilding-industrial-base/",
-   "published": "2026-08-13T21:21:46+00:00",
-   "summary": "MEMORANDUM FOR THE SECRETARY OF WAR THE DIRECTOR OF THE OFFICE OF MANAGEMENT AND BUDGET THE ASSISTANT TO THE PRESIDENT FOR NATIONAL SECURITY AFFAIRS SUBJECT: Rebuilding the United States Navy and America&#8217;s Shipbuilding Industrial Base By the authority vested in me as President by the Constitution and the laws of the United States of [&#8230;] The post Rebuilding the United States Navy and Am",
    "tags": [],
    "highlight": false
   }
