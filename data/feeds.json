@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-15T00:25:45.150167+00:00",
+ "asOf": "2026-08-15T00:44:15.909863+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Iran war live: Trump vows to make Hormuz US territory ‘pretty soon’",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/8/15/iran-war-live-trump-vows-to-make-hormuz-us-territory-pretty-soon?traffic_source=rss",
+   "published": "2026-08-15T00:00:00+00:00",
+   "summary": "US President Trump says that &#039;pretty soon&#039; he will declare the Strait of Hormuz a US territory once Iran is defeated.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Lebanon’s PM urges timetable for Israeli withdrawal as Hezbollah slams deal",
@@ -602,15 +613,6 @@
     "strikes",
     "diplomacy"
    ],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General",
-   "url": "https://press.un.org/en/2026/db260813.doc.htm",
-   "published": "2026-08-13T18:11:21+00:00",
-   "summary": "UN Emergency Relief Coordinator Tom Fletcher has allocated $5 million from the UN Central Emergency Response Fund to support the humanitarian response in Colombia following the devastating earthquake there. The UN is also deploying teams to assess needs in most impacted areas, in coordination with local authorities.",
-   "tags": [],
    "highlight": false
   }
  ]
