@@ -1,6 +1,53 @@
 {
- "asOf": "2026-08-15T20:13:11.496469+00:00",
+ "asOf": "2026-08-15T20:36:13.061495+00:00",
  "items": [
+  {
+   "source": "Trump · Truth Social",
+   "title": "[No Title] - Post from August 15, 2026",
+   "url": "https://trumpstruth.org/statuses/40884",
+   "published": "2026-08-15T20:32:47+00:00",
+   "summary": "",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "[No Title] - Post from August 15, 2026",
+   "url": "https://trumpstruth.org/statuses/40881",
+   "published": "2026-08-15T20:25:07+00:00",
+   "summary": "",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "[No Title] - Post from August 15, 2026",
+   "url": "https://trumpstruth.org/statuses/40882",
+   "published": "2026-08-15T20:24:54+00:00",
+   "summary": "",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "[No Title] - Post from August 15, 2026",
+   "url": "https://trumpstruth.org/statuses/40883",
+   "published": "2026-08-15T20:22:08+00:00",
+   "summary": "",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran condemns Israeli continued attacks on Lebanon",
+   "url": "https://en.irna.ir/news/86236388/Iran-condemns-Israeli-continued-attacks-on-Lebanon",
+   "published": "2026-08-15T20:12:40+00:00",
+   "summary": "Tehran, IRNA – Foreign Ministry spokesperson Esmaeil Baqaei has condemned the Zionist regime's continued violations of international law and human rights in Lebanon.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "[No Title] - Post from August 15, 2026",
@@ -520,42 +567,6 @@
    "highlight": true
   },
   {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from August 15, 2026",
-   "url": "https://trumpstruth.org/statuses/40856",
-   "published": "2026-08-15T01:51:47+00:00",
-   "summary": "",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from August 15, 2026",
-   "url": "https://trumpstruth.org/statuses/40857",
-   "published": "2026-08-15T01:51:37+00:00",
-   "summary": "",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from August 15, 2026",
-   "url": "https://trumpstruth.org/statuses/40858",
-   "published": "2026-08-15T01:51:31+00:00",
-   "summary": "",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from August 15, 2026",
-   "url": "https://trumpstruth.org/statuses/40859",
-   "published": "2026-08-15T01:51:21+00:00",
-   "summary": "",
-   "tags": [],
-   "highlight": true
-  },
-  {
    "source": "Al Jazeera",
    "title": "Iran war live: Trump vows to make Hormuz US territory ‘pretty soon’",
    "url": "https://www.aljazeera.com/news/liveblog/2026/8/15/iran-war-live-trump-vows-to-make-hormuz-us-territory-pretty-soon?traffic_source=rss",
@@ -609,18 +620,6 @@
    "tags": [
     "diplomacy",
     "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Security Council ISIL (Da’esh) and Al-Qaida Sanctions Committee Amends Four Entries on Its Sanctions List",
-   "url": "https://press.un.org/en/2026/sc16433.doc.htm",
-   "published": "2026-08-14T20:01:05+00:00",
-   "summary": "On 14 August 2026, the Security Council Committee pursuant to resolutions 1267 (1999), 1989 (2011) and 2253 (2015) concerning ISIL (Da’esh), Al‑Qaida and associated individuals, groups, undertakings and entities enacted the amendments specified with strikethrough and underline in the entries below on its ISIL (Da’esh) and Al-Qaida Sanctions List of individuals and entities subject to the assets fr",
-   "tags": [
-    "strikes",
-    "sanctions"
    ],
    "highlight": false
   }
