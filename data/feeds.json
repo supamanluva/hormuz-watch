@@ -1,5 +1,5 @@
 {
- "asOf": "2026-08-15T08:14:00.964764+00:00",
+ "asOf": "2026-08-15T08:39:20.628456+00:00",
  "items": [
   {
    "source": "IRNA (Iran state wire)",
@@ -7,6 +7,17 @@
    "url": "https://en.irna.ir/news/86235558/Iran-s-envoy-criticizes-168-days-of-silence-by-international",
    "published": "2026-08-15T07:56:25+00:00",
    "summary": "Moscow, IRNA — Iran’s Ambassador to Russia Kazem Jalali has criticized 168 days of silence by international organizations regarding the US crime of killing 168 students and staff of the Minab school, Hormozgan Province, southern Iran.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Arteta assures Arsenal fans over contract before Man City clash",
+   "url": "https://www.aljazeera.com/sports/2026/8/15/arteta-assures-arsenal-fans-over-contract-ahead-of-man-city-clash?traffic_source=rss",
+   "published": "2026-08-15T07:44:35+00:00",
+   "summary": "Mikel Arteta, who ended Arsenal&#039;s 22-year wait for a Premier League title, says contract negotiations will be resolved.",
    "tags": [
     "diplomacy"
    ],
@@ -594,18 +605,6 @@
    "summary": "Historic Taybeh, a Palestinian Christian town in the occupied West Bank, targeted by settlers in coordinated attacks.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Salvage work begins on tanker leaking oil off Oman, risk firm says",
-   "url": "https://www.aljazeera.com/economy/2026/8/14/salvage-work-begins-on-tanker-leaking-oil-off-oman-risk-firm-says?traffic_source=rss",
-   "published": "2026-08-14T04:52:45+00:00",
-   "summary": "Environmental NGO Greenpeace warns that spill has rapidly expanded to 1,300 square kilometres, threatening ecosystems.",
-   "tags": [
-    "shipping",
-    "oil"
    ],
    "highlight": false
   },
