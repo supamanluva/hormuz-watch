@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-15T07:54:49.916180+00:00",
+ "asOf": "2026-08-15T08:14:00.964764+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran’s envoy criticizes 168 days of silence by international organizations over Minab crime",
+   "url": "https://en.irna.ir/news/86235558/Iran-s-envoy-criticizes-168-days-of-silence-by-international",
+   "published": "2026-08-15T07:56:25+00:00",
+   "summary": "Moscow, IRNA — Iran’s Ambassador to Russia Kazem Jalali has criticized 168 days of silence by international organizations regarding the US crime of killing 168 students and staff of the Minab school, Hormozgan Province, southern Iran.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Israeli strike kills seven in south Lebanon as attacks intensify",
@@ -608,15 +619,6 @@
     "strikes",
     "sanctions"
    ],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "Fact Sheet: President Donald J. Trump Rebuilds the U.S. Navy and America’s Shipbuilding Industrial Base",
-   "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-rebuilds-the-u-s-navy-and-americas-shipbuilding-industrial-base/",
-   "published": "2026-08-13T21:23:07+00:00",
-   "summary": "TRANSFORMING U.S. SHIPBUILDING:&#160;Today,&#160;President Donald J. Trump signed a National Security Presidential Memorandum to fix critical long-term issues in Navy shipbuilding and ship repair programs and restore capacity and competition to the maritime industrial base. ADDRESSING PERSISTENT FAILURES IN SHIPBUILDING:&#160;President Trump is revitalizing America’s shipbuilding industry, which i",
-   "tags": [],
    "highlight": false
   }
  ]
