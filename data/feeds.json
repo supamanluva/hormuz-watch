@@ -1,6 +1,18 @@
 {
- "asOf": "2026-08-15T04:15:29.161383+00:00",
+ "asOf": "2026-08-15T04:56:48.890884+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Iran says no decision yet on a return to talks with the US",
+   "url": "https://www.aljazeera.com/news/2026/8/15/iran-says-no-decision-yet-on-a-return-to-talks-with-the-us?traffic_source=rss",
+   "published": "2026-08-15T04:24:02+00:00",
+   "summary": "FM Abbas Araghchi says Iran is working with Oman on routes, but Hormuz shipping depends on US meeting conditions.",
+   "tags": [
+    "diplomacy",
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Did the US really destroy Iran’s ballistic missile capability?",
@@ -550,17 +562,6 @@
    "tags": [
     "strikes",
     "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Yemen faces highest risk of returning to war since 2022 truce, UN warns",
-   "url": "https://www.aljazeera.com/news/2026/8/14/yemen-faces-highest-risk-of-returning-to-war-since-2022-truce-un-warns?traffic_source=rss",
-   "published": "2026-08-14T00:02:22+00:00",
-   "summary": "Civilian and military casualties have been reported as fighting has flared across Yemeni front lines in recent days.",
-   "tags": [
-    "diplomacy"
    ],
    "highlight": false
   },
