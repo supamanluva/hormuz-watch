@@ -1,10 +1,21 @@
 {
- "asOf": "2026-08-15T05:54:01.916335+00:00",
+ "asOf": "2026-08-15T06:14:43.466640+00:00",
  "items": [
   {
    "source": "IRNA (Iran state wire)",
    "title": "Strait of Hormuz can only be opened or closed by Iran’s command: Official",
    "url": "https://en.irna.ir/news/86235515/Strait-of-Hormuz-can-only-be-opened-or-closed-by-Iran-s-command",
+   "published": "2026-08-15T05:19:33+00:00",
+   "summary": "Tehran, IRNA – Iran’s Deputy Foreign Minister for Legal and International Affairs, Kazem Gharibabadi, has rejected US President Donald Trump’s claims regarding the Strait of Hormuz, stressing that Iran retains authority over the strategic waterway.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Strait of Hormuz can be opened or closed only by Iran’s command: Official",
+   "url": "https://en.irna.ir/news/86235515/Strait-of-Hormuz-can-be-opened-or-closed-only-by-Iran-s-command",
    "published": "2026-08-15T05:19:33+00:00",
    "summary": "Tehran, IRNA – Iran’s Deputy Foreign Minister for Legal and International Affairs, Kazem Gharibabadi, has rejected US President Donald Trump’s claims regarding the Strait of Hormuz, stressing that Iran retains authority over the strategic waterway.",
    "tags": [
@@ -606,15 +617,6 @@
    "tags": [
     "strikes"
    ],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "Adjusting Imports of Unmanned Aircraft Systems and Unmanned Aircraft Systems Components into the United States",
-   "url": "https://www.whitehouse.gov/presidential-actions/2026/08/adjusting-imports-of-unmanned-aircraft-systems-and-unmanned-aircraft-systems-components-into-the-united-states/",
-   "published": "2026-08-13T21:21:57+00:00",
-   "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA A PROCLAMATION 1. &#160;Within the past 90 days, the Secretary of Commerce (Secretary) transmitted to me a report on his investigation into the effects of imports of unmanned aircraft systems (UAS), as well as their parts and components (together, UAS components), on the national security of [&#8230;] The post Adjusting Imports of Unmanned Aircraft ",
-   "tags": [],
    "highlight": false
   }
  ]
