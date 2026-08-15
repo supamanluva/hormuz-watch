@@ -1,6 +1,28 @@
 {
- "asOf": "2026-08-15T13:02:10.333364+00:00",
+ "asOf": "2026-08-15T13:18:06.369130+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Vienna woman sues city for discrimination over toilet fees",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/vienna-woman-sues-city-for-discrimination-over-toilet-fees?traffic_source=rss",
+   "published": "2026-08-15T13:01:31+00:00",
+   "summary": "An Austrian activist in Vienna is challenging the city over public toilet fees.",
+   "tags": [
+    "oil"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Five years on, how will Taliban deal with armed opposition?",
+   "url": "https://www.aljazeera.com/news/2026/8/15/five-years-on-how-will-taliban-deal-with-armed-opposition?traffic_source=rss",
+   "published": "2026-08-15T12:44:30+00:00",
+   "summary": "The United Nations says armed groups opposed to the government remain active.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "White House report details ‘Great Transshipment Scam’ costing tens of billions in tariff evasion:",
@@ -595,29 +617,6 @@
    "summary": "Thirteen countries have become members of the Saudi-led maritime alliance.",
    "tags": [
     "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Russian ballistic attacks intensify as Kyiv claims Dnipropetrovsk advance",
-   "url": "https://www.aljazeera.com/news/2026/8/14/ukraine-liberates-dnipropetrovsk-as-russia-intensifies-missile-attacks?traffic_source=rss",
-   "published": "2026-08-14T11:04:40+00:00",
-   "summary": "Ukraine says it has liberated 26 settlements in the south as it retools under heavy bombardment.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Russia says hit Ukrainian railway and port facilities in new strikes",
-   "url": "https://www.aljazeera.com/news/2026/8/14/russia-says-hit-ukrainian-railway-and-port-facilities-in-new-strikes?traffic_source=rss",
-   "published": "2026-08-14T09:28:03+00:00",
-   "summary": "Kyiv targets Baltic oil hub and warehouse near Moscow with drones.",
-   "tags": [
-    "strikes",
-    "oil"
    ],
    "highlight": false
   }
