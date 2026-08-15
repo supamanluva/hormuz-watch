@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-14T23:13:08.671446+00:00",
+ "asOf": "2026-08-14T23:53:49.855523+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Lebanon’s PM urges timetable for Israeli withdrawal as Hezbollah slams deal",
+   "url": "https://www.aljazeera.com/news/2026/8/14/lebanons-pm-urges-timetable-for-israeli-withdrawal-as-hezbollah-slams-deal?traffic_source=rss",
+   "published": "2026-08-14T23:02:55+00:00",
+   "summary": "Hezbollah criticises Beirut’s approach, accusing officials of exposing the Lebanese army to risks and Israeli pressure.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Houthi attack on port kills four eroding truce with Yemen’s government",
@@ -600,18 +611,6 @@
    "published": "2026-08-13T18:11:21+00:00",
    "summary": "UN Emergency Relief Coordinator Tom Fletcher has allocated $5 million from the UN Central Emergency Response Fund to support the humanitarian response in Colombia following the devastating earthquake there. The UN is also deploying teams to assess needs in most impacted areas, in coordination with local authorities.",
    "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Is Russia’s economy cracking despite the Iran war windfall?",
-   "url": "https://www.aljazeera.com/video/counting-the-cost/2026/8/13/is-russias-economy-cracking-despite-the-iran-war-windfall?traffic_source=rss",
-   "published": "2026-08-13T16:40:42+00:00",
-   "summary": "A widening deficit and Ukrainian strikes are testing Russia&#039;s economy, even as war in the Middle East lifts oil revenue.",
-   "tags": [
-    "strikes",
-    "oil"
-   ],
    "highlight": false
   }
  ]
