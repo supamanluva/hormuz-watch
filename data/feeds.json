@@ -1,6 +1,26 @@
 {
- "asOf": "2026-08-15T16:36:42.870613+00:00",
+ "asOf": "2026-08-15T17:13:21.029932+00:00",
  "items": [
+  {
+   "source": "Trump · Truth Social",
+   "title": "[No Title] - Post from August 15, 2026",
+   "url": "https://trumpstruth.org/statuses/40878",
+   "published": "2026-08-15T16:45:40+00:00",
+   "summary": "",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "High-level Tajik delegation meets FM Araghchi in Tehran",
+   "url": "https://en.irna.ir/news/86236287/High-level-Tajik-delegation-meets-FM-Araghchi-in-Tehran",
+   "published": "2026-08-15T16:42:03+00:00",
+   "summary": "Tehran, IRNA – A high-ranking Tajik delegation held talks with Iranian Foreign Minister Abbas Araghchi in Tehran on Saturday, as part of an official visit aimed at deepening diplomatic and economic cooperation between the two friendly nations.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "[No Title] - Post from August 15, 2026",
@@ -491,15 +511,6 @@
    "highlight": true
   },
   {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from August 15, 2026",
-   "url": "https://trumpstruth.org/statuses/40835",
-   "published": "2026-08-15T01:49:11+00:00",
-   "summary": "",
-   "tags": [],
-   "highlight": true
-  },
-  {
    "source": "Al Jazeera",
    "title": "Iran war live: Trump vows to make Hormuz US territory ‘pretty soon’",
    "url": "https://www.aljazeera.com/news/liveblog/2026/8/15/iran-war-live-trump-vows-to-make-hormuz-us-territory-pretty-soon?traffic_source=rss",
@@ -606,17 +617,6 @@
    "published": "2026-08-14T17:36:36+00:00",
    "summary": "Today, our Nation commemorates 91 years since&#160;President Franklin D. Roosevelt&#160;signed the&#160;landmark&#160;Social Security Act into law. &#160;For more than nine decades,&#160;this program&#160;has stood as a fundamental promise at the heart of American life, guaranteeing that the men and women who built our country, raised our families, and powered the greatest economy on&#160;Earth ca",
    "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Qatar challenges AFC over open letter attacking FIFA President Infantino",
-   "url": "https://www.aljazeera.com/sports/2026/8/14/qatar-challenges-afc-over-open-letter-attacking-fifa-president-infantino?traffic_source=rss",
-   "published": "2026-08-14T15:36:58+00:00",
-   "summary": "Qatar FA President Hamad bin Khalifa Al-Thani complains about lack of consultation about AFC open letter to FIFA.",
-   "tags": [
-    "strikes"
-   ],
    "highlight": false
   }
  ]
