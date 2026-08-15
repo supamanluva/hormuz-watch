@@ -1,6 +1,26 @@
 {
- "asOf": "2026-08-15T19:13:41.210359+00:00",
+ "asOf": "2026-08-15T19:33:57.378476+00:00",
  "items": [
+  {
+   "source": "Trump · Truth Social",
+   "title": "[No Title] - Post from August 15, 2026",
+   "url": "https://trumpstruth.org/statuses/40880",
+   "published": "2026-08-15T19:20:51+00:00",
+   "summary": "",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Death toll from Zimbabwe ferry disaster rises to 69",
+   "url": "https://www.aljazeera.com/news/2026/8/15/death-toll-from-zimbabwe-ferry-disaster-rises-to-69?traffic_source=rss",
+   "published": "2026-08-15T19:10:06+00:00",
+   "summary": "Police say 23 more bodies have been recovered from Lake Kariba after the overloaded vessel capsized on Tuesday.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "[No Title] - Post from August 15, 2026",
@@ -536,15 +556,6 @@
    "highlight": true
   },
   {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from August 15, 2026",
-   "url": "https://trumpstruth.org/statuses/40833",
-   "published": "2026-08-15T01:49:33+00:00",
-   "summary": "",
-   "tags": [],
-   "highlight": true
-  },
-  {
    "source": "Al Jazeera",
    "title": "Iran war live: Trump vows to make Hormuz US territory ‘pretty soon’",
    "url": "https://www.aljazeera.com/news/liveblog/2026/8/15/iran-war-live-trump-vows-to-make-hormuz-us-territory-pretty-soon?traffic_source=rss",
@@ -610,19 +621,6 @@
    "tags": [
     "strikes",
     "sanctions"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "New aerial video reveals huge scale of oil spill off Oman",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/new-aerial-video-reveals-huge-scale-of-oil-spill-off-oman?traffic_source=rss",
-   "published": "2026-08-14T19:36:45+00:00",
-   "summary": "A potential environmental disaster is unfolding off Oman, where a grounded tanker is leaking sanctioned Russian oil.",
-   "tags": [
-    "sanctions",
-    "shipping",
-    "oil"
    ],
    "highlight": false
   }
