@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-15T07:01:36.976944+00:00",
+ "asOf": "2026-08-15T07:17:48.953863+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "South Korea’s president wants talks with North to end Korean War",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/south-koreas-president-wants-talks-with-north-to-end-korean-war?traffic_source=rss",
+   "published": "2026-08-15T06:53:28+00:00",
+   "summary": "South Korean President Lee Jae Myung has proposed talks with North Korea to formally end the Korean War.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Increasing arsenals won’t enhance global peace: Iranian envoy",
@@ -585,17 +596,6 @@
     "sanctions",
     "shipping",
     "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Talks between government and opposition mark a new chapter for Venezuela",
-   "url": "https://www.aljazeera.com/news/longform/2026/8/14/talks-between-government-and-opposition-mark-a-new-chapter-for-venezuela?traffic_source=rss",
-   "published": "2026-08-14T02:07:03+00:00",
-   "summary": "The government of Delcy Rodriguez held its first talks with part of Venezuela&#039;s opposition. But what will they achieve?",
-   "tags": [
-    "diplomacy"
    ],
    "highlight": false
   },
