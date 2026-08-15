@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-15T11:52:17.216697+00:00",
+ "asOf": "2026-08-15T12:13:58.694241+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Is China seeking to copy Iran’s Strait of Hormuz blockade around Taiwan?",
+   "url": "https://www.aljazeera.com/video/101-east/2026/8/15/is-china-seeking-to-copy-irans-strait-of-hormuz-blockade-around-taiwan?traffic_source=rss",
+   "published": "2026-08-15T11:30:00+00:00",
+   "summary": "Taiwan has long prepared for a Chinese military invasion but wars in Iran and Ukraine expose new potential threats.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "World Cup winner Ferran Torres joins Paris Saint-Germain from Barcelona",
@@ -607,17 +618,6 @@
    "tags": [
     "strikes",
     "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "What is a ‘ceasefire’ supposed to achieve?",
-   "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/8/14/what-is-a-ceasefire-supposed-to-achieve?traffic_source=rss",
-   "published": "2026-08-14T09:00:51+00:00",
-   "summary": "Gaza, Lebanon, Iran, Ukraine: four ceasefires, none that held. AJLabs on why truces keep collapsing.",
-   "tags": [
-    "diplomacy"
    ],
    "highlight": false
   }
