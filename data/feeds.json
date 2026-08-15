@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-15T03:58:50.709712+00:00",
+ "asOf": "2026-08-15T04:15:29.161383+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Did the US really destroy Iran’s ballistic missile capability?",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/08-11-2026-tia-us-iran-munitions-quotable?traffic_source=rss",
+   "published": "2026-08-15T03:52:08+00:00",
+   "summary": "The US claims it destroyed Iran’s missile capability, but a former White House adviser calls that a “pipe dream&quot;.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "US President Trump says he will declare Strait of Hormuz US territory",
@@ -550,17 +561,6 @@
    "summary": "Civilian and military casualties have been reported as fighting has flared across Yemeni front lines in recent days.",
    "tags": [
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Gaza City police chief killed as Israel pushes on with deadly strikes",
-   "url": "https://www.aljazeera.com/news/2026/8/13/gaza-city-police-chief-killed-as-israel-pushes-on-with-deadly-strikes?traffic_source=rss",
-   "published": "2026-08-13T23:09:15+00:00",
-   "summary": "Latest Israeli attacks kill police official Jamal Abu Kamil in Gaza City and another person in Khan Younis.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   },
