@@ -1,6 +1,18 @@
 {
- "asOf": "2026-08-15T10:36:18.933239+00:00",
+ "asOf": "2026-08-15T11:12:50.818526+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "World Cup winner Ferran Torres joins Paris Saint-Germain from Barcelona",
+   "url": "https://www.aljazeera.com/sports/2026/8/15/world-cup-winner-ferran-torres-joins-paris-saint-germain-from-barcelona?traffic_source=rss",
+   "published": "2026-08-15T10:48:41+00:00",
+   "summary": "The 26-year-old striker cost the Ligue 1 champions a reported 50 million euros ($58m) and has signed a five year deal.",
+   "tags": [
+    "strikes",
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Tehran, Dushanbe to ink long‑term energy cooperation agreement",
@@ -10,6 +22,17 @@
    "tags": [
     "diplomacy",
     "oil"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "At scene of deadly Israeli strike on Lebanon home",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/at-scene-of-deadly-israeli-strike-on-lebanon-home?traffic_source=rss",
+   "published": "2026-08-15T10:18:40+00:00",
+   "summary": "An overnight Israeli strike on a family home in Ansar, southern Lebanon, killed at least seven people.",
+   "tags": [
+    "strikes"
    ],
    "highlight": false
   },
@@ -595,28 +618,6 @@
    "summary": "Gaza, Lebanon, Iran, Ukraine: four ceasefires, none that held. AJLabs on why truces keep collapsing.",
    "tags": [
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Engine debris shattered Ryanair window, pulling passenger out, NTSB says",
-   "url": "https://www.aljazeera.com/news/2026/8/14/engine-debris-shattered-ryanair-window-pulling-passenger-out-ntsb-says?traffic_source=rss",
-   "published": "2026-08-14T08:15:17+00:00",
-   "summary": "Flight crews had recorded four suspected bird strikes involving the same engine during the previous year.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran links Qeshm Island oil pollution to foreign military aggression in region",
-   "url": "https://en.irna.ir/news/86235016/Iran-links-Qeshm-Island-oil-pollution-to-foreign-military-aggression",
-   "published": "2026-08-14T06:10:42+00:00",
-   "summary": "Tehran, IRNA – Deputy Foreign Minister for Legal and International Affairs, Kazem Gharibabadi, says the recent oil pollution along the shores of Qeshm Island in Iran stems from the consequences of foreign military aggression in the region.",
-   "tags": [
-    "oil"
    ],
    "highlight": false
   }
