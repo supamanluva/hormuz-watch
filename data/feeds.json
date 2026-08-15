@@ -1,6 +1,29 @@
 {
- "asOf": "2026-08-15T18:13:28.404786+00:00",
+ "asOf": "2026-08-15T18:39:53.182897+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Cleanup underway as Russian oil spill reaches Oman’s coastline",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/15-08-sv-oil-spill-oman-on?traffic_source=rss",
+   "published": "2026-08-15T18:11:12+00:00",
+   "summary": "Cleanup crews are responding along 12 kilometres of Omani coastline following an oil spill from the grounded tanker.",
+   "tags": [
+    "shipping",
+    "oil"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Inter Milan sign England’s Djed Spence from Tottenham Hotspur",
+   "url": "https://www.aljazeera.com/sports/2026/8/15/inter-milan-sign-englands-djed-spence-from-tottenham-hotspur?traffic_source=rss",
+   "published": "2026-08-15T17:48:32+00:00",
+   "summary": "The 26-year-old, who has signed a five-year deal, cost the Italian champions about $40m, according to media reports.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "[No Title] - Post from August 15, 2026",
@@ -601,24 +624,6 @@
     "shipping",
     "oil"
    ],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General",
-   "url": "https://press.un.org/en/2026/db260814.doc.htm",
-   "published": "2026-08-14T19:03:28+00:00",
-   "summary": "The UN Children’s Fund (UNICEF) reports that more than 2.6 million girls in Afghanistan have been denied a secondary education in the five years since the de facto authorities took power. UNICEF warns that girls who are out of school face heightened protection risks, including child labour, abuse, early marriage and gender-based violence.",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "Presidential Message on the Anniversary of Winning World War II",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/08/presidential-message-on-the-anniversary-of-winning-world-war-ii/",
-   "published": "2026-08-14T17:39:15+00:00",
-   "summary": "Today, our Nation celebrates the&#160;81st anniversary&#160;of Imperial Japan’s unconditional surrender—the moment&#160;American might&#160;brought&#160;the Second World&#160;War&#160;to its end&#160;in complete and total&#160;victory. &#160;On this monumental&#160;occasion, we pay tribute to the grit and sacrifice of the warriors who defended our homeland and carried the hopes of the free world u",
-   "tags": [],
    "highlight": false
   }
  ]
