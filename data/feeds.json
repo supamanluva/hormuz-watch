@@ -1,6 +1,18 @@
 {
- "asOf": "2026-08-15T06:14:43.466640+00:00",
+ "asOf": "2026-08-15T06:41:02.687095+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Increasing arsenals won’t enhance global peace: Iranian envoy",
+   "url": "https://en.irna.ir/news/86235572/Increasing-arsenals-won-t-enhance-global-peace-Iranian-envoy",
+   "published": "2026-08-15T06:31:18+00:00",
+   "summary": "London, IRNA – Iran’s ambassador to Germany, referring to a new report on a surge in global arms transfers, has said that lasting security across the world cannot be achieved through military bases, arsenals, and nuclear weapons.",
+   "tags": [
+    "diplomacy",
+    "nuclear"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Strait of Hormuz can only be opened or closed by Iran’s command: Official",
@@ -606,17 +618,6 @@
    "published": "2026-08-13T21:23:07+00:00",
    "summary": "TRANSFORMING U.S. SHIPBUILDING:&#160;Today,&#160;President Donald J. Trump signed a National Security Presidential Memorandum to fix critical long-term issues in Navy shipbuilding and ship repair programs and restore capacity and competition to the maritime industrial base. ADDRESSING PERSISTENT FAILURES IN SHIPBUILDING:&#160;President Trump is revitalizing America’s shipbuilding industry, which i",
    "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "Fact Sheet: President Donald J. Trump Bolsters National Security and Strengthens U.S. Supply Chains by Imposing Tariffs on Drones and Their Parts and Components",
-   "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-bolsters-national-security-and-strengthens-u-s-supply-chains-by-imposing-tariffs-on-drones-and-their-parts-and-components/",
-   "published": "2026-08-13T21:22:01+00:00",
-   "summary": "SECURING AMERICAN DRONE DOMINANCE:&#160;Today, President Donald J. Trump signed a Proclamation to address the national security threat posed by imports of drones and their components, including by strengthening America’s drone industry and supply chain. STRENGTHENING NATIONAL SECURITY:&#160;President Trump’s drone tariff program will protect the national security of the United States and its defen",
-   "tags": [
-    "strikes"
-   ],
    "highlight": false
   }
  ]
