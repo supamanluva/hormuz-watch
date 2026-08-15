@@ -1,6 +1,33 @@
 {
- "asOf": "2026-08-15T14:53:37.405577+00:00",
+ "asOf": "2026-08-15T15:34:10.452061+00:00",
  "items": [
+  {
+   "source": "Trump · Truth Social",
+   "title": "[No Title] - Post from August 15, 2026",
+   "url": "https://trumpstruth.org/statuses/40875",
+   "published": "2026-08-15T15:28:53+00:00",
+   "summary": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117100227998649926",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "[No Title] - Post from August 15, 2026",
+   "url": "https://trumpstruth.org/statuses/40876",
+   "published": "2026-08-15T15:27:58+00:00",
+   "summary": "",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "Despite the unfriendly look on this particular picture, there are many where we’re smiling, Kim Jong Un and I get along GREAT! President DONALD J. TRUMP",
+   "url": "https://trumpstruth.org/statuses/40874",
+   "published": "2026-08-15T15:08:21+00:00",
+   "summary": "Despite the unfriendly look on this particular picture, there are many where we’re smiling, Kim Jong Un and I get along GREAT! President DONALD J. TRUMP",
+   "tags": [],
+   "highlight": true
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Araghchi urges provinces to expand economic ties with neighboring states amid sanctions",
@@ -9,6 +36,17 @@
    "summary": "TEHRAN, IRNA — Foreign Minister Seyyed Abbas Araghchi highlights the economic potential of Iran’s neighboring countries, including Afghanistan, Turkmenistan, and Pakistan, urging greater use of regional trade and cooperation to support economic development amid the United States’ cruel sanctions.",
    "tags": [
     "sanctions"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "The next Yemen war might be different",
+   "url": "https://www.aljazeera.com/features/2026/8/15/the-next-yemen-war-might-be-different?traffic_source=rss",
+   "published": "2026-08-15T14:32:07+00:00",
+   "summary": "Drones are no longer the advantage for only one side.",
+   "tags": [
+    "strikes"
    ],
    "highlight": false
   },
@@ -171,13 +209,12 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "Israeli strikes kill nine in southern Lebanon as attacks intensify",
+   "title": "Israeli strikes kill 11 in southern Lebanon as attacks intensify",
    "url": "https://www.aljazeera.com/news/2026/8/15/israeli-strike-kills-seven-in-south-lebanon-as-attacks-intensify?traffic_source=rss",
    "published": "2026-08-15T07:18:13+00:00",
-   "summary": "Deadliest Israeli attack in Lebanon since June agreements significantly reduced hostilities.",
+   "summary": "Hezbollah has warned that Israel’s attacks would be met with an &#039;appropriate response&#039;.",
    "tags": [
-    "strikes",
-    "diplomacy"
+    "strikes"
    ],
    "highlight": false
   },
@@ -452,33 +489,6 @@
    "highlight": true
   },
   {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from August 15, 2026",
-   "url": "https://trumpstruth.org/statuses/40837",
-   "published": "2026-08-15T01:48:50+00:00",
-   "summary": "",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from August 15, 2026",
-   "url": "https://trumpstruth.org/statuses/40838",
-   "published": "2026-08-15T01:48:44+00:00",
-   "summary": "",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from August 15, 2026",
-   "url": "https://trumpstruth.org/statuses/40839",
-   "published": "2026-08-15T01:48:38+00:00",
-   "summary": "",
-   "tags": [],
-   "highlight": true
-  },
-  {
    "source": "Al Jazeera",
    "title": "Iran war live: Trump vows to make Hormuz US territory ‘pretty soon’",
    "url": "https://www.aljazeera.com/news/liveblog/2026/8/15/iran-war-live-trump-vows-to-make-hormuz-us-territory-pretty-soon?traffic_source=rss",
@@ -606,17 +616,6 @@
    "summary": "The pact says an armed ⁠⁠attack on any one of the ⁠⁠three countries would be ⁠⁠regarded as an ⁠⁠attack against them all.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Russia stance will be defended in court, pledges World Athletics chief Coe",
-   "url": "https://www.aljazeera.com/sports/2026/8/14/russia-stance-will-be-defended-in-court-pledges-world-athletics-chief-coe?traffic_source=rss",
-   "published": "2026-08-14T13:04:23+00:00",
-   "summary": "Russian Athletics has lodged new claim at Court of Arbitration for Sport to challenge sanctions, but WA will fight it.",
-   "tags": [
-    "sanctions"
    ],
    "highlight": false
   }
