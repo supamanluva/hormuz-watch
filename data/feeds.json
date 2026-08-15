@@ -1,5 +1,5 @@
 {
- "asOf": "2026-08-15T17:13:21.029932+00:00",
+ "asOf": "2026-08-15T17:52:45.937400+00:00",
  "items": [
   {
    "source": "Trump · Truth Social",
@@ -16,6 +16,17 @@
    "url": "https://en.irna.ir/news/86236287/High-level-Tajik-delegation-meets-FM-Araghchi-in-Tehran",
    "published": "2026-08-15T16:42:03+00:00",
    "summary": "Tehran, IRNA – A high-ranking Tajik delegation held talks with Iranian Foreign Minister Abbas Araghchi in Tehran on Saturday, as part of an official visit aimed at deepening diplomatic and economic cooperation between the two friendly nations.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Erdogan says Egypt could join Turkiye-Saudi-Pakistan defence pact",
+   "url": "https://www.aljazeera.com/news/2026/8/15/erdogan-says-egypt-could-join-turkiye-saudi-pakistan-defence-pact?traffic_source=rss",
+   "published": "2026-08-15T16:39:52+00:00",
+   "summary": "Turkish president tells Al Jazeera that the recently signed agreement is open to new members as he pledges continued support.",
    "tags": [
     "diplomacy"
    ],
@@ -607,15 +618,6 @@
    "url": "https://www.whitehouse.gov/briefings-statements/2026/08/presidential-message-on-the-anniversary-of-winning-world-war-ii/",
    "published": "2026-08-14T17:39:15+00:00",
    "summary": "Today, our Nation celebrates the&#160;81st anniversary&#160;of Imperial Japan’s unconditional surrender—the moment&#160;American might&#160;brought&#160;the Second World&#160;War&#160;to its end&#160;in complete and total&#160;victory. &#160;On this monumental&#160;occasion, we pay tribute to the grit and sacrifice of the warriors who defended our homeland and carried the hopes of the free world u",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "Presidential Message on the Anniversary of the Social Security Act",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/08/presidential-message-on-the-anniversary-of-the-social-security-act/",
-   "published": "2026-08-14T17:36:36+00:00",
-   "summary": "Today, our Nation commemorates 91 years since&#160;President Franklin D. Roosevelt&#160;signed the&#160;landmark&#160;Social Security Act into law. &#160;For more than nine decades,&#160;this program&#160;has stood as a fundamental promise at the heart of American life, guaranteeing that the men and women who built our country, raised our families, and powered the greatest economy on&#160;Earth ca",
    "tags": [],
    "highlight": false
   }
