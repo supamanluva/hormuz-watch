@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-15T09:53:18.065247+00:00",
+ "asOf": "2026-08-15T10:13:14.441396+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Exclusive | Iran’s control of Strait of Hormuz has disrupted US calculations: Official",
+   "url": "https://en.irna.ir/news/86235894/Exclusive-Iran-s-control-of-Strait-of-Hormuz-has-disrupted",
+   "published": "2026-08-15T09:53:37+00:00",
+   "summary": "Tehran, IRNA – Iran’s authority in managing the Strait of Hormuz has disrupted US strategic calculations, while Washington’s claims about controlling the strategic waterway reflect a reaction to Iran’s initiatives, an Iranian Foreign Ministry official says.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Strait of Hormuz is under Iran’s ownership and authority: Judiciary chief",
@@ -605,17 +616,6 @@
    "summary": "Pyongyang has accused the US of pushing the world &#039;to the brink of nuclear war&#039;.",
    "tags": [
     "nuclear"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Fear and attacks grip Taybeh, the last all-Christian town in the West Bank",
-   "url": "https://www.aljazeera.com/features/2026/8/14/fear-and-attacks-grip-taybeh-the-last-all-christian-town-in-the-west-bank?traffic_source=rss",
-   "published": "2026-08-14T05:08:32+00:00",
-   "summary": "Historic Taybeh, a Palestinian Christian town in the occupied West Bank, targeted by settlers in coordinated attacks.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   }
