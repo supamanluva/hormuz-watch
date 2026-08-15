@@ -1,6 +1,18 @@
 {
- "asOf": "2026-08-15T10:13:14.441396+00:00",
+ "asOf": "2026-08-15T10:36:18.933239+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Tehran, Dushanbe to ink long‑term energy cooperation agreement",
+   "url": "https://en.irna.ir/news/86235911/Tehran-Dushanbe-to-ink-long-term-energy-cooperation-agreement",
+   "published": "2026-08-15T10:27:10+00:00",
+   "summary": "Tehran, IRNA — Iran and Tajikistan have reached an agreement to sign a long‑term contract for the export of petroleum products and the supply of crude oil to Tajikistan’s refineries.",
+   "tags": [
+    "diplomacy",
+    "oil"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Exclusive | Iran’s control of Strait of Hormuz has disrupted US calculations: Official",
@@ -605,17 +617,6 @@
    "summary": "Tehran, IRNA – Deputy Foreign Minister for Legal and International Affairs, Kazem Gharibabadi, says the recent oil pollution along the shores of Qeshm Island in Iran stems from the consequences of foreign military aggression in the region.",
    "tags": [
     "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "North Korea fumes over upcoming US-South Korea military drills",
-   "url": "https://www.aljazeera.com/news/2026/8/14/north-korea-fumes-over-upcoming-us-south-korea-military-drills?traffic_source=rss",
-   "published": "2026-08-14T05:40:45+00:00",
-   "summary": "Pyongyang has accused the US of pushing the world &#039;to the brink of nuclear war&#039;.",
-   "tags": [
-    "nuclear"
    ],
    "highlight": false
   }
