@@ -1,6 +1,18 @@
 {
- "asOf": "2026-08-15T07:38:04.615381+00:00",
+ "asOf": "2026-08-15T07:54:49.916180+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Israeli strike kills seven in south Lebanon as attacks intensify",
+   "url": "https://www.aljazeera.com/news/2026/8/15/israeli-strike-kills-seven-in-south-lebanon-as-attacks-intensify?traffic_source=rss",
+   "published": "2026-08-15T07:18:13+00:00",
+   "summary": "Deadliest Israeli attack in Lebanon since June agreements significantly reduced hostilities.",
+   "tags": [
+    "strikes",
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "South Korea’s president wants talks with North to end Korean War",
@@ -581,19 +593,6 @@
    "published": "2026-08-14T04:52:45+00:00",
    "summary": "Environmental NGO Greenpeace warns that spill has rapidly expanded to 1,300 square kilometres, threatening ecosystems.",
    "tags": [
-    "shipping",
-    "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Oil slick from tanker carrying sanctioned Russian crude reaches Oman",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/oil-slick-from-tanker-carrying-sanctioned-russian-crude-reaches-oman?traffic_source=rss",
-   "published": "2026-08-14T03:20:09+00:00",
-   "summary": "An oil slick from the tanker the Caroline Bezengi has reached Oman’s coastline weeks after the vessel ran aground.",
-   "tags": [
-    "sanctions",
     "shipping",
     "oil"
    ],
