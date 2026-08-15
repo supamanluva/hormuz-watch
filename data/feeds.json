@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-15T09:36:21.349167+00:00",
+ "asOf": "2026-08-15T09:53:18.065247+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Strait of Hormuz is under Iran’s ownership and authority: Judiciary chief",
+   "url": "https://en.irna.ir/news/86235798/Strait-of-Hormuz-is-under-Iran-s-ownership-and-authority-Judiciary",
+   "published": "2026-08-15T09:43:37+00:00",
+   "summary": "Tehran, IRNA – Iran’s Judiciary Chief Gholamhossein Mohseni‑Ejei has rejected US President Donald Trump’s claims regarding the Strait of Hormuz, stressing that the owner and ruler of the strait is the Islamic Republic of Iran.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Iran’s envoy criticizes 168 days of silence by international organizations over Minab crime",
@@ -605,18 +616,6 @@
    "summary": "Historic Taybeh, a Palestinian Christian town in the occupied West Bank, targeted by settlers in coordinated attacks.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Security Council ISIL (Da’esh) and Al-Qaida Sanctions Committee Amends Four Entries on Its Sanctions List",
-   "url": "https://press.un.org/en/2026/sc16432.doc.htm",
-   "published": "2026-08-13T21:35:27+00:00",
-   "summary": "On 13 August 2026, the Security Council Committee pursuant to resolutions 1267 (1999), 1989 (2011) and 2253 (2015) concerning ISIL (Da’esh), Al‑Qaida and associated individuals, groups, undertakings and entities enacted the amendments specified with strikethrough and underline in the entries below on its ISIL (Da’esh) and Al-Qaida Sanctions List of individuals and entities subject to the assets fr",
-   "tags": [
-    "strikes",
-    "sanctions"
    ],
    "highlight": false
   }
