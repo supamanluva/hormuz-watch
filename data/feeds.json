@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-16T00:46:49.819108+00:00",
+ "asOf": "2026-08-16T01:18:33.569256+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Hamas leader heads to Cairo for Gaza talks ahead of Kushner visit",
+   "url": "https://www.aljazeera.com/news/2026/8/16/hamas-leader-heads-to-cairo-for-gaza-talks-ahead-of-kushner-visit?traffic_source=rss",
+   "published": "2026-08-16T00:44:59+00:00",
+   "summary": "Hamas chief Khalil al-Hayya to meet Egyptian intelligence chief Hassan Rashad in Cairo amid ongoing Gaza tensions.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Iran war live: Talks on Hormuz Strait continue; Israel kills 11 in Lebanon",
@@ -606,18 +617,6 @@
    "published": "2026-08-14T23:02:55+00:00",
    "summary": "Hezbollah criticises Beirut’s approach, accusing officials of exposing the Lebanese army to risks and Israeli pressure.",
    "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Houthi attack on port kills four eroding truce with Yemen’s government",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/houthi-attack-on-port-kills-four-eroding-truce-with-yemens-government?traffic_source=rss",
-   "published": "2026-08-14T22:58:58+00:00",
-   "summary": "Six Houthi ballistic missiles struck Yemen&#039;s government-held al-Makha port, killing at least four.",
-   "tags": [
-    "strikes",
     "diplomacy"
    ],
    "highlight": false
