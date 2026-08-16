@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-16T15:34:38.244463+00:00",
+ "asOf": "2026-08-16T15:52:59.119024+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Largest Ukrainian drone attack on Russia, Moscow says 822 drones shot down",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-sv-ukraine-largest-drone-attack-russia-ua?traffic_source=rss",
+   "published": "2026-08-16T15:35:53+00:00",
+   "summary": "Ukraine launched hundreds of drones across Russia, killing at least six people and striking a Wildberries logistics hub.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Iran’s Army chief warns US forces not allowed in Persian Gulf, Sea of Oman, Strait of Hormuz",
@@ -602,17 +613,6 @@
    "url": "https://en.irna.ir/news/86235558/Iran-s-envoy-criticizes-168-days-of-silence-by-international",
    "published": "2026-08-15T07:56:25+00:00",
    "summary": "Moscow, IRNA — Iran’s Ambassador to Russia Kazem Jalali has criticized 168 days of silence by international organizations regarding the US crime of killing 168 students and staff of the Minab school, Hormozgan Province, southern Iran.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Arteta assures Arsenal fans over contract before Man City clash",
-   "url": "https://www.aljazeera.com/sports/2026/8/15/arteta-assures-arsenal-fans-over-contract-ahead-of-man-city-clash?traffic_source=rss",
-   "published": "2026-08-15T07:44:35+00:00",
-   "summary": "Mikel Arteta, who ended Arsenal&#039;s 22-year wait for a Premier League title, says contract negotiations will be resolved.",
    "tags": [
     "diplomacy"
    ],
