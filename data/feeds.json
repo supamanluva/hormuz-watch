@@ -1,6 +1,39 @@
 {
- "asOf": "2026-08-16T04:58:01.906404+00:00",
+ "asOf": "2026-08-16T05:14:57.571953+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Russian strikes kill Ukrainian woman as NATO jet downs drone over Romania",
+   "url": "https://www.aljazeera.com/news/2026/8/16/russian-strikes-kill-ukrainian-woman-as-nato-jet-downs-drone-over-romania?traffic_source=rss",
+   "published": "2026-08-16T04:54:33+00:00",
+   "summary": "Romania&#039;s Defence Ministry didn&#039;t specify origin of the drone but has previously blamed Russia for similar incidents.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Israel strikes south Lebanon again as families flee north",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/israel-strikes-south-lebanon-again-as-families-flee-north?traffic_source=rss",
+   "published": "2026-08-16T04:43:21+00:00",
+   "summary": "Israeli airstrikes hit the Nabatieh district of southern Lebanon just hours after the deadliest day of Israeli raids.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Australia gun buyback spurred by Bondi attack to start in November, PM says",
+   "url": "https://www.aljazeera.com/news/2026/8/16/australia-gun-buyback-spurred-by-bondi-attack-to-start-in-november-pm-says?traffic_source=rss",
+   "published": "2026-08-16T04:35:26+00:00",
+   "summary": "Australia introduced measures to reduce gun ownership following a deadly attack on Sydney&#039;s Bondi Beach last year.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "The Senate must vote on the NO MORE CHANGING THE CLOCKS ACT as soon as possible. More sun later in the day is better (including for fighting crime!), but, even more importantly, NO MORE RIDICULOUSLY CHANGING CLOCKS AND WATCHES TWICE YEARLY, with all of the disruption and chaos it causes. FINALLY, GET IT DONE!!! President DJT",
@@ -123,6 +156,17 @@
    "url": "https://en.irna.ir/news/86236388/Iran-condemns-Israeli-continued-attacks-on-Lebanon",
    "published": "2026-08-15T20:12:40+00:00",
    "summary": "Tehran, IRNA – Foreign Ministry spokesperson Esmaeil Baqaei has condemned the Zionist regime's continued violations of international law and human rights in Lebanon.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran condemns Israel’s continued attacks on Lebanon",
+   "url": "https://en.irna.ir/news/86236388/Iran-condemns-Israel-s-continued-attacks-on-Lebanon",
+   "published": "2026-08-15T20:12:40+00:00",
+   "summary": "Tehran, IRNA – Foreign Ministry spokesperson Esmaeil Baqaei has condemned the Israeli regime’s continued violations of international law and human rights in Lebanon.",
    "tags": [
     "strikes"
    ],
@@ -576,50 +620,6 @@
    "summary": "RT @ realDonaldTrump Secretary of State Marco Rubio: “In my work with heads of state and foreign ministers, I am frequently hosted in reception facilities that are visually impressive and reflective of the wealth and beauty of the nations I am visiting. In the United States, by contrast, we currently lack the ability to hold large events of a similar magnitude on White House grounds for those same",
    "tags": [],
    "highlight": true
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Venezuela says 131 political prisoners freed amid post-Maduro talks",
-   "url": "https://www.aljazeera.com/news/2026/8/15/venezuela-says-131-political-prisoners-freed-amid-post-maduro-talks?traffic_source=rss",
-   "published": "2026-08-15T02:08:02+00:00",
-   "summary": "As detainees granted &#039;alternative&#039; to imprisonment, US welcomes release as crucial step for Venezuela&#039;s reconciliation.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "7.7-magnitude earthquake strikes eastern Indonesia",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/08-15-2026-indonesia-quake-sv-mp4?traffic_source=rss",
-   "published": "2026-08-15T02:03:22+00:00",
-   "summary": "A powerful 7.7-magnitude earthquake struck eastern Indonesia, damaging buildings and sending residents to higher ground.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iran war live: Trump vows to make Hormuz US territory ‘pretty soon’",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/8/15/iran-war-live-trump-vows-to-make-hormuz-us-territory-pretty-soon?traffic_source=rss",
-   "published": "2026-08-15T00:00:00+00:00",
-   "summary": "US President Trump says that &#039;pretty soon&#039; he will declare the Strait of Hormuz a US territory once Iran is defeated.",
-   "tags": [
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Lebanon’s PM urges timetable for Israeli withdrawal as Hezbollah slams deal",
-   "url": "https://www.aljazeera.com/news/2026/8/14/lebanons-pm-urges-timetable-for-israeli-withdrawal-as-hezbollah-slams-deal?traffic_source=rss",
-   "published": "2026-08-14T23:02:55+00:00",
-   "summary": "Hezbollah criticises Beirut’s approach, accusing officials of exposing the Lebanese army to risks and Israeli pressure.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
   }
  ]
 }
