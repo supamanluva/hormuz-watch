@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-15T23:12:45.841650+00:00",
+ "asOf": "2026-08-15T23:52:18.735366+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Yemen’s government says Houthi strikes hit residential areas in Marib",
+   "url": "https://www.aljazeera.com/news/2026/8/15/yemens-government-says-houthi-strikes-hit-residential-areas-in-marib?traffic_source=rss",
+   "published": "2026-08-15T23:27:10+00:00",
+   "summary": "Yemen&#039;s Ministry of Information denounces attacks on Marib as &#039;escalation&#039; that threatens lives and increases suffering.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "State Representative Kim Kendall is a Strong Champion for the Great People of Florida’s 18th State House District! A Highly Respected Air Traffic Controller and Small Business Owner, prior to becoming a distinguished State Representative, Kim has dedicated her life to serving her Community. In the State House, she is working hard to Protect Florida Values, Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Stop Migrant Crime, Strengthen our Military, Veterans, and Law Enforcement, Champion Parental Rights, Advance Election Integrity, and Defend our always under siege Second Amendment. Kim Kendall has my Complete and Total Endorsement for Re-Election — SHE WILL NEVER LET YOU DOWN!",
@@ -606,18 +617,6 @@
    "summary": "Hostilities are rising between Iran-backed Houthis and Yemen&#039;s internationally recognised government.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Trump says he will declare Strait of Hormuz a US ‘territory’ amid Iran war",
-   "url": "https://www.aljazeera.com/news/2026/8/14/trump-says-he-will-declare-strait-of-hormuz-a-us-territory?traffic_source=rss",
-   "published": "2026-08-14T21:50:46+00:00",
-   "summary": "Control over the strait has been a sticking point in the ongoing ceasefire negotiations between the US and Iran.",
-   "tags": [
-    "diplomacy",
-    "shipping"
    ],
    "highlight": false
   }
