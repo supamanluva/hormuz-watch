@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-16T09:54:03.538030+00:00",
+ "asOf": "2026-08-16T10:36:27.102674+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran managing continuous enemy cyberattacks: ICT minister",
+   "url": "https://en.irna.ir/news/86237003/Iran-managing-continuous-enemy-cyberattacks-ICT-minister",
+   "published": "2026-08-16T10:29:05+00:00",
+   "summary": "Gorgan, IRNA – Iran is managing continuous cyberattacks by its enemies amid the country’s wartime conditions, says Minister of Information and Communications Technology Sattar Hashemi.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Israeli forces launch air, artillery, and phosphorus attacks on southern Lebanon",
@@ -614,15 +625,6 @@
    "tags": [
     "strikes"
    ],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "RT @realDonaldTrumpJay Clayton, Director of National Intelligence: “The Project is critical for ensuring the White House can serve as a secure location for the gathering of the President, gathering of senior government officials, and gatherings that further the interests of the United States. The Project on the Complex also will improve the level of protection and ability to manage and mitigate threats to the President and senior government officials and will enhance the handling, management, and utilization of IC information, including the conduct of IC-directed support to the Complex.”",
-   "url": "https://trumpstruth.org/statuses/40865",
-   "published": "2026-08-15T02:17:44+00:00",
-   "summary": "RT @ realDonaldTrump Jay Clayton, Director of National Intelligence: “The Project is critical for ensuring the White House can serve as a secure location for the gathering of the President, gathering of senior government officials, and gatherings that further the interests of the United States. The Project on the Complex also will improve the level of protection and ability to manage and mitigate ",
-   "tags": [],
    "highlight": true
   }
  ]
