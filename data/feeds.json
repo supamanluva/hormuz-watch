@@ -1,6 +1,18 @@
 {
- "asOf": "2026-08-16T14:36:08.762630+00:00",
+ "asOf": "2026-08-16T14:53:52.642273+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran’s Army chief warns US forces not allowed in Persian Gulf, Sea of Oman, Strait of Hormuz",
+   "url": "https://en.irna.ir/news/86237189/Iran-s-Army-chief-warns-US-forces-not-allowed-in-Persian-Gulf",
+   "published": "2026-08-16T14:42:28+00:00",
+   "summary": "Tehran, IRNA — Commander of the Islamic Republic of Iran’s Army, Major General Amir Hatami, has issued a stern warning against any military mischief by the United States, saying the only way for the Americans is to leave the region as they would not be allowed to re-establish bases that aim to threaten and attack the Islamic Republic.",
+   "tags": [
+    "strikes",
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Iran vows to pursue deadly US attack on Minab school through international forums",
@@ -603,17 +615,6 @@
    "summary": "Mikel Arteta, who ended Arsenal&#039;s 22-year wait for a Premier League title, says contract negotiations will be resolved.",
    "tags": [
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Israeli strikes kill 11 in southern Lebanon as attacks intensify",
-   "url": "https://www.aljazeera.com/news/2026/8/15/israeli-strike-kills-seven-in-south-lebanon-as-attacks-intensify?traffic_source=rss",
-   "published": "2026-08-15T07:18:13+00:00",
-   "summary": "Hezbollah has warned that Israel’s attacks would be met with an &#039;appropriate response&#039;.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   }
