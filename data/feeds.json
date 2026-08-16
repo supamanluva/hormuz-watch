@@ -1,6 +1,18 @@
 {
- "asOf": "2026-08-16T10:53:10.352542+00:00",
+ "asOf": "2026-08-16T11:13:07.032596+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Why has Israel escalated attacks in southern Lebanon despite ceasefire?",
+   "url": "https://www.aljazeera.com/news/2026/8/16/why-has-israel-escalated-attacks-in-southern-lebanon-despite-ceasefire?traffic_source=rss",
+   "published": "2026-08-16T10:59:10+00:00",
+   "summary": "At least 11 people killed in one day of Israeli attacks despite truce extension brokered by US in June.",
+   "tags": [
+    "strikes",
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Iran managing continuous enemy cyberattacks: ICT minister",
@@ -613,17 +625,6 @@
    "summary": "The US claims it destroyed Iran’s missile capability, but a former White House adviser calls that a “pipe dream&quot;.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "US President Trump says he will declare Strait of Hormuz US territory",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/us-president-trump-says-he-will-declare-strait-of-hormuz-us-territory?traffic_source=rss",
-   "published": "2026-08-15T02:25:09+00:00",
-   "summary": "US President Donald Trump said he will “soon” declare the Strait of Hormuz a US territory.",
-   "tags": [
-    "shipping"
    ],
    "highlight": false
   }
