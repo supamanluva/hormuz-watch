@@ -1,10 +1,21 @@
 {
- "asOf": "2026-08-16T08:14:04.123025+00:00",
+ "asOf": "2026-08-16T08:39:46.256275+00:00",
  "items": [
   {
    "source": "IRNA (Iran state wire)",
    "title": "Israeli forces launch air, artillery, and phosphorus attacks on southern Lebanon",
    "url": "https://en.irna.ir/news/86236538/Israeli-forces-launch-air-artillery-and-phosphorus-attacks",
+   "published": "2026-08-16T05:43:30+00:00",
+   "summary": "Tehran, IRNA – Israeli forces have launched airstrikes as well as artillery and heavy-machine-gun fire against areas in southern Lebanon’s Nabatieh district, using phosphorus shells.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Israeli forces launch air, artillery, phosphorus attacks on southern Lebanon",
+   "url": "https://en.irna.ir/news/86236538/Israeli-forces-launch-air-artillery-phosphorus-attacks-on-southern",
    "published": "2026-08-16T05:43:30+00:00",
    "summary": "Tehran, IRNA – Israeli forces have launched airstrikes as well as artillery and heavy-machine-gun fire against areas in southern Lebanon’s Nabatieh district, using phosphorus shells.",
    "tags": [
@@ -611,15 +622,6 @@
    "url": "https://trumpstruth.org/statuses/40865",
    "published": "2026-08-15T02:17:44+00:00",
    "summary": "RT @ realDonaldTrump Jay Clayton, Director of National Intelligence: “The Project is critical for ensuring the White House can serve as a secure location for the gathering of the President, gathering of senior government officials, and gatherings that further the interests of the United States. The Project on the Complex also will improve the level of protection and ability to manage and mitigate ",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "RT @realDonaldTrumpDan Caine, Chairman of the Joint Chiefs of Staff: “I declare there is a valid military requirement for a secure, state-of-the-art facility that provides for the physical protection of the President and the command, control, and communication capabilities necessary for the President to carry out his Commander-in-Chief responsibilities over the United States Armed Forces anywhere across the globe at any time.”",
-   "url": "https://trumpstruth.org/statuses/40866",
-   "published": "2026-08-15T02:17:41+00:00",
-   "summary": "RT @ realDonaldTrump Dan Caine, Chairman of the Joint Chiefs of Staff: “I declare there is a valid military requirement for a secure, state-of-the-art facility that provides for the physical protection of the President and the command, control, and communication capabilities necessary for the President to carry out his Commander-in-Chief responsibilities over the United States Armed Forces anywher",
    "tags": [],
    "highlight": true
   }
