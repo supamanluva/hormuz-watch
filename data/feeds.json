@@ -1,5 +1,5 @@
 {
- "asOf": "2026-08-16T11:34:16.561873+00:00",
+ "asOf": "2026-08-16T11:52:42.951091+00:00",
  "items": [
   {
    "source": "Trump · Truth Social",
@@ -9,6 +9,17 @@
    "summary": "Thank you, George, for some of your brilliant ideas on this great Military Complex/Ballroom! President DJT",
    "tags": [],
    "highlight": true
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Trump threatens to make the Strait of Hormuz a US territory: Can he?",
+   "url": "https://www.aljazeera.com/news/2026/8/16/trump-threatens-to-make-the-strait-of-hormuz-a-us-territory-can-he?traffic_source=rss",
+   "published": "2026-08-16T11:14:23+00:00",
+   "summary": "US president has yet another outlandish threat for Iran, with no end to war in sight.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
   },
   {
    "source": "Al Jazeera",
@@ -610,18 +621,6 @@
    "summary": "Taiwan parliament ends deadlock, ensuring vital drone programme funding amid rising cross-strait tensions with Beijing.",
    "tags": [
     "strikes",
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iran says no decision yet on a return to talks with the US",
-   "url": "https://www.aljazeera.com/news/2026/8/15/iran-says-no-decision-yet-on-a-return-to-talks-with-the-us?traffic_source=rss",
-   "published": "2026-08-15T04:24:02+00:00",
-   "summary": "FM Abbas Araghchi says Iran is working with Oman on routes, but Hormuz shipping depends on US meeting conditions.",
-   "tags": [
-    "diplomacy",
     "shipping"
    ],
    "highlight": false
