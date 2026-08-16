@@ -1,5 +1,5 @@
 {
- "asOf": "2026-08-16T21:12:46.916775+00:00",
+ "asOf": "2026-08-16T21:34:27.366143+00:00",
  "items": [
   {
    "source": "Trump · Truth Social",
@@ -22,6 +22,17 @@
     "diplomacy"
    ],
    "highlight": true
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Erdogan says Hamas acted sincerely, criticises Israeli attacks",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-clip-erdogan-gaza-tr?traffic_source=rss",
+   "published": "2026-08-16T20:55:19+00:00",
+   "summary": "Erdogan said Hamas has shown all possible sincere solidarity, while Israel continues aggressive attacks on Gaza.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
   },
   {
    "source": "Al Jazeera",
@@ -598,18 +609,6 @@
    "summary": "Taiwan has long prepared for a Chinese military invasion but wars in Iran and Ukraine expose new potential threats.",
    "tags": [
     "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "World Cup winner Ferran Torres joins Paris Saint-Germain from Barcelona",
-   "url": "https://www.aljazeera.com/sports/2026/8/15/world-cup-winner-ferran-torres-joins-paris-saint-germain-from-barcelona?traffic_source=rss",
-   "published": "2026-08-15T10:48:41+00:00",
-   "summary": "The 26-year-old striker cost the Ligue 1 champions a reported 50 million euros ($58m) and has signed a five-year deal.",
-   "tags": [
-    "strikes",
-    "diplomacy"
    ],
    "highlight": false
   },
