@@ -1,6 +1,15 @@
 {
- "asOf": "2026-08-16T11:13:07.032596+00:00",
+ "asOf": "2026-08-16T11:34:16.561873+00:00",
  "items": [
+  {
+   "source": "Trump · Truth Social",
+   "title": "Thank you, George, for some of your brilliant ideas on this great Military Complex/Ballroom! President DJT",
+   "url": "https://trumpstruth.org/statuses/40890",
+   "published": "2026-08-16T11:19:50+00:00",
+   "summary": "Thank you, George, for some of your brilliant ideas on this great Military Complex/Ballroom! President DJT",
+   "tags": [],
+   "highlight": true
+  },
   {
    "source": "Al Jazeera",
    "title": "Why has Israel escalated attacks in southern Lebanon despite ceasefire?",
@@ -614,17 +623,6 @@
    "tags": [
     "diplomacy",
     "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Did the US really destroy Iran’s ballistic missile capability?",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/08-11-2026-tia-us-iran-munitions-quotable?traffic_source=rss",
-   "published": "2026-08-15T03:52:08+00:00",
-   "summary": "The US claims it destroyed Iran’s missile capability, but a former White House adviser calls that a “pipe dream&quot;.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   }
