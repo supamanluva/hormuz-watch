@@ -1,6 +1,29 @@
 {
- "asOf": "2026-08-16T19:13:17.049038+00:00",
+ "asOf": "2026-08-16T19:33:44.482540+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Kushner meets Hamas leaders in Egypt to push Trump’s Gaza plan",
+   "url": "https://www.aljazeera.com/news/2026/8/16/kushner-meets-hamas-in-egypt-to-push-trumps-gaza-plan?traffic_source=rss",
+   "published": "2026-08-16T19:23:28+00:00",
+   "summary": "Trump envoy has pushed for disarmament to end any future Hamas role in running Gaza, diplomatic sources tell AFP.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Erdogan calls for Strait of Hormuz reopening amid oil disruption",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-clip-erdogan-hormuz-tr?traffic_source=rss",
+   "published": "2026-08-16T19:18:24+00:00",
+   "summary": "Turkish President Recep Tayyip Erdogan has called for the Strait of Hormuz to reopen.",
+   "tags": [
+    "shipping",
+    "oil"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Largest Ukrainian drone attack on Russia, Moscow says 822 drones shot down",
@@ -593,28 +616,6 @@
    "summary": "Tehran, IRNA – Iran’s authority in managing the Strait of Hormuz has disrupted US strategic calculations, while Washington’s claims about controlling the strategic waterway reflect a reaction to Iran’s initiatives, an Iranian Foreign Ministry official says.",
    "tags": [
     "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Strait of Hormuz is under Iran’s ownership and authority: Judiciary chief",
-   "url": "https://en.irna.ir/news/86235798/Strait-of-Hormuz-is-under-Iran-s-ownership-and-authority-Judiciary",
-   "published": "2026-08-15T09:43:37+00:00",
-   "summary": "Tehran, IRNA – Iran’s Judiciary Chief Gholamhossein Mohseni‑Ejei has rejected US President Donald Trump’s claims regarding the Strait of Hormuz, stressing that the owner and ruler of the strait is the Islamic Republic of Iran.",
-   "tags": [
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran’s envoy criticizes 168 days of silence by international organizations over Minab crime",
-   "url": "https://en.irna.ir/news/86235558/Iran-s-envoy-criticizes-168-days-of-silence-by-international",
-   "published": "2026-08-15T07:56:25+00:00",
-   "summary": "Moscow, IRNA — Iran’s Ambassador to Russia Kazem Jalali has criticized 168 days of silence by international organizations regarding the US crime of killing 168 students and staff of the Minab school, Hormozgan Province, southern Iran.",
-   "tags": [
-    "diplomacy"
    ],
    "highlight": false
   }
