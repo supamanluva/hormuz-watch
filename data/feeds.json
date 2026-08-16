@@ -1,6 +1,19 @@
 {
- "asOf": "2026-08-15T23:52:18.735366+00:00",
+ "asOf": "2026-08-16T00:24:41.820311+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Iran war live: Talks on Hormuz Strait continue; Israel kills 11 in Lebanon",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/8/16/iran-war-live-talks-on-hormuz-strait-continue-israel-kills-11-in-lebanon?traffic_source=rss",
+   "published": "2026-08-16T00:00:45+00:00",
+   "summary": "Israel kills 11 in deadliest attacks on Lebanon since June truce as Iran and Oman continue talks on Hormuz.",
+   "tags": [
+    "strikes",
+    "diplomacy",
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Yemen’s government says Houthi strikes hit residential areas in Marib",
@@ -606,17 +619,6 @@
    "tags": [
     "strikes",
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Yemen’s government says Houthi attack on al-Makha kills at least four",
-   "url": "https://www.aljazeera.com/news/2026/8/14/yemens-government-says-houthi-attack-on-al-makha-kills-at-least-four?traffic_source=rss",
-   "published": "2026-08-14T22:45:19+00:00",
-   "summary": "Hostilities are rising between Iran-backed Houthis and Yemen&#039;s internationally recognised government.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   }
