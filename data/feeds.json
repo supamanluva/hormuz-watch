@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-16T13:38:53.254138+00:00",
+ "asOf": "2026-08-16T14:13:31.236598+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran vows to pursue deadly US attack on Minab school through international forums",
+   "url": "https://en.irna.ir/news/86237121/Iran-vows-to-pursue-deadly-US-attack-on-Minab-school-through",
+   "published": "2026-08-16T14:00:15+00:00",
+   "summary": "Tehran, IRNA – The Office for the Protection of the Interests of the Islamic Republic of Iran in Egypt has stressed that Tehran will utilize all its diplomatic and legal capabilities to address the US attack on the Minab school in international forums.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "RT @AndrewHGiulianiThanks to the vision and leadership of President Donald J. Trump, America fell in love with the World Cup, and the world fell in love with the United States of America, again!",
@@ -603,17 +614,6 @@
    "summary": "Hezbollah has warned that Israel’s attacks would be met with an &#039;appropriate response&#039;.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "South Korea’s president wants talks with North to end Korean War",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/south-koreas-president-wants-talks-with-north-to-end-korean-war?traffic_source=rss",
-   "published": "2026-08-15T06:53:28+00:00",
-   "summary": "South Korean President Lee Jae Myung has proposed talks with North Korea to formally end the Korean War.",
-   "tags": [
-    "diplomacy"
    ],
    "highlight": false
   }
