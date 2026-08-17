@@ -1,5 +1,5 @@
 {
- "asOf": "2026-08-17T10:56:56.597618+00:00",
+ "asOf": "2026-08-17T11:14:14.126230+00:00",
  "items": [
   {
    "source": "Trump · Truth Social",
@@ -9,6 +9,17 @@
    "summary": "Trump Bump: Tax refunds jumped 17% after president’s signature law, GAO reports: https:// justthenews.com/government/fed eral-agencies/total-tax-refunds-issued-2025-jumped-17-compared-2024-paper-check",
    "tags": [],
    "highlight": true
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Iraqi Kurdish PM Barzani’s office targeted in drone attack",
+   "url": "https://www.aljazeera.com/news/2026/8/17/iraqi-kurdish-pm-barzanis-office-targeted-in-drone-attack?traffic_source=rss",
+   "published": "2026-08-17T10:54:50+00:00",
+   "summary": "Explosive drones target Iraqi Kurdish PM&#039;s office and security chief&#039;s residence; no casualties reported.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
   },
   {
    "source": "IRNA (Iran state wire)",
@@ -45,7 +56,7 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "Kushner to meet Netanyahu to push Trump Gaza plan",
+   "title": "Kushner meets Netanyahu to push Trump Gaza plan",
    "url": "https://www.aljazeera.com/news/2026/8/17/kushner-to-meet-netanyahu-to-push-trump-gaza-plan?traffic_source=rss",
    "published": "2026-08-17T08:13:04+00:00",
    "summary": "The talks come one day after the US president&#039;s son-in-law held a rare meeting with Hamas leaders in Egypt.",
@@ -613,17 +624,6 @@
    "url": "https://www.aljazeera.com/sports/2026/8/15/inter-milan-sign-englands-djed-spence-from-tottenham-hotspur?traffic_source=rss",
    "published": "2026-08-15T17:48:32+00:00",
    "summary": "The 26-year-old, who has signed a five-year deal, cost the Italian champions about $40m, according to media reports.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "High-level Tajik delegation meets FM Araghchi in Tehran",
-   "url": "https://en.irna.ir/news/86236287/High-level-Tajik-delegation-meets-FM-Araghchi-in-Tehran",
-   "published": "2026-08-15T16:42:03+00:00",
-   "summary": "Tehran, IRNA – A high-ranking Tajik delegation held talks with Iranian Foreign Minister Abbas Araghchi in Tehran on Saturday, as part of an official visit aimed at deepening diplomatic and economic cooperation between the two friendly nations.",
    "tags": [
     "diplomacy"
    ],
