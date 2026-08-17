@@ -1,6 +1,18 @@
 {
- "asOf": "2026-08-17T13:24:58.031770+00:00",
+ "asOf": "2026-08-17T13:44:13.363769+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Yemeni forces target Saudi military ship, four boats in Red Sea",
+   "url": "https://en.irna.ir/news/86238157/Yemeni-forces-target-Saudi-military-ship-four-boats-in-Red-Sea",
+   "published": "2026-08-17T13:35:59+00:00",
+   "summary": "Tehran, IRNA – Yemeni armed forces spokesman Brigadier General Yahya Saree says Yemeni forces targeted a Saudi-affiliated military ship and four accompanying military boats off the coast of Mokha in the Red Sea with ballistic missiles.",
+   "tags": [
+    "strikes",
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "White House",
    "title": "First Lady Melania Trump’s Efforts Prove Successful in Ukraine-Russia",
@@ -611,19 +623,6 @@
    "summary": "Hamas chief Khalil al-Hayya to meet Egyptian intelligence chief Hassan Rashad in Cairo amid ongoing Gaza tensions.",
    "tags": [
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iran war live: Talks on Hormuz Strait continue; Israel kills 11 in Lebanon",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/8/16/iran-war-live-talks-on-hormuz-strait-continue-israel-kills-11-in-lebanon?traffic_source=rss",
-   "published": "2026-08-16T00:00:45+00:00",
-   "summary": "Israel kills 11 in deadliest attacks on Lebanon since June truce as Iran and Oman continue talks on Hormuz.",
-   "tags": [
-    "strikes",
-    "diplomacy",
-    "shipping"
    ],
    "highlight": false
   }
