@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-17T08:22:54.962734+00:00",
+ "asOf": "2026-08-17T09:03:09.440317+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Kushner to meet Netanyahu to push Trump Gaza plan",
+   "url": "https://www.aljazeera.com/news/2026/8/17/kushner-to-meet-netanyahu-to-push-trump-gaza-plan?traffic_source=rss",
+   "published": "2026-08-17T08:13:04+00:00",
+   "summary": "The talks come one day after the US president&#039;s son-in-law held a rare meeting with Hamas leaders in Egypt.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "At least six people killed in Ukrainian missile attack on Russia’s Belgorod",
@@ -602,17 +613,6 @@
    "summary": "Turkish president tells Al Jazeera that the recently signed agreement is open to new members as he pledges continued support.",
    "tags": [
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Ukraine hits Russian Starlink-style network, Moscow tracks arms package",
-   "url": "https://www.aljazeera.com/news/2026/8/15/ukraine-hits-russian-starlink-style-network-moscow-tracks-arms-package?traffic_source=rss",
-   "published": "2026-08-15T15:50:06+00:00",
-   "summary": "Ukraine used domestically produced Flamingo missiles to hit targets in Russia&#039;s southwestern Samara region.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   },
