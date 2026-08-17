@@ -1,6 +1,15 @@
 {
- "asOf": "2026-08-17T20:13:50.036098+00:00",
+ "asOf": "2026-08-17T20:38:03.955009+00:00",
  "items": [
+  {
+   "source": "UN Press",
+   "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General",
+   "url": "https://press.un.org/en/2026/db260817.doc.htm",
+   "published": "2026-08-17T20:27:29+00:00",
+   "summary": "In the Central African Republic, the UN peacekeeping mission, UN agencies and the UN Department of Safety and Security are helping the national authorities strengthen the national response and preparedness efforts to prevent the Ebola outbreak in neighbouring Democratic Republic of the Congo from entering.",
+   "tags": [],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "[No Title] - Post from August 17, 2026",
@@ -14,6 +23,17 @@
    "source": "IRNA (Iran state wire)",
    "title": "Araghchi dismisses drone attack on Barzani's office as false flag operation",
    "url": "https://en.irna.ir/news/86238387/Araghchi-dismisses-drone-attack-on-Barzani-s-office-as-false",
+   "published": "2026-08-17T19:51:12+00:00",
+   "summary": "Tehran, IRNA – Foreign Minister Abbas Araghchi has condemned and dismissed the attack on the Iraqi Kurdistan Region's Prime Minister's office as false flag operations.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Araghchi dismisses drone attack on Barzani’s office as false-flag operation",
+   "url": "https://en.irna.ir/news/86238387/Araghchi-dismisses-drone-attack-on-Barzani-s-office-as-false-flag",
    "published": "2026-08-17T19:51:12+00:00",
    "summary": "Tehran, IRNA – Foreign Minister Abbas Araghchi has condemned and dismissed the attack on the Iraqi Kurdistan Region's Prime Minister's office as false flag operations.",
    "tags": [
@@ -600,24 +620,6 @@
    "url": "https://trumpstruth.org/statuses/40897",
    "published": "2026-08-16T13:27:33+00:00",
    "summary": "Feds bust NYC fraud scheme that engineered hundreds of sham marriages between Americans, Chinese nationals: https:// nypost.com/2026/08/12/us-news/ feds-bust-nyc-fraud-scheme-that-engineered-hundreds-of-sham-marriages-between-americans-chinese-nationals/",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Democrats try to dodge ‘Woke 1’:",
-   "url": "https://trumpstruth.org/statuses/40898",
-   "published": "2026-08-16T13:27:14+00:00",
-   "summary": "Democrats try to dodge ‘Woke 1’: https://www. washingtonexaminer.com/opinion /editorials/4681169/the-democrats-crazy-woke-1-dodge-past-comments-trailing-candidates/",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "FBI touts 6,000 arrests, 44% homicide drop one year into Trump's DC crime crackdown:",
-   "url": "https://trumpstruth.org/statuses/40899",
-   "published": "2026-08-16T13:26:57+00:00",
-   "summary": "FBI touts 6,000 arrests, 44% homicide drop one year into Trump's DC crime crackdown: https://www. foxnews.com/politics/fbi-touts -6000-arrests-44-homicide-drop-one-year-trumps-dc-crime-crackdown",
    "tags": [],
    "highlight": true
   }
