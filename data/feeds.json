@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-17T07:43:29.933757+00:00",
+ "asOf": "2026-08-17T08:22:54.962734+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "At least six people killed in Ukrainian missile attack on Russia’s Belgorod",
+   "url": "https://www.aljazeera.com/news/2026/8/17/at-least-six-people-killed-in-ukrainian-missile-attack-on-russias-belgorod?traffic_source=rss",
+   "published": "2026-08-17T08:00:05+00:00",
+   "summary": "Overnight Russian missile and drone attacks across Ukraine kill two people and injure 19.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Hamas approves roadmap for Gaza ceasefire’s second phase, urges Israel to fulfill commitments",
@@ -613,17 +624,6 @@
    "summary": "TEHRAN, IRNA — Foreign Minister Seyyed Abbas Araghchi highlights the economic potential of Iran’s neighboring countries, including Afghanistan, Turkmenistan, and Pakistan, urging greater use of regional trade and cooperation to support economic development amid the United States’ cruel sanctions.",
    "tags": [
     "sanctions"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "The next Yemen war might be different",
-   "url": "https://www.aljazeera.com/features/2026/8/15/the-next-yemen-war-might-be-different?traffic_source=rss",
-   "published": "2026-08-15T14:32:07+00:00",
-   "summary": "Drones are no longer the advantage for only one side.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   }
