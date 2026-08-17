@@ -1,12 +1,23 @@
 {
- "asOf": "2026-08-17T06:19:44.024957+00:00",
+ "asOf": "2026-08-17T07:10:12.434843+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Hamas approves roadmap for Gaza ceasefire’s second phase, urges Israel to fulfill commitments",
+   "url": "https://en.irna.ir/news/86237532/Hamas-approves-roadmap-for-Gaza-ceasefire-s-second-phase-urges",
+   "published": "2026-08-17T07:04:19+00:00",
+   "summary": "Tehran, IRNA – The Palestinian resistance movement, Hamas, has announced its approval of the roadmap for the second phase of a plan by US President Donald Trump to end Israel’s genocidal war on Gaza, emphasizing that Israel must fulfill its commitments under the ceasefire deal brokered by Trump.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Iran’s top negotiator declares victory in war against the US and Israel",
    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/irans-top-negotiator-declares-victory-in-war-against-the-us-and-israel?traffic_source=rss",
    "published": "2026-08-17T05:16:18+00:00",
-   "summary": "Iran’s Parliament speaker and top negotiator Mohammad Baqer Qalibaf has declared both a military and political victory.",
+   "summary": "Iran’s Parliament speaker and negotiator Mohammad Bagher Ghalibaf has declared both a military and political victory",
    "tags": [
     "diplomacy"
    ],
@@ -613,18 +624,6 @@
    "summary": "Drones are no longer the advantage for only one side.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Tehran, Dushanbe to ink long‑term energy cooperation agreement",
-   "url": "https://en.irna.ir/news/86235911/Tehran-Dushanbe-to-ink-long-term-energy-cooperation-agreement",
-   "published": "2026-08-15T10:27:10+00:00",
-   "summary": "Tehran, IRNA — Iran and Tajikistan have reached an agreement to sign a long‑term contract for the export of petroleum products and the supply of crude oil to Tajikistan’s refineries.",
-   "tags": [
-    "diplomacy",
-    "oil"
    ],
    "highlight": false
   }
