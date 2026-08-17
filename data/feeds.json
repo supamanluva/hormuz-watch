@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-17T16:38:38.122535+00:00",
+ "asOf": "2026-08-17T16:56:16.627123+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Araghchi receives Uzbekistan’s first deputy foreign minister in Tehran",
+   "url": "https://en.irna.ir/news/86238294/Araghchi-receives-Uzbekistan-s-first-deputy-foreign-minister",
+   "published": "2026-08-17T16:50:16+00:00",
+   "summary": "Tehran, IRNA – Iranian Foreign Minister Abbas Araghchi receives Uzbekistan’s First Deputy Foreign Minister Bahramjan Alaev in Tehran on Monday for talks.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Police execute controlled World War II–era Mine explosion",
@@ -608,17 +619,6 @@
    "summary": "But to capture its benefits, the continent needs to develop an effective, common maritime policy.",
    "tags": [
     "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Israeli forces launch air, artillery, and phosphorus attacks on southern Lebanon",
-   "url": "https://en.irna.ir/news/86236538/Israeli-forces-launch-air-artillery-and-phosphorus-attacks",
-   "published": "2026-08-16T05:43:30+00:00",
-   "summary": "Tehran, IRNA – Israeli forces have launched airstrikes as well as artillery and heavy-machine-gun fire against areas in southern Lebanon’s Nabatieh district, using phosphorus shells.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   }
