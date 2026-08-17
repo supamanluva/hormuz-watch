@@ -1,6 +1,37 @@
 {
- "asOf": "2026-08-17T14:14:26.618338+00:00",
+ "asOf": "2026-08-17T14:38:21.018226+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Iran signals readiness for ‘US ground operations’ as MoU expires",
+   "url": "https://www.aljazeera.com/news/2026/8/17/iran-signals-readiness-for-us-ground-operations-as-mou-expires?traffic_source=rss",
+   "published": "2026-08-17T14:15:17+00:00",
+   "summary": "Iran&#039;s more offensive posture follows Trump&#039;s comment that the US would soon make the Strait of Hormuz its territory.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Boat sets sail from Bristol, aiming to break Israel’s siege of Gaza",
+   "url": "https://www.aljazeera.com/news/2026/8/17/boat-sets-sail-from-bristol-aiming-to-break-israels-siege-of-gaza?traffic_source=rss",
+   "published": "2026-08-17T14:12:08+00:00",
+   "summary": "Twelve people including the captain are on board the vessel named Kate, in the latest attempt to deliver aid.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "White House",
+   "title": "President Trump Delivers Largest Prescription Drug Price Drop in Over 60 Years",
+   "url": "https://www.whitehouse.gov/releases/2026/08/president-trump-delivers-largest-prescription-drug-price-drop-in-over-60-years/",
+   "published": "2026-08-17T14:03:07+00:00",
+   "summary": "President Donald J. Trump promised to slash prescription drug prices — and he has delivered. New data confirms prescription drug prices just recorded their largest annual decline in more than 60 years, the steepest drop since 1963, as the Trump Administration’s landmark Most Favored Nation policies take hold. President Trump is the first President to [&#8230;] The post President Trump Delivers Lar",
+   "tags": [],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Yemeni forces target Saudi military ship, four boats in Red Sea",
@@ -590,39 +621,6 @@
    "summary": "Russian authorities report 201 Ukrainian drones downed overnight in the Moscow region in the escalating conflict.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Israel strikes south Lebanon again as families flee north",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/israel-strikes-south-lebanon-again-as-families-flee-north?traffic_source=rss",
-   "published": "2026-08-16T04:43:21+00:00",
-   "summary": "Israeli airstrikes hit the Nabatieh district of southern Lebanon just hours after the deadliest day of Israeli raids.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Australia gun buyback spurred by Bondi attack to start in November, PM says",
-   "url": "https://www.aljazeera.com/news/2026/8/16/australia-gun-buyback-spurred-by-bondi-attack-to-start-in-november-pm-says?traffic_source=rss",
-   "published": "2026-08-16T04:35:26+00:00",
-   "summary": "Australia introduced measures to reduce gun ownership following a deadly attack on Sydney&#039;s Bondi Beach last year.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Hamas leader heads to Cairo for Gaza talks ahead of Kushner visit",
-   "url": "https://www.aljazeera.com/news/2026/8/16/hamas-leader-heads-to-cairo-for-gaza-talks-ahead-of-kushner-visit?traffic_source=rss",
-   "published": "2026-08-16T00:44:59+00:00",
-   "summary": "Hamas chief Khalil al-Hayya to meet Egyptian intelligence chief Hassan Rashad in Cairo amid ongoing Gaza tensions.",
-   "tags": [
-    "diplomacy"
    ],
    "highlight": false
   }
