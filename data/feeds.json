@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-17T05:20:44.581151+00:00",
+ "asOf": "2026-08-17T05:40:22.408579+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Iran’s top negotiator declares victory in war against the US and Israel",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/irans-top-negotiator-declares-victory-in-war-against-the-us-and-israel?traffic_source=rss",
+   "published": "2026-08-17T05:16:18+00:00",
+   "summary": "Iran’s Parliament speaker and top negotiator Mohammad Baqer Qalibaf has declared both a military and political victory.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Lawyer says Israel’s targeting of Palestinian women is a form of genocide",
@@ -602,17 +613,6 @@
    "summary": "Drones are no longer the advantage for only one side.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Vienna woman sues city for discrimination over toilet fees",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/vienna-woman-sues-city-for-discrimination-over-toilet-fees?traffic_source=rss",
-   "published": "2026-08-15T13:01:31+00:00",
-   "summary": "An Austrian activist in Vienna is challenging the city over public toilet fees.",
-   "tags": [
-    "oil"
    ],
    "highlight": false
   },
