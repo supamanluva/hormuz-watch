@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-17T11:14:14.126230+00:00",
+ "asOf": "2026-08-17T11:36:31.198611+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Is the world experiencing more earthquakes now than before?",
+   "url": "https://www.aljazeera.com/news/2026/8/17/is-the-world-experiencing-more-earthquakes-now-than-before?traffic_source=rss",
+   "published": "2026-08-17T11:09:18+00:00",
+   "summary": "Al Jazeera examines a decade of earthquake data to see how 2026 compares and explains how and where earthquakes strike.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "Trump Bump: Tax refunds jumped 17% after president’s signature law, GAO reports:",
@@ -615,17 +626,6 @@
    "tags": [
     "shipping",
     "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Inter Milan sign England’s Djed Spence from Tottenham Hotspur",
-   "url": "https://www.aljazeera.com/sports/2026/8/15/inter-milan-sign-englands-djed-spence-from-tottenham-hotspur?traffic_source=rss",
-   "published": "2026-08-15T17:48:32+00:00",
-   "summary": "The 26-year-old, who has signed a five-year deal, cost the Italian champions about $40m, according to media reports.",
-   "tags": [
-    "diplomacy"
    ],
    "highlight": false
   }
