@@ -1,6 +1,15 @@
 {
- "asOf": "2026-08-17T13:04:44.480244+00:00",
+ "asOf": "2026-08-17T13:24:58.031770+00:00",
  "items": [
+  {
+   "source": "White House",
+   "title": "First Lady Melania Trump’s Efforts Prove Successful in Ukraine-Russia",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/08/first-lady-melania-trumps-efforts-prove-successful-in-ukraine-russia/",
+   "published": "2026-08-17T13:02:21+00:00",
+   "summary": "First Lady Melania Trump facilitated the reunification of another child with her family on Monday, August 17, 2026, after being separated during the Ukraine – Russia Federation conflict. &#160; “There is nothing more powerful than reuniting a mother with her child after an extended period of time. &#160;My representative and I are focused on helping [&#8230;] The post First Lady Melania Trump’s Ef",
+   "tags": [],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Yemen’s drone war: Rivals flex growing aerial muscle",
@@ -615,17 +624,6 @@
     "strikes",
     "diplomacy",
     "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Yemen’s government says Houthi strikes hit residential areas in Marib",
-   "url": "https://www.aljazeera.com/news/2026/8/15/yemens-government-says-houthi-strikes-hit-residential-areas-in-marib?traffic_source=rss",
-   "published": "2026-08-15T23:27:10+00:00",
-   "summary": "Yemen&#039;s Ministry of Information denounces attacks on Marib as &#039;escalation&#039; that threatens lives and increases suffering.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   }
