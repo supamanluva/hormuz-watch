@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-17T15:13:39.426671+00:00",
+ "asOf": "2026-08-17T15:36:31.847438+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Police execute controlled World War II–era Mine explosion",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/police-execute-controlled-world-war-ii-era-mine?traffic_source=rss",
+   "published": "2026-08-17T15:08:17+00:00",
+   "summary": "Video footage released by police on Sunday shows Slovak bomb disposal experts executing a mine detonation.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "White House",
    "title": "ICYMI: “USS Lincoln: Performance For the Ages”",
@@ -26,7 +37,7 @@
    "title": "Boat sets sail from Bristol, aiming to break Israel’s siege of Gaza",
    "url": "https://www.aljazeera.com/news/2026/8/17/boat-sets-sail-from-bristol-aiming-to-break-israels-siege-of-gaza?traffic_source=rss",
    "published": "2026-08-17T14:12:08+00:00",
-   "summary": "Twelve people including the captain are on board the vessel named Kate, in the latest attempt to deliver aid.",
+   "summary": "Twelve people including the captain are on board &#039;Kate&#039;, the latest vessel attempting to deliver aid.",
    "tags": [
     "shipping"
    ],
@@ -604,17 +615,6 @@
    "source": "IRNA (Iran state wire)",
    "title": "Israeli forces launch air, artillery, and phosphorus attacks on southern Lebanon",
    "url": "https://en.irna.ir/news/86236538/Israeli-forces-launch-air-artillery-and-phosphorus-attacks",
-   "published": "2026-08-16T05:43:30+00:00",
-   "summary": "Tehran, IRNA – Israeli forces have launched airstrikes as well as artillery and heavy-machine-gun fire against areas in southern Lebanon’s Nabatieh district, using phosphorus shells.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Israeli forces launch air, artillery, phosphorus attacks on southern Lebanon",
-   "url": "https://en.irna.ir/news/86236538/Israeli-forces-launch-air-artillery-phosphorus-attacks-on-southern",
    "published": "2026-08-16T05:43:30+00:00",
    "summary": "Tehran, IRNA – Israeli forces have launched airstrikes as well as artillery and heavy-machine-gun fire against areas in southern Lebanon’s Nabatieh district, using phosphorus shells.",
    "tags": [
