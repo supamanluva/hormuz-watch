@@ -1,6 +1,15 @@
 {
- "asOf": "2026-08-17T14:38:21.018226+00:00",
+ "asOf": "2026-08-17T15:13:39.426671+00:00",
  "items": [
+  {
+   "source": "White House",
+   "title": "ICYMI: “USS Lincoln: Performance For the Ages”",
+   "url": "https://www.whitehouse.gov/releases/2026/08/icymi-uss-lincoln-performance-for-the-ages/",
+   "published": "2026-08-17T14:29:09+00:00",
+   "summary": "In a powerful op-ed, U.S. Central Command Commander Adm. Brad Cooper shares a firsthand account from his visit to the USS Abraham Lincoln. Adm. Cooper describes a crew of extraordinary American sailors whose unwavering dedication to their country, their mission, and each other continues to define one of the most intense and consequential deployments in [&#8230;] The post ICYMI: “USS Lincoln: Perfo",
+   "tags": [],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Iran signals readiness for ‘US ground operations’ as MoU expires",
@@ -608,17 +617,6 @@
    "url": "https://en.irna.ir/news/86236538/Israeli-forces-launch-air-artillery-phosphorus-attacks-on-southern",
    "published": "2026-08-16T05:43:30+00:00",
    "summary": "Tehran, IRNA – Israeli forces have launched airstrikes as well as artillery and heavy-machine-gun fire against areas in southern Lebanon’s Nabatieh district, using phosphorus shells.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Ukraine targets Moscow in mass drone attack as Russia bombards Kyiv",
-   "url": "https://www.aljazeera.com/news/2026/8/16/russian-strikes-kill-ukrainian-woman-as-nato-jet-downs-drone-over-romania?traffic_source=rss",
-   "published": "2026-08-16T04:54:33+00:00",
-   "summary": "Russian authorities report 201 Ukrainian drones downed overnight in the Moscow region in the escalating conflict.",
    "tags": [
     "strikes"
    ],
