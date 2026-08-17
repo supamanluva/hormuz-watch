@@ -1,6 +1,40 @@
 {
- "asOf": "2026-08-17T12:14:32.859730+00:00",
+ "asOf": "2026-08-17T13:04:44.480244+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Yemen’s drone war: Rivals flex growing aerial muscle",
+   "url": "https://www.aljazeera.com/news/2026/8/17/yemens-drone-war-rivals-flex-growing-aerial-muscle?traffic_source=rss",
+   "published": "2026-08-17T12:44:01+00:00",
+   "summary": "Houthi and government forces exchange drone attacks, marking a major shift in war tactics.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "New US sanctions will not dampen Iran’s resolve: FM spox",
+   "url": "https://en.irna.ir/news/86237865/New-US-sanctions-will-not-dampen-Iran-s-resolve-FM-spox",
+   "published": "2026-08-17T12:21:39+00:00",
+   "summary": "Tehran, IRNA – Foreign Ministry spokesperson Esmaeil Baqaei has said that the proposed new sanctions by the United States will not weaken Iran’s determination.",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "US-Iran Memorandum of Understanding expires: How and why it fell apart",
+   "url": "https://www.aljazeera.com/news/2026/8/17/us-iran-memorandum-of-understanding-expires-how-and-why-it-fell-apart?traffic_source=rss",
+   "published": "2026-08-17T12:07:23+00:00",
+   "summary": "Trump deemed the MoU &#039;over&#039; within a month of it being signed, as the two sides traded attacks despite a &#039;ceasefire&#039;.",
+   "tags": [
+    "strikes",
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Iran maintains food security despite war, blockade, drought: Agriculture minister",
@@ -592,39 +626,6 @@
    "summary": "Yemen&#039;s Ministry of Information denounces attacks on Marib as &#039;escalation&#039; that threatens lives and increases suffering.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran condemns Israeli continued attacks on Lebanon",
-   "url": "https://en.irna.ir/news/86236388/Iran-condemns-Israeli-continued-attacks-on-Lebanon",
-   "published": "2026-08-15T20:12:40+00:00",
-   "summary": "Tehran, IRNA – Foreign Ministry spokesperson Esmaeil Baqaei has condemned the Zionist regime's continued violations of international law and human rights in Lebanon.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran condemns Israel’s continued attacks on Lebanon",
-   "url": "https://en.irna.ir/news/86236388/Iran-condemns-Israel-s-continued-attacks-on-Lebanon",
-   "published": "2026-08-15T20:12:40+00:00",
-   "summary": "Tehran, IRNA – Foreign Ministry spokesperson Esmaeil Baqaei has condemned the Israeli regime’s continued violations of international law and human rights in Lebanon.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Death toll from Zimbabwe ferry disaster rises to 72",
-   "url": "https://www.aljazeera.com/news/2026/8/15/death-toll-from-zimbabwe-ferry-disaster-rises-to-69?traffic_source=rss",
-   "published": "2026-08-15T19:10:06+00:00",
-   "summary": "Police say 26 more bodies have been recovered from Lake Kariba after the overloaded vessel capsized on Tuesday.",
-   "tags": [
-    "shipping"
    ],
    "highlight": false
   }
