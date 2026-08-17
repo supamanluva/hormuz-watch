@@ -1,6 +1,28 @@
 {
- "asOf": "2026-08-17T18:15:37.037414+00:00",
+ "asOf": "2026-08-17T19:01:42.832738+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Gharibabadi focuses on regional peace, security and situation of Hormuz Strait in meeting with his Chinese counterpart",
+   "url": "https://en.irna.ir/news/86238361/Gharibabadi-focuses-on-regional-peace-security-and-situation",
+   "published": "2026-08-17T18:54:18+00:00",
+   "summary": "Tehran, IRNA – Iranian Deputy Foreign Minister for Legal and International Affairs Kazem Gharibabadi says Tehran’s relations with Beijing are based on mutual respect, opposition to unilateralism and the pursuit of shared interests.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Exclusive | Foreign Ministry Spokesperson calls drone attack on Iraqi Kurdistan PM’s office ‘highly suspicious’",
+   "url": "https://en.irna.ir/news/86238349/Exclusive-Foreign-Ministry-Spokesperson-calls-drone-attack",
+   "published": "2026-08-17T18:24:58+00:00",
+   "summary": "Tehran, IRNA — The Foreign Ministry spokesperson has labeled the recent drone attack on the office of Masrour Barzani, Prime Minister of the Iraqi Kurdistan Region, a “highly suspicious development,” urging regional vigilance to thwart attempts to destabilize ties between Iran and Iraq.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Explosion reported at school in Afghan capital Kabul",
@@ -598,29 +620,6 @@
    "summary": "Thank you, George, for some of your brilliant ideas on this great Military Complex/Ballroom! President DJT",
    "tags": [],
    "highlight": true
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Trump threatens to make the Strait of Hormuz a US territory: Can he?",
-   "url": "https://www.aljazeera.com/news/2026/8/16/trump-threatens-to-make-the-strait-of-hormuz-a-us-territory-can-he?traffic_source=rss",
-   "published": "2026-08-16T11:14:23+00:00",
-   "summary": "US president has yet another outlandish threat for Iran, with no end to war in sight.",
-   "tags": [
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Why has Israel escalated attacks in southern Lebanon despite ceasefire?",
-   "url": "https://www.aljazeera.com/news/2026/8/16/why-has-israel-escalated-attacks-in-southern-lebanon-despite-ceasefire?traffic_source=rss",
-   "published": "2026-08-16T10:59:10+00:00",
-   "summary": "At least 11 people killed in one day of Israeli attacks despite truce extension brokered by US in June.",
-   "tags": [
-    "strikes",
-    "diplomacy"
-   ],
-   "highlight": false
   }
  ]
 }
