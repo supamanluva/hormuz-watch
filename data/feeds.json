@@ -1,5 +1,5 @@
 {
- "asOf": "2026-08-17T17:14:43.149077+00:00",
+ "asOf": "2026-08-17T17:37:53.832453+00:00",
  "items": [
   {
    "source": "IRNA (Iran state wire)",
@@ -7,6 +7,17 @@
    "url": "https://en.irna.ir/news/86238294/Araghchi-receives-Uzbekistan-s-first-deputy-foreign-minister",
    "published": "2026-08-17T16:50:16+00:00",
    "summary": "Tehran, IRNA – Iranian Foreign Minister Abbas Araghchi receives Uzbekistan’s First Deputy Foreign Minister Bahramjan Alaev in Tehran on Monday for talks.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Palestinians, Israelis sceptical of Gaza plan as Kushner visits region",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinians-israelis-sceptical-of-gaza-plan-as-kushner-visits-region?traffic_source=rss",
+   "published": "2026-08-17T16:50:15+00:00",
+   "summary": "US envoy Jared Kushner met Hamas leaders in Egypt and Israeli PM Netanyahu to push Trump’s 15-point Gaza roadmap.",
    "tags": [
     "diplomacy"
    ],
@@ -34,7 +45,7 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "Iran signals readiness for ‘US ground operations’ as MoU expires",
+   "title": "Iran signals readiness for ‘US ground operations’ as strategy shifts gear",
    "url": "https://www.aljazeera.com/news/2026/8/17/iran-signals-readiness-for-us-ground-operations-as-mou-expires?traffic_source=rss",
    "published": "2026-08-17T14:15:17+00:00",
    "summary": "Iran&#039;s more offensive posture follows Trump&#039;s comment that the US would soon make the Strait of Hormuz its territory.",
@@ -608,17 +619,6 @@
    "summary": "Gorgan, IRNA – Iran is managing continuous cyberattacks by its enemies amid the country’s wartime conditions, says Minister of Information and Communications Technology Sattar Hashemi.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "The post-Hormuz era offers Africa a great opportunity",
-   "url": "https://www.aljazeera.com/opinions/2026/8/16/the-post-hormuz-era-offers-africa-a-great-opportunity?traffic_source=rss",
-   "published": "2026-08-16T10:09:32+00:00",
-   "summary": "But to capture its benefits, the continent needs to develop an effective, common maritime policy.",
-   "tags": [
-    "shipping"
    ],
    "highlight": false
   }
