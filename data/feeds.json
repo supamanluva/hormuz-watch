@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-17T10:00:54.902998+00:00",
+ "asOf": "2026-08-17T10:16:32.169944+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "No new mediator in Iran–US talks: Tehran says",
+   "url": "https://en.irna.ir/news/86237814/No-new-mediator-in-Iran-US-talks-Tehran-says",
+   "published": "2026-08-17T10:08:54+00:00",
+   "summary": "Tehran, IRNA – Foreign Ministry spokesperson Esmaeil Baqaei has stressed that while European countries have naturally made efforts to mediate, no new mediator has emerged in developments related to Iran-US talks.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Kushner to meet Netanyahu to push Trump Gaza plan",
@@ -613,17 +624,6 @@
    "summary": "Turkish president tells Al Jazeera that the recently signed agreement is open to new members as he pledges continued support.",
    "tags": [
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Araghchi urges provinces to expand economic ties with neighboring states amid sanctions",
-   "url": "https://en.irna.ir/news/86236241/Araghchi-urges-provinces-to-expand-economic-ties-with-neighboring",
-   "published": "2026-08-15T14:51:48+00:00",
-   "summary": "TEHRAN, IRNA — Foreign Minister Seyyed Abbas Araghchi highlights the economic potential of Iran’s neighboring countries, including Afghanistan, Turkmenistan, and Pakistan, urging greater use of regional trade and cooperation to support economic development amid the United States’ cruel sanctions.",
-   "tags": [
-    "sanctions"
    ],
    "highlight": false
   }
