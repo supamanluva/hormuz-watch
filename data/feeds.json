@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-17T20:38:03.955009+00:00",
+ "asOf": "2026-08-17T21:13:55.937930+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Trump says Iran will not make the deal he believes is necessary",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/trump-says-iran-will-not-make-the-deal-he-believes-is-necessary?traffic_source=rss",
+   "published": "2026-08-17T20:49:30+00:00",
+   "summary": "Trump says Iran will not make the deal he believes is necessary",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "UN Press",
    "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General",
@@ -611,15 +622,6 @@
    "url": "https://trumpstruth.org/statuses/40896",
    "published": "2026-08-16T13:27:55+00:00",
    "summary": "Trump Effect: Prescription Drug Prices Fall At Record-Breaking Pace: https://www. breitbart.com/economy/2026/08/ 12/trump-effect-prescription-drug-prices-fall-for-fifth-month-this-year/",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Feds bust NYC fraud scheme that engineered hundreds of sham marriages between Americans, Chinese nationals:",
-   "url": "https://trumpstruth.org/statuses/40897",
-   "published": "2026-08-16T13:27:33+00:00",
-   "summary": "Feds bust NYC fraud scheme that engineered hundreds of sham marriages between Americans, Chinese nationals: https:// nypost.com/2026/08/12/us-news/ feds-bust-nyc-fraud-scheme-that-engineered-hundreds-of-sham-marriages-between-americans-chinese-nationals/",
    "tags": [],
    "highlight": true
   }
