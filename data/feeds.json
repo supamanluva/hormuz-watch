@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-17T21:53:57.237373+00:00",
+ "asOf": "2026-08-17T22:13:28.124707+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iranian, Turkish foreign ministers discuss bilateral ties, Strait of Hormuz",
+   "url": "https://en.irna.ir/news/86238418/Iranian-Turkish-foreign-ministers-discuss-bilateral-ties-Strait",
+   "published": "2026-08-17T22:03:05+00:00",
+   "summary": "Tehran, IRNA – Iranian Foreign Minister Abbas Araghchi and his Turkish counterpart, Hakan Fidan, in a telephone conversation discussed bilateral ties and regional developments, including the Strait of Hormuz.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Trump says Iran will not make the deal he believes is necessary",
@@ -613,15 +624,6 @@
    "url": "https://trumpstruth.org/statuses/40895",
    "published": "2026-08-16T13:28:09+00:00",
    "summary": "Todd Blanche sworn in as AG; White House celebrates ‘huge win’: https:// heartlandernews.com/todd-blanc he-sworn-in-as-ag-white-house-celebrates-huge-win/",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Trump Effect: Prescription Drug Prices Fall At Record-Breaking Pace:",
-   "url": "https://trumpstruth.org/statuses/40896",
-   "published": "2026-08-16T13:27:55+00:00",
-   "summary": "Trump Effect: Prescription Drug Prices Fall At Record-Breaking Pace: https://www. breitbart.com/economy/2026/08/ 12/trump-effect-prescription-drug-prices-fall-for-fifth-month-this-year/",
    "tags": [],
    "highlight": true
   }
