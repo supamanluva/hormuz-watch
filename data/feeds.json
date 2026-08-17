@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-17T11:53:40.495510+00:00",
+ "asOf": "2026-08-17T12:14:32.859730+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran maintains food security despite war, blockade, drought: Agriculture minister",
+   "url": "https://en.irna.ir/news/86237984/Iran-maintains-food-security-despite-war-blockade-drought",
+   "published": "2026-08-17T11:59:35+00:00",
+   "summary": "Tehran, IRNA – Iran’s Minister of Agriculture Gholamreza Nouri-Ghezeljeh says the country’s food security remained intact throughout recent conflicts imposed by the US and the Israeli regime, despite maritime restrictions, sanctions, and severe drought.",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Is the world experiencing more earthquakes now than before?",
@@ -78,7 +89,7 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "At least six people killed in Ukrainian missile attack on Russia’s Belgorod",
+   "title": "At least seven people killed in Ukrainian air attacks on Russia",
    "url": "https://www.aljazeera.com/news/2026/8/17/at-least-six-people-killed-in-ukrainian-missile-attack-on-russias-belgorod?traffic_source=rss",
    "published": "2026-08-17T08:00:05+00:00",
    "summary": "Overnight Russian missile and drone attacks across Ukraine kill two people and injure 19.",
@@ -614,18 +625,6 @@
    "summary": "Police say 26 more bodies have been recovered from Lake Kariba after the overloaded vessel capsized on Tuesday.",
    "tags": [
     "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Cleanup underway as Russian oil spill reaches Oman’s coastline",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/15-08-sv-oil-spill-oman-on?traffic_source=rss",
-   "published": "2026-08-15T18:11:12+00:00",
-   "summary": "Cleanup crews are responding along 12 kilometres of Omani coastline following an oil spill from the grounded tanker.",
-   "tags": [
-    "shipping",
-    "oil"
    ],
    "highlight": false
   }
