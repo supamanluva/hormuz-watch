@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-18T07:04:18.037500+00:00",
+ "asOf": "2026-08-18T07:23:27.296471+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Russia says more than 600 drones targeted Moscow region",
+   "url": "https://www.aljazeera.com/news/2026/8/18/russia-says-more-than-600-drones-targeted-moscow-region?traffic_source=rss",
+   "published": "2026-08-18T06:47:40+00:00",
+   "summary": "The attacks injured at least three people, including a girl, and damaged a Wildberries warehouse, Russian officials say.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Vessel hit by ‘unknown projectile’ in Strait of Hormuz, UKMTO says",
@@ -582,17 +593,6 @@
    "url": "https://en.irna.ir/news/86237814/No-new-mediator-in-Iran-US-talks-Tehran-says",
    "published": "2026-08-17T10:08:54+00:00",
    "summary": "Tehran, IRNA — Foreign Ministry spokesperson Esmaeil Baqaei has stressed that while European countries have naturally made efforts to mediate, no new mediator has emerged in developments related to Iran–US talks.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Kushner meets Netanyahu to push Trump Gaza plan",
-   "url": "https://www.aljazeera.com/news/2026/8/17/kushner-to-meet-netanyahu-to-push-trump-gaza-plan?traffic_source=rss",
-   "published": "2026-08-17T08:13:04+00:00",
-   "summary": "The talks come one day after the US president&#039;s son-in-law held a rare meeting with Hamas leaders in Egypt.",
    "tags": [
     "diplomacy"
    ],
