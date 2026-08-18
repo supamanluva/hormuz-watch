@@ -1,6 +1,28 @@
 {
- "asOf": "2026-08-18T17:55:31.464334+00:00",
+ "asOf": "2026-08-18T18:15:14.483024+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Barcelona seal deal for World Cup winner Rodri from Manchester City",
+   "url": "https://www.aljazeera.com/sports/2026/8/18/barcelona-seal-deal-for-world-cup-winner-rodri-from-manchester-city?traffic_source=rss",
+   "published": "2026-08-18T18:01:12+00:00",
+   "summary": "Rodri won the player of the World Cup award while helping Spain beat Argentina, and now completes his Barcelona move.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Analysis: Syrian airbase attack is an Israeli message to Damascus, Ankara",
+   "url": "https://www.aljazeera.com/features/2026/8/18/analysis-syrian-airbase-attack-is-an-israeli-message-to-damascus-ankara?traffic_source=rss",
+   "published": "2026-08-18T17:51:46+00:00",
+   "summary": "Analysts say the attack on Abu al-Duhur was likely an Israeli message warning to not rebuild Syria&#039;s air force.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Arab, Islamic nations slam fresh Israeli aggression against Syria",
@@ -587,26 +609,6 @@
    "url": "https://press.un.org/en/2026/bio5637.doc.htm",
    "published": "2026-08-17T18:56:59+00:00",
    "summary": "The new Permanent Observer of the Council of Europe to the United Nations, Kelly Sipp, presented her letter of appointment to UN Secretary-General António Guterres today.",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Gharibabadi focuses on regional peace, security and situation of Hormuz Strait in meeting with his Chinese counterpart",
-   "url": "https://en.irna.ir/news/86238361/Gharibabadi-focuses-on-regional-peace-security-and-situation",
-   "published": "2026-08-17T18:54:18+00:00",
-   "summary": "Tehran, IRNA – Iranian Deputy Foreign Minister for Legal and International Affairs Kazem Gharibabadi says Tehran’s relations with Beijing are based on mutual respect, opposition to unilateralism and the pursuit of shared interests.",
-   "tags": [
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "New Permanent Representative of Czech Republic Presents Credentials",
-   "url": "https://press.un.org/en/2026/bio5636.doc.htm",
-   "published": "2026-08-17T18:28:47+00:00",
-   "summary": "The new Permanent Representative of the Czech Republic to the United Nations, Hynek Kmoníček, presented his credentials to UN Secretary-General António Guterres today.",
    "tags": [],
    "highlight": false
   }
