@@ -1,6 +1,28 @@
 {
- "asOf": "2026-08-18T14:58:38.620276+00:00",
+ "asOf": "2026-08-18T15:39:39.823142+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Persian Gulf post-Hormuz: Is regional security order changing?",
+   "url": "https://en.irna.ir/news/86239224/Persian-Gulf-post-Hormuz-Is-regional-security-order-changing",
+   "published": "2026-08-18T15:02:06+00:00",
+   "summary": "Tehran, IRNA – Following significant developments in the Persian Gulf, specifically the Strait of Hormuz, many international experts and analysts have raised the question of whether the security order of this strategic waterway may no longer be as effective as it once was.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Why is Russia threatening UK with ‘consequences’ over Ukraine drones?",
+   "url": "https://www.aljazeera.com/news/2026/8/18/why-is-russia-threatening-uk-with-consequences-over-ukraine-drones?traffic_source=rss",
+   "published": "2026-08-18T14:49:56+00:00",
+   "summary": "Russia is suffering attacks inside its own territory as long-range drones strike its strategic assets.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "MORNING GLORY: SCOTUS should urgently allow construction at the White House to proceed:",
@@ -586,24 +608,6 @@
    "tags": [
     "strikes"
    ],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "New Permanent Representative of Costa Rica Presents Credentials",
-   "url": "https://press.un.org/en/2026/bio5635.doc.htm",
-   "published": "2026-08-17T17:10:25+00:00",
-   "summary": "The new Permanent Representative of Costa Rica to the United Nations, Boris V. Marchegiani Carrero, presented his credentials to UN Secretary-General António Guterres today.",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "New Permanent Representative of Togo Presents Credentials",
-   "url": "https://press.un.org/en/2026/bio5634.doc.htm",
-   "published": "2026-08-17T17:10:20+00:00",
-   "summary": "The new Permanent Representative of Togo to the United Nations, Koffi Akakpo, presented his credentials to UN Secretary-General António Guterres today.",
-   "tags": [],
    "highlight": false
   }
  ]
