@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-18T01:15:07.013140+00:00",
+ "asOf": "2026-08-18T02:30:39.726500+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Large fire breaks out at fuel depot near Iraq’s Sulaimaniyah",
+   "url": "https://www.aljazeera.com/news/2026/8/18/large-fire-breaks-out-at-fuel-depot-near-iraqs-sulaimaniyah?traffic_source=rss",
+   "published": "2026-08-18T01:54:01+00:00",
+   "summary": "At least 20 injured and dozens of fuel tankers destroyed as flames rip through warehouse near northern Kurdish city.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "[No Title] - Post from August 18, 2026",
@@ -582,17 +593,6 @@
    "url": "https://en.irna.ir/news/86237532/Hamas-approves-roadmap-for-Gaza-ceasefire-s-second-phase-urges",
    "published": "2026-08-17T07:04:19+00:00",
    "summary": "Tehran, IRNA – Hamas, the Palestinian resistance movement, has announced its approval of the roadmap for the second phase of a plan by US President Donald Trump to end Israel’s genocidal war on Gaza, emphasizing that Israel must fulfill its commitments under the ceasefire deal brokered by Trump.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iran’s top negotiator declares victory in war against the US and Israel",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/irans-top-negotiator-declares-victory-in-war-against-the-us-and-israel?traffic_source=rss",
-   "published": "2026-08-17T05:16:18+00:00",
-   "summary": "Iran’s Parliament speaker and negotiator Mohammad Bagher Ghalibaf has declared both a military and political victory",
    "tags": [
     "diplomacy"
    ],
