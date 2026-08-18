@@ -1,6 +1,29 @@
 {
- "asOf": "2026-08-18T11:36:28.079620+00:00",
+ "asOf": "2026-08-18T11:54:17.804524+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran envoy in Mexico hails Fidel Castro as symbol of national independence",
+   "url": "https://en.irna.ir/news/86239047/Iran-envoy-in-Mexico-hails-Fidel-Castro-as-symbol-of-national",
+   "published": "2026-08-18T11:38:22+00:00",
+   "summary": "Tehran, IRNA – Iranian Ambassador to Mexico Abolfazl Pasandideh has described Fidel Castro as a symbol of a nation’s determination to freely and independently shape its own destiny.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Why has Trump threatened to bomb Oman – for a second time?",
+   "url": "https://www.aljazeera.com/news/2026/8/18/why-has-trump-threatened-to-bomb-oman-for-a-second-time?traffic_source=rss",
+   "published": "2026-08-18T11:33:15+00:00",
+   "summary": "The US president threatened to bomb Oman over Hormuz, with US-Iran peace negotiations in a deadlock.",
+   "tags": [
+    "diplomacy",
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "Intel Politics: NSA sat on election threat reporting over Trump ‘deep state’ label, memo shows:",
@@ -580,26 +603,6 @@
    "tags": [
     "shipping"
    ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Boat sets sail from Bristol, aiming to break Israel’s siege of Gaza",
-   "url": "https://www.aljazeera.com/news/2026/8/17/boat-sets-sail-from-bristol-aiming-to-break-israels-siege-of-gaza?traffic_source=rss",
-   "published": "2026-08-17T14:12:08+00:00",
-   "summary": "Twelve people including the captain are on board &#039;Kate&#039;, the latest vessel attempting to deliver aid.",
-   "tags": [
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "President Trump Delivers Largest Prescription Drug Price Drop in Over 60 Years",
-   "url": "https://www.whitehouse.gov/releases/2026/08/president-trump-delivers-largest-prescription-drug-price-drop-in-over-60-years/",
-   "published": "2026-08-17T14:03:07+00:00",
-   "summary": "President Donald J. Trump promised to slash prescription drug prices — and he has delivered. New data confirms prescription drug prices just recorded their largest annual decline in more than 60 years, the steepest drop since 1963, as the Trump Administration’s landmark Most Favored Nation policies take hold. President Trump is the first President to [&#8230;] The post President Trump Delivers Lar",
-   "tags": [],
    "highlight": false
   }
  ]
