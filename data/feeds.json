@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-18T08:16:24.908108+00:00",
+ "asOf": "2026-08-18T08:40:48.779283+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Mashhad holds ceremony to mark 40th day after martyred Leader’s burial",
+   "url": "https://en.irna.ir/photo/86238782/Mashhad-holds-ceremony-to-mark-40th-day-after-martyred-Leader-s",
+   "published": "2026-08-18T08:29:23+00:00",
+   "summary": "The holy city of Mashhad, in northeastern Iran, hosted a ceremony on the evening of August 17, 2026, to honor the 40th day after the funeral and burial of the martyred Leader of the Islamic Revolution, Ayatollah Seyyed Ali Khamenei, who was assassinated in a US–Israeli terror attack on February 28.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Iran’s non-oil exports reach $15 billion by mid-2026: Official",
@@ -47,10 +58,10 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "Russia says more than 600 drones targeted Moscow region",
+   "title": "Russian strikes kill 10 in Kharkiv as Ukrainian drones hit Moscow",
    "url": "https://www.aljazeera.com/news/2026/8/18/russia-says-more-than-600-drones-targeted-moscow-region?traffic_source=rss",
    "published": "2026-08-18T06:47:40+00:00",
-   "summary": "The attacks injured at least three people, including a girl, and damaged a Wildberries warehouse, Russian officials say.",
+   "summary": "Russian attacks reportedly killed 10 people and injured eight in Ukraine&#039;s Kharkiv.",
    "tags": [
     "strikes"
    ],
@@ -584,17 +595,6 @@
    "tags": [
     "strikes",
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran maintains food security despite war, blockade, drought: Agriculture minister",
-   "url": "https://en.irna.ir/news/86237984/Iran-maintains-food-security-despite-war-blockade-drought",
-   "published": "2026-08-17T11:59:35+00:00",
-   "summary": "Tehran, IRNA – Iran’s Minister of Agriculture Gholamreza Nouri-Ghezeljeh says the country’s food security remained intact throughout recent conflicts imposed by the US and the Israeli regime, despite maritime restrictions, sanctions, and severe drought.",
-   "tags": [
-    "sanctions"
    ],
    "highlight": false
   }
