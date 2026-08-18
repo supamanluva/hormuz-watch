@@ -1,6 +1,28 @@
 {
- "asOf": "2026-08-18T09:57:33.028006+00:00",
+ "asOf": "2026-08-18T10:38:50.302008+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Eight air strikes hit airbase in Syria’s Idlib",
+   "url": "https://www.aljazeera.com/news/2026/8/18/eight-air-strikes-hit-airbase-in-syrias-idlib?traffic_source=rss",
+   "published": "2026-08-18T10:11:53+00:00",
+   "summary": "Syrian state TV quotes military source as saying Israeli forces carried out attack, causing damage and no casualties.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Brazil’s president says Amazon oil is ‘passport to the future’",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/brazils-president-says-amazon-oil-is-passport-to-the?traffic_source=rss",
+   "published": "2026-08-18T10:08:04+00:00",
+   "summary": "Brazil&#039;s president says Amazon oil is ‘passport to the future’",
+   "tags": [
+    "oil"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Drone video shows drought-hit fields in England after driest July on record",
@@ -573,28 +595,6 @@
    "published": "2026-08-17T13:02:21+00:00",
    "summary": "First Lady Melania Trump facilitated the reunification of another child with her family on Monday, August 17, 2026, after being separated during the Ukraine – Russia Federation conflict. &#160; “There is nothing more powerful than reuniting a mother with her child after an extended period of time. &#160;My representative and I are focused on helping [&#8230;] The post First Lady Melania Trump’s Ef",
    "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Yemen’s drone war: Rivals flex growing aerial muscle",
-   "url": "https://www.aljazeera.com/news/2026/8/17/yemens-drone-war-rivals-flex-growing-aerial-muscle?traffic_source=rss",
-   "published": "2026-08-17T12:44:01+00:00",
-   "summary": "Houthi and government forces exchange drone attacks, marking a major shift in war tactics.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "New US sanctions will not dampen Iran’s resolve: FM spox",
-   "url": "https://en.irna.ir/news/86237865/New-US-sanctions-will-not-dampen-Iran-s-resolve-FM-spox",
-   "published": "2026-08-17T12:21:39+00:00",
-   "summary": "Tehran, IRNA – Foreign Ministry spokesperson Esmaeil Baqaei has said that the proposed new sanctions by the United States will not weaken Iran’s determination.",
-   "tags": [
-    "sanctions"
-   ],
    "highlight": false
   }
  ]
