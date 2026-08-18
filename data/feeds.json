@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-18T17:37:43.220493+00:00",
+ "asOf": "2026-08-18T17:55:31.464334+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Arab, Islamic nations slam fresh Israeli aggression against Syria",
+   "url": "https://en.irna.ir/news/86239333/Arab-Islamic-nations-slam-fresh-Israeli-aggression-against-Syria",
+   "published": "2026-08-18T17:37:13+00:00",
+   "summary": "Tehran, IRNA – Arab and Islamic countries strongly condemned Zionist regime’s attack on Syria’s Abu al-Duhur military airbase, calling on the international community to take action to prevent repeated aggression by the regime.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "In April, I signed a very important Executive Order to accelerate medical treatments for serious mental illness — Specifically, psychedelic drugs, including IBOGAINE. This is something that has helped so many of our amazing VETERANS and true American Heroes who were here in the Oval Office with me, and Joe Rogan. Today I am announcing that Secretary Kennedy has received a Historic Gift from the University of Miami, who has given the Federal Government its original 1994 Ibogaine Investigational New Drug application. This will give everyone direct access to the foundational FDA authorization to accelerate its development as a medical treatment in the U.S. This is HUGE! Special THANK YOU to the University of Miami, who has done this to ensure that Americans are helped as quickly as possible. This adds to the INCREDIBLE PROGRESS since April, including huge amounts of HHS research funding, collaboration between HHS and VA, FDA guidance, and more. We are moving FAST, so that our Veterans with serious mental illness have a RIGHT TO TRY here in the U.S. We hope to see more companies and institutions join us in this very important work. Our Veterans DESERVE it! Thank you for your attention to this matter. President DONALD J. TRUMP",
@@ -597,17 +608,6 @@
    "published": "2026-08-17T18:28:47+00:00",
    "summary": "The new Permanent Representative of the Czech Republic to the United Nations, Hynek Kmoníček, presented his credentials to UN Secretary-General António Guterres today.",
    "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Exclusive | Foreign Ministry Spokesperson calls drone attack on Iraqi Kurdistan PM’s office ‘highly suspicious’",
-   "url": "https://en.irna.ir/news/86238349/Exclusive-Foreign-Ministry-Spokesperson-calls-drone-attack",
-   "published": "2026-08-17T18:24:58+00:00",
-   "summary": "Tehran, IRNA — The Foreign Ministry spokesperson has labeled the recent drone attack on the office of Masrour Barzani, Prime Minister of the Iraqi Kurdistan Region, a “highly suspicious development,” urging regional vigilance to thwart attempts to destabilize ties between Iran and Iraq.",
-   "tags": [
-    "strikes"
-   ],
    "highlight": false
   }
  ]
