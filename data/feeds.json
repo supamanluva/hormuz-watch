@@ -1,6 +1,30 @@
 {
- "asOf": "2026-08-18T10:38:50.302008+00:00",
+ "asOf": "2026-08-18T10:56:15.767029+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Deaths mount, trauma sets in as Russia ramps up missile attacks on Ukraine",
+   "url": "https://www.aljazeera.com/news/2026/8/18/putins-illusion-of-victory-russia-ramps-up-missile-attacks-on-ukraine?traffic_source=rss",
+   "published": "2026-08-18T10:45:37+00:00",
+   "summary": "Ukrainian families mourn their loved ones as experts lament Washington&#039;s elusive promises of military support.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Hormuz Strait will not reopen until US blockade, oil sanctions on Iran stop: Ghalibaf",
+   "url": "https://en.irna.ir/news/86238955/Hormuz-Strait-will-not-reopen-until-US-blockade-oil-sanctions",
+   "published": "2026-08-18T10:39:23+00:00",
+   "summary": "Tehran, IRNA – Parliament Speaker Mohammad-Bagher Ghalibaf has reiterated Iran’s conditions for the reopening of the Strait of Hormuz, saying the strategic waterway will not reopen until the United States lifts its blockade, ends sanctions, and releases frozen assets of the Islamic Republic.",
+   "tags": [
+    "sanctions",
+    "shipping",
+    "oil"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Eight air strikes hit airbase in Syria’s Idlib",
@@ -573,27 +597,6 @@
    "url": "https://www.whitehouse.gov/releases/2026/08/president-trump-delivers-largest-prescription-drug-price-drop-in-over-60-years/",
    "published": "2026-08-17T14:03:07+00:00",
    "summary": "President Donald J. Trump promised to slash prescription drug prices — and he has delivered. New data confirms prescription drug prices just recorded their largest annual decline in more than 60 years, the steepest drop since 1963, as the Trump Administration’s landmark Most Favored Nation policies take hold. President Trump is the first President to [&#8230;] The post President Trump Delivers Lar",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Yemeni forces target Saudi military ship, four boats in Red Sea",
-   "url": "https://en.irna.ir/news/86238157/Yemeni-forces-target-Saudi-military-ship-four-boats-in-Red-Sea",
-   "published": "2026-08-17T13:35:59+00:00",
-   "summary": "Tehran, IRNA – Yemeni armed forces spokesman Brigadier General Yahya Saree says Yemeni forces targeted a Saudi-affiliated military ship and four accompanying military boats off the coast of Mokha in the Red Sea with ballistic missiles.",
-   "tags": [
-    "strikes",
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "First Lady Melania Trump’s Efforts Prove Successful in Ukraine-Russia",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/08/first-lady-melania-trumps-efforts-prove-successful-in-ukraine-russia/",
-   "published": "2026-08-17T13:02:21+00:00",
-   "summary": "First Lady Melania Trump facilitated the reunification of another child with her family on Monday, August 17, 2026, after being separated during the Ukraine – Russia Federation conflict. &#160; “There is nothing more powerful than reuniting a mother with her child after an extended period of time. &#160;My representative and I are focused on helping [&#8230;] The post First Lady Melania Trump’s Ef",
    "tags": [],
    "highlight": false
   }
