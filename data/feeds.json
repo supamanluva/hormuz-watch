@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-18T03:47:30.212350+00:00",
+ "asOf": "2026-08-18T04:19:58.931560+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Hichilema wins second second term as president of copper-rich Zambia",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/08-18-26-zambia-elections-sv?traffic_source=rss",
+   "published": "2026-08-18T04:07:13+00:00",
+   "summary": "Hichilema wins Zambia’s election with 60% after attacks on election officials briefly halted the vote count.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Large fire breaks out at fuel depot near Iraq’s Sulaimaniyah",
@@ -584,17 +595,6 @@
    "summary": "Overnight Russian missile and drone attacks across Ukraine kill two people and injure 19.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Hamas approves roadmap for Gaza ceasefire’s second phase, urges Israel to fulfill commitments",
-   "url": "https://en.irna.ir/news/86237532/Hamas-approves-roadmap-for-Gaza-ceasefire-s-second-phase-urges",
-   "published": "2026-08-17T07:04:19+00:00",
-   "summary": "Tehran, IRNA – Hamas, the Palestinian resistance movement, has announced its approval of the roadmap for the second phase of a plan by US President Donald Trump to end Israel’s genocidal war on Gaza, emphasizing that Israel must fulfill its commitments under the ceasefire deal brokered by Trump.",
-   "tags": [
-    "diplomacy"
    ],
    "highlight": false
   }
