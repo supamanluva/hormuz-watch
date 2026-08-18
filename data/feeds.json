@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-18T12:15:29.616960+00:00",
+ "asOf": "2026-08-18T13:05:43.393297+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Qatar rejects Iran’s ‘false’ claims about missing pilots",
+   "url": "https://www.aljazeera.com/news/2026/8/18/qatar-rejects-irans-false-claims-about-missing-pilots?traffic_source=rss",
+   "published": "2026-08-18T12:39:43+00:00",
+   "summary": "Majed al-Ansari says the Iranian planes &#039;violated Qatar’s sovereignty&#039; and were dealt with in accordance with the law.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Iran envoy in Mexico hails Fidel Castro as symbol of national independence",
@@ -592,17 +603,6 @@
    "published": "2026-08-17T14:29:09+00:00",
    "summary": "In a powerful op-ed, U.S. Central Command Commander Adm. Brad Cooper shares a firsthand account from his visit to the USS Abraham Lincoln. Adm. Cooper describes a crew of extraordinary American sailors whose unwavering dedication to their country, their mission, and each other continues to define one of the most intense and consequential deployments in [&#8230;] The post ICYMI: “USS Lincoln: Perfo",
    "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iran signals readiness for ‘US ground operations’ as strategy shifts gear",
-   "url": "https://www.aljazeera.com/news/2026/8/17/iran-signals-readiness-for-us-ground-operations-as-mou-expires?traffic_source=rss",
-   "published": "2026-08-17T14:15:17+00:00",
-   "summary": "Iran&#039;s more offensive posture follows Trump&#039;s comment that the US would soon make the Strait of Hormuz its territory.",
-   "tags": [
-    "shipping"
-   ],
    "highlight": false
   }
  ]
