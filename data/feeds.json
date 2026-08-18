@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-18T07:23:27.296471+00:00",
+ "asOf": "2026-08-18T07:42:30.819926+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Israeli settler children attack ambulance in occupied West Bank",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/israeli-settler-children-attack-ambulance-in-occupied-west-bank?traffic_source=rss",
+   "published": "2026-08-18T07:20:35+00:00",
+   "summary": "Video released by the Palestinian Red Crescent shows Israeli settler children attacking and blocking an ambulance.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Russia says more than 600 drones targeted Moscow region",
@@ -582,17 +593,6 @@
    "url": "https://en.irna.ir/news/86237930/Baqaei-dismisses-fabricated-reports-of-backchannel-talks-between",
    "published": "2026-08-17T10:49:01+00:00",
    "summary": "Tehran, IRNA — Foreign Ministry spokesperson Esmaeil Baqaei has dismissed media reports of backchannel talks between the United States and Iran’s Islamic Revolution Guards Corps (IRGC) leadership, describing the reports as fabricated and part of psychological warfare aimed at creating division among the Islamic Republic’s decision-making bodies.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "No new mediator in Iran–US talks: Tehran says",
-   "url": "https://en.irna.ir/news/86237814/No-new-mediator-in-Iran-US-talks-Tehran-says",
-   "published": "2026-08-17T10:08:54+00:00",
-   "summary": "Tehran, IRNA — Foreign Ministry spokesperson Esmaeil Baqaei has stressed that while European countries have naturally made efforts to mediate, no new mediator has emerged in developments related to Iran–US talks.",
    "tags": [
     "diplomacy"
    ],
