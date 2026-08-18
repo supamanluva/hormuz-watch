@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-18T06:16:24.321845+00:00",
+ "asOf": "2026-08-18T07:04:18.037500+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Vessel hit by ‘unknown projectile’ in Strait of Hormuz, UKMTO says",
+   "url": "https://www.aljazeera.com/news/2026/8/18/vessel-hit-by-unknown-projectile-in-strait-of-hormuz-ukmto-says?traffic_source=rss",
+   "published": "2026-08-18T06:35:43+00:00",
+   "summary": "British maritime agency says the incident caused one casualty and damaged the vessel&#039;s engine room.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Hichilema wins second term as president of copper-rich Zambia",
@@ -276,7 +287,7 @@
    "title": "Iranian, Turkish foreign ministers discuss bilateral ties, Strait of Hormuz",
    "url": "https://en.irna.ir/news/86238418/Iranian-Turkish-foreign-ministers-discuss-bilateral-ties-Strait",
    "published": "2026-08-17T22:03:05+00:00",
-   "summary": "Tehran, IRNA – Iranian Foreign Minister Abbas Araghchi and his Turkish counterpart, Hakan Fidan, in a telephone conversation discussed bilateral ties and regional developments, including the Strait of Hormuz.",
+   "summary": "Tehran, IRNA – Iranian Foreign Minister Abbas Araghchi and his Turkish counterpart, Hakan Fidan, have discussed bilateral ties and regional developments, including the Strait of Hormuz.",
    "tags": [
     "shipping"
    ],
@@ -318,7 +329,7 @@
    "title": "Araghchi dismisses drone attack on Barzani’s office as false-flag operation",
    "url": "https://en.irna.ir/news/86238387/Araghchi-dismisses-drone-attack-on-Barzani-s-office-as-false-flag",
    "published": "2026-08-17T19:51:12+00:00",
-   "summary": "Tehran, IRNA – Foreign Minister Abbas Araghchi has condemned and dismissed the attack on the Iraqi Kurdistan Region’s Prime Minister’s office as false flag operations.",
+   "summary": "Tehran, IRNA – Foreign Minister Abbas Araghchi has condemned and dismissed the attack on the Iraqi Kurdistan Region’s Prime Minister’s office as a false-flag operation.",
    "tags": [
     "strikes"
    ],
@@ -584,17 +595,6 @@
    "summary": "The talks come one day after the US president&#039;s son-in-law held a rare meeting with Hamas leaders in Egypt.",
    "tags": [
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "At least seven people killed in Ukrainian air attacks on Russia",
-   "url": "https://www.aljazeera.com/news/2026/8/17/at-least-six-people-killed-in-ukrainian-missile-attack-on-russias-belgorod?traffic_source=rss",
-   "published": "2026-08-17T08:00:05+00:00",
-   "summary": "Overnight Russian missile and drone attacks across Ukraine kill two people and injure 19.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   }
