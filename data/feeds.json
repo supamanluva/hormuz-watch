@@ -1,6 +1,39 @@
 {
- "asOf": "2026-08-18T07:42:30.819926+00:00",
+ "asOf": "2026-08-18T08:16:24.908108+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran’s non-oil exports reach $15 billion by mid-2026: Official",
+   "url": "https://en.irna.ir/news/86238704/Iran-s-non-oil-exports-reach-15-billion-by-mid-2026-Official",
+   "published": "2026-08-18T08:01:12+00:00",
+   "summary": "Tehran, IRNA – The head of the Islamic Republic of Iran Customs Administration (IRICA) says non-oil exports of the country have reached $15 billion from the beginning of this year.",
+   "tags": [
+    "oil"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Palestine weekly: Global outcry fails to break West Bank siege",
+   "url": "https://www.aljazeera.com/features/2026/8/18/palestine-weekly-global-outcry-fails-break-west-bank-siege?traffic_source=rss",
+   "published": "2026-08-18T07:46:17+00:00",
+   "summary": "Israeli settlers besiege Palestinian homes in West Bank, while Board of Peace goes back on Gaza disarmament deal.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Canada battles the clock, politics in scramble to avert Trump’s tariffs",
+   "url": "https://www.aljazeera.com/economy/2026/8/18/canada-battles-the-clock-politics-in-scramble-to-avert-trumps-tariffs?traffic_source=rss",
+   "published": "2026-08-18T07:41:41+00:00",
+   "summary": "Canadian officials are making a last-ditch effort to negotiate a reprieve from 50-percent tariffs.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Israeli settler children attack ambulance in occupied West Bank",
@@ -562,39 +595,6 @@
    "summary": "Tehran, IRNA – Iran’s Minister of Agriculture Gholamreza Nouri-Ghezeljeh says the country’s food security remained intact throughout recent conflicts imposed by the US and the Israeli regime, despite maritime restrictions, sanctions, and severe drought.",
    "tags": [
     "sanctions"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Is the world experiencing more earthquakes now than before?",
-   "url": "https://www.aljazeera.com/news/2026/8/17/is-the-world-experiencing-more-earthquakes-now-than-before?traffic_source=rss",
-   "published": "2026-08-17T11:09:18+00:00",
-   "summary": "Al Jazeera examines a decade of earthquake data to see how 2026 compares and explains how and where earthquakes strike.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iraqi Kurdish PM Barzani’s office targeted in drone attack",
-   "url": "https://www.aljazeera.com/news/2026/8/17/iraqi-kurdish-pm-barzanis-office-targeted-in-drone-attack?traffic_source=rss",
-   "published": "2026-08-17T10:54:50+00:00",
-   "summary": "Explosive drones target Iraqi Kurdish PM&#039;s office and security chief&#039;s residence; no casualties reported.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Baqaei dismisses ‘fabricated’ reports of backchannel talks between US and IRGC",
-   "url": "https://en.irna.ir/news/86237930/Baqaei-dismisses-fabricated-reports-of-backchannel-talks-between",
-   "published": "2026-08-17T10:49:01+00:00",
-   "summary": "Tehran, IRNA — Foreign Ministry spokesperson Esmaeil Baqaei has dismissed media reports of backchannel talks between the United States and Iran’s Islamic Revolution Guards Corps (IRGC) leadership, describing the reports as fabricated and part of psychological warfare aimed at creating division among the Islamic Republic’s decision-making bodies.",
-   "tags": [
-    "diplomacy"
    ],
    "highlight": false
   }
