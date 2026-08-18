@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-18T16:39:52.753111+00:00",
+ "asOf": "2026-08-18T16:57:12.329417+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Iran prepares to keep economy alive as US threatens further sanctions",
+   "url": "https://www.aljazeera.com/news/2026/8/18/iran-prepares-to-keep-economy-alive-as-us-threatens-further-sanctions?traffic_source=rss",
+   "published": "2026-08-18T16:21:49+00:00",
+   "summary": "Iran’s authorities say they could shift to offensive operations as Washington considers further sanctions.",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Persian Gulf post-Hormuz: Is regional security order changing?",
@@ -594,17 +605,6 @@
    "url": "https://en.irna.ir/news/86238349/Exclusive-Foreign-Ministry-Spokesperson-calls-drone-attack",
    "published": "2026-08-17T18:24:58+00:00",
    "summary": "Tehran, IRNA — The Foreign Ministry spokesperson has labeled the recent drone attack on the office of Masrour Barzani, Prime Minister of the Iraqi Kurdistan Region, a “highly suspicious development,” urging regional vigilance to thwart attempts to destabilize ties between Iran and Iraq.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Explosion reported at school in Afghan capital Kabul",
-   "url": "https://www.aljazeera.com/news/2026/8/17/explosion-reported-at-school-in-afghan-capital-kabul?traffic_source=rss",
-   "published": "2026-08-17T17:30:11+00:00",
-   "summary": "The cause of the blast and the number of casualties have not been confirmed, with the Taliban government yet to comment.",
    "tags": [
     "strikes"
    ],
