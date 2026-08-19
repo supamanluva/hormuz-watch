@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-19T05:56:27.420855+00:00",
+ "asOf": "2026-08-19T06:16:54.382545+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran rejects UAE claim of missile launch",
+   "url": "https://en.irna.ir/news/86239506/Iran-rejects-UAE-claim-of-missile-launch",
+   "published": "2026-08-19T05:58:16+00:00",
+   "summary": "Tehran, IRNA – Iranian Foreign Ministry spokesperson Esmaeil Baqaei has categorically dismissed the United Arab Emirates’ claim that Iran launched a missile toward its territory.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Attackers go ‘house to house’ killing 25 villagers in central Nigeria",
@@ -595,17 +606,6 @@
    "url": "https://www.aljazeera.com/news/2026/8/18/qatar-rejects-irans-false-claims-about-missing-pilots?traffic_source=rss",
    "published": "2026-08-18T12:39:43+00:00",
    "summary": "Majed al-Ansari says the Iranian planes &#039;violated Qatar’s sovereignty&#039; and were dealt with in accordance with the law.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran envoy in Mexico hails Fidel Castro as symbol of national independence",
-   "url": "https://en.irna.ir/news/86239047/Iran-envoy-in-Mexico-hails-Fidel-Castro-as-symbol-of-national",
-   "published": "2026-08-18T11:38:22+00:00",
-   "summary": "Tehran, IRNA – The Iranian ambassador to Mexico has described Fidel Castro as a symbol of a nation’s determination to freely and independently shape its own destiny.",
    "tags": [
     "diplomacy"
    ],
