@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-19T04:20:32.879232+00:00",
+ "asOf": "2026-08-19T04:41:00.227695+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Attackers go ‘house to house’ killing 25 villagers in central Nigeria",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/attackers-go-house-to-house-killing-25-villagers-in-central-nigeria?traffic_source=rss",
+   "published": "2026-08-19T04:25:26+00:00",
+   "summary": "An attack on a village in Nigeria’s central Plateau state has killed at least 25 people.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "UAE imposes indefinite trade embargo on Iran over alleged missile attacks",
@@ -599,15 +610,6 @@
     "diplomacy",
     "shipping"
    ],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Security Council, 10209th Meeting (AM) Libya",
-   "url": "https://press.un.org/en/blog/sc16434",
-   "published": "2026-08-18T11:05:31+00:00",
-   "summary": "At 10 a.m., the Security Council will hear a briefing on Libya. Special Representative and Head of the UN Support Mission in Libya (UNSMIL) Hanna Serwaa Tetteh is expected to brief on recent political, security and humanitarian developments in the country and the Secretary-General’s latest report on UNSMIL.",
-   "tags": [],
    "highlight": false
   }
  ]
