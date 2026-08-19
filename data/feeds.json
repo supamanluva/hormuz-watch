@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-19T10:38:48.565125+00:00",
+ "asOf": "2026-08-19T10:55:54.405507+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Why White House envoys cannot sway Israel’s war leader",
+   "url": "https://www.aljazeera.com/opinions/2026/8/19/why-white-house-envoys-cannot-sway-israels-war-leader?traffic_source=rss",
+   "published": "2026-08-19T10:24:26+00:00",
+   "summary": "Any deal in any of Israel’s conflicts would be politically damaging for its prime minister.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "At least five killed in Russian air attacks on Ukraine",
@@ -598,17 +609,6 @@
    "summary": "Tehran, IRNA – Following significant developments in the Persian Gulf, specifically the Strait of Hormuz, many international experts and analysts have raised the question of whether the security order of this strategic waterway may no longer be as effective as it once was.",
    "tags": [
     "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Why is Russia threatening UK with ‘consequences’ over Ukraine drones?",
-   "url": "https://www.aljazeera.com/news/2026/8/18/why-is-russia-threatening-uk-with-consequences-over-ukraine-drones?traffic_source=rss",
-   "published": "2026-08-18T14:49:56+00:00",
-   "summary": "Russia is suffering attacks inside its own territory as long-range drones strike its strategic assets.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   }
