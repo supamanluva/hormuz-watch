@@ -1,6 +1,18 @@
 {
- "asOf": "2026-08-19T20:13:43.497662+00:00",
+ "asOf": "2026-08-19T20:38:33.520475+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "What’s behind Israel’s latest attack on Syria?",
+   "url": "https://www.aljazeera.com/video/inside-story/2026/8/19/whats-behind-israels-latest-attack-on-syria?traffic_source=rss",
+   "published": "2026-08-19T20:18:40+00:00",
+   "summary": "US envoy warns Israel&#039;s strike could have sparked direct confrontation with Turkish forces.",
+   "tags": [
+    "strikes",
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Iranian envoy: US and Israeli military aggression exposed politicized approach of UN Security Council",
@@ -602,18 +614,6 @@
    "published": "2026-08-18T20:52:33+00:00",
    "summary": "In Colombia, the UN and its partners have provided assistance to 3,000 people across the departments of Chocó, Valle del Cauca and Risaralda, complementing the Government-led response following the earthquake that struck the country just over a week ago, impacting over 186,000 people and leading to 300 deaths.",
    "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Russia reports Ukrainian drone strike near Zaporizhzhia nuclear plant",
-   "url": "https://www.aljazeera.com/news/2026/8/18/russia-reports-ukrainian-drone-strike-near-zaporizhzhia-nuclear-plant?traffic_source=rss",
-   "published": "2026-08-18T20:45:42+00:00",
-   "summary": "Concern over the security of Europe&#039;s largest nuclear plant has been rife since Russia launched its full-scale war.",
-   "tags": [
-    "strikes",
-    "nuclear"
-   ],
    "highlight": false
   }
  ]
