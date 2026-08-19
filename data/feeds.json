@@ -1,5 +1,5 @@
 {
- "asOf": "2026-08-19T14:59:02.015076+00:00",
+ "asOf": "2026-08-19T15:15:40.469642+00:00",
  "items": [
   {
    "source": "Al Jazeera",
@@ -97,6 +97,15 @@
     "strikes",
     "diplomacy"
    ],
+   "highlight": false
+  },
+  {
+   "source": "UN Press",
+   "title": "Security Council, 10210th Meeting (AM & PM) Working Methods",
+   "url": "https://press.un.org/en/blog/sc16436-0",
+   "published": "2026-08-19T10:48:10+00:00",
+   "summary": "At 10 a.m., the Security Council will hold an open debate on its working methods. The most recent version of the comprehensive compendium of its working methods, S/2024/507, will guide the debate. Shamala Kandiah Thompson, the Executive Director of Security Council Report, is expected to brief.",
+   "tags": [],
    "highlight": false
   },
   {
@@ -601,17 +610,6 @@
    "published": "2026-08-18T18:38:45+00:00",
    "summary": "President Donald J. Trump and his Administration have delivered the most dramatic decline in violent crime in American history. According to the FBI’s newly released Uniform Crime Report for 2025, America is safer than it has been in generations. The Largest Annual Drop in Violent Crime Ever Recorded: These numbers — in line with the [&#8230;] The post President Trump Delivers the Largest Drop in ",
    "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Israeli strike on Gaza City cafe kills six, including child",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/israeli-strike-on-gaza-city-cafe-kills-six-including-child?traffic_source=rss",
-   "published": "2026-08-18T18:32:24+00:00",
-   "summary": "An Israeli strike hit a cafe in the port area west of Gaza City, killing six Palestinians, including a child.",
-   "tags": [
-    "strikes"
-   ],
    "highlight": false
   }
  ]
