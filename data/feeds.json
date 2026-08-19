@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-19T06:16:54.382545+00:00",
+ "asOf": "2026-08-19T06:42:00.556144+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Ghalibaf arrives in Baghdad to advance bilateral cooperation",
+   "url": "https://en.irna.ir/news/86239615/Ghalibaf-arrives-in-Baghdad-to-advance-bilateral-cooperation",
+   "published": "2026-08-19T06:33:30+00:00",
+   "summary": "Tehran, IRNA – Iranian Parliament Speaker Mohammad Bagher Ghalibaf has arrived in Baghdad at the head of a high-ranking parliamentary delegation for talks with senior Iraqi officials on strengthening bilateral relations, border security, counterterrorism and economic cooperation.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Iran rejects UAE claim of missile launch",
@@ -597,17 +608,6 @@
    "summary": "Tehran, IRNA – Iran’s Deputy Foreign Minister for Legal and International Affairs Kazem Gharibabadi has rejected a claim by US President Donald Trump that the Strait of Hormuz is part of US territory, saying Tehran will correct Trump’s “delusions.”",
    "tags": [
     "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Qatar rejects Iran’s ‘false’ claims about missing pilots",
-   "url": "https://www.aljazeera.com/news/2026/8/18/qatar-rejects-irans-false-claims-about-missing-pilots?traffic_source=rss",
-   "published": "2026-08-18T12:39:43+00:00",
-   "summary": "Majed al-Ansari says the Iranian planes &#039;violated Qatar’s sovereignty&#039; and were dealt with in accordance with the law.",
-   "tags": [
-    "diplomacy"
    ],
    "highlight": false
   }
