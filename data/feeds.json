@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-19T09:40:14.134409+00:00",
+ "asOf": "2026-08-19T10:38:48.565125+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "At least five killed in Russian air attacks on Ukraine",
+   "url": "https://www.aljazeera.com/news/2026/8/19/at-least-five-killed-in-russian-air-attacks-on-ukraine?traffic_source=rss",
+   "published": "2026-08-19T09:34:38+00:00",
+   "summary": "Russia&#039;s Defence Ministry says 453 Ukrainian drones were downed overnight in various regions.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Aid workers faced record number of attacks in 2025, UN says",
@@ -596,17 +607,6 @@
    "url": "https://www.aljazeera.com/news/2026/8/18/why-is-russia-threatening-uk-with-consequences-over-ukraine-drones?traffic_source=rss",
    "published": "2026-08-18T14:49:56+00:00",
    "summary": "Russia is suffering attacks inside its own territory as long-range drones strike its strategic assets.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Yemeni government escalates attacks against Houthis: What’s next?",
-   "url": "https://www.aljazeera.com/news/2026/8/18/yemeni-government-escalates-attacks-against-houthis-whats-next?traffic_source=rss",
-   "published": "2026-08-18T13:51:33+00:00",
-   "summary": "Fighting intensifies across Yemen as Houthis clash with internationally recognised government forces across many fronts.",
    "tags": [
     "strikes"
    ],
