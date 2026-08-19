@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-19T08:59:38.624666+00:00",
+ "asOf": "2026-08-19T09:17:11.128991+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Aid workers faced record number of attacks in 2025, UN says",
+   "url": "https://www.aljazeera.com/news/2026/8/19/aid-workers-faced-record-number-of-attacks-in-2025-un-says?traffic_source=rss",
+   "published": "2026-08-19T08:40:54+00:00",
+   "summary": "Gaza remains the deadliest place for humanitarian workers for third consecutive year, with 186 killed in 2025.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Ghalibaf arrives in Baghdad to advance bilateral cooperation",
@@ -598,17 +609,6 @@
    "summary": "Fighting intensifies across Yemen as Houthis clash with internationally recognised government forces across many fronts.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Gharibabadi rebukes trump over strait of Hormuz claim",
-   "url": "https://en.irna.ir/news/86239150/Gharibabadi-rebukes-trump-over-strait-of-Hormuz-claim",
-   "published": "2026-08-18T13:13:19+00:00",
-   "summary": "Tehran, IRNA – Iran’s Deputy Foreign Minister for Legal and International Affairs Kazem Gharibabadi has rejected a claim by US President Donald Trump that the Strait of Hormuz is part of US territory, saying Tehran will correct Trump’s “delusions.”",
-   "tags": [
-    "shipping"
    ],
    "highlight": false
   }
