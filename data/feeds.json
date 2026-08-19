@@ -1,6 +1,18 @@
 {
- "asOf": "2026-08-19T10:55:54.405507+00:00",
+ "asOf": "2026-08-19T11:13:55.041621+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Ukraine must compensate for attack on Iranian ship: Envoy",
+   "url": "https://en.irna.ir/news/86239994/Ukraine-must-compensate-for-attack-on-Iranian-ship-Envoy",
+   "published": "2026-08-19T10:57:15+00:00",
+   "summary": "Moscow, IRNA — Iran’s ambassador to Russia has called on Ukraine to compensate for all damages caused by its drone attack on the Iranian merchant ship Anna in the Caspian Sea, which killed one crew member and injured several others.",
+   "tags": [
+    "strikes",
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Why White House envoys cannot sway Israel’s war leader",
@@ -598,17 +610,6 @@
    "summary": "Iran’s authorities say they could shift to offensive operations as Washington considers further sanctions.",
    "tags": [
     "sanctions"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Persian Gulf post-Hormuz: Is regional security order changing?",
-   "url": "https://en.irna.ir/news/86239224/Persian-Gulf-post-Hormuz-Is-regional-security-order-changing",
-   "published": "2026-08-18T15:02:06+00:00",
-   "summary": "Tehran, IRNA – Following significant developments in the Persian Gulf, specifically the Strait of Hormuz, many international experts and analysts have raised the question of whether the security order of this strategic waterway may no longer be as effective as it once was.",
-   "tags": [
-    "shipping"
    ],
    "highlight": false
   }
