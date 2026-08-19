@@ -1,6 +1,28 @@
 {
- "asOf": "2026-08-19T17:36:54.213471+00:00",
+ "asOf": "2026-08-19T17:53:46.493635+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "North Korea leader’s sister denies talks with ‘hostile’ US",
+   "url": "https://www.aljazeera.com/news/2026/8/19/north-korea-leaders-sister-denies-talks-with-hostile-us?traffic_source=rss",
+   "published": "2026-08-19T17:32:36+00:00",
+   "summary": "US President Donald Trump claimed North Korean leader Kim Jong Un had responded positively to his proposal for talks.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Hamas condemns ‘new war crime’ as Israel kills 10 in crowded Gaza hubs",
+   "url": "https://www.aljazeera.com/news/2026/8/19/hamas-condemns-new-war-crime-as-israel-kills-10-in-crowded-gaza-hubs?traffic_source=rss",
+   "published": "2026-08-19T17:14:21+00:00",
+   "summary": "Israeli air strikes on Gaza kill 10 Palestinians, targeting police headquarters and a refugee camp in separate attacks.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "UN Press",
    "title": "Protect, Support, Never Forget Humanitarians Everywhere, Secretary-General Says at Commemoration Marking 2003 Bombing of UN Baghdad Headquarters",
@@ -591,28 +613,6 @@
    "summary": "A Russian missile strike on Pechenihy, in Ukraine’s Kharkiv region, killed at least 10 civilians and wounded 17 others.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Nuclear Tests Do Not Prove Strengthen, They Shatter Trust, Secretary-General Stresses in Observance Message, Urging Restraint over Ruin",
-   "url": "https://press.un.org/en/2026/sgsm23241.doc.htm",
-   "published": "2026-08-18T20:17:20+00:00",
-   "summary": "Following is UN Secretary-General António Guterres’ message for the International Day against Nuclear Tests, observed on 29 August:",
-   "tags": [
-    "nuclear"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "US sanctions International Criminal Court president and trial lawyer",
-   "url": "https://www.aljazeera.com/news/2026/8/18/us-sanctions-international-criminal-court-president-and-trial-lawyer?traffic_source=rss",
-   "published": "2026-08-18T20:09:07+00:00",
-   "summary": "The Trump administration has led a campaign to &#039;dismantle&#039; the court, calling it a threat to national sovereignty.",
-   "tags": [
-    "sanctions"
    ],
    "highlight": false
   }
