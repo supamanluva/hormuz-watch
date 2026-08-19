@@ -1,6 +1,28 @@
 {
- "asOf": "2026-08-19T21:13:58.707935+00:00",
+ "asOf": "2026-08-19T21:36:28.604622+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Israeli strike on Gaza City police headquarters kills women’s police chief",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/israeli-strike-on-gaza-city-police-headquarters-kills-womens-police-chief?traffic_source=rss",
+   "published": "2026-08-19T21:22:17+00:00",
+   "summary": "An Israeli strike on Gaza City’s police headquarters has killed the women’s police chief and several officers.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Displaced Lebanese watch southern Lebanon’s ‘pilot zones’ from afar",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/displaced-lebanese-watch-southern-lebanons-pilot-zones-from-afar-2?traffic_source=rss",
+   "published": "2026-08-19T21:10:39+00:00",
+   "summary": "“You can&#039;t do anything. Just stand here and watch.” Al Jazeera’s Ali Hashem watched Israeli attacks near his home town.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "What’s behind Israel’s latest attack on Syria?",
@@ -593,27 +615,6 @@
     "diplomacy",
     "shipping"
    ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Israeli strike reported to kill at least six in Gaza City",
-   "url": "https://www.aljazeera.com/news/2026/8/18/israeli-strike-reported-to-kill-at-least-six-in-gaza-city?traffic_source=rss",
-   "published": "2026-08-18T21:03:04+00:00",
-   "summary": "The strike comes as efforts to push an agreement aimed at ending hostilities remain stalled.",
-   "tags": [
-    "strikes",
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General",
-   "url": "https://press.un.org/en/2026/db160818.doc.htm",
-   "published": "2026-08-18T20:52:33+00:00",
-   "summary": "In Colombia, the UN and its partners have provided assistance to 3,000 people across the departments of Chocó, Valle del Cauca and Risaralda, complementing the Government-led response following the earthquake that struck the country just over a week ago, impacting over 186,000 people and leading to 300 deaths.",
-   "tags": [],
    "highlight": false
   }
  ]
