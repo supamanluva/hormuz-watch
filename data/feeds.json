@@ -1,12 +1,44 @@
 {
- "asOf": "2026-08-19T03:07:17.898543+00:00",
+ "asOf": "2026-08-19T04:02:15.355159+00:00",
  "items": [
   {
    "source": "Al Jazeera",
-   "title": "US, Canada reach trade deal to avert steep tariffs, Trump says",
+   "title": "UAE imposes indefinite trade embargo on Iran over alleged missile attacks",
+   "url": "https://www.aljazeera.com/news/2026/8/19/uae-imposes-indefinite-trade-embargo-on-iran-over-alleged-missile-attacks?traffic_source=rss",
+   "published": "2026-08-19T03:34:40+00:00",
+   "summary": "Iran denies launching missiles at the UAE, suggesting the incident was a &#039;false flag operation&#039;.",
+   "tags": [
+    "strikes",
+    "sanctions"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "US sanctions International Criminal Court’s president and top lawyer",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/us-sanctions-international-criminal-courts-president-and-top-lawyer?traffic_source=rss",
+   "published": "2026-08-19T03:25:33+00:00",
+   "summary": "The US has sanctioned International Criminal Court president Tomoko Akane and trial lawyer Abdoulaye Seye.",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "[No Title] - Post from August 19, 2026",
+   "url": "https://trumpstruth.org/statuses/41008",
+   "published": "2026-08-19T03:17:27+00:00",
+   "summary": "",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "US, Canada reach deal to pause steep tariffs",
    "url": "https://www.aljazeera.com/economy/2026/8/19/us-canada-reach-trade-deal-to-avert-steep-tariffs-trump-says?traffic_source=rss",
    "published": "2026-08-19T02:35:15+00:00",
-   "summary": "Trump announces pause on 50 percent duty on Canadian exports shortly before midnight deadline.",
+   "summary": "Washington and Ottawa reach agreement to avert 50 percent duty on Canadian exports shortly before midnight deadline.",
    "tags": [
     "diplomacy"
    ],
@@ -258,15 +290,6 @@
    "title": "[No Title] - Post from August 18, 2026",
    "url": "https://trumpstruth.org/statuses/40984",
    "published": "2026-08-18T23:08:32+00:00",
-   "summary": "",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from August 18, 2026",
-   "url": "https://trumpstruth.org/statuses/40985",
-   "published": "2026-08-18T23:08:22+00:00",
    "summary": "",
    "tags": [],
    "highlight": true
@@ -585,30 +608,6 @@
    "published": "2026-08-18T11:05:31+00:00",
    "summary": "At 10 a.m., the Security Council will hear a briefing on Libya. Special Representative and Head of the UN Support Mission in Libya (UNSMIL) Hanna Serwaa Tetteh is expected to brief on recent political, security and humanitarian developments in the country and the Secretary-General’s latest report on UNSMIL.",
    "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Putin’s ‘illusion of victory:’ Russia ramps up missile attacks on Ukraine",
-   "url": "https://www.aljazeera.com/news/2026/8/18/putins-illusion-of-victory-russia-ramps-up-missile-attacks-on-ukraine?traffic_source=rss",
-   "published": "2026-08-18T10:45:37+00:00",
-   "summary": "Deaths mount as Russia ramps up missile attacks on Ukraine, while Washington&#039;s promises of support remain elusive.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Hormuz Strait will not reopen until US blockade, oil sanctions on Iran stop: Ghalibaf",
-   "url": "https://en.irna.ir/news/86238955/Hormuz-Strait-will-not-reopen-until-US-blockade-oil-sanctions",
-   "published": "2026-08-18T10:39:23+00:00",
-   "summary": "Tehran, IRNA – Parliament Speaker Mohammad-Bagher Ghalibaf has reiterated Iran’s conditions for the reopening of the Strait of Hormuz, saying the strategic waterway will not reopen until the United States lifts its blockade, ends sanctions, and releases frozen assets of the Islamic Republic.",
-   "tags": [
-    "sanctions",
-    "shipping",
-    "oil"
-   ],
    "highlight": false
   }
  ]
