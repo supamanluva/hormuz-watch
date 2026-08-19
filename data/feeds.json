@@ -1,5 +1,5 @@
 {
- "asOf": "2026-08-19T06:42:00.556144+00:00",
+ "asOf": "2026-08-19T07:24:08.991882+00:00",
  "items": [
   {
    "source": "IRNA (Iran state wire)",
@@ -7,6 +7,17 @@
    "url": "https://en.irna.ir/news/86239615/Ghalibaf-arrives-in-Baghdad-to-advance-bilateral-cooperation",
    "published": "2026-08-19T06:33:30+00:00",
    "summary": "Tehran, IRNA – Iranian Parliament Speaker Mohammad Bagher Ghalibaf has arrived in Baghdad at the head of a high-ranking parliamentary delegation for talks with senior Iraqi officials on strengthening bilateral relations, border security, counterterrorism and economic cooperation.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Scaling back US-South Korea drills may fail to woo Kim away from China",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/scaling-back-us-south-korea-drills-may-fail-to-woo-kim-away-from-china?traffic_source=rss",
+   "published": "2026-08-19T06:16:53+00:00",
+   "summary": "Trump is scaling back US-South Korea military exercises as he signals interest in renewed talks with Kim Jong Un.",
    "tags": [
     "diplomacy"
    ],
@@ -68,7 +79,7 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "Trump pauses 50-percent tariff on Canada in last-minute deal",
+   "title": "Trump pauses 50 percent tariffs on Canada in last-minute deal",
    "url": "https://www.aljazeera.com/economy/2026/8/19/us-canada-reach-trade-deal-to-avert-steep-tariffs-trump-says?traffic_source=rss",
    "published": "2026-08-19T02:35:15+00:00",
    "summary": "Washington and Ottawa announce agreement to delay new tariffs on Canadian exports shortly before midnight deadline.",
@@ -192,12 +203,13 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "Iran war live: Trump denies Iran talks, Tehran claims US ‘begging’",
+   "title": "Iran war live: Rubio discusses Hormuz security with UAE official",
    "url": "https://www.aljazeera.com/news/liveblog/2026/8/19/iran-war-live-trump-denies-iran-talks-tehran-claims-us-begging?traffic_source=rss",
    "published": "2026-08-19T00:00:00+00:00",
    "summary": "Trump says no talks with Tehran scheduled; Iranian Foreign Minister Abbas Araghchi claims US &#039;begging&#039; for negotiations.",
    "tags": [
-    "diplomacy"
+    "diplomacy",
+    "shipping"
    ],
    "highlight": false
   },
@@ -593,17 +605,6 @@
    "source": "IRNA (Iran state wire)",
    "title": "Gharibabadi rebukes trump over strait of Hormuz claim",
    "url": "https://en.irna.ir/news/86239150/Gharibabadi-rebukes-trump-over-strait-of-Hormuz-claim",
-   "published": "2026-08-18T13:13:19+00:00",
-   "summary": "Tehran, IRNA – Iran’s Deputy Foreign Minister for Legal and International Affairs Kazem Gharibabadi has rejected a claim by US President Donald Trump that the Strait of Hormuz is part of US territory, saying Tehran will correct Trump’s “delusions.”",
-   "tags": [
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Gharibabadi rebukes Trump over Strait of Hormuz claim",
-   "url": "https://en.irna.ir/news/86239150/Gharibabadi-rebukes-Trump-over-Strait-of-Hormuz-claim",
    "published": "2026-08-18T13:13:19+00:00",
    "summary": "Tehran, IRNA – Iran’s Deputy Foreign Minister for Legal and International Affairs Kazem Gharibabadi has rejected a claim by US President Donald Trump that the Strait of Hormuz is part of US territory, saying Tehran will correct Trump’s “delusions.”",
    "tags": [
