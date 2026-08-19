@@ -1,5 +1,5 @@
 {
- "asOf": "2026-08-19T04:58:53.103642+00:00",
+ "asOf": "2026-08-19T05:15:57.711383+00:00",
  "items": [
   {
    "source": "Al Jazeera",
@@ -579,6 +579,17 @@
    "highlight": false
   },
   {
+   "source": "IRNA (Iran state wire)",
+   "title": "Gharibabadi rebukes Trump over Strait of Hormuz claim",
+   "url": "https://en.irna.ir/news/86239150/Gharibabadi-rebukes-Trump-over-Strait-of-Hormuz-claim",
+   "published": "2026-08-18T13:13:19+00:00",
+   "summary": "Tehran, IRNA – Iran’s Deputy Foreign Minister for Legal and International Affairs Kazem Gharibabadi has rejected a claim by US President Donald Trump that the Strait of Hormuz is part of US territory, saying Tehran will correct Trump’s “delusions.”",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
    "source": "Al Jazeera",
    "title": "Qatar rejects Iran’s ‘false’ claims about missing pilots",
    "url": "https://www.aljazeera.com/news/2026/8/18/qatar-rejects-irans-false-claims-about-missing-pilots?traffic_source=rss",
@@ -597,18 +608,6 @@
    "summary": "Tehran, IRNA – The Iranian ambassador to Mexico has described Fidel Castro as a symbol of a nation’s determination to freely and independently shape its own destiny.",
    "tags": [
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Why has Trump threatened to bomb Oman – for a second time?",
-   "url": "https://www.aljazeera.com/news/2026/8/18/why-has-trump-threatened-to-bomb-oman-for-a-second-time?traffic_source=rss",
-   "published": "2026-08-18T11:33:15+00:00",
-   "summary": "The US president threatened to bomb Oman over Hormuz, with US-Iran peace negotiations in a deadlock.",
-   "tags": [
-    "diplomacy",
-    "shipping"
    ],
    "highlight": false
   }
