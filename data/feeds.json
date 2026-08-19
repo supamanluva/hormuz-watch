@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-19T18:14:06.992999+00:00",
+ "asOf": "2026-08-19T18:40:51.050140+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "NATO ‘prepared’ to defend allies amid report of Iranian strike plans",
+   "url": "https://www.aljazeera.com/news/2026/8/19/nato-prepared-to-defend-allies-amid-report-of-iranian-strike-plans?traffic_source=rss",
+   "published": "2026-08-19T17:50:50+00:00",
+   "summary": "NATO says it will &#039;do what is necessary&#039; amid media report Iran considered strikes against US targets in Europe.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "North Korea leader’s sister denies talks with ‘hostile’ US",
@@ -602,17 +613,6 @@
    "summary": "While Libya has made strides in advancing its ambitious political road map — aimed at unifying the country’s divided institutions and paving the way for elections — widespread electricity shortages, economic turmoil and security flareups are driving public frustration at the slow pace of progress, the senior United Nations official in Tripoli warned the Security Council today.",
    "tags": [
     "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Russian missile strike kills 10 civilians in Kharkiv",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/russian-missile-strike-kills-10-civilians-in-kharkiv?traffic_source=rss",
-   "published": "2026-08-18T20:26:01+00:00",
-   "summary": "A Russian missile strike on Pechenihy, in Ukraine’s Kharkiv region, killed at least 10 civilians and wounded 17 others.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   }
