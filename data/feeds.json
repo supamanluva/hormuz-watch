@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-19T18:59:05.863793+00:00",
+ "asOf": "2026-08-19T19:35:51.641437+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iranian envoy: US and Israeli military aggression exposed politicized approach of UN Security Council",
+   "url": "https://en.irna.ir/news/86240355/Iranian-envoy-US-and-Israeli-military-aggression-exposed-politicized",
+   "published": "2026-08-19T19:15:32+00:00",
+   "summary": "New York, IRNA – Ambassador and Deputy Permanent Representative of the Islamic Republic of Iran to the United Nations, Gholamhossein Darzi said that the military aggression by the United States and the Israeli regime against Iran’s sovereignty and territorial integrity has once again exposed the politicization, double standards, and selective application of Security Council rules and procedures.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "NATO ‘prepared’ to defend allies amid report of Iranian strike plans",
@@ -602,17 +613,6 @@
    "tags": [
     "strikes",
     "nuclear"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Libya Must Seize Moment to Advance Political Progress, End ‘Drawn-out’ Transition, Security Council Hears, as Public Anger Mounts over Power Outages, Rising Costs",
-   "url": "https://press.un.org/en/2026/sc16434.doc.htm",
-   "published": "2026-08-18T20:29:39+00:00",
-   "summary": "While Libya has made strides in advancing its ambitious political road map — aimed at unifying the country’s divided institutions and paving the way for elections — widespread electricity shortages, economic turmoil and security flareups are driving public frustration at the slow pace of progress, the senior United Nations official in Tripoli warned the Security Council today.",
-   "tags": [
-    "oil"
    ],
    "highlight": false
   }
