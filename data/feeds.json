@@ -1,6 +1,41 @@
 {
- "asOf": "2026-08-19T12:42:10.360903+00:00",
+ "asOf": "2026-08-19T13:28:07.523343+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "War on Iran: Iran allegedly targets the UAE",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/war-on-iran-iran-allegedly-targets-the-uae?traffic_source=rss",
+   "published": "2026-08-19T13:01:05+00:00",
+   "summary": "After reports that Iran targeted the UAE with two ballistic missiles, the Emirates has suspended trade with Tehran.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "ICC condemns US sanctions as ‘flagrant attack’ on court’s independence",
+   "url": "https://www.aljazeera.com/news/2026/8/19/icc-condemns-us-sanctions-as-flagrant-attack-on-courts-independence?traffic_source=rss",
+   "published": "2026-08-19T12:59:57+00:00",
+   "summary": "The ICC has expressed concern over the Trump administration&#039;s campaign.",
+   "tags": [
+    "strikes",
+    "sanctions"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "UAE trade embargo could shut Iran’s key economic escape route: Here’s why",
+   "url": "https://www.aljazeera.com/news/2026/8/19/uae-trade-embargo-could-shut-irans-key-economic-escape-route-heres-why?traffic_source=rss",
+   "published": "2026-08-19T12:37:40+00:00",
+   "summary": "The UAE announced the embargo, accusing Iran of launching missiles into its territory.",
+   "tags": [
+    "strikes",
+    "sanctions"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Ukraine must compensate for attack on Iranian ship: Envoy",
@@ -577,39 +612,6 @@
    "summary": "Rodri won the player of the World Cup award while helping Spain beat Argentina, and now completes his Barcelona move.",
    "tags": [
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Analysis: Syrian airbase attack is an Israeli message to Damascus, Ankara",
-   "url": "https://www.aljazeera.com/features/2026/8/18/analysis-syrian-airbase-attack-is-an-israeli-message-to-damascus-ankara?traffic_source=rss",
-   "published": "2026-08-18T17:51:46+00:00",
-   "summary": "Analysts say the attack on Abu al-Duhur was likely an Israeli message warning to not rebuild Syria&#039;s air force.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Arab, Islamic nations slam fresh Israeli aggression against Syria",
-   "url": "https://en.irna.ir/news/86239333/Arab-Islamic-nations-slam-fresh-Israeli-aggression-against-Syria",
-   "published": "2026-08-18T17:37:13+00:00",
-   "summary": "Tehran, IRNA – Arab and Islamic countries strongly condemned the Zionist regime’s attack on Syria’s Abu al-Duhur military airbase, calling on the international community to take action to prevent repeated aggression by the regime.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iran prepares to keep economy alive as US threatens further sanctions",
-   "url": "https://www.aljazeera.com/news/2026/8/18/iran-prepares-to-keep-economy-alive-as-us-threatens-further-sanctions?traffic_source=rss",
-   "published": "2026-08-18T16:21:49+00:00",
-   "summary": "Iran’s authorities say they could shift to offensive operations as Washington considers further sanctions.",
-   "tags": [
-    "sanctions"
    ],
    "highlight": false
   }
