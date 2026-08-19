@@ -1,5 +1,5 @@
 {
- "asOf": "2026-08-19T17:14:11.801129+00:00",
+ "asOf": "2026-08-19T17:36:54.213471+00:00",
  "items": [
   {
    "source": "UN Press",
@@ -9,6 +9,17 @@
    "summary": "Following are UN Secretary-General António Guterres’ remarks at the remembrance commemoration marking the twenty-third anniversary of the bombing of the UN Baghdad headquarters, in New York today:",
    "tags": [
     "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "US and Canada reach ‘very fair’ trade agreement, Trump says",
+   "url": "https://www.aljazeera.com/economy/2026/8/19/us-and-canada-reach-very-fair-trade-agreement-trump-says?traffic_source=rss",
+   "published": "2026-08-19T16:55:57+00:00",
+   "summary": "New trade deal ensures no tariffs for US farmers and businesses exporting to Canada, Trump announces",
+   "tags": [
+    "diplomacy"
    ],
    "highlight": false
   },
@@ -602,17 +613,6 @@
    "summary": "The Trump administration has led a campaign to &#039;dismantle&#039; the court, calling it a threat to national sovereignty.",
    "tags": [
     "sanctions"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Top security official: US failure at Hormuz signals ‘post-American order’ in Persian Gulf",
-   "url": "https://en.irna.ir/news/86239375/Top-security-official-US-failure-at-Hormuz-signals-post-American",
-   "published": "2026-08-18T18:56:01+00:00",
-   "summary": "Tehran, IRNA – The secretary of Iran’s Supreme National Security Council (SNSC) says Washington’s inability to reopen the Strait of Hormuz has exposed the gap between US claims and its capabilities, marking the start of a “post-American order” in the Persian Gulf.",
-   "tags": [
-    "shipping"
    ],
    "highlight": false
   }
