@@ -1,5 +1,5 @@
 {
- "asOf": "2026-08-20T17:15:10.004969+00:00",
+ "asOf": "2026-08-20T17:38:31.901685+00:00",
  "items": [
   {
    "source": "Trump · Truth Social",
@@ -9,6 +9,17 @@
    "summary": "I am pleased to nominate Jesus Osete to serve as Judge on the U.S. District Court for the Western District of Missouri. Jesus is the Principal Deputy Assistant Attorney General for the Department of Justice’s Civil Rights Division, where he has done tremendous work for our Administration. Previously, Jesus served as General Counsel to the Missouri Secretary of State, and both Deputy Attorney Gener",
    "tags": [],
    "highlight": true
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "North Korea fires ballistic missiles as US-South Korea drills near end",
+   "url": "https://www.aljazeera.com/news/2026/8/20/north-korea-launches-ballistic-missiles-as-us-south-korea-drills-end?traffic_source=rss",
+   "published": "2026-08-20T17:00:12+00:00",
+   "summary": "South Korea convened an emergency security meeting following the launches, as Trump seeks to sway Pyongyang.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
   },
   {
    "source": "IRNA (Iran state wire)",
@@ -563,18 +574,6 @@
    "summary": "After reports that Iran targeted the UAE with two ballistic missiles, the Emirates has suspended trade with Tehran.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "ICC condemns US sanctions as ‘flagrant attack’ on court’s independence",
-   "url": "https://www.aljazeera.com/news/2026/8/19/icc-condemns-us-sanctions-as-flagrant-attack-on-courts-independence?traffic_source=rss",
-   "published": "2026-08-19T12:59:57+00:00",
-   "summary": "The ICC has expressed concern over the Trump administration&#039;s campaign.",
-   "tags": [
-    "strikes",
-    "sanctions"
    ],
    "highlight": false
   },
