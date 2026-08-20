@@ -1,6 +1,28 @@
 {
- "asOf": "2026-08-20T15:40:10.770034+00:00",
+ "asOf": "2026-08-20T15:57:56.125777+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Deadly Russian missile barrage hits Kyiv in hours-long overnight attack",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/deadly-russian-missile-barrage-hits-kyiv-in-hours-long-overnight-attack?traffic_source=rss",
+   "published": "2026-08-20T15:41:56+00:00",
+   "summary": "Russia launched a hours-long overnight barrage of ballistic and cruise missiles and drones across Kyiv.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Gunmen seize tanker off Yemen amid resurgence of Somali piracy",
+   "url": "https://www.aljazeera.com/news/2026/8/20/gunmen-seize-tanker-off-yemen-amid-resurgence-of-somali-piracy?traffic_source=rss",
+   "published": "2026-08-20T15:36:59+00:00",
+   "summary": "UK maritime security monitor says Seamull tanker diverted towards Somalia, as wave of piracy sweeps the Gulf of Aden.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Iraq remains committed to security agreement with Iran: Security adviser",
@@ -556,28 +578,6 @@
    "published": "2026-08-19T10:48:10+00:00",
    "summary": "At 10 a.m., the Security Council will hold an open debate on its working methods. The most recent version of the comprehensive compendium of its working methods, S/2024/507, will guide the debate. Shamala Kandiah Thompson, the Executive Director of Security Council Report, is expected to brief.",
    "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Why White House envoys cannot sway Israel’s war leader",
-   "url": "https://www.aljazeera.com/opinions/2026/8/19/why-white-house-envoys-cannot-sway-israels-war-leader?traffic_source=rss",
-   "published": "2026-08-19T10:24:26+00:00",
-   "summary": "Any deal in any of Israel’s conflicts would be politically damaging for its prime minister.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "At least six killed in Russian air attacks on Ukraine",
-   "url": "https://www.aljazeera.com/news/2026/8/19/at-least-five-killed-in-russian-air-attacks-on-ukraine?traffic_source=rss",
-   "published": "2026-08-19T09:34:38+00:00",
-   "summary": "Russia&#039;s Defence Ministry says 453 Ukrainian drones were downed overnight in various regions.",
-   "tags": [
-    "strikes"
-   ],
    "highlight": false
   },
   {
