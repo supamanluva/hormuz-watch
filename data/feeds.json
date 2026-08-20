@@ -1,6 +1,24 @@
 {
- "asOf": "2026-08-20T22:38:18.494781+00:00",
+ "asOf": "2026-08-20T22:56:02.439714+00:00",
  "items": [
+  {
+   "source": "Trump · Truth Social",
+   "title": "[No Title] - Post from August 20, 2026",
+   "url": "https://trumpstruth.org/statuses/41037",
+   "published": "2026-08-20T22:52:35+00:00",
+   "summary": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117130257407138275",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "[No Title] - Post from August 20, 2026",
+   "url": "https://trumpstruth.org/statuses/41036",
+   "published": "2026-08-20T22:44:50+00:00",
+   "summary": "",
+   "tags": [],
+   "highlight": true
+  },
   {
    "source": "Trump · Truth Social",
    "title": "[No Title] - Post from August 20, 2026",
@@ -585,26 +603,6 @@
     "strikes",
     "diplomacy"
    ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iranian envoy: US and Israeli military aggression exposed politicized approach of UN Security Council",
-   "url": "https://en.irna.ir/news/86240355/Iranian-envoy-US-and-Israeli-military-aggression-exposed-politicized",
-   "published": "2026-08-19T19:15:32+00:00",
-   "summary": "New York, IRNA – Ambassador and Deputy Permanent Representative of the Islamic Republic of Iran to the United Nations, Gholamhossein Darzi said that the military aggression by the United States and the Israeli regime against Iran’s sovereignty and territorial integrity has once again exposed the politicization, double standards, and selective application of Security Council rules and procedures.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General",
-   "url": "https://press.un.org/en/2026/db260819.doc.htm",
-   "published": "2026-08-19T18:48:52+00:00",
-   "summary": "In Venezuela, the Office for the Coordination of Humanitarian Affairs (OCHA) is supporting 80 international and local organizations, as well as the authorities, in recovery efforts following recent earthquakes and floods. More than 300,000 people have received food, health services, clean water and hygiene support.",
-   "tags": [],
    "highlight": false
   }
  ]
