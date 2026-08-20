@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-20T08:41:07.686954+00:00",
+ "asOf": "2026-08-20T09:00:13.736352+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Max Verstappen signs new F1 contract with Red Bull until 2030",
+   "url": "https://www.aljazeera.com/sports/2026/8/20/verstappen-signs-new-red-bull-contract-until-2030?traffic_source=rss",
+   "published": "2026-08-20T08:27:55+00:00",
+   "summary": "Four-time F1 World Drivers&#039; Champion&#039;s new deal puts to rest rumours that he would exit the team at the end of 2028.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Video shows Russian missile strike on Ukrainian capital",
@@ -580,17 +591,6 @@
    "summary": "",
    "tags": [],
    "highlight": true
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Trump pauses 50 percent tariffs on Canada in last-minute deal",
-   "url": "https://www.aljazeera.com/economy/2026/8/19/us-canada-reach-trade-deal-to-avert-steep-tariffs-trump-says?traffic_source=rss",
-   "published": "2026-08-19T02:35:15+00:00",
-   "summary": "Washington and Ottawa announce agreement to delay new tariffs on Canadian exports shortly before midnight deadline.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
   },
   {
    "source": "White House",
