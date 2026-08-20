@@ -1,6 +1,18 @@
 {
- "asOf": "2026-08-19T23:53:12.616803+00:00",
+ "asOf": "2026-08-20T00:22:51.471012+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Iran war live: Trump announces ‘most crushing’ Iran sanctions",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/8/20/iran-war-live-trump-announces-most-crushing-iran-sanctions?traffic_source=rss",
+   "published": "2026-08-20T00:00:00+00:00",
+   "summary": "Trump says Washington may resume talks with Tehran &#039;at some point&#039;.",
+   "tags": [
+    "sanctions",
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "No one has given the Islamic Republic of Iran a greater opportunity to make a Deal than me. TRAGICALLY, for them, they have failed to take it. Therefore, today, I am announcing the MOST CRUSHING ECONOMIC OPERATION EVER TAKEN AGAINST ANY COUNTRY! This will be Economic Warfare and Isolation on an unprecedented scale. Their navy is gone, their air force is destroyed, their military factories are now rubble, their currency is worthless, and their country is hanging by a thread. Today, I am also announcing that ANY country that allows its financial institutions, businesses, airports, or government entities to provide any type of lifeline to Iran will itself face TREMENDOUS Economic Consequences. Oil smuggling, swap lines, cash transfers, exchange houses, ship registries, front companies — It all needs to stop NOW. You know who you are. This will be an ECONOMIC D-DAY, and we need all of our Allies to stand with the United States of America to isolate, and defeat, the Iran threat. These maniacs are on the ropes, and these HISTORIC MEASURES will cripple them and their ability to project terror worldwide. IRAN WILL NEVER HAVE A NUCLEAR WEAPON. THANK YOU FOR YOUR ATTENTION TO THIS MATTER. President DONALD J. TRUMP",
@@ -602,17 +614,6 @@
    "summary": "",
    "tags": [],
    "highlight": true
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Bolivia arrests political adviser to Latin American right-wingers",
-   "url": "https://www.aljazeera.com/news/2026/8/18/bolivia-arrests-political-adviser-to-latin-american-right-wingers?traffic_source=rss",
-   "published": "2026-08-18T21:50:43+00:00",
-   "summary": "Arrest comes after attack on activist Nadia Beller, who says she was targeted for her opposition to corruption.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
   }
  ]
 }
