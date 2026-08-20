@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-20T15:57:56.125777+00:00",
+ "asOf": "2026-08-20T16:16:06.221070+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "One geography, two states: Saudi Arabia’s security approach to Sudan",
+   "url": "https://www.aljazeera.com/opinions/2026/8/20/one-geography-two-states-saudi-arabias-security-approach-to-sudan?traffic_source=rss",
+   "published": "2026-08-20T15:51:46+00:00",
+   "summary": "Riyadh sees Sudan’s unity and stability as inseparable from its own security across the Red Sea.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Deadly Russian missile barrage hits Kyiv in hours-long overnight attack",
@@ -541,18 +552,6 @@
    "url": "https://www.aljazeera.com/news/2026/8/19/icc-condemns-us-sanctions-as-flagrant-attack-on-courts-independence?traffic_source=rss",
    "published": "2026-08-19T12:59:57+00:00",
    "summary": "The ICC has expressed concern over the Trump administration&#039;s campaign.",
-   "tags": [
-    "strikes",
-    "sanctions"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "UAE trade embargo could shut Iran’s key economic escape route: Here’s why",
-   "url": "https://www.aljazeera.com/news/2026/8/19/uae-trade-embargo-could-shut-irans-key-economic-escape-route-heres-why?traffic_source=rss",
-   "published": "2026-08-19T12:37:40+00:00",
-   "summary": "The UAE announced the embargo, accusing Iran of launching missiles into its territory.",
    "tags": [
     "strikes",
     "sanctions"
