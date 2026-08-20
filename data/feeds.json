@@ -1,6 +1,28 @@
 {
- "asOf": "2026-08-20T14:40:48.854887+00:00",
+ "asOf": "2026-08-20T14:59:33.958264+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iraq remains committed to security agreement with Iran: Security adviser",
+   "url": "https://en.irna.ir/news/86240955/Iraq-remains-committed-to-security-agreement-with-Iran-Security",
+   "published": "2026-08-20T14:42:59+00:00",
+   "summary": "Tehran, IRNA – Iraqi National Security Adviser Qasim al-Aboudi says that Iraq remains committed to the joint security agreement between Baghdad and Tehran.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "USS Washington arrives in Middle East after aircraft carrier outcry",
+   "url": "https://www.aljazeera.com/news/2026/8/20/uss-washington-arrives-in-middle-east-after-aircraft-carrier-outcry?traffic_source=rss",
+   "published": "2026-08-20T14:36:35+00:00",
+   "summary": "Vessel expected to replace USS Lincoln after reports of dire conditions on board raised questions over US war planning.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "James Braid, our Director of Legislative Affairs, will be leaving the White House in September. James has played a critical role in our many accomplishments with Congress, including THE ONE BIG BEAUTIFUL BILL, beating the Democrats in two shutdown showdowns, passing the GENIUS Act, defeating a record number of War Powers resolutions, and the confirmation of my Cabinet at the fastest rate in decades. This has been, and will continue to be, the most successful Republican Congress in History. Thank you, James, for your service to our Nation! President DONALD J. TRUMP",
@@ -559,17 +581,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "Aid workers faced record number of attacks in 2025, UN says",
-   "url": "https://www.aljazeera.com/news/2026/8/19/aid-workers-faced-record-number-of-attacks-in-2025-un-says?traffic_source=rss",
-   "published": "2026-08-19T08:40:54+00:00",
-   "summary": "Gaza remains the deadliest place for humanitarian workers for third consecutive year, with 186 killed in 2025.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
    "source": "IRNA (Iran state wire)",
    "title": "Ghalibaf arrives in Baghdad to advance bilateral cooperation",
    "url": "https://en.irna.ir/news/86239615/Ghalibaf-arrives-in-Baghdad-to-advance-bilateral-cooperation",
@@ -608,15 +619,6 @@
    "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA A PROCLAMATION 1.&#160; In Proclamation 11046 of July 20, 2026 (Imposing Additional Duties to Offset Canadian Discrimination Against the&#160;Commerce of the United States With Respect to Alcoholic Beverages), I found as a fact that Canada is discriminating against the commerce of the United States by banning [&#8230;] The post Temporary Suspension ",
    "tags": [],
    "highlight": false
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from August 19, 2026",
-   "url": "https://trumpstruth.org/statuses/41007",
-   "published": "2026-08-19T02:27:22+00:00",
-   "summary": "",
-   "tags": [],
-   "highlight": true
   }
  ]
 }
