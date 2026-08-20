@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-20T08:18:40.671053+00:00",
+ "asOf": "2026-08-20T08:41:07.686954+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Video shows Russian missile strike on Ukrainian capital",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/video-shows-russian-missile-strike-on-ukrainian-capital?traffic_source=rss",
+   "published": "2026-08-20T08:18:15+00:00",
+   "summary": "Ukrainian officials say at least 12 people were killed and dozens injured after Russian ballistic missiles struck Kyiv.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Oil flows nearly tripled before US-Iran MoU expired, analysis shows",
@@ -140,7 +151,7 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "Iran war live: Tehran says Trump’s new economic measures will fail",
+   "title": "Iran war live: Tehran says Trump’s ‘economic warfare’ will fail",
    "url": "https://www.aljazeera.com/news/liveblog/2026/8/20/iran-war-live-trump-announces-most-crushing-iran-sanctions?traffic_source=rss",
    "published": "2026-08-20T00:00:00+00:00",
    "summary": "Trump says Washington may resume talks with Tehran &#039;at some point&#039;.",
@@ -610,17 +621,6 @@
     "diplomacy"
    ],
    "highlight": true
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "US refineries taking in half of Venezuela’s oil output, official says",
-   "url": "https://www.aljazeera.com/news/2026/8/19/venezuela-oil-exports-surge-with-us-refineries-taking-in-half-of-output?traffic_source=rss",
-   "published": "2026-08-19T02:00:43+00:00",
-   "summary": "US official says Venezuela is sending 500,000 of its 1.25 million barrels per day output to Gulf Coast refineries.",
-   "tags": [
-    "oil"
-   ],
-   "highlight": false
   }
  ]
 }
