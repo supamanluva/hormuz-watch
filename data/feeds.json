@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-20T04:59:02.736522+00:00",
+ "asOf": "2026-08-20T05:38:59.661318+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "At least 6 killed in multiple Russian missile strikes across Ukraine",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/at-least-6-killed-in-multiple-russian-missile-strikes-across-ukraine?traffic_source=rss",
+   "published": "2026-08-20T04:59:22+00:00",
+   "summary": "Russian ballistic missiles killed at least six people and ⁠injured over two dozen more in Kyiv early on Thursday.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "[No Title] - Post from August 20, 2026",
@@ -601,15 +612,6 @@
    "title": "[No Title] - Post from August 19, 2026",
    "url": "https://trumpstruth.org/statuses/40998",
    "published": "2026-08-19T00:11:55+00:00",
-   "summary": "",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from August 19, 2026",
-   "url": "https://trumpstruth.org/statuses/40999",
-   "published": "2026-08-19T00:11:47+00:00",
    "summary": "",
    "tags": [],
    "highlight": true
