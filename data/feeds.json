@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-20T19:38:38.139385+00:00",
+ "asOf": "2026-08-20T19:56:24.997454+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Could US sanctions destroy the International Criminal Court?",
+   "url": "https://www.aljazeera.com/video/inside-story/2026/8/20/could-us-sanctions-destroy-the-international-criminal-court?traffic_source=rss",
+   "published": "2026-08-20T19:38:29+00:00",
+   "summary": "Washington&#039;s new measures against the ICC have been widely condemned but welcomed by Israel.",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
   {
    "source": "UN Press",
    "title": "As Systemic Racism, False Narratives Persist, Secretary-General Observance Message Urges Collective Commitment to Achieve Equality for People of African Descent",
@@ -501,17 +512,6 @@
    "summary": "US President Donald Trump claimed North Korean leader Kim Jong Un had responded positively to his proposal for talks.",
    "tags": [
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Hamas condemns ‘new war crime’ as Israel kills 10 in crowded Gaza hubs",
-   "url": "https://www.aljazeera.com/news/2026/8/19/hamas-condemns-new-war-crime-as-israel-kills-10-in-crowded-gaza-hubs?traffic_source=rss",
-   "published": "2026-08-19T17:14:21+00:00",
-   "summary": "Israeli air strikes on Gaza kill 10 Palestinians, targeting police headquarters and a refugee camp in separate attacks.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   },
