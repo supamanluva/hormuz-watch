@@ -1,6 +1,28 @@
 {
- "asOf": "2026-08-20T23:13:49.582651+00:00",
+ "asOf": "2026-08-20T23:36:24.636756+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Houthis and government trade attacks as Yemen slides back to full-scale war",
+   "url": "https://www.aljazeera.com/news/2026/8/20/houthis-and-government-trade-attacks-as-yemen-slides-back-to-full-scale-war?traffic_source=rss",
+   "published": "2026-08-20T23:19:56+00:00",
+   "summary": "Gov&#039;t forces carried out 81 attacks in the last 24 hours as Houthis claim to have hit two targets in Saudi Arabia.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "US charges woman for allegedly plotting attack on New York State Capitol",
+   "url": "https://www.aljazeera.com/news/2026/8/20/us-charges-woman-for-allegedly-plotting-attack-on-new-york-state-capitol?traffic_source=rss",
+   "published": "2026-08-20T23:01:15+00:00",
+   "summary": "The suspect, Jessica Bowie, 35, was arrested on charges of providing material support for &#039;terrorism&#039;.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "[No Title] - Post from August 20, 2026",
@@ -579,29 +601,6 @@
    "summary": "An Israeli strike on Gaza City’s police headquarters has killed the women’s police chief and several officers.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Displaced Lebanese watch southern Lebanon’s ‘pilot zones’ from afar",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/displaced-lebanese-watch-southern-lebanons-pilot-zones-from-afar-2?traffic_source=rss",
-   "published": "2026-08-19T21:10:39+00:00",
-   "summary": "“You can&#039;t do anything. Just stand here and watch.” Al Jazeera’s Ali Hashem watched Israeli attacks near his home town.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "What’s behind Israel’s latest attack on Syria?",
-   "url": "https://www.aljazeera.com/video/inside-story/2026/8/19/whats-behind-israels-latest-attack-on-syria?traffic_source=rss",
-   "published": "2026-08-19T20:18:40+00:00",
-   "summary": "US envoy warns Israel&#039;s strike could have sparked direct confrontation with Turkish forces.",
-   "tags": [
-    "strikes",
-    "diplomacy"
    ],
    "highlight": false
   }
