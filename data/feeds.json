@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-20T07:46:04.278097+00:00",
+ "asOf": "2026-08-20T08:03:37.389888+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Oil flows nearly tripled before US-Iran MoU expired, analysis shows",
+   "url": "https://www.aljazeera.com/economy/2026/8/20/oil-flows-nearly-tripled-before-us-iran-mou-expired?traffic_source=rss",
+   "published": "2026-08-20T07:38:22+00:00",
+   "summary": "Some 374 million barrels of oil exited the Gulf during 60-day window covered by MoU, Kpler data shows.",
+   "tags": [
+    "oil"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Over 200,000 people newly displaced in Sudan’s Kordofan as fighting rages",
@@ -82,7 +93,7 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "Russian forces kill 9 in Ukraine as Zelenskyy faces pressure over elections",
+   "title": "Russian missile barrage kills at least 12 people in Ukraine’s Kyiv",
    "url": "https://www.aljazeera.com/news/2026/8/20/russian-strike-kills-3-in-ukraine-as-zelenskyy-faces-pressure-at-home?traffic_source=rss",
    "published": "2026-08-20T02:50:17+00:00",
    "summary": "Russian ballistic missile attacks hit at least three districts in Kyiv, collapsing buildings and causing fires.",
@@ -129,12 +140,11 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "Iran war live: Trump announces ‘most crushing’ Iran sanctions",
+   "title": "Iran war live: Tehran says Trump’s new economic measures will fail",
    "url": "https://www.aljazeera.com/news/liveblog/2026/8/20/iran-war-live-trump-announces-most-crushing-iran-sanctions?traffic_source=rss",
    "published": "2026-08-20T00:00:00+00:00",
    "summary": "Trump says Washington may resume talks with Tehran &#039;at some point&#039;.",
    "tags": [
-    "sanctions",
     "diplomacy"
    ],
    "highlight": false
@@ -611,15 +621,6 @@
     "oil"
    ],
    "highlight": false
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "A lot of great WINS tonight!!! President DJT",
-   "url": "https://trumpstruth.org/statuses/41004",
-   "published": "2026-08-19T01:37:51+00:00",
-   "summary": "A lot of great WINS tonight!!! President DJT",
-   "tags": [],
-   "highlight": true
   }
  ]
 }
