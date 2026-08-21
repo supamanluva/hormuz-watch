@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-21T01:17:28.031235+00:00",
+ "asOf": "2026-08-21T02:00:56.716180+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Panama Canal to limit shipping ahead of extreme weather during El Nino",
+   "url": "https://www.aljazeera.com/news/2026/8/21/panama-canal-to-limit-shipping-ahead-of-extreme-weather-during-el-nino?traffic_source=rss",
+   "published": "2026-08-21T01:12:02+00:00",
+   "summary": "The El Nino weather phenomenon is expected to increase the likelihood of drought and excess heat across the region.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Iran war live: US vows toughest Iran sanctions, urges China support",
@@ -594,15 +605,6 @@
    "summary": "",
    "tags": [],
    "highlight": true
-  },
-  {
-   "source": "White House",
-   "title": "President Trump’s Trade Agenda Is Rebuilding the American Auto Industry",
-   "url": "https://www.whitehouse.gov/releases/2026/08/president-trumps-trade-agenda-is-rebuilding-the-american-auto-industry/",
-   "published": "2026-08-19T21:42:19+00:00",
-   "summary": "Ford Motor Company announced it will reshore production of its Lincoln models to the United States — phasing out imports from China and creating thousands of new American jobs. This is the latest proof that President Donald J. Trump’s America First trade agenda is delivering exactly as designed: rewarding domestic manufacturing, protecting American workers, and [&#8230;] The post President Trump’s",
-   "tags": [],
-   "highlight": false
   }
  ]
 }
