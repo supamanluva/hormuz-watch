@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-21T12:16:06.001892+00:00",
+ "asOf": "2026-08-21T12:42:00.429593+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "US designates Hezbollah an Iranian proxy, sanctions funding network",
+   "url": "https://www.aljazeera.com/news/2026/8/21/us-designates-hezbollah-an-iranian-proxy-sanctions-funding-network?traffic_source=rss",
+   "published": "2026-08-21T12:12:35+00:00",
+   "summary": "The US Treasury labels Lebanon-based group &#039;an extension&#039; of the IRGC&#039;s Quds Force and takes aim at financing.",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Closure of al-Makha port leaves workers and traders fearing for the future",
@@ -508,17 +519,6 @@
    "summary": "Some 374 million barrels of oil exited the Gulf during 60-day window covered by MoU, Kpler data shows.",
    "tags": [
     "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Over 200,000 people newly displaced in Sudan’s Kordofan as fighting rages",
-   "url": "https://www.aljazeera.com/news/2026/8/20/over-200000-people-newly-displaced-in-sudans-kordofan-as-fighting-rages?traffic_source=rss",
-   "published": "2026-08-20T07:11:37+00:00",
-   "summary": "UN warns of surging displacement in Kordofan as power and water infrastructure comes under attack in el-Obeid.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   },
