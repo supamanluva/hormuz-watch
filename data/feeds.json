@@ -1,6 +1,50 @@
 {
- "asOf": "2026-08-21T19:01:05.167827+00:00",
+ "asOf": "2026-08-21T19:35:20.115347+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "US, Canada negotiators race to ink a deal as Trump’s tariff deadline looms",
+   "url": "https://www.aljazeera.com/economy/2026/8/21/us-canada-negotiators-race-to-ink-a-deal-as-trumps-tariff-deadline-looms?traffic_source=rss",
+   "published": "2026-08-21T19:20:17+00:00",
+   "summary": "Experts say even a last-minute breakthrough will not result in the US lifting all its tariffs on Canadian goods.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Palestinian victims of Israeli settler attacks face battle for justice",
+   "url": "https://www.aljazeera.com/features/2026/8/21/palestinian-victims-of-israeli-settlers-face-painful-battle-for-justice?traffic_source=rss",
+   "published": "2026-08-21T19:14:42+00:00",
+   "summary": "Palestinians with missing relatives are marking International Day of Remembrance and Tribute to Victims of Terrorism.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Turkiye accuses Israel’s Netanyahu of ‘genocide’, seeks Interpol warrant",
+   "url": "https://www.aljazeera.com/news/2026/8/21/turkiye-accuses-israels-netanyahu-of-genocide-seeks-interpol-warrant?traffic_source=rss",
+   "published": "2026-08-21T19:08:30+00:00",
+   "summary": "Netanyahu and Erdogan trade insults as Ankara seeks warrant for Israel&#039;s attacks on Global Sumud Flotilla activists.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Secret tunnel becomes museum for Syria chemical attack and siege of Ghouta",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/08-21-26-ghouta-chemical-attack-anniversary-sv?traffic_source=rss",
+   "published": "2026-08-21T18:55:22+00:00",
+   "summary": "A Ghouta tunnel used during Assad’s siege is now a museum, 13 years after government forces’ deadly sarin gas attack.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "Work on Trump White House ballroom can continue, Supreme Court Chief Justice John Roberts rules:",
@@ -9,6 +53,17 @@
    "summary": "Work on Trump White House ballroom can continue, Supreme Court Chief Justice John Roberts rules: https:// nypost.com/2026/08/21/us-news/ work-on-trump-white-house-ballroom-can-continue-supreme-court-chief-justice-john-roberts/",
    "tags": [],
    "highlight": true
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Drone strike on Ukraine shopping centre kills 14, over 100 injured",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/drone-strike-on-ukraine-shopping-centre-kills-six-injures-103?traffic_source=rss",
+   "published": "2026-08-21T18:40:11+00:00",
+   "summary": "A Russian drone strike hit a major shopping centre in Kryvyi Rih, Ukraine, killing 14 people and injuring over 100",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
   },
   {
    "source": "Trump · Truth Social",
@@ -549,61 +604,6 @@
    "summary": "South Korea convened an emergency security meeting following the launches, as Trump seeks to sway Pyongyang.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran condemns new US sanctions as ‘economic terrorism’ and ‘crimes against humanity’",
-   "url": "https://en.irna.ir/news/86241010/Iran-condemns-new-US-sanctions-as-economic-terrorism-and-crimes",
-   "published": "2026-08-20T16:45:02+00:00",
-   "summary": "Tehran, IRNA – Iran’s Ministry of Foreign Affairs has strongly condemned the new economic sanctions imposed by the United States against Iran, describing the action as an instance of “economic terrorism” and “crimes against humanity.”",
-   "tags": [
-    "sanctions"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "One geography, two states: Saudi Arabia’s security approach to Sudan",
-   "url": "https://www.aljazeera.com/opinions/2026/8/20/one-geography-two-states-saudi-arabias-security-approach-to-sudan?traffic_source=rss",
-   "published": "2026-08-20T15:51:46+00:00",
-   "summary": "Riyadh sees Sudan’s unity and stability as inseparable from its own security across the Red Sea.",
-   "tags": [
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Deadly Russian missile barrage hits Kyiv in hours-long overnight attack",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/deadly-russian-missile-barrage-hits-kyiv-in-hours-long-overnight-attack?traffic_source=rss",
-   "published": "2026-08-20T15:41:56+00:00",
-   "summary": "Russia launched a hours-long overnight barrage of ballistic and cruise missiles and drones across Kyiv.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Gunmen seize tanker off Yemen amid resurgence of Somali piracy",
-   "url": "https://www.aljazeera.com/news/2026/8/20/gunmen-seize-tanker-off-yemen-amid-resurgence-of-somali-piracy?traffic_source=rss",
-   "published": "2026-08-20T15:36:59+00:00",
-   "summary": "UK maritime security monitor says Seamull tanker diverted towards Somalia, as wave of piracy sweeps the Gulf of Aden.",
-   "tags": [
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iraq remains committed to security agreement with Iran: Security adviser",
-   "url": "https://en.irna.ir/news/86240955/Iraq-remains-committed-to-security-agreement-with-Iran-Security",
-   "published": "2026-08-20T14:42:59+00:00",
-   "summary": "Tehran, IRNA – Iraqi National Security Adviser Qasim al-Aboudi says that Iraq remains committed to the joint security agreement between Baghdad and Tehran.",
-   "tags": [
-    "diplomacy"
    ],
    "highlight": false
   }
