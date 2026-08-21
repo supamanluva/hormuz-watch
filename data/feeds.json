@@ -1,6 +1,28 @@
 {
- "asOf": "2026-08-21T14:01:30.042791+00:00",
+ "asOf": "2026-08-21T14:19:19.967791+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Several people injured in sword attack at Swedish school",
+   "url": "https://www.aljazeera.com/news/2026/8/21/several-people-injured-in-sword-attack-at-swedish-school?traffic_source=rss",
+   "published": "2026-08-21T13:48:09+00:00",
+   "summary": "One person has been taken into custody after the attack at a high school in Fagersta, local authorities said.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Ebola outbreak ‘growing faster, ⁠⁠wider’ as DRC death toll passes 2,500: UN",
+   "url": "https://www.aljazeera.com/news/2026/8/21/ebola-outbreak-growing-faster-%e2%81%a0%e2%81%a0wider-as-drc-death-toll-passes-2500-un?traffic_source=rss",
+   "published": "2026-08-21T13:30:36+00:00",
+   "summary": "Epidemic remains out of control amid DR Congo conflict, funding shortages and attacks on health workers and facilities",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Beijing terms US sanctions against Iran as illegal",
@@ -508,28 +530,6 @@
    "summary": "Four-time F1 World Drivers&#039; Champion&#039;s new deal puts to rest rumours that he would exit the team at the end of 2028.",
    "tags": [
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Video shows Russian missile strike on Ukrainian capital",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/video-shows-russian-missile-strike-on-ukrainian-capital?traffic_source=rss",
-   "published": "2026-08-20T08:18:15+00:00",
-   "summary": "Ukrainian officials say at least 12 people were killed and dozens injured after Russian ballistic missiles struck Kyiv.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Oil flows nearly tripled before US-Iran MoU expired, analysis shows",
-   "url": "https://www.aljazeera.com/economy/2026/8/20/oil-flows-nearly-tripled-before-us-iran-mou-expired?traffic_source=rss",
-   "published": "2026-08-20T07:38:22+00:00",
-   "summary": "Some 374 million barrels of oil exited the Gulf during 60-day window covered by MoU, Kpler data shows.",
-   "tags": [
-    "oil"
    ],
    "highlight": false
   },
