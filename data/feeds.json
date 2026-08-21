@@ -1,6 +1,28 @@
 {
- "asOf": "2026-08-21T11:13:59.394197+00:00",
+ "asOf": "2026-08-21T11:36:47.981588+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Closure of al-Makha port leaves workers and traders fearing for the future",
+   "url": "https://www.aljazeera.com/economy/2026/8/21/houthi-attacks-on-mokha-port-forced-it-to-suspend-operations-leaving-workers-jobless?traffic_source=rss",
+   "published": "2026-08-21T11:15:54+00:00",
+   "summary": "Houthi attacks on al-Makha port forced it to suspend operations, leaving workers without jobs and traders concerned.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Who does the law serve in the occupied West Bank?",
+   "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/8/21/who-does-the-law-serve-in-the-occupied-west-bank?traffic_source=rss",
+   "published": "2026-08-21T11:12:32+00:00",
+   "summary": "Israeli settlers attack six times a day in the occupied West Bank. AJLabs looks at how Palestinian land is taken.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Armed Forces chief warns of ‘devastating’ response to any enemy attack",
@@ -513,17 +535,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "At least 6 killed in multiple Russian missile strikes across Ukraine",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/at-least-6-killed-in-multiple-russian-missile-strikes-across-ukraine?traffic_source=rss",
-   "published": "2026-08-20T04:59:22+00:00",
-   "summary": "Russian ballistic missiles killed at least six people and ⁠injured over two dozen more in Kyiv early on Thursday.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
    "source": "Trump · Truth Social",
    "title": "[No Title] - Post from August 20, 2026",
    "url": "https://trumpstruth.org/statuses/41025",
@@ -567,17 +578,6 @@
    "summary": "https:// m.youtube.com/watch?v=VXHfx0tl 0Wk&amp;ra=m",
    "tags": [],
    "highlight": true
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Russian missile barrage kills at least 13 people in Ukraine’s Kyiv",
-   "url": "https://www.aljazeera.com/news/2026/8/20/russian-strike-kills-3-in-ukraine-as-zelenskyy-faces-pressure-at-home?traffic_source=rss",
-   "published": "2026-08-20T02:50:17+00:00",
-   "summary": "Russian ballistic missile attacks hit at least three districts in Kyiv, collapsing buildings and causing fires.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
   },
   {
    "source": "Trump · Truth Social",
