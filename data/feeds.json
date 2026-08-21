@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-20T23:53:57.578447+00:00",
+ "asOf": "2026-08-21T00:24:10.195454+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Iran war live: US vows toughest Iran sanctions, urges China support",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/8/21/iran-war-live-us-vows-toughest-iran-sanctions-urges-china-support?traffic_source=rss",
+   "published": "2026-08-21T00:00:00+00:00",
+   "summary": "US Treasury Secretary Bessent says new economic measures will &#039;collapse&#039; Iranian government.",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Houthis and government trade attacks as Yemen slides back to full-scale war",
@@ -591,17 +602,6 @@
    "published": "2026-08-19T21:42:19+00:00",
    "summary": "Ford Motor Company announced it will reshore production of its Lincoln models to the United States — phasing out imports from China and creating thousands of new American jobs. This is the latest proof that President Donald J. Trump’s America First trade agenda is delivering exactly as designed: rewarding domestic manufacturing, protecting American workers, and [&#8230;] The post President Trump’s",
    "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Israeli strike on Gaza City police headquarters kills women’s police chief",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/israeli-strike-on-gaza-city-police-headquarters-kills-womens-police-chief?traffic_source=rss",
-   "published": "2026-08-19T21:22:17+00:00",
-   "summary": "An Israeli strike on Gaza City’s police headquarters has killed the women’s police chief and several officers.",
-   "tags": [
-    "strikes"
-   ],
    "highlight": false
   }
  ]
