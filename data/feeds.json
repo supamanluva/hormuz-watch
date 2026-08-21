@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-21T19:35:20.115347+00:00",
+ "asOf": "2026-08-21T19:52:31.380185+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Trump waives ‘out-of-quota’ beef tariffs for 90 days to lower prices",
+   "url": "https://www.aljazeera.com/news/2026/8/21/trump-waives-out-of-quota-beef-tariffs-for-90-days-to-lower-prices?traffic_source=rss",
+   "published": "2026-08-21T19:42:51+00:00",
+   "summary": "The president did not mention with whom he made the deal or where the imported ground beef is coming from.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "US, Canada negotiators race to ink a deal as Trump’s tariff deadline looms",
@@ -594,17 +605,6 @@
    "published": "2026-08-20T18:41:29+00:00",
    "summary": "In the Democratic Republic of the Congo, where the Ebola outbreak has caused nearly 2,500 deaths as of 18 August, the Government and aid partners are expanding the response with five operational priorities. The World Health Organization (WHO) has allocated 70,000 doses of the Ebola Zaire vaccine to front-line health workers.",
    "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "North Korea fires ballistic missiles as US-South Korea drills near end",
-   "url": "https://www.aljazeera.com/news/2026/8/20/north-korea-launches-ballistic-missiles-as-us-south-korea-drills-end?traffic_source=rss",
-   "published": "2026-08-20T17:00:12+00:00",
-   "summary": "South Korea convened an emergency security meeting following the launches, as Trump seeks to sway Pyongyang.",
-   "tags": [
-    "strikes"
-   ],
    "highlight": false
   }
  ]
