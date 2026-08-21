@@ -1,6 +1,15 @@
 {
- "asOf": "2026-08-21T19:52:31.380185+00:00",
+ "asOf": "2026-08-21T20:13:31.494424+00:00",
  "items": [
+  {
+   "source": "White House",
+   "title": "President Trump and Republicans Deliver for South Carolina Families",
+   "url": "https://www.whitehouse.gov/releases/2026/08/president-trump-and-republicans-deliver-for-south-carolina-families/",
+   "published": "2026-08-21T20:00:54+00:00",
+   "summary": "Today, President Donald J. Trump returns to South Carolina to celebrate the powerful results of America First leadership. Under President Trump and Republicans, South Carolina is thriving: the largest tax cuts for working families in a generation, the most secure border in history, plunging crime rates, unleashed American energy, and a surge of private investment [&#8230;] The post President Trump",
+   "tags": [],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Trump waives ‘out-of-quota’ beef tariffs for 90 days to lower prices",
@@ -596,15 +605,6 @@
    "tags": [
     "oil"
    ],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General",
-   "url": "https://press.un.org/en/2026/db260820.doc.htm",
-   "published": "2026-08-20T18:41:29+00:00",
-   "summary": "In the Democratic Republic of the Congo, where the Ebola outbreak has caused nearly 2,500 deaths as of 18 August, the Government and aid partners are expanding the response with five operational priorities. The World Health Organization (WHO) has allocated 70,000 doses of the Ebola Zaire vaccine to front-line health workers.",
-   "tags": [],
    "highlight": false
   }
  ]
