@@ -1,6 +1,58 @@
 {
- "asOf": "2026-08-22T20:13:04.357231+00:00",
+ "asOf": "2026-08-22T20:36:05.040076+00:00",
  "items": [
+  {
+   "source": "Trump · Truth Social",
+   "title": "[No Title] - Post from August 22, 2026",
+   "url": "https://trumpstruth.org/statuses/41121",
+   "published": "2026-08-22T20:24:56+00:00",
+   "summary": "",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "[No Title] - Post from August 22, 2026",
+   "url": "https://trumpstruth.org/statuses/41122",
+   "published": "2026-08-22T20:24:48+00:00",
+   "summary": "",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "[No Title] - Post from August 22, 2026",
+   "url": "https://trumpstruth.org/statuses/41123",
+   "published": "2026-08-22T20:24:38+00:00",
+   "summary": "",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Top security official: Strait of Hormuz remains closed until US changes its behavior",
+   "url": "https://en.irna.ir/news/86242668/Top-security-official-Strait-of-Hormuz-remains-closed-until",
+   "published": "2026-08-22T20:23:49+00:00",
+   "summary": "Tehran, IRNA – Secretary of Iran’s Supreme National Security Council Major General Mohsen Rezaei whilr emphasizing that any country participating in the US-led economic blockade will face consequences, and warned that if the blockade persists, not a single drop of Persian Gulf oil will be allowed to leave via any route.",
+   "tags": [
+    "shipping",
+    "oil"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Iran grants permission for some Iraqi oil tankers to pass through Hormuz",
+   "url": "https://www.aljazeera.com/news/2026/8/22/iran-grants-permission-for-some-iraqi-oil-tankers-to-pass-through-hormuz?traffic_source=rss",
+   "published": "2026-08-22T20:05:52+00:00",
+   "summary": "Iraqi President Nizar Amidi says his country&#039;s territory will not be used to launch attacks against any other state.",
+   "tags": [
+    "strikes",
+    "shipping",
+    "oil"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "[No Title] - Post from August 22, 2026",
@@ -452,17 +504,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "Palestinian victims of Israeli settler attacks face battle for justice",
-   "url": "https://www.aljazeera.com/features/2026/8/21/palestinian-victims-of-israeli-settlers-face-painful-battle-for-justice?traffic_source=rss",
-   "published": "2026-08-21T19:14:42+00:00",
-   "summary": "Palestinians with missing relatives are marking International Day of Remembrance and Tribute to Victims of Terrorism.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
    "source": "Trump · Truth Social",
    "title": "Work on Trump White House ballroom can continue, Supreme Court Chief Justice John Roberts rules:",
    "url": "https://trumpstruth.org/statuses/41107",
@@ -550,33 +591,6 @@
    "highlight": true
   },
   {
-   "source": "Trump · Truth Social",
-   "title": "Trump to nominate Dr Heidi Overton as next FDA commissioner:",
-   "url": "https://trumpstruth.org/statuses/41093",
-   "published": "2026-08-21T17:23:26+00:00",
-   "summary": "Trump to nominate Dr Heidi Overton as next FDA commissioner: https://www. foxnews.com/politics/trump-nom inate-dr-heidi-overton-next-fda-commissioner",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Trump’s Golden Dome Moves from Vision to Reality:",
-   "url": "https://trumpstruth.org/statuses/41094",
-   "published": "2026-08-21T17:23:09+00:00",
-   "summary": "Trump’s Golden Dome Moves from Vision to Reality: https:// amac.us/newsline/trump-s-golde n-dome-moves-from-vision-to-reality",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Americans Stop Paying the World’s Pharmacy Tab as Prices Fall Hardest Since 1963:",
-   "url": "https://trumpstruth.org/statuses/41095",
-   "published": "2026-08-21T17:22:55+00:00",
-   "summary": "Americans Stop Paying the World’s Pharmacy Tab as Prices Fall Hardest Since 1963: https:// amac.us/newsline/americans-sto p-paying-the-worlds-pharmacy-tab-as-prices-fall-hardest-since-1963",
-   "tags": [],
-   "highlight": true
-  },
-  {
    "source": "IRNA (Iran state wire)",
    "title": "Araghchi to Trump: We have seen this movie before",
    "url": "https://en.irna.ir/news/86241602/Araghchi-to-Trump-We-have-seen-this-movie-before",
@@ -606,17 +620,6 @@
    "summary": "Tehran, IRNA – Chinese Foreign Ministry Spokesperson Lin Jian has offered China’s opposition to illegal unilateral sanctions that have no basis in international law and are not authorized by the UN Security Council.",
    "tags": [
     "sanctions"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Armed Forces chief warns of ‘devastating’ response to any enemy attack",
-   "url": "https://en.irna.ir/news/86241395/Armed-Forces-chief-warns-of-devastating-response-to-any-enemy",
-   "published": "2026-08-21T11:08:42+00:00",
-   "summary": "Tehran, IRNA – Chief of Staff of the Iranian Armed Forces Major General Ali Abdollahi has warned that any “miscalculation” from adversaries would be met with “revolutionary, crushing, regret-inducing, and devastating responses.”",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   }
