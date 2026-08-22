@@ -1,12 +1,23 @@
 {
- "asOf": "2026-08-22T04:40:17.030462+00:00",
+ "asOf": "2026-08-22T04:57:54.121520+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Palestinian teen shot and killed in West Bank attack, UN responds",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/palestinian-teen-shot-and-killed-in-west-bank-attack-un-responds?traffic_source=rss",
+   "published": "2026-08-22T04:30:20+00:00",
+   "summary": "A 17-year-old Palestinian was killed and another person critically injured in a settler attack in the occupied West Bank",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "US imposes 50% tariffs on $20bn worth of Canadian goods after talks fail",
    "url": "https://www.aljazeera.com/news/2026/8/22/us-imposes-50-tariffs-on-20bn-worth-of-canadian-goods-after-talks-fail?traffic_source=rss",
    "published": "2026-08-22T04:02:32+00:00",
-   "summary": "Canadian Prime Minister vows retaliatory tariffs &quot;dollar for dollar&quot; following failure to secure a US trade agreement.",
+   "summary": "Canadian prime minister says country will match tariffs &#039;dollar for dollar&#039; after failure to secure US trade agreement.",
    "tags": [
     "diplomacy"
    ],
@@ -548,17 +559,6 @@
    "summary": "German authorities allege that Ukrainian scuba diver Volodymyr Zhuravlev was involved in the Nord Stream explosions.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Panama Canal to limit shipping ahead of extreme weather during El Nino",
-   "url": "https://www.aljazeera.com/news/2026/8/21/panama-canal-to-limit-shipping-ahead-of-extreme-weather-during-el-nino?traffic_source=rss",
-   "published": "2026-08-21T01:12:02+00:00",
-   "summary": "The El Nino weather phenomenon is expected to increase the likelihood of drought and excess heat across the region.",
-   "tags": [
-    "shipping"
    ],
    "highlight": false
   },
