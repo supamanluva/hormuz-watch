@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-22T04:17:31.757582+00:00",
+ "asOf": "2026-08-22T04:40:17.030462+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "US imposes 50% tariffs on $20bn worth of Canadian goods after talks fail",
+   "url": "https://www.aljazeera.com/news/2026/8/22/us-imposes-50-tariffs-on-20bn-worth-of-canadian-goods-after-talks-fail?traffic_source=rss",
+   "published": "2026-08-22T04:02:32+00:00",
+   "summary": "Canadian Prime Minister vows retaliatory tariffs &quot;dollar for dollar&quot; following failure to secure a US trade agreement.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "US judge strikes down Trump immigrant visa ban affecting 75 countries",
@@ -548,17 +559,6 @@
    "summary": "The El Nino weather phenomenon is expected to increase the likelihood of drought and excess heat across the region.",
    "tags": [
     "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iran war live: Tehran says planned US sanctions threaten global economy",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/8/21/iran-war-live-us-vows-toughest-iran-sanctions-urges-china-support?traffic_source=rss",
-   "published": "2026-08-21T00:00:00+00:00",
-   "summary": "Iran says Washington&#039;s warning of an &#039;economic D-Day&#039; threatens the entire global economy.",
-   "tags": [
-    "sanctions"
    ],
    "highlight": false
   },
