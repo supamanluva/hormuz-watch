@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-22T17:12:56.847257+00:00",
+ "asOf": "2026-08-22T17:34:47.437048+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Sanctioned by EU, Israeli settler steals and kills Palestinian donkey",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/22-08-clip-palestinian-donkey-killed-by-setllers-ps?traffic_source=rss",
+   "published": "2026-08-22T16:41:43+00:00",
+   "summary": "A donkey belonging to a Palestinian farmer was reportedly stolen and dragged to death by Israeli settlers.",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Over 100 ex-diplomats urge France, UK to sanction Israel over Palestine",
@@ -465,17 +476,6 @@
    "summary": "Dr. Sebastian Gorka: “Kevin Rideout, the Christian Missionary taken by ISIS, was reunited with his wife. See pictures below. He sounds incredibly good and wouldn’t stop saying how grateful he is to President Trump. (He even shared that he kept singing in his head the song ‘Proud to be an American!’ when he knew he would be coming home.”",
    "tags": [],
    "highlight": true
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Arsenal sign Konsa from Villa as Premier League holders bolster defence",
-   "url": "https://www.aljazeera.com/sports/2026/8/21/arsenal-sign-konsa-from-villa-as-premier-league-holders-bolster-defence?traffic_source=rss",
-   "published": "2026-08-21T17:38:06+00:00",
-   "summary": "England defender Ezri Konsa joins Arsenal from Aston Villa in a deal understood to be worth £51m ($69m).",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
   },
   {
    "source": "Trump · Truth Social",
