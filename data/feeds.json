@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-22T21:12:55.548943+00:00",
+ "asOf": "2026-08-22T21:34:29.119049+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Israeli army and settlers injure several Palestinians across West Bank",
+   "url": "https://www.aljazeera.com/news/2026/8/22/israeli-army-and-settlers-injure-several-palestinians-across-west-bank?traffic_source=rss",
+   "published": "2026-08-22T21:02:29+00:00",
+   "summary": "Palestinians face attacks and forced displacement as settlers expand control, backed by military raids and inaction.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "[No Title] - Post from August 22, 2026",
@@ -496,17 +507,6 @@
    "url": "https://www.aljazeera.com/news/2026/8/21/trump-waives-out-of-quota-beef-tariffs-for-90-days-to-lower-prices?traffic_source=rss",
    "published": "2026-08-21T19:42:51+00:00",
    "summary": "The president did not mention with whom he made the deal or where the imported ground beef is coming from.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "US, Canada negotiators race to ink a deal as Trump’s tariff deadline looms",
-   "url": "https://www.aljazeera.com/economy/2026/8/21/us-canada-negotiators-race-to-ink-a-deal-as-trumps-tariff-deadline-looms?traffic_source=rss",
-   "published": "2026-08-21T19:20:17+00:00",
-   "summary": "Experts say even a last-minute breakthrough will not result in the US lifting all its tariffs on Canadian goods.",
    "tags": [
     "diplomacy"
    ],
