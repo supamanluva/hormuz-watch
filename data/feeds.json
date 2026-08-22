@@ -1,6 +1,40 @@
 {
- "asOf": "2026-08-21T23:53:30.494565+00:00",
+ "asOf": "2026-08-22T00:22:51.456942+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Several killed in Russia’s ‘double-tap’ drone strike on Ukraine mall",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/several-killed-in-russias-double-tap-drone-strike-on-ukraine-mall?traffic_source=rss",
+   "published": "2026-08-22T00:06:48+00:00",
+   "summary": "Ukraine’s president accuses Russia of a ‘cowardly and deliberate’ attack on a mall in his hometown of Kryvyi Rih.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Iran war live: Trump says he views Strait of Hormuz as ‘American territory’",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/8/22/iran-war-live-trump-says-tehran-not-ready-to-make-right-deal-to-end-war?traffic_source=rss",
+   "published": "2026-08-22T00:00:00+00:00",
+   "summary": "US president says Iran &#039;would love to make a deal, but they’re not ready to make the right deal in my opinion&#039;.",
+   "tags": [
+    "diplomacy",
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Myanmar military bombing kills 14 at Buddhist monastery, opposition reports",
+   "url": "https://www.aljazeera.com/news/2026/8/21/myanmar-military-bombing-kills-14-at-buddhist-monastery-opposition-reports?traffic_source=rss",
+   "published": "2026-08-21T23:52:28+00:00",
+   "summary": "More than 100 people were in the monastery for a religious retreat, according to a local resident.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "RT @realDonaldTrumpI’m getting ready to land in the Great State of South Carolina where I’ll be doing a Rally, in honor of Lindsey Graham, for his fantastic sister, Darline, who, after knowing her for many years, I asked to run for the United States Senate, and take Lindsey’s place. See you soon! President DONALD J. TRUMP",
@@ -573,37 +607,6 @@
    "summary": "Tehran, IRNA – The Yemeni Armed Forces spokesperson, General Yahya Saree, has in a statement announced new military operations against Saudi Arabia, targeting an Aramco facility and an airport in Najran province.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Could US sanctions destroy the International Criminal Court?",
-   "url": "https://www.aljazeera.com/video/inside-story/2026/8/20/could-us-sanctions-destroy-the-international-criminal-court?traffic_source=rss",
-   "published": "2026-08-20T19:38:29+00:00",
-   "summary": "Washington&#039;s new measures against the ICC have been widely condemned but welcomed by Israel.",
-   "tags": [
-    "sanctions"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "As Systemic Racism, False Narratives Persist, Secretary-General Observance Message Urges Collective Commitment to Achieve Equality for People of African Descent",
-   "url": "https://press.un.org/en/2026/sgsm23243.doc.htm",
-   "published": "2026-08-20T19:34:01+00:00",
-   "summary": "Following is UN Secretary-General António Guterres’ message on the International Day for People of African Descent, observed on 31 August:",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "James Harden agrees to three-year, $97m Cleveland Cavaliers deal: Report",
-   "url": "https://www.aljazeera.com/sports/2026/8/20/james-harden-agrees-to-three-year-97m-cleveland-cavaliers-deal-report?traffic_source=rss",
-   "published": "2026-08-20T19:03:30+00:00",
-   "summary": "Harden previously declined $42.3m player ⁠option on his contract in bid to secure a multi-year basketball deal.",
-   "tags": [
-    "diplomacy"
    ],
    "highlight": false
   }
