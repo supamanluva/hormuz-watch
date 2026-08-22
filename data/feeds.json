@@ -1,6 +1,28 @@
 {
- "asOf": "2026-08-22T08:56:44.709986+00:00",
+ "asOf": "2026-08-22T10:13:19.866203+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "No military objective can justify massacre of Minab schoolgirls: Top rights official",
+   "url": "https://en.irna.ir/news/86242150/No-military-objective-can-justify-massacre-of-Minab-schoolgirls",
+   "published": "2026-08-22T09:36:11+00:00",
+   "summary": "Tehran, IRNA – Secretary of Iran’s High Council for Human Rights says no political objective, geopolitical dispute, or military goal can justify killing children, referring to the deadly US–Israeli attack on the Shajareh Tayyebeh school in Minab.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Iran says new US sanctions violate sovereignty of other states",
+   "url": "https://www.aljazeera.com/news/2026/8/22/iran-says-new-us-sanctions-violate-sovereignty-of-other-states?traffic_source=rss",
+   "published": "2026-08-22T09:14:09+00:00",
+   "summary": "Foreign Ministry spokesman Esmaeil Baghaei slams Trump&#039;s latest threat as a return to &#039;full-scale classic colonialism&#039;.",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Iran, Russia near signing executive contract for Rasht-Astara railway: Envoy",
@@ -47,7 +69,7 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "‘Young want to leave’: Libya’s brain drain, 15 years after Tripoli fell",
+   "title": "Libya’s brain drain, 15 years after Tripoli fell",
    "url": "https://www.aljazeera.com/news/2026/8/22/young-want-to-leave-libyas-brain-drain-15-years-after-tripoli-fell?traffic_source=rss",
    "published": "2026-08-22T07:41:10+00:00",
    "summary": "Professionals who left a country in turmoil say they are unlikely to return as more in Libya could be planning to leave.",
@@ -575,17 +597,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "US designates Hezbollah an Iranian proxy, sanctions funding network",
-   "url": "https://www.aljazeera.com/news/2026/8/21/us-designates-hezbollah-an-iranian-proxy-sanctions-funding-network?traffic_source=rss",
-   "published": "2026-08-21T12:12:35+00:00",
-   "summary": "The US Treasury labels Lebanon-based group &#039;an extension&#039; of the IRGC&#039;s Quds Force and takes aim at financing.",
-   "tags": [
-    "sanctions"
-   ],
-   "highlight": false
-  },
-  {
    "source": "IRNA (Iran state wire)",
    "title": "Armed Forces chief warns of ‘devastating’ response to any enemy attack",
    "url": "https://en.irna.ir/news/86241395/Armed-Forces-chief-warns-of-devastating-response-to-any-enemy",
@@ -605,15 +616,6 @@
    "tags": [
     "oil"
    ],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "The National Space Transportation Policy",
-   "url": "https://www.whitehouse.gov/presidential-actions/2026/08/national-security-presidential-memorandum-nspm-17/",
-   "published": "2026-08-20T20:54:58+00:00",
-   "summary": "MEMORANDUM FOR THE SECRETARY OF STATETHE SECRETARY OF WARTHE SECRETARY OF THE INTERIORTHE SECRETARY OF COMMERCETHE SECRETARY OF TRANSPORTATIONTHE SECRETARY OF ENERGYTHE SECRETARY OF HOMELAND SECURITYTHE DIRECTOR OF THE OFFICE OF MANAGEMENT AND BUDGETTHE DIRECTOR OF NATIONAL INTELLIGENCETHE ASSISTANT TO THE PRESIDENT FOR NATIONAL SECURITY AFFAIRSTHE ASSISTANT TO THE PRESIDENT FOR SCIENCE AND TECHNO",
-   "tags": [],
    "highlight": false
   }
  ]
