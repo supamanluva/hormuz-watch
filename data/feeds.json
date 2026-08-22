@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-22T07:55:45.684658+00:00",
+ "asOf": "2026-08-22T08:14:09.292189+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran, Russia near signing executive contract for Rasht-Astara railway: Envoy",
+   "url": "https://en.irna.ir/news/86241929/Iran-Russia-near-signing-executive-contract-for-Rasht-Astara",
+   "published": "2026-08-22T08:09:18+00:00",
+   "summary": "Moscow, IRNA – Iran and Russia are nearing the signing of an executive contract for the construction of the Rasht-Astara railway, a key project under the International North-South Transport Corridor, Iranian Ambassador to Russia Kazem Jalali says.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Iran calls US new sanctions assertion of extraterritorial sovereignty over independent UN member states",
@@ -9,6 +20,17 @@
    "summary": "Tehran, IRNA – Iranian Foreign Ministry spokesperson Esmaeil Baqaei has criticized the United States’ latest economic sanctions against Iran, describing the measure as “an assertion of extraterritorial sovereignty over every independent Member State of the United Nations.”",
    "tags": [
     "sanctions"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "‘Young want to leave’: Libya’s brain drain, 15 years after Tripoli fell",
+   "url": "https://www.aljazeera.com/news/2026/8/22/young-want-to-leave-libyas-brain-drain-15-years-after-tripoli-fell?traffic_source=rss",
+   "published": "2026-08-22T07:41:10+00:00",
+   "summary": "Professionals who left a country in turmoil say they are unlikely to return as more in Libya could be planning to leave.",
+   "tags": [
+    "oil"
    ],
    "highlight": false
   },
@@ -575,17 +597,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "Nord Stream bombing suspect to Hollywood fixer: Who is Volodymyr Zhuravlev?",
-   "url": "https://www.aljazeera.com/news/2026/8/21/nord-stream-bombing-suspect-to-hollywood-fixer-who-is-volodymyr-zhuravlev?traffic_source=rss",
-   "published": "2026-08-21T10:10:52+00:00",
-   "summary": "German authorities allege that Ukrainian scuba diver Volodymyr Zhuravlev was involved in the Nord Stream explosions.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
    "source": "White House",
    "title": "Fact Sheet: President Donald J. Trump Launches the Golden Age of Space Transportation",
    "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-launches-the-golden-age-of-space-transportation/",
@@ -602,15 +613,6 @@
    "url": "https://www.whitehouse.gov/presidential-actions/2026/08/national-security-presidential-memorandum-nspm-17/",
    "published": "2026-08-20T20:54:58+00:00",
    "summary": "MEMORANDUM FOR THE SECRETARY OF STATETHE SECRETARY OF WARTHE SECRETARY OF THE INTERIORTHE SECRETARY OF COMMERCETHE SECRETARY OF TRANSPORTATIONTHE SECRETARY OF ENERGYTHE SECRETARY OF HOMELAND SECURITYTHE DIRECTOR OF THE OFFICE OF MANAGEMENT AND BUDGETTHE DIRECTOR OF NATIONAL INTELLIGENCETHE ASSISTANT TO THE PRESIDENT FOR NATIONAL SECURITY AFFAIRSTHE ASSISTANT TO THE PRESIDENT FOR SCIENCE AND TECHNO",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "President Trump’s Cabinet Champions America First Successes Nationwide",
-   "url": "https://www.whitehouse.gov/releases/2026/08/president-trumps-cabinet-champions-america-first-successes-nationwide/",
-   "published": "2026-08-20T20:43:03+00:00",
-   "summary": "From the heartland to the coasts, members of President Donald J. Trump’s Cabinet are on the ground across the nation to engage with Americans and showcase the Administration’s signature achievements. From energy dominance and infrastructure modernization to manufacturing growth, veterans’ care, and border security, these visits deliver an unmistakable message: the America First agenda is [&#8230;]",
    "tags": [],
    "highlight": false
   }
