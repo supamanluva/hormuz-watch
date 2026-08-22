@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-22T12:13:42.829181+00:00",
+ "asOf": "2026-08-22T12:41:25.634756+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Russian strikes kill 6 people in Ukraine, day after shopping complex attack",
+   "url": "https://www.aljazeera.com/news/2026/8/22/russian-strikes-kill-6-people-in-ukraine-day-after-shopping-complex-attack?traffic_source=rss",
+   "published": "2026-08-22T12:09:09+00:00",
+   "summary": "Meanwhile, Ukrainian drone hits home in southern Russia, killing two children and injuring their parents, officials say.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "No military objective can justify massacre of Minab schoolgirls: Top rights official",
@@ -569,17 +580,6 @@
    "url": "https://www.aljazeera.com/news/2026/8/21/several-people-injured-in-sword-attack-at-swedish-school?traffic_source=rss",
    "published": "2026-08-21T13:48:09+00:00",
    "summary": "One person has been taken into custody after the attack at a high school in Fagersta, local authorities said.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Ebola outbreak ‘growing faster, ⁠⁠wider’ as DRC death toll passes 2,500: UN",
-   "url": "https://www.aljazeera.com/news/2026/8/21/ebola-outbreak-growing-faster-%e2%81%a0%e2%81%a0wider-as-drc-death-toll-passes-2500-un?traffic_source=rss",
-   "published": "2026-08-21T13:30:36+00:00",
-   "summary": "Epidemic remains out of control amid DR Congo conflict, funding shortages and attacks on health workers and facilities",
    "tags": [
     "strikes"
    ],
