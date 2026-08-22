@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-22T07:38:39.229343+00:00",
+ "asOf": "2026-08-22T07:55:45.684658+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran calls US new sanctions assertion of extraterritorial sovereignty over independent UN member states",
+   "url": "https://en.irna.ir/news/86241889/Iran-calls-US-new-sanctions-assertion-of-extraterritorial-sovereignty",
+   "published": "2026-08-22T07:46:36+00:00",
+   "summary": "Tehran, IRNA – Iranian Foreign Ministry spokesperson Esmaeil Baqaei has criticized the United States’ latest economic sanctions against Iran, describing the measure as “an assertion of extraterritorial sovereignty over every independent Member State of the United Nations.”",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Tehran, Muscat discuss resuming dialogue, shipping in Strait of Hormuz",
@@ -600,15 +611,6 @@
    "url": "https://www.whitehouse.gov/releases/2026/08/president-trumps-cabinet-champions-america-first-successes-nationwide/",
    "published": "2026-08-20T20:43:03+00:00",
    "summary": "From the heartland to the coasts, members of President Donald J. Trump’s Cabinet are on the ground across the nation to engage with Americans and showcase the Administration’s signature achievements. From energy dominance and infrastructure modernization to manufacturing growth, veterans’ care, and border security, these visits deliver an unmistakable message: the America First agenda is [&#8230;]",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "$2 Million Donation Expands First Lady Melania Trump’s Fostering the Future Initiative to Indiana University and Purdue University",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/08/2-million-donation-expands-first-lady-melania-trumps-fostering-the-future-initiative-to-indiana-university-and-purdue-university/",
-   "published": "2026-08-20T20:41:41+00:00",
-   "summary": "First Lady Melania Trump’s Fostering the Future initiative will expand its national network through a $2 million donation from IndyCar and Fox Corporation to fund scholarships at Indiana University and Purdue University. First Lady Melania Trump drew attention to America’s next generation during today’s Rose Garden ceremony: “America&#8217;s greatest competitive advantage remains in its own [&#823",
    "tags": [],
    "highlight": false
   }
