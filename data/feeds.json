@@ -1,6 +1,18 @@
 {
- "asOf": "2026-08-22T05:55:07.330409+00:00",
+ "asOf": "2026-08-22T06:15:07.693421+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Tehran, Muscat discuss resuming dialogue, shipping in Strait of Hormuz",
+   "url": "https://en.irna.ir/news/86241785/Tehran-Muscat-discuss-resuming-dialogue-shipping-in-Strait",
+   "published": "2026-08-22T06:10:23+00:00",
+   "summary": "Tehran, IRNA – Iran’s Foreign Minister Abbas Araghchi has held a phone conversation with his Omani counterpart Seyyed Badr Albusaidi on the revival of talks and maritime navigation in the Strategic Strait of Hormuz.",
+   "tags": [
+    "diplomacy",
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Palestinian teen shot and killed in West Bank attack, UN responds",
@@ -598,17 +610,6 @@
    "published": "2026-08-20T20:41:41+00:00",
    "summary": "First Lady Melania Trump’s Fostering the Future initiative will expand its national network through a $2 million donation from IndyCar and Fox Corporation to fund scholarships at Indiana University and Purdue University. First Lady Melania Trump drew attention to America’s next generation during today’s Rose Garden ceremony: “America&#8217;s greatest competitive advantage remains in its own [&#823",
    "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Yemen reports drone attack on Aramco refinery in Saudi Arabia",
-   "url": "https://en.irna.ir/news/86241130/Yemen-reports-drone-attack-on-Aramco-refinery-in-Saudi-Arabia",
-   "published": "2026-08-20T20:24:21+00:00",
-   "summary": "Tehran, IRNA – The Yemeni Armed Forces spokesperson, General Yahya Saree, has in a statement announced new military operations against Saudi Arabia, targeting an Aramco facility and an airport in Najran province.",
-   "tags": [
-    "strikes"
-   ],
    "highlight": false
   }
  ]
