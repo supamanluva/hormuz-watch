@@ -1,5 +1,5 @@
 {
- "asOf": "2026-08-22T08:14:09.292189+00:00",
+ "asOf": "2026-08-22T08:39:32.751544+00:00",
  "items": [
   {
    "source": "IRNA (Iran state wire)",
@@ -9,6 +9,28 @@
    "summary": "Moscow, IRNA – Iran and Russia are nearing the signing of an executive contract for the construction of the Rasht-Astara railway, a key project under the International North-South Transport Corridor, Iranian Ambassador to Russia Kazem Jalali says.",
    "tags": [
     "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "How will Trump’s tariffs affect Canada’s economy?",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/how-will-trumps-tariffs-affect-canadas-economy?traffic_source=rss",
+   "published": "2026-08-22T08:01:55+00:00",
+   "summary": "US imposes 50% tariffs on key Canadian sectors after talks collapse, but unlikely to cripple Canada&#039;s economy.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Panama Canal to reduce shipping as ‘extreme’ El Nino approaches",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/panama-canal-to-reduce-shipping-as-extreme-el-nino-approaches?traffic_source=rss",
+   "published": "2026-08-22T08:00:30+00:00",
+   "summary": "Panama Canal will cut daily transits from 40 to 32 vessels by September 15, risking slower shipping and higher costs.",
+   "tags": [
+    "shipping"
    ],
    "highlight": false
   },
@@ -130,13 +152,13 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "Iran war live: Trump says he views Strait of Hormuz as ‘American territory’",
+   "title": "Iran war live: Tehran says US sanctions ‘declaration of war’ on all nations",
    "url": "https://www.aljazeera.com/news/liveblog/2026/8/22/iran-war-live-trump-says-tehran-not-ready-to-make-right-deal-to-end-war?traffic_source=rss",
    "published": "2026-08-22T00:00:00+00:00",
    "summary": "US president says Iran &#039;would love to make a deal, but they’re not ready to make the right deal in my opinion&#039;.",
    "tags": [
-    "diplomacy",
-    "shipping"
+    "sanctions",
+    "diplomacy"
    ],
    "highlight": false
   },
@@ -560,28 +582,6 @@
    "summary": "The US Treasury labels Lebanon-based group &#039;an extension&#039; of the IRGC&#039;s Quds Force and takes aim at financing.",
    "tags": [
     "sanctions"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Closure of al-Makha port leaves workers and traders fearing for the future",
-   "url": "https://www.aljazeera.com/economy/2026/8/21/houthi-attacks-on-mokha-port-forced-it-to-suspend-operations-leaving-workers-jobless?traffic_source=rss",
-   "published": "2026-08-21T11:15:54+00:00",
-   "summary": "Houthi attacks on al-Makha port forced it to suspend operations, leaving workers without jobs and traders concerned.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Who does the law serve in the occupied West Bank?",
-   "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/8/21/who-does-the-law-serve-in-the-occupied-west-bank?traffic_source=rss",
-   "published": "2026-08-21T11:12:32+00:00",
-   "summary": "Israeli settlers attack six times a day in the occupied West Bank. AJLabs looks at how Palestinian land is taken.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   },
