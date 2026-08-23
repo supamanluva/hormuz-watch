@@ -1,6 +1,28 @@
 {
- "asOf": "2026-08-23T21:12:59.771053+00:00",
+ "asOf": "2026-08-23T21:52:48.199897+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Will Donald Trump’s new sanctions against Iran work?",
+   "url": "https://www.aljazeera.com/video/inside-story/2026/8/23/will-donald-trumps-new-sanctions-against-iran-work?traffic_source=rss",
+   "published": "2026-08-23T21:34:53+00:00",
+   "summary": "The US president says he will impose &#039;crushing measures&#039; on Tehran.",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "US envoy Tom Barrack retracts comment that Syria’s Golan is occupied",
+   "url": "https://www.aljazeera.com/news/2026/8/23/us-envoy-tom-barrack-retracts-comment-that-syrias-golan-is-occupied?traffic_source=rss",
+   "published": "2026-08-23T21:23:05+00:00",
+   "summary": "Ambassador to Turkiye says US policy of recognising Israel&#039;s claimed sovereignty over Syrian territory is &#039;unchanged&#039;.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Persian Gulf Strait Authority warns violating ships will face ‘fines, detention, confiscation’",
@@ -533,33 +555,11 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "Iran says new US sanctions violate sovereignty of other states",
-   "url": "https://www.aljazeera.com/news/2026/8/22/iran-says-new-us-sanctions-violate-sovereignty-of-other-states?traffic_source=rss",
-   "published": "2026-08-22T09:14:09+00:00",
-   "summary": "Foreign Ministry spokesman Esmaeil Baghaei slams Trump&#039;s latest threat as a return to &#039;full-scale classic colonialism&#039;.",
-   "tags": [
-    "sanctions"
-   ],
-   "highlight": false
-  },
-  {
    "source": "IRNA (Iran state wire)",
    "title": "Iran, Russia near signing executive contract for Rasht-Astara railway: Envoy",
    "url": "https://en.irna.ir/news/86241929/Iran-Russia-near-signing-executive-contract-for-Rasht-Astara",
    "published": "2026-08-22T08:09:18+00:00",
    "summary": "Moscow, IRNA – Iran and Russia are nearing the signing of an executive contract for the construction of the Rasht-Astara railway, a key project under the International North-South Transport Corridor, Iranian Ambassador to Russia Kazem Jalali says.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "How will Trump’s tariffs affect Canada’s economy?",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/how-will-trumps-tariffs-affect-canadas-economy?traffic_source=rss",
-   "published": "2026-08-22T08:01:55+00:00",
-   "summary": "US imposes 50% tariffs on key Canadian sectors after talks collapse, but unlikely to cripple Canada&#039;s economy.",
    "tags": [
     "diplomacy"
    ],
