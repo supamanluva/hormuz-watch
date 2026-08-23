@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-23T13:20:14.342559+00:00",
+ "asOf": "2026-08-23T13:39:06.584526+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Heavy Israeli air strike hits warehouse in central Gaza",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/heavy-israeli-air-strike-hits-warehouse-in-central-gaza?traffic_source=rss",
+   "published": "2026-08-23T13:20:57+00:00",
+   "summary": "Heavy Israeli air strike hits warehouse in central Gaza",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Iran won’t let ‘a drop of oil’ leave Persian Gulf if US blockade continues: Top security official",
@@ -528,17 +539,6 @@
    "summary": "Canadian prime minister says country will match tariffs &#039;dollar for dollar&#039; after failure to secure US trade agreement.",
    "tags": [
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "US judge strikes down Trump immigrant visa ban affecting 75 countries",
-   "url": "https://www.aljazeera.com/news/2026/8/22/us-judge-strikes-down-trump-immigrant-visa-ban-affecting-75-countries?traffic_source=rss",
-   "published": "2026-08-22T03:19:58+00:00",
-   "summary": "A federal judge in Manhattan ruled against the State Department&#039;s suspension of immigrant visas.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   },
