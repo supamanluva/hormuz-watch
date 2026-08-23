@@ -1,6 +1,28 @@
 {
- "asOf": "2026-08-23T15:13:21.076919+00:00",
+ "asOf": "2026-08-23T15:53:25.110352+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Iran government signals fuel price hike on eve of new US sanctions",
+   "url": "https://www.aljazeera.com/economy/2026/8/23/iran-government-signals-fuel-price-hike-on-eve-of-new-us-sanctions?traffic_source=rss",
+   "published": "2026-08-23T15:38:16+00:00",
+   "summary": "Prices for food and other items are soaring, and there is a history of unrest, so any increase is being considered.",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Pezeshkian says Iran ‘has not become Venezuela’ despite war and sanctions",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/23-08-clip-pezeshkian-iran-ir-fm?traffic_source=rss",
+   "published": "2026-08-23T15:25:47+00:00",
+   "summary": "Iranian President Masoud Pezeshkian says Iran has stood firm despite what he calls a full-scale war.",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Araghchi says US has no choice but to engage Iran with respect",
@@ -156,7 +178,7 @@
    "title": "Israel kills 3 Palestinians, including four-year-old child, in central Gaza",
    "url": "https://www.aljazeera.com/news/2026/8/23/israeli-air-strike-near-gaza-refugee-camp-kills-one-person-and-injures-two?traffic_source=rss",
    "published": "2026-08-23T09:43:47+00:00",
-   "summary": "Air attack on az-Zawayda town kill two Palestinians, while another strike kills one person at Nuseirat refugee camp.",
+   "summary": "Air attack on az-Zawayda town kills two Palestinians, while another strike kills one person in Nuseirat refugee camp.",
    "tags": [
     "strikes"
    ],
@@ -533,17 +555,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "Libya’s brain drain, 15 years after Tripoli fell",
-   "url": "https://www.aljazeera.com/news/2026/8/22/young-want-to-leave-libyas-brain-drain-15-years-after-tripoli-fell?traffic_source=rss",
-   "published": "2026-08-22T07:41:10+00:00",
-   "summary": "Professionals who left a country in turmoil say they are unlikely to return as more in Libya could be planning to leave.",
-   "tags": [
-    "oil"
-   ],
-   "highlight": false
-  },
-  {
    "source": "IRNA (Iran state wire)",
    "title": "Tehran, Muscat discuss resuming dialogue, shipping in Strait of Hormuz",
    "url": "https://en.irna.ir/news/86241785/Tehran-Muscat-discuss-resuming-dialogue-shipping-in-Strait",
@@ -552,17 +563,6 @@
    "tags": [
     "diplomacy",
     "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Palestinian teen shot and killed in West Bank attack, UN responds",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/palestinian-teen-shot-and-killed-in-west-bank-attack-un-responds?traffic_source=rss",
-   "published": "2026-08-22T04:30:20+00:00",
-   "summary": "A 17-year-old Palestinian was killed and another person critically injured in a settler attack in the occupied West Bank",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   },
