@@ -1,6 +1,39 @@
 {
- "asOf": "2026-08-23T07:56:21.326026+00:00",
+ "asOf": "2026-08-23T08:56:59.023003+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Pakistan army chief to visit Tehran for talks on regional peace",
+   "url": "https://en.irna.ir/news/86243134/Pakistan-army-chief-to-visit-Tehran-for-talks-on-regional-peace",
+   "published": "2026-08-23T08:43:24+00:00",
+   "summary": "Tehran, IRNA – Pakistan’s Army Chief Field Marshal Asim Munir will travel to Tehran on Monday at the head of an official delegation, Iranian Foreign Ministry spokesperson Esmail Baqaei has announced.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "President Pezeshkian: Iran’s unity surprised world, foiled adversaries’ plans",
+   "url": "https://en.irna.ir/news/86242983/President-Pezeshkian-Iran-s-unity-surprised-world-foiled-adversaries",
+   "published": "2026-08-23T08:31:25+00:00",
+   "summary": "Tehran, IRNA — President Masoud Pezeshkian has praised the Iranian people for maintaining national unity amid an unequal military, economic and security confrontation, saying the country’s resilience had surprised the world and frustrated its enemies’ plans.",
+   "tags": [
+    "oil"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "DR Congo, M23 rebels agree on roadmap for peace talks",
+   "url": "https://www.aljazeera.com/news/2026/8/23/dr-congo-m23-rebels-agree-on-roadmap-for-peace-talks?traffic_source=rss",
+   "published": "2026-08-23T08:03:41+00:00",
+   "summary": "Roadmap sets out steps, timelines for talks to end fighting that has killed thousands and displaced millions.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "President Pezeshkian renews allegiance to Imam Khomeini’s Ideals",
@@ -540,17 +573,6 @@
    "highlight": true
   },
   {
-   "source": "Al Jazeera",
-   "title": "Western allies slam Israel for ending World Central Kitchen strike probe",
-   "url": "https://www.aljazeera.com/news/2026/8/21/western-allies-slam-israel-for-ending-world-central-kitchen-strike-probe?traffic_source=rss",
-   "published": "2026-08-21T20:03:35+00:00",
-   "summary": "UK, Australia and Canada call Israel’s decision not to investigate deadly 2024 strike on a Gaza aid convoy &#039;shameful&#039;.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
    "source": "White House",
    "title": "President Trump and Republicans Deliver for South Carolina Families",
    "url": "https://www.whitehouse.gov/releases/2026/08/president-trump-and-republicans-deliver-for-south-carolina-families/",
@@ -594,28 +616,6 @@
    "summary": "Dr. Sebastian Gorka: “Kevin Rideout, the Christian Missionary taken by ISIS, was reunited with his wife. See pictures below. He sounds incredibly good and wouldn’t stop saying how grateful he is to President Trump. (He even shared that he kept singing in his head the song ‘Proud to be an American!’ when he knew he would be coming home.”",
    "tags": [],
    "highlight": true
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Araghchi to Trump: We have seen this movie before",
-   "url": "https://en.irna.ir/news/86241602/Araghchi-to-Trump-We-have-seen-this-movie-before",
-   "published": "2026-08-21T16:47:49+00:00",
-   "summary": "Tehran, IRNA – Foreign Minister Abbas Araghchi responded to Washington’s latest move — described as “the most crushing sanctions in human history” — by sharing a 14-year-old post from a former US president regarding “the most crippling sanctions in history.”",
-   "tags": [
-    "sanctions"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Georgia refuses to join EU’s anti-Iran sanctions",
-   "url": "https://en.irna.ir/news/86241579/Georgia-refuses-to-join-EU-s-anti-Iran-sanctions",
-   "published": "2026-08-21T15:46:20+00:00",
-   "summary": "Tehran, IRNA – Georgia has declined to accept the European Union’s new sanctions against Iran.",
-   "tags": [
-    "sanctions"
-   ],
-   "highlight": false
   }
  ]
 }
