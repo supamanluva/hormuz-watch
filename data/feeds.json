@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-23T10:13:14.311295+00:00",
+ "asOf": "2026-08-23T10:36:24.554563+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Israeli air strike near Gaza refugee camp kills one person and injures two",
+   "url": "https://www.aljazeera.com/news/2026/8/23/israeli-air-strike-near-gaza-refugee-camp-kills-one-person-and-injures-two?traffic_source=rss",
+   "published": "2026-08-23T09:43:47+00:00",
+   "summary": "Israeli air attack near Gaza&#039;s Maghazi camp kills one person and injures two others.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "37 injured as magnitude 5.9 earthquake strikes eastern Japan",
@@ -496,18 +507,6 @@
    "summary": "More than 100 people were in the monastery for a religious retreat, according to a local resident.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Trump: ‘We’re seeing what happens’ on sanctions for Iran",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/pakistans-imran-khan-back-to-prison-after-evaluation-at-hospital?traffic_source=rss",
-   "published": "2026-08-21T23:19:37+00:00",
-   "summary": "Donald Trump repeated claims that Iran is weakened economically and militarily and ‘would love’ to make a deal.",
-   "tags": [
-    "sanctions",
-    "diplomacy"
    ],
    "highlight": false
   },
