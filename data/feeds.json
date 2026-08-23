@@ -1,6 +1,55 @@
 {
- "asOf": "2026-08-23T13:03:08.411722+00:00",
+ "asOf": "2026-08-23T13:20:14.342559+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran won’t let ‘a drop of oil’ leave Persian Gulf if US blockade continues: Top security official",
+   "url": "https://en.irna.ir/photo/86243506/Iran-won-t-let-a-drop-of-oil-leave-Persian-Gulf-if-US-blockade",
+   "published": "2026-08-23T13:12:14+00:00",
+   "summary": "Iran’s top security official warns that Tehran will not allow a single drop of oil to leave the Persian Gulf if US-led economic pressure escalates.",
+   "tags": [
+    "oil"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "RT @realDonaldTrumpCanada wants the benefits of being a State, without being one!!! They have also charged our great farmers, for many years, massive amounts of Tariffs. No more!!! President DJT",
+   "url": "https://trumpstruth.org/statuses/41129",
+   "published": "2026-08-23T13:11:09+00:00",
+   "summary": "RT @ realDonaldTrump Canada wants the benefits of being a State, without being one!!! They have also charged our great farmers, for many years, massive amounts of Tariffs. No more!!! President DJT",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "RT @realDonaldTrump",
+   "url": "https://trumpstruth.org/statuses/41130",
+   "published": "2026-08-23T13:11:03+00:00",
+   "summary": "RT @ realDonaldTrump",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "[No Title] - Post from August 23, 2026",
+   "url": "https://trumpstruth.org/statuses/41131",
+   "published": "2026-08-23T13:10:47+00:00",
+   "summary": "",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Dozens of attacks in southern Thailand wound three people",
+   "url": "https://www.aljazeera.com/news/2026/8/23/dozens-of-attacks-in-southern-thailand-wound-three-people?traffic_source=rss",
+   "published": "2026-08-23T13:08:37+00:00",
+   "summary": "Many local government offices and several vehicles were damaged or destroyed in the 51 attacks late on Saturday.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Iran announces discovery of major new hydrocarbon reserves",
@@ -521,17 +570,6 @@
    "highlight": true
   },
   {
-   "source": "Al Jazeera",
-   "title": "Iranian president says time to end war with US from ‘position of strength’",
-   "url": "https://www.aljazeera.com/news/2026/8/22/iranian-president-says-time-to-end-war-with-us-from-position-of?traffic_source=rss",
-   "published": "2026-08-22T00:59:37+00:00",
-   "summary": "Omani and Iranian foreign ministers hold a call as Washington prepares economic sanctions.",
-   "tags": [
-    "sanctions"
-   ],
-   "highlight": false
-  },
-  {
    "source": "Trump · Truth Social",
    "title": "RT @realDonaldTrumpI’m getting ready to land in the Great State of South Carolina where I’ll be doing a Rally, in honor of Lindsey Graham, for his fantastic sister, Darline, who, after knowing her for many years, I asked to run for the United States Senate, and take Lindsey’s place. See you soon! President DONALD J. TRUMP",
    "url": "https://trumpstruth.org/statuses/41113",
@@ -582,42 +620,6 @@
    "url": "https://trumpstruth.org/statuses/41110",
    "published": "2026-08-21T21:13:13+00:00",
    "summary": "EXCLUSIVE: Fentanyl deaths plunge 22% as Trump White House touts crackdown on deadly drug crisis: https://www. foxnews.com/politics/exclusive -fentanyl-deaths-plunge-22-trump-white-house-touts-crackdown-deadly-drug-crisis",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from August 21, 2026",
-   "url": "https://trumpstruth.org/statuses/41111",
-   "published": "2026-08-21T21:12:14+00:00",
-   "summary": "https://www. bloomberg.com/news/articles/20 26-08-21/us-business-activity-expands-at-the-fastest-pace-since-2022",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "We are grateful for the Decision of the United States Supreme Court. The Military/Ballroom Complex being built on the hallowed grounds of the White House, which is so vital for National Security, will be THE GREATEST OF ITS KIND! It is something that Presidents have wanted for 150 years, and that the Military has been seeking for the last 100 years. Their wish will soon be fulfilled! Construction is under budget and ahead of schedule. Thank you for your attention to this matter! President DONALD J. TRUMP",
-   "url": "https://trumpstruth.org/statuses/41108",
-   "published": "2026-08-21T20:23:00+00:00",
-   "summary": "We are grateful for the Decision of the United States Supreme Court. The Military/Ballroom Complex being built on the hallowed grounds of the White House, which is so vital for National Security, will be THE GREATEST OF ITS KIND! It is something that Presidents have wanted for 150 years, and that the Military has been seeking for the last 100 years. Their wish will soon be fulfilled! Construction ",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "White House",
-   "title": "President Trump and Republicans Deliver for South Carolina Families",
-   "url": "https://www.whitehouse.gov/releases/2026/08/president-trump-and-republicans-deliver-for-south-carolina-families/",
-   "published": "2026-08-21T20:00:54+00:00",
-   "summary": "Today, President Donald J. Trump returns to South Carolina to celebrate the powerful results of America First leadership. Under President Trump and Republicans, South Carolina is thriving: the largest tax cuts for working families in a generation, the most secure border in history, plunging crime rates, unleashed American energy, and a surge of private investment [&#8230;] The post President Trump",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Work on Trump White House ballroom can continue, Supreme Court Chief Justice John Roberts rules:",
-   "url": "https://trumpstruth.org/statuses/41107",
-   "published": "2026-08-21T18:53:58+00:00",
-   "summary": "Work on Trump White House ballroom can continue, Supreme Court Chief Justice John Roberts rules: https:// nypost.com/2026/08/21/us-news/ work-on-trump-white-house-ballroom-can-continue-supreme-court-chief-justice-john-roberts/",
    "tags": [],
    "highlight": true
   }
