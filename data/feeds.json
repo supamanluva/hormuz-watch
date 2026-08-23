@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-23T05:38:10.769727+00:00",
+ "asOf": "2026-08-23T05:55:40.144485+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "President Pezeshkian renews allegiance to Imam Khomeini’s Ideals",
+   "url": "https://en.irna.ir/news/86242823/President-Pezeshkian-renews-allegiance-to-Imam-Khomeini-s-Ideals",
+   "published": "2026-08-23T05:44:21+00:00",
+   "summary": "Tehran, IRNA – Iranian President Masoud Pezeshkian and members of his administration have renewed their allegiance to the ideals of Imam Khomeini, the founder of the Islamic Republic, and the martyrs of the Islamic Revolution.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "Canada wants the benefits of being a State, without being one!!! They have also charged our great farmers, for many years, massive amounts of Tariffs. No more!!! President DJT",
@@ -601,17 +612,6 @@
    "url": "https://en.irna.ir/news/86241579/Georgia-refuses-to-join-EU-s-anti-Iran-sanctions",
    "published": "2026-08-21T15:46:20+00:00",
    "summary": "Tehran, IRNA – Georgia has declined to accept the European Union’s new sanctions against Iran.",
-   "tags": [
-    "sanctions"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Beijing terms US sanctions against Iran as illegal",
-   "url": "https://en.irna.ir/news/86241482/Beijing-terms-US-sanctions-against-Iran-as-illegal",
-   "published": "2026-08-21T12:41:54+00:00",
-   "summary": "Tehran, IRNA – Chinese Foreign Ministry Spokesperson Lin Jian has offered China’s opposition to illegal unilateral sanctions that have no basis in international law and are not authorized by the UN Security Council.",
    "tags": [
     "sanctions"
    ],
