@@ -1,6 +1,28 @@
 {
- "asOf": "2026-08-23T12:14:09.720263+00:00",
+ "asOf": "2026-08-23T12:41:20.255956+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran announces discovery of major new hydrocarbon reserves",
+   "url": "https://en.irna.ir/news/86243382/Iran-announces-discovery-of-major-new-hydrocarbon-reserves",
+   "published": "2026-08-23T12:34:53+00:00",
+   "summary": "Tehran, IRNA – Iranian Oil Minister Mohsen Paknejad announces the discovery of major new hydrocarbon reserves in the country, describing the finds as a significant asset for Iran’s future energy needs.",
+   "tags": [
+    "oil"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Can Iran retaliate against countries that join US ‘economic war’?",
+   "url": "https://www.aljazeera.com/news/2026/8/23/can-iran-retaliate-against-countries-that-join-us-economic-war?traffic_source=rss",
+   "published": "2026-08-23T11:50:22+00:00",
+   "summary": "Iran warns that countries backing US economic sanctions will be considered an enemy of Tehran.",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Explosion injures 13 in Taiwan",
@@ -510,17 +532,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "Several killed in Russia’s ‘double-tap’ drone strike on Ukraine mall",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/several-killed-in-russias-double-tap-drone-strike-on-ukraine-mall?traffic_source=rss",
-   "published": "2026-08-22T00:06:48+00:00",
-   "summary": "Ukraine’s president accuses Russia of a ‘cowardly and deliberate’ attack on a mall in his hometown of Kryvyi Rih.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
    "source": "Trump · Truth Social",
    "title": "RT @realDonaldTrumpI’m getting ready to land in the Great State of South Carolina where I’ll be doing a Rally, in honor of Lindsey Graham, for his fantastic sister, Darline, who, after knowing her for many years, I asked to run for the United States Senate, and take Lindsey’s place. See you soon! President DONALD J. TRUMP",
    "url": "https://trumpstruth.org/statuses/41113",
@@ -607,15 +618,6 @@
    "url": "https://trumpstruth.org/statuses/41107",
    "published": "2026-08-21T18:53:58+00:00",
    "summary": "Work on Trump White House ballroom can continue, Supreme Court Chief Justice John Roberts rules: https:// nypost.com/2026/08/21/us-news/ work-on-trump-white-house-ballroom-can-continue-supreme-court-chief-justice-john-roberts/",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Ed Martin has been with me from the very beginning, and done an incredible job as an Attorney, Director of the Weaponization Working Group, and the United States Attorney for the District of Columbia. Ed is now leaving to go outside to fight Legal Battles for the upcoming Midterm Election, and the Presidential Election of 2028. I know he will do an outstanding job, ensure Free, Fair, and Honest Elections, and strongly advance our Constitutional Rights. Good luck Ed! President DONALD J. TRUMP",
-   "url": "https://trumpstruth.org/statuses/41106",
-   "published": "2026-08-21T18:27:39+00:00",
-   "summary": "Ed Martin has been with me from the very beginning, and done an incredible job as an Attorney, Director of the Weaponization Working Group, and the United States Attorney for the District of Columbia. Ed is now leaving to go outside to fight Legal Battles for the upcoming Midterm Election, and the Presidential Election of 2028. I know he will do an outstanding job, ensure Free, Fair, and Honest El",
    "tags": [],
    "highlight": true
   }
