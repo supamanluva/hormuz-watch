@@ -1,9 +1,31 @@
 {
- "asOf": "2026-08-23T16:13:18.020218+00:00",
+ "asOf": "2026-08-23T16:37:38.549743+00:00",
  "items": [
   {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran MPs approve service fees for ships transiting Strait of Hormuz",
+   "url": "https://en.irna.ir/news/86243644/Iran-MPs-approve-service-fees-for-ships-transiting-Strait-of",
+   "published": "2026-08-23T16:25:56+00:00",
+   "summary": "Tehran, IRNA – The spokesperson for the Iranian Parliament’s National Security and Foreign Policy Commission, Hassan Ghashghavi, announced the approval of Article 3 of the “Strategic Action Plan for Security and Development of the Strait of Hormuz” during a Sunday session of the commission.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
    "source": "Al Jazeera",
-   "title": "Iran government signals fuel price hike on eve of new US sanctions",
+   "title": "French President Macron to host Saudi Crown Prince MBS in Paris for talks",
+   "url": "https://www.aljazeera.com/economy/2026/8/23/french-president-macron-to-host-saudi-crown-prince-mbs-in-paris-for-talks?traffic_source=rss",
+   "published": "2026-08-23T16:12:55+00:00",
+   "summary": "Energy, regional conflicts, and bilateral cooperation to dominate Emmanuel Macron and Mohammed bin Salman&#039;s discussions.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Iran’s government signals fuel price hike on eve of new US sanctions",
    "url": "https://www.aljazeera.com/economy/2026/8/23/iran-government-signals-fuel-price-hike-on-eve-of-new-us-sanctions?traffic_source=rss",
    "published": "2026-08-23T15:38:16+00:00",
    "summary": "Prices for food and other items are soaring, and there is a history of unrest, so any increase is being considered.",
@@ -533,17 +555,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "Panama Canal to reduce shipping as ‘extreme’ El Nino approaches",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/panama-canal-to-reduce-shipping-as-extreme-el-nino-approaches?traffic_source=rss",
-   "published": "2026-08-22T08:00:30+00:00",
-   "summary": "Panama Canal will cut daily transits from 40 to 32 vessels by September 15, risking slower shipping and higher costs.",
-   "tags": [
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
    "source": "IRNA (Iran state wire)",
    "title": "Iran calls US new sanctions assertion of extraterritorial sovereignty over independent UN member states",
    "url": "https://en.irna.ir/news/86241889/Iran-calls-US-new-sanctions-assertion-of-extraterritorial-sovereignty",
@@ -617,15 +628,6 @@
    "url": "https://trumpstruth.org/statuses/41115",
    "published": "2026-08-21T22:11:44+00:00",
    "summary": "",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "I’m getting ready to land in the Great State of South Carolina where I’ll be doing a Rally, in honor of Lindsey Graham, for his fantastic sister, Darline, who, after knowing her for many years, I asked to run for the United States Senate, and take Lindsey’s place. See you soon! President DONALD J. TRUMP",
-   "url": "https://trumpstruth.org/statuses/41112",
-   "published": "2026-08-21T22:07:32+00:00",
-   "summary": "I’m getting ready to land in the Great State of South Carolina where I’ll be doing a Rally, in honor of Lindsey Graham, for his fantastic sister, Darline, who, after knowing her for many years, I asked to run for the United States Senate, and take Lindsey’s place. See you soon! President DONALD J. TRUMP",
    "tags": [],
    "highlight": true
   }
