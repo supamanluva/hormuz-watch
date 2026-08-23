@@ -1,5 +1,5 @@
 {
- "asOf": "2026-08-23T04:40:46.810050+00:00",
+ "asOf": "2026-08-23T04:58:21.090242+00:00",
  "items": [
   {
    "source": "Trump · Truth Social",
@@ -9,6 +9,17 @@
    "summary": "Mark Levin: These blue states are sabotaging you: https://www. foxnews.com/video/640389637611 2",
    "tags": [],
    "highlight": true
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Iran warns of retaliation against countries joining US ‘economic war’",
+   "url": "https://www.aljazeera.com/news/2026/8/22/iran-warns-nearby-nations-against-joining-us-economic-war-efforts?traffic_source=rss",
+   "published": "2026-08-22T23:26:15+00:00",
+   "summary": "Warning comes after Trump said he will impose &#039;most crushing&#039; sanctions to isolate Iran and weaken its government.",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
   },
   {
    "source": "Trump · Truth Social",
@@ -526,17 +537,6 @@
    "published": "2026-08-21T20:00:54+00:00",
    "summary": "Today, President Donald J. Trump returns to South Carolina to celebrate the powerful results of America First leadership. Under President Trump and Republicans, South Carolina is thriving: the largest tax cuts for working families in a generation, the most secure border in history, plunging crime rates, unleashed American energy, and a surge of private investment [&#8230;] The post President Trump",
    "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Trump waives ‘out-of-quota’ beef tariffs for 90 days to lower prices",
-   "url": "https://www.aljazeera.com/news/2026/8/21/trump-waives-out-of-quota-beef-tariffs-for-90-days-to-lower-prices?traffic_source=rss",
-   "published": "2026-08-21T19:42:51+00:00",
-   "summary": "The president did not mention with whom he made the deal or where the imported ground beef is coming from.",
-   "tags": [
-    "diplomacy"
-   ],
    "highlight": false
   },
   {
