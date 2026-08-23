@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-23T09:37:36.063727+00:00",
+ "asOf": "2026-08-23T09:54:19.061688+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "37 injured as magnitude 5.9 earthquake strikes eastern Japan",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/37-injured-as-magnitude-5-9-earthquake-strikes-eastern-japan?traffic_source=rss",
+   "published": "2026-08-23T09:21:12+00:00",
+   "summary": "37 injured as magnitude 5.9 earthquake strikes eastern Japan",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "President Pezeshkian, cabinet renew allegiance to Imam Khomeini’s ideals",
@@ -535,17 +546,6 @@
    "summary": "I’m getting ready to land in the Great State of South Carolina where I’ll be doing a Rally, in honor of Lindsey Graham, for his fantastic sister, Darline, who, after knowing her for many years, I asked to run for the United States Senate, and take Lindsey’s place. See you soon! President DONALD J. TRUMP",
    "tags": [],
    "highlight": true
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "One killed, three wounded in sword attack at Swedish high school",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/08-21-2026-sweden-sword-attack-clip?traffic_source=rss",
-   "published": "2026-08-21T21:23:35+00:00",
-   "summary": "One person has been killed and three others wounded in an attack by a sword-wielding man at a Swedish high school.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
   },
   {
    "source": "Trump · Truth Social",
