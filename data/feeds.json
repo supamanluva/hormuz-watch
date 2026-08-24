@@ -1,6 +1,28 @@
 {
- "asOf": "2026-08-24T10:40:51.662260+00:00",
+ "asOf": "2026-08-24T10:58:55.376321+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran to use all avenues, capacities to counter US economic war: Baqaei",
+   "url": "https://en.irna.ir/news/86244432/Iran-to-use-all-avenues-capacities-to-counter-US-economic-war",
+   "published": "2026-08-24T10:54:17+00:00",
+   "summary": "Tehran, IRNA — Foreign Ministry spokesperson Esmail Baqaei referred to the continued illegal and unjust American sanctions against the country, saying Iran will definitely use all its bilateral and multilateral capabilities to counter the economic war launched by Washington.",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "US threatens toughest sanctions yet against Iran: What we know",
+   "url": "https://www.aljazeera.com/news/2026/8/24/us-threatens-toughest-sanctions-yet-against-iran-what-we-know?traffic_source=rss",
+   "published": "2026-08-24T10:23:11+00:00",
+   "summary": "Tehran has threatened to retaliate against any country that joins new US economic measures.",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Iran: Hormuz oil transit figures are mere propaganda, not facts",
@@ -597,28 +619,6 @@
    "summary": "Tehran, IRNA — President Masoud Pezeshkian has praised the Iranian people for maintaining national unity amid an unequal military, economic and security confrontation, saying the country’s resilience had surprised the world and frustrated its enemies’ plans.",
    "tags": [
     "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "DR Congo, M23 rebels agree on roadmap for peace talks",
-   "url": "https://www.aljazeera.com/news/2026/8/23/dr-congo-m23-rebels-agree-on-roadmap-for-peace-talks?traffic_source=rss",
-   "published": "2026-08-23T08:03:41+00:00",
-   "summary": "Roadmap sets out steps, timelines for talks to end fighting that has killed thousands and displaced millions.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "President Pezeshkian renews allegiance to Imam Khomeini’s Ideals",
-   "url": "https://en.irna.ir/news/86242823/President-Pezeshkian-renews-allegiance-to-Imam-Khomeini-s-Ideals",
-   "published": "2026-08-23T05:44:21+00:00",
-   "summary": "Tehran, IRNA – Iranian President Masoud Pezeshkian and members of his administration have renewed their allegiance to the ideals of Imam Khomeini, the founder of the Islamic Republic, and the martyrs of the Islamic Revolution.",
-   "tags": [
-    "diplomacy"
    ],
    "highlight": false
   }
