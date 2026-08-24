@@ -1,6 +1,28 @@
 {
- "asOf": "2026-08-24T20:14:17.624070+00:00",
+ "asOf": "2026-08-24T20:39:47.445321+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Violence flares in Haiti as gang attack kills 30 people",
+   "url": "https://www.aljazeera.com/news/2026/8/24/violence-flares-in-haiti-as-gang-attack-kills-30-people?traffic_source=rss",
+   "published": "2026-08-24T20:23:39+00:00",
+   "summary": "Island nation grapples with violence as it seeks to hold first elections in more than a decade.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "President Pezeshkian: US coercion and bullying will not work",
+   "url": "https://en.irna.ir/news/86244929/President-Pezeshkian-US-coercion-and-bullying-will-not-work",
+   "published": "2026-08-24T20:21:41+00:00",
+   "summary": "Tehran, IRNA – Iranian President Masoud Pezeshkian and Pakistani Army Chief Asim Munir have stressed the need for a shift in US policy toward Iran, strict adherence to the Islamabad Agreement, and stronger Islamic unity to counter regional threats during high-level talks in Tehran on Monday.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Ghalibaf: Iran’s trade partners won’t listen to US ‘big talk’",
@@ -14,13 +36,14 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "Yemen’s Houthis report attack on Saudi ship",
+   "title": "Yemen’s Houthis report attack on Saudi oil tanker in Red Sea",
    "url": "https://www.aljazeera.com/news/2026/8/24/yemens-houthis-report-attack-on-saudi-ship?traffic_source=rss",
    "published": "2026-08-24T19:44:23+00:00",
    "summary": "Saudi shipping company Bahri confirmed its vessel was struck, all crew members safe.",
    "tags": [
     "strikes",
-    "shipping"
+    "shipping",
+    "oil"
    ],
    "highlight": false
   },
@@ -593,29 +616,6 @@
    "summary": "Abbas Araghchi said new US sanctions, likely to be unveiled Monday, are like watching the &#039;same movie on repeat&#039;.",
    "tags": [
     "sanctions"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Syria, Israel hold US-mediated talks in Jordan to de-escalate tensions",
-   "url": "https://www.aljazeera.com/news/2026/8/24/syria-israel-hold-us-mediated-talks-in-jordan-to-de-escalate-tensions?traffic_source=rss",
-   "published": "2026-08-24T03:56:59+00:00",
-   "summary": "Syria&#039;s foreign minister meets Israeli officials to de-escalate tensions after Israeli strike near Turkish border.",
-   "tags": [
-    "strikes",
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iran war live: US vows ‘economic D-Day’; Tehran threatens Gulf oil exports",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/8/24/iran-war-live-iranian-assembly-advances-plans-for-hormuz-service-fees?traffic_source=rss",
-   "published": "2026-08-24T00:00:00+00:00",
-   "summary": "US Treasury Secretary Scott Bessent says Washington aims to &#039;sever every economic lifeline&#039; that sustains Iran.",
-   "tags": [
-    "oil"
    ],
    "highlight": false
   }
