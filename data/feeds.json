@@ -1,6 +1,29 @@
 {
- "asOf": "2026-08-24T04:05:57.605407+00:00",
+ "asOf": "2026-08-24T04:26:38.769239+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "‘We know this movie’: Iran mocks latest US sanctions",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/we-know-this-movie-iran-mocks-latest-us-sanctions?traffic_source=rss",
+   "published": "2026-08-24T04:02:14+00:00",
+   "summary": "Abbas Araghchi said new US sanctions, likely to be unveiled Monday, are like watching the &#039;same movie on repeat&#039;.",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Syria, Israel hold US-mediated talks in Jordan to de-escalate tensions",
+   "url": "https://www.aljazeera.com/news/2026/8/24/syria-israel-hold-us-mediated-talks-in-jordan-to-de-escalate-tensions?traffic_source=rss",
+   "published": "2026-08-24T03:56:59+00:00",
+   "summary": "Syria&#039;s foreign minister meets Israeli officials to de-escalate tensions after Israeli strike near Turkish border.",
+   "tags": [
+    "strikes",
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "Trump Bump: Tax refunds jumped 17% after president’s signature law, GAO reports:",
@@ -598,29 +621,6 @@
    "summary": "A donkey belonging to a Palestinian farmer was reportedly stolen and dragged to death by Israeli settlers.",
    "tags": [
     "sanctions"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Over 100 ex-diplomats urge France, UK to sanction Israel over Palestine",
-   "url": "https://www.aljazeera.com/news/2026/8/22/over-100-ex-diplomats-urge-france-uk-to-sanction-israel-over-palestine?traffic_source=rss",
-   "published": "2026-08-22T15:30:49+00:00",
-   "summary": "An open letter demands a ban on arms transfers and a freeze on EU-Israel and UK-Israel trade agreements.",
-   "tags": [
-    "sanctions",
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Israeli drone strike on ‘civilian vehicle’ injures several in Syria",
-   "url": "https://www.aljazeera.com/news/2026/8/22/israeli-drone-strike-on-civilian-vehicle-causes-injuries-in-syria?traffic_source=rss",
-   "published": "2026-08-22T14:37:40+00:00",
-   "summary": "Syria condemns attack in southwest as a &#039;flagrant violation of sovereignty&#039; and a &#039;blatant breach of international law&#039;.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   }
