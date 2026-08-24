@@ -1,6 +1,28 @@
 {
- "asOf": "2026-08-24T06:43:46.950720+00:00",
+ "asOf": "2026-08-24T07:12:40.453640+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Ukraine’s allies convene in Kyiv as Zelenskyy seeks air defence boost",
+   "url": "https://www.aljazeera.com/news/2026/8/24/ukraines-allies-convene-in-kyiv-as-zelenskyy-seeks-air-defence-boost?traffic_source=rss",
+   "published": "2026-08-24T06:55:58+00:00",
+   "summary": "&#039;Coalition of the Willing&#039; leaders to discuss air defence shortage as Ukraine and Russia trade drone attacks.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Israeli airstrikes, artillery fire hit southern Lebanon",
+   "url": "https://en.irna.ir/news/86243965/Israeli-airstrikes-artillery-fire-hit-southern-Lebanon",
+   "published": "2026-08-24T06:42:47+00:00",
+   "summary": "Tehran, IRNA – Israeli warplanes, artillery units and ground forces have carried out attacks against several areas in southern Lebanon, Lebanese media reported.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "[No Title] - Post from August 24, 2026",
@@ -592,29 +614,6 @@
    "summary": "Israeli drone attack targeted a family in the central city of Deir el-Balah, killing one person and wounding others.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Envoy says Israel did not give the US notice before strikes on Syrian base",
-   "url": "https://www.aljazeera.com/news/2026/8/22/envoy-says-israel-did-not-give-the-us-notice-before-strikes-on-syrian-base?traffic_source=rss",
-   "published": "2026-08-22T19:18:02+00:00",
-   "summary": "US official Tom Barrack has criticised Israel for failing to give his country adequate warning, a claim Tel Aviv denies.",
-   "tags": [
-    "strikes",
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "General Talaei-Nik: Sanctions turned into opportunity for localization, leap in Iran’s defense industry",
-   "url": "https://en.irna.ir/news/86242634/General-Talaei-Nik-Sanctions-turned-into-opportunity-for-localization",
-   "published": "2026-08-22T19:06:21+00:00",
-   "summary": "Tehran, IRNA – Spokesperson for the Ministry of Defense and Armed Forces Logistics, Brigadier General Reza Talaei-Nik, says that the sanctions imposed by the United States and certain Western nations were among the factors that transformed sanctions and restrictions into opportunities for self-reliance, the domesticization of weaponry, and a leap forward in the defense industry.",
-   "tags": [
-    "sanctions"
    ],
    "highlight": false
   }
