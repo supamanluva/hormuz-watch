@@ -1,12 +1,57 @@
 {
- "asOf": "2026-08-24T15:22:20.215618+00:00",
+ "asOf": "2026-08-24T15:59:56.041057+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Yemeni army targets Saudi oil tanker in Red Sea",
+   "url": "https://en.irna.ir/news/86244770/Yemeni-army-targets-Saudi-oil-tanker-in-Red-Sea",
+   "published": "2026-08-24T15:48:11+00:00",
+   "summary": "Tehran, IRNA – The spokesperson for Yemen’s armed forces announced on Monday that a Saudi oil tanker was targeted in the northern Red Sea, off the coast of Yanbu.",
+   "tags": [
+    "shipping",
+    "oil"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "IRGC pledges support for government in countering economic war",
+   "url": "https://en.irna.ir/news/86244741/IRGC-pledges-support-for-government-in-countering-economic-war",
+   "published": "2026-08-24T15:22:36+00:00",
+   "summary": "Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) says it stands ready for broad strategic cooperation with the government to counter an economic war by the United States and help strengthen the country’s resilience against sanctions.",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "UK to help Ukraine build Storm Shadow long-range missiles: Why it matters",
+   "url": "https://www.aljazeera.com/news/2026/8/24/uk-to-help-ukraine-build-storm-shadow-long-range-missiles-why-it-matters?traffic_source=rss",
+   "published": "2026-08-24T15:17:36+00:00",
+   "summary": "The UK&#039;s willingness to share classified missile-production knowledge sets a potentially important precedent.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Samuel Eto’o urges support for embattled FIFA President Gianni Infantino",
+   "url": "https://www.aljazeera.com/sports/2026/8/24/samuel-etoo-urges-support-for-embattled-fifa-president-gianni-infantino?traffic_source=rss",
+   "published": "2026-08-24T15:15:55+00:00",
+   "summary": "Former star striker, now head of Cameroon&#039;s FA, backs Infantino despite mounting pressure on him to resign.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Why Israeli settler attacks on Palestinians in West Bank are pogroms",
    "url": "https://www.aljazeera.com/features/2026/8/24/why-israeli-settler-attacks-on-palestinians-in-west-bank-are-pogroms?traffic_source=rss",
    "published": "2026-08-24T15:02:34+00:00",
-   "summary": "Israeli settler attacks, aided by military, increasingly fit the definition of a pogrom.",
+   "summary": "Waves of settler attacks, aided by Israel&#039;s military, increasingly fit the definition of a pogrom.",
    "tags": [
     "strikes"
    ],
@@ -575,48 +620,6 @@
    "summary": "RT @ realDonaldTrump Canada wants the benefits of being a State, without being one!!! They have also charged our great farmers, for many years, massive amounts of Tariffs. No more!!! President DJT",
    "tags": [],
    "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "RT @realDonaldTrump",
-   "url": "https://trumpstruth.org/statuses/41130",
-   "published": "2026-08-23T13:11:03+00:00",
-   "summary": "RT @ realDonaldTrump",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Dozens of attacks in southern Thailand wound three people",
-   "url": "https://www.aljazeera.com/news/2026/8/23/dozens-of-attacks-in-southern-thailand-wound-three-people?traffic_source=rss",
-   "published": "2026-08-23T13:08:37+00:00",
-   "summary": "Many local government offices and several vehicles were damaged or destroyed in the 51 attacks late on Saturday.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran announces discovery of major new hydrocarbon reserves",
-   "url": "https://en.irna.ir/news/86243382/Iran-announces-discovery-of-major-new-hydrocarbon-reserves",
-   "published": "2026-08-23T12:34:53+00:00",
-   "summary": "Tehran, IRNA – Iranian Oil Minister Mohsen Paknejad announces the discovery of major new hydrocarbon reserves in the country, describing the finds as a significant asset for Iran’s future energy needs.",
-   "tags": [
-    "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Can Iran retaliate against countries that join US ‘economic war’?",
-   "url": "https://www.aljazeera.com/news/2026/8/23/can-iran-retaliate-against-countries-that-join-us-economic-war?traffic_source=rss",
-   "published": "2026-08-23T11:50:22+00:00",
-   "summary": "Iran warns that countries backing US economic sanctions will be considered an enemy of Tehran.",
-   "tags": [
-    "sanctions"
-   ],
-   "highlight": false
   }
  ]
 }
