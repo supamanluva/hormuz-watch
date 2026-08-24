@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-24T17:38:47.202708+00:00",
+ "asOf": "2026-08-24T17:57:12.484043+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Trump administration announces ‘economic D-day’ sanctions on Iran",
+   "url": "https://www.aljazeera.com/news/2026/8/24/trump-administration-announces-global-economic-war-on-iran?traffic_source=rss",
+   "published": "2026-08-24T17:10:37+00:00",
+   "summary": "Treasury Secretary Scott Bessent says US sanctions will intensify to choke off Iran&#039;s revenues and isolate the country.",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "RT @realDonaldTrumpThe Radical Left Democrats are going CRAZY with Fake Polls. They’re putting them out at levels never seen before. They’re called, “Demoralization Operations,” where they try to demoralize Republicans so that they don’t go out and vote — But the actual Polls are tremendous, and the Spirit in our Country has never been higher. We’re winning against EVERYONE, including Iran, whose Country is in Economic and Military Death Spiral. Thank you for your attention to this matter! President DONALD J. TRUMP",
@@ -604,18 +615,6 @@
    "summary": "Tehran, IRNA – Foreign Minister Abbas Araghchi says the United States has no choice but to engage the Iranian people respectfully and seek a solution based on justice and dignity, rejecting US threats of tougher economic sanctions.",
    "tags": [
     "sanctions"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran’s acting defense chief dismisses Trump’s claim on Strait of Hormuz",
-   "url": "https://en.irna.ir/news/86243468/Iran-s-acting-defense-chief-dismisses-Trump-s-claim-on-Strait",
-   "published": "2026-08-23T13:54:50+00:00",
-   "summary": "Tehran, IRNA – Iran’s acting defense minister has dismissed Donald Trump’s recent claim that the Strait of Hormuz is US territory, saying the American president “talks too much.”",
-   "tags": [
-    "diplomacy",
-    "shipping"
    ],
    "highlight": false
   }
