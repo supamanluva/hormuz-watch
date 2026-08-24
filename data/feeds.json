@@ -1,9 +1,31 @@
 {
- "asOf": "2026-08-24T08:25:51.657129+00:00",
+ "asOf": "2026-08-24T10:04:07.975241+00:00",
  "items": [
   {
    "source": "Al Jazeera",
-   "title": "How much more are you spending on petrol since the war in Iran began?",
+   "title": "Transfer target Julian Alvarez booed by fans in Atletico Madrid win",
+   "url": "https://www.aljazeera.com/sports/2026/8/24/transfer-target-julian-alvarez-booed-by-fans-in-atletico-madrid-win?traffic_source=rss",
+   "published": "2026-08-24T09:29:26+00:00",
+   "summary": "Argentinian striker was targeted by fans while warming up and jeered again after coming on in the 66th minute.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "‘Barrel bomb mufti’ Ahmad Hassoun handed life sentence in Syria trial",
+   "url": "https://www.aljazeera.com/news/2026/8/24/hold-ahmad-hassoun-assads-barrel-bomb-mufti-faces-death-penalty?traffic_source=rss",
+   "published": "2026-08-24T08:18:12+00:00",
+   "summary": "The religious figure faced various charges, including inciting violence and providing legitimacy to the al-Assad regime.",
+   "tags": [
+    "oil"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "How much more are you spending on petrol since the war on Iran began?",
    "url": "https://www.aljazeera.com/news/2026/8/24/how-much-more-are-you-spending-on-petrol-since-the-war-in-iran-began?traffic_source=rss",
    "published": "2026-08-24T07:26:15+00:00",
    "summary": "At least 145 countries have reported increases in petrol prices since the attacks on Iran by the US and Israel began.",
@@ -591,26 +613,6 @@
    "summary": "Warning comes after Trump said he will impose &#039;most crushing&#039; sanctions to isolate Iran and weaken its government.",
    "tags": [
     "sanctions"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from August 22, 2026",
-   "url": "https://trumpstruth.org/statuses/41125",
-   "published": "2026-08-22T22:09:58+00:00",
-   "summary": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117141444139360871",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Israeli army and settlers injure several Palestinians across West Bank",
-   "url": "https://www.aljazeera.com/news/2026/8/22/israeli-army-and-settlers-injure-several-palestinians-across-west-bank?traffic_source=rss",
-   "published": "2026-08-22T21:02:29+00:00",
-   "summary": "Palestinians face attacks and forced displacement as settlers expand control, backed by military raids and inaction.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   }
