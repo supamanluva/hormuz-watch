@@ -1,6 +1,28 @@
 {
- "asOf": "2026-08-24T07:12:40.453640+00:00",
+ "asOf": "2026-08-24T07:45:26.972484+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "How much more are you spending on petrol since the war in Iran began?",
+   "url": "https://www.aljazeera.com/news/2026/8/24/how-much-more-are-you-spending-on-petrol-since-the-war-in-iran-began?traffic_source=rss",
+   "published": "2026-08-24T07:26:15+00:00",
+   "summary": "At least 145 countries have reported increases in petrol prices since the attacks on Iran by the US and Israel began.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Canada-US trade war: Who wins? Who loses?",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/canada-us-trade-war-who-wins-who-loses?traffic_source=rss",
+   "published": "2026-08-24T07:00:00+00:00",
+   "summary": "Canada suspends US trade talks as Trump imposes 50% tariffs, with Ottawa vowing dollar-for-dollar retaliation.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Ukraine’s allies convene in Kyiv as Zelenskyy seeks air defence boost",
@@ -590,30 +612,6 @@
    "tags": [
     "shipping",
     "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iran grants permission for some Iraqi oil tankers to pass through Hormuz",
-   "url": "https://www.aljazeera.com/news/2026/8/22/iran-grants-permission-for-some-iraqi-oil-tankers-to-pass-through-hormuz?traffic_source=rss",
-   "published": "2026-08-22T20:05:52+00:00",
-   "summary": "Iraqi President Nizar Amidi says his country&#039;s territory will not be used to launch attacks against any other state.",
-   "tags": [
-    "strikes",
-    "shipping",
-    "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Israeli strikes kill two and injure others as Gaza attacks continue",
-   "url": "https://www.aljazeera.com/news/2026/8/22/israeli-strikes-kill-two-and-injure-others-as-gaza-attacks-continue?traffic_source=rss",
-   "published": "2026-08-22T19:24:51+00:00",
-   "summary": "Israeli drone attack targeted a family in the central city of Deir el-Balah, killing one person and wounding others.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   }
