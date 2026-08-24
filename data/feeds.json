@@ -1,5 +1,5 @@
 {
- "asOf": "2026-08-24T18:16:21.702936+00:00",
+ "asOf": "2026-08-24T18:41:18.990507+00:00",
  "items": [
   {
    "source": "Trump · Truth Social",
@@ -11,6 +11,17 @@
     "oil"
    ],
    "highlight": true
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Trump administration announces global economic war on Iran",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/trump-administration-announces-global-economic-war-on-iran-2?traffic_source=rss",
+   "published": "2026-08-24T17:53:00+00:00",
+   "summary": "The US says it is targeting all of Iran’s sources of revenue, including oil.",
+   "tags": [
+    "oil"
+   ],
+   "highlight": false
   },
   {
    "source": "Al Jazeera",
@@ -593,17 +604,6 @@
    "url": "https://www.aljazeera.com/economy/2026/8/23/iran-government-signals-fuel-price-hike-on-eve-of-new-us-sanctions?traffic_source=rss",
    "published": "2026-08-23T15:38:16+00:00",
    "summary": "Prices for food and other items are soaring, and there is a history of unrest, so any increase is being considered.",
-   "tags": [
-    "sanctions"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Pezeshkian says Iran ‘has not become Venezuela’ despite war and sanctions",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/23-08-clip-pezeshkian-iran-ir-fm?traffic_source=rss",
-   "published": "2026-08-23T15:25:47+00:00",
-   "summary": "Iranian President Masoud Pezeshkian says Iran has stood firm despite what he calls a full-scale war.",
    "tags": [
     "sanctions"
    ],
