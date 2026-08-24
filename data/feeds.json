@@ -1,5 +1,5 @@
 {
- "asOf": "2026-08-24T07:45:26.972484+00:00",
+ "asOf": "2026-08-24T08:06:25.443399+00:00",
  "items": [
   {
    "source": "Al Jazeera",
@@ -42,6 +42,17 @@
    "summary": "Tehran, IRNA – Israeli warplanes, artillery units and ground forces have carried out attacks against several areas in southern Lebanon, Lebanese media reported.",
    "tags": [
     "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Pakistan’s army chief back in Iran: Can he break peace talks deadlock?",
+   "url": "https://www.aljazeera.com/news/2026/8/24/pakistans-army-chief-munir-returns-to-iran-can-he-break-us-war-deadlock?traffic_source=rss",
+   "published": "2026-08-24T06:30:37+00:00",
+   "summary": "Pakistan says it can offer a channel between Tehran and Washington, but analysts differ over how much influence it has.",
+   "tags": [
+    "diplomacy"
    ],
    "highlight": false
   },
@@ -600,18 +611,6 @@
    "summary": "Palestinians face attacks and forced displacement as settlers expand control, backed by military raids and inaction.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Top security official: Strait of Hormuz remains closed until US changes its behavior",
-   "url": "https://en.irna.ir/news/86242668/Top-security-official-Strait-of-Hormuz-remains-closed-until",
-   "published": "2026-08-22T20:23:49+00:00",
-   "summary": "Tehran, IRNA – Secretary of Iran’s Supreme National Security Council Major General Mohsen Rezaei emphasizes that any country participating in the US-led economic blockade will face consequences and warns that if the blockade persists, not a single drop of Persian Gulf oil will be allowed to leave via any route.",
-   "tags": [
-    "shipping",
-    "oil"
    ],
    "highlight": false
   }
