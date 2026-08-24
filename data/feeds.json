@@ -1,6 +1,41 @@
 {
- "asOf": "2026-08-24T10:04:07.975241+00:00",
+ "asOf": "2026-08-24T10:40:51.662260+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran: Hormuz oil transit figures are mere propaganda, not facts",
+   "url": "https://en.irna.ir/news/86244315/Iran-Hormuz-oil-transit-figures-are-mere-propaganda-not-facts",
+   "published": "2026-08-24T10:22:39+00:00",
+   "summary": "Tehran, IRNA – Foreign Ministry Spokesperson Esmaeil Baqaei says the reports regarding oil transport through the Strait of Hormuz are part of a media and psychological campaign.",
+   "tags": [
+    "shipping",
+    "oil"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "US military says strike on alleged drug-smuggling boat kills two",
+   "url": "https://www.aljazeera.com/news/2026/8/24/us-military-says-strike-on-alleged-drug-smuggling-boat-kills-two?traffic_source=rss",
+   "published": "2026-08-24T09:58:03+00:00",
+   "summary": "US Southern Command says Sunday&#039;s strike targeted vessel operating along established narco-trafficking routes.",
+   "tags": [
+    "strikes",
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Dozens of coordinated arson attacks carried out across Thailand",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/dozens-of-coordinated-arson-attacks-carried-out-across-thailand?traffic_source=rss",
+   "published": "2026-08-24T09:44:57+00:00",
+   "summary": "Dozens of coordinated arson attacks carried out across Thailand",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Transfer target Julian Alvarez booed by fans in Atletico Madrid win",
@@ -17,7 +52,7 @@
    "title": "‘Barrel bomb mufti’ Ahmad Hassoun handed life sentence in Syria trial",
    "url": "https://www.aljazeera.com/news/2026/8/24/hold-ahmad-hassoun-assads-barrel-bomb-mufti-faces-death-penalty?traffic_source=rss",
    "published": "2026-08-24T08:18:12+00:00",
-   "summary": "The religious figure faced various charges, including inciting violence and providing legitimacy to the al-Assad regime.",
+   "summary": "Judge Fakhr al-Din al-Aryan sentenced Hassoun to life in prison for crimes including inciting violence.",
    "tags": [
     "oil"
    ],
@@ -584,35 +619,6 @@
    "summary": "Tehran, IRNA – Iranian President Masoud Pezeshkian and members of his administration have renewed their allegiance to the ideals of Imam Khomeini, the founder of the Islamic Republic, and the martyrs of the Islamic Revolution.",
    "tags": [
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Canada wants the benefits of being a State, without being one!!! They have also charged our great farmers, for many years, massive amounts of Tariffs. No more!!! President DJT",
-   "url": "https://trumpstruth.org/statuses/41128",
-   "published": "2026-08-23T05:06:38+00:00",
-   "summary": "Canada wants the benefits of being a State, without being one!!! They have also charged our great farmers, for many years, massive amounts of Tariffs. No more!!! President DJT",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Mark Levin: These blue states are sabotaging you:",
-   "url": "https://trumpstruth.org/statuses/41127",
-   "published": "2026-08-23T04:18:25+00:00",
-   "summary": "Mark Levin: These blue states are sabotaging you: https://www. foxnews.com/video/640389637611 2",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iran warns of retaliation against countries joining US ‘economic war’",
-   "url": "https://www.aljazeera.com/news/2026/8/22/iran-warns-nearby-nations-against-joining-us-economic-war-efforts?traffic_source=rss",
-   "published": "2026-08-22T23:26:15+00:00",
-   "summary": "Warning comes after Trump said he will impose &#039;most crushing&#039; sanctions to isolate Iran and weaken its government.",
-   "tags": [
-    "sanctions"
    ],
    "highlight": false
   }
