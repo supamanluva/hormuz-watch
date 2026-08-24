@@ -1,6 +1,24 @@
 {
- "asOf": "2026-08-24T04:26:38.769239+00:00",
+ "asOf": "2026-08-24T04:47:56.695680+00:00",
  "items": [
+  {
+   "source": "Trump · Truth Social",
+   "title": "The Midterm Meltdown:",
+   "url": "https://trumpstruth.org/statuses/41142",
+   "published": "2026-08-24T04:34:10+00:00",
+   "summary": "The Midterm Meltdown: https:// pro.paradigmnewsletters.org/p/ awn_midtermmeltdown_0626/LAWN6816/?h=true",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "Iran Parliament Speaker: 'We Are Hungry, We Cannot Survive':",
+   "url": "https://trumpstruth.org/statuses/41143",
+   "published": "2026-08-24T04:33:22+00:00",
+   "summary": "Iran Parliament Speaker: 'We Are Hungry, We Cannot Survive': https://www. newsmax.com/world/globaltalk/i ran-bagher-qalibaf-hungry/2026/08/23/id/1267062/",
+   "tags": [],
+   "highlight": true
+  },
   {
    "source": "Al Jazeera",
    "title": "‘We know this movie’: Iran mocks latest US sanctions",
@@ -599,28 +617,6 @@
    "summary": "Brinell School&#039;s principal says 18-year-old suspected of carrying out Friday&#039;s deadly sword attack was a student there.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Armed men kidnap dozens in attacks on Nigerian villages",
-   "url": "https://www.aljazeera.com/news/2026/8/22/armed-men-kidnap-dozens-in-attacks-on-nigerian-villages?traffic_source=rss",
-   "published": "2026-08-22T17:58:15+00:00",
-   "summary": "Police say three villages and a mosque were attacked, and worshippers kidnapped in central Niger State.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Sanctioned by EU, Israeli settler steals and kills Palestinian donkey",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/22-08-clip-palestinian-donkey-killed-by-setllers-ps?traffic_source=rss",
-   "published": "2026-08-22T16:41:43+00:00",
-   "summary": "A donkey belonging to a Palestinian farmer was reportedly stolen and dragged to death by Israeli settlers.",
-   "tags": [
-    "sanctions"
    ],
    "highlight": false
   }
