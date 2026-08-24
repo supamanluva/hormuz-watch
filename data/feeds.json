@@ -1,6 +1,28 @@
 {
- "asOf": "2026-08-24T12:16:39.852153+00:00",
+ "asOf": "2026-08-24T12:42:25.628837+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Pakistan’s army chief in Tehran for talks with senior Iranian officials",
+   "url": "https://en.irna.ir/news/86244603/Pakistan-s-army-chief-in-Tehran-for-talks-with-senior-Iranian",
+   "published": "2026-08-24T12:39:28+00:00",
+   "summary": "Tehran, IRNA – Pakistan’s Army Chief Field Marshal Asim Munir has arrived in Tehran for discussions with senior Iranian officials.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Israel accused of using kites as pretext to justify escalating Gaza attacks",
+   "url": "https://www.aljazeera.com/news/2026/8/24/israel-accused-of-using-kites-as-pretext-to-justify-escalating-gaza-attacks?traffic_source=rss",
+   "published": "2026-08-24T11:57:26+00:00",
+   "summary": "Israel has threatened Palestinian groups against launching &#039;kites, drones, and balloons&#039; from the war-torn enclave.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Iran to use all avenues, capacities to counter US economic war: Baqaei",
@@ -579,17 +601,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "37 injured as magnitude 5.9 earthquake strikes eastern Japan",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/37-injured-as-magnitude-5-9-earthquake-strikes-eastern-japan?traffic_source=rss",
-   "published": "2026-08-23T09:21:12+00:00",
-   "summary": "37 injured as magnitude 5.9 earthquake strikes eastern Japan",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
    "source": "IRNA (Iran state wire)",
    "title": "President Pezeshkian, cabinet renew allegiance to Imam Khomeini’s ideals",
    "url": "https://en.irna.ir/photo/86243195/President-Pezeshkian-cabinet-renew-allegiance-to-Imam-Khomeini-s",
@@ -608,17 +619,6 @@
    "summary": "Tehran, IRNA – Pakistan’s Army Chief Field Marshal Asim Munir will travel to Tehran on Monday at the head of an official delegation, Iranian Foreign Ministry spokesperson Esmail Baqaei has announced.",
    "tags": [
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "President Pezeshkian: Iran’s unity surprised world, foiled adversaries’ plans",
-   "url": "https://en.irna.ir/news/86242983/President-Pezeshkian-Iran-s-unity-surprised-world-foiled-adversaries",
-   "published": "2026-08-23T08:31:25+00:00",
-   "summary": "Tehran, IRNA — President Masoud Pezeshkian has praised the Iranian people for maintaining national unity amid an unequal military, economic and security confrontation, saying the country’s resilience had surprised the world and frustrated its enemies’ plans.",
-   "tags": [
-    "oil"
    ],
    "highlight": false
   }
