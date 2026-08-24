@@ -1,5 +1,5 @@
 {
- "asOf": "2026-08-24T19:55:57.645420+00:00",
+ "asOf": "2026-08-24T20:14:17.624070+00:00",
  "items": [
   {
    "source": "IRNA (Iran state wire)",
@@ -9,6 +9,18 @@
    "summary": "Tehran, IRNA – Iranian Parliament Speaker Mohammad Bagher Ghalibaf has dismissed as mere \"big talk\" Washington’s threats of punishing countries that engage in any form of trade with the Islamic Republic, saying Iran’s trade partners will not comply with US sanctions.",
    "tags": [
     "sanctions"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Yemen’s Houthis report attack on Saudi ship",
+   "url": "https://www.aljazeera.com/news/2026/8/24/yemens-houthis-report-attack-on-saudi-ship?traffic_source=rss",
+   "published": "2026-08-24T19:44:23+00:00",
+   "summary": "Saudi shipping company Bahri confirmed its vessel was struck, all crew members safe.",
+   "tags": [
+    "strikes",
+    "shipping"
    ],
    "highlight": false
   },
@@ -604,17 +616,6 @@
    "summary": "US Treasury Secretary Scott Bessent says Washington aims to &#039;sever every economic lifeline&#039; that sustains Iran.",
    "tags": [
     "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Will Donald Trump’s new sanctions against Iran work?",
-   "url": "https://www.aljazeera.com/video/inside-story/2026/8/23/will-donald-trumps-new-sanctions-against-iran-work?traffic_source=rss",
-   "published": "2026-08-23T21:34:53+00:00",
-   "summary": "The US president says he will impose &#039;crushing measures&#039; on Tehran.",
-   "tags": [
-    "sanctions"
    ],
    "highlight": false
   }
