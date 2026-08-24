@@ -1,6 +1,50 @@
 {
- "asOf": "2026-08-24T20:39:47.445321+00:00",
+ "asOf": "2026-08-24T21:55:30.555798+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Displaced Palestinians in Gaza face intensifying Israeli strikes",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/displaced-palestinians-in-gaza-face-intensifying-israeli-strikes?traffic_source=rss",
+   "published": "2026-08-24T21:12:06+00:00",
+   "summary": "Israel struck a makeshift tent sheltering displaced Palestinians in Deir al-Balah, killing one man.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Rezaei: US has to take practical steps",
+   "url": "https://en.irna.ir/news/86244940/Rezaei-US-has-to-take-practical-steps",
+   "published": "2026-08-24T20:52:19+00:00",
+   "summary": "Tehran, IRNA – Secretary of the Supreme National Security Council Major General Mohsen Rezaei has voiced distrust of the US and stressed Iran’s security control over the Strait of Hormuz.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Video: Iran reacts to US ‘economic D-Day’ sanctions",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/video-iran-reacts-to-us-economic-d-day-sanctions?traffic_source=rss",
+   "published": "2026-08-24T20:48:21+00:00",
+   "summary": "Iran’s Minister of Economy Ali Madani-Zadeh has responded to the US announcement of a new economic pressure campaign.",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Ceasefire monitoring mission arrives in Democratic Republic of Congo",
+   "url": "https://www.aljazeera.com/news/2026/8/24/ceasefire-monitoring-mission-arrives-in-democratic-republic-of-congo?traffic_source=rss",
+   "published": "2026-08-24T20:48:09+00:00",
+   "summary": "Fighting persists in the mineral-rich region despite ceasefire agreements.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Violence flares in Haiti as gang attack kills 30 people",
@@ -124,7 +168,7 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "Trump administration announces ‘economic D-day’ sanctions on Iran",
+   "title": "US launches ‘Operation Economic Outcast’ to cut Iran’s economic lifeline",
    "url": "https://www.aljazeera.com/news/2026/8/24/trump-administration-announces-global-economic-war-on-iran?traffic_source=rss",
    "published": "2026-08-24T17:10:37+00:00",
    "summary": "Treasury Secretary Scott Bessent says US sanctions will intensify to choke off Iran&#039;s revenues and isolate the country.",
@@ -159,6 +203,17 @@
    "summary": "",
    "tags": [],
    "highlight": true
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Russia to seize poorly protected infrastructure amid Ukraine drone attacks",
+   "url": "https://www.aljazeera.com/news/2026/8/24/russia-to-seize-poorly-protected-infrastructure-as-ukraine-barrage-persists?traffic_source=rss",
+   "published": "2026-08-24T16:59:47+00:00",
+   "summary": "Owners could lose control of facilities if regulators find them too slow to repair damage.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
   },
   {
    "source": "Trump · Truth Social",
@@ -561,61 +616,6 @@
    "summary": "At least 145 countries have reported increases in petrol prices since the attacks on Iran by the US and Israel began.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Canada-US trade war: Who wins? Who loses?",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/canada-us-trade-war-who-wins-who-loses?traffic_source=rss",
-   "published": "2026-08-24T07:00:00+00:00",
-   "summary": "Canada suspends US trade talks as Trump imposes 50% tariffs, with Ottawa vowing dollar-for-dollar retaliation.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Ukraine’s allies convene in Kyiv as Zelenskyy seeks air defence boost",
-   "url": "https://www.aljazeera.com/news/2026/8/24/ukraines-allies-convene-in-kyiv-as-zelenskyy-seeks-air-defence-boost?traffic_source=rss",
-   "published": "2026-08-24T06:55:58+00:00",
-   "summary": "&#039;Coalition of the Willing&#039; leaders to discuss air defence shortage as Ukraine and Russia trade drone attacks.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Israeli airstrikes, artillery fire hit southern Lebanon",
-   "url": "https://en.irna.ir/news/86243965/Israeli-airstrikes-artillery-fire-hit-southern-Lebanon",
-   "published": "2026-08-24T06:42:47+00:00",
-   "summary": "Tehran, IRNA – Israeli warplanes, artillery units and ground forces have carried out attacks against several areas in southern Lebanon, Lebanese media reported.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Pakistan’s army chief back in Iran: Can he break peace talks deadlock?",
-   "url": "https://www.aljazeera.com/news/2026/8/24/pakistans-army-chief-munir-returns-to-iran-can-he-break-us-war-deadlock?traffic_source=rss",
-   "published": "2026-08-24T06:30:37+00:00",
-   "summary": "Pakistan says it can offer a channel between Tehran and Washington, but analysts differ over how much influence it has.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "‘We know this movie’: Iran mocks latest US sanctions",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/we-know-this-movie-iran-mocks-latest-us-sanctions?traffic_source=rss",
-   "published": "2026-08-24T04:02:14+00:00",
-   "summary": "Abbas Araghchi said new US sanctions, likely to be unveiled Monday, are like watching the &#039;same movie on repeat&#039;.",
-   "tags": [
-    "sanctions"
    ],
    "highlight": false
   }
