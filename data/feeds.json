@@ -1,5 +1,5 @@
 {
- "asOf": "2026-08-25T08:01:35.343538+00:00",
+ "asOf": "2026-08-25T08:21:29.312206+00:00",
  "items": [
   {
    "source": "IRNA (Iran state wire)",
@@ -9,6 +9,17 @@
    "summary": "Islamabad, IRNA – Pakistan’s Interior Minister Syed Mohsin Raza Naqvi says that meetings with Iranian officials in Tehran were very positive and constructive, expressing hope that the diplomatic efforts would help pave the way for lasting peace in the region.",
    "tags": [
     "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Hasina spat stalls Bangladesh-India reset. What would break the deadlock?",
+   "url": "https://www.aljazeera.com/news/2026/8/25/hasina-spat-stalls-bangladesh-india-reset-what-would-break-the-deadlock?traffic_source=rss",
+   "published": "2026-08-25T07:46:56+00:00",
+   "summary": "Analysts say an Indian commitment not to allow ousted Bangladesh PM to engage in politics from their soil would help.",
+   "tags": [
+    "oil"
    ],
    "highlight": false
   },
@@ -605,17 +616,6 @@
    "summary": "‘Barrel bomb mufti’ sentenced to life in Syria",
    "tags": [
     "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Saudi Arabia’s MBS visits Macron in France: What to expect",
-   "url": "https://www.aljazeera.com/news/2026/8/24/saudi-arabias-mbs-visits-macron-in-france-what-to-expect?traffic_source=rss",
-   "published": "2026-08-24T12:59:55+00:00",
-   "summary": "Saudi crown prince and French president are set to sign several agreements on health, transport and energy.",
-   "tags": [
-    "diplomacy"
    ],
    "highlight": false
   }
