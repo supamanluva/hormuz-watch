@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-25T08:21:29.312206+00:00",
+ "asOf": "2026-08-25T08:41:37.819162+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Pakistan says significant progress made in talks on Iran-US war",
+   "url": "https://www.aljazeera.com/news/2026/8/25/pakistan-says-significant-progress-made-in-talks-on-iran-us-war?traffic_source=rss",
+   "published": "2026-08-25T08:32:52+00:00",
+   "summary": "The talks were held during a daylong diplomatic mission to Tehran by Pakistan’s army chief and interior minister.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Pakistani interior minister calls talks with Iranian officials constructive",
@@ -605,17 +616,6 @@
    "summary": "Waves of settler attacks, aided by Israel&#039;s military, increasingly fit the definition of a pogrom.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "‘Barrel bomb mufti’ sentenced to life in Syria",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/barrel-bomb-mufti-sentenced-to-life-in-syria?traffic_source=rss",
-   "published": "2026-08-24T13:02:44+00:00",
-   "summary": "‘Barrel bomb mufti’ sentenced to life in Syria",
-   "tags": [
-    "oil"
    ],
    "highlight": false
   }
