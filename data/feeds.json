@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-25T17:17:16.079765+00:00",
+ "asOf": "2026-08-25T17:39:06.148930+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Canada hits US with counter-tariffs targeting hundreds of products",
+   "url": "https://www.aljazeera.com/economy/2026/8/25/canada-hits-us-with-counter-tariffs-targeting-hundreds-of-products?traffic_source=rss",
+   "published": "2026-08-25T17:08:54+00:00",
+   "summary": "Canada imposes tariffs on $19.9bn of US goods which will take effect on September 8 as trade talks with Washington collapse.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Iran, Oman agree on temporary maritime corridor in Strait of Hormuz",
@@ -568,17 +579,6 @@
    "tags": [
     "strikes",
     "sanctions"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Displaced Palestinians in Gaza face intensifying Israeli strikes",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/displaced-palestinians-in-gaza-face-intensifying-israeli-strikes?traffic_source=rss",
-   "published": "2026-08-24T21:12:06+00:00",
-   "summary": "Israel struck a makeshift tent sheltering displaced Palestinians in Deir al-Balah, killing one man.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   },
