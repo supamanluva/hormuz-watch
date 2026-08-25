@@ -1,6 +1,50 @@
 {
- "asOf": "2026-08-25T21:38:01.372391+00:00",
+ "asOf": "2026-08-25T22:55:57.129209+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Ghalibaf reacts to US Treasury secretary’s Rhetoric: ‘It was Day of the Clown’",
+   "url": "https://en.irna.ir/news/86246107/Ghalibaf-reacts-to-US-Treasury-secretary-s-Rhetoric-It-was",
+   "published": "2026-08-25T22:13:00+00:00",
+   "summary": "Tehran, IRNA – Iranian Parliament Speaker Mohammad Bagher Ghalibaf has sharply mocked US Treasury Secretary Scott Bessent over his recent remarks and apparent retreat from earlier claims about the impact of new sanctions on Iran.",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "UN Press",
+   "title": "‘Best Protection against Food Insecurity Is Peace,’ Secretary-General Tells Security Council, Urging Action as Conflict Fuels Global Hunger",
+   "url": "https://press.un.org/en/2026/sc16439.doc.htm",
+   "published": "2026-08-25T22:07:18+00:00",
+   "summary": "Critical food systems — and the lives and livelihoods they sustain — are under attack around the world, Secretary-General António Guterres warned the Security Council today, urging the UN’s flagship crisis management organ to break the vicious cycle of conflict and hunger by acting “when the warning lights are flashing” — from Gaza and Haiti to Myanmar, Sudan, Ukraine and beyond.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iranian, Qatari FMs hold talks on regional developments over phone",
+   "url": "https://en.irna.ir/news/86246104/Iranian-Qatari-FMs-hold-talks-on-regional-developments-over",
+   "published": "2026-08-25T21:52:46+00:00",
+   "summary": "Tehran, IRNA – Iranian Foreign Minister Abbas Araghchi held a telephone conversation with his Qatari counterpart, Sheikh Mohammed bin Abdulrahman Al Thani, on Tuesday evening.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Seven killed in Gaza as Israeli strike ‘destroys’ aid supply warehouse",
+   "url": "https://www.aljazeera.com/news/2026/8/25/seven-killed-in-gaza-as-israeli-strike-destroys-aid-supply-warehouse?traffic_source=rss",
+   "published": "2026-08-25T21:26:25+00:00",
+   "summary": "Health Ministry warns of &#039;complete collapse of the basic necessities of life&#039; in Gaza as Israel&#039;s attacks continue.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Syrian Democratic Forces announce their dissolution",
@@ -564,50 +608,6 @@
    "tags": [
     "sanctions",
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Can Pakistan’s Asim Munir convince Iran military chiefs to return to talks?",
-   "url": "https://www.aljazeera.com/news/2026/8/25/can-pakistans-asim-munir-convince-iran-military-chiefs-to-return-to-talks?traffic_source=rss",
-   "published": "2026-08-25T10:22:00+00:00",
-   "summary": "Pakistan says progress was made in Tehran, but Iran’s security establishment remains wary of Washington.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Kremlin adviser warns UK drone factories could face attacks",
-   "url": "https://www.aljazeera.com/news/2026/8/25/kremlin-adviser-warns-uk-drone-factories-could-face-attacks?traffic_source=rss",
-   "published": "2026-08-25T09:34:25+00:00",
-   "summary": "Russia says UK decision to share missile blueprints with Ukraine is evidence of direct military involvement in the war.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iranian envoy: Keeping dialogue open, pursuing national interests key diplomatic achievement",
-   "url": "https://en.irna.ir/news/86245381/Iranian-envoy-Keeping-dialogue-open-pursuing-national-interests",
-   "published": "2026-08-25T09:16:34+00:00",
-   "summary": "London, IRNA – Iran’s Ambassador to Norway Alireza Jahangiri has said that keeping channels of dialogue open and actively pursuing the country’s interests in a complicated and rapidly changing environment have been the most important achievements of the administration of President Masoud Pezeshkian over the past year.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "‘Enough is enough’: Kenya nurses strike over pay and working conditions",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/enough-is-enough-kenya-nurses-strike-over-pay-and-working-conditions?traffic_source=rss",
-   "published": "2026-08-25T09:05:54+00:00",
-   "summary": "Shiru Kihara, a nurse in Kenya, explains why she and thousands of other nurses are on strike demanding fair pay.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   }
