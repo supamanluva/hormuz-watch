@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-25T07:27:53.922865+00:00",
+ "asOf": "2026-08-25T08:01:35.343538+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Pakistani interior minister calls talks with Iranian officials constructive",
+   "url": "https://en.irna.ir/news/86245255/Pakistani-interior-minister-calls-talks-with-Iranian-officials",
+   "published": "2026-08-25T07:54:31+00:00",
+   "summary": "Islamabad, IRNA – Pakistan’s Interior Minister Syed Mohsin Raza Naqvi says that meetings with Iranian officials in Tehran were very positive and constructive, expressing hope that the diplomatic efforts would help pave the way for lasting peace in the region.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "The Iran war is bringing cyberwarfare into critical infrastructure",
@@ -70,9 +81,9 @@
    "title": "Iran war live: Pakistan reports progress on restoring US-Iran MoU",
    "url": "https://www.aljazeera.com/news/liveblog/2026/8/25/iran-war-live-drat?traffic_source=rss",
    "published": "2026-08-25T00:00:00+00:00",
-   "summary": "Washington has slapped new sanctions on Tehran and warned Iran&#039;s trade partners they will face consequences.",
+   "summary": "Pakistan’s interior minister says significant progress made during talks with Iran&#039;s president.",
    "tags": [
-    "sanctions"
+    "diplomacy"
    ],
    "highlight": false
   },
@@ -603,17 +614,6 @@
    "url": "https://www.aljazeera.com/news/2026/8/24/saudi-arabias-mbs-visits-macron-in-france-what-to-expect?traffic_source=rss",
    "published": "2026-08-24T12:59:55+00:00",
    "summary": "Saudi crown prince and French president are set to sign several agreements on health, transport and energy.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Pakistan’s army chief in Tehran for talks with senior Iranian officials",
-   "url": "https://en.irna.ir/news/86244603/Pakistan-s-army-chief-in-Tehran-for-talks-with-senior-Iranian",
-   "published": "2026-08-24T12:39:28+00:00",
-   "summary": "Tehran, IRNA – Pakistan’s Army Chief Field Marshal Asim Munir has arrived in Tehran for discussions with senior Iranian officials.",
    "tags": [
     "diplomacy"
    ],
