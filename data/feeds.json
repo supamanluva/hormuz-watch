@@ -1,9 +1,20 @@
 {
- "asOf": "2026-08-25T17:39:06.148930+00:00",
+ "asOf": "2026-08-25T17:56:21.228156+00:00",
  "items": [
   {
    "source": "Al Jazeera",
-   "title": "Canada hits US with counter-tariffs targeting hundreds of products",
+   "title": "Fatah, Dahlan bloc hold reconciliation talks ahead of Palestinian elections",
+   "url": "https://www.aljazeera.com/news/2026/8/25/fatah-dahlan-bloc-hold-reconciliation-talks-ahead-of-palestinian-elections?traffic_source=rss",
+   "published": "2026-08-25T17:39:22+00:00",
+   "summary": "Fatah and Dahlan&#039;s Democratic Reform hold talks in Alamein as fears grow over a potential opposition coalition.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Canada hits US with counter-tariffs on more than 700 products",
    "url": "https://www.aljazeera.com/economy/2026/8/25/canada-hits-us-with-counter-tariffs-targeting-hundreds-of-products?traffic_source=rss",
    "published": "2026-08-25T17:08:54+00:00",
    "summary": "Canada imposes tariffs on $19.9bn of US goods which will take effect on September 8 as trade talks with Washington collapse.",
@@ -556,17 +567,6 @@
    "tags": [
     "sanctions",
     "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "US removes Syria from ‘state sponsor of terrorism’ list",
-   "url": "https://www.aljazeera.com/news/2026/8/24/us-removes-syria-from-state-sponsor-of-terrorism-list?traffic_source=rss",
-   "published": "2026-08-24T22:32:26+00:00",
-   "summary": "Washington also rescinded designation of HTS, formerly led by President Ahmed al-Sharaa, as a &#039;terrorist&#039; organisation.",
-   "tags": [
-    "sanctions"
    ],
    "highlight": false
   },
