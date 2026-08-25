@@ -1,5 +1,5 @@
 {
- "asOf": "2026-08-25T20:13:54.138290+00:00",
+ "asOf": "2026-08-25T20:38:52.547516+00:00",
  "items": [
   {
    "source": "IRNA (Iran state wire)",
@@ -21,6 +21,15 @@
    "tags": [
     "shipping"
    ],
+   "highlight": false
+  },
+  {
+   "source": "UN Press",
+   "title": "Secretary-General Strongly Condemns Israeli Authorities’ Unauthorized Entry, Interference with UN Palestine Refugee Agency’s Kalandia Training Centre",
+   "url": "https://press.un.org/en/2026/sgsm23247.doc.htm",
+   "published": "2026-08-25T19:40:09+00:00",
+   "summary": "The following statement was issued today by the Spokesman for UN Secretary-General António Guterres:",
+   "tags": [],
    "highlight": false
   },
   {
@@ -356,6 +365,15 @@
   },
   {
    "source": "UN Press",
+   "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General",
+   "url": "https://press.un.org/en/2026/db260825.doc.htm",
+   "published": "2026-08-25T15:09:03+00:00",
+   "summary": "2025 saw the highest number of armed conflicts since the Second World War and some of the highest levels of acute hunger on record, the UN Secretary-General told the Security Council today. It was also the first time this century that two famines were confirmed simultaneously, in Sudan and in Gaza - a shameful milestone.",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "UN Press",
    "title": "Secretary-General Condemns Deadly Ambush on Peacekeepers in South Sudan, Calls for Accountability",
    "url": "https://press.un.org/en/2026/sgsm23245.doc.htm",
    "published": "2026-08-25T15:09:02+00:00",
@@ -593,26 +611,6 @@
    "tags": [
     "strikes"
    ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Two US carrier groups in Middle East strain navy resources",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/two-us-carrier-groups-in-middle-east-strain-navy-resources?traffic_source=rss",
-   "published": "2026-08-25T05:19:24+00:00",
-   "summary": "Deploying two US carrier strike groups to the Middle East represents a significant concentration of firepower",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "Presidential Message on Overdose and Drug Poisoning Awareness Week",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/08/presidential-message-on-overdose-and-drug-poisoning-awareness-week/",
-   "published": "2026-08-25T02:00:00+00:00",
-   "summary": "During Overdose and Drug Poisoning Awareness Week, our Nation renews its resolve to defeat the scourge of illicit drugs and synthetic poisons that have devastated hundreds of thousands of American lives.&#160; My Administration is relentlessly confronting this threat at every source, and we will always put our national security and the safety, health, and well-being [&#8230;] The post Presidential",
-   "tags": [],
    "highlight": false
   }
  ]
