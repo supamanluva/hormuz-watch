@@ -1,6 +1,39 @@
 {
- "asOf": "2026-08-25T09:02:06.212163+00:00",
+ "asOf": "2026-08-25T09:58:17.280812+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Kremlin adviser warns UK drone factories could face attacks",
+   "url": "https://www.aljazeera.com/news/2026/8/25/kremlin-adviser-warns-uk-drone-factories-could-face-attacks?traffic_source=rss",
+   "published": "2026-08-25T09:34:25+00:00",
+   "summary": "Russia says UK decision to share missile blueprints with Ukraine is evidence of direct military involvement in the war.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iranian envoy: Keeping dialogue open, pursuing national interests key diplomatic achievement",
+   "url": "https://en.irna.ir/news/86245381/Iranian-envoy-Keeping-dialogue-open-pursuing-national-interests",
+   "published": "2026-08-25T09:16:34+00:00",
+   "summary": "London, IRNA – Iran’s Ambassador to Norway Alireza Jahangiri has said that keeping channels of dialogue open and actively pursuing the country’s interests in a complicated and rapidly changing environment have been the most important achievements of the administration of President Masoud Pezeshkian over the past year.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "‘Enough is enough’: Kenya nurses strike over pay and working conditions",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/enough-is-enough-kenya-nurses-strike-over-pay-and-working-conditions?traffic_source=rss",
+   "published": "2026-08-25T09:05:54+00:00",
+   "summary": "Shiru Kihara, a nurse in Kenya, explains why she and thousands of other nurses are on strike demanding fair pay.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Pakistani Army chief’s Tehran talks highly constructive: Pakistan’s Army",
@@ -36,7 +69,7 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "Hasina spat stalls Bangladesh-India reset. What would break the deadlock?",
+   "title": "Bangladesh-India reset stalls over Hasina: What would break the deadlock?",
    "url": "https://www.aljazeera.com/news/2026/8/25/hasina-spat-stalls-bangladesh-india-reset-what-would-break-the-deadlock?traffic_source=rss",
    "published": "2026-08-25T07:46:56+00:00",
    "summary": "Analysts say an Indian commitment not to allow ousted Bangladesh PM to engage in politics from their soil would help.",
@@ -583,39 +616,6 @@
    "tags": [
     "shipping",
     "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "IRGC pledges support for government in countering economic war",
-   "url": "https://en.irna.ir/news/86244741/IRGC-pledges-support-for-government-in-countering-economic-war",
-   "published": "2026-08-24T15:22:36+00:00",
-   "summary": "Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) says it stands ready for broad strategic cooperation with the government to counter an economic war by the United States and help strengthen the country’s resilience against sanctions.",
-   "tags": [
-    "sanctions"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "UK to help Ukraine build Storm Shadow long-range missiles: Why it matters",
-   "url": "https://www.aljazeera.com/news/2026/8/24/uk-to-help-ukraine-build-storm-shadow-long-range-missiles-why-it-matters?traffic_source=rss",
-   "published": "2026-08-24T15:17:36+00:00",
-   "summary": "The UK&#039;s willingness to share classified missile-production knowledge sets a potentially important precedent.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Samuel Eto’o urges support for embattled FIFA President Gianni Infantino",
-   "url": "https://www.aljazeera.com/sports/2026/8/24/samuel-etoo-urges-support-for-embattled-fifa-president-gianni-infantino?traffic_source=rss",
-   "published": "2026-08-24T15:15:55+00:00",
-   "summary": "Former star striker, now head of Cameroon&#039;s FA, backs Infantino despite mounting pressure on him to resign.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   }
