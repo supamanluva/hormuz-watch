@@ -1,5 +1,5 @@
 {
- "asOf": "2026-08-25T20:56:20.454521+00:00",
+ "asOf": "2026-08-25T21:14:17.450835+00:00",
  "items": [
   {
    "source": "White House",
@@ -8,6 +8,17 @@
    "published": "2026-08-25T20:42:03+00:00",
    "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA A PROCLAMATION As a mark of respect for the memory of Dolly Parton, I hereby order, by the authority vested in me by the Constitution and the laws of the United States of America, that the flag of the United States shall be flown at half-staff at the White House and [&#8230;] The post Honoring the Memory of Dolly Parton appeared first on The White H",
    "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "New US sanctions signal Trump desperation on Iran, experts say",
+   "url": "https://www.aljazeera.com/news/2026/8/25/new-us-sanctions-signal-trump-desperation-on-iran-experts-say?traffic_source=rss",
+   "published": "2026-08-25T20:34:49+00:00",
+   "summary": "Economic escalation is unlikely to force the Iranian government to capitulate to US demands, according to experts.",
+   "tags": [
+    "sanctions"
+   ],
    "highlight": false
   },
   {
@@ -595,17 +606,6 @@
    "url": "https://www.aljazeera.com/news/2026/8/25/pakistan-says-significant-progress-made-in-talks-on-iran-us-war?traffic_source=rss",
    "published": "2026-08-25T08:32:52+00:00",
    "summary": "The talks were held during a daylong diplomatic mission to Tehran by Pakistan’s army chief and interior minister.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Pakistani interior minister calls talks with Iranian officials constructive",
-   "url": "https://en.irna.ir/news/86245255/Pakistani-interior-minister-calls-talks-with-Iranian-officials",
-   "published": "2026-08-25T07:54:31+00:00",
-   "summary": "Islamabad, IRNA – Pakistan’s Interior Minister Syed Mohsin Raza Naqvi says that meetings with Iranian officials in Tehran were very positive and constructive, expressing hope that the diplomatic efforts would help pave the way for lasting peace in the region.",
    "tags": [
     "diplomacy"
    ],
