@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-25T04:59:21.937372+00:00",
+ "asOf": "2026-08-25T05:17:51.581961+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "France, Saudi Arabia agree on $7bn theme park project near Paris",
+   "url": "https://www.aljazeera.com/news/2026/8/25/france-saudi-arabia-agree-on-7bn-theme-park-project-near-paris?traffic_source=rss",
+   "published": "2026-08-25T04:38:20+00:00",
+   "summary": "Theme park project is among a raft of deals spanning energy, defence, AI and tourism signed during MBS&#039;s visit to Paris.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Brutal gang attack on strategic Haiti hillside leaves at least 30 dead",
@@ -603,17 +614,6 @@
    "url": "https://en.irna.ir/news/86244432/Iran-to-use-all-avenues-capacities-to-counter-US-economic-war",
    "published": "2026-08-24T10:54:17+00:00",
    "summary": "Tehran, IRNA — Foreign Ministry spokesperson Esmail Baqaei referred to the continued illegal and unjust American sanctions against the country, saying Iran will definitely use all its bilateral and multilateral capabilities to counter the economic war launched by Washington.",
-   "tags": [
-    "sanctions"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "US threatens toughest sanctions yet against Iran: What we know",
-   "url": "https://www.aljazeera.com/news/2026/8/24/us-threatens-toughest-sanctions-yet-against-iran-what-we-know?traffic_source=rss",
-   "published": "2026-08-24T10:23:11+00:00",
-   "summary": "Tehran has threatened to retaliate against any country that joins new US economic measures.",
    "tags": [
     "sanctions"
    ],
