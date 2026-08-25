@@ -1,5 +1,5 @@
 {
- "asOf": "2026-08-25T19:18:12.989278+00:00",
+ "asOf": "2026-08-25T19:39:02.962297+00:00",
  "items": [
   {
    "source": "Al Jazeera",
@@ -333,6 +333,35 @@
    "highlight": false
   },
   {
+   "source": "UN Press",
+   "title": "Secretary-General Condemns Deadly Ambush on Peacekeepers in South Sudan, Calls for Accountability",
+   "url": "https://press.un.org/en/2026/sgsm23245.doc.htm",
+   "published": "2026-08-25T15:09:02+00:00",
+   "summary": "The following statement was issued today by the Spokesman for UN Secretary-General António Guterres:",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "UN Press",
+   "title": "Secretary-General Calls for Renewed Global Action as Rohingya Face Deepening Insecurity Nine Years after Mass Displacement",
+   "url": "https://press.un.org/en/2026/sgsm23244.doc.htm",
+   "published": "2026-08-25T15:09:01+00:00",
+   "summary": "The following statement was issued today by the Spokesman for UN Secretary-General António Guterres:",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "UN Press",
+   "title": "Civilian Toll Soars as Ukraine Marks 35 Years of Independence, UN Political Affairs Chief Warns Security Council amid Renewed Calls for Ceasefire",
+   "url": "https://press.un.org/en/2026/sc16438.doc.htm",
+   "published": "2026-08-25T14:44:46+00:00",
+   "summary": "Two anniversaries converged as the Security Council met to discuss the situation in Ukraine today — with that country marking both 35 years of independence and four-and-a-half years of invasion — as peace remains elusive amidst soaring civilian casualties.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
    "source": "Al Jazeera",
    "title": "China says will safeguard its own interests as US expands Iran sanctions",
    "url": "https://www.aljazeera.com/economy/2026/8/25/china-says-will-safeguard-its-own-interests-as-us-expands-iran-sanctions?traffic_source=rss",
@@ -584,37 +613,6 @@
    "tags": [
     "strikes",
     "sanctions"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Rezaei: US has to take practical steps",
-   "url": "https://en.irna.ir/news/86244940/Rezaei-US-has-to-take-practical-steps",
-   "published": "2026-08-24T20:52:19+00:00",
-   "summary": "Tehran, IRNA – Secretary of the Supreme National Security Council Major General Mohsen Rezaei has voiced distrust of the US and stressed Iran’s security control over the Strait of Hormuz.",
-   "tags": [
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Security Council, 10213th Meeting (AM & PM) Food Crises",
-   "url": "https://press.un.org/en/blog/sc16439",
-   "published": "2026-08-24T20:46:08+00:00",
-   "summary": "The Security Council will hold a high-level open debate on conflict-related food insecurity under the theme “Food under fire: the Security Council’s role in mitigating global and local food crises”. A signature event of Denmark’s Council presidency, the meeting will be chaired by Danish Minister of Foreign Affairs Lars Løkke Rasmussen. UN Secretary-General Antόnio Guterres, Acting Executive Direct",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General",
-   "url": "https://press.un.org/en/2026/db260824.doc.htm",
-   "published": "2026-08-24T20:40:43+00:00",
-   "summary": "In Gaza, only 22.4 per cent of children are receiving a minimum acceptable diet, according to a new UN Children’s Fund (UNICEF) survey, which points to chronic malnutrition, poor diets and childhood illnesses despite the substantial increase in humanitarian aid since the October 2025 ceasefire.",
-   "tags": [
-    "diplomacy"
    ],
    "highlight": false
   }
