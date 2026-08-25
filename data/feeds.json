@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-25T11:55:51.763727+00:00",
+ "asOf": "2026-08-25T12:16:36.151342+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Palestine weekly: After Kushner departs, Israel escalates Gaza attacks",
+   "url": "https://www.aljazeera.com/news/2026/8/25/palestine-weekly-after-kushner-departs-israel-escalates-gaza-attacks?traffic_source=rss",
+   "published": "2026-08-25T11:52:40+00:00",
+   "summary": "Israel deepens Gaza attacks and West Bank expansion as countries condemn abuses but impose few consequences.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "I would never interfere with Canadians speaking French! In fact, I have never even thought of doing such a stupid thing. This lie was made up by a weak and ineffective Prime Minister in an attempt to gain political support, which he has totally lost, from the people of Quebec. I love French Canadians! President DONALD J. TRUMP",
@@ -608,15 +619,6 @@
    "summary": "Trump’s Tariffs Force Some Canadian Companies to Consider Moving South: https://www. nytimes.com/2026/08/12/world/c anada/canada-tariffs-manufacturing-trade-trump.html",
    "tags": [],
    "highlight": true
-  },
-  {
-   "source": "White House",
-   "title": "President Trump Champions Educational Freedom — Putting Students and Parents First",
-   "url": "https://www.whitehouse.gov/releases/2026/08/president-trump-champions-educational-freedom-putting-students-and-parents-first/",
-   "published": "2026-08-24T16:41:15+00:00",
-   "summary": "Today, President Donald J. Trump welcomes students, parents, and education advocates to the White House to celebrate the start of a new school year. Under President Trump’s and Secretary of Education Linda McMahon’s leadership, this Administration has delivered an unparalleled record of expanding educational freedom, restoring parental rights, returning power to the states, and putting [&#8230;] T",
-   "tags": [],
-   "highlight": false
   }
  ]
 }
