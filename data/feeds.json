@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-25T09:58:17.280812+00:00",
+ "asOf": "2026-08-25T10:40:24.358350+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Can Pakistan’s Asim Munir convince Iran military chiefs to return to talks?",
+   "url": "https://www.aljazeera.com/news/2026/8/25/can-pakistans-asim-munir-convince-iran-military-chiefs-to-return-to-talks?traffic_source=rss",
+   "published": "2026-08-25T10:22:00+00:00",
+   "summary": "Pakistan says progress was made in Tehran, but Iran’s security establishment remains wary of Washington.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Kremlin adviser warns UK drone factories could face attacks",
@@ -604,18 +615,6 @@
    "tags": [
     "strikes",
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Yemeni army targets Saudi oil tanker in Red Sea",
-   "url": "https://en.irna.ir/news/86244770/Yemeni-army-targets-Saudi-oil-tanker-in-Red-Sea",
-   "published": "2026-08-24T15:48:11+00:00",
-   "summary": "Tehran, IRNA – The spokesperson for Yemen’s armed forces announced on Monday that a Saudi oil tanker was targeted in the northern Red Sea, off the coast of Yanbu.",
-   "tags": [
-    "shipping",
-    "oil"
    ],
    "highlight": false
   }
