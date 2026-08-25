@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-24T23:52:54.577856+00:00",
+ "asOf": "2026-08-25T00:23:35.579270+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Iran war live: US slaps new sanctions on Iran, warns Tehran trade partners",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/8/25/iran-war-live-drat?traffic_source=rss",
+   "published": "2026-08-25T00:00:00+00:00",
+   "summary": "US tells countries to choose between Washington and Tehran, warns Iran&#039;s trade partners they will face consequences.",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "How US sanctions on Iran ripple through global markets and consumers",
@@ -604,18 +615,6 @@
    "tags": [
     "shipping",
     "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "US military says strike on alleged drug-smuggling boat kills two",
-   "url": "https://www.aljazeera.com/news/2026/8/24/us-military-says-strike-on-alleged-drug-smuggling-boat-kills-two?traffic_source=rss",
-   "published": "2026-08-24T09:58:03+00:00",
-   "summary": "US Southern Command says Sunday&#039;s strike targeted vessel operating along established narco-trafficking routes.",
-   "tags": [
-    "strikes",
-    "shipping"
    ],
    "highlight": false
   }
