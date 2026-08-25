@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-25T05:17:51.581961+00:00",
+ "asOf": "2026-08-25T05:39:25.115615+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Two US carrier groups in Middle East strain navy resources",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/two-us-carrier-groups-in-middle-east-strain-navy-resources?traffic_source=rss",
+   "published": "2026-08-25T05:19:24+00:00",
+   "summary": "Deploying two US carrier strike groups to the Middle East represents a significant concentration of firepower",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "France, Saudi Arabia agree on $7bn theme park project near Paris",
@@ -45,10 +56,10 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "Iran war live: US slaps new sanctions on Iran, warns Tehran trade partners",
+   "title": "Iran war live: Pakistan reports progress on restoring US-Iran MoU",
    "url": "https://www.aljazeera.com/news/liveblog/2026/8/25/iran-war-live-drat?traffic_source=rss",
    "published": "2026-08-25T00:00:00+00:00",
-   "summary": "US tells countries to choose between Washington and Tehran, warns Iran&#039;s trade partners they will face consequences.",
+   "summary": "Washington has slapped new sanctions on Tehran and warned Iran&#039;s trade partners they will face consequences.",
    "tags": [
     "sanctions"
    ],
@@ -605,17 +616,6 @@
    "summary": "Israel has threatened Palestinian groups against launching &#039;kites, drones, and balloons&#039; from the war-torn enclave.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran to use all avenues, capacities to counter US economic war: Baqaei",
-   "url": "https://en.irna.ir/news/86244432/Iran-to-use-all-avenues-capacities-to-counter-US-economic-war",
-   "published": "2026-08-24T10:54:17+00:00",
-   "summary": "Tehran, IRNA — Foreign Ministry spokesperson Esmail Baqaei referred to the continued illegal and unjust American sanctions against the country, saying Iran will definitely use all its bilateral and multilateral capabilities to counter the economic war launched by Washington.",
-   "tags": [
-    "sanctions"
    ],
    "highlight": false
   }
