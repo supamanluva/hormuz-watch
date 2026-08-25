@@ -1,6 +1,15 @@
 {
- "asOf": "2026-08-25T20:38:52.547516+00:00",
+ "asOf": "2026-08-25T20:56:20.454521+00:00",
  "items": [
+  {
+   "source": "White House",
+   "title": "Honoring the Memory of Dolly Parton",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/08/honoring-the-memory-of-dolly-parton/",
+   "published": "2026-08-25T20:42:03+00:00",
+   "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA A PROCLAMATION As a mark of respect for the memory of Dolly Parton, I hereby order, by the authority vested in me by the Constitution and the laws of the United States of America, that the flag of the United States shall be flown at half-staff at the White House and [&#8230;] The post Honoring the Memory of Dolly Parton appeared first on The White H",
+   "tags": [],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Baqaei’s reaction to US declaration of economic war: No honorable government accepts normalization of bullying",
@@ -20,6 +29,17 @@
    "summary": "Omani FM hopes the two countries will &#039;soon announce&#039; a joint temporary transit corridor through the Strait of Hormuz.",
    "tags": [
     "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "UN Press",
+   "title": "Secretary-General Condemns Latest Deadly Gang Attacks Near Port-au-Prince, Haiti",
+   "url": "https://press.un.org/en/2026/sgsm/23248.doc.htm",
+   "published": "2026-08-25T19:40:10+00:00",
+   "summary": "The following statement was issued today by the Spokesman for UN Secretary-General António Guterres:",
+   "tags": [
+    "strikes"
    ],
    "highlight": false
   },
@@ -588,28 +608,6 @@
    "summary": "Islamabad, IRNA – Pakistan’s Interior Minister Syed Mohsin Raza Naqvi says that meetings with Iranian officials in Tehran were very positive and constructive, expressing hope that the diplomatic efforts would help pave the way for lasting peace in the region.",
    "tags": [
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Bangladesh-India reset stalls over Hasina: What would break the deadlock?",
-   "url": "https://www.aljazeera.com/news/2026/8/25/hasina-spat-stalls-bangladesh-india-reset-what-would-break-the-deadlock?traffic_source=rss",
-   "published": "2026-08-25T07:46:56+00:00",
-   "summary": "Analysts say an Indian commitment not to allow ousted Bangladesh PM to engage in politics from their soil would help.",
-   "tags": [
-    "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "The Iran war is bringing cyberwarfare into critical infrastructure",
-   "url": "https://www.aljazeera.com/opinions/2026/8/25/the-iran-war-is-bringing-cyberwarfare-into-critical-infrastructure?traffic_source=rss",
-   "published": "2026-08-25T06:37:32+00:00",
-   "summary": "Recent attacks in the UK and the US demonstrate critical vulnerabilities that governments need to urgently address.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   }
