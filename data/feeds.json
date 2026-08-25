@@ -1,6 +1,28 @@
 {
- "asOf": "2026-08-25T21:14:17.450835+00:00",
+ "asOf": "2026-08-25T21:38:01.372391+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Syrian Democratic Forces announce their dissolution",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/syrian-democratic-forces-announce-their-dissolution?traffic_source=rss",
+   "published": "2026-08-25T21:09:05+00:00",
+   "summary": "The Kurdish-led Syrian Democratic Forces will dissolve as an independent military force under an agreement with Damascus",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "UN Press",
+   "title": "With Critical Food Systems Under Attack, Secretary-General Implores Security Council ‘No Time to Lose’ for Breaking Vicious Cycle Linking Hunger, Armed Conflict",
+   "url": "https://press.un.org/en/2026/sgsm23246.doc.htm",
+   "published": "2026-08-25T21:06:35+00:00",
+   "summary": "Following are UN Secretary-General António Guterres’ remarks to the Security Council on conflict and food security — “Food under Fire: the Security Council’s role in mitigating global and local food crises”, today in New York:",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "White House",
    "title": "Honoring the Memory of Dolly Parton",
@@ -586,28 +608,6 @@
    "summary": "Shiru Kihara, a nurse in Kenya, explains why she and thousands of other nurses are on strike demanding fair pay.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Pakistani Army chief’s Tehran talks highly constructive: Pakistan’s Army",
-   "url": "https://en.irna.ir/news/86245312/Pakistani-Army-chief-s-Tehran-talks-highly-constructive-Pakistan-s",
-   "published": "2026-08-25T08:49:36+00:00",
-   "summary": "Islamabad, IRNA — Pakistan’s Army has announced that Chief of Defence Forces Field Marshal Asim Munir held highly constructive talks with senior Iranian officials during his one-day visit to Tehran, focusing on regional peace, preventing further escalation and resolving disputes through dialogue.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Pakistan says significant progress made in talks on Iran-US war",
-   "url": "https://www.aljazeera.com/news/2026/8/25/pakistan-says-significant-progress-made-in-talks-on-iran-us-war?traffic_source=rss",
-   "published": "2026-08-25T08:32:52+00:00",
-   "summary": "The talks were held during a daylong diplomatic mission to Tehran by Pakistan’s army chief and interior minister.",
-   "tags": [
-    "diplomacy"
    ],
    "highlight": false
   }
