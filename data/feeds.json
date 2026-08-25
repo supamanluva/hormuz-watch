@@ -1,6 +1,28 @@
 {
- "asOf": "2026-08-25T19:55:56.582451+00:00",
+ "asOf": "2026-08-25T20:13:54.138290+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Baqaei’s reaction to US declaration of economic war: No honorable government accepts normalization of bullying",
+   "url": "https://en.irna.ir/news/86246034/Baqaei-s-reaction-to-US-declaration-of-economic-war-No-honorable",
+   "published": "2026-08-25T20:06:21+00:00",
+   "summary": "Tehran, IRNA – Iranian Foreign Ministry spokesperson Esmaeil Baqaei says the US economic war against Iran is an attack on the national sovereignty of all countries and an encroachment upon the right of all nations to self-determination.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Iran, Oman discuss temporary shipping lane through Strait of Hormuz",
+   "url": "https://www.aljazeera.com/news/2026/8/25/iran-oman-discuss-temporary-shipping-lane-through-strait-of-hormuz?traffic_source=rss",
+   "published": "2026-08-25T19:47:51+00:00",
+   "summary": "Omani FM hopes the two countries will &#039;soon announce&#039; a joint temporary transit corridor through the Strait of Hormuz.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Syria’s economy poised for improvement after US sanctions removal",
@@ -585,35 +607,12 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "France, Saudi Arabia agree on $7bn theme park project near Paris",
-   "url": "https://www.aljazeera.com/news/2026/8/25/france-saudi-arabia-agree-on-7bn-theme-park-project-near-paris?traffic_source=rss",
-   "published": "2026-08-25T04:38:20+00:00",
-   "summary": "Theme park project is among a raft of deals spanning energy, defence, AI and tourism signed during MBS&#039;s visit to Paris.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
    "source": "White House",
    "title": "Presidential Message on Overdose and Drug Poisoning Awareness Week",
    "url": "https://www.whitehouse.gov/briefings-statements/2026/08/presidential-message-on-overdose-and-drug-poisoning-awareness-week/",
    "published": "2026-08-25T02:00:00+00:00",
    "summary": "During Overdose and Drug Poisoning Awareness Week, our Nation renews its resolve to defeat the scourge of illicit drugs and synthetic poisons that have devastated hundreds of thousands of American lives.&#160; My Administration is relentlessly confronting this threat at every source, and we will always put our national security and the safety, health, and well-being [&#8230;] The post Presidential",
    "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Increased Drone Attacks, Mass Atrocities in War-Torn Sudan Deepening Already Catastrophic Humanitarian Crisis, Top Officials Warn Security Council",
-   "url": "https://press.un.org/en/2026/sc16437.doc.htm",
-   "published": "2026-08-24T22:24:34+00:00",
-   "summary": "Sudan’s escalating war has deepened one of the world’s worst humanitarian crises and raised fresh fears of mass atrocities, senior United Nations officials told the Security Council today, as members clashed over sanctions, external arms flows and how to revive a stalled political process.",
-   "tags": [
-    "strikes",
-    "sanctions"
-   ],
    "highlight": false
   }
  ]
