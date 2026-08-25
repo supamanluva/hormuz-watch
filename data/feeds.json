@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-25T08:41:37.819162+00:00",
+ "asOf": "2026-08-25T09:02:06.212163+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Pakistani Army chief’s Tehran talks highly constructive: Pakistan’s Army",
+   "url": "https://en.irna.ir/news/86245312/Pakistani-Army-chief-s-Tehran-talks-highly-constructive-Pakistan-s",
+   "published": "2026-08-25T08:49:36+00:00",
+   "summary": "Islamabad, IRNA — Pakistan’s Army has announced that Chief of Defence Forces Field Marshal Asim Munir held highly constructive talks with senior Iranian officials during his one-day visit to Tehran, focusing on regional peace, preventing further escalation and resolving disputes through dialogue.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Pakistan says significant progress made in talks on Iran-US war",
@@ -100,7 +111,7 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "Iran war live: Pakistan reports progress on restoring US-Iran MoU",
+   "title": "Iran war live: US economic campaign ‘tacit admission’ of military failure",
    "url": "https://www.aljazeera.com/news/liveblog/2026/8/25/iran-war-live-drat?traffic_source=rss",
    "published": "2026-08-25T00:00:00+00:00",
    "summary": "Pakistan’s interior minister says significant progress made during talks with Iran&#039;s president.",
@@ -603,17 +614,6 @@
    "url": "https://www.aljazeera.com/sports/2026/8/24/samuel-etoo-urges-support-for-embattled-fifa-president-gianni-infantino?traffic_source=rss",
    "published": "2026-08-24T15:15:55+00:00",
    "summary": "Former star striker, now head of Cameroon&#039;s FA, backs Infantino despite mounting pressure on him to resign.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Why Israeli settler attacks on Palestinians in West Bank are pogroms",
-   "url": "https://www.aljazeera.com/features/2026/8/24/why-israeli-settler-attacks-on-palestinians-in-west-bank-are-pogroms?traffic_source=rss",
-   "published": "2026-08-24T15:02:34+00:00",
-   "summary": "Waves of settler attacks, aided by Israel&#039;s military, increasingly fit the definition of a pogrom.",
    "tags": [
     "strikes"
    ],
