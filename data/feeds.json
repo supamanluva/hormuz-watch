@@ -1,6 +1,18 @@
 {
- "asOf": "2026-08-25T17:56:21.228156+00:00",
+ "asOf": "2026-08-25T18:16:44.828864+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Kremlin denies planned talks with US envoys amid reports CIA head in Russia",
+   "url": "https://www.aljazeera.com/news/2026/8/25/kremlin-denies-planned-talks-with-us-envoys-amid-reports-cia-head-in-russia?traffic_source=rss",
+   "published": "2026-08-25T18:01:37+00:00",
+   "summary": "Washington reportedly alerted Ukraine to refrain from strikes until delegation leaves Moscow, US media reports.",
+   "tags": [
+    "strikes",
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Fatah, Dahlan bloc hold reconciliation talks ahead of Palestinian elections",
@@ -37,7 +49,7 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "Sanctions or missiles? Why Gulf may not relish Trump’s new Iran approach",
+   "title": "Sanctions or missiles? How Gulf will view Trump’s new Iran approach",
    "url": "https://www.aljazeera.com/news/2026/8/25/sanctions-or-missiles-why-gulf-may-not-relish-trumps-new-iran-approach?traffic_source=rss",
    "published": "2026-08-25T16:39:24+00:00",
    "summary": "As Washington pressures Tehran, Gulf states weigh sanctions against the risk of escalation.",
@@ -555,18 +567,6 @@
    "summary": "Pakistan’s interior minister says significant progress made during talks with Iran&#039;s president.",
    "tags": [
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "How US sanctions on Iran ripple through global markets and consumers",
-   "url": "https://www.aljazeera.com/economy/2026/8/24/how-us-sanctions-on-iran-ripple-through-global-markets-and-consumers?traffic_source=rss",
-   "published": "2026-08-24T22:46:02+00:00",
-   "summary": "New sanctions hit Iran&#039;s aviation, tech, and shipping sectors, amplifying pressure on global markets and energy prices.",
-   "tags": [
-    "sanctions",
-    "shipping"
    ],
    "highlight": false
   },
