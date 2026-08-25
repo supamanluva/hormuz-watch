@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-25T06:41:56.950055+00:00",
+ "asOf": "2026-08-25T07:05:57.957820+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "The Iran war is bringing cyberwarfare into critical infrastructure",
+   "url": "https://www.aljazeera.com/opinions/2026/8/25/the-iran-war-is-bringing-cyberwarfare-into-critical-infrastructure?traffic_source=rss",
+   "published": "2026-08-25T06:37:32+00:00",
+   "summary": "Recent attacks in the UK and the US demonstrate critical vulnerabilities that governments need to urgently address.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Two US carrier groups in Middle East strain navy resources",
@@ -605,17 +616,6 @@
    "summary": "Tehran, IRNA – Pakistan’s Army Chief Field Marshal Asim Munir has arrived in Tehran for discussions with senior Iranian officials.",
    "tags": [
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Israel accused of using kites as pretext to justify escalating Gaza attacks",
-   "url": "https://www.aljazeera.com/news/2026/8/24/israel-accused-of-using-kites-as-pretext-to-justify-escalating-gaza-attacks?traffic_source=rss",
-   "published": "2026-08-24T11:57:26+00:00",
-   "summary": "Israel has threatened Palestinian groups against launching &#039;kites, drones, and balloons&#039; from the war-torn enclave.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   }
