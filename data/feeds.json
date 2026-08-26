@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-26T03:43:28.828674+00:00",
+ "asOf": "2026-08-26T05:00:44.890941+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Dozens killed in rebel attacks on Sudan’s Kordofan, medical group says",
+   "url": "https://www.aljazeera.com/news/2026/8/26/dozens-killed-in-rebel-attacks-on-sudans-kordofan-medical-group-says?traffic_source=rss",
+   "published": "2026-08-26T03:49:23+00:00",
+   "summary": "Sudan Doctors Network says SPLM-N rebels killed 27 people in South Kordofan, including four children.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "[No Title] - Post from August 26, 2026",
@@ -594,17 +605,6 @@
    "tags": [
     "diplomacy",
     "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Palestine weekly: After Kushner departs, Israel escalates Gaza attacks",
-   "url": "https://www.aljazeera.com/news/2026/8/25/palestine-weekly-after-kushner-departs-israel-escalates-gaza-attacks?traffic_source=rss",
-   "published": "2026-08-25T11:52:40+00:00",
-   "summary": "Israel deepens Gaza attacks and West Bank expansion as countries condemn abuses but impose few consequences.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   }
