@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-26T05:58:02.376394+00:00",
+ "asOf": "2026-08-26T06:18:23.054580+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Top official says Iran, Oman have agreed new temporary route in Hormuz",
+   "url": "https://www.aljazeera.com/economy/2026/8/26/top-official-says-iran-oman-have-agreed-new-temporary-hormuz-route?traffic_source=rss",
+   "published": "2026-08-26T06:02:13+00:00",
+   "summary": "Deputy foreign minster says the route&#039;s entry as well as part of the exit would run through Iranian territorial waters.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Israeli airstrikes, artillery shelling target Southern Lebanon",
@@ -588,18 +599,6 @@
    "published": "2026-08-25T14:44:46+00:00",
    "summary": "Two anniversaries converged as the Security Council met to discuss the situation in Ukraine today — with that country marking both 35 years of independence and four-and-a-half years of invasion — as peace remains elusive amidst soaring civilian casualties.",
    "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "China says will safeguard its own interests as US expands Iran sanctions",
-   "url": "https://www.aljazeera.com/economy/2026/8/25/china-says-will-safeguard-its-own-interests-as-us-expands-iran-sanctions?traffic_source=rss",
-   "published": "2026-08-25T14:43:12+00:00",
-   "summary": "China has advocated for a ceasefire, insisting US sanctions will not resolve the Middle East conflict.",
-   "tags": [
-    "sanctions",
     "diplomacy"
    ],
    "highlight": false
