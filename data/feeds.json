@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-26T13:09:34.762255+00:00",
+ "asOf": "2026-08-26T13:43:52.808410+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "ICC chief urges Japan to counter US pressure on the court",
+   "url": "https://www.aljazeera.com/news/2026/8/26/icc-chief-urges-japan-to-counter-us-pressure-on-war-crimes-court?traffic_source=rss",
+   "published": "2026-08-26T13:15:59+00:00",
+   "summary": "Washington escalated its campaign against the ICC last week by sanctioning its president and a senior trial lawyer.",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Parliament to pursue US war crimes in Lamerd through legal channels: MP",
@@ -605,15 +616,6 @@
    "url": "https://www.trumpstruth.org/statuses/41199",
    "published": "2026-08-25T15:42:46+00:00",
    "summary": "",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from August 25, 2026",
-   "url": "https://trumpstruth.org/statuses/41200",
-   "published": "2026-08-25T15:42:12+00:00",
-   "summary": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117156903407897572",
    "tags": [],
    "highlight": true
   }
