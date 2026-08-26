@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-26T14:25:11.530952+00:00",
+ "asOf": "2026-08-26T14:46:12.548532+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Trump tells Al Jazeera “not in a hurry” for Iran to return to talks",
+   "url": "https://www.aljazeera.com/economy/2026/8/26/trump-tells-al-jazeera-not-in-a-hurry-for-iran-to-return-to-talks?traffic_source=rss",
+   "published": "2026-08-26T14:16:29+00:00",
+   "summary": "&quot;I have no time schedule,&quot; Trump says when asked when he expects Iran to return to the negotiating table.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Negotiations not a sign of retreat, but resistance if national interests are served: Ghalibaf",
@@ -572,18 +583,6 @@
    "tags": [
     "diplomacy",
     "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Sanctions or missiles? How Gulf will view Trump’s new Iran approach",
-   "url": "https://www.aljazeera.com/news/2026/8/25/sanctions-or-missiles-why-gulf-may-not-relish-trumps-new-iran-approach?traffic_source=rss",
-   "published": "2026-08-25T16:39:24+00:00",
-   "summary": "As Washington pressures Tehran, Gulf states weigh sanctions against the risk of escalation.",
-   "tags": [
-    "strikes",
-    "sanctions"
    ],
    "highlight": false
   },
