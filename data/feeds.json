@@ -1,6 +1,37 @@
 {
- "asOf": "2026-08-26T18:45:50.375200+00:00",
+ "asOf": "2026-08-26T19:26:35.624028+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Araghchi urges UN to react to unlawful US sanctions",
+   "url": "https://en.irna.ir/news/86247222/Araghchi-urges-UN-to-react-to-unlawful-US-sanctions",
+   "published": "2026-08-26T19:04:29+00:00",
+   "summary": "Tehran, IRNA – Iranian Foreign Minister Abbas Araghchi published on Wednesday a letter to United Nations Secretary-General Antonio Guterres in which he urged the organization and the UN Security Council to respond to the United States' latest economic offensive against his country.",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran says US is angry because it failed to force Tehran to surrender",
+   "url": "https://en.irna.ir/news/86247142/Iran-says-US-is-angry-because-it-failed-to-force-Tehran-to-surrender",
+   "published": "2026-08-26T18:56:06+00:00",
+   "summary": "Rasht, IRNA – The United States is angry because it has failed to force Iran to surrender, Vice President for Executive Affairs Mohammad Jafar Ghaempanah said on Wednesday, noting that Tehran’s resistance had prompted Washington to shift from threats to calls for negotiations.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "White House",
+   "title": "Trump Delivers: 14 Recent Wins You May Have Missed",
+   "url": "https://www.whitehouse.gov/releases/2026/08/trump-delivers-14-wins-you-may-have-missed/",
+   "published": "2026-08-26T18:29:53+00:00",
+   "summary": "President Donald J. Trump is delivering the results he promised — and the wins keep stacking up. From the securing a landmark election integrity ruling and launching the largest visa crackdown in American history to cutting illegals off taxpayer benefits and driving fentanyl deaths way down, the Trump Administration posted another decisive week putting the [&#8230;] The post Trump Delivers: 14 Rec",
+   "tags": [],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "US imposes sanctions on Palestine Action and other left-wing groups",
@@ -14,7 +45,7 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "US inflation remains sticky in July",
+   "title": "US inflation holds at 3.7 percent in July, above Fed target",
    "url": "https://www.aljazeera.com/economy/2026/8/26/us-inflation-remains-sticky-in-july?traffic_source=rss",
    "published": "2026-08-26T17:28:33+00:00",
    "summary": "Inflation has worsened since the US and Israel attacked Iran, sending energy prices spiralling.",
@@ -584,39 +615,6 @@
    "summary": "Tehran, IRNA – Iranian Parliament Speaker Mohammad Bagher Ghalibaf has sharply mocked US Treasury Secretary Scott Bessent over his recent remarks and apparent retreat from earlier claims about the impact of new sanctions on Iran.",
    "tags": [
     "sanctions"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "‘Best Protection against Food Insecurity Is Peace,’ Secretary-General Tells Security Council, Urging Action as Conflict Fuels Global Hunger",
-   "url": "https://press.un.org/en/2026/sc16439.doc.htm",
-   "published": "2026-08-25T22:07:18+00:00",
-   "summary": "Critical food systems — and the lives and livelihoods they sustain — are under attack around the world, Secretary-General António Guterres warned the Security Council today, urging the UN’s flagship crisis management organ to break the vicious cycle of conflict and hunger by acting “when the warning lights are flashing” — from Gaza and Haiti to Myanmar, Sudan, Ukraine and beyond.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iranian, Qatari FMs hold talks on regional developments over phone",
-   "url": "https://en.irna.ir/news/86246104/Iranian-Qatari-FMs-hold-talks-on-regional-developments-over",
-   "published": "2026-08-25T21:52:46+00:00",
-   "summary": "Tehran, IRNA – Iranian Foreign Minister Abbas Araghchi held a telephone conversation with his Qatari counterpart, Sheikh Mohammed bin Abdulrahman Al Thani, on Tuesday evening.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Seven killed in Gaza as Israeli strike ‘destroys’ aid supply warehouse",
-   "url": "https://www.aljazeera.com/news/2026/8/25/seven-killed-in-gaza-as-israeli-strike-destroys-aid-supply-warehouse?traffic_source=rss",
-   "published": "2026-08-25T21:26:25+00:00",
-   "summary": "Health Ministry warns of &#039;complete collapse of the basic necessities of life&#039; in Gaza as Israel&#039;s attacks continue.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   }
