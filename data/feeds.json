@@ -1,12 +1,331 @@
 {
- "asOf": "2026-08-26T14:46:12.548532+00:00",
+ "asOf": "2026-08-26T18:02:55.028497+00:00",
  "items": [
   {
    "source": "Al Jazeera",
-   "title": "Trump tells Al Jazeera “not in a hurry” for Iran to return to talks",
+   "title": "US inflation remains sticky in July",
+   "url": "https://www.aljazeera.com/economy/2026/8/26/us-inflation-remains-sticky-in-july?traffic_source=rss",
+   "published": "2026-08-26T17:28:33+00:00",
+   "summary": "Inflation has worsened since the US and Israel attacked Iran, sending energy prices spiralling.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Why Hormuz remains high risk for ships despite US claims of mine-clearing",
+   "url": "https://www.aljazeera.com/news/2026/8/26/why-hormuz-remains-high-risk-for-ships-despite-us-claims-of-mine-clearing?traffic_source=rss",
+   "published": "2026-08-26T17:05:57+00:00",
+   "summary": "Analysts say mine clearance alone is unlikely to make shipping &#039;safe&#039; in the Strait of Hormuz.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Iran emphasises self-sufficiency in battle against US economic war",
+   "url": "https://www.aljazeera.com/news/2026/8/26/iran-emphasises-self-sufficiency-battle-against-us-economic-war?traffic_source=rss",
+   "published": "2026-08-26T16:53:20+00:00",
+   "summary": "Iranian authorities believe they can withstand US sanctions, but warn of a tough year ahead.",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "RT @megforfloridaPresident Donald J. Trump International Airport shining bright at night.A beautiful sign welcoming travelers as they approach the terminal! ✈️🇺🇸",
+   "url": "https://trumpstruth.org/statuses/41261",
+   "published": "2026-08-26T16:42:55+00:00",
+   "summary": "RT @ megforflorida President Donald J. Trump International Airport shining bright at night. A beautiful sign welcoming travelers as they approach the terminal! ✈️🇺🇸",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran prioritizes nuclear fusion for future energy needs, says nuclear chief",
+   "url": "https://en.irna.ir/news/86247108/Iran-prioritizes-nuclear-fusion-for-future-energy-needs-says",
+   "published": "2026-08-26T16:39:52+00:00",
+   "summary": "Tehran, IRNA – The head of the Atomic Energy Organization of Iran (AEOI) has emphasized that Iran is focusing on nuclear fusion as a key priority for the future.",
+   "tags": [
+    "nuclear"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iraq’s Kurdistan must not be used for attacks against Iran: IRGC commander",
+   "url": "https://en.irna.ir/news/86247084/Iraq-s-Kurdistan-must-not-be-used-for-attacks-against-Iran-IRGC",
+   "published": "2026-08-26T16:37:19+00:00",
+   "summary": "Urmia, IRNA – The commander of Hamza Sayyid al-Shuhada Base of the Islamic Revolution Guards Corps (IRGC) Ground Forces says Iran has no problem with its neighbors, including Iraq's semi-autonomous Kurdistan Region, but does not want their soil to be used for any aggression against the country.",
+   "tags": [
+    "strikes",
+    "oil"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "EXCLUSIVE: White House Ditches Outdated Climate Nightmares For Real-World Policy:",
+   "url": "https://trumpstruth.org/statuses/41259",
+   "published": "2026-08-26T16:35:34+00:00",
+   "summary": "EXCLUSIVE: White House Ditches Outdated Climate Nightmares For Real-World Policy: https://www. dailywire.com/news/exclusive-w hite-house-ditches-outdated-climate-nightmares-for-real-world-policy",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "JD Vance, Ohio Figures Give Rousing Middletown Speech on Manufacturing Investments:",
+   "url": "https://trumpstruth.org/statuses/41260",
+   "published": "2026-08-26T16:35:11+00:00",
+   "summary": "JD Vance, Ohio Figures Give Rousing Middletown Speech on Manufacturing Investments: https://www. dailysignal.com/2026/08/24/jd- vance-ohio-figures-give-rousing-middletown-speech-on-manufacturing-investments/",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "Trump touts school choice in Rose Garden event:",
+   "url": "https://trumpstruth.org/statuses/41253",
+   "published": "2026-08-26T16:34:50+00:00",
+   "summary": "Trump touts school choice in Rose Garden event: https:// justthenews.com/politics-polic y/trump-touts-school-choice-rose-garden-event",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "[No Title] - Post from August 26, 2026",
+   "url": "https://trumpstruth.org/statuses/41254",
+   "published": "2026-08-26T16:33:49+00:00",
+   "summary": "",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "How about Roger Clemens not being in the National Baseball Hall of Fame and Museum in Cooperstown, New York, all because a bunch of jealous people with far less Talent, voted that he shouldn’t be there. He was also not convicted, or admitted, to taking Drugs. Roger is easily one of the few Greatest Pitchers of All Time, winning 354 Games, 7 Cy Young Awards (A Record, by 3!), and played in three World Series, winning two! He was third in most Strike-Outs. The Commissioner told me he was going to approve Pete Rose, but he waited long enough until Pete died. No wonder Baseball is in trouble! President DONALD J. TRUMP",
+   "url": "https://trumpstruth.org/statuses/41255",
+   "published": "2026-08-26T16:33:27+00:00",
+   "summary": "How about Roger Clemens not being in the National Baseball Hall of Fame and Museum in Cooperstown, New York, all because a bunch of jealous people with far less Talent, voted that he shouldn’t be there. He was also not convicted, or admitted, to taking Drugs. Roger is easily one of the few Greatest Pitchers of All Time, winning 354 Games, 7 Cy Young Awards (A Record, by 3!), and played in three Wo",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "Ralph Norman had the look of a good Congressman (Not great, but good), but ruined his career when he endorsed Nikki Haley.",
+   "url": "https://trumpstruth.org/statuses/41256",
+   "published": "2026-08-26T16:32:08+00:00",
+   "summary": "Ralph Norman had the look of a good Congressman (Not great, but good), but ruined his career when he endorsed Nikki Haley.",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "[No Title] - Post from August 26, 2026",
+   "url": "https://trumpstruth.org/statuses/41257",
+   "published": "2026-08-26T16:31:58+00:00",
+   "summary": "",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "President Donald J. Trump International Airport shining bright at night.A beautiful sign welcoming travelers as they approach the terminal! ✈️🇺🇸",
+   "url": "https://trumpstruth.org/statuses/41262",
+   "published": "2026-08-26T16:31:55+00:00",
+   "summary": "President Donald J. Trump International Airport shining bright at night. A beautiful sign welcoming travelers as they approach the terminal! ✈️🇺🇸",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "[No Title] - Post from August 26, 2026",
+   "url": "https://trumpstruth.org/statuses/41258",
+   "published": "2026-08-26T16:31:52+00:00",
+   "summary": "",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "[No Title] - Post from August 26, 2026",
+   "url": "https://trumpstruth.org/statuses/41248",
+   "published": "2026-08-26T16:29:38+00:00",
+   "summary": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117162754379459312",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "[No Title] - Post from August 26, 2026",
+   "url": "https://trumpstruth.org/statuses/41249",
+   "published": "2026-08-26T16:29:15+00:00",
+   "summary": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117162751648515478",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "[No Title] - Post from August 26, 2026",
+   "url": "https://trumpstruth.org/statuses/41250",
+   "published": "2026-08-26T16:28:33+00:00",
+   "summary": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117162748946903706",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "[No Title] - Post from August 26, 2026",
+   "url": "https://trumpstruth.org/statuses/41251",
+   "published": "2026-08-26T16:27:52+00:00",
+   "summary": "",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Putin and al-Sharaa discuss Russia-Syria relations, deal on military bases",
+   "url": "https://www.aljazeera.com/news/2026/8/26/putin-and-al-sharaa-discuss-russia-syria-relations-deal-on-military-bases?traffic_source=rss",
+   "published": "2026-08-26T16:27:42+00:00",
+   "summary": "Syria has been in talks on the fate of Khmeimim and Tartous bases, which Russia used to support ousted Assad regime.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "Trump Unleashes Scott Bessent on Iran:",
+   "url": "https://trumpstruth.org/statuses/41252",
+   "published": "2026-08-26T16:26:54+00:00",
+   "summary": "Trump Unleashes Scott Bessent on Iran: https://www. wsj.com/opinion/donald-trump-s cott-bessent-sanctions-iran-oil-economy-96362772",
+   "tags": [
+    "sanctions",
+    "oil"
+   ],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "Supreme Court Delivers Major Election Integrity Victory in Big Win for Trump:",
+   "url": "https://trumpstruth.org/statuses/41240",
+   "published": "2026-08-26T16:22:41+00:00",
+   "summary": "Supreme Court Delivers Major Election Integrity Victory in Big Win for Trump: https:// amac.us/newsline/supreme-court -delivers-major-election-integrity-victory-in-big-win-for-trump",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "Bessent: Iran’s Leadership ‘Panicking’ Under Trump Economic Offensive — Vows to Sever ‘Every Economic Lifeline’:",
+   "url": "https://trumpstruth.org/statuses/41241",
+   "published": "2026-08-26T16:22:27+00:00",
+   "summary": "Bessent: Iran’s Leadership ‘Panicking’ Under Trump Economic Offensive — Vows to Sever ‘Every Economic Lifeline’: https://www. breitbart.com/politics/2026/08 /25/bessent-irans-leadership-panicking-under-trump-economic-offensive-vows-to-sever-every-economic-lifeline/",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "Trump Directs U.S. Flag Be Lowered in Honor of Dolly Parton: ‘Has Never Been Anyone Like Her’:",
+   "url": "https://trumpstruth.org/statuses/41242",
+   "published": "2026-08-26T16:22:14+00:00",
+   "summary": "Trump Directs U.S. Flag Be Lowered in Honor of Dolly Parton: ‘Has Never Been Anyone Like Her’: https://www. breitbart.com/entertainment/20 26/08/25/trump-directs-u-s-flag-be-lowered-in-honor-of-dolly-parton-has-never-been-anyone-like-her/",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "MORNING GLORY: GOP's only path in November – defend Trump and defeat radicals in Iran:",
+   "url": "https://trumpstruth.org/statuses/41243",
+   "published": "2026-08-26T16:21:57+00:00",
+   "summary": "MORNING GLORY: GOP's only path in November – defend Trump and defeat radicals in Iran: https://www. foxnews.com/opinion/morning-gl ory-gops-path-november-defend-trump-defeat-radicals-iran",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "DOJ’s Civil Rights Division Continues Its Election Integrity Offensive:",
+   "url": "https://trumpstruth.org/statuses/41244",
+   "published": "2026-08-26T16:21:44+00:00",
+   "summary": "DOJ’s Civil Rights Division Continues Its Election Integrity Offensive: https:// dailycaller.com/2026/07/08/jus tice-department-election-integrity-civil-rights-voter-rolls-donald-trump-harmeet-dhillon/",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "The Empire of Liberty vs the Dictatorship of Hate:",
+   "url": "https://trumpstruth.org/statuses/41245",
+   "published": "2026-08-26T16:21:32+00:00",
+   "summary": "The Empire of Liberty vs the Dictatorship of Hate: https:// gingrich360.com/2026/07/07/the -empire-of-liberty-vs-the-dictatorship-of-hate/",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "Apple to invest $30 billion in US chip manufacturing:",
+   "url": "https://trumpstruth.org/statuses/41246",
+   "published": "2026-08-26T16:21:18+00:00",
+   "summary": "Apple to invest $30 billion in US chip manufacturing: https://www. foxbusiness.com/media/apple-in vest-30-billion-us-chip-manufacturing",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "Secretary Scott Bessent Delivers Remarks at the Official Unveiling of the President Donald J. Trump Bridge along Interstate 40 in Dandridge, Tennessee:",
+   "url": "https://trumpstruth.org/statuses/41247",
+   "published": "2026-08-26T16:21:06+00:00",
+   "summary": "Secretary Scott Bessent Delivers Remarks at the Official Unveiling of the President Donald J. Trump Bridge along Interstate 40 in Dandridge, Tennessee: https:// home.treasury.gov/news/press-r eleases/sb0557/",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Video: Man kills eight relatives in Montana gun attack",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/video-man-kills-eight-relatives-in-montana-gun-attack?traffic_source=rss",
+   "published": "2026-08-26T16:16:02+00:00",
+   "summary": "A man killed eight relatives at a family home in the US state of Montana.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "[No Title] - Post from August 26, 2026",
+   "url": "https://trumpstruth.org/statuses/41238",
+   "published": "2026-08-26T16:06:16+00:00",
+   "summary": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117162662461574744",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "[No Title] - Post from August 26, 2026",
+   "url": "https://trumpstruth.org/statuses/41239",
+   "published": "2026-08-26T16:05:52+00:00",
+   "summary": "",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Kremlin says CIA head met Russian intelligence officials, but not Putin",
+   "url": "https://www.aljazeera.com/news/2026/8/26/kremlin-says-cia-head-met-russian-intelligence-officials-but-not-putin?traffic_source=rss",
+   "published": "2026-08-26T14:30:24+00:00",
+   "summary": "CIA&#039;s Ratcliffe has met with Russian intel officials in Moscow, but not President Putin; Kremlin calls talks &#039;positive&#039;.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Trump tells Al Jazeera ‘not in a hurry’ for Iran to return to talks",
    "url": "https://www.aljazeera.com/economy/2026/8/26/trump-tells-al-jazeera-not-in-a-hurry-for-iran-to-return-to-talks?traffic_source=rss",
    "published": "2026-08-26T14:16:29+00:00",
-   "summary": "&quot;I have no time schedule,&quot; Trump says when asked when he expects Iran to return to the negotiating table.",
+   "summary": "&#039;I have no time schedule,&#039; Trump says when asked when he expects Iran to return to the negotiating table.",
    "tags": [
     "diplomacy"
    ],
@@ -68,15 +387,6 @@
    "highlight": false
   },
   {
-   "source": "Trump · Truth Social",
-   "title": "Speaker of the House, Mike Johnson, is GREAT. He gets it done!!! President DJT",
-   "url": "https://www.trumpstruth.org/statuses/41219",
-   "published": "2026-08-26T11:32:58+00:00",
-   "summary": "Speaker of the House, Mike Johnson, is GREAT. He gets it done!!! President DJT",
-   "tags": [],
-   "highlight": true
-  },
-  {
    "source": "Al Jazeera",
    "title": "Why India is sharing missile secrets with its private sector",
    "url": "https://www.aljazeera.com/news/2026/8/26/why-india-is-sharing-missile-secrets-with-its-private-sector?traffic_source=rss",
@@ -86,24 +396,6 @@
     "strikes"
    ],
    "highlight": false
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "I supported and ENDORSED two so-called “underdogs” yesterday, one from South Carolina, and the other from Oklahoma, and they BOTH WON. Two great people!!! President DJT",
-   "url": "https://www.trumpstruth.org/statuses/41217",
-   "published": "2026-08-26T11:29:39+00:00",
-   "summary": "I supported and ENDORSED two so-called “underdogs” yesterday, one from South Carolina, and the other from Oklahoma, and they BOTH WON. Two great people!!! President DJT",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Great interview by Mike LiPetri on Maria B this morning. He’s running for Congress in New York against a Tax Increasing, Soft on Crime,Dumocrat and, doing fantastically well. Mike has my Complete and Total Endorsement. He will NEVER let you down! President DJT",
-   "url": "https://www.trumpstruth.org/statuses/41218",
-   "published": "2026-08-26T11:19:25+00:00",
-   "summary": "Great interview by Mike LiPetri on Maria B this morning. He’s running for Congress in New York against a Tax Increasing, Soft on Crime, Dumocrat and, doing fantastically well. Mike has my Complete and Total Endorsement. He will NEVER let you down! President DJT",
-   "tags": [],
-   "highlight": true
   },
   {
    "source": "Al Jazeera",
@@ -262,60 +554,6 @@
    "highlight": false
   },
   {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from August 26, 2026",
-   "url": "https://trumpstruth.org/statuses/41216",
-   "published": "2026-08-26T02:52:09+00:00",
-   "summary": "",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from August 26, 2026",
-   "url": "https://www.trumpstruth.org/statuses/41216",
-   "published": "2026-08-26T02:52:09+00:00",
-   "summary": "",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Darline Graham rides Trump endorsement to win GOP nomination for brother's South Carolina seat:",
-   "url": "https://trumpstruth.org/statuses/41215",
-   "published": "2026-08-26T01:28:17+00:00",
-   "summary": "Darline Graham rides Trump endorsement to win GOP nomination for brother's South Carolina seat: https:// justthenews.com/politics-polic y/holdsouth-carolina-gop-primary-runoff-ap",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Darline Graham rides Trump endorsement to win GOP nomination for brother's South Carolina seat:",
-   "url": "https://www.trumpstruth.org/statuses/41215",
-   "published": "2026-08-26T01:28:17+00:00",
-   "summary": "Darline Graham rides Trump endorsement to win GOP nomination for brother's South Carolina seat: https:// justthenews.com/politics-polic y/holdsouth-carolina-gop-primary-runoff-ap",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from August 26, 2026",
-   "url": "https://trumpstruth.org/statuses/41214",
-   "published": "2026-08-26T00:44:40+00:00",
-   "summary": "",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from August 26, 2026",
-   "url": "https://www.trumpstruth.org/statuses/41214",
-   "published": "2026-08-26T00:44:40+00:00",
-   "summary": "",
-   "tags": [],
-   "highlight": true
-  },
-  {
    "source": "Al Jazeera",
    "title": "Iran war live: Iran says Hormuz remains closed despite Oman route deal",
    "url": "https://www.aljazeera.com/news/liveblog/2026/8/26/iran-war-live-iran-says-hormuz-remains-closed-despite-oman-rout-deal?traffic_source=rss",
@@ -381,246 +619,6 @@
     "diplomacy"
    ],
    "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "With Critical Food Systems Under Attack, Secretary-General Implores Security Council ‘No Time to Lose’ for Breaking Vicious Cycle Linking Hunger, Armed Conflict",
-   "url": "https://press.un.org/en/2026/sgsm23246.doc.htm",
-   "published": "2026-08-25T21:06:35+00:00",
-   "summary": "Following are UN Secretary-General António Guterres’ remarks to the Security Council on conflict and food security — “Food under Fire: the Security Council’s role in mitigating global and local food crises”, today in New York:",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "Honoring the Memory of Dolly Parton",
-   "url": "https://www.whitehouse.gov/presidential-actions/2026/08/honoring-the-memory-of-dolly-parton/",
-   "published": "2026-08-25T20:42:03+00:00",
-   "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA A PROCLAMATION As a mark of respect for the memory of Dolly Parton, I hereby order, by the authority vested in me by the Constitution and the laws of the United States of America, that the flag of the United States shall be flown at half-staff at the White House and [&#8230;] The post Honoring the Memory of Dolly Parton appeared first on The White H",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "New US sanctions signal Trump desperation on Iran, experts say",
-   "url": "https://www.aljazeera.com/news/2026/8/25/new-us-sanctions-signal-trump-desperation-on-iran-experts-say?traffic_source=rss",
-   "published": "2026-08-25T20:34:49+00:00",
-   "summary": "Economic escalation is unlikely to force the Iranian government to capitulate to US demands, according to experts.",
-   "tags": [
-    "sanctions"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Baqaei’s reaction to US declaration of economic war: No honorable government accepts normalization of bullying",
-   "url": "https://en.irna.ir/news/86246034/Baqaei-s-reaction-to-US-declaration-of-economic-war-No-honorable",
-   "published": "2026-08-25T20:06:21+00:00",
-   "summary": "Tehran, IRNA – Iranian Foreign Ministry spokesperson Esmaeil Baqaei says the US economic war against Iran is an attack on the national sovereignty of all countries and an encroachment upon the right of all nations to self-determination.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iran, Oman discuss temporary shipping lane through Strait of Hormuz",
-   "url": "https://www.aljazeera.com/news/2026/8/25/iran-oman-discuss-temporary-shipping-lane-through-strait-of-hormuz?traffic_source=rss",
-   "published": "2026-08-25T19:47:51+00:00",
-   "summary": "Omani FM hopes the two countries will &#039;soon announce&#039; a joint temporary transit corridor through the Strait of Hormuz.",
-   "tags": [
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Secretary-General Condemns Latest Deadly Gang Attacks Near Port-au-Prince, Haiti",
-   "url": "https://press.un.org/en/2026/sgsm/23248.doc.htm",
-   "published": "2026-08-25T19:40:10+00:00",
-   "summary": "The following statement was issued today by the Spokesman for UN Secretary-General António Guterres:",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Secretary-General Strongly Condemns Israeli Authorities’ Unauthorized Entry, Interference with UN Palestine Refugee Agency’s Kalandia Training Centre",
-   "url": "https://press.un.org/en/2026/sgsm23247.doc.htm",
-   "published": "2026-08-25T19:40:09+00:00",
-   "summary": "The following statement was issued today by the Spokesman for UN Secretary-General António Guterres:",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Syria’s economy poised for improvement after US sanctions removal",
-   "url": "https://www.aljazeera.com/news/2026/8/25/syrias-economy-poised-for-improvement-after-us-sanctions-removal?traffic_source=rss",
-   "published": "2026-08-25T18:43:42+00:00",
-   "summary": "Removal of US sanctions offers Syria a chance to fully rejoin the global financial system after years of isolation.",
-   "tags": [
-    "sanctions"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Very sad to report that Dolly Parton, one of the greatest Country singers, and far beyond, EVER, has just passed away. This is a true loss for millions of people. There has never been anyone like her, and never will. In her honor, I am lowering the American flag throughout the United States for a one week period beginning tonight at 6:00PM. Rest in Peace, Dolly! The World loves you. President DONALD J. TRUMP",
-   "url": "https://trumpstruth.org/statuses/41213",
-   "published": "2026-08-25T18:32:56+00:00",
-   "summary": "Very sad to report that Dolly Parton, one of the greatest Country singers, and far beyond, EVER, has just passed away. This is a true loss for millions of people. There has never been anyone like her, and never will. In her honor, I am lowering the American flag throughout the United States for a one week period beginning tonight at 6:00PM. Rest in Peace, Dolly! The World loves you. President DONA",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Very sad to report that Dolly Parton, one of the greatest Country singers, and far beyond, EVER, has just passed away. This is a true loss for millions of people. There has never been anyone like her, and never will. In her honor, I am lowering the American flag throughout the United States for a one week period beginning tonight at 6:00PM. Rest in Peace, Dolly! The World loves you. President DONALD J. TRUMP",
-   "url": "https://www.trumpstruth.org/statuses/41213",
-   "published": "2026-08-25T18:32:56+00:00",
-   "summary": "Very sad to report that Dolly Parton, one of the greatest Country singers, and far beyond, EVER, has just passed away. This is a true loss for millions of people. There has never been anyone like her, and never will. In her honor, I am lowering the American flag throughout the United States for a one week period beginning tonight at 6:00PM. Rest in Peace, Dolly! The World loves you. President DONA",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from August 25, 2026",
-   "url": "https://trumpstruth.org/statuses/41211",
-   "published": "2026-08-25T18:19:49+00:00",
-   "summary": "",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from August 25, 2026",
-   "url": "https://www.trumpstruth.org/statuses/41211",
-   "published": "2026-08-25T18:19:49+00:00",
-   "summary": "",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from August 25, 2026",
-   "url": "https://trumpstruth.org/statuses/41212",
-   "published": "2026-08-25T18:19:39+00:00",
-   "summary": "",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from August 25, 2026",
-   "url": "https://www.trumpstruth.org/statuses/41212",
-   "published": "2026-08-25T18:19:39+00:00",
-   "summary": "",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "White House",
-   "title": "President Trump Is Finally Ending Canada’s Free Ride",
-   "url": "https://www.whitehouse.gov/releases/2026/08/president-trump-is-finally-ending-canadas-free-ride/",
-   "published": "2026-08-25T18:19:31+00:00",
-   "summary": "Canada has been ripping off the United States for decades — and President Donald J. Trump is done letting them get away with it. Last week, the U.S. offered Canada the most preferential market access of any country on Earth, with deep cuts on steel, aluminum, autos, lumber, and more. Instead of partnership, Canada chose [&#8230;] The post President Trump Is Finally Ending Canada’s Free Ride appear",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Syria ‘shakes off’ past with removal from US ‘terror’ list, says al-Sharaa",
-   "url": "https://www.aljazeera.com/news/2026/8/25/syriashakes-offpast-with-removal-from-us-terror-list-says-al-sharaa?traffic_source=rss",
-   "published": "2026-08-25T18:13:37+00:00",
-   "summary": "Removal of decades-old designation offers major sanctions relief for Syria, aiming to boost post-war reconstruction.",
-   "tags": [
-    "sanctions"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Kremlin denies US talks amid reports CIA Director Ratcliffe in Russia",
-   "url": "https://www.aljazeera.com/news/2026/8/25/kremlin-denies-planned-talks-with-us-envoys-amid-reports-cia-head-in-russia?traffic_source=rss",
-   "published": "2026-08-25T18:01:37+00:00",
-   "summary": "Washington reportedly alerted Ukraine to refrain from strikes until delegation leaves Moscow, US media reports.",
-   "tags": [
-    "strikes",
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Fatah, Dahlan bloc hold reconciliation talks ahead of Palestinian elections",
-   "url": "https://www.aljazeera.com/news/2026/8/25/fatah-dahlan-bloc-hold-reconciliation-talks-ahead-of-palestinian-elections?traffic_source=rss",
-   "published": "2026-08-25T17:39:22+00:00",
-   "summary": "Fatah and Dahlan&#039;s Democratic Reform hold talks in Alamein as fears grow over a potential opposition coalition.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Canada hits US with counter-tariffs on more than 700 products",
-   "url": "https://www.aljazeera.com/economy/2026/8/25/canada-hits-us-with-counter-tariffs-targeting-hundreds-of-products?traffic_source=rss",
-   "published": "2026-08-25T17:08:54+00:00",
-   "summary": "Canada imposes tariffs on $19.9bn of US goods which will take effect on September 8 as trade talks with Washington collapse.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran, Oman agree on temporary maritime corridor in Strait of Hormuz",
-   "url": "https://en.irna.ir/news/86245963/Iran-Oman-agree-on-temporary-maritime-corridor-in-Strait-of",
-   "published": "2026-08-25T16:46:50+00:00",
-   "summary": "Tehran, IRNA – During a visit by Omani foreign minister to Iran on Tuesday, the two sides issued a joint statement declaring an agreement on establishing a temporary joint maritime corridor and implementing a joint project to clear mines from the Strait of Hormuz.",
-   "tags": [
-    "diplomacy",
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from August 25, 2026",
-   "url": "https://trumpstruth.org/statuses/41209",
-   "published": "2026-08-25T15:47:02+00:00",
-   "summary": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117156925333799291",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from August 25, 2026",
-   "url": "https://www.trumpstruth.org/statuses/41209",
-   "published": "2026-08-25T15:47:02+00:00",
-   "summary": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117156925333799291",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from August 25, 2026",
-   "url": "https://trumpstruth.org/statuses/41210",
-   "published": "2026-08-25T15:46:50+00:00",
-   "summary": "",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from August 25, 2026",
-   "url": "https://www.trumpstruth.org/statuses/41210",
-   "published": "2026-08-25T15:46:50+00:00",
-   "summary": "",
-   "tags": [],
-   "highlight": true
   }
  ]
 }
