@@ -1,6 +1,50 @@
 {
- "asOf": "2026-08-26T19:26:35.624028+00:00",
+ "asOf": "2026-08-26T20:09:14.900858+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran’s partnership with China needs no one’s permission: Ghalibaf",
+   "url": "https://en.irna.ir/news/86247250/Iran-s-partnership-with-China-needs-no-one-s-permission-Ghalibaf",
+   "published": "2026-08-26T19:53:25+00:00",
+   "summary": "Tehran, IRNA – Iranian Parliament Speaker Mohammad Bagher Ghalibaf says China's rejection of the latest round of US sanctions against Iran shows the strategic partnership between the two allies which goes well beyond routine international relations.",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Video: Ukrainian drones target Wildberries e-commerce hub in Russia",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/video-ukrainian-drones-target-wildberries-e-commerce-hub-in-russia?traffic_source=rss",
+   "published": "2026-08-26T19:41:35+00:00",
+   "summary": "Ukrainian drones have again targeted the Russian online shopping giant Wildberries.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Israel-Hamas truce failure ‘point of no return,’ envoy warns",
+   "url": "https://www.aljazeera.com/news/2026/8/26/israel-hamas-truce-failure-point-of-no-return-envoy-warns?traffic_source=rss",
+   "published": "2026-08-26T19:31:34+00:00",
+   "summary": "Hamas has pledged to hand over its weapons as part of the US plan for Gaza, which Israeli PM Netanyahu has rejected.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "White House",
+   "title": "Fifth Anniversary of the Attack at Abbey Gate",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/08/fifth-anniversary-of-the-attack-at-abbey-gate/",
+   "published": "2026-08-26T19:29:53+00:00",
+   "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA A PROCLAMATION At 5:36 p.m. on August 26, 2021, a lone ISIS-K terrorist pressed into the crowd at Abbey Gate in Kabul, Afghanistan, and detonated a body-worn bomb. The terrorist was one of the thousands of prisoners released by the Taliban just 2 months earlier. As a [&#8230;] The post Fifth Anniversary of the Attack at Abbey Gate appeared first on ",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Araghchi urges UN to react to unlawful US sanctions",
@@ -570,51 +614,6 @@
    "summary": "A truck hit a natural gas pipeline near Saxon, Wisconsin prompted nearby residents to evacuate.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Russia’s ‘Amazon’ Wildberries comes under Ukraine attack again",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/russias-amazon-wildberries-comes-under-ukraine-attack-again?traffic_source=rss",
-   "published": "2026-08-26T04:54:38+00:00",
-   "summary": "Russia’s biggest online retailer, Wildberries, has once again been attacked in a drone strike by Ukraine.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Dozens killed in rebel attacks on Sudan’s Kordofan, medical group says",
-   "url": "https://www.aljazeera.com/news/2026/8/26/dozens-killed-in-rebel-attacks-on-sudans-kordofan-medical-group-says?traffic_source=rss",
-   "published": "2026-08-26T03:49:23+00:00",
-   "summary": "Sudan Doctors Network says SPLM-N rebels killed 27 people in South Kordofan, including four children.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iran war live: Iran says Hormuz remains closed despite Oman route deal",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/8/26/iran-war-live-iran-says-hormuz-remains-closed-despite-oman-rout-deal?traffic_source=rss",
-   "published": "2026-08-26T00:00:00+00:00",
-   "summary": "Tehran says the agreement with Oman on routes through Hormuz does not indicate that the strait is open.",
-   "tags": [
-    "diplomacy",
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Ghalibaf reacts to US Treasury secretary’s Rhetoric: ‘It was Day of the Clown’",
-   "url": "https://en.irna.ir/news/86246107/Ghalibaf-reacts-to-US-Treasury-secretary-s-Rhetoric-It-was",
-   "published": "2026-08-25T22:13:00+00:00",
-   "summary": "Tehran, IRNA – Iranian Parliament Speaker Mohammad Bagher Ghalibaf has sharply mocked US Treasury Secretary Scott Bessent over his recent remarks and apparent retreat from earlier claims about the impact of new sanctions on Iran.",
-   "tags": [
-    "sanctions"
    ],
    "highlight": false
   }
