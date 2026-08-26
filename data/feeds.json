@@ -1,6 +1,39 @@
 {
- "asOf": "2026-08-26T09:42:50.238414+00:00",
+ "asOf": "2026-08-26T11:15:34.170933+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "One US dollar now costs 2 million rials in Iran, and here’s what it can buy",
+   "url": "https://www.aljazeera.com/economy/2026/8/26/one-us-dollar-now-costs-2-million-rials-in-iran-and-heres-what-it-can-buy?traffic_source=rss",
+   "published": "2026-08-26T10:00:05+00:00",
+   "summary": "Sanctions and the US-Israel war on Iran have left the country&#039;s people unable to keep pace with rising prices.",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "In photos: Reconstruction of Hormozgan’s war-damaged bridges",
+   "url": "https://en.irna.ir/photo/86246649/In-photos-Reconstruction-of-Hormozgan-s-war-damaged-bridges",
+   "published": "2026-08-26T09:58:03+00:00",
+   "summary": "Repair and reconstruction work on infrastructure damaged in US airstrikes on July 18 is underway in four locations across Hormozgan Province, southern Iran, with efforts focused on quickly restoring the affected routes to traffic.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Ukrainian drone attacks kill 3 as fire destroys Wildberries warehouse",
+   "url": "https://www.aljazeera.com/economy/2026/8/26/ukrainian-drone-attacks-kill-3-as-fire-destroys-wildberries-warehouse?traffic_source=rss",
+   "published": "2026-08-26T09:36:08+00:00",
+   "summary": "Tambov Governor Yevgeny Pervyshov says Wildberries ‌logistics centre &quot;completely ​destroyed by fire&quot;.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Haiti gang raid death toll rises to 47 as more than 50 kidnapped, says UN",
@@ -572,39 +605,6 @@
    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/gaza-marks-one-year-since-mariam-dagga-was-killed-in-israeli-strike?traffic_source=rss",
    "published": "2026-08-25T15:23:17+00:00",
    "summary": "A ceremony was held in Gaza to mark one year since an Israeli double strike killed 22 Palestinians in a hospital.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Qatar says US sanctions on Iran are unilateral",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/qatar-says-us-sanctions-on-iran-are-unilateral?traffic_source=rss",
-   "published": "2026-08-25T15:17:05+00:00",
-   "summary": "Qatar’s Foreign Ministry said in a briefing on Tuesday that the US sanctions on Iran are unilateral.",
-   "tags": [
-    "sanctions"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "US launches Economic war on Iran",
-   "url": "https://www.aljazeera.com/videos/newsfeed/2026/8/25/us-launches-economic-war-on-iran?traffic_source=rss",
-   "published": "2026-08-25T15:12:00+00:00",
-   "summary": "The US says it has launched ‘Operation Economic Outcast’, expanding sanctions on Iran",
-   "tags": [
-    "sanctions"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "One year since Gaza journalist killed by Israel",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/one-year-since-gaza-journalist-killed-by-israel?traffic_source=rss",
-   "published": "2026-08-25T15:09:10+00:00",
-   "summary": "It’s been one year since AP journalist Mariam Dagga was killed in Israeli strikes on Gaza’s Nasser Hospital.",
    "tags": [
     "strikes"
    ],
