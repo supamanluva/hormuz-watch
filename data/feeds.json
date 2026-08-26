@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-26T18:02:55.028497+00:00",
+ "asOf": "2026-08-26T18:45:50.375200+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "US imposes sanctions on Palestine Action and other left-wing groups",
+   "url": "https://www.aljazeera.com/news/2026/8/26/us-imposes-sanctions-on-palestine-action-and-other-left-wing-groups?traffic_source=rss",
+   "published": "2026-08-26T18:08:50+00:00",
+   "summary": "Palestine Action&#039;s Huda Ammori says Trump&#039;s penalties should be a &#039;wake-up call&#039; for UK to lift ban on the group.",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "US inflation remains sticky in July",
@@ -606,17 +617,6 @@
    "summary": "Health Ministry warns of &#039;complete collapse of the basic necessities of life&#039; in Gaza as Israel&#039;s attacks continue.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Syrian Democratic Forces announce their dissolution",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/syrian-democratic-forces-announce-their-dissolution?traffic_source=rss",
-   "published": "2026-08-25T21:09:05+00:00",
-   "summary": "The Kurdish-led Syrian Democratic Forces will dissolve as an independent military force under an agreement with Damascus",
-   "tags": [
-    "diplomacy"
    ],
    "highlight": false
   }
