@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-26T08:02:15.746065+00:00",
+ "asOf": "2026-08-26T08:21:59.385824+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Brighton & Hove Albion sign Algerian left-back Jaouen Hadjam",
+   "url": "https://www.aljazeera.com/sports/2026/8/26/brighton-hove-albion-sign-algerian-left-back-jaouen-hadjam?traffic_source=rss",
+   "published": "2026-08-26T08:04:13+00:00",
+   "summary": "The 23-year-old joins from Swiss champions Young Boys on a five-year deal, making him the third Algerian in the league.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "In photos: Junior fencing championships held in tribute to martyred Iranian schoolchildren",
@@ -26,7 +37,7 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "Top official says Iran, Oman have agreed new temporary route in Hormuz",
+   "title": "Iran, Oman agree on new temporary route in Hormuz",
    "url": "https://www.aljazeera.com/economy/2026/8/26/top-official-says-iran-oman-have-agreed-new-temporary-hormuz-route?traffic_source=rss",
    "published": "2026-08-26T06:02:13+00:00",
    "summary": "Deputy foreign minster says the route&#039;s entry as well as part of the exit would run through Iranian territorial waters.",
@@ -594,15 +605,6 @@
    "url": "https://press.un.org/en/2026/db260825.doc.htm",
    "published": "2026-08-25T15:09:03+00:00",
    "summary": "2025 saw the highest number of armed conflicts since the Second World War and some of the highest levels of acute hunger on record, the UN Secretary-General told the Security Council today. It was also the first time this century that two famines were confirmed simultaneously, in Sudan and in Gaza - a shameful milestone.",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Secretary-General Condemns Deadly Ambush on Peacekeepers in South Sudan, Calls for Accountability",
-   "url": "https://press.un.org/en/2026/sgsm23245.doc.htm",
-   "published": "2026-08-25T15:09:02+00:00",
-   "summary": "The following statement was issued today by the Spokesman for UN Secretary-General António Guterres:",
    "tags": [],
    "highlight": false
   }
