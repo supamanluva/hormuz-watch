@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-26T05:00:44.890941+00:00",
+ "asOf": "2026-08-26T05:40:10.908879+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Russia’s ‘Amazon’ Wildberries comes under Ukraine attack again",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/russias-amazon-wildberries-comes-under-ukraine-attack-again?traffic_source=rss",
+   "published": "2026-08-26T04:54:38+00:00",
+   "summary": "Russia’s biggest online retailer, Wildberries, has once again been attacked in a drone strike by Ukraine.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Dozens killed in rebel attacks on Sudan’s Kordofan, medical group says",
@@ -593,18 +604,6 @@
    "summary": "UK PM Andy Burnham visited Kyiv on his first foreign trip, pledging to give cruise missile designs to Ukraine.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Rwanda accuses DR Congo of supporting an armed group on its soil",
-   "url": "https://www.aljazeera.com/news/2026/8/25/rwanda-accuses-dr-congo-of-supporting-an-armed-group-on-its-soil?traffic_source=rss",
-   "published": "2026-08-25T12:17:56+00:00",
-   "summary": "Rwanda says FDLR threat justifies its continued involvement in eastern DRC, as efforts to verify a ceasefire advance.",
-   "tags": [
-    "diplomacy",
-    "oil"
    ],
    "highlight": false
   }
