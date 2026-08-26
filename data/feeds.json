@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-26T11:15:34.170933+00:00",
+ "asOf": "2026-08-26T11:38:24.100208+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Manchester City sign teenage Moroccan football star Ayyoub Bouaddi",
+   "url": "https://www.aljazeera.com/sports/2026/8/26/manchester-city-sign-teenage-moroccan-football-star-ayyoub-bouaddi?traffic_source=rss",
+   "published": "2026-08-26T11:06:28+00:00",
+   "summary": "Sought-after midfielder Bouaddi joins the Premier League club from Lille on a five-year deal worth $117 million.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "One US dollar now costs 2 million rials in Iran, and here’s what it can buy",
@@ -25,12 +36,13 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "Ukrainian drone attacks kill 3 as fire destroys Wildberries warehouse",
+   "title": "Ukrainian air attacks kill three in Russia as Kyiv steps up drone campaign",
    "url": "https://www.aljazeera.com/economy/2026/8/26/ukrainian-drone-attacks-kill-3-as-fire-destroys-wildberries-warehouse?traffic_source=rss",
    "published": "2026-08-26T09:36:08+00:00",
-   "summary": "Tambov Governor Yevgeny Pervyshov says Wildberries ‌logistics centre &quot;completely ​destroyed by fire&quot;.",
+   "summary": "Attacks spark fires at Lukoil&#039;s NORSI refinery and a Wildberries hub as Kyiv claims 16 targets hit across Russia.",
    "tags": [
-    "strikes"
+    "strikes",
+    "oil"
    ],
    "highlight": false
   },
@@ -598,17 +610,6 @@
    "summary": "MIKE DAVIS: Dissecting the Supreme Court's 'birthright' betrayal: https://www. foxnews.com/opinion/mike-davis -dissecting-supreme-courts-birthright-betrayal",
    "tags": [],
    "highlight": true
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Gaza marks one year since Mariam Dagga was killed in Israeli strike",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/gaza-marks-one-year-since-mariam-dagga-was-killed-in-israeli-strike?traffic_source=rss",
-   "published": "2026-08-25T15:23:17+00:00",
-   "summary": "A ceremony was held in Gaza to mark one year since an Israeli double strike killed 22 Palestinians in a hospital.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
   }
  ]
 }
