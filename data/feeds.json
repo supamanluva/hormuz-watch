@@ -1,6 +1,39 @@
 {
- "asOf": "2026-08-26T05:40:10.908879+00:00",
+ "asOf": "2026-08-26T05:58:02.376394+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Israeli airstrikes, artillery shelling target Southern Lebanon",
+   "url": "https://en.irna.ir/news/86246208/Israeli-airstrikes-artillery-shelling-target-Southern-Lebanon",
+   "published": "2026-08-26T05:40:12+00:00",
+   "summary": "Tehran, IRNA – The Israeli regime’s fighter jets and artillery have targeted areas in southern Lebanon, according to Lebanese media reports.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Fireworks factory goes up in smoke in Mexico",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/fireworks-factory-goes-up-in-smoke-in-mexico?traffic_source=rss",
+   "published": "2026-08-26T05:17:40+00:00",
+   "summary": "Two explosions have hit a fireworks facility in Tultepec, Mexico, sending a spectacular mix of flames and explosions",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Massive natural gas leak in Wisconsin puts community on alert",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/massive-natural-gas-leak-in-wisconsin-puts-community-on-alert?traffic_source=rss",
+   "published": "2026-08-26T05:15:51+00:00",
+   "summary": "A truck hit a natural gas pipeline near Saxon, Wisconsin prompted nearby residents to evacuate.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Russia’s ‘Amazon’ Wildberries comes under Ukraine attack again",
@@ -568,42 +601,6 @@
    "tags": [
     "sanctions",
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Trump’s latest wave of Iran sanctions: Which 60 entities are targeted?",
-   "url": "https://www.aljazeera.com/features/2026/8/25/trumps-latest-wave-of-iran-sanctions-which-60-entities-are-targeted?traffic_source=rss",
-   "published": "2026-08-25T14:17:06+00:00",
-   "summary": "Dozens of groups in Iran and other countries face US sanctions over ties to Iranian oil, weapons and cyberoperations.",
-   "tags": [
-    "sanctions",
-    "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Two killed, refinery on fire in Russia’s Krasnodar after drone attack",
-   "url": "https://www.aljazeera.com/news/2026/8/25/two-killed-refinery-on-fire-in-russias-krasnodar-after-drone-attack?traffic_source=rss",
-   "published": "2026-08-25T13:10:24+00:00",
-   "summary": "Ukraine hits Moscow&#039;s Afipsky oil refinery and Russian-controlled Zaporizhzhia nuclear power plant",
-   "tags": [
-    "strikes",
-    "nuclear",
-    "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "UK to back Ukraine with missile blueprints amid Russia-Ukraine strikes",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/uk-to-back-ukraine-with-missile-blueprints-amid-russia-ukraine-strikes?traffic_source=rss",
-   "published": "2026-08-25T12:30:45+00:00",
-   "summary": "UK PM Andy Burnham visited Kyiv on his first foreign trip, pledging to give cruise missile designs to Ukraine.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   }
