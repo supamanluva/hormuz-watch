@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-26T09:03:20.081220+00:00",
+ "asOf": "2026-08-26T09:23:08.298115+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Haiti gang raid death toll rises to 47 as more than 50 kidnapped, says UN",
+   "url": "https://www.aljazeera.com/news/2026/8/26/at-least-47-killed-50-kidnapped-in-grisly-gang-raid-in-haiti-says-un?traffic_source=rss",
+   "published": "2026-08-26T08:54:35+00:00",
+   "summary": "UN chief Guterres said the attack underscores &#039;the alarming security situation in Haiti&#039; due to gangs.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Brighton & Hove Albion sign Algerian left-back Jaouen Hadjam",
@@ -597,15 +608,6 @@
    "tags": [
     "strikes"
    ],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General",
-   "url": "https://press.un.org/en/2026/db260825.doc.htm",
-   "published": "2026-08-25T15:09:03+00:00",
-   "summary": "2025 saw the highest number of armed conflicts since the Second World War and some of the highest levels of acute hunger on record, the UN Secretary-General told the Security Council today. It was also the first time this century that two famines were confirmed simultaneously, in Sudan and in Gaza - a shameful milestone.",
-   "tags": [],
    "highlight": false
   }
  ]
