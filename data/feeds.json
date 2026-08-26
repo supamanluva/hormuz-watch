@@ -1,6 +1,18 @@
 {
- "asOf": "2026-08-25T23:53:38.640042+00:00",
+ "asOf": "2026-08-26T00:24:07.604064+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Iran war live: Iran says Hormuz remains closed despite Oman route deal",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/8/26/iran-war-live-iran-says-hormuz-remains-closed-despite-oman-rout-deal?traffic_source=rss",
+   "published": "2026-08-26T00:00:00+00:00",
+   "summary": "Tehran says the agreement with Oman on routes through Hormuz does not indicate that the strait is open.",
+   "tags": [
+    "diplomacy",
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Ghalibaf reacts to US Treasury secretary’s Rhetoric: ‘It was Day of the Clown’",
@@ -596,18 +608,6 @@
    "summary": "Israel deepens Gaza attacks and West Bank expansion as countries condemn abuses but impose few consequences.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "How the US sanctions on Iran impact China",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/how-the-us-sanctions-on-iran-impact-china?traffic_source=rss",
-   "published": "2026-08-25T11:30:08+00:00",
-   "summary": "US sanctions Chinese firms over Iran links but spare big banks as Trump and Xi eye key talks.",
-   "tags": [
-    "sanctions",
-    "diplomacy"
    ],
    "highlight": false
   }
