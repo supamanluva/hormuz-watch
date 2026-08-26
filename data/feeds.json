@@ -1,6 +1,29 @@
 {
- "asOf": "2026-08-26T07:05:59.904270+00:00",
+ "asOf": "2026-08-26T07:29:04.654641+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "In photos: Junior fencing championships held in tribute to martyred Iranian schoolchildren",
+   "url": "https://en.irna.ir/photo/86246311/In-photos-Junior-fencing-championships-held-in-tribute-to-martyred",
+   "published": "2026-08-26T07:26:00+00:00",
+   "summary": "The individual foil events of Iran’s junior fencing championships took place on August 25, 2026, in Tehran. This edition of the competition was named in memory of the martyred students of the Shajareh Tayyebeh school in Minab, who lost their lives in a US–Israeli attack on February 28, 2026.",
+   "tags": [
+    "strikes",
+    "oil"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Trump threatens Iran’s partners: How do secondary sanctions work?",
+   "url": "https://www.aljazeera.com/economy/2026/8/26/trump-threatens-irans-partners-how-do-secondary-sanctions-work?traffic_source=rss",
+   "published": "2026-08-26T07:18:07+00:00",
+   "summary": "The US has used threats of secondary sanctions, whereby countries trading with a sanctioned country also face sanctions.",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Top official says Iran, Oman have agreed new temporary route in Hormuz",
@@ -581,26 +604,6 @@
    "published": "2026-08-25T15:09:02+00:00",
    "summary": "The following statement was issued today by the Spokesman for UN Secretary-General António Guterres:",
    "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Secretary-General Calls for Renewed Global Action as Rohingya Face Deepening Insecurity Nine Years after Mass Displacement",
-   "url": "https://press.un.org/en/2026/sgsm23244.doc.htm",
-   "published": "2026-08-25T15:09:01+00:00",
-   "summary": "The following statement was issued today by the Spokesman for UN Secretary-General António Guterres:",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Civilian Toll Soars as Ukraine Marks 35 Years of Independence, UN Political Affairs Chief Warns Security Council amid Renewed Calls for Ceasefire",
-   "url": "https://press.un.org/en/2026/sc16438.doc.htm",
-   "published": "2026-08-25T14:44:46+00:00",
-   "summary": "Two anniversaries converged as the Security Council met to discuss the situation in Ukraine today — with that country marking both 35 years of independence and four-and-a-half years of invasion — as peace remains elusive amidst soaring civilian casualties.",
-   "tags": [
-    "diplomacy"
-   ],
    "highlight": false
   }
  ]
