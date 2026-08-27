@@ -1,6 +1,77 @@
 {
- "asOf": "2026-08-26T21:16:21.368934+00:00",
+ "asOf": "2026-08-27T02:45:04.212987+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "US labels Palestine Action a terror group, founder says ‘that’s rich’",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/27/us-labels-palestine-action-a-terror-group-founder-says-thats?traffic_source=rss",
+   "published": "2026-08-27T02:07:32+00:00",
+   "summary": "Palestine Action co-founder Huda Ammori tells Jazeera that US sanctions designating the group a terrorist organisation.",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Is Mark Ruffalo anti-Semitic?",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/27/is-mark-ruffalo-anti-semitic?traffic_source=rss",
+   "published": "2026-08-27T01:19:39+00:00",
+   "summary": "Ruffalo is accused of anti-Semitism for calling out the family behind an impending media deal.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Syria’s president makes first Visa payment after sanctions removal",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/27/syrias-president-makes-first-visa-payment-after-sanctions-removal?traffic_source=rss",
+   "published": "2026-08-27T01:08:19+00:00",
+   "summary": "A video shows Syria’s president using a Visa card, one day after the US removed the country from &#039;terrorism&#039; list.",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Iran war live: Qatar PM to visit Tehran; Trump ‘not in a hurry’ over talks",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/8/27/iran-war-live-trump-not-in-hurry-over-talks-tehran-defends-us-dialogue?traffic_source=rss",
+   "published": "2026-08-27T00:00:00+00:00",
+   "summary": "Qatar&#039;s PM will meet Iranian officials to discuss ways to de-escalate tensions in the region, foreign ministry says.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "UN Press",
+   "title": "‘We Cannot Keep Peace When There Is No Peace to Keep,’ Secretary-General Says, Calling for Reset of United Nations Peace Operations",
+   "url": "https://press.un.org/en/2026/sgsm23250.doc.htm",
+   "published": "2026-08-26T21:47:57+00:00",
+   "summary": "Following are UN Secretary-General António Guterres’ remarks, as delivered, to the General Assembly, on the review of United Nations peace operations, in New York today:",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "White House",
+   "title": "Fact Sheet: President Donald J. Trump Further Ensures Affordable Beef for the American Consumer",
+   "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-further-ensures-affordable-beef-for-the-american-consumer/",
+   "published": "2026-08-26T21:19:54+00:00",
+   "summary": "ADDRESSING BEEF AFFORDABILITY WITH TARGETED ACTION:&#160;Today, President Donald J. Trump signed a Proclamation to temporarily increase the quantity of lean beef trimmings that are imported with no above-quota tariff to ensure affordable beef for American consumers in light of current supply challenges. This action includes key safeguards to maximize cost savings while protecting American ranchers",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "White House",
+   "title": "Further Ensuring Affordable Beef for the American Consumer",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/08/further-ensuring-affordable-beef-for-the-american-consumer/",
+   "published": "2026-08-26T21:18:42+00:00",
+   "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA A PROCLAMATION 1. In Proclamation 11010 of February 6, 2026 (Ensuring Affordable Beef for the American Consumer), I found that cattle ranchers in the United States have played, and continue to play, an integral role in food production for the United States; that the United States [&#8230;] The post Further Ensuring Affordable Beef for the American C",
+   "tags": [],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "US says Chinese-linked hackers attacked NASA, Senate, and gov’t agencies",
@@ -522,81 +593,6 @@
    "url": "https://www.aljazeera.com/news/2026/8/26/icc-chief-urges-japan-to-counter-us-pressure-on-war-crimes-court?traffic_source=rss",
    "published": "2026-08-26T13:15:59+00:00",
    "summary": "Washington escalated its campaign against the ICC last week by sanctioning its president and a senior trial lawyer.",
-   "tags": [
-    "sanctions"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Parliament to pursue US war crimes in Lamerd through legal channels: MP",
-   "url": "https://en.irna.ir/news/86246865/Parliament-to-pursue-US-war-crimes-in-Lamerd-through-legal-channels",
-   "published": "2026-08-26T12:52:14+00:00",
-   "summary": "Tehran, IRNA – Iran’s Parliament, in cooperation with the Judiciary, will pursue the legal and international cases arising from US war crimes in Lamerd, alongside the US attack in Minab, Iranian Parliament Deputy Speaker Ali Nikzad says.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran’s Parliament to pursue US war crimes in Lamerd through legal channels: MP",
-   "url": "https://en.irna.ir/news/86246865/Iran-s-Parliament-to-pursue-US-war-crimes-in-Lamerd-through-legal",
-   "published": "2026-08-26T12:52:14+00:00",
-   "summary": "Tehran, IRNA – Iran’s Parliament, in cooperation with the Judiciary, will pursue the legal and international cases arising from US war crimes in Lamerd, alongside the US attack in Minab, Iranian Parliament Deputy Speaker Ali Nikzad says.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iran, Oman agree on temporary Hormuz route: What we know",
-   "url": "https://www.aljazeera.com/news/2026/8/26/iran-oman-agree-on-temporary-hormuz-route-what-we-know?traffic_source=rss",
-   "published": "2026-08-26T12:05:09+00:00",
-   "summary": "Iran’s deputy foreign minister announced a temporary shipping corridor in the Strait of Hormuz.",
-   "tags": [
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Why India is sharing missile secrets with its private sector",
-   "url": "https://www.aljazeera.com/news/2026/8/26/why-india-is-sharing-missile-secrets-with-its-private-sector?traffic_source=rss",
-   "published": "2026-08-26T11:32:35+00:00",
-   "summary": "New policy allows India’s private sector to produce advanced weaponry, supporting its goal of military self-sufficiency.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Manchester City sign teenage Moroccan midfielder Ayyoub Bouaddi from Lille",
-   "url": "https://www.aljazeera.com/sports/2026/8/26/manchester-city-sign-teenage-moroccan-football-star-ayyoub-bouaddi?traffic_source=rss",
-   "published": "2026-08-26T11:06:28+00:00",
-   "summary": "Sought-after Bouaddi joins the Premier League club on a five-year deal worth $117m.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Security Council, 10214th Meeting (AM) Middle East/Palestine",
-   "url": "https://press.un.org/en/blog/sc16440",
-   "published": "2026-08-26T10:38:23+00:00",
-   "summary": "At 10 a.m., the Security Council will hold an open briefing on “the situation in the Middle East, including the Palestinian question”. Deputy Special Coordinator and Resident Coordinator at the Office of the UN Special Coordinator for the Middle East Peace Process Ramiz Alakbarov, and Board of Peace High Representative for Gaza Nickolay Mladenov, are expected to brief, as is a civil society repres",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "One US dollar now costs 2 million rials in Iran, and here’s what it can buy",
-   "url": "https://www.aljazeera.com/economy/2026/8/26/one-us-dollar-now-costs-2-million-rials-in-iran-and-heres-what-it-can-buy?traffic_source=rss",
-   "published": "2026-08-26T10:00:05+00:00",
-   "summary": "Sanctions and the US-Israel war on Iran have left the country&#039;s people unable to keep pace with rising prices.",
    "tags": [
     "sanctions"
    ],
