@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-29T07:20:06.130173+00:00",
+ "asOf": "2026-08-29T07:49:42.897032+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Aston Villa sign Chelsea striker Nicolas Jackson for reported club record",
+   "url": "https://www.aljazeera.com/sports/2026/8/29/aston-villa-sign-chelsea-striker-nicolas-jackson-for-reported-club-record?traffic_source=rss",
+   "published": "2026-08-29T07:33:34+00:00",
+   "summary": "Jackson arrives as a replacement for Ollie Watkins, whose move to Saudi Arabian side Al Hilal is being finalised.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "President Pezeshkian: Iran real winner of Islamabad MoU",
@@ -593,15 +604,6 @@
    "url": "https://press.un.org/en/2026/sgsm23253.doc.htm",
    "published": "2026-08-27T19:57:52+00:00",
    "summary": "Following is UN Secretary-General António Guterres’ message for the International Day of Police Cooperation, observed on 7 September:",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Secretary-General Appoints Robert Turner of Canada Deputy Executive Director, Delivery and Partnerships of United Nations Office for Project Services",
-   "url": "https://press.un.org/en/2026/sga2436.doc.htm",
-   "published": "2026-08-27T19:46:37+00:00",
-   "summary": "United Nations Secretary-General António Guterres announced today the appointment of Robert Turner of Canada as Deputy Executive Director, Delivery and Partnerships of the United Nations Office for Project Services (UNOPS).",
    "tags": [],
    "highlight": false
   }
