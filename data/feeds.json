@@ -1,6 +1,18 @@
 {
- "asOf": "2026-08-29T11:15:41.760564+00:00",
+ "asOf": "2026-08-29T12:26:43.492935+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Liverpool strike deal to sign PSG’s Barcola for up to $166m: Reports",
+   "url": "https://www.aljazeera.com/sports/2026/8/29/liverpool-strike-deal-to-sign-psgs-barcola-for-up-to-166m-reports?traffic_source=rss",
+   "published": "2026-08-29T10:49:31+00:00",
+   "summary": "The 23-year-old French forward would bolster new boss Andoni Iraola&#039;s squad after the departure of Mohamed Salah.",
+   "tags": [
+    "strikes",
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Russian attack on warehouse near Ukraine’s Kyiv kills at least 27",
@@ -599,17 +611,6 @@
    "summary": "Tehran, IRNA – Secretary of Iran’s Supreme National Security Council (SNSC) Major General Mohsen Rezaei has warned the United States that any new military aggression against the Islamic Republic would draw a forceful response against American military and economic interests, while stressing that Washington must take concrete steps before Tehran reopens the Strait of Hormuz.",
    "tags": [
     "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Warning Over 8,500 Attacks Targeted Schools during Past Two Years, Secretary-General Urges Greater Action to Safeguard Education, in Observance Message",
-   "url": "https://press.un.org/en/2026/sgsm23254.doc.htm",
-   "published": "2026-08-27T21:16:30+00:00",
-   "summary": "Following is UN Secretary-General António Guterres’ message on the occasion of the International Day to Protect Education from Attack, observed on 9 September:",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   }
