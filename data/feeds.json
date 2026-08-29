@@ -1,5 +1,5 @@
 {
- "asOf": "2026-08-29T18:22:26.615015+00:00",
+ "asOf": "2026-08-29T18:49:36.513944+00:00",
  "items": [
   {
    "source": "Al Jazeera",
@@ -146,6 +146,17 @@
    "summary": "",
    "tags": [],
    "highlight": true
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "UNRWA’s first and last vocational college in East Jerusalem is under attack",
+   "url": "https://www.aljazeera.com/features/2026/8/29/unrwas-first-and-last-vocational-college-in-east-jerusalem-is-under-threat?traffic_source=rss",
+   "published": "2026-08-29T12:58:25+00:00",
+   "summary": "Israel threatens the Qalandiya Training Centre, one of Jerusalem&#039;s oldest still-operational educational institutions.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
   },
   {
    "source": "Trump · Truth Social",
@@ -601,17 +612,6 @@
    "summary": "Tehran, IRNA — Iran’s parliament speaker has firmly responded to recent remarks by US CENTCOM Commander Brad Cooper, reiterating Tehran’s earlier stance that no one would sell oil in the region if Iran doesn’t.",
    "tags": [
     "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran: All states are obliged to refrain from implementing unilateral US sanctions",
-   "url": "https://en.irna.ir/news/86248560/Iran-All-states-are-obliged-to-refrain-from-implementing-unilateral",
-   "published": "2026-08-28T12:23:58+00:00",
-   "summary": "Tehran, IRNA – Iran’s Ministry of Foreign Affairs has strongly condemned the US sanctions policies and declared that all states are obligated to refrain from implementing the unlawful sanctions, which violate the United Nations Charter.",
-   "tags": [
-    "sanctions"
    ],
    "highlight": false
   }
