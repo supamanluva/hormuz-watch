@@ -1,6 +1,28 @@
 {
- "asOf": "2026-08-29T20:18:37.085651+00:00",
+ "asOf": "2026-08-29T20:49:22.002819+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Iceland votes in a tight race on whether to resume talks to join the EU",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/iceland-votes-in-a-tight-race-on-whether-to-resume-talks-to-join-the-eu?traffic_source=rss",
+   "published": "2026-08-29T20:36:49+00:00",
+   "summary": "Iceland’s Prime Minister, Kristrún Frostadóttir, cast her vote on Saturday as the country held a referendum.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Gaza runs out of cancer medicines, as Israeli strikes continue",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/29-08-sv-gaza-hospitals-targetting-fm?traffic_source=rss",
+   "published": "2026-08-29T20:07:47+00:00",
+   "summary": "Officials at Gaza’s Al-Aqsa Martyrs Hospital say cancer medicines have completely run out, as Israeli strikes continue.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "NASA Administrator Jared Isaacman, Secretary of Education Linda McMahon, Stephanie McMahon, and Triple H, at Kennedy Space Center! President DONALD J. TRUMP",
@@ -581,26 +603,6 @@
    "tags": [
     "strikes"
    ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Israeli strikes kill five people, including three from one family, in Gaza",
-   "url": "https://www.aljazeera.com/news/2026/8/28/israeli-strikes-kill-five-people-including-three-from-one-family-in-gaza?traffic_source=rss",
-   "published": "2026-08-28T16:38:41+00:00",
-   "summary": "The latest round of attacks comes as Palestinians across the strip continue to face severe food insecurity.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "New Permanent Representative of Bangladesh Presents Credentials",
-   "url": "https://press.un.org/en/2026/bio5640.doc.htm",
-   "published": "2026-08-28T16:17:24+00:00",
-   "summary": "Irene Zubaida Khan is the UN Special Rapporteur on the promotion and protection of the right to freedom of opinion and expression since 1 August 2020. She is the first woman to hold this position since the establishment of the mandate in 1993.",
-   "tags": [],
    "highlight": false
   }
  ]
