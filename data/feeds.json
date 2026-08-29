@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-29T14:17:44.825313+00:00",
+ "asOf": "2026-08-29T14:49:12.664211+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "National unity pillar of Iran’s defensive power against enemies: Acting defense minister",
+   "url": "https://en.irna.ir/news/86249574/National-unity-pillar-of-Iran-s-defensive-power-against-enemies",
+   "published": "2026-08-29T14:39:26+00:00",
+   "summary": "TEHRAN, Iran — Iran’s Acting Defense Minister Brigadier General Seyyed Majid Ibn al-Reza says the recently imposed wars demonstrated the unity of the Iranian people, adding that the enemy will face a united Iran should they attack the nation.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Liverpool strike deal to sign PSG’s Barcola for up to $166m: Reports",
@@ -600,17 +611,6 @@
    "summary": "Tehran, IRNA – Iran's acting Defense Minister Brigadier General Majid Ibn Reza, affirmed on Thursday that his country has changed the balance of power in the region and proven that the era of sanctions, threats, and reaping the benefits from across the oceans is over.",
    "tags": [
     "sanctions"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "General Rezaei: Any evil act against Iran will bring affliction on US to be recorded in history",
-   "url": "https://en.irna.ir/news/86248152/General-Rezaei-Any-evil-act-against-Iran-will-bring-affliction",
-   "published": "2026-08-27T21:20:11+00:00",
-   "summary": "Tehran, IRNA – Secretary of Iran’s Supreme National Security Council (SNSC) Major General Mohsen Rezaei has warned the United States that any new military aggression against the Islamic Republic would draw a forceful response against American military and economic interests, while stressing that Washington must take concrete steps before Tehran reopens the Strait of Hormuz.",
-   "tags": [
-    "shipping"
    ],
    "highlight": false
   }
