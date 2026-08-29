@@ -1,6 +1,28 @@
 {
- "asOf": "2026-08-29T10:29:21.256498+00:00",
+ "asOf": "2026-08-29T10:49:25.306727+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Russian attack on warehouse near Ukraine’s Kyiv kills at least 27",
+   "url": "https://www.aljazeera.com/news/2026/8/29/russian-attack-on-warehouse-near-ukraines-kyiv-kills-at-least-27?traffic_source=rss",
+   "published": "2026-08-29T10:36:11+00:00",
+   "summary": "Zelenskyy says a warehouse was struck outside Kyiv, &#039;followed by a detonation&#039;, triggering a major fire and explosions.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran’s enemy failed to achieve its objectives: Army commander",
+   "url": "https://en.irna.ir/news/86249370/Iran-s-enemy-failed-to-achieve-its-objectives-Army-commander",
+   "published": "2026-08-29T10:29:37+00:00",
+   "summary": "Tehran, IRNA – Iran’s Army Commander Major General Amir Hatami says the enemy failed to achieve any of its objectives during the recent imposed wars, despite attempts to destroy Iran’s missile and drone capabilities.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Exclusive | Iran envoy: Europe must accept reality of a strong Iran",
@@ -9,6 +31,17 @@
    "summary": "Tehran, IRNA – Iranian Ambassador to Germany Majid Nili says Europe must accept the reality of a strong Iran, stressing that Tehran will continue pursuing dialogue and engagement based on mutual respect while firmly defending its national interests.",
    "tags": [
     "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Iran’s leaders acknowledge economic toll of war, pledge diplomacy, defence",
+   "url": "https://www.aljazeera.com/news/2026/8/29/irans-leaders-acknowledge-economic-toll-of-war-pledge-diplomacy-defence?traffic_source=rss",
+   "published": "2026-08-29T10:09:26+00:00",
+   "summary": "Iran&#039;s president said sanctions and the US naval blockade had caused exports and imports to slump by nearly 35 percent.",
+   "tags": [
+    "sanctions"
    ],
    "highlight": false
   },
@@ -578,35 +611,6 @@
    "tags": [
     "strikes"
    ],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "Honoring the American History of the Great Lakes and Renaming Lake Ontario as Lake America",
-   "url": "https://www.whitehouse.gov/presidential-actions/2026/08/honoring-the-american-history-of-the-great-lakes-and-renaming-lake-ontario-as-lake-america-3a36/",
-   "published": "2026-08-27T21:00:35+00:00",
-   "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered: Section 1.&#160; Purpose and Policy.&#160; As I announced in Executive Order 14172 of January 20, 2025 (Restoring Names That Honor American Greatness), it is the policy of my Administration to recognize [&#8230;] The post Honoring the American History of the Great Lake",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "All Syrians Must Have Voice in Shaping Country’s Future, Security Council Speakers Stress amid Calls for Inclusive State Institutions, Stronger Rule of Law",
-   "url": "https://press.un.org/en/2026/sc16441.doc.htm",
-   "published": "2026-08-27T20:55:30+00:00",
-   "summary": "Meeting 13 years after a deadly chemical-weapons attack was perpetrated by the former regime in the outskirts of Damascus, the Security Council today heard that, despite progress in overcoming Syria’s old challenges, the international community must continue to support the country as it confronts new ones.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "President Trump Delivers for Texas: Lower Taxes, Border Security, and Jobs Coming Home",
-   "url": "https://www.whitehouse.gov/releases/2026/08/president-trump-delivers-for-texas-lower-taxes-border-security-and-jobs-coming-home/",
-   "published": "2026-08-27T20:09:05+00:00",
-   "summary": "Today, President Donald J. Trump returns to Texas with a record to match the visit: tax relief in workers’ pockets, the most secure border in a generation, safer streets, and a surge of private investment creating new American jobs across the state. Historic Tax Relief for Texas Workers, Families, Seniors President Trump’s Working Families Tax [&#8230;] The post President Trump Delivers for Texas:",
-   "tags": [],
    "highlight": false
   }
  ]
