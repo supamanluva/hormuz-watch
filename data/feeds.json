@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-29T15:29:14.293654+00:00",
+ "asOf": "2026-08-29T15:49:18.298902+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Israeli attacks across Gaza kill two people, hit hospital supply warehouse",
+   "url": "https://www.aljazeera.com/news/2026/8/29/israeli-attacks-across-gaza-kill-two-people-hit-hospital-supply-warehouse?traffic_source=rss",
+   "published": "2026-08-29T15:25:43+00:00",
+   "summary": "Gaza’s Health Ministry reports rising casualties amid escalated Israeli attacks, with victims trapped under rubble.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "National unity pillar of Iran’s defensive power against enemies: Acting defense minister",
@@ -600,17 +611,6 @@
    "summary": "Tehran, IRNA – Secretary of Iran’s Supreme National Security Council Major General Mohsen Rezaei says Iran and Oman have agreed to open a temporary corridor through the Strait of Hormuz for ships to enter and exit.",
    "tags": [
     "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Acting Defense Minister: Iran Changed Balance of Power in Region",
-   "url": "https://en.irna.ir/news/86248238/Acting-Defense-Minister-Iran-Changed-Balance-of-Power-in-Region",
-   "published": "2026-08-28T05:17:39+00:00",
-   "summary": "Tehran, IRNA – Iran's acting Defense Minister Brigadier General Majid Ibn Reza, affirmed on Thursday that his country has changed the balance of power in the region and proven that the era of sanctions, threats, and reaping the benefits from across the oceans is over.",
-   "tags": [
-    "sanctions"
    ],
    "highlight": false
   }
