@@ -1,6 +1,18 @@
 {
- "asOf": "2026-08-29T22:29:23.560841+00:00",
+ "asOf": "2026-08-29T22:49:25.806580+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "What’s behind the US deal to seize control of Venezuelan oil reserves?",
+   "url": "https://www.aljazeera.com/news/2026/8/29/whats-behind-the-us-deal-to-seize-control-of-venezuelan-oil-reserves?traffic_source=rss",
+   "published": "2026-08-29T22:33:01+00:00",
+   "summary": "Few details have emerged about deal between Washington and Caracas, criticised as takeover of Venezuela&#039;s resources.",
+   "tags": [
+    "diplomacy",
+    "oil"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Iceland votes in a tight race on whether to resume talks to join the EU",
@@ -591,17 +603,6 @@
    "summary": "In an interview with Al Jazeera, Nicolay Mladenov says that a return to war would be &#039;devastating&#039;.",
    "tags": [
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Ukraine reinforces Donetsk as it seeks to disrupt Russia’s weapons flow",
-   "url": "https://www.aljazeera.com/news/2026/8/28/ukraine-reinforces-donetsk-as-it-seeks-to-disrupt-russias-weapons-flow?traffic_source=rss",
-   "published": "2026-08-28T16:42:31+00:00",
-   "summary": "After repeated disappointments over US Patriots, Kyiv switches to attacking Russia using European weapons.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   }
