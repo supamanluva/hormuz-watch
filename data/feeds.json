@@ -1,6 +1,18 @@
 {
- "asOf": "2026-08-29T03:49:15.700812+00:00",
+ "asOf": "2026-08-29T04:31:59.211726+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "What’s in the US-Venezuela ‘biggest oil deal in world history?’",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/whats-in-the-us-venezuela-biggest-oil-deal-in-world-history?traffic_source=rss",
+   "published": "2026-08-29T04:16:01+00:00",
+   "summary": "US President Donald Trump has claimed the US and Venezuela have reached the ‘biggest oil deal in world history’.",
+   "tags": [
+    "diplomacy",
+    "oil"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Trump announces ‘biggest oil deal in world history’ with Venezuela",
@@ -589,15 +601,6 @@
    "tags": [
     "shipping"
    ],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "NEVER SURRENDER: Karoline Leavitt’s Historic Tenure as White House Press Secretary",
-   "url": "https://www.whitehouse.gov/releases/2026/08/never-surrender-karoline-leavitts-historic-tenure-as-white-house-press-secretary/",
-   "published": "2026-08-27T18:13:38+00:00",
-   "summary": "Today, Karoline Leavitt completes her final day as the 36th White House Press Secretary — the youngest person to ever hold the position and among the best ever to do it. She leaves the James S. Brady Briefing Room after a tenure defined by command, clarity, and an unrelenting defense of President Donald J. Trump [&#8230;] The post NEVER SURRENDER: Karoline Leavitt’s Historic Tenure as White House ",
-   "tags": [],
    "highlight": false
   }
  ]
