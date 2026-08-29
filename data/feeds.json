@@ -1,6 +1,29 @@
 {
- "asOf": "2026-08-29T17:29:13.082570+00:00",
+ "asOf": "2026-08-29T18:22:26.615015+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Turkiye summons Ukraine ambassador over Black Sea attacks",
+   "url": "https://www.aljazeera.com/news/2026/8/29/turkiye-summons-ukraine-ambassador-over-black-sea-attacks-2?traffic_source=rss",
+   "published": "2026-08-29T17:41:57+00:00",
+   "summary": "Two Turkish-operated vessels have been struck this week as a result of the war between Russia and Ukraine.",
+   "tags": [
+    "strikes",
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Israeli army arrests six Palestinians after settler violence in West Bank",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/israeli-army-arrests-six-palestinians-after-settler-violence-in-west-bank?traffic_source=rss",
+   "published": "2026-08-29T17:09:10+00:00",
+   "summary": "Israeli settlers stormed Qusra in the occupied West Bank, attacking Palestinian residents and damaging homes.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Russian strike on a munitions depot triggers deadly blasts near Kyiv",
@@ -589,28 +612,6 @@
    "summary": "Tehran, IRNA – Iran’s Ministry of Foreign Affairs has strongly condemned the US sanctions policies and declared that all states are obligated to refrain from implementing the unlawful sanctions, which violate the United Nations Charter.",
    "tags": [
     "sanctions"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Trump suffering from ‘schizophrenia’, needs treatment: Iran deputy FM",
-   "url": "https://en.irna.ir/news/86248540/Trump-suffering-from-schizophrenia-needs-treatment-Iran-deputy",
-   "published": "2026-08-28T11:44:24+00:00",
-   "summary": "Tehran, IRNA — Reacting to the US president’s claim of ‘ownership over the Strait of Hormuz,’ Iran’s deputy foreign minister mocked Donald Trump, saying he is suffering from a complex psychotic disorder and needs treatment.",
-   "tags": [
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Envoy urges UK to condemn US economic terrorism against Iran",
-   "url": "https://en.irna.ir/news/86248421/Envoy-urges-UK-to-condemn-US-economic-terrorism-against-Iran",
-   "published": "2026-08-28T10:50:32+00:00",
-   "summary": "London, IRNA – Iran’s Ambassador to London Ali Mousavi has called on the UK to condemn the US military aggression, war crimes and economic terrorism against Iran.",
-   "tags": [
-    "diplomacy"
    ],
    "highlight": false
   }
