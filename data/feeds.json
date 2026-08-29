@@ -1,6 +1,18 @@
 {
- "asOf": "2026-08-29T02:25:24.600971+00:00",
+ "asOf": "2026-08-29T02:49:18.693354+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Trump announces ‘biggest oil deal in world history’ with Venezuela",
+   "url": "https://www.aljazeera.com/news/2026/8/29/trump-announces-biggest-oil-deal-in-world-history-with-venezuela?traffic_source=rss",
+   "published": "2026-08-29T02:32:51+00:00",
+   "summary": "US president says deal secures majority control of more than 65 billion barrels of proven oil reserves in Venezuela.",
+   "tags": [
+    "diplomacy",
+    "oil"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Board of Peace’s Mladenov warns Gaza could be ‘gone for good’",
@@ -583,17 +595,6 @@
    "published": "2026-08-27T18:13:38+00:00",
    "summary": "Today, Karoline Leavitt completes her final day as the 36th White House Press Secretary — the youngest person to ever hold the position and among the best ever to do it. She leaves the James S. Brady Briefing Room after a tenure defined by command, clarity, and an unrelenting defense of President Donald J. Trump [&#8230;] The post NEVER SURRENDER: Karoline Leavitt’s Historic Tenure as White House ",
    "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran maintains control over Strait of Hormuz: IRGC",
-   "url": "https://en.irna.ir/news/86247997/Iran-maintains-control-over-Strait-of-Hormuz-IRGC",
-   "published": "2026-08-27T16:33:26+00:00",
-   "summary": "Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) says Iran maintains control over the Strait of Hormuz and is moving beyond a reactive posture toward greater strategic initiative in shaping the course and cost of war and diplomacy.",
-   "tags": [
-    "shipping"
-   ],
    "highlight": false
   }
  ]
