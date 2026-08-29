@@ -1,5 +1,5 @@
 {
- "asOf": "2026-08-29T22:49:25.806580+00:00",
+ "asOf": "2026-08-29T23:16:18.729379+00:00",
  "items": [
   {
    "source": "Al Jazeera",
@@ -12,6 +12,15 @@
     "oil"
    ],
    "highlight": false
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "[No Title] - Post from August 29, 2026",
+   "url": "https://trumpstruth.org/statuses/41374",
+   "published": "2026-08-29T21:36:35+00:00",
+   "summary": "",
+   "tags": [],
+   "highlight": true
   },
   {
    "source": "Al Jazeera",
@@ -429,15 +438,6 @@
     "oil"
    ],
    "highlight": false
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from August 29, 2026",
-   "url": "https://trumpstruth.org/statuses/41360",
-   "published": "2026-08-29T02:48:35+00:00",
-   "summary": "",
-   "tags": [],
-   "highlight": true
   },
   {
    "source": "Al Jazeera",
