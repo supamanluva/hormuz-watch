@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-29T05:18:28.893665+00:00",
+ "asOf": "2026-08-29T06:30:32.294162+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Iceland heads to the polls in knife-edge vote on restarting EU talks",
+   "url": "https://www.aljazeera.com/news/2026/8/29/why-is-iceland-considering-joining-the-eu?traffic_source=rss",
+   "published": "2026-08-29T05:18:46+00:00",
+   "summary": "Amid economic and security challenges, Iceland is holding a referendum more than a decade after pausing accession talks.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "What’s in the US-Venezuela ‘biggest oil deal in world history?’",
@@ -590,17 +601,6 @@
    "published": "2026-08-27T19:46:04+00:00",
    "summary": "Following is UN Secretary-General António Guterres’ message for the International Day of Clean Air for Blue Skies, observed on 7 September:",
    "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Araghchi: Situation in region is solely result of US and Israeli military aggression",
-   "url": "https://en.irna.ir/news/86248124/Araghchi-Situation-in-region-is-solely-result-of-US-and-Israeli",
-   "published": "2026-08-27T19:42:06+00:00",
-   "summary": "Tehran, IRNA – Iran’s Foreign Minister Abbas Araghchi and his Qatari counterpart, Sheikh Mohammed bin Abdulrahman bin Jassim Al Thani, on Thursday discussed a proposed framework that includes the creation of a temporary shipping corridor through the Strait of Hormuz.",
-   "tags": [
-    "shipping"
-   ],
    "highlight": false
   }
  ]
