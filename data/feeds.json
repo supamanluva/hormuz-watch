@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-29T06:51:15.022512+00:00",
+ "asOf": "2026-08-29T07:20:06.130173+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "President Pezeshkian: Iran real winner of Islamabad MoU",
+   "url": "https://en.irna.ir/news/86249046/President-Pezeshkian-Iran-real-winner-of-Islamabad-MoU",
+   "published": "2026-08-29T07:08:11+00:00",
+   "summary": "Tehran, IRNA — President Masoud Pezeshkian has described the Islamabad memorandum of understanding (MoU) as a major diplomatic achievement, saying international and domestic experts believe Iran emerged as the real winner of the agreement.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Iceland heads to the polls in knife-edge vote on restarting EU talks",
@@ -149,12 +160,12 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "Iran war live: IRGC asserts strait control, US enforces blockade",
+   "title": "Iran war live: Tehran pledges to stand firm against ‘unjust’ US sanctions",
    "url": "https://www.aljazeera.com/news/liveblog/2026/8/29/iran-war-live-irgc-asserts-strait-control-us-enforces-blockade?traffic_source=rss",
    "published": "2026-08-29T00:00:00+00:00",
-   "summary": "Iran&#039;s IRGC claims decisive control over the Strait of Hormuz as the US maintains its naval blockade.",
+   "summary": "Iran says it will rely equally on diplomacy and defence to protect its interests.",
    "tags": [
-    "shipping"
+    "sanctions"
    ],
    "highlight": false
   },
@@ -591,15 +602,6 @@
    "url": "https://press.un.org/en/2026/sga2436.doc.htm",
    "published": "2026-08-27T19:46:37+00:00",
    "summary": "United Nations Secretary-General António Guterres announced today the appointment of Robert Turner of Canada as Deputy Executive Director, Delivery and Partnerships of the United Nations Office for Project Services (UNOPS).",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Stressing $1 Spent on Proven Clean-Air Solutions Returns $14 in Benefits, Secretary-General Observance Message Urges Investors, Government to Act Now",
-   "url": "https://press.un.org/en/2026/sgsm23252.doc.htm",
-   "published": "2026-08-27T19:46:04+00:00",
-   "summary": "Following is UN Secretary-General António Guterres’ message for the International Day of Clean Air for Blue Skies, observed on 7 September:",
    "tags": [],
    "highlight": false
   }
