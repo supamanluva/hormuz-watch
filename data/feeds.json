@@ -1,6 +1,61 @@
 {
- "asOf": "2026-08-30T20:18:56.093938+00:00",
+ "asOf": "2026-08-30T21:16:58.417864+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Israeli strike kills 3-year-old child in Gaza",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/israeli-strike-kills-3-year-old-child-in-gaza?traffic_source=rss",
+   "published": "2026-08-30T21:02:45+00:00",
+   "summary": "A deadly Israeli strike on Deir el-Balah killed two Palestinians including a 3-year-old child.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Jose Andres renews call for investigation into WCK Gaza staff killings",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/jose-andres-renews-call-for-investigation-into-wck-gaza-staff-killings?traffic_source=rss",
+   "published": "2026-08-30T20:50:04+00:00",
+   "summary": "World Central Kitchen founder José Andrés is renewing his call for an independent investigation into Israeli strikes.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "IRGC vows response to US attack on Larak Island",
+   "url": "https://en.irna.ir/news/86250409/IRGC-vows-response-to-US-attack-on-Larak-Island",
+   "published": "2026-08-30T20:40:49+00:00",
+   "summary": "Tehran, IRNA - The Islamic Revolution Guards Corps (IRGC) says a US attack on the Persian Gulf island of Larak left several Iranian military personnel and civilians martyred and wounded, and vowed to respond to the act of aggression.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "‘Opening a new chapter’: Syria reopens embassy in Libya after talks",
+   "url": "https://www.aljazeera.com/news/2026/8/30/opening-a-new-chapter-syria-to-reopen-embassy-in-libya-after-talks?traffic_source=rss",
+   "published": "2026-08-30T20:38:56+00:00",
+   "summary": "Syrian foreign minister and Libyan PM agree to cooperation committee and reopening of diplomatic missions.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "US strikes Iran’s Larak Island in first attack in weeks",
+   "url": "https://www.aljazeera.com/news/2026/8/30/us-strikes-irans-lark-island-in-first-attack-in-weeks?traffic_source=rss",
+   "published": "2026-08-30T20:15:47+00:00",
+   "summary": "IRGC says attack in southern Iran killed and injured several soldiers.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "Let all Canadian Companies that are doing business with America move to the United States, immediately. Many of them are Companies that moved out years ago due to stupid U.S. Leadership. When you move back, there are no TARIFFS! President DONALD J. TRUMP",
@@ -512,51 +567,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "Turkiye summons Ukraine ambassador over Black Sea attacks",
-   "url": "https://www.aljazeera.com/news/2026/8/29/turkiye-summons-ukraine-ambassador-over-black-sea-attacks-2?traffic_source=rss",
-   "published": "2026-08-29T17:41:57+00:00",
-   "summary": "Two Turkish-operated vessels have been struck this week as a result of the war between Russia and Ukraine.",
-   "tags": [
-    "strikes",
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Israeli army arrests six Palestinians after settler violence in West Bank",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/israeli-army-arrests-six-palestinians-after-settler-violence-in-west-bank?traffic_source=rss",
-   "published": "2026-08-29T17:09:10+00:00",
-   "summary": "Israeli settlers stormed Qusra in the occupied West Bank, attacking Palestinian residents and damaging homes.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Russian strike on a munitions depot triggers deadly blasts near Kyiv",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/29-08-sv-russia-strikes-arms-depot-kyiv-fm?traffic_source=rss",
-   "published": "2026-08-29T16:53:55+00:00",
-   "summary": "Russian strike on an arms depot near Kyiv sparked fires and explosions, killing at least 38 people and wounding dozens.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Israeli attacks in Gaza kill four people, hit hospital supply warehouse",
-   "url": "https://www.aljazeera.com/news/2026/8/29/israeli-attacks-across-gaza-kill-two-people-hit-hospital-supply-warehouse?traffic_source=rss",
-   "published": "2026-08-29T15:25:43+00:00",
-   "summary": "Gaza’s Health Ministry reports rising casualties amid escalated Israeli attacks, with victims trapped under rubble.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
    "source": "IRNA (Iran state wire)",
    "title": "National unity pillar of Iran’s defensive power against enemies: Acting defense minister",
    "url": "https://en.irna.ir/news/86249574/National-unity-pillar-of-Iran-s-defensive-power-against-enemies",
@@ -617,15 +627,6 @@
    "url": "https://press.un.org/en/2026/sc16444.doc.htm",
    "published": "2026-08-28T22:35:09+00:00",
    "summary": "The massacre of at least 47 people in Kenscoff, including children and civilians killed while seeking refuge in a church, lays bare the worsening brutality of Haiti’s gang crisis, the Security Council heard today, as speakers urged the rapid deployment of international support to stem the violence.",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Deeply Saddened by Passing of His Majesty King Harald V, Secretary-General Applauds Norwegian Monarch’s Commitment to Children’s Welfare, Environmental Issues",
-   "url": "https://press.un.org/en/2026/sgsm23255.doc.htm",
-   "published": "2026-08-28T21:01:00+00:00",
-   "summary": "The following statement was issued today by the Spokesman for UN Secretary-General António Guterres:",
    "tags": [],
    "highlight": false
   }
