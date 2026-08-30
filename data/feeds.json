@@ -1,12 +1,23 @@
 {
- "asOf": "2026-08-30T10:29:21.178434+00:00",
+ "asOf": "2026-08-30T10:49:59.580497+00:00",
  "items": [
   {
    "source": "Al Jazeera",
-   "title": "Chelsea sign Argentinian goalkeeper Emiliano Martinez from Aston Villa",
+   "title": "Iran’s Khamenei calls for Gulf unity as Hormuz tensions persist",
+   "url": "https://www.aljazeera.com/news/2026/8/30/irans-khamenei-calls-for-gulf-unity-as-hormuz-tensions-persist?traffic_source=rss",
+   "published": "2026-08-30T10:30:57+00:00",
+   "summary": "Khamenei urges Gulf rulers to confront their &#039;real enemy&#039; as Iran keeps Hormuz restricted amid stalled diplomacy.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Chelsea signs Argentinian goalkeeper Emiliano Martinez from Aston Villa",
    "url": "https://www.aljazeera.com/sports/2026/8/30/chelsea-sign-argentina-goalkeeper-emiliano-martinez-from-aston-villa?traffic_source=rss",
    "published": "2026-08-30T10:11:16+00:00",
-   "summary": "Martinez joins the London club on a reported three-year deal worth $10 million after spending five years at Villa.",
+   "summary": "Martinez joins the London club on a reported three-year deal worth $10m after spending five years at Villa.",
    "tags": [
     "diplomacy"
    ],
@@ -558,18 +569,6 @@
    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/whats-in-the-us-venezuela-biggest-oil-deal-in-world-history?traffic_source=rss",
    "published": "2026-08-29T04:16:01+00:00",
    "summary": "US President Donald Trump has claimed the US and Venezuela have reached the ‘biggest oil deal in world history’.",
-   "tags": [
-    "diplomacy",
-    "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Trump announces ‘biggest oil deal in world history’ with Venezuela",
-   "url": "https://www.aljazeera.com/news/2026/8/29/trump-announces-biggest-oil-deal-in-world-history-with-venezuela?traffic_source=rss",
-   "published": "2026-08-29T02:32:51+00:00",
-   "summary": "US president says deal secures majority control of more than 65 billion barrels of proven oil reserves in Venezuela.",
    "tags": [
     "diplomacy",
     "oil"
