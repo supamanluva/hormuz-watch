@@ -1,5 +1,5 @@
 {
- "asOf": "2026-08-30T10:49:59.580497+00:00",
+ "asOf": "2026-08-30T11:16:33.099701+00:00",
  "items": [
   {
    "source": "Al Jazeera",
@@ -35,6 +35,15 @@
    "highlight": false
   },
   {
+   "source": "Trump · Truth Social",
+   "title": "[No Title] - Post from August 30, 2026",
+   "url": "https://www.trumpstruth.org/statuses/41381",
+   "published": "2026-08-30T10:05:48+00:00",
+   "summary": "",
+   "tags": [],
+   "highlight": true
+  },
+  {
    "source": "Al Jazeera",
    "title": "Delcy Rodriguez says Venezuela ‘retains sovereignty’ despite US oil deal",
    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/delcy-rodriguez-says-venezuela-retains-sovereignty-despite-us-oil-deal?traffic_source=rss",
@@ -51,7 +60,7 @@
    "title": "Iceland rejects EU accession talks in referendum",
    "url": "https://www.aljazeera.com/news/2026/8/30/iceland-rejects-eu-membership-plan-in-referendum?traffic_source=rss",
    "published": "2026-08-30T07:57:18+00:00",
-   "summary": "The &#039;No&#039; camp had 52.5 percent and the &#039;Yes&#039; camp had 47.5 percent with only a few ballots left to count, RUV reports.",
+   "summary": "The &#039;No&#039; camp garnered 52.8 percent of the vote while the &#039;Yes&#039; camp secured 47.2 percent, RUV reports.",
    "tags": [
     "diplomacy"
    ],
@@ -440,15 +449,6 @@
    "url": "https://trumpstruth.org/statuses/41369",
    "published": "2026-08-29T15:16:57+00:00",
    "summary": "",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "NASA Mission Control yesterday! President DONALD J. TRUMP",
-   "url": "https://www.trumpstruth.org/statuses/41370",
-   "published": "2026-08-29T15:16:26+00:00",
-   "summary": "NASA Mission Control yesterday! President DONALD J. TRUMP",
    "tags": [],
    "highlight": true
   },
