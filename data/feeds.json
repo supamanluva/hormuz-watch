@@ -1,6 +1,18 @@
 {
- "asOf": "2026-08-30T09:30:12.963288+00:00",
+ "asOf": "2026-08-30T09:49:31.621532+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Delcy Rodriguez says Venezuela ‘retains sovereignty’ despite US oil deal",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/delcy-rodriguez-says-venezuela-retains-sovereignty-despite-us-oil-deal?traffic_source=rss",
+   "published": "2026-08-30T09:32:02+00:00",
+   "summary": "Venezuela’s interim President has given a televised address to defend a deal of Venezuelan oil for the United States.",
+   "tags": [
+    "diplomacy",
+    "oil"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Iceland rejects EU-accession talks plan in referendum",
@@ -14,7 +26,7 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "Mapping Iran war’s strikes on Gulf energy – and what comes next for oil",
+   "title": "Mapping Iran war’s strikes on Gulf energy and its impact on future of oil",
    "url": "https://www.aljazeera.com/news/2026/8/30/mapping-the-iran-wars-strikes-on-gulf-energy-and-what-comes-next-for-oil?traffic_source=rss",
    "published": "2026-08-30T05:09:11+00:00",
    "summary": "US energy companies have reaped billions from rising oil price, but their assets in the region remain at risk.",
@@ -550,17 +562,6 @@
    "summary": "Top envoy for the US-led Board of Peace says Gaza is at risk of being ‘gone for good’ without reconstruction.",
    "tags": [
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "US revises statements suggesting Chinese hackers attacked agencies",
-   "url": "https://www.aljazeera.com/news/2026/8/29/us-revises-statements-suggesting-chinese-hackers-attacked-agencies?traffic_source=rss",
-   "published": "2026-08-29T00:46:20+00:00",
-   "summary": "US Justice Department clarifies that the US Senate and Federal Reserve were targets but were not successfully hacked.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   },
