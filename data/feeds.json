@@ -1,6 +1,29 @@
 {
- "asOf": "2026-08-30T03:36:18.215716+00:00",
+ "asOf": "2026-08-30T04:33:56.011368+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Gharibabadi: Implementation of Hormuz understanding with Oman hinges on US’s fulfilling its commitments",
+   "url": "https://en.irna.ir/news/86249904/Gharibabadi-Implementation-of-Hormuz-understanding-with-Oman",
+   "published": "2026-08-30T04:28:54+00:00",
+   "summary": "Tehran, IRNA – Iranian Deputy Foreign Minister for Legal and International Affairs Kazem Gharibabadi says implementation of the understanding Iran has reached with Oman concerning arrangements for transit through the Strait of Hormuz hinges on the United States’ fulfillment of its commitments towards the Islamic Republic that Washington has suspended.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Venezuela says it retains ‘sovereignty’ following US oil deal",
+   "url": "https://www.aljazeera.com/news/2026/8/30/venezuela-says-it-retains-sovereignty-following-us-oil-deal?traffic_source=rss",
+   "published": "2026-08-30T03:51:26+00:00",
+   "summary": "Under the deal, $19 from every barrel of oil sold to the US will flow to Caracas, interim President Rodriguez says.",
+   "tags": [
+    "diplomacy",
+    "oil"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "RT @realDonaldTrump",
@@ -569,17 +592,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "Ukraine’s Zelenskyy plans to hit Russia with ‘1,000 drones’ a day",
-   "url": "https://www.aljazeera.com/news/2026/8/28/ukraines-zelenskyy-plans-to-hit-russia-with-1000-drones-a-day?traffic_source=rss",
-   "published": "2026-08-28T19:03:02+00:00",
-   "summary": "Ongoing Russian attacks have killed several people and wounded dozens across Ukraine.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
    "source": "UN Press",
    "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General",
    "url": "https://press.un.org/en/2026/db260828.doc.htm",
@@ -594,15 +606,6 @@
    "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-establishes-a-commission-to-design-the-united-states-space-academy/",
    "published": "2026-08-28T17:49:33+00:00",
    "summary": "BUILDING THE NEXT GENERATION OF AMERICAN SPACE LEADERS:&#160;Today, President Donald J. Trump signed an Executive Order to create a Presidential Commission to begin the process of establishing a new federal academy that will prepare the next generation of Americans to advance our Nation’s interests in space.&#160;&#160; ADVANCING AMERICAN SPACE SUPERIORITY:&#160;American superiority in space depen",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "Establishing the United States Space Academy",
-   "url": "https://www.whitehouse.gov/presidential-actions/2026/08/establishing-the-united-states-space-academy/",
-   "published": "2026-08-28T17:20:24+00:00",
-   "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered: Section 1. Purpose and Policy. Space is a critical domain for American national security, economic growth, scientific discovery, and technological innovation. American superiority in space depends on the strength, skill, and [&#8230;] The post Establishing the United S",
    "tags": [],
    "highlight": false
   }
