@@ -1,6 +1,29 @@
 {
- "asOf": "2026-08-30T13:49:38.258114+00:00",
+ "asOf": "2026-08-30T14:17:58.078915+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Iceland votes to reject EU accession talks: What happens next?",
+   "url": "https://www.aljazeera.com/news/2026/8/30/iceland-votes-to-reject-eu-accession-talks-what-happens-next?traffic_source=rss",
+   "published": "2026-08-30T13:37:54+00:00",
+   "summary": "The referendum result halts Iceland&#039;s bid to reopen EU membership talks, with 52.5 percent voting against the proposal.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Banque Misr, Egypt’s second-largest, hit by US sanctions: What to know",
+   "url": "https://www.aljazeera.com/news/2026/8/30/banque-misr-egypts-second-largest-hit-by-us-sanctions-what-to-know?traffic_source=rss",
+   "published": "2026-08-30T13:23:48+00:00",
+   "summary": "Move comes as Washington steps up its efforts to economically pressure Iran amid deadlock in truce talks.",
+   "tags": [
+    "sanctions",
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "THE FAKE POLLS USED BY OUR CROOKED MEDIA ARE OUT OF CONTROL, AND SOMETHING MUST BE DONE ABOUT IT. FCC TO THE RESCUE! President DJT",
@@ -524,17 +547,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "Russian attack on warehouse near Ukraine’s Kyiv kills at least 37",
-   "url": "https://www.aljazeera.com/news/2026/8/29/russian-attack-on-warehouse-near-ukraines-kyiv-kills-at-least-27?traffic_source=rss",
-   "published": "2026-08-29T10:36:11+00:00",
-   "summary": "Ukraine&#039;s President Zelenskyy says warehouse was struck, &#039;followed by a detonation&#039;, causing a major fire.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
    "source": "IRNA (Iran state wire)",
    "title": "Iran’s enemy failed to achieve its objectives: Army commander",
    "url": "https://en.irna.ir/news/86249370/Iran-s-enemy-failed-to-achieve-its-objectives-Army-commander",
@@ -553,17 +565,6 @@
    "summary": "Tehran, IRNA – Iranian Ambassador to Germany Majid Nili says Europe must accept the reality of a strong Iran, stressing that Tehran will continue pursuing dialogue and engagement based on mutual respect while firmly defending its national interests.",
    "tags": [
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iran’s leaders acknowledge economic toll of war, pledge diplomacy, defence",
-   "url": "https://www.aljazeera.com/news/2026/8/29/irans-leaders-acknowledge-economic-toll-of-war-pledge-diplomacy-defence?traffic_source=rss",
-   "published": "2026-08-29T10:09:26+00:00",
-   "summary": "Iran&#039;s president said sanctions and the US naval blockade had caused exports and imports to slump by nearly 35 percent.",
-   "tags": [
-    "sanctions"
    ],
    "highlight": false
   },
