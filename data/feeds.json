@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-31T06:44:41.581233+00:00",
+ "asOf": "2026-08-31T07:05:05.934856+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Foreign Ministry condemns US attack on Larak Island, reaffirms Iran’s right to self-defense",
+   "url": "https://en.irna.ir/news/86250650/Foreign-Ministry-condemns-US-attack-on-Larak-Island-reaffirms",
+   "published": "2026-08-31T06:58:07+00:00",
+   "summary": "Tehran, IRNA – Iran’s Foreign Ministry has strongly condemned a US military attack on parts of Larak Island, saying the Iranian Armed Forces targeted American military bases in Jordan in exercise of the country’s inherent right to legitimate defense.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "IRGC pounds US bases in Jordan in retaliatory missile-drone operation",
@@ -621,17 +632,6 @@
    "url": "https://en.irna.ir/news/86249239/Exclusive-Iran-envoy-Europe-must-accept-reality-of-a-strong",
    "published": "2026-08-29T10:13:29+00:00",
    "summary": "Tehran, IRNA – Iranian Ambassador to Germany Majid Nili says Europe must accept the reality of a strong Iran, stressing that Tehran will continue pursuing dialogue and engagement based on mutual respect while firmly defending its national interests.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "President Pezeshkian: Iran real winner of Islamabad MoU",
-   "url": "https://en.irna.ir/news/86249046/President-Pezeshkian-Iran-real-winner-of-Islamabad-MoU",
-   "published": "2026-08-29T07:08:11+00:00",
-   "summary": "Tehran, IRNA — President Masoud Pezeshkian has described the Islamabad memorandum of understanding (MoU) as a major diplomatic achievement, saying international and domestic experts believe Iran emerged as the real winner of the agreement.",
    "tags": [
     "diplomacy"
    ],
