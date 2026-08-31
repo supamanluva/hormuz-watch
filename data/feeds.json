@@ -1,6 +1,29 @@
 {
- "asOf": "2026-08-31T15:21:26.574904+00:00",
+ "asOf": "2026-08-31T16:22:34.934490+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Israeli strikes kill at least five Palestinians in Gaza City",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/israeli-strikes-kill-at-least-five-palestinians-in-gaza-city?traffic_source=rss",
+   "published": "2026-08-31T15:20:18+00:00",
+   "summary": "At least five Palestinians have been killed in two Israeli attacks in Gaza City.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Why has Greece signed a $3.5bn missile deal with Israel?",
+   "url": "https://www.aljazeera.com/news/2026/8/31/why-has-greece-signed-a-3-5bn-missile-deal-with-israel?traffic_source=rss",
+   "published": "2026-08-31T14:57:56+00:00",
+   "summary": "Analysts say Greece is concerned about threats posed by the US-Israel war on Iran and Turkiye&#039;s growing capabilities.",
+   "tags": [
+    "strikes",
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "War and heat: Why are wheat prices soaring?",
@@ -591,28 +614,6 @@
    "url": "https://www.aljazeera.com/news/2026/8/30/rival-libya-factions-sign-deal-to-hold-national-elections-within-two-years?traffic_source=rss",
    "published": "2026-08-30T16:38:01+00:00",
    "summary": "Signing takes place at UN mission in Tripoli after initial draft inked by UN-backed committee in Tunis on August 20.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Trump says US will refill its petroleum reserves using Venezuelan oil",
-   "url": "https://www.aljazeera.com/news/2026/8/30/trump-says-us-will-refill-its-petroleum-reserves-using-venezuelan-oil?traffic_source=rss",
-   "published": "2026-08-30T15:50:45+00:00",
-   "summary": "President Donald Trump says in a post that the &#039;topping out&#039; process will ‌begin shortly.",
-   "tags": [
-    "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iceland votes to reject EU accession talks: What happens next?",
-   "url": "https://www.aljazeera.com/news/2026/8/30/iceland-votes-to-reject-eu-accession-talks-what-happens-next?traffic_source=rss",
-   "published": "2026-08-30T13:37:54+00:00",
-   "summary": "The referendum result halts Iceland&#039;s bid to reopen EU membership talks, with 52.5 percent voting against the proposal.",
    "tags": [
     "diplomacy"
    ],
