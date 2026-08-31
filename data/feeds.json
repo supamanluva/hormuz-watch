@@ -1,6 +1,29 @@
 {
- "asOf": "2026-08-31T05:49:33.495836+00:00",
+ "asOf": "2026-08-31T06:44:41.581233+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "IRGC pounds US bases in Jordan in retaliatory missile-drone operation",
+   "url": "https://en.irna.ir/news/86250543/IRGC-pounds-US-bases-in-Jordan-in-retaliatory-missile-drone-operation",
+   "published": "2026-08-31T06:18:47+00:00",
+   "summary": "Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) says its Aerospace Force has carried out a combined missile and drone operation against two US air bases in Jordan in retaliation for a US-Israeli assault on Iran’s Larak Island.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran shoots down American MQ-9 drone",
+   "url": "https://en.irna.ir/news/86250546/Iran-shoots-down-American-MQ-9-drone",
+   "published": "2026-08-31T06:09:18+00:00",
+   "summary": "Tehran, IRNA — The Islamic Revolution Guards Corps (IRGC) has announced that an enemy MQ-9 drone has been intercepted and destroyed over the Strait of Hormuz",
+   "tags": [
+    "strikes",
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Iran targets Jordan after first US attack in a month",
@@ -612,26 +635,6 @@
    "tags": [
     "diplomacy"
    ],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "President Trump Was Right: America Controls the Strait of Hormuz",
-   "url": "https://www.whitehouse.gov/releases/2026/08/president-trump-was-right-america-controls-the-strait-of-hormuz/",
-   "published": "2026-08-29T00:00:05+00:00",
-   "summary": "U.S. Central Command confirms what Democrats and the Fake News have spent months denying: the United States — not the Islamic Republic of Iran — controls the Strait of Hormuz. American forces are keeping energy moving to the world while denying Tehran the revenue it needs to threaten global commerce. Here are the facts: President [&#8230;] The post President Trump Was Right: America Controls the S",
-   "tags": [
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Kenscoff Massacre Exposes Worsening Brutality of Haiti’s Gang Crisis, Security Council Hears, as Speakers Urge Rapid International Support",
-   "url": "https://press.un.org/en/2026/sc16444.doc.htm",
-   "published": "2026-08-28T22:35:09+00:00",
-   "summary": "The massacre of at least 47 people in Kenscoff, including children and civilians killed while seeking refuge in a church, lays bare the worsening brutality of Haiti’s gang crisis, the Security Council heard today, as speakers urged the rapid deployment of international support to stem the violence.",
-   "tags": [],
    "highlight": false
   }
  ]
