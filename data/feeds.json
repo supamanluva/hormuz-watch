@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-30T23:17:04.665741+00:00",
+ "asOf": "2026-08-30T23:49:16.060719+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "What is Notting Hill Carnival’s Jab Jab parade?",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/what-is-notting-hill-carnivals-jab-jab-parade?traffic_source=rss",
+   "published": "2026-08-30T23:29:21+00:00",
+   "summary": "The Jab Jab parade sees hundreds don devil horns and cover their skin in motor oil for London’s Notting Hill Carnival.",
+   "tags": [
+    "oil"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "Google Maps changes Lake Ontario to ‘Lake America’ on US phones:",
@@ -552,17 +563,6 @@
    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/29-08-sv-gaza-hospitals-targetting-fm?traffic_source=rss",
    "published": "2026-08-29T20:07:47+00:00",
    "summary": "Officials at Gaza’s Al-Aqsa Martyrs Hospital say cancer medicines have completely run out, as Israeli strikes continue.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Haitian gangs release 13 captives after mass kidnapping in Kenscoff",
-   "url": "https://www.aljazeera.com/news/2026/8/29/haitian-gangs-release-13-captives-after-mass-kidnapping-in-kenscoff?traffic_source=rss",
-   "published": "2026-08-29T18:30:22+00:00",
-   "summary": "The attack in Kenscoff killed at least 47 people and resulted in the kidnapping of more than 50, as gangs exert control.",
    "tags": [
     "strikes"
    ],
