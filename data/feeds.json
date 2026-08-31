@@ -1,6 +1,44 @@
 {
- "asOf": "2026-08-31T02:32:17.160924+00:00",
+ "asOf": "2026-08-31T03:51:34.570588+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Iran targets Jordan after first US attack in a month",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/iran-targets-jordan-after-first-us-attack-in-a-month?traffic_source=rss",
+   "published": "2026-08-31T03:06:56+00:00",
+   "summary": "The US has launched its first strikes on Iran in a month, hitting sites on Larak Island. Iran hit back targeting bases h",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "[No Title] - Post from August 31, 2026",
+   "url": "https://trumpstruth.org/statuses/41409",
+   "published": "2026-08-31T02:19:45+00:00",
+   "summary": "",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "[No Title] - Post from August 31, 2026",
+   "url": "https://trumpstruth.org/statuses/41407",
+   "published": "2026-08-31T02:19:36+00:00",
+   "summary": "",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "Kharg Island being blown to smithereens!!! President DJT",
+   "url": "https://trumpstruth.org/statuses/41408",
+   "published": "2026-08-31T02:18:57+00:00",
+   "summary": "Kharg Island being blown to smithereens!!! President DJT",
+   "tags": [],
+   "highlight": true
+  },
   {
    "source": "Al Jazeera",
    "title": "US plans to sanction another bank to keep economic pressure on Iran",
@@ -12,6 +50,27 @@
     "diplomacy"
    ],
    "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Venezuela’s Maduro shares first photos from US detention",
+   "url": "https://www.aljazeera.com/news/2026/8/31/venezuelas-maduro-shares-first-photos-from-us-detention?traffic_source=rss",
+   "published": "2026-08-31T01:54:58+00:00",
+   "summary": "Abducted Venezuelan leader&#039;s post appears to show him in US detention, published two days after US-Venezuela oil deal.",
+   "tags": [
+    "diplomacy",
+    "oil"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "Being interviewed by Trey Gowdy, NOW!",
+   "url": "https://trumpstruth.org/statuses/41406",
+   "published": "2026-08-31T01:18:19+00:00",
+   "summary": "Being interviewed by Trey Gowdy, NOW!",
+   "tags": [],
+   "highlight": true
   },
   {
    "source": "Al Jazeera",
@@ -341,42 +400,6 @@
    "highlight": true
   },
   {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from August 30, 2026",
-   "url": "https://trumpstruth.org/statuses/41392",
-   "published": "2026-08-30T14:04:07+00:00",
-   "summary": "",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from August 30, 2026",
-   "url": "https://www.trumpstruth.org/statuses/41392",
-   "published": "2026-08-30T14:04:07+00:00",
-   "summary": "",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Congratulations to NASA Administrator Jared Isaacman, and the Great Patriots at NASA, on a successful launch. This is THE GOLDEN AGE OF AMERICA! President DONALD J. TRUMP",
-   "url": "https://trumpstruth.org/statuses/41389",
-   "published": "2026-08-30T13:59:40+00:00",
-   "summary": "Congratulations to NASA Administrator Jared Isaacman, and the Great Patriots at NASA, on a successful launch. This is THE GOLDEN AGE OF AMERICA! President DONALD J. TRUMP",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Congratulations to NASA Administrator Jared Isaacman, and the Great Patriots at NASA, on a successful launch. This is THE GOLDEN AGE OF AMERICA! President DONALD J. TRUMP",
-   "url": "https://www.trumpstruth.org/statuses/41389",
-   "published": "2026-08-30T13:59:40+00:00",
-   "summary": "Congratulations to NASA Administrator Jared Isaacman, and the Great Patriots at NASA, on a successful launch. This is THE GOLDEN AGE OF AMERICA! President DONALD J. TRUMP",
-   "tags": [],
-   "highlight": true
-  },
-  {
    "source": "Al Jazeera",
    "title": "Iceland votes to reject EU accession talks: What happens next?",
    "url": "https://www.aljazeera.com/news/2026/8/30/iceland-votes-to-reject-eu-accession-talks-what-happens-next?traffic_source=rss",
@@ -544,28 +567,6 @@
    "tags": [
     "strikes",
     "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Israeli settlers attack international news team in occupied West Bank",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/israeli-settlers-attack-international-news-team-in-occupied-west-bank?traffic_source=rss",
-   "published": "2026-08-29T23:48:22+00:00",
-   "summary": "A news team, working for the US network NBC and a Palestinian woman were injured in an attack by masked Israeli settler",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Ukrainian nuclear power plant without external power for over a week",
-   "url": "https://www.aljazeera.com/news/2026/8/29/ukrainian-nuclear-power-plant-without-external-power-for-over-a-week?traffic_source=rss",
-   "published": "2026-08-29T23:25:07+00:00",
-   "summary": "This is the 27th time since Russia invaded Ukraine that Zaporizhzhia plant has had to rely on emergency diesel supplies.",
-   "tags": [
-    "nuclear"
    ],
    "highlight": false
   },
