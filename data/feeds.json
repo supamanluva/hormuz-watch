@@ -1,6 +1,26 @@
 {
- "asOf": "2026-08-31T14:23:41.262699+00:00",
+ "asOf": "2026-08-31T15:21:26.574904+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "War and heat: Why are wheat prices soaring?",
+   "url": "https://www.aljazeera.com/news/2026/8/31/war-and-heat-why-are-wheat-prices-soaring?traffic_source=rss",
+   "published": "2026-08-31T14:42:40+00:00",
+   "summary": "Russia and Ukraine have stepped up attacks on their respective grain terminals in the Black Sea.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "The only reason that communities throughout the U.S.A. should not want Data Centers is if they want to end up being backwards and poor. If they want to be successful and rich, with far lower taxes and jobs all over the place, let Data Reign. The good news is that there are plenty of other places that want them. If we kill the Golden Goose, you will only have yourselves to blame. China could not be happier with this anti Data Center movement. Actually, they can’t believe it is happening! President DJT",
+   "url": "https://www.trumpstruth.org/statuses/41411",
+   "published": "2026-08-31T13:59:35+00:00",
+   "summary": "The only reason that communities throughout the U.S.A. should not want Data Centers is if they want to end up being backwards and poor. If they want to be successful and rich, with far lower taxes and jobs all over the place, let Data Reign. The good news is that there are plenty of other places that want them. If we kill the Golden Goose, you will only have yourselves to blame. China could not be",
+   "tags": [],
+   "highlight": true
+  },
   {
    "source": "Al Jazeera",
    "title": "Greece signs $3.5bn air defence deal with Israel",
@@ -28,7 +48,7 @@
    "title": "Pakistan, Saudi Arabia, Turkiye meet: What’s next for their defence pact?",
    "url": "https://www.aljazeera.com/news/2026/8/31/pakistan-saudi-arabia-turkiye-meet-whats-next-for-their-defence-pact?traffic_source=rss",
    "published": "2026-08-31T12:57:49+00:00",
-   "summary": "As US-Iran strikes resume, Pakistan, Saudi Arabia and Turkiye test their pact&#039;s substance, and who might join next.",
+   "summary": "As US-Iran strikes resume, three nations test their pact&#039;s substance and who might join next.",
    "tags": [
     "strikes"
    ],
@@ -555,15 +575,6 @@
    "highlight": true
   },
   {
-   "source": "Trump · Truth Social",
-   "title": "Let all Canadian Companies that are doing business with America move to the United States, immediately. Many of them are Companies that moved out years ago due to stupid U.S. Leadership. When you move back, there are no TARIFFS! President DONALD J. TRUMP",
-   "url": "https://trumpstruth.org/statuses/41398",
-   "published": "2026-08-30T18:26:25+00:00",
-   "summary": "Let all Canadian Companies that are doing business with America move to the United States, immediately. Many of them are Companies that moved out years ago due to stupid U.S. Leadership. When you move back, there are no TARIFFS! President DONALD J. TRUMP",
-   "tags": [],
-   "highlight": true
-  },
-  {
    "source": "IRNA (Iran state wire)",
    "title": "Iran’s envoy delivers Araghchi’s written message to Iraqi foreign minister",
    "url": "https://en.irna.ir/news/86250337/Iran-s-envoy-delivers-Araghchi-s-written-message-to-Iraqi-foreign",
@@ -603,18 +614,6 @@
    "published": "2026-08-30T13:37:54+00:00",
    "summary": "The referendum result halts Iceland&#039;s bid to reopen EU membership talks, with 52.5 percent voting against the proposal.",
    "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Banque Misr, Egypt’s second-largest, hit by US sanctions: What to know",
-   "url": "https://www.aljazeera.com/news/2026/8/30/banque-misr-egypts-second-largest-hit-by-us-sanctions-what-to-know?traffic_source=rss",
-   "published": "2026-08-30T13:23:48+00:00",
-   "summary": "Move comes as Washington steps up its efforts to economically pressure Iran amid deadlock in truce talks.",
-   "tags": [
-    "sanctions",
     "diplomacy"
    ],
    "highlight": false
