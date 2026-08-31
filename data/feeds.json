@@ -1,6 +1,28 @@
 {
- "asOf": "2026-08-31T10:49:28.436764+00:00",
+ "asOf": "2026-08-31T11:19:42.777231+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "India says PM Modi, Iran’s president held ‘fruitful’ talks on sidelines of SCO summit",
+   "url": "https://en.irna.ir/news/86251043/India-says-PM-Modi-Iran-s-president-held-fruitful-talks-on",
+   "published": "2026-08-31T10:54:18+00:00",
+   "summary": "Tehran, IRNA – The Indian Foreign Ministry has described as “fruitful” the latest meeting between the country’s Prime Minister Narendra Modi and Iranian President Masoud Pezeshkian, saying they discussed various aspects of bilateral relations.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "The looming failure of Operation Economic Outcast",
+   "url": "https://www.aljazeera.com/opinions/2026/8/31/the-looming-failure-of-operation-economic-outcast?traffic_source=rss",
+   "published": "2026-08-31T10:18:40+00:00",
+   "summary": "The latest package of US sanctions on Iran is unlikely to achieve Washington’s objectives.",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Fire breaks out after unidentified explosions at oil refinery in Baghdad",
@@ -611,28 +633,6 @@
    "tags": [
     "diplomacy",
     "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iceland rejects EU accession talks in referendum",
-   "url": "https://www.aljazeera.com/news/2026/8/30/iceland-rejects-eu-membership-plan-in-referendum?traffic_source=rss",
-   "published": "2026-08-30T07:57:18+00:00",
-   "summary": "The &#039;No&#039; camp garnered 52.8 percent of the vote while the &#039;Yes&#039; camp secured 47.2 percent, RUV reports.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Gharibabadi: Implementation of Hormuz understanding with Oman hinges on US’s fulfilling its commitments",
-   "url": "https://en.irna.ir/news/86249904/Gharibabadi-Implementation-of-Hormuz-understanding-with-Oman",
-   "published": "2026-08-30T04:28:54+00:00",
-   "summary": "Tehran, IRNA – Iranian Deputy Foreign Minister for Legal and International Affairs Kazem Gharibabadi says implementation of the understanding Iran has reached with Oman concerning arrangements for transit through the Strait of Hormuz hinges on the United States’ fulfillment of its commitments towards the Islamic Republic that Washington has suspended.",
-   "tags": [
-    "shipping"
    ],
    "highlight": false
   }
