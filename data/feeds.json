@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-31T13:49:51.246963+00:00",
+ "asOf": "2026-08-31T14:23:41.262699+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Greece signs $3.5bn air defence deal with Israel",
+   "url": "https://www.aljazeera.com/news/2026/8/31/greece-signs-3-5bn-air-defence-deal-with-israel?traffic_source=rss",
+   "published": "2026-08-31T13:52:40+00:00",
+   "summary": "Greece signs $3.5bn deal with Israel to acquire its first multi-layered air defence network by 2029.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Can Iran use rockets to mine the Strait of Hormuz, as US claims?",
@@ -52,6 +63,17 @@
    "summary": "The UAE says it intercepted a drone coming from Iran and rejected &#039;false&#039; reports of an attack on its Al Menhad airbase.",
    "tags": [
     "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "UN Press",
+   "title": "General Assembly, 108th & 109th Meetings (AM & PM) 31 August 2026",
+   "url": "https://press.un.org/en/blog/ga12775",
+   "published": "2026-08-31T11:06:23+00:00",
+   "summary": "The United Nations General Assembly will meet at 10 a.m. today to commemorate and promote the International Day against Nuclear Tests. Speakers from regional groups, international organizations and national delegations will address the harmful effects of nuclear testing and reaffirm the importance of ending such tests as a step towards a nuclear-weapon-free world.",
+   "tags": [
+    "nuclear"
    ],
    "highlight": false
   },
@@ -594,28 +616,6 @@
    "tags": [
     "sanctions",
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Palestinian mother in agony as Israeli attack kills her son",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/palestinian-mother-in-agony-as-israeli-attack-kills-her-son?traffic_source=rss",
-   "published": "2026-08-30T12:33:56+00:00",
-   "summary": "Palestinian mother in agony as Israeli attack kills her son",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Death toll from Russian strike on Ukrainian arms depot rises to 38",
-   "url": "https://www.aljazeera.com/news/2026/8/30/death-toll-from-russian-strike-on-ukrainian-arms-depot-rises-to-38?traffic_source=rss",
-   "published": "2026-08-30T12:26:48+00:00",
-   "summary": "Russia&#039;s Defence Ministry announces plans to launch &#039;massive strikes&#039; against Ukraine&#039;s infrastructure before winter.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   }
