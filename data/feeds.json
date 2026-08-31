@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-31T11:19:42.777231+00:00",
+ "asOf": "2026-08-31T11:50:02.726405+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "UAE intercepts drone after US and Iran exchange attacks",
+   "url": "https://www.aljazeera.com/news/2026/8/31/uae-intercepts-drone-after-us-and-iran-exchange-attacks?traffic_source=rss",
+   "published": "2026-08-31T11:25:43+00:00",
+   "summary": "The UAE says it intercepted a drone coming from Iran and rejected &#039;false&#039; reports of an attack on its Al Menhad airbase.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "India says PM Modi, Iran’s president held ‘fruitful’ talks on sidelines of SCO summit",
@@ -43,6 +54,17 @@
    "summary": "Tehran, IRNA — President Masoud Pezeshkian and Indian Prime Minister Narendra Modi have held talks on the sidelines of the Shanghai Cooperation Organization (SCO) summit in Bishkek, Kyrgyzstan.",
    "tags": [
     "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Pezeshkian: Iran, India can expand economic ties by countering sanctions",
+   "url": "https://en.irna.ir/news/86250914/Pezeshkian-Iran-India-can-expand-economic-ties-by-countering",
+   "published": "2026-08-31T09:51:50+00:00",
+   "summary": "Tehran, IRNA – President Masoud Pezeshkian says Iran and India have extensive potential to expand cooperation in political, economic, scientific, and cultural fields, stressing that stronger bilateral cooperation and efforts to neutralize the effects of sanctions can help further advance economic relations between the two countries.",
+   "tags": [
+    "sanctions"
    ],
    "highlight": false
   },
@@ -610,29 +632,6 @@
    "summary": "Martinez joins the London club on a reported three-year deal worth $10m after spending five years at Villa.",
    "tags": [
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran’s diplomacy supports national interests alongside military front: Ex-CBI governor",
-   "url": "https://en.irna.ir/news/86250147/Iran-s-diplomacy-supports-national-interests-alongside-military",
-   "published": "2026-08-30T10:07:38+00:00",
-   "summary": "Tehran, IRNA – Iran’s Foreign Ministry, under the administration of President Masoud Pezeshkian, has kept the country’s diplomatic front active under exceptionally difficult conditions, while building an effective negotiation network and helping shape the Islamabad memorandum of understanding between Tehran and Washington, according to former Central Bank of Iran Governor Mohammad-Hossein Adeli.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Delcy Rodriguez says Venezuela ‘retains sovereignty’ despite US oil deal",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/delcy-rodriguez-says-venezuela-retains-sovereignty-despite-us-oil-deal?traffic_source=rss",
-   "published": "2026-08-30T09:32:02+00:00",
-   "summary": "Venezuela’s interim President has given a televised address to defend a deal of Venezuelan oil for the United States.",
-   "tags": [
-    "diplomacy",
-    "oil"
    ],
    "highlight": false
   }
