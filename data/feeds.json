@@ -1,6 +1,52 @@
 {
- "asOf": "2026-08-31T08:32:26.332172+00:00",
+ "asOf": "2026-08-31T10:31:55.677835+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Fire breaks out after unidentified explosions at oil refinery in Baghdad",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/fire-breaks-out-after-unidentified-explosions-at-oil-refinery-in-baghdad?traffic_source=rss",
+   "published": "2026-08-31T10:11:59+00:00",
+   "summary": "A fire broke out following unidentified explosions at the Al-Dora power plant south of the Iraqi capital, Baghdad.",
+   "tags": [
+    "strikes",
+    "oil"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Pezeshkian, Modi discuss expanding Iran–India ties",
+   "url": "https://en.irna.ir/news/86250914/Pezeshkian-Modi-discuss-expanding-Iran-India-ties",
+   "published": "2026-08-31T09:51:50+00:00",
+   "summary": "Tehran, IRNA — President Masoud Pezeshkian and Indian Prime Minister Narendra Modi have held talks on the sidelines of the Shanghai Cooperation Organization (SCO) summit in Bishkek, Kyrgyzstan.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Iran attacks Jordan, UAE after US bombs Larak Island: What’s the latest?",
+   "url": "https://www.aljazeera.com/news/2026/8/31/iran-attacks-jordan-uae-after-us-bombs-larak-island-whats-the-latest?traffic_source=rss",
+   "published": "2026-08-31T09:19:40+00:00",
+   "summary": "The retaliatory attacks came after the US targeted two Iranian launchers on Larak Island in the Strait of Hormuz.",
+   "tags": [
+    "strikes",
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Political career of PM Bahonar: A visual history",
+   "url": "https://en.irna.ir/photo/86250874/Political-career-of-PM-Bahonar-A-visual-history",
+   "published": "2026-08-31T09:10:42+00:00",
+   "summary": "A cleric, educator, and political activist, Mohammad-Javad Bahonar held key positions including education minister and prime minister following the victory of the Islamic Revolution. He was martyred alongside then-President Mohammad-Ali Rajai in the August 30, 1981, bombing of the Prime Minister’s Office in Tehran, just weeks after his administration took office.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Syria is choosing diplomacy with Israel, but can its approach last?",
@@ -580,18 +626,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "Mapping Iran war’s strikes on Gulf energy and its impact on future of oil",
-   "url": "https://www.aljazeera.com/news/2026/8/30/mapping-the-iran-wars-strikes-on-gulf-energy-and-what-comes-next-for-oil?traffic_source=rss",
-   "published": "2026-08-30T05:09:11+00:00",
-   "summary": "US energy companies have reaped billions from rising oil price, but their assets in the region remain at risk.",
-   "tags": [
-    "strikes",
-    "oil"
-   ],
-   "highlight": false
-  },
-  {
    "source": "IRNA (Iran state wire)",
    "title": "Gharibabadi: Implementation of Hormuz understanding with Oman hinges on US’s fulfilling its commitments",
    "url": "https://en.irna.ir/news/86249904/Gharibabadi-Implementation-of-Hormuz-understanding-with-Oman",
@@ -599,40 +633,6 @@
    "summary": "Tehran, IRNA – Iranian Deputy Foreign Minister for Legal and International Affairs Kazem Gharibabadi says implementation of the understanding Iran has reached with Oman concerning arrangements for transit through the Strait of Hormuz hinges on the United States’ fulfillment of its commitments towards the Islamic Republic that Washington has suspended.",
    "tags": [
     "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Venezuela says it retains ‘sovereignty’ following US oil deal",
-   "url": "https://www.aljazeera.com/news/2026/8/30/venezuela-says-it-retains-sovereignty-following-us-oil-deal?traffic_source=rss",
-   "published": "2026-08-30T03:51:26+00:00",
-   "summary": "Under the deal, $19 from every barrel of oil sold to the US will flow to Caracas, interim President Rodriguez says.",
-   "tags": [
-    "diplomacy",
-    "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "National unity pillar of Iran’s defensive power against enemies: Acting defense minister",
-   "url": "https://en.irna.ir/news/86249574/National-unity-pillar-of-Iran-s-defensive-power-against-enemies",
-   "published": "2026-08-29T14:39:26+00:00",
-   "summary": "TEHRAN, Iran — Iran’s Acting Defense Minister Brigadier General Seyyed Majid Ibn al-Reza says the recently imposed wars demonstrated the unity of the Iranian people, adding that the enemy will face a united Iran should they attack the nation.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran’s enemy failed to achieve its objectives: Army commander",
-   "url": "https://en.irna.ir/news/86249370/Iran-s-enemy-failed-to-achieve-its-objectives-Army-commander",
-   "published": "2026-08-29T10:29:37+00:00",
-   "summary": "Tehran, IRNA – Iran’s Army Commander Major General Amir Hatami says the enemy failed to achieve any of its objectives during the recent imposed wars, despite attempts to destroy Iran’s missile and drone capabilities.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   }
