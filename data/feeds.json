@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-31T07:05:05.934856+00:00",
+ "asOf": "2026-08-31T07:30:50.365164+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran Army pounds US air base in UAE with retaliatory drone strikes",
+   "url": "https://en.irna.ir/news/86250662/Iran-Army-pounds-US-air-base-in-UAE-with-retaliatory-drone-strikes",
+   "published": "2026-08-31T07:07:09+00:00",
+   "summary": "Tehran, IRNA – The Islamic Republic of Iran Army says it has carried out retaliatory drone strikes against US troops and helicopters at Al Minhad Air Base in the United Arab Emirates.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Foreign Ministry condemns US attack on Larak Island, reaffirms Iran’s right to self-defense",
@@ -17,7 +28,7 @@
    "title": "IRGC pounds US bases in Jordan in retaliatory missile-drone operation",
    "url": "https://en.irna.ir/news/86250543/IRGC-pounds-US-bases-in-Jordan-in-retaliatory-missile-drone-operation",
    "published": "2026-08-31T06:18:47+00:00",
-   "summary": "Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) says its Aerospace Force has carried out a combined missile and drone operation against two US air bases in Jordan in retaliation for a US-Israeli assault on Iran’s Larak Island.",
+   "summary": "Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) says its Aerospace Force has carried out a combined missile and drone operation against two US air bases in Jordan in retaliation for a US–Israeli assault on Iran’s Larak Island.",
    "tags": [
     "strikes"
    ],
@@ -623,17 +634,6 @@
    "summary": "Tehran, IRNA – Iran’s Army Commander Major General Amir Hatami says the enemy failed to achieve any of its objectives during the recent imposed wars, despite attempts to destroy Iran’s missile and drone capabilities.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Exclusive | Iran envoy: Europe must accept reality of a strong Iran",
-   "url": "https://en.irna.ir/news/86249239/Exclusive-Iran-envoy-Europe-must-accept-reality-of-a-strong",
-   "published": "2026-08-29T10:13:29+00:00",
-   "summary": "Tehran, IRNA – Iranian Ambassador to Germany Majid Nili says Europe must accept the reality of a strong Iran, stressing that Tehran will continue pursuing dialogue and engagement based on mutual respect while firmly defending its national interests.",
-   "tags": [
-    "diplomacy"
    ],
    "highlight": false
   }
