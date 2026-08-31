@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-31T17:50:01.142145+00:00",
+ "asOf": "2026-08-31T18:26:31.659787+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "India’s PM Modi urges end to Ukraine war in talks with Russia’s Putin",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/indias-pm-modi-urges-end-to-ukraine-war-in-talks-with-russias-putin?traffic_source=rss",
+   "published": "2026-08-31T17:42:55+00:00",
+   "summary": "India’s PM Narendra Modi told Russian President Putin that India supports every effort to end the war in Ukraine.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Vance says Trump ‘sending a message’ to Iran with AI-generated video",
@@ -17,7 +28,7 @@
    "title": "President Trump and VP Vance Deliver Manufacturing Renaissance to Michigan",
    "url": "https://www.whitehouse.gov/releases/2026/08/president-trump-and-vp-vance-deliver-manufacturing-renaissance-to-michigan/",
    "published": "2026-08-31T17:02:26+00:00",
-   "summary": "Vice President JD Vance is in Michigan today to mark the comeback of American manufacturing under the leadership of President Donald J. Trump. Since taking office, the Trump Administration has onshored production, restored factory jobs, and put vehicles back on Michigan assembly lines — while delivering tax relief that leaves more money in workers’ pockets [&#8230;] The post President Trump and VP",
+   "summary": "Vice President JD Vance is in Michigan today to mark the Trump Administration&#8217;s unprecedented crackdown on fraud and the comeback of American manufacturing under the leadership of President Donald J. Trump. Since taking office, the Trump Administration has onshored production, restored factory jobs, and put vehicles back on Michigan assembly lines — while delivering tax [&#8230;] The post Pr",
    "tags": [],
    "highlight": false
   },
@@ -29,6 +40,18 @@
    "summary": "Tehran, IRNA – Commander of the Iranian Army’s Air Defense Force Brigadier General Alireza Elhami warns that the Armed Forces will deliver a decisive response to any new aggression by the enemy.",
    "tags": [
     "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Israeli air strikes on Gaza kill at least five people: Report",
+   "url": "https://www.aljazeera.com/news/2026/8/31/israeli-air-strikes-on-gaza-kill-at-least-five-people?traffic_source=rss",
+   "published": "2026-08-31T15:56:28+00:00",
+   "summary": "Israel escalates its attacks across the Gaza Strip in recent days despite a US-brokered &#039;ceasefire&#039;.",
+   "tags": [
+    "strikes",
+    "diplomacy"
    ],
    "highlight": false
   },
@@ -592,28 +615,6 @@
    "summary": "World Central Kitchen founder José Andrés is renewing his call for an independent investigation into Israeli strikes.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "IRGC vows response to US attack on Larak Island",
-   "url": "https://en.irna.ir/news/86250409/IRGC-vows-response-to-US-attack-on-Larak-Island",
-   "published": "2026-08-30T20:40:49+00:00",
-   "summary": "Tehran, IRNA - The Islamic Revolution Guards Corps (IRGC) says a US attack on the Persian Gulf island of Larak left several Iranian military personnel and civilians martyred and wounded, and vowed to respond to the act of aggression.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "‘Opening a new chapter’: Syria reopens embassy in Libya after talks",
-   "url": "https://www.aljazeera.com/news/2026/8/30/opening-a-new-chapter-syria-to-reopen-embassy-in-libya-after-talks?traffic_source=rss",
-   "published": "2026-08-30T20:38:56+00:00",
-   "summary": "Syrian foreign minister and Libyan PM agree to cooperation committee and reopening of diplomatic missions.",
-   "tags": [
-    "diplomacy"
    ],
    "highlight": false
   }
