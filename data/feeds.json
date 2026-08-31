@@ -1,6 +1,28 @@
 {
- "asOf": "2026-08-31T07:51:18.158394+00:00",
+ "asOf": "2026-08-31T08:32:26.332172+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Syria is choosing diplomacy with Israel, but can its approach last?",
+   "url": "https://www.aljazeera.com/features/2026/8/31/syria-is-choosing-diplomacy-with-israel-but-can-its-approach-last?traffic_source=rss",
+   "published": "2026-08-31T08:05:52+00:00",
+   "summary": "Israel has attacked Syria, occupied its south since the al-Assad regime&#039;s ouster, testing Syria&#039;s diplomatic outreach.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Nord Stream bombings put Ukraine’s ties with Germany under pressure",
+   "url": "https://www.aljazeera.com/news/2026/8/31/why-the-2022-nord-stream-bombings-muddle-berlin-kyiv-ties?traffic_source=rss",
+   "published": "2026-08-31T08:03:48+00:00",
+   "summary": "The blasts strain ties with Ukraine and have exposed the risks of relying on Russian gas, analysts say.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Iran Army pounds US air base in UAE with retaliatory drone strikes",
@@ -589,29 +611,6 @@
    "tags": [
     "diplomacy",
     "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Turkiye, Somalia forces free cargo vessel hijacked by pirates",
-   "url": "https://www.aljazeera.com/news/2026/8/30/turkiye-somalia-forces-frees-cargo-vessel-hijacked-by-pirates?traffic_source=rss",
-   "published": "2026-08-30T00:16:58+00:00",
-   "summary": "Somali authorities say 14 pirates were killed in the 10-day operation to free a Cameroon-flagged cargo vessel.",
-   "tags": [
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iran war live: Tehran in no rush to open Hormuz; West Bank attacks continue",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/8/30/iran-war-live-iran-pledges-to-stand-firm-against-unjust-us-sanctions?traffic_source=rss",
-   "published": "2026-08-30T00:00:00+00:00",
-   "summary": "Deputy foreign minister says Iranian forces have &#039;full oversight&#039; of movements in the strait.",
-   "tags": [
-    "strikes",
-    "shipping"
    ],
    "highlight": false
   },
