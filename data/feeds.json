@@ -1,6 +1,28 @@
 {
- "asOf": "2026-08-31T21:18:27.862134+00:00",
+ "asOf": "2026-08-31T22:19:36.950971+00:00",
  "items": [
+  {
+   "source": "UN Press",
+   "title": "General Assembly Marks International Day against Nuclear Tests, Adopts Texts Establishing Observances for ‘Greening the Planet’, Safe AI",
+   "url": "https://press.un.org/en/2026/ga12775.doc.htm",
+   "published": "2026-08-31T21:25:13+00:00",
+   "summary": "Meeting to commemorate the International Day against Nuclear Tests 35 years after the closure of the Semipalatinsk test site, speakers in the General Assembly today used the occasion to reflect on why testing moratoria must be upheld, as they also adopted resolutions related to greening the planet, missing persons, safe artificial intelligence (AI) and the participation of Indigenous Peoples in th",
+   "tags": [
+    "nuclear"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Poland opens terror probe into fire at drone factory",
+   "url": "https://www.aljazeera.com/news/2026/8/31/poland-opens-terror-probe-into-fire-at-drone-factory?traffic_source=rss",
+   "published": "2026-08-31T21:24:15+00:00",
+   "summary": "Amid suspicion of Russian sabotage, Warsaw eyes link to foreign intelligence services.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Minister: Iran is ready to Share cybersecurity expertise with Iraq",
@@ -19,6 +41,17 @@
    "published": "2026-08-31T20:38:36+00:00",
    "summary": "IMPROVING PUBLIC SERVICE DELIVERY: The Trump Administration continues to improve how Government delivers services to the American public, in particular through the use of leading and emerging technologies. Today, the Office of Management and Budget released a new policy enforcing the use of Login.gov for most public-facing services, setting Government on a path towards having [&#8230;] The post Fa",
    "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Lebanon asks Greece to help enforce agreement with Israel",
+   "url": "https://www.aljazeera.com/news/2026/8/31/lebanon-asks-greece-to-help-enforce-agreement-with-israel?traffic_source=rss",
+   "published": "2026-08-31T20:24:41+00:00",
+   "summary": "After Greece agrees to Israeli weapons deal, Joseph Aoun asks Athens to help advance US-brokered framework agreement.",
+   "tags": [
+    "diplomacy"
+   ],
    "highlight": false
   },
   {
@@ -575,40 +608,6 @@
    "url": "https://en.irna.ir/news/86250650/Foreign-Ministry-condemns-US-attack-on-Larak-Island-reaffirms",
    "published": "2026-08-31T06:58:07+00:00",
    "summary": "Tehran, IRNA – Iran’s Foreign Ministry has strongly condemned a US military attack on parts of Larak Island, saying the Iranian Armed Forces targeted American military bases in Jordan in exercise of the country’s inherent right to legitimate defense.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "IRGC pounds US bases in Jordan in retaliatory missile-drone operation",
-   "url": "https://en.irna.ir/news/86250543/IRGC-pounds-US-bases-in-Jordan-in-retaliatory-missile-drone-operation",
-   "published": "2026-08-31T06:18:47+00:00",
-   "summary": "Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) says its Aerospace Force has carried out a combined missile and drone operation against two US air bases in Jordan in retaliation for a US–Israeli assault on Iran’s Larak Island.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran shoots down American MQ-9 drone",
-   "url": "https://en.irna.ir/news/86250546/Iran-shoots-down-American-MQ-9-drone",
-   "published": "2026-08-31T06:09:18+00:00",
-   "summary": "Tehran, IRNA — The Islamic Revolution Guards Corps (IRGC) has announced that an enemy MQ-9 drone has been intercepted and destroyed over the Strait of Hormuz",
-   "tags": [
-    "strikes",
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iran targets Jordan after first US attack in a month",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/iran-targets-jordan-after-first-us-attack-in-a-month?traffic_source=rss",
-   "published": "2026-08-31T03:06:56+00:00",
-   "summary": "The US has launched its first strikes on Iran in a month, hitting sites on Larak Island. Iran hit back targeting bases h",
    "tags": [
     "strikes"
    ],
