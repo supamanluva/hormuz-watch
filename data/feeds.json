@@ -1,6 +1,18 @@
 {
- "asOf": "2026-08-31T01:58:30.681766+00:00",
+ "asOf": "2026-08-31T02:32:17.160924+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "US plans to sanction another bank to keep economic pressure on Iran",
+   "url": "https://www.aljazeera.com/news/2026/8/31/us-plans-to-sanction-another-bank-to-keep-economic-pressure-on-iran?traffic_source=rss",
+   "published": "2026-08-31T02:08:46+00:00",
+   "summary": "Washington has recently stepped up efforts to economically pressure Tehran amid the deadlocked truce talks.",
+   "tags": [
+    "sanctions",
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "What are the implications of the US-Venezuela oil deal?",
@@ -554,18 +566,6 @@
    "summary": "This is the 27th time since Russia invaded Ukraine that Zaporizhzhia plant has had to rely on emergency diesel supplies.",
    "tags": [
     "nuclear"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "What’s behind the US deal to seize control of Venezuelan oil reserves?",
-   "url": "https://www.aljazeera.com/news/2026/8/29/whats-behind-the-us-deal-to-seize-control-of-venezuelan-oil-reserves?traffic_source=rss",
-   "published": "2026-08-29T22:33:01+00:00",
-   "summary": "Few details have emerged about deal between Washington and Caracas, criticised as takeover of Venezuela&#039;s resources.",
-   "tags": [
-    "diplomacy",
-    "oil"
    ],
    "highlight": false
   },
