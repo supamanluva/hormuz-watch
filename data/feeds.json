@@ -1,6 +1,28 @@
 {
- "asOf": "2026-08-31T12:54:08.376220+00:00",
+ "asOf": "2026-08-31T13:23:17.669457+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Can Iran use rockets to mine the Strait of Hormuz, as US claims?",
+   "url": "https://www.aljazeera.com/news/2026/8/31/can-iran-use-rockets-to-mine-the-strait-of-hormuz-as-us-claims?traffic_source=rss",
+   "published": "2026-08-31T13:00:10+00:00",
+   "summary": "Analysts say it&#039;s implausible but Iran is well-versed in adapting conventional weapons to suit its needs.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Pakistan, Saudi Arabia, Turkiye meet: What’s next for their defence pact?",
+   "url": "https://www.aljazeera.com/news/2026/8/31/pakistan-saudi-arabia-turkiye-meet-whats-next-for-their-defence-pact?traffic_source=rss",
+   "published": "2026-08-31T12:57:49+00:00",
+   "summary": "As US-Iran strikes resume, Pakistan, Saudi Arabia and Turkiye test their pact&#039;s substance, and who might join next.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "Iran is officially a Failed Nation. IT IS DEAD! They have no Navy, they have no Air Force, they have no currency, they are not paying their soldiers or police, Inflation is at 300%, and their leadership is in total disarray and incapable of properly representing the country. The only thing they have is FAKE NEWS from the USA, a willingness to kill their protesters (now over 100,000 people dead. They must be tried for war crimes against humanity!), and a good line of “BULLSHIT.” Thank you for your attention to this matter! President DONALD J.TRUMP",
@@ -594,29 +616,6 @@
    "summary": "Russia&#039;s Defence Ministry announces plans to launch &#039;massive strikes&#039; against Ukraine&#039;s infrastructure before winter.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Six months on, what did the strikes on Iran achieve?",
-   "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/8/30/six-months-on-what-did-the-strikes-on-iran-achieve?traffic_source=rss",
-   "published": "2026-08-30T11:24:21+00:00",
-   "summary": "The US-Israeli bombing of Iran became a fight for the Strait of Hormuz. AJLabs counts the cost of the war.",
-   "tags": [
-    "strikes",
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iran’s Khamenei calls for Gulf unity as Hormuz tensions persist",
-   "url": "https://www.aljazeera.com/news/2026/8/30/irans-khamenei-calls-for-gulf-unity-as-hormuz-tensions-persist?traffic_source=rss",
-   "published": "2026-08-30T10:30:57+00:00",
-   "summary": "Khamenei urges Gulf rulers to confront their &#039;real enemy&#039; as Iran keeps Hormuz restricted amid stalled diplomacy.",
-   "tags": [
-    "shipping"
    ],
    "highlight": false
   }
