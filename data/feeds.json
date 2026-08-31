@@ -1,6 +1,26 @@
 {
- "asOf": "2026-08-31T20:21:55.116260+00:00",
+ "asOf": "2026-08-31T21:18:27.862134+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Minister: Iran is ready to Share cybersecurity expertise with Iraq",
+   "url": "https://en.irna.ir/news/86251480/Minister-Iran-is-ready-to-Share-cybersecurity-expertise-with",
+   "published": "2026-08-31T21:14:58+00:00",
+   "summary": "Tehran, IRNA – Noting Iran's readiness to share its cybersecurity expertise with Iraq, the Minister of Information and Communications Technology said that Iran had been subjected to massive cyberattacks—particularly during the recent imposed war—and has gained valuable experience in this field.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "White House",
+   "title": "Fact Sheet: Delivering a Universal Sign-on for Public Services",
+   "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-delivering-a-universal-sign-on-for-public-services/",
+   "published": "2026-08-31T20:38:36+00:00",
+   "summary": "IMPROVING PUBLIC SERVICE DELIVERY: The Trump Administration continues to improve how Government delivers services to the American public, in particular through the use of leading and emerging technologies. Today, the Office of Management and Budget released a new policy enforcing the use of Login.gov for most public-facing services, setting Government on a path towards having [&#8230;] The post Fa",
+   "tags": [],
+   "highlight": false
+  },
   {
    "source": "UN Press",
    "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General",
@@ -9,6 +29,29 @@
    "summary": "In Ukraine, nearly 60 civilians were killed and 240 injured in attacks over the weekend, according to authorities. Kyiv and its surrounding region, were the hardest hit, with drone strike on an ammunition depot triggering an explosion that killed 38 people, including residents of an elder care facility.",
    "tags": [
     "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "How will the Mecca agreement become an operational framework?",
+   "url": "https://www.aljazeera.com/video/inside-story/2026/8/31/how-will-the-mecca-agreement-become-an-operational-framework?traffic_source=rss",
+   "published": "2026-08-31T20:13:18+00:00",
+   "summary": "Officials from Turkiye, Saudi Arabia and Pakistan meet to discuss implementing the pact.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "IRGC shoots down hostile US MQ-9 drone over Hormuz",
+   "url": "https://en.irna.ir/news/86251453/IRGC-shoots-down-hostile-US-MQ-9-drone-over-Hormuz",
+   "published": "2026-08-31T20:10:58+00:00",
+   "summary": "Tehran, IRNA – Iran has shot down yet another MQ-9 Reaper drone belonging to the US enemy over eastern Hormuz Strait on Monday afternoon.",
+   "tags": [
+    "strikes",
+    "shipping"
    ],
    "highlight": false
   },
@@ -566,53 +609,6 @@
    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/iran-targets-jordan-after-first-us-attack-in-a-month?traffic_source=rss",
    "published": "2026-08-31T03:06:56+00:00",
    "summary": "The US has launched its first strikes on Iran in a month, hitting sites on Larak Island. Iran hit back targeting bases h",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "US plans to sanction another bank to keep economic pressure on Iran",
-   "url": "https://www.aljazeera.com/news/2026/8/31/us-plans-to-sanction-another-bank-to-keep-economic-pressure-on-iran?traffic_source=rss",
-   "published": "2026-08-31T02:08:46+00:00",
-   "summary": "Washington has recently stepped up efforts to economically pressure Tehran amid the deadlocked truce talks.",
-   "tags": [
-    "sanctions",
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Venezuela’s Maduro shares first photos from US detention",
-   "url": "https://www.aljazeera.com/news/2026/8/31/venezuelas-maduro-shares-first-photos-from-us-detention?traffic_source=rss",
-   "published": "2026-08-31T01:54:58+00:00",
-   "summary": "Abducted Venezuelan leader&#039;s post appears to show him in US detention, published two days after US-Venezuela oil deal.",
-   "tags": [
-    "diplomacy",
-    "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "What are the implications of the US-Venezuela oil deal?",
-   "url": "https://www.aljazeera.com/video/inside-story/2026/8/31/what-are-the-implications-of-the-us-venezuela-oil-deal?traffic_source=rss",
-   "published": "2026-08-31T00:41:12+00:00",
-   "summary": "Opposition in Venezuela as interim leader insists the deal with Washington will help with the country&#039;s recovery.",
-   "tags": [
-    "diplomacy",
-    "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iran war live: Tehran says it attacked bases in Jordan, UAE after US strike",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/8/31/iran-war-live-irgc-attacks-us-bases-in-jordan-after-us-bombs-larak-island?traffic_source=rss",
-   "published": "2026-08-31T00:00:00+00:00",
-   "summary": "CENTCOM says US forces bombed two IRGC rocket launchers on Larak Island which presented an &#039;imminent threat&#039;.",
    "tags": [
     "strikes"
    ],
