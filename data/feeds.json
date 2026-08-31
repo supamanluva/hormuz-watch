@@ -1,6 +1,28 @@
 {
- "asOf": "2026-08-31T19:49:44.522243+00:00",
+ "asOf": "2026-08-31T20:21:55.116260+00:00",
  "items": [
+  {
+   "source": "UN Press",
+   "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General",
+   "url": "https://press.un.org/en/2026/db260831.doc.htm",
+   "published": "2026-08-31T20:14:19+00:00",
+   "summary": "In Ukraine, nearly 60 civilians were killed and 240 injured in attacks over the weekend, according to authorities. Kyiv and its surrounding region, were the hardest hit, with drone strike on an ammunition depot triggering an explosion that killed 38 people, including residents of an elder care facility.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Ukrainians mourn community leader killed in Russian strike on Myla",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/ukrainians-mourn-community-leader-killed-in-russian-strike-on-myla?traffic_source=rss",
+   "published": "2026-08-31T19:51:46+00:00",
+   "summary": "Ukrainians gathered to mourn Taras Didych, who was killed while rushing to help after a Russian strike.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "White House",
    "title": "Fact Sheet: President Donald J. Trump Announces Deal with Nine Additional Pharmaceutical Manufacturers to Lower Drug Prices for Americans",
@@ -591,28 +613,6 @@
    "url": "https://www.aljazeera.com/news/liveblog/2026/8/31/iran-war-live-irgc-attacks-us-bases-in-jordan-after-us-bombs-larak-island?traffic_source=rss",
    "published": "2026-08-31T00:00:00+00:00",
    "summary": "CENTCOM says US forces bombed two IRGC rocket launchers on Larak Island which presented an &#039;imminent threat&#039;.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "What is Notting Hill Carnival’s Jab Jab parade?",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/what-is-notting-hill-carnivals-jab-jab-parade?traffic_source=rss",
-   "published": "2026-08-30T23:29:21+00:00",
-   "summary": "The Jab Jab parade sees hundreds don devil horns and cover their skin in motor oil for London’s Notting Hill Carnival.",
-   "tags": [
-    "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Israeli strike kills 3-year-old child in Gaza",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/israeli-strike-kills-3-year-old-child-in-gaza?traffic_source=rss",
-   "published": "2026-08-30T21:02:45+00:00",
-   "summary": "A deadly Israeli strike on Deir el-Balah killed two Palestinians including a 3-year-old child.",
    "tags": [
     "strikes"
    ],
