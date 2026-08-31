@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-31T19:15:42.777706+00:00",
+ "asOf": "2026-08-31T19:49:44.522243+00:00",
  "items": [
+  {
+   "source": "White House",
+   "title": "Fact Sheet: President Donald J. Trump Announces Deal with Nine Additional Pharmaceutical Manufacturers to Lower Drug Prices for Americans",
+   "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-announces-deal-with-nine-additional-pharmaceutical-manufacturers-to-lower-drug-prices-for-americans/",
+   "published": "2026-08-31T19:14:29+00:00",
+   "summary": "ADVANCING MOST-FAVORED-NATION (MFN) PRICING:&#160;Today, President Donald J. Trump announced nine new agreements with pharmaceutical manufacturers to lower prescription drug prices for Americans in line with the lowest prices paid by other developed nations (known as the most-favored-nation, or MFN, price). The agreements bring the total number of pharmaceutical manufacturers with MFN deals to 26,",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "India’s PM Modi urges end to Ukraine war in talks with Russia’s Putin",
@@ -602,17 +613,6 @@
    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/israeli-strike-kills-3-year-old-child-in-gaza?traffic_source=rss",
    "published": "2026-08-30T21:02:45+00:00",
    "summary": "A deadly Israeli strike on Deir el-Balah killed two Palestinians including a 3-year-old child.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Jose Andres renews call for investigation into WCK Gaza staff killings",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/jose-andres-renews-call-for-investigation-into-wck-gaza-staff-killings?traffic_source=rss",
-   "published": "2026-08-30T20:50:04+00:00",
-   "summary": "World Central Kitchen founder José Andrés is renewing his call for an independent investigation into Israeli strikes.",
    "tags": [
     "strikes"
    ],
