@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-31T16:22:34.934490+00:00",
+ "asOf": "2026-08-31T16:50:08.351987+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran will deliver a decisive response to any new attack: Commander",
+   "url": "https://en.irna.ir/news/86251336/Iran-will-deliver-a-decisive-response-to-any-new-attack-Commander",
+   "published": "2026-08-31T16:38:57+00:00",
+   "summary": "Tehran, IRNA – Commander of the Iranian Army’s Air Defense Force Brigadier General Alireza Elhami warns that the Armed Forces will deliver a decisive response to any new aggression by the enemy.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Israeli strikes kill at least five Palestinians in Gaza City",
@@ -603,17 +614,6 @@
    "url": "https://en.irna.ir/news/86250337/Iran-s-envoy-delivers-Araghchi-s-written-message-to-Iraqi-foreign",
    "published": "2026-08-30T16:52:32+00:00",
    "summary": "Tehran, IRNA - Iran's Ambassador to Iraq, Mohammad Kazem Al-e Sadegh, has delivered a written message from Foreign Minister Abbas Araghchi to his Iraqi counterpart, Fuad Hussein.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Rival Libya factions sign deal to hold national elections within two years",
-   "url": "https://www.aljazeera.com/news/2026/8/30/rival-libya-factions-sign-deal-to-hold-national-elections-within-two-years?traffic_source=rss",
-   "published": "2026-08-30T16:38:01+00:00",
-   "summary": "Signing takes place at UN mission in Tripoli after initial draft inked by UN-backed committee in Tunis on August 20.",
    "tags": [
     "diplomacy"
    ],
