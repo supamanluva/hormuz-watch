@@ -1,6 +1,17 @@
 {
- "asOf": "2026-08-31T22:19:36.950971+00:00",
+ "asOf": "2026-08-31T22:49:10.954190+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "JERUSALEM DAILY: JOURNALISTS ATTACKED",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/jerusalem-daily-journalists-attacked?traffic_source=rss",
+   "published": "2026-08-31T22:16:18+00:00",
+   "summary": "Israeli pogroms target Palestinians and an NBC crew in the occupied West Bank.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "UN Press",
    "title": "General Assembly Marks International Day against Nuclear Tests, Adopts Texts Establishing Observances for ‘Greening the Planet’, Safe AI",
@@ -14,7 +25,7 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "Poland opens terror probe into fire at drone factory",
+   "title": "Poland opens terror probe into fire at factory supplying Ukraine drones",
    "url": "https://www.aljazeera.com/news/2026/8/31/poland-opens-terror-probe-into-fire-at-drone-factory?traffic_source=rss",
    "published": "2026-08-31T21:24:15+00:00",
    "summary": "Amid suspicion of Russian sabotage, Warsaw eyes link to foreign intelligence services.",
@@ -597,17 +608,6 @@
    "url": "https://en.irna.ir/news/86250662/Iran-Army-pounds-US-air-base-in-UAE-with-retaliatory-drone-strikes",
    "published": "2026-08-31T07:07:09+00:00",
    "summary": "Tehran, IRNA – The Islamic Republic of Iran Army says it has carried out retaliatory drone strikes against US troops and helicopters at Al Minhad Air Base in the United Arab Emirates.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Foreign Ministry condemns US attack on Larak Island, reaffirms Iran’s right to self-defense",
-   "url": "https://en.irna.ir/news/86250650/Foreign-Ministry-condemns-US-attack-on-Larak-Island-reaffirms",
-   "published": "2026-08-31T06:58:07+00:00",
-   "summary": "Tehran, IRNA – Iran’s Foreign Ministry has strongly condemned a US military attack on parts of Larak Island, saying the Iranian Armed Forces targeted American military bases in Jordan in exercise of the country’s inherent right to legitimate defense.",
    "tags": [
     "strikes"
    ],
