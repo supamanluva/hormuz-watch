@@ -1,6 +1,18 @@
 {
- "asOf": "2026-08-31T11:50:02.726405+00:00",
+ "asOf": "2026-08-31T12:32:47.358957+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Fire breaks out after unidentified explosions at oil refinery in Baghdad",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/fire-breaks-out-after-unidentified-explosions-at-oil-refinery-in-baghdad-2?traffic_source=rss",
+   "published": "2026-08-31T11:58:57+00:00",
+   "summary": "A fire broke out following unidentified explosions at the Al-Dora power plant south of the Iraqi capital, Baghdad.",
+   "tags": [
+    "strikes",
+    "oil"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "UAE intercepts drone after US and Iran exchange attacks",
@@ -621,17 +633,6 @@
    "summary": "Khamenei urges Gulf rulers to confront their &#039;real enemy&#039; as Iran keeps Hormuz restricted amid stalled diplomacy.",
    "tags": [
     "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Chelsea signs Argentinian goalkeeper Emiliano Martinez from Aston Villa",
-   "url": "https://www.aljazeera.com/sports/2026/8/30/chelsea-sign-argentina-goalkeeper-emiliano-martinez-from-aston-villa?traffic_source=rss",
-   "published": "2026-08-30T10:11:16+00:00",
-   "summary": "Martinez joins the London club on a reported three-year deal worth $10m after spending five years at Villa.",
-   "tags": [
-    "diplomacy"
    ],
    "highlight": false
   }
