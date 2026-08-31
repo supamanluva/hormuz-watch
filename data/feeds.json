@@ -1,6 +1,26 @@
 {
- "asOf": "2026-08-31T17:18:49.149180+00:00",
+ "asOf": "2026-08-31T17:50:01.142145+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Vance says Trump ‘sending a message’ to Iran with AI-generated video",
+   "url": "https://www.aljazeera.com/economy/2026/8/31/vance-says-trump-sending-a-message-to-iran-with-ai-generated-video?traffic_source=rss",
+   "published": "2026-08-31T17:11:54+00:00",
+   "summary": "Video depicting Kharg Island being attacked is later followed by more warnings from President Trump.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "White House",
+   "title": "President Trump and VP Vance Deliver Manufacturing Renaissance to Michigan",
+   "url": "https://www.whitehouse.gov/releases/2026/08/president-trump-and-vp-vance-deliver-manufacturing-renaissance-to-michigan/",
+   "published": "2026-08-31T17:02:26+00:00",
+   "summary": "Vice President JD Vance is in Michigan today to mark the comeback of American manufacturing under the leadership of President Donald J. Trump. Since taking office, the Trump Administration has onshored production, restored factory jobs, and put vehicles back on Michigan assembly lines — while delivering tax relief that leaves more money in workers’ pockets [&#8230;] The post President Trump and VP",
+   "tags": [],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Iran will deliver a decisive response to any new attack: Commander",
@@ -592,28 +612,6 @@
    "url": "https://www.aljazeera.com/news/2026/8/30/opening-a-new-chapter-syria-to-reopen-embassy-in-libya-after-talks?traffic_source=rss",
    "published": "2026-08-30T20:38:56+00:00",
    "summary": "Syrian foreign minister and Libyan PM agree to cooperation committee and reopening of diplomatic missions.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iran attacks US bases in Jordan after US strikes Larak Island",
-   "url": "https://www.aljazeera.com/news/2026/8/30/us-strikes-irans-lark-island-in-first-attack-in-weeks?traffic_source=rss",
-   "published": "2026-08-30T20:15:47+00:00",
-   "summary": "The exchange of attacks is the first flare-up in violence between the two sides since late July.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran’s envoy delivers Araghchi’s written message to Iraqi foreign minister",
-   "url": "https://en.irna.ir/news/86250337/Iran-s-envoy-delivers-Araghchi-s-written-message-to-Iraqi-foreign",
-   "published": "2026-08-30T16:52:32+00:00",
-   "summary": "Tehran, IRNA - Iran's Ambassador to Iraq, Mohammad Kazem Al-e Sadegh, has delivered a written message from Foreign Minister Abbas Araghchi to his Iraqi counterpart, Fuad Hussein.",
    "tags": [
     "diplomacy"
    ],
