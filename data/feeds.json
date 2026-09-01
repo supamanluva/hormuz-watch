@@ -1,6 +1,48 @@
 {
- "asOf": "2026-09-01T16:48:56.112071+00:00",
+ "asOf": "2026-09-01T17:19:15.513650+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Pezeshkian urges stronger UN role in addressing international crises",
+   "url": "https://en.irna.ir/news/86252485/Pezeshkian-urges-stronger-UN-role-in-addressing-international",
+   "published": "2026-09-01T17:01:00+00:00",
+   "summary": "Tehran, IRNA – President Masoud Pezeshkian has called for a more effective and efficient role for the United Nations in dealing with international developments and crises, saying international institutions should not allow powerful states to act with impunity.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "US launches new strikes against Iran as war escalates",
+   "url": "https://www.aljazeera.com/news/2026/9/1/us-military-says-launching-new-attacks-on-iran?traffic_source=rss",
+   "published": "2026-09-01T16:45:56+00:00",
+   "summary": "This is a breaking news story.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Germany accuses Russia of drone attack on Leipzig airport",
+   "url": "https://www.aljazeera.com/news/2026/9/1/germany-accuses-russia-of-drone-attack-on-leipzig-airport?traffic_source=rss",
+   "published": "2026-09-01T16:24:36+00:00",
+   "summary": "The findings come as European countries report an increase in sabotage attacks and attempts that they blame on Russia.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "I am pleased to announce that Pastor Darrell Scott, a longtime friend, respected Faith Leader, and tireless Advocate for America’s Underserved Communities, will be serving my Administration and me as an Advisor for tobacco health issues on the Advisory Committee to the Director (ACD) in the CDC. For far too long, tobacco-related disease has taken an enormous toll on American Families, including Communities that have too often been overlooked and underserved. Pastor Scott understands these Communities, and the challenges they face, and he knows how to bring people together to get RESULTS. Delivering on a Campaign promise, his work will help ensure that we take a serious look at how we can better protect Americans from dangerous tobacco products, while supporting solutions to reduce harm and SAVE LIVES. Pastor Darrell Scott has been with us from the very beginning. He is a GREAT LEADER with a tremendous heart for the people of our Country. Thank you Pastor Scott. MAKE AMERICA HEALTHY AND SAFE AGAIN! President DONALD J. TRUMP",
+   "url": "https://trumpstruth.org/statuses/41444",
+   "published": "2026-09-01T16:22:56+00:00",
+   "summary": "I am pleased to announce that Pastor Darrell Scott, a longtime friend, respected Faith Leader, and tireless Advocate for America’s Underserved Communities, will be serving my Administration and me as an Advisor for tobacco health issues on the Advisory Committee to the Director (ACD) in the CDC. For far too long, tobacco-related disease has taken an enormous toll on American Families, including Co",
+   "tags": [],
+   "highlight": true
+  },
   {
    "source": "Al Jazeera",
    "title": "Six days of Russian strikes push Kyiv residents to consider leaving",
@@ -457,17 +499,6 @@
    "highlight": true
   },
   {
-   "source": "Al Jazeera",
-   "title": "Poland opens terror probe into fire at factory supplying Ukraine drones",
-   "url": "https://www.aljazeera.com/news/2026/8/31/poland-opens-terror-probe-into-fire-at-drone-factory?traffic_source=rss",
-   "published": "2026-08-31T21:24:15+00:00",
-   "summary": "Amid suspicion of Russian sabotage, Warsaw eyes link to foreign intelligence services.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
    "source": "IRNA (Iran state wire)",
    "title": "Minister: Iran is ready to Share cybersecurity expertise with Iraq",
    "url": "https://en.irna.ir/news/86251480/Minister-Iran-is-ready-to-Share-cybersecurity-expertise-with",
@@ -496,17 +527,6 @@
    "published": "2026-08-31T20:38:36+00:00",
    "summary": "IMPROVING PUBLIC SERVICE DELIVERY: The Trump Administration continues to improve how Government delivers services to the American public, in particular through the use of leading and emerging technologies. Today, the Office of Management and Budget released a new policy enforcing the use of Login.gov for most public-facing services, setting Government on a path towards having [&#8230;] The post Fa",
    "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Lebanon asks Greece to help enforce agreement with Israel",
-   "url": "https://www.aljazeera.com/news/2026/8/31/lebanon-asks-greece-to-help-enforce-agreement-with-israel?traffic_source=rss",
-   "published": "2026-08-31T20:24:41+00:00",
-   "summary": "After Greece agrees to Israeli weapons deal, Joseph Aoun asks Athens to help advance US-brokered framework agreement.",
-   "tags": [
-    "diplomacy"
-   ],
    "highlight": false
   },
   {
@@ -605,24 +625,6 @@
    "url": "https://trumpstruth.org/statuses/41432",
    "published": "2026-08-31T15:35:39+00:00",
    "summary": "",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from August 31, 2026",
-   "url": "https://www.trumpstruth.org/statuses/41432",
-   "published": "2026-08-31T15:35:39+00:00",
-   "summary": "",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "The Supreme Court will not survive another Democratic trifecta:",
-   "url": "https://trumpstruth.org/statuses/41433",
-   "published": "2026-08-31T15:35:15+00:00",
-   "summary": "The Supreme Court will not survive another Democratic trifecta: https://www. washingtonexaminer.com/opinion /editorials/4687679/the-supreme-court-will-not-survive-another-democratic-trifecta-independent-body/",
    "tags": [],
    "highlight": true
   }
