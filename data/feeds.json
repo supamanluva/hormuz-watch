@@ -1,5 +1,5 @@
 {
- "asOf": "2026-09-01T12:31:41.528685+00:00",
+ "asOf": "2026-09-01T12:53:50.307962+00:00",
  "items": [
   {
    "source": "Al Jazeera",
@@ -11,6 +11,15 @@
     "strikes"
    ],
    "highlight": false
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "Cheaper drugs, cheaper beef, cheaper gas. Trump lines up fall affordability before Labor Day:",
+   "url": "https://trumpstruth.org/statuses/41442",
+   "published": "2026-09-01T11:21:04+00:00",
+   "summary": "Cheaper drugs, cheaper beef, cheaper gas. Trump lines up fall affordability before Labor Day: https:// justthenews.com/government/whi te-house/cheaper-drugs-cheaper-beef-cheaper-gas-trump-lines-his-fall-affordability",
+   "tags": [],
+   "highlight": true
   },
   {
    "source": "IRNA (Iran state wire)",
@@ -601,15 +610,6 @@
    "source": "Trump · Truth Social",
    "title": "‘Abolish ICE’ Is Now Official DNC Policy:",
    "url": "https://trumpstruth.org/statuses/41436",
-   "published": "2026-08-31T15:33:57+00:00",
-   "summary": "‘Abolish ICE’ Is Now Official DNC Policy: https://www. dailywire.com/news/dnc-formall y-adopts-resolution-calling-for-abolishing-ice",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "‘Abolish ICE’ Is Now Official DNC Policy:",
-   "url": "https://www.trumpstruth.org/statuses/41436",
    "published": "2026-08-31T15:33:57+00:00",
    "summary": "‘Abolish ICE’ Is Now Official DNC Policy: https://www. dailywire.com/news/dnc-formall y-adopts-resolution-calling-for-abolishing-ice",
    "tags": [],
