@@ -1,6 +1,28 @@
 {
- "asOf": "2026-09-01T06:58:25.741529+00:00",
+ "asOf": "2026-09-01T07:25:01.081271+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Palestine weekly: Israel’s rightwing campaigns on anti-Palestinian abuses",
+   "url": "https://www.aljazeera.com/features/2026/9/1/palestine-weekly-israels-rightwing-campaigns-on-anti-palestinian-abuses?traffic_source=rss",
+   "published": "2026-09-01T07:02:25+00:00",
+   "summary": "Israeli ministers escalate campaign rhetoric with AI ads as Gaza strikes widen ahead of tight October election.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Teen faces life over livestream of San Diego mosque attack",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/teen-faces-life-over-livestream-of-san-diego-mosque-attack?traffic_source=rss",
+   "published": "2026-09-01T06:39:07+00:00",
+   "summary": "A 17-year-old girl has been indicted in North Carolina on murder and conspiracy charges",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "EU support for US anti-Iran sanctions violates international law: Foreign Ministry spokesperson",
@@ -588,29 +610,6 @@
    "summary": "Tehran, IRNA – The Indian Foreign Ministry has described as “fruitful” the latest meeting between the country’s Prime Minister Narendra Modi and Iranian President Masoud Pezeshkian, saying they discussed various aspects of bilateral relations.",
    "tags": [
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "The looming failure of Operation Economic Outcast",
-   "url": "https://www.aljazeera.com/opinions/2026/8/31/the-looming-failure-of-operation-economic-outcast?traffic_source=rss",
-   "published": "2026-08-31T10:18:40+00:00",
-   "summary": "The latest package of US sanctions on Iran is unlikely to achieve Washington’s objectives.",
-   "tags": [
-    "sanctions"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Fire breaks out after unidentified explosions at oil refinery in Baghdad",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/fire-breaks-out-after-unidentified-explosions-at-oil-refinery-in-baghdad?traffic_source=rss",
-   "published": "2026-08-31T10:11:59+00:00",
-   "summary": "A fire broke out following unidentified explosions at the Al-Dora power plant south of the Iraqi capital, Baghdad.",
-   "tags": [
-    "strikes",
-    "oil"
    ],
    "highlight": false
   }
