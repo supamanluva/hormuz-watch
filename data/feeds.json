@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-01T11:50:06.029886+00:00",
+ "asOf": "2026-09-01T12:31:41.528685+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Two killed in explosion of ammunition-laden vehicle in Syria’s Idlib",
+   "url": "https://www.aljazeera.com/news/2026/9/1/two-killed-in-explosion-of-ammunition-laden-vehicle-in-syrias-idlib?traffic_source=rss",
+   "published": "2026-09-01T11:43:28+00:00",
+   "summary": "Several people injured in the incident that took place in the Idlib countryside, state media reports.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Tajik envoy: Dushanbe does not support anti-Iran sanctions",
@@ -40,7 +51,7 @@
    "title": "Transfer deadline day live: Premier League, La Liga news and done deals",
    "url": "https://www.aljazeera.com/sports/liveblog/2026/9/1/transfer-deadline-day-2026-live-updates-barcola-alvarez-gakpo?traffic_source=rss",
    "published": "2026-09-01T09:59:55+00:00",
-   "summary": "Live updates and news on all signings for Man United, Arsenal, Man City, Liverpool, Barcelona, Real Madrid and others.",
+   "summary": "Live updates and news from all signings as Premier League targets Alvarez, Balogun and Gakpo are expected to move.",
    "tags": [
     "diplomacy"
    ],
@@ -601,15 +612,6 @@
    "url": "https://www.trumpstruth.org/statuses/41436",
    "published": "2026-08-31T15:33:57+00:00",
    "summary": "‘Abolish ICE’ Is Now Official DNC Policy: https://www. dailywire.com/news/dnc-formall y-adopts-resolution-calling-for-abolishing-ice",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Trump’s “America First” Agenda Brings Another Citizen Home:",
-   "url": "https://trumpstruth.org/statuses/41412",
-   "published": "2026-08-31T15:33:44+00:00",
-   "summary": "Trump’s “America First” Agenda Brings Another Citizen Home: https:// amac.us/newsline/trump-s-ameri ca-first-agenda-brings-another-citizen-home",
    "tags": [],
    "highlight": true
   }
