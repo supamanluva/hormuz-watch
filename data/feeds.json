@@ -1,6 +1,83 @@
 {
- "asOf": "2026-09-01T14:22:47.880699+00:00",
+ "asOf": "2026-09-01T16:48:56.112071+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Six days of Russian strikes push Kyiv residents to consider leaving",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/six-days-of-russian-strikes-push-kyiv-residents-to-consider-leaving?traffic_source=rss",
+   "published": "2026-09-01T15:45:18+00:00",
+   "summary": "Russia has launched strikes almost continuously on Kyiv and surrounding areas for six straight days.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Bank of America vice president identified as victim in Times Square attack",
+   "url": "https://www.aljazeera.com/news/2026/9/1/bank-of-america-vice-president-identified-as-killed-in-times-square-attack?traffic_source=rss",
+   "published": "2026-09-01T15:41:17+00:00",
+   "summary": "Erin Piacenti identified as one of two victims in daytime stabbing on New York City thoroughfare.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Mansouri rocked by Israeli strikes as residents flee again",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/mansouri-rocked-by-israeli-strikes-as-residents-flee-again?traffic_source=rss",
+   "published": "2026-09-01T15:36:08+00:00",
+   "summary": "A large explosion shook Mansouri in southern Lebanon on Tuesday amid renewed Israeli airstrikes",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Qatar says efforts under way to end Iran-US war and reopen Strait of Hormuz",
+   "url": "https://www.aljazeera.com/news/2026/9/1/qatar-says-efforts-under-way-to-end-iran-us-war-and-reopen-strait-of-hormuz?traffic_source=rss",
+   "published": "2026-09-01T15:29:48+00:00",
+   "summary": "Qatar accuses Israel of exploiting regional conflicts to impose new realities in Palestine, Lebanon, and Syria.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Jerusalem schools strike after Israel enforces curriculum and bans teachers",
+   "url": "https://www.aljazeera.com/news/2026/9/1/jerusalem-schools-strike-after-israel-enforces-curriculum-and-bans-teachers?traffic_source=rss",
+   "published": "2026-09-01T15:19:46+00:00",
+   "summary": "East Jerusalem schools strike as Israeli permit bans and forced curricula plunge the academic year into chaos.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Sanctions on any SCO member, threaten entire bloc: Iran",
+   "url": "https://en.irna.ir/news/86252404/Sanctions-on-any-SCO-member-threaten-entire-bloc-Iran",
+   "published": "2026-09-01T14:51:36+00:00",
+   "summary": "Tehran, IRNA – Iran foreign ministry spokesperson Esmaeil Baqaei reiterated that sanctions imposed on any member of the Shanghai Cooperation Organization (SCO) constitute pressure on all other members.",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Who is Alejandro Betancourt, ex-Chavez ally now Trump’s Venezuela oil man?",
+   "url": "https://www.aljazeera.com/news/2026/9/1/who-is-alejandro-betancourt-ex-chavez-ally-now-trumps-venezuela-oil-man?traffic_source=rss",
+   "published": "2026-09-01T14:17:47+00:00",
+   "summary": "The controversial tycoon will lead the joint oil venture as the Trump administration seeks to reshape energy markets.",
+   "tags": [
+    "oil"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "SCO slams attacks, sanctions on Iran: Key takeaways from Bishkek summit",
@@ -35,6 +112,15 @@
     "shipping"
    ],
    "highlight": false
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "Great bipartisan response and support in Congress for the Motion Picture, Television, and Entertainment Revitalization Act. We will bring this once great industry BACK TO AMERICA. Thank you for your attention to this matter! President DONALD J. TRUMP",
+   "url": "https://trumpstruth.org/statuses/41443",
+   "published": "2026-09-01T13:01:18+00:00",
+   "summary": "Great bipartisan response and support in Congress for the Motion Picture, Television, and Entertainment Revitalization Act. We will bring this once great industry BACK TO AMERICA. Thank you for your attention to this matter! President DONALD J. TRUMP",
+   "tags": [],
+   "highlight": true
   },
   {
    "source": "Al Jazeera",
@@ -435,17 +521,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "How will the Mecca agreement become an operational framework?",
-   "url": "https://www.aljazeera.com/video/inside-story/2026/8/31/how-will-the-mecca-agreement-become-an-operational-framework?traffic_source=rss",
-   "published": "2026-08-31T20:13:18+00:00",
-   "summary": "Officials from Turkiye, Saudi Arabia and Pakistan meet to discuss implementing the pact.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
    "source": "IRNA (Iran state wire)",
    "title": "IRGC shoots down hostile US MQ-9 drone over Hormuz",
    "url": "https://en.irna.ir/news/86251453/IRGC-shoots-down-hostile-US-MQ-9-drone-over-Hormuz",
@@ -458,17 +533,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "Ukrainians mourn community leader killed in Russian strike on Myla",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/ukrainians-mourn-community-leader-killed-in-russian-strike-on-myla?traffic_source=rss",
-   "published": "2026-08-31T19:51:46+00:00",
-   "summary": "Ukrainians gathered to mourn Taras Didych, who was killed while rushing to help after a Russian strike.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
    "source": "White House",
    "title": "Fact Sheet: President Donald J. Trump Announces Deal with Nine Additional Pharmaceutical Manufacturers to Lower Drug Prices for Americans",
    "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-announces-deal-with-nine-additional-pharmaceutical-manufacturers-to-lower-drug-prices-for-americans/",
@@ -476,28 +540,6 @@
    "summary": "ADVANCING MOST-FAVORED-NATION (MFN) PRICING:&#160;Today, President Donald J. Trump announced nine new agreements with pharmaceutical manufacturers to lower prescription drug prices for Americans in line with the lowest prices paid by other developed nations (known as the most-favored-nation, or MFN, price). The agreements bring the total number of pharmaceutical manufacturers with MFN deals to 26,",
    "tags": [
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "India’s PM Modi urges end to Ukraine war in talks with Russia’s Putin",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/indias-pm-modi-urges-end-to-ukraine-war-in-talks-with-russias-putin?traffic_source=rss",
-   "published": "2026-08-31T17:42:55+00:00",
-   "summary": "India’s PM Narendra Modi told Russian President Putin that India supports every effort to end the war in Ukraine.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Vance says Trump ‘sending a message’ to Iran with AI-generated video",
-   "url": "https://www.aljazeera.com/economy/2026/8/31/vance-says-trump-sending-a-message-to-iran-with-ai-generated-video?traffic_source=rss",
-   "published": "2026-08-31T17:11:54+00:00",
-   "summary": "Video depicting Kharg Island being attacked is later followed by more warnings from President Trump.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   },
@@ -518,18 +560,6 @@
    "summary": "Tehran, IRNA – Commander of the Iranian Army’s Air Defense Force Brigadier General Alireza Elhami warns that the Armed Forces will deliver a decisive response to any new aggression by the enemy.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Israeli air strikes on Gaza kill at least five people: Report",
-   "url": "https://www.aljazeera.com/news/2026/8/31/israeli-air-strikes-on-gaza-kill-at-least-five-people?traffic_source=rss",
-   "published": "2026-08-31T15:56:28+00:00",
-   "summary": "Israel escalates its attacks across the Gaza Strip in recent days despite a US-brokered &#039;ceasefire&#039;.",
-   "tags": [
-    "strikes",
-    "diplomacy"
    ],
    "highlight": false
   },
@@ -593,33 +623,6 @@
    "url": "https://trumpstruth.org/statuses/41433",
    "published": "2026-08-31T15:35:15+00:00",
    "summary": "The Supreme Court will not survive another Democratic trifecta: https://www. washingtonexaminer.com/opinion /editorials/4687679/the-supreme-court-will-not-survive-another-democratic-trifecta-independent-body/",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "The Supreme Court will not survive another Democratic trifecta:",
-   "url": "https://www.trumpstruth.org/statuses/41433",
-   "published": "2026-08-31T15:35:15+00:00",
-   "summary": "The Supreme Court will not survive another Democratic trifecta: https://www. washingtonexaminer.com/opinion /editorials/4687679/the-supreme-court-will-not-survive-another-democratic-trifecta-independent-body/",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Exclusive: First Lady Melania Trump Facilitates 34th Family Reunification of Children Displaced in Russia-Ukraine War:",
-   "url": "https://trumpstruth.org/statuses/41434",
-   "published": "2026-08-31T15:34:52+00:00",
-   "summary": "Exclusive: First Lady Melania Trump Facilitates 34th Family Reunification of Children Displaced in Russia-Ukraine War: https://www. breitbart.com/politics/2026/08 /17/exclusive-first-lady-melania-trump-facilitates-34th-family-reunification/",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Exclusive: First Lady Melania Trump Facilitates 34th Family Reunification of Children Displaced in Russia-Ukraine War:",
-   "url": "https://www.trumpstruth.org/statuses/41434",
-   "published": "2026-08-31T15:34:52+00:00",
-   "summary": "Exclusive: First Lady Melania Trump Facilitates 34th Family Reunification of Children Displaced in Russia-Ukraine War: https://www. breitbart.com/politics/2026/08 /17/exclusive-first-lady-melania-trump-facilitates-34th-family-reunification/",
    "tags": [],
    "highlight": true
   }
