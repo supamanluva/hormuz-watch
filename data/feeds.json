@@ -1,6 +1,29 @@
 {
- "asOf": "2026-09-01T21:18:49.703300+00:00",
+ "asOf": "2026-09-01T22:29:48.587997+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "US energy secretary will travel to Venezuela to unveil oil arrangement",
+   "url": "https://www.aljazeera.com/news/2026/9/1/us-energy-secretary-will-travel-to-venezuela-to-unveil-oil-arrangement?traffic_source=rss",
+   "published": "2026-09-01T21:54:14+00:00",
+   "summary": "Venezuela&#039;s National Assembly voted to back the 65-billion-barrel oil deal, despite no details being publicly released.",
+   "tags": [
+    "diplomacy",
+    "oil"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Urgent need for access to Iranian sites, cautions UN nuclear watchdog",
+   "url": "https://www.aljazeera.com/news/2026/9/1/urgent-need-for-access-to-iranian-sites-cautions-un-nuclear-watchdog?traffic_source=rss",
+   "published": "2026-09-01T21:28:00+00:00",
+   "summary": "The IAEA said lack of information and access to facilities to verify Iran&#039;s nuclear material is a proliferation concern.",
+   "tags": [
+    "nuclear"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Zelenskyy warns airlines as Ukrainian drones target Russian airspace",
@@ -594,28 +617,6 @@
    "url": "https://en.irna.ir/news/86251730/Araghchi-holds-talks-with-his-counterparts-on-SCO-Summit-sidelines",
    "published": "2026-09-01T09:31:28+00:00",
    "summary": "Tehran, IRNA – Foreign Minister Abbas Araghchi has met with his Russian, Pakistani, Tajik, Uzbek, and Kazakh counterparts on the sidelines of the Shanghai Cooperation Organization (SCO) summit in Bishkek.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Russian drone and missile barrage kills at least 12 in Ukraine’s Kyiv",
-   "url": "https://www.aljazeera.com/news/2026/9/1/russian-drone-and-missile-barrage-kills-at-least-12-in-ukraines-kyiv?traffic_source=rss",
-   "published": "2026-09-01T08:57:48+00:00",
-   "summary": "Russian attacks escalate as EU defence ministers meet in Ireland to discuss Ukraine air defence shortages.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Could 4+4 make 1 in Libya? UN-backed agreement looks to unite rival camps",
-   "url": "https://www.aljazeera.com/news/2026/9/1/could-44-make-1-in-libya-un-backed-agreement-looks-to-unite-rival-camps?traffic_source=rss",
-   "published": "2026-09-01T08:16:10+00:00",
-   "summary": "After 15 years of civil war, a new UN-backed &#039;4+4&#039; agreement looks to unite Libya&#039;s rival factions.",
    "tags": [
     "diplomacy"
    ],
