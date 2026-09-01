@@ -1,6 +1,29 @@
 {
- "asOf": "2026-08-31T23:49:12.649927+00:00",
+ "asOf": "2026-09-01T01:06:27.864064+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Iran war live: Trump vows to strike Iran ‘hard’ after first clash in month",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/9/1/iran-war-live-trump-vows-to-hit-iran-following-first-clash-in-a-month?traffic_source=rss",
+   "published": "2026-09-01T00:00:00+00:00",
+   "summary": "President Donald Trump says the US will respond to Iranian strikes on its personnel in Jordan.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "White House",
+   "title": "Fact Sheet: President Donald J. Trump Announces Historic Oil Agreement to Secure American Energy Dominance and Drive Venezuela’s Economic Recovery",
+   "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-announces-historic-oil-agreement-to-secure-american-energy-dominance-and-drive-venezuelas-economic-recovery/",
+   "published": "2026-08-31T23:55:33+00:00",
+   "summary": "SECURING STABLE &#38; LOW-COST OIL SUPPLY IN OUR HEMISPHERE: In the biggest oil deal in world history, President Donald J. Trump has secured U.S. majority control of more than 65 billion barrels of proven oil reserves in Venezuela – vastly expanding our current U.S. territorial proven reserves of roughly 46 billion barrels. This deal secures [&#8230;] The post Fact Sheet: President Donald J. Trump",
+   "tags": [
+    "diplomacy",
+    "oil"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "JERUSALEM DAILY: JOURNALISTS ATTACKED",
@@ -586,28 +609,6 @@
    "url": "https://www.aljazeera.com/features/2026/8/31/syria-is-choosing-diplomacy-with-israel-but-can-its-approach-last?traffic_source=rss",
    "published": "2026-08-31T08:05:52+00:00",
    "summary": "Israel has attacked Syria, occupied its south since the al-Assad regime&#039;s ouster, testing Syria&#039;s diplomatic outreach.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Nord Stream bombings put Ukraine’s ties with Germany under pressure",
-   "url": "https://www.aljazeera.com/news/2026/8/31/why-the-2022-nord-stream-bombings-muddle-berlin-kyiv-ties?traffic_source=rss",
-   "published": "2026-08-31T08:03:48+00:00",
-   "summary": "The blasts strain ties with Ukraine and have exposed the risks of relying on Russian gas, analysts say.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran Army pounds US air base in UAE with retaliatory drone strikes",
-   "url": "https://en.irna.ir/news/86250662/Iran-Army-pounds-US-air-base-in-UAE-with-retaliatory-drone-strikes",
-   "published": "2026-08-31T07:07:09+00:00",
-   "summary": "Tehran, IRNA – The Islamic Republic of Iran Army says it has carried out retaliatory drone strikes against US troops and helicopters at Al Minhad Air Base in the United Arab Emirates.",
    "tags": [
     "strikes"
    ],
