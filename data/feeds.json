@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-01T18:27:29.595510+00:00",
+ "asOf": "2026-09-01T18:50:08.675389+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Deep-sea search begins for 20 people missing in Cyprus ferry disaster",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/deep-sea-search-begins-for-20-people-missing-in-cyprus-ferry-disaster?traffic_source=rss",
+   "published": "2026-09-01T18:15:56+00:00",
+   "summary": "A deep-sea vessel from Turkiye joined the search on Tuesday for 20 people missing for two days.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Pezeshkian urges stronger UN role in addressing international crises",
@@ -121,6 +132,15 @@
    "highlight": false
   },
   {
+   "source": "UN Press",
+   "title": "Global Institutions Must Reflect Today’s Realities, Secretary-General Tells Shanghai Cooperation Organisation, Urging Stronger Multilateralism",
+   "url": "https://press.un.org/en/2026/sgsm23256.doc.htm",
+   "published": "2026-09-01T14:51:18+00:00",
+   "summary": "Following are UN Secretary-General António Guterres’ remarks to the Shanghai Cooperation Organisation, in Bishkek today:",
+   "tags": [],
+   "highlight": false
+  },
+  {
    "source": "Al Jazeera",
    "title": "Who is Alejandro Betancourt, ex-Chavez ally now Trump’s Venezuela oil man?",
    "url": "https://www.aljazeera.com/news/2026/9/1/who-is-alejandro-betancourt-ex-chavez-ally-now-trumps-venezuela-oil-man?traffic_source=rss",
@@ -205,6 +225,15 @@
     "sanctions",
     "diplomacy"
    ],
+   "highlight": false
+  },
+  {
+   "source": "UN Press",
+   "title": "General Assembly, 110th Meeting (AM) 1 September 2026",
+   "url": "https://press.un.org/en/blog/ga12776",
+   "published": "2026-09-01T10:55:07+00:00",
+   "summary": "At 10 a.m., the General Assembly will hold a debate on the situation in the temporarily occupied territories of Ukraine, in which over 30 representatives are expected to take the floor, including those from Ukraine and the Russian Federation.",
+   "tags": [],
    "highlight": false
   },
   {
@@ -429,17 +458,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "Iran war live: Tehran to ‘reciprocate’ if US abides by June peace deal",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/9/1/iran-war-live-trump-vows-to-hit-iran-following-first-clash-in-a-month?traffic_source=rss",
-   "published": "2026-09-01T00:00:00+00:00",
-   "summary": "President Pezeshkian says Tehran ready to act if Washington follows agreement it signed in June.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
    "source": "White House",
    "title": "Fact Sheet: President Donald J. Trump Announces Historic Oil Agreement to Secure American Energy Dominance and Drive Venezuela’s Economic Recovery",
    "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-announces-historic-oil-agreement-to-secure-american-energy-dominance-and-drive-venezuelas-economic-recovery/",
@@ -607,24 +625,6 @@
    "url": "https://trumpstruth.org/statuses/41431",
    "published": "2026-08-31T15:36:09+00:00",
    "summary": "RT @ realDonaldTrump Iran is officially a Failed Nation. IT IS DEAD! They have no Navy, they have no Air Force, they have no currency, they are not paying their soldiers or police, Inflation is at 300%, and their leadership is in total disarray and incapable of properly representing the country. The only thing they have is FAKE NEWS from the USA, a willingness to kill their protesters (now over 10",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "RT @realDonaldTrumpIran is officially a Failed Nation. IT IS DEAD! They have no Navy, they have no Air Force, they have no currency, they are not paying their soldiers or police, Inflation is at 300%, and their leadership is in total disarray and incapable of properly representing the country. The only thing they have is FAKE NEWS from the USA, a willingness to kill their protesters (now over 100,000 people dead. They must be tried for war crimes against humanity!), and a good line of “BULLSHIT.” Thank you for your attention to this matter! President DONALD J.TRUMP",
-   "url": "https://www.trumpstruth.org/statuses/41431",
-   "published": "2026-08-31T15:36:09+00:00",
-   "summary": "RT @ realDonaldTrump Iran is officially a Failed Nation. IT IS DEAD! They have no Navy, they have no Air Force, they have no currency, they are not paying their soldiers or police, Inflation is at 300%, and their leadership is in total disarray and incapable of properly representing the country. The only thing they have is FAKE NEWS from the USA, a willingness to kill their protesters (now over 10",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from August 31, 2026",
-   "url": "https://trumpstruth.org/statuses/41432",
-   "published": "2026-08-31T15:35:39+00:00",
-   "summary": "",
    "tags": [],
    "highlight": true
   }
