@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-01T07:25:01.081271+00:00",
+ "asOf": "2026-09-01T07:49:45.629927+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Duolingo D-Day: Iranians question latest US sanctions targeting education",
+   "url": "https://www.aljazeera.com/news/2026/9/1/duolingo-d-day-iranians-question-latest-us-sanctions-targeting-education?traffic_source=rss",
+   "published": "2026-09-01T07:25:54+00:00",
+   "summary": "Many Iranians inside the country feel they are being unjustly erased from the international community.",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Palestine weekly: Israel’s rightwing campaigns on anti-Palestinian abuses",
@@ -599,17 +610,6 @@
    "summary": "The United Nations General Assembly will meet at 10 a.m. today to commemorate and promote the International Day against Nuclear Tests. Speakers from regional groups, international organizations and national delegations will address the harmful effects of nuclear testing and reaffirm the importance of ending such tests as a step towards a nuclear-weapon-free world.",
    "tags": [
     "nuclear"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "India says PM Modi, Iran’s president held ‘fruitful’ talks on sidelines of SCO summit",
-   "url": "https://en.irna.ir/news/86251043/India-says-PM-Modi-Iran-s-president-held-fruitful-talks-on",
-   "published": "2026-08-31T10:54:18+00:00",
-   "summary": "Tehran, IRNA – The Indian Foreign Ministry has described as “fruitful” the latest meeting between the country’s Prime Minister Narendra Modi and Iranian President Masoud Pezeshkian, saying they discussed various aspects of bilateral relations.",
-   "tags": [
-    "diplomacy"
    ],
    "highlight": false
   }
