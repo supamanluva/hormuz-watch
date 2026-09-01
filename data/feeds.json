@@ -1,6 +1,40 @@
 {
- "asOf": "2026-09-01T05:49:52.021135+00:00",
+ "asOf": "2026-09-01T06:37:06.797602+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "EU support for US anti-Iran sanctions violates international law: Foreign Ministry spokesperson",
+   "url": "https://en.irna.ir/news/86251600/EU-support-for-US-anti-Iran-sanctions-violates-international",
+   "published": "2026-09-01T06:21:54+00:00",
+   "summary": "Tehran, IRNA – Iranian Foreign Ministry spokesperson Esmaeil Baqaei has criticized the European Union’s position on new US sanctions against Iran, saying the bloc’s support for Washington’s economic pressure violates international law, contradicts EU regulations and runs counter to Europe’s professed values.",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Oil prices climb as US, Iranian attacks stoke fears of escalation",
+   "url": "https://www.aljazeera.com/economy/2026/9/1/oil-prices-climb-as-us-iranian-attacks-stoke-fears-of-escalation?traffic_source=rss",
+   "published": "2026-09-01T06:07:39+00:00",
+   "summary": "After peaking at $94.40 a barrel on August 21, Brent has been trading in the range of $86-$91 since the MoU lapsed.",
+   "tags": [
+    "strikes",
+    "oil"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Israeli forces raze West Bank homes as EU weighs ban on settlement goods",
+   "url": "https://www.aljazeera.com/news/2026/9/1/israeli-forces-raze-west-bank-homes-as-eu-weighs-ban-on-settlement-goods?traffic_source=rss",
+   "published": "2026-09-01T05:27:17+00:00",
+   "summary": "Pogroms in the occupied West Bank continue, with Israeli forces demolishing homes and settlers attacking residents.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "A great Senator and a great golfer!!! President DJT",
@@ -128,6 +162,17 @@
    "url": "https://en.irna.ir/news/86251480/Minister-Iran-is-ready-to-Share-cybersecurity-expertise-with",
    "published": "2026-08-31T21:14:58+00:00",
    "summary": "Tehran, IRNA – Noting Iran's readiness to share its cybersecurity expertise with Iraq, the Minister of Information and Communications Technology said that Iran had been subjected to massive cyberattacks—particularly during the recent imposed war—and has gained valuable experience in this field.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Minister: Iran is ready to share cybersecurity expertise with Iraq",
+   "url": "https://en.irna.ir/news/86251480/Minister-Iran-is-ready-to-share-cybersecurity-expertise-with",
+   "published": "2026-08-31T21:14:58+00:00",
+   "summary": "Tehran, IRNA — Iran’s Minister of Information and Communications Technology says Iran has been subjected to massive cyberattacks — particularly during the recently imposed war — and has gained valuable experience in this field, noting Iran’s readiness to share its cybersecurity expertise with Iraq.",
    "tags": [
     "strikes"
    ],
@@ -566,51 +611,6 @@
    "tags": [
     "strikes",
     "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Pezeshkian, Modi discuss expanding Iran–India ties",
-   "url": "https://en.irna.ir/news/86250914/Pezeshkian-Modi-discuss-expanding-Iran-India-ties",
-   "published": "2026-08-31T09:51:50+00:00",
-   "summary": "Tehran, IRNA — President Masoud Pezeshkian and Indian Prime Minister Narendra Modi have held talks on the sidelines of the Shanghai Cooperation Organization (SCO) summit in Bishkek, Kyrgyzstan.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Pezeshkian: Iran, India can expand economic ties by countering sanctions",
-   "url": "https://en.irna.ir/news/86250914/Pezeshkian-Iran-India-can-expand-economic-ties-by-countering",
-   "published": "2026-08-31T09:51:50+00:00",
-   "summary": "Tehran, IRNA – President Masoud Pezeshkian says Iran and India have extensive potential to expand cooperation in political, economic, scientific, and cultural fields, stressing that stronger bilateral cooperation and efforts to neutralize the effects of sanctions can help further advance economic relations between the two countries.",
-   "tags": [
-    "sanctions"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iran attacks Jordan, UAE after US bombs Larak Island: What’s the latest?",
-   "url": "https://www.aljazeera.com/news/2026/8/31/iran-attacks-jordan-uae-after-us-bombs-larak-island-whats-the-latest?traffic_source=rss",
-   "published": "2026-08-31T09:19:40+00:00",
-   "summary": "The retaliatory attacks came after the US targeted two Iranian launchers on Larak Island in the Strait of Hormuz.",
-   "tags": [
-    "strikes",
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Political career of PM Bahonar: A visual history",
-   "url": "https://en.irna.ir/photo/86250874/Political-career-of-PM-Bahonar-A-visual-history",
-   "published": "2026-08-31T09:10:42+00:00",
-   "summary": "A cleric, educator, and political activist, Mohammad-Javad Bahonar held key positions including education minister and prime minister following the victory of the Islamic Revolution. He was martyred alongside then-President Mohammad-Ali Rajai in the August 30, 1981, bombing of the Prime Minister’s Office in Tehran, just weeks after his administration took office.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   }
