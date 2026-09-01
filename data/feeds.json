@@ -1,6 +1,50 @@
 {
- "asOf": "2026-09-01T09:37:27.038646+00:00",
+ "asOf": "2026-09-01T10:36:15.705157+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Pezeshkian, Xi hold brief talks on sidelines of SCO summit",
+   "url": "https://en.irna.ir/news/86252077/Pezeshkian-Xi-hold-brief-talks-on-sidelines-of-SCO-summit",
+   "published": "2026-09-01T10:11:19+00:00",
+   "summary": "Tehran, IRNA – President Masoud Pezeshkian and his Chinese counterpart Xi Jinping have held a brief meeting on the sidelines of the Shanghai Cooperation Organization (SCO) summit in Bishkek, Kyrgyzstan.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran condemns US attack on Larak Island in letter to UN",
+   "url": "https://en.irna.ir/news/86251637/Iran-condemns-US-attack-on-Larak-Island-in-letter-to-UN",
+   "published": "2026-09-01T10:08:11+00:00",
+   "summary": "New York, IRNA – Iran’s ambassador and deputy permanent representative to the United Nations, Gholamhossein Darzi, has strongly condemned the latest US aggression against Larak Island in a letter to the UN secretary-general and Security Council president.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Transfer deadline day live: Premier League, La Liga news and done deals",
+   "url": "https://www.aljazeera.com/sports/liveblog/2026/9/1/transfer-deadline-day-2026-live-updates-barcola-alvarez-gakpo?traffic_source=rss",
+   "published": "2026-09-01T09:59:55+00:00",
+   "summary": "Live updates and news on all signings for Man United, Arsenal, Man City, Liverpool, Barcelona, Real Madrid and others.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Israeli attacks on Gaza kill at least four, including children",
+   "url": "https://www.aljazeera.com/news/2026/9/1/israeli-attacks-on-gaza-kill-at-least-four-including-children?traffic_source=rss",
+   "published": "2026-09-01T09:48:07+00:00",
+   "summary": "At least three killed and several wounded in an Israeli air attack in the al-Kateeba district west of Gaza City.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Araghchi holds talks with his counterparts on SCO Summit sidelines",
@@ -565,51 +609,6 @@
    "summary": "At least five Palestinians have been killed in two Israeli attacks in Gaza City.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Why has Greece signed a $3.5bn missile deal with Israel?",
-   "url": "https://www.aljazeera.com/news/2026/8/31/why-has-greece-signed-a-3-5bn-missile-deal-with-israel?traffic_source=rss",
-   "published": "2026-08-31T14:57:56+00:00",
-   "summary": "Analysts say Greece is concerned about threats posed by the US-Israel war on Iran and Turkiye&#039;s growing capabilities.",
-   "tags": [
-    "strikes",
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "War and heat: Why are wheat prices soaring?",
-   "url": "https://www.aljazeera.com/news/2026/8/31/war-and-heat-why-are-wheat-prices-soaring?traffic_source=rss",
-   "published": "2026-08-31T14:42:40+00:00",
-   "summary": "Russia and Ukraine have stepped up attacks on their respective grain terminals in the Black Sea.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Greece signs $3.5bn air defence deal with Israel",
-   "url": "https://www.aljazeera.com/news/2026/8/31/greece-signs-3-5bn-air-defence-deal-with-israel?traffic_source=rss",
-   "published": "2026-08-31T13:52:40+00:00",
-   "summary": "Greece signs $3.5bn deal with Israel to acquire its first multi-layered air defence network by 2029.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Can Iran use rockets to mine the Strait of Hormuz, as US claims?",
-   "url": "https://www.aljazeera.com/news/2026/8/31/can-iran-use-rockets-to-mine-the-strait-of-hormuz-as-us-claims?traffic_source=rss",
-   "published": "2026-08-31T13:00:10+00:00",
-   "summary": "Analysts say it&#039;s implausible but Iran is well-versed in adapting conventional weapons to suit its needs.",
-   "tags": [
-    "shipping"
    ],
    "highlight": false
   }
