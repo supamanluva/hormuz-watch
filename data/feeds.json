@@ -1,6 +1,18 @@
 {
- "asOf": "2026-09-01T12:53:50.307962+00:00",
+ "asOf": "2026-09-01T13:22:10.732476+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Iran urges US to honour commitments under MoU",
+   "url": "https://www.aljazeera.com/news/2026/9/1/iran-urges-us-to-honour-commitments-under-mou?traffic_source=rss",
+   "published": "2026-09-01T13:01:22+00:00",
+   "summary": "Tehran calls for Washington to respect terms of MoU after attacks send tensions soaring in the Strait of Hormuz.",
+   "tags": [
+    "strikes",
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Two killed in explosion of ammunition-laden vehicle in Syria’s Idlib",
@@ -603,15 +615,6 @@
    "url": "https://www.trumpstruth.org/statuses/41435",
    "published": "2026-08-31T15:34:16+00:00",
    "summary": "Democratic Committee Urges Congress to Defund ICE, Free Illegal Migrants: https://www. breitbart.com/immigration/2026 /08/17/democratic-committee-urges-congress-to-defund-ice-free-illegal-migrants/",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "‘Abolish ICE’ Is Now Official DNC Policy:",
-   "url": "https://trumpstruth.org/statuses/41436",
-   "published": "2026-08-31T15:33:57+00:00",
-   "summary": "‘Abolish ICE’ Is Now Official DNC Policy: https://www. dailywire.com/news/dnc-formall y-adopts-resolution-calling-for-abolishing-ice",
    "tags": [],
    "highlight": true
   }
