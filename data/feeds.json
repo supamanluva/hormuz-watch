@@ -1,6 +1,18 @@
 {
- "asOf": "2026-09-01T07:49:45.629927+00:00",
+ "asOf": "2026-09-01T08:30:31.997372+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "White House unveils more details of Trump’s Venezuela oil deal",
+   "url": "https://www.aljazeera.com/news/2026/9/1/white-house-unveils-more-details-of-trumps-venezuela-oil-deal?traffic_source=rss",
+   "published": "2026-09-01T07:39:52+00:00",
+   "summary": "Venezuela&#039;s interim president gives new US company 100-year rights to more than 17 oil fields.",
+   "tags": [
+    "diplomacy",
+    "oil"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Duolingo D-Day: Iranians question latest US sanctions targeting education",
@@ -99,12 +111,12 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "Iran war live: Trump vows to strike Iran ‘hard’ after first clash in month",
+   "title": "Iran war live: Tehran to ‘reciprocate’ if US abides by June peace deal",
    "url": "https://www.aljazeera.com/news/liveblog/2026/9/1/iran-war-live-trump-vows-to-hit-iran-following-first-clash-in-a-month?traffic_source=rss",
    "published": "2026-09-01T00:00:00+00:00",
-   "summary": "President Donald Trump says the US will respond to Iranian strikes on its personnel in Jordan.",
+   "summary": "President Pezeshkian says Tehran ready to act if Washington follows agreement it signed in June.",
    "tags": [
-    "strikes"
+    "diplomacy"
    ],
    "highlight": false
   },
@@ -599,17 +611,6 @@
    "summary": "The UAE says it intercepted a drone coming from Iran and rejected &#039;false&#039; reports of an attack on its Al Menhad airbase.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "General Assembly, 108th & 109th Meetings (AM & PM) 31 August 2026",
-   "url": "https://press.un.org/en/blog/ga12775",
-   "published": "2026-08-31T11:06:23+00:00",
-   "summary": "The United Nations General Assembly will meet at 10 a.m. today to commemorate and promote the International Day against Nuclear Tests. Speakers from regional groups, international organizations and national delegations will address the harmful effects of nuclear testing and reaffirm the importance of ending such tests as a step towards a nuclear-weapon-free world.",
-   "tags": [
-    "nuclear"
    ],
    "highlight": false
   }
