@@ -1,6 +1,18 @@
 {
- "asOf": "2026-09-01T19:50:08.324926+00:00",
+ "asOf": "2026-09-01T20:21:02.285455+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "IRGC: Attacks resulting from enemy desperation only tighten the lock on the Strait of Hormuz",
+   "url": "https://en.irna.ir/news/86252596/IRGC-Attacks-resulting-from-enemy-desperation-only-tighten-the",
+   "published": "2026-09-01T19:55:40+00:00",
+   "summary": "Tehran, IRNA – In a statement emphasizing that such attacks—born of the enemy's desperation—only serve to tighten the lock on the Strait of Hormuz, the Islamic Revolution Guard Corps (IRGC) declared that its forces have initiated a response that will make the aggressors regret their actions.",
+   "tags": [
+    "strikes",
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "UN Press",
    "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General",
@@ -614,18 +626,6 @@
    "summary": "In Ukraine, nearly 60 civilians were killed and 240 injured in attacks over the weekend, according to authorities. Kyiv and its surrounding region, were the hardest hit, with drone strike on an ammunition depot triggering an explosion that killed 38 people, including residents of an elder care facility.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "IRGC shoots down hostile US MQ-9 drone over Hormuz",
-   "url": "https://en.irna.ir/news/86251453/IRGC-shoots-down-hostile-US-MQ-9-drone-over-Hormuz",
-   "published": "2026-08-31T20:10:58+00:00",
-   "summary": "Tehran, IRNA – Iran has shot down yet another MQ-9 Reaper drone belonging to the US enemy over eastern Hormuz Strait on Monday afternoon.",
-   "tags": [
-    "strikes",
-    "shipping"
    ],
    "highlight": false
   }
