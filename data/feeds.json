@@ -1,6 +1,26 @@
 {
- "asOf": "2026-09-01T02:32:04.135612+00:00",
+ "asOf": "2026-09-01T04:25:09.818497+00:00",
  "items": [
+  {
+   "source": "Trump · Truth Social",
+   "title": "A great Senator and a great golfer!!! President DJT",
+   "url": "https://trumpstruth.org/statuses/41439",
+   "published": "2026-09-01T02:43:25+00:00",
+   "summary": "A great Senator and a great golfer!!! President DJT",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "US brings back Russia’s Siluanov to G20 finance talks, angering Europe",
+   "url": "https://www.aljazeera.com/news/2026/9/1/us-brings-back-russias-siluanov-to-g20-finance-talks-angering-europe?traffic_source=rss",
+   "published": "2026-09-01T02:23:03+00:00",
+   "summary": "Anton Siluanov holds talks with US counterpart as European officials object to Russia&#039;s return to G20 talks.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Iran war live: Trump vows to strike Iran ‘hard’ after first clash in month",
@@ -415,15 +435,6 @@
    "highlight": true
   },
   {
-   "source": "Trump · Truth Social",
-   "title": "Trump Asks Congress to Pass Crypto Bill Alongside Executives:",
-   "url": "https://trumpstruth.org/statuses/41416",
-   "published": "2026-08-31T15:32:45+00:00",
-   "summary": "Trump Asks Congress to Pass Crypto Bill Alongside Executives: https://www. bloomberg.com/news/articles/20 26-08-19/trump-asks-congress-to-pass-crypto-bill-alongside-executives",
-   "tags": [],
-   "highlight": true
-  },
-  {
    "source": "Al Jazeera",
    "title": "Israeli strikes kill at least five Palestinians in Gaza City",
    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/israeli-strikes-kill-at-least-five-palestinians-in-gaza-city?traffic_source=rss",
@@ -598,17 +609,6 @@
    "url": "https://en.irna.ir/photo/86250874/Political-career-of-PM-Bahonar-A-visual-history",
    "published": "2026-08-31T09:10:42+00:00",
    "summary": "A cleric, educator, and political activist, Mohammad-Javad Bahonar held key positions including education minister and prime minister following the victory of the Islamic Revolution. He was martyred alongside then-President Mohammad-Ali Rajai in the August 30, 1981, bombing of the Prime Minister’s Office in Tehran, just weeks after his administration took office.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Syria is choosing diplomacy with Israel, but can its approach last?",
-   "url": "https://www.aljazeera.com/features/2026/8/31/syria-is-choosing-diplomacy-with-israel-but-can-its-approach-last?traffic_source=rss",
-   "published": "2026-08-31T08:05:52+00:00",
-   "summary": "Israel has attacked Syria, occupied its south since the al-Assad regime&#039;s ouster, testing Syria&#039;s diplomatic outreach.",
    "tags": [
     "strikes"
    ],
