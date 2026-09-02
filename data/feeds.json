@@ -1,5 +1,5 @@
 {
- "asOf": "2026-09-02T16:50:05.313824+00:00",
+ "asOf": "2026-09-02T17:19:15.476770+00:00",
  "items": [
   {
    "source": "White House",
@@ -40,6 +40,17 @@
     "strikes"
    ],
    "highlight": false
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "Now that we have it under U.S.A. control, should we change the name Hormuz Strait to TRUMP STRAIT??? Like America itself, it would be “hotter” than ever before! Thank you for your attention to this matter. President DONALD J. TRUMP",
+   "url": "https://trumpstruth.org/statuses/41486",
+   "published": "2026-09-02T15:23:35+00:00",
+   "summary": "Now that we have it under U.S.A. control, should we change the name Hormuz Strait to TRUMP STRAIT??? Like America itself, it would be “hotter” than ever before! Thank you for your attention to this matter. President DONALD J. TRUMP",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": true
   },
   {
    "source": "Al Jazeera",
@@ -618,17 +629,6 @@
    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/us-launches-new-strikes-on-iran-denies-its-bases-hit-in-jordan?traffic_source=rss",
    "published": "2026-09-02T01:06:19+00:00",
    "summary": "The US launched new strikes on Iran&#039;s southern coast with explosions reported in several locations.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Moment US strikes on Iranian port city hit wedding party",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/moment-us-strikes-on-iranian-port-city-hit-wedding-party?traffic_source=rss",
-   "published": "2026-09-02T00:47:41+00:00",
-   "summary": "Iran says a series of US strikes near the southern Iranian port city of Sirik has killed at least four people.",
    "tags": [
     "strikes"
    ],
