@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-02T12:54:54.640042+00:00",
+ "asOf": "2026-09-02T13:22:17.890938+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Putin and Zelenskyy issue threats as strikes rock Ukraine, Russia",
+   "url": "https://www.aljazeera.com/news/2026/9/2/putin-and-zelenskyy-issue-threats-as-strikes-rock-ukraine-russia?traffic_source=rss",
+   "published": "2026-09-02T12:55:42+00:00",
+   "summary": "Putin accuses Zelenskyy of &#039;terrorism&#039;, while Ukraine warns foreign airlines against using Russian airspace.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Bombing Sirik wedding exposes true face of US war, FM spokesperson says",
@@ -31,6 +42,17 @@
    "summary": "Moscow, IRNA – The CEO of Russia’s state-owned nuclear corporation Rosatom says the recent meeting between President Vladimir Putin and his Iranian counterpart, Masoud Pezeshkian, on the sidelines of the Shanghai Cooperation Organization (SCO) summit in Bishkek included bilateral issues, including the two countries' cooperation in the nuclear field.",
    "tags": [
     "nuclear"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "What is Iran’s Castle Breaker missile, used against US bases?",
+   "url": "https://www.aljazeera.com/news/2026/9/2/what-is-irans-castle-breaker-missile-used-against-us-bases?traffic_source=rss",
+   "published": "2026-09-02T12:38:39+00:00",
+   "summary": "Kheibar Shekan, Iran&#039;s medium-range missile, is said to play a pivotal role in escalating US-Israel tensions.",
+   "tags": [
+    "strikes"
    ],
    "highlight": false
   },
@@ -600,28 +622,6 @@
    "tags": [
     "diplomacy",
     "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "IAEA calls for access to Iran nuclear sites over proliferation concerns",
-   "url": "https://www.aljazeera.com/news/2026/9/1/urgent-need-for-access-to-iranian-sites-cautions-un-nuclear-watchdog?traffic_source=rss",
-   "published": "2026-09-01T21:28:00+00:00",
-   "summary": "IAEA says lack of information and access to facilities to verify Iran&#039;s nuclear material is a proliferation concern.",
-   "tags": [
-    "nuclear"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Zelenskyy warns airlines as Ukrainian drones target Russian airspace",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/zelenskyy-warns-airlines-as-ukrainian-drones-target-russian-airspace?traffic_source=rss",
-   "published": "2026-09-01T21:03:45+00:00",
-   "summary": "President Volodymyr Zelenskyy warned that Ukrainian drones will continue operating over Russia.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   }
