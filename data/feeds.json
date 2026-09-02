@@ -1,6 +1,40 @@
 {
- "asOf": "2026-09-02T07:49:43.222483+00:00",
+ "asOf": "2026-09-02T08:29:30.825413+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "IRGC hits US commander’s position in Kuwait",
+   "url": "https://en.irna.ir/news/86252839/IRGC-hits-US-commander-s-position-in-Kuwait",
+   "published": "2026-09-02T08:22:20+00:00",
+   "summary": "Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) says it has launched a missile‑drone strike on the US Ali al‑Salem base in Kuwait in response to the recent US aggression against Iranian soil.",
+   "tags": [
+    "strikes",
+    "oil"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Israeli forces, settlers attack two West Bank mosques",
+   "url": "https://www.aljazeera.com/news/2026/9/2/israeli-forces-settlers-attack-two-west-bank-mosques?traffic_source=rss",
+   "published": "2026-09-02T07:40:20+00:00",
+   "summary": "Israeli forces fire tear gas into one mosque after settlers set fire to and vandalise another.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Why Greece is betting on Israel’s Achilles Shield",
+   "url": "https://www.aljazeera.com/opinions/2026/9/2/why-greece-is-betting-on-israels-achilles-shield?traffic_source=rss",
+   "published": "2026-09-02T07:35:08+00:00",
+   "summary": "The defence deal between the two countries fits into a larger shift in regional alliances amid the US-Israel war on Iran.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Army carries out drone attacks on US bases in UAE, Bahrain",
@@ -577,39 +611,6 @@
    "summary": "Chinese President Xi visits Egypt to deepen economic ties and align strategies amid Middle East crises.",
    "tags": [
     "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iran promises to respond to new wave of US strikes despite Trump’s threats",
-   "url": "https://www.aljazeera.com/news/2026/9/1/us-military-says-launching-new-attacks-on-iran?traffic_source=rss",
-   "published": "2026-09-01T16:45:56+00:00",
-   "summary": "Trump says the US attacks were &#039;large and powerful&#039; and warns that Iran would be hit &#039;much harder&#039; if it retaliates.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Germany accuses Russia of drone attack on Leipzig airport",
-   "url": "https://www.aljazeera.com/news/2026/9/1/germany-accuses-russia-of-drone-attack-on-leipzig-airport?traffic_source=rss",
-   "published": "2026-09-01T16:24:36+00:00",
-   "summary": "Findings announced as European countries report an increase in sabotage attacks and attempts that they blame on Russia.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Six days of Russian strikes push Kyiv residents to consider leaving",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/six-days-of-russian-strikes-push-kyiv-residents-to-consider-leaving?traffic_source=rss",
-   "published": "2026-09-01T15:45:18+00:00",
-   "summary": "Russia has launched strikes almost continuously on Kyiv and surrounding areas for six straight days.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   }
