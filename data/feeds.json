@@ -1,6 +1,29 @@
 {
- "asOf": "2026-09-02T11:50:30.463526+00:00",
+ "asOf": "2026-09-02T12:32:57.831618+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Killing at Sea",
+   "url": "https://www.aljazeera.com/video/fault-lines/2026/9/2/killing-at-sea?traffic_source=rss",
+   "published": "2026-09-02T12:00:00+00:00",
+   "summary": "Three families, two bombings and a hidden war: uncovering the lives behind Operation Southern Spear&#039;s dead.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "The US is gobbling up Venezuelan oil, but will it lower fuel prices?",
+   "url": "https://www.aljazeera.com/news/2026/9/2/the-us-is-gobbling-up-venezuelan-oil-but-will-it-lower-fuel-prices?traffic_source=rss",
+   "published": "2026-09-02T11:43:31+00:00",
+   "summary": "Analysts say Venezuelan crude is hard to extract and refine, and likely can&#039;t replace oil stuck in the Strait of Hormuz.",
+   "tags": [
+    "shipping",
+    "oil"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Iranian parliament deputy speaker condemns US attack on wedding ceremony in Sirik",
@@ -598,28 +621,6 @@
    "published": "2026-09-01T20:49:42+00:00",
    "summary": "The Security Council will aim to act on issues concerning Haiti, Iran and Sudan in September, the representative of France, its President for the month, told correspondents at a Headquarters press conference today, while noting that world leaders will soon gather in the same building to address the General Assembly.",
    "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iranian state media announces numerous US strikes on the country",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/iranian-state-media-announces-numerous-us-strikes-on-the-country?traffic_source=rss",
-   "published": "2026-09-01T20:38:43+00:00",
-   "summary": "Iranian state television has reported numerous strikes on Iranian territory on Tuesday.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "What’s driven the defence deal between Israel and Greece?",
-   "url": "https://www.aljazeera.com/video/inside-story/2026/9/1/whats-driven-the-defence-deal-between-israel-and-greece?traffic_source=rss",
-   "published": "2026-09-01T20:35:14+00:00",
-   "summary": "Two countries sign $3.5bn weapons agreement.",
-   "tags": [
-    "diplomacy"
-   ],
    "highlight": false
   }
  ]
