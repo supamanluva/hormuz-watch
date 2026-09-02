@@ -1,6 +1,39 @@
 {
- "asOf": "2026-09-02T13:49:44.245404+00:00",
+ "asOf": "2026-09-02T14:21:53.828948+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Palestinians in fear as Israeli forces mount pogroms on West Bank mosques",
+   "url": "https://www.aljazeera.com/features/2026/9/2/palestinians-in-fear-as-israeli-forces-mount-pogroms-on-west-bank-mosques?traffic_source=rss",
+   "published": "2026-09-02T14:14:34+00:00",
+   "summary": "Palestinian witnesses recount the coordinated Israeli army and settler attacks on mosques in the occupied West Bank.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran says international silence on US attacks is ‘not neutrality’",
+   "url": "https://en.irna.ir/photo/86253520/Iran-says-international-silence-on-US-attacks-is-not-neutrality",
+   "published": "2026-09-02T14:06:28+00:00",
+   "summary": "Foreign Ministry spokesman Esmail Baqaei says that governments and international organizations that remain silent over US attacks on civilians, or seek to justify them, should not regard their silence as neutrality.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Tiger Woods pleads guilty to reckless driving, forfeits driving licence",
+   "url": "https://www.aljazeera.com/sports/2026/9/2/tiger-woods-pleads-guilty-to-reckless-driving-in-florida-car-crash?traffic_source=rss",
+   "published": "2026-09-02T13:44:00+00:00",
+   "summary": "Golfer&#039;s driving licence will be suspended for five years under the terms of a plea agreement that dropped DUI charges.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Putin and Zelenskyy issue threats as strikes rock Ukraine, Russia",
@@ -594,36 +627,6 @@
    "summary": "I just informed Senator Roger Marshall, who has my Complete and Total Endorsement, that I am granting 13.2 Million Dollars and, separately, 7.3 Million Dollars, to help the wonderful people of Kansas recover from the TWO storms that hit their State this summer, causing severe winds, tornadoes, and flooding. Thank you for your attention to this matter! President DONALD J. TRUMP",
    "tags": [],
    "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "I just informed Governor Mike Kehoe that I am approving 19.9 Million Dollars for the Great State of Missouri, in order to assist recovery efforts after the severe storms, winds, and flooding they have recently experienced. The people of Missouri are tough, smart, and truly Great Patriots — I will never let you down! President DONALD J. TRUMP",
-   "url": "https://www.trumpstruth.org/statuses/41471",
-   "published": "2026-09-01T22:23:20+00:00",
-   "summary": "I just informed Governor Mike Kehoe that I am approving 19.9 Million Dollars for the Great State of Missouri, in order to assist recovery efforts after the severe storms, winds, and flooding they have recently experienced. The people of Missouri are tough, smart, and truly Great Patriots — I will never let you down! President DONALD J. TRUMP",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "I just informed Governor Mike Kehoe that I am approving 19.9 Million Dollars for the Great State of Missouri, in order to assist recovery efforts after the severe storms, winds, and flooding they have recently experienced. The people of Missouri are tough, smart, and truly Great Patriots — I will never let you down! President DONALD J. TRUMP",
-   "url": "https://trumpstruth.org/statuses/41471",
-   "published": "2026-09-01T22:23:20+00:00",
-   "summary": "I just informed Governor Mike Kehoe that I am approving 19.9 Million Dollars for the Great State of Missouri, in order to assist recovery efforts after the severe storms, winds, and flooding they have recently experienced. The people of Missouri are tough, smart, and truly Great Patriots — I will never let you down! President DONALD J. TRUMP",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "US energy secretary will travel to Venezuela to unveil oil arrangement",
-   "url": "https://www.aljazeera.com/news/2026/9/1/us-energy-secretary-will-travel-to-venezuela-to-unveil-oil-arrangement?traffic_source=rss",
-   "published": "2026-09-01T21:54:14+00:00",
-   "summary": "Venezuela&#039;s National Assembly voted to back the 65-billion-barrel oil deal, despite no details being publicly released.",
-   "tags": [
-    "diplomacy",
-    "oil"
-   ],
-   "highlight": false
   }
  ]
 }
