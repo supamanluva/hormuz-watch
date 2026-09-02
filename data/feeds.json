@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-02T06:40:13.680020+00:00",
+ "asOf": "2026-09-02T07:00:24.768302+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Mohajerani: US’s footprint in Minab and Sirik massacres is evident",
+   "url": "https://en.irna.ir/news/86252829/Mohajerani-US-s-footprint-in-Minab-and-Sirik-massacres-is-evident",
+   "published": "2026-09-02T06:53:08+00:00",
+   "summary": "Tehran, IRNA – Iranian Administration spokesperson Fatemeh Mohajerani referred to the attack on students in Minab and a wedding ceremony in Sirik, saying that US footprint in both incidents is evident.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "IRGC targets US Marines camp in Jordan",
@@ -599,17 +610,6 @@
    "summary": "Qatar accuses Israel of exploiting regional conflicts to impose new realities in Palestine, Lebanon, and Syria.",
    "tags": [
     "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Sanctions on any SCO member, threaten entire bloc: Iran",
-   "url": "https://en.irna.ir/news/86252404/Sanctions-on-any-SCO-member-threaten-entire-bloc-Iran",
-   "published": "2026-09-01T14:51:36+00:00",
-   "summary": "Tehran, IRNA – Iran foreign ministry spokesperson Esmaeil Baqaei reiterated that sanctions imposed on any member of the Shanghai Cooperation Organization (SCO) constitute pressure on all other members.",
-   "tags": [
-    "sanctions"
    ],
    "highlight": false
   }
