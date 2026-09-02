@@ -1,6 +1,28 @@
 {
- "asOf": "2026-09-02T00:55:58.071831+00:00",
+ "asOf": "2026-09-02T01:30:27.080062+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "US launches new strikes on Iran, denies its bases hit in Jordan",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/us-launches-new-strikes-on-iran-denies-its-bases-hit-in-jordan?traffic_source=rss",
+   "published": "2026-09-02T01:06:19+00:00",
+   "summary": "The US launched new strikes on Iran&#039;s southern coast with explosions reported in several locations.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Moment US strikes on Iranian port city hit wedding party",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/moment-us-strikes-on-iranian-port-city-hit-wedding-party?traffic_source=rss",
+   "published": "2026-09-02T00:47:41+00:00",
+   "summary": "Iran says a series of US strikes near the southern Iranian port city of Sirik has killed at least four people.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Iran war live: US bombs Iran, Tehran retaliates on Gulf neighbours, Jordan",
@@ -581,28 +603,6 @@
    "url": "https://en.irna.ir/news/86252077/Pezeshkian-Xi-hold-brief-talks-on-sidelines-of-SCO-summit",
    "published": "2026-09-01T10:11:19+00:00",
    "summary": "Tehran, IRNA – President Masoud Pezeshkian and his Chinese counterpart Xi Jinping have held a brief meeting on the sidelines of the Shanghai Cooperation Organization (SCO) summit in Bishkek, Kyrgyzstan.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran condemns US attack on Larak Island in letter to UN",
-   "url": "https://en.irna.ir/news/86251637/Iran-condemns-US-attack-on-Larak-Island-in-letter-to-UN",
-   "published": "2026-09-01T10:08:11+00:00",
-   "summary": "New York, IRNA – Iran’s ambassador and deputy permanent representative to the United Nations, Gholamhossein Darzi, has strongly condemned the latest US aggression against Larak Island in a letter to the UN secretary-general and Security Council president.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Transfer deadline day live: Premier League, La Liga news and done deals",
-   "url": "https://www.aljazeera.com/sports/liveblog/2026/9/1/transfer-deadline-day-2026-live-updates-barcola-alvarez-gakpo?traffic_source=rss",
-   "published": "2026-09-01T09:59:55+00:00",
-   "summary": "Live updates and news from all signings as Premier League targets Alvarez, Balogun and Gakpo are expected to move.",
    "tags": [
     "diplomacy"
    ],
