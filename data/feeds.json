@@ -1,5 +1,5 @@
 {
- "asOf": "2026-09-02T20:49:26.995894+00:00",
+ "asOf": "2026-09-02T21:18:11.878323+00:00",
  "items": [
   {
    "source": "Al Jazeera",
@@ -12,6 +12,15 @@
     "shipping"
    ],
    "highlight": false
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "Apple Maps has just announced that it has changed the name of Lake Ontario to Lake America, so now that very important change of names, between Google Maps and Apple Maps, is complete, ratified, and binding. Thank you for your attention to this matter! President DONALD J. TRUMP",
+   "url": "https://www.trumpstruth.org/statuses/41487",
+   "published": "2026-09-02T20:09:30+00:00",
+   "summary": "Apple Maps has just announced that it has changed the name of Lake Ontario to Lake America, so now that very important change of names, between Google Maps and Apple Maps, is complete, ratified, and binding. Thank you for your attention to this matter! President DONALD J. TRUMP",
+   "tags": [],
+   "highlight": true
   },
   {
    "source": "Al Jazeera",
@@ -630,17 +639,6 @@
    "url": "https://en.irna.ir/news/86252749/IRGC-destroys-US-surveillance-balloon-control-system-in-Erbil",
    "published": "2026-09-02T05:54:31+00:00",
    "summary": "Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) announces that it destroyed a US surveillance balloon control system at an American base in Erbil, northern Iraq, following a hybrid missile and drone attack.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "IRGC launches ballistic missiles at US airbase in Jordan",
-   "url": "https://en.irna.ir/news/86252768/IRGC-launches-ballistic-missiles-at-US-airbase-in-Jordan",
-   "published": "2026-09-02T05:40:38+00:00",
-   "summary": "Tehran, IRNA — The Islamic Revolution Guards Corps (IRGC) says it has launched ballistic missiles at a hangar housing American RQ-4 and MQ-9 drones at Prince Hassan Airbase in Jordan in response to the latest US aggression against Iran.",
    "tags": [
     "strikes"
    ],
