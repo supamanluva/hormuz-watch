@@ -1,6 +1,39 @@
 {
- "asOf": "2026-09-02T07:00:24.768302+00:00",
+ "asOf": "2026-09-02T07:25:33.642560+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Army carries out drone attacks on US bases in UAE, Bahrain",
+   "url": "https://en.irna.ir/news/86252926/Army-carries-out-drone-attacks-on-US-bases-in-UAE-Bahrain",
+   "published": "2026-09-02T07:18:14+00:00",
+   "summary": "Tehran, IRNA – The Iranian Army says it has launched drone attacks on US bases in Bahrain and the UAE in response to the latest US aggression including its attack on a wedding in southern Iran.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Sirik wedding attack has completed US’s ‘catalogue of atrocities’ against Iranians: Baqaei",
+   "url": "https://en.irna.ir/news/86252866/Sirik-wedding-attack-has-completed-US-s-catalogue-of-atrocities",
+   "published": "2026-09-02T07:02:32+00:00",
+   "summary": "Tehran, IRNA – Foreign Ministry spokesperson Esmaeil Baqaei says “the United States’ catalogue of atrocities” against the Iranian nation is now complete following the attack on a wedding in the Kuhestak Port of the city of Sirik in southern Iran.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Turkiye launches search for cargo ship after vessels collide off Istanbul",
+   "url": "https://www.aljazeera.com/news/2026/9/2/turkiye-launches-search-for-cargo-ship-after-vessels-collide-off-istanbul?traffic_source=rss",
+   "published": "2026-09-02T06:58:13+00:00",
+   "summary": "Search operations under way after authorities lose contact with 10 crew members after a collision in the Sea of Marmara.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Mohajerani: US’s footprint in Minab and Sirik massacres is evident",
@@ -577,39 +610,6 @@
    "summary": "Russia has launched strikes almost continuously on Kyiv and surrounding areas for six straight days.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Bank of America vice president identified as victim in Times Square attack",
-   "url": "https://www.aljazeera.com/news/2026/9/1/bank-of-america-vice-president-identified-as-killed-in-times-square-attack?traffic_source=rss",
-   "published": "2026-09-01T15:41:17+00:00",
-   "summary": "Erin Piacenti identified as one of two victims in daytime stabbing on New York City thoroughfare.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Mansouri rocked by Israeli strikes as residents flee again",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/mansouri-rocked-by-israeli-strikes-as-residents-flee-again?traffic_source=rss",
-   "published": "2026-09-01T15:36:08+00:00",
-   "summary": "A large explosion shook Mansouri in southern Lebanon on Tuesday amid renewed Israeli airstrikes",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Qatar says efforts under way to end Iran-US war and reopen Strait of Hormuz",
-   "url": "https://www.aljazeera.com/news/2026/9/1/qatar-says-efforts-under-way-to-end-iran-us-war-and-reopen-strait-of-hormuz?traffic_source=rss",
-   "published": "2026-09-01T15:29:48+00:00",
-   "summary": "Qatar accuses Israel of exploiting regional conflicts to impose new realities in Palestine, Lebanon, and Syria.",
-   "tags": [
-    "shipping"
    ],
    "highlight": false
   }
