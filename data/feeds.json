@@ -1,6 +1,62 @@
 {
- "asOf": "2026-09-02T05:36:36.803025+00:00",
+ "asOf": "2026-09-02T06:40:13.680020+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "IRGC targets US Marines camp in Jordan",
+   "url": "https://en.irna.ir/news/86252767/IRGC-targets-US-Marines-camp-in-Jordan",
+   "published": "2026-09-02T06:29:19+00:00",
+   "summary": "Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) says it has carried out a ballistic missile strike on a military camp housing US Marines in Jordan in response to the recent US aggression against Iranian soil.",
+   "tags": [
+    "strikes",
+    "oil"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "‘We had an ordinary life’: Iran fisherwoman navigates uncertainty of war",
+   "url": "https://www.aljazeera.com/economy/2026/9/2/we-had-an-ordinary-life-iran-fisherwoman-navigates-uncertainty-of-war?traffic_source=rss",
+   "published": "2026-09-02T06:26:18+00:00",
+   "summary": "An Iranian fisherwoman explains how her idyllic seaside life was shattered when the US and Israel began their bombing.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "US base in Bahrain comes under Iran’s Army drone fire",
+   "url": "https://en.irna.ir/news/86252772/US-base-in-Bahrain-comes-under-Iran-s-Army-drone-fire",
+   "published": "2026-09-02T06:15:34+00:00",
+   "summary": "Tehran, Iran – The Army of the Islamic Republic of Iran, in a retaliatory response, has targeted the bases of the terrorist US military in Bahrain with its destructive drones",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "IRGC destroys US surveillance balloon control system in Erbil",
+   "url": "https://en.irna.ir/news/86252749/IRGC-destroys-US-surveillance-balloon-control-system-in-Erbil",
+   "published": "2026-09-02T05:54:31+00:00",
+   "summary": "Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) announces that it destroyed a US surveillance balloon control system at an American base in Erbil, northern Iraq, following a hybrid missile and drone attack.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "IRGC launches ballistic missiles at US airbase in Jordan",
+   "url": "https://en.irna.ir/news/86252768/IRGC-launches-ballistic-missiles-at-US-airbase-in-Jordan",
+   "published": "2026-09-02T05:40:38+00:00",
+   "summary": "Tehran, IRNA — The Islamic Revolution Guards Corps (IRGC) says it has launched ballistic missiles at a hangar housing American RQ-4 and MQ-9 drones at Prince Hassan Airbase in Jordan in response to the latest US aggression against Iran.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Germany says Russia preparing ‘hybrid’ attacks over Ukraine support",
@@ -547,17 +603,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "Jerusalem schools strike after Israel enforces curriculum and bans teachers",
-   "url": "https://www.aljazeera.com/news/2026/9/1/jerusalem-schools-strike-after-israel-enforces-curriculum-and-bans-teachers?traffic_source=rss",
-   "published": "2026-09-01T15:19:46+00:00",
-   "summary": "East Jerusalem schools strike as Israeli permit bans and forced curricula plunge the academic year into chaos.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
    "source": "IRNA (Iran state wire)",
    "title": "Sanctions on any SCO member, threaten entire bloc: Iran",
    "url": "https://en.irna.ir/news/86252404/Sanctions-on-any-SCO-member-threaten-entire-bloc-Iran",
@@ -565,47 +610,6 @@
    "summary": "Tehran, IRNA – Iran foreign ministry spokesperson Esmaeil Baqaei reiterated that sanctions imposed on any member of the Shanghai Cooperation Organization (SCO) constitute pressure on all other members.",
    "tags": [
     "sanctions"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Global Institutions Must Reflect Today’s Realities, Secretary-General Tells Shanghai Cooperation Organisation, Urging Stronger Multilateralism",
-   "url": "https://press.un.org/en/2026/sgsm23256.doc.htm",
-   "published": "2026-09-01T14:51:18+00:00",
-   "summary": "Following are UN Secretary-General António Guterres’ remarks to the Shanghai Cooperation Organisation, in Bishkek today:",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Tajik envoy: Dushanbe does not support anti-Iran sanctions",
-   "url": "https://en.irna.ir/news/86251954/Tajik-envoy-Dushanbe-does-not-support-anti-Iran-sanctions",
-   "published": "2026-09-01T11:20:56+00:00",
-   "summary": "Tehran, IRNA – Ambassador of Tajikistan in Iran Zahidi Nizomiddin Shamsiddinzoda has stressed his country’s opposition to sanctions against Iran.",
-   "tags": [
-    "sanctions",
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "General Assembly, 110th Meeting (AM) 1 September 2026",
-   "url": "https://press.un.org/en/blog/ga12776",
-   "published": "2026-09-01T10:55:07+00:00",
-   "summary": "At 10 a.m., the General Assembly will hold a debate on the situation in the temporarily occupied territories of Ukraine, in which over 30 representatives are expected to take the floor, including those from Ukraine and the Russian Federation.",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Pezeshkian, Xi hold brief talks on sidelines of SCO summit",
-   "url": "https://en.irna.ir/news/86252077/Pezeshkian-Xi-hold-brief-talks-on-sidelines-of-SCO-summit",
-   "published": "2026-09-01T10:11:19+00:00",
-   "summary": "Tehran, IRNA – President Masoud Pezeshkian and his Chinese counterpart Xi Jinping have held a brief meeting on the sidelines of the Shanghai Cooperation Organization (SCO) summit in Bishkek, Kyrgyzstan.",
-   "tags": [
-    "diplomacy"
    ],
    "highlight": false
   }
