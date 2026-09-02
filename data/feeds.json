@@ -1,6 +1,28 @@
 {
- "asOf": "2026-09-02T19:49:27.358431+00:00",
+ "asOf": "2026-09-02T20:21:48.167838+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Trump says US sees ‘everything’ Iran does, threatens further attacks",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/09-02-trump-soundbite-iran-clip?traffic_source=rss",
+   "published": "2026-09-02T20:04:55+00:00",
+   "summary": "US President Donald Trump has threatened further attacks on Iran and says the military destroyed a mine-laying rocket.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Tiger Woods avoids jail time, takes plea deal over Florida crash",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/tiger-woods-avoids-jail-time-takes-plea-deal-over-florida-crash?traffic_source=rss",
+   "published": "2026-09-02T20:00:34+00:00",
+   "summary": "Golfing champion Tiger Woods has pleaded no contest at a Florida court for reckless driving after a rollover crash.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "White House",
    "title": "Presidential Message on National Preparedness Month",
@@ -591,17 +613,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "‘We had an ordinary life’: Iran fisherwoman navigates uncertainty of war",
-   "url": "https://www.aljazeera.com/economy/2026/9/2/we-had-an-ordinary-life-iran-fisherwoman-navigates-uncertainty-of-war?traffic_source=rss",
-   "published": "2026-09-02T06:26:18+00:00",
-   "summary": "An Iranian fisherwoman explains how her idyllic seaside life was shattered when the US and Israel began their bombing.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
    "source": "IRNA (Iran state wire)",
    "title": "US base in Bahrain comes under Iran’s Army drone fire",
    "url": "https://en.irna.ir/news/86252772/US-base-in-Bahrain-comes-under-Iran-s-Army-drone-fire",
@@ -629,17 +640,6 @@
    "url": "https://en.irna.ir/news/86252768/IRGC-launches-ballistic-missiles-at-US-airbase-in-Jordan",
    "published": "2026-09-02T05:40:38+00:00",
    "summary": "Tehran, IRNA — The Islamic Revolution Guards Corps (IRGC) says it has launched ballistic missiles at a hangar housing American RQ-4 and MQ-9 drones at Prince Hassan Airbase in Jordan in response to the latest US aggression against Iran.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Germany says Russia preparing ‘hybrid’ attacks over Ukraine support",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/germany-says-russia-preparing-hybrid-attacks-over-ukraine-support?traffic_source=rss",
-   "published": "2026-09-02T04:43:57+00:00",
-   "summary": "Germany says an attempted drone attack at Leipzig Airport showed hallmarks of Russian hybrid operations against Ukraine.",
    "tags": [
     "strikes"
    ],
