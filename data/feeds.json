@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-02T04:41:44.344799+00:00",
+ "asOf": "2026-09-02T05:24:50.443044+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Germany says Russia preparing ‘hybrid’ attacks over Ukraine support",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/germany-says-russia-preparing-hybrid-attacks-over-ukraine-support?traffic_source=rss",
+   "published": "2026-09-02T04:43:57+00:00",
+   "summary": "Germany says an attempted drone attack at Leipzig Airport showed hallmarks of Russian hybrid operations against Ukraine.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "US strikes on Iran kill child at wedding ceremony",
@@ -564,17 +575,6 @@
    "published": "2026-09-01T14:51:18+00:00",
    "summary": "Following are UN Secretary-General António Guterres’ remarks to the Shanghai Cooperation Organisation, in Bishkek today:",
    "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Who is Alejandro Betancourt, ex-Chavez ally now Trump’s Venezuela oil man?",
-   "url": "https://www.aljazeera.com/news/2026/9/1/who-is-alejandro-betancourt-ex-chavez-ally-now-trumps-venezuela-oil-man?traffic_source=rss",
-   "published": "2026-09-01T14:17:47+00:00",
-   "summary": "The controversial tycoon will lead the joint oil venture as the Trump administration seeks to reshape energy markets.",
-   "tags": [
-    "oil"
-   ],
    "highlight": false
   },
   {
