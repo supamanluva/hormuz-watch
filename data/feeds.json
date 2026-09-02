@@ -1,6 +1,53 @@
 {
- "asOf": "2026-09-02T08:29:30.825413+00:00",
+ "asOf": "2026-09-02T09:24:38.232522+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran’s MP questions US failure to distinguish military targets from civilian sites",
+   "url": "https://en.irna.ir/news/86253083/Iran-s-MP-questions-US-failure-to-distinguish-military-targets",
+   "published": "2026-09-02T09:10:26+00:00",
+   "summary": "Tehran, IRNA – Hasan Ghashghavi, spokesperson for the Iranian Parliament’s National Security and Foreign Policy Commission, has questioned how the United States can fail to distinguish between military targets and civilian sites, following a US attack on a wedding ceremony in Sirik, Hormuzgan Province.",
+   "tags": [
+    "strikes",
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Iran, US exchange new attacks: Who was hit in latest strikes?",
+   "url": "https://www.aljazeera.com/news/2026/9/2/iran-us-exchange-new-attacks-who-was-hit-in-latest-strikes?traffic_source=rss",
+   "published": "2026-09-02T08:55:20+00:00",
+   "summary": "Iran says the US bombed a wedding near the Strait of Hormuz; hits Kuwait, Bahrain, and Jordan in retaliation.",
+   "tags": [
+    "strikes",
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "US strike in Kermanshah claims lives of four IRGC Aerospace forces",
+   "url": "https://en.irna.ir/news/86253070/US-strike-in-Kermanshah-claims-lives-of-four-IRGC-Aerospace-forces",
+   "published": "2026-09-02T08:47:13+00:00",
+   "summary": "Kermanshah, IRNA — Four IRGC aerospace personnel have been killed in Kermanshah during a US attack, according to a statement from the provincial IRGC public relations office.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Video: US energy chief in Venezuela to sign controversial oil deal",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/video-us-energy-chief-in-venezuela-to-sign-controversial-oil-deal?traffic_source=rss",
+   "published": "2026-09-02T08:26:43+00:00",
+   "summary": "US Energy Secretary arrived in La Guaira for the signing of a deal that will control much of Venezuela&#039;s oil reserves.",
+   "tags": [
+    "diplomacy",
+    "oil"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "IRGC hits US commander’s position in Kuwait",
@@ -15,10 +62,10 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "Israeli forces, settlers attack two West Bank mosques",
+   "title": "Worshippers in West Bank tear-gassed as Israeli attacks on mosques surge",
    "url": "https://www.aljazeera.com/news/2026/9/2/israeli-forces-settlers-attack-two-west-bank-mosques?traffic_source=rss",
    "published": "2026-09-02T07:40:20+00:00",
-   "summary": "Israeli forces fire tear gas into one mosque after settlers set fire to and vandalise another.",
+   "summary": "Palestinian authorities say Israeli forces and settlers have &#039;violated&#039; 13 West Bank mosques this year.",
    "tags": [
     "strikes"
    ],
@@ -568,50 +615,6 @@
    "published": "2026-09-01T19:32:20+00:00",
    "summary": "A UN Assistance Mission in Afghanistan (UNAMA) report released today says victims of Afghanistan’s decades-long armed conflict continue to face severe physical, psychological, social and economic consequences, while lacking access to justice, adequate assistance or acknowledgement of their suffering.",
    "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran vows crushing retaliation after latest US attacks",
-   "url": "https://en.irna.ir/news/86252580/Iran-vows-crushing-retaliation-after-latest-US-attacks",
-   "published": "2026-09-01T19:06:46+00:00",
-   "summary": "Tehran, IRNA – Iran's top military command has vowed to deliver \"crushing and devastating\" blows to the United States following a new wave of American airstrikes targeting military positions in the southern provinces.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Deep-sea search begins for 20 people missing in Cyprus ferry disaster",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/deep-sea-search-begins-for-20-people-missing-in-cyprus-ferry-disaster?traffic_source=rss",
-   "published": "2026-09-01T18:15:56+00:00",
-   "summary": "A deep-sea vessel from Turkiye joined the search on Tuesday for 20 people missing for two days.",
-   "tags": [
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Pezeshkian urges stronger UN role in addressing international crises",
-   "url": "https://en.irna.ir/news/86252485/Pezeshkian-urges-stronger-UN-role-in-addressing-international",
-   "published": "2026-09-01T17:01:00+00:00",
-   "summary": "Tehran, IRNA – President Masoud Pezeshkian has called for a more effective and efficient role for the United Nations in dealing with international developments and crises, saying international institutions should not allow powerful states to act with impunity.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "China’s Xi makes first visit to Egypt in a decade, amid regional turmoil",
-   "url": "https://www.aljazeera.com/economy/2026/9/1/chinas-xi-makes-first-visit-to-egypt-in-a-decade-amid-regional-turmoil?traffic_source=rss",
-   "published": "2026-09-01T16:59:22+00:00",
-   "summary": "Chinese President Xi visits Egypt to deepen economic ties and align strategies amid Middle East crises.",
-   "tags": [
-    "oil"
-   ],
    "highlight": false
   }
  ]
