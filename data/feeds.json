@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-02T17:19:15.476770+00:00",
+ "asOf": "2026-09-02T17:49:44.554667+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "US oil giant Chevron to expand Venezuela operations",
+   "url": "https://www.aljazeera.com/economy/2026/9/2/us-oil-giant-chevron-to-expand-venezuela-operations?traffic_source=rss",
+   "published": "2026-09-02T16:57:22+00:00",
+   "summary": "Chevron, the only US oil firm with major presence in Venezuela, said it has got extra acreage and will double output.",
+   "tags": [
+    "oil"
+   ],
+   "highlight": false
+  },
   {
    "source": "White House",
    "title": "Presidential Message on National Childhood Cancer Awareness Month",
@@ -622,17 +633,6 @@
     "shipping"
    ],
    "highlight": true
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "US launches new strikes on Iran, denies its bases hit in Jordan",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/us-launches-new-strikes-on-iran-denies-its-bases-hit-in-jordan?traffic_source=rss",
-   "published": "2026-09-02T01:06:19+00:00",
-   "summary": "The US launched new strikes on Iran&#039;s southern coast with explosions reported in several locations.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
   }
  ]
 }
