@@ -1,6 +1,24 @@
 {
- "asOf": "2026-09-02T15:35:23.379293+00:00",
+ "asOf": "2026-09-02T16:50:05.313824+00:00",
  "items": [
+  {
+   "source": "White House",
+   "title": "Presidential Message on National Childhood Cancer Awareness Month",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/09/presidential-message-on-national-childhood-cancer-awareness-month/",
+   "published": "2026-09-02T15:59:31+00:00",
+   "summary": "This National Childhood Cancer Awareness Month, my Administration stands with the countless children facing the devastating effects of cancer.&#160; We recognize the love, strength, and care of the families who walk beside them through every step of their journeys. &#160;Above all, we commit to advancing lifesaving innovation and accelerating cures, giving every child the chance [&#8230;] The post",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "White House",
+   "title": "Presidential Message on National Recovery Month",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/09/presidential-message-on-national-recovery-month/",
+   "published": "2026-09-02T15:58:33+00:00",
+   "summary": "During National Recovery Month, we celebrate the more than 23 million Americans who have found a pathway from addiction to recovery, we recognize those who have helped them reclaim their lives, and we renew our commitment to supporting those still struggling to find hope and healing.&#160; Throughout every community in America, the effects of drug [&#8230;] The post Presidential Message on Nationa",
+   "tags": [],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "US war crimes in Sirik part of ongoing pattern of civilian bombings: Baqaei",
@@ -18,6 +36,17 @@
    "url": "https://en.irna.ir/news/86253517/Iranian-Embassy-slams-Western-silence-on-US-attacks",
    "published": "2026-09-02T15:29:51+00:00",
    "summary": "London, IRNA – The Iranian Embassy in Germany has warned that Western silence over US attacks amounts to abandoning the values of democracy and human rights that the West has long claimed to uphold.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Aubameyang ‘humiliated’ as ex-Arsenal striker quits Gabon national team",
+   "url": "https://www.aljazeera.com/sports/2026/9/2/aubameyang-humiliated-as-ex-arsenal-striker-quits-gabon-national-team?traffic_source=rss",
+   "published": "2026-09-02T15:21:43+00:00",
+   "summary": "Pierre-Emerick Aubameyang cites 2025 Africa Cup of Nations treatment as captain steps away from Gabon duty.",
    "tags": [
     "strikes"
    ],
@@ -604,37 +633,6 @@
     "strikes"
    ],
    "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iran war live: Tehran claims attacks on US bases in Bahrain, Jordan, Iraq",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/9/2/iran-war-live-us-bombs-iran-tehran-retaliates-on-gulf-neighbours-jordan?traffic_source=rss",
-   "published": "2026-09-02T00:00:00+00:00",
-   "summary": "Tehran pledges &#039;severe punishment&#039; and retaliation against Washington following a new wave of US attacks.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Fernandez transfers to Man City from Chelsea in joint British record fee",
-   "url": "https://www.aljazeera.com/sports/2026/9/1/fernandez-transfers-to-man-city-from-chelsea-in-joint-british-record-fee?traffic_source=rss",
-   "published": "2026-09-01T23:00:30+00:00",
-   "summary": "Argentina international Enzo Fernandez signs for Manchester City in a deal from Chelsea worth £125 million ($169m).",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Very productive and positive conversations were had today at the G20 Finance Ministers Meeting in Asheville. North Carolina is a GREAT State — Strong, resilient, and filled with incredible people. After Hurricane Helene, Sleepy Joe turned his back on this beautiful State, but as soon as I came into Office, I worked hard, and got everything done in record time. I NEVER forgot North Carolina, and never will. I WON BIG there three times, and North Carolinians know I will ALWAYS have their backs! Thank you to Secretary of the Treasury, Scott Bessent, who is working hard for us, and doing a fantastic job representing the U.S.A. WE ARE THE WORLD’S BIGGEST AND BEST ECONOMY, and we are keeping it that way. Other Countries should follow our lead, and cut Taxes, Regulations and, where possible, DRILL BABY DRILL. GROWTH, GROWTH, GROWTH. We are leading the way, and the World is watching! President DONALD J. TRUMP",
-   "url": "https://trumpstruth.org/statuses/41476",
-   "published": "2026-09-01T22:55:26+00:00",
-   "summary": "Very productive and positive conversations were had today at the G20 Finance Ministers Meeting in Asheville. North Carolina is a GREAT State — Strong, resilient, and filled with incredible people. After Hurricane Helene, Sleepy Joe turned his back on this beautiful State, but as soon as I came into Office, I worked hard, and got everything done in record time. I NEVER forgot North Carolina, and ne",
-   "tags": [],
-   "highlight": true
   }
  ]
 }
