@@ -1,5 +1,5 @@
 {
- "asOf": "2026-09-02T22:19:41.721082+00:00",
+ "asOf": "2026-09-02T23:18:07.719405+00:00",
  "items": [
   {
    "source": "White House",
@@ -37,6 +37,15 @@
    "source": "Trump · Truth Social",
    "title": "Apple Maps has just announced that it has changed the name of Lake Ontario to Lake America, so now that very important change of names, between Google Maps and Apple Maps, is complete, ratified, and binding. Thank you for your attention to this matter! President DONALD J. TRUMP",
    "url": "https://www.trumpstruth.org/statuses/41487",
+   "published": "2026-09-02T20:09:30+00:00",
+   "summary": "Apple Maps has just announced that it has changed the name of Lake Ontario to Lake America, so now that very important change of names, between Google Maps and Apple Maps, is complete, ratified, and binding. Thank you for your attention to this matter! President DONALD J. TRUMP",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "Apple Maps has just announced that it has changed the name of Lake Ontario to Lake America, so now that very important change of names, between Google Maps and Apple Maps, is complete, ratified, and binding. Thank you for your attention to this matter! President DONALD J. TRUMP",
+   "url": "https://trumpstruth.org/statuses/41487",
    "published": "2026-09-02T20:09:30+00:00",
    "summary": "Apple Maps has just announced that it has changed the name of Lake Ontario to Lake America, so now that very important change of names, between Google Maps and Apple Maps, is complete, ratified, and binding. Thank you for your attention to this matter! President DONALD J. TRUMP",
    "tags": [],
@@ -619,17 +628,6 @@
    "url": "https://www.aljazeera.com/news/2026/9/2/israeli-forces-settlers-attack-two-west-bank-mosques?traffic_source=rss",
    "published": "2026-09-02T07:40:20+00:00",
    "summary": "Palestinian authorities say Israeli forces and settlers have &#039;violated&#039; 13 West Bank mosques this year.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Army carries out drone attacks on US bases in UAE, Bahrain",
-   "url": "https://en.irna.ir/news/86252926/Army-carries-out-drone-attacks-on-US-bases-in-UAE-Bahrain",
-   "published": "2026-09-02T07:18:14+00:00",
-   "summary": "Tehran, IRNA – The Iranian Army says it has launched drone attacks on US bases in Bahrain and the UAE in response to the latest US aggression including its attack on a wedding in southern Iran.",
    "tags": [
     "strikes"
    ],
