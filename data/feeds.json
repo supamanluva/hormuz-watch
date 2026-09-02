@@ -1,6 +1,26 @@
 {
- "asOf": "2026-09-02T21:18:11.878323+00:00",
+ "asOf": "2026-09-02T22:19:41.721082+00:00",
  "items": [
+  {
+   "source": "White House",
+   "title": "G20 Innovation Ministerial Concludes with Consensus Statement",
+   "url": "https://www.whitehouse.gov/releases/2026/09/g20-innovation-ministerial-concludes-with-consensus-statement/",
+   "published": "2026-09-02T21:37:46+00:00",
+   "summary": "Today, G20 member ministers concluded a two-day Innovation Ministerial in Chapel Hill, North Carolina. The Ministerial was hosted by the Department of Commerce and the White House Office of Science and Technology Policy (OSTP). At the conclusion of the Ministerial, G20 Ministers released a consensus statement recognizing that “emerging technologies have the potential to unlock [&#8230;] The post G",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Two Palestinians killed as settlers, Israeli forces raid West Bank village",
+   "url": "https://www.aljazeera.com/news/2026/9/2/two-palestinian-killed-as-settlers-israeli-forces-raid-west-bank-village?traffic_source=rss",
+   "published": "2026-09-02T20:59:46+00:00",
+   "summary": "Teenagers killed in settlers attack on al-Mughayyer as West Bank violence continues.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Trump suggests renaming Strait of Hormuz as Trump Strait amid Iran war",
@@ -23,6 +43,15 @@
    "highlight": true
   },
   {
+   "source": "UN Press",
+   "title": "Invest in World of Safety, Dignity for All Women, Girls, Secretary-General Urges, as Trust Fund Marks Thirtieth Anniversary",
+   "url": "https://press.un.org/en/2026/sgsm23258.doc.htm",
+   "published": "2026-09-02T20:06:00+00:00",
+   "summary": "Following is the text of UN Secretary-General António Guterres’ video message on the thirtieth anniversary of the United Nations Trust Fund to End Violence against Women and Girls, observed today:",
+   "tags": [],
+   "highlight": false
+  },
+  {
    "source": "Al Jazeera",
    "title": "Trump says US sees ‘everything’ Iran does, threatens further attacks",
    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/09-02-trump-soundbite-iran-clip?traffic_source=rss",
@@ -41,6 +70,26 @@
    "summary": "Golfing champion Tiger Woods has pleaded no contest at a Florida court for reckless driving after a rollover crash.",
    "tags": [
     "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "UN Press",
+   "title": "Humanity Speeding Past 1.5°C Climate Limit, Secretary-General Warns, Urging Immediate Action, in Message on Launch of Environment Report",
+   "url": "https://press.un.org/en/2026/sgsm23257.doc.htm",
+   "published": "2026-09-02T19:57:02+00:00",
+   "summary": "Following is the text of UN Secretary-General António Guterres’ video message on the launch of the UN Environment Programme’s (UNEP) overshoot report:",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "UN Press",
+   "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General",
+   "url": "https://press.un.org/en/2026/db260902.doc.htm",
+   "published": "2026-09-02T19:50:04+00:00",
+   "summary": "Attacks across Ukraine in recent days have caused significant civilian casualties and damage to civilian infrastructure, including in Kyiv and Odesa. Humanitarian Coordinator Matthias Schmale cited a growing pattern of strikes on shopping malls, warehouses, railway and energy infrastructure, stressing that such attacks should never be normalized.",
+   "tags": [
+    "strikes"
    ],
    "highlight": false
   },
@@ -86,6 +135,15 @@
     "strikes",
     "sanctions"
    ],
+   "highlight": false
+  },
+  {
+   "source": "UN Press",
+   "title": "Desperate Conditions across Occupied Territory Worsen amid Aid Shortfalls, Approaching Winter, Palestinian Rights Committee Hears",
+   "url": "https://press.un.org/en/2026/gapal1496.doc.htm",
+   "published": "2026-09-02T18:52:17+00:00",
+   "summary": "Desperate conditions prevail throughout the Occupied Palestinian Territory, the Committee on the Exercise of the Inalienable Rights of the Palestinian People heard today, as humanitarian actors detailed inadequate funding to address dire need as another winter threatens to make things even worse.",
+   "tags": [],
    "highlight": false
   },
   {
@@ -567,78 +625,11 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "Why Greece is betting on Israel’s Achilles Shield",
-   "url": "https://www.aljazeera.com/opinions/2026/9/2/why-greece-is-betting-on-israels-achilles-shield?traffic_source=rss",
-   "published": "2026-09-02T07:35:08+00:00",
-   "summary": "The defence deal between the two countries fits into a larger shift in regional alliances amid the US-Israel war on Iran.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
    "source": "IRNA (Iran state wire)",
    "title": "Army carries out drone attacks on US bases in UAE, Bahrain",
    "url": "https://en.irna.ir/news/86252926/Army-carries-out-drone-attacks-on-US-bases-in-UAE-Bahrain",
    "published": "2026-09-02T07:18:14+00:00",
    "summary": "Tehran, IRNA – The Iranian Army says it has launched drone attacks on US bases in Bahrain and the UAE in response to the latest US aggression including its attack on a wedding in southern Iran.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Sirik wedding attack has completed US’s ‘catalogue of atrocities’ against Iranians: Baqaei",
-   "url": "https://en.irna.ir/news/86252866/Sirik-wedding-attack-has-completed-US-s-catalogue-of-atrocities",
-   "published": "2026-09-02T07:02:32+00:00",
-   "summary": "Tehran, IRNA – Foreign Ministry spokesperson Esmaeil Baqaei says “the United States’ catalogue of atrocities” against the Iranian nation is now complete following the attack on a wedding in the Kuhestak Port of the city of Sirik in southern Iran.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Mohajerani: US’s footprint in Minab and Sirik massacres is evident",
-   "url": "https://en.irna.ir/news/86252829/Mohajerani-US-s-footprint-in-Minab-and-Sirik-massacres-is-evident",
-   "published": "2026-09-02T06:53:08+00:00",
-   "summary": "Tehran, IRNA – Iranian Administration spokesperson Fatemeh Mohajerani referred to the attack on students in Minab and a wedding ceremony in Sirik, saying that US footprint in both incidents is evident.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "IRGC targets US Marines camp in Jordan",
-   "url": "https://en.irna.ir/news/86252767/IRGC-targets-US-Marines-camp-in-Jordan",
-   "published": "2026-09-02T06:29:19+00:00",
-   "summary": "Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) says it has carried out a ballistic missile strike on a military camp housing US Marines in Jordan in response to the recent US aggression against Iranian soil.",
-   "tags": [
-    "strikes",
-    "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "US base in Bahrain comes under Iran’s Army drone fire",
-   "url": "https://en.irna.ir/news/86252772/US-base-in-Bahrain-comes-under-Iran-s-Army-drone-fire",
-   "published": "2026-09-02T06:15:34+00:00",
-   "summary": "Tehran, Iran – The Army of the Islamic Republic of Iran, in a retaliatory response, has targeted the bases of the terrorist US military in Bahrain with its destructive drones",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "IRGC destroys US surveillance balloon control system in Erbil",
-   "url": "https://en.irna.ir/news/86252749/IRGC-destroys-US-surveillance-balloon-control-system-in-Erbil",
-   "published": "2026-09-02T05:54:31+00:00",
-   "summary": "Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) announces that it destroyed a US surveillance balloon control system at an American base in Erbil, northern Iraq, following a hybrid missile and drone attack.",
    "tags": [
     "strikes"
    ],
