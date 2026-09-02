@@ -1,6 +1,18 @@
 {
- "asOf": "2026-09-02T20:21:48.167838+00:00",
+ "asOf": "2026-09-02T20:49:26.995894+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Trump suggests renaming Strait of Hormuz as Trump Strait amid Iran war",
+   "url": "https://www.aljazeera.com/news/2026/9/2/trump-suggests-renaming-strait-of-hormuz-as-trump-strait-amid-iran?traffic_source=rss",
+   "published": "2026-09-02T20:12:14+00:00",
+   "summary": "Despite renewed fighting with Iran and near daily attacks on ships, Trump says Strait of Hormuz is &#039;under USA control&#039;.",
+   "tags": [
+    "strikes",
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Trump says US sees ‘everything’ Iran does, threatens further attacks",
@@ -575,17 +587,6 @@
    "summary": "Tehran, IRNA – Foreign Ministry spokesperson Esmaeil Baqaei says “the United States’ catalogue of atrocities” against the Iranian nation is now complete following the attack on a wedding in the Kuhestak Port of the city of Sirik in southern Iran.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Turkiye launches search for cargo ship after vessels collide off Istanbul",
-   "url": "https://www.aljazeera.com/news/2026/9/2/turkiye-launches-search-for-cargo-ship-after-vessels-collide-off-istanbul?traffic_source=rss",
-   "published": "2026-09-02T06:58:13+00:00",
-   "summary": "Search operations under way after authorities lose contact with 10 crew members after a collision in the Sea of Marmara.",
-   "tags": [
-    "shipping"
    ],
    "highlight": false
   },
