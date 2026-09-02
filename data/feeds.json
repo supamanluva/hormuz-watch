@@ -1,6 +1,27 @@
 {
- "asOf": "2026-09-02T19:17:34.709655+00:00",
+ "asOf": "2026-09-02T19:49:27.358431+00:00",
  "items": [
+  {
+   "source": "White House",
+   "title": "Presidential Message on National Preparedness Month",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/09/presidential-message-on-national-preparedness-month-6e71/",
+   "published": "2026-09-02T19:25:58+00:00",
+   "summary": "America has always been a nation of strong, capable, and determined people who understand that strength must be built before crisis. &#160;Preparedness builds that strength, and readiness is the result. &#160;This National Preparedness Month, I call on every American citizen to ready themselves and their families, homes, businesses, and communities for natural and man-made threats. [&#8230;] The p",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Saudi Arabia condemns deadly Iranian attack on tanker in Strait of Hormuz",
+   "url": "https://www.aljazeera.com/news/2026/9/2/saudi-arabia-condemns-deadly-iranian-attack-on-tanker-in-strait-of-hormuz?traffic_source=rss",
+   "published": "2026-09-02T19:16:36+00:00",
+   "summary": "Regional neighbours condemn attack this week that killed two crew members from the Philippines.",
+   "tags": [
+    "strikes",
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "UN chief gravely concerned by renewed US-Iran exchange of fire: Spokesperson",
@@ -9,6 +30,18 @@
    "summary": "New York, IRNA – UN spokesperson Stephane Dujarric said on Wednesday during a news conference that \"I can tell the secretary-general is gravely concerned by the renewed exchange of fire overnight between the United States and the Islamic Republic of Iran. The secretary-general is deeply alarmed by reports of civilian casualties, including a strike that reportedly hit a wedding ceremony in Iran.\"",
    "tags": [
     "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "EU pursuing more Russia sanctions after failed airport attack: Kallas",
+   "url": "https://www.aljazeera.com/news/2026/9/2/eu-pursuing-more-russia-sanctions-after-failed-airport-attack-kallas?traffic_source=rss",
+   "published": "2026-09-02T19:06:19+00:00",
+   "summary": "EU foreign affairs chief Kaja Kallas warns of more pressure after Germany blames Russia for attempted attack.",
+   "tags": [
+    "strikes",
+    "sanctions"
    ],
    "highlight": false
   },
@@ -611,35 +644,6 @@
     "strikes"
    ],
    "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "US strikes on Iran kill child at wedding ceremony",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/us-strikes-on-iran-kill-child-at-wedding-ceremony?traffic_source=rss",
-   "published": "2026-09-02T03:27:26+00:00",
-   "summary": "Dozens of people are injured, and at least five dead, after US strikes hit a wedding ceremony near Sirik, Iran.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Woman is indicted over World War II Memorial vandalism incident:",
-   "url": "https://trumpstruth.org/statuses/41481",
-   "published": "2026-09-02T01:40:38+00:00",
-   "summary": "Woman is indicted over World War II Memorial vandalism incident: https://www. washingtonpost.com/dc-md-va/20 26/08/28/melissa-farris-suspect-wwii-memorial-vandalism-indicted-two-charges/",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Woman is indicted over World War II Memorial vandalism incident:",
-   "url": "https://www.trumpstruth.org/statuses/41481",
-   "published": "2026-09-02T01:40:38+00:00",
-   "summary": "Woman is indicted over World War II Memorial vandalism incident: https://www. washingtonpost.com/dc-md-va/20 26/08/28/melissa-farris-suspect-wwii-memorial-vandalism-indicted-two-charges/",
-   "tags": [],
-   "highlight": true
   }
  ]
 }
