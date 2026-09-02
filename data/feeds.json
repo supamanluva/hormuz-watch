@@ -1,5 +1,5 @@
 {
- "asOf": "2026-09-02T11:20:04.927402+00:00",
+ "asOf": "2026-09-02T11:50:30.463526+00:00",
  "items": [
   {
    "source": "IRNA (Iran state wire)",
@@ -9,6 +9,18 @@
    "summary": "Tehran, IRNA – Iranian Deputy Parliament Speaker Ali Nikzad has condemned a US attack on a wedding ceremony in Kuhestak, Sirik County, describing it as a continuation of the attacks on Minab and Lamerd on February 28, 2026, and saying Washington is seeking to disrupt everyday life in Iran.",
    "tags": [
     "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "What do we know about the fatal US bombing of a wedding in Iran’s Sirik?",
+   "url": "https://www.aljazeera.com/news/2026/9/2/what-do-we-know-about-the-fatal-us-bombing-of-a-wedding-in-irans-sirik?traffic_source=rss",
+   "published": "2026-09-02T10:57:16+00:00",
+   "summary": "A residential building and a telecom tower were struck overnight, as Iran and the US launched more strikes over Hormuz.",
+   "tags": [
+    "strikes",
+    "shipping"
    ],
    "highlight": false
   },
@@ -607,18 +619,6 @@
    "summary": "Two countries sign $3.5bn weapons agreement.",
    "tags": [
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "IRGC: Attacks resulting from enemy desperation only tighten the lock on the Strait of Hormuz",
-   "url": "https://en.irna.ir/news/86252596/IRGC-Attacks-resulting-from-enemy-desperation-only-tighten-the",
-   "published": "2026-09-01T19:55:40+00:00",
-   "summary": "Tehran, IRNA – In a statement emphasizing that such attacks—born of the enemy's desperation—only serve to tighten the lock on the Strait of Hormuz, the Islamic Revolution Guard Corps (IRGC) declared that its forces have initiated a response that will make the aggressors regret their actions.",
-   "tags": [
-    "strikes",
-    "shipping"
    ],
    "highlight": false
   }
