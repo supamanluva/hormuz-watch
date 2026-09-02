@@ -1,6 +1,39 @@
 {
- "asOf": "2026-09-02T01:30:27.080062+00:00",
+ "asOf": "2026-09-02T02:08:25.640729+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "What to know about Germany’s drone attack accusations against Russia",
+   "url": "https://www.aljazeera.com/news/2026/9/2/what-to-know-about-germanys-drone-attack-accusations-against-russia?traffic_source=rss",
+   "published": "2026-09-02T01:40:01+00:00",
+   "summary": "German intelligence has concluded that an explosive-laden drone was linked to Russia. Officials promise consequences.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Iran says US bombed a wedding party in Sirik, killing five",
+   "url": "https://www.aljazeera.com/news/2026/9/2/iran-says-us-strikes-hit-a-wedding-party-in-sirik-killing-five?traffic_source=rss",
+   "published": "2026-09-02T01:34:55+00:00",
+   "summary": "Officials say at least 63 others wounded in attack on city of Kuhestak, including women and children.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "IAEA says Syria built a nuclear reactor in Deir Az Zor under al-Assad",
+   "url": "https://www.aljazeera.com/news/2026/9/2/iaea-says-syria-built-a-nuclear-reactor-in-deir-az-zor-under-al-assad?traffic_source=rss",
+   "published": "2026-09-02T01:21:06+00:00",
+   "summary": "UN watchdog says Syria &#039;failed to report nuclear material, facilities and activities&#039; under Bashar al-Assad&#039;s rule.",
+   "tags": [
+    "nuclear"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "US launches new strikes on Iran, denies its bases hit in Jordan",
@@ -539,40 +572,6 @@
    "tags": [
     "strikes",
     "sanctions"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Why China will not comply with US sanctions on Iran",
-   "url": "https://www.aljazeera.com/opinions/2026/9/1/why-china-will-not-comply-with-us-sanctions-on-iran?traffic_source=rss",
-   "published": "2026-09-01T13:08:14+00:00",
-   "summary": "Beijing will not comply with US measures because it can and because it’s in its interest not to.",
-   "tags": [
-    "sanctions"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iran urges US to honour commitments under MoU",
-   "url": "https://www.aljazeera.com/news/2026/9/1/iran-urges-us-to-honour-commitments-under-mou?traffic_source=rss",
-   "published": "2026-09-01T13:01:22+00:00",
-   "summary": "Tehran calls for Washington to respect terms of MoU after attacks send tensions soaring in the Strait of Hormuz.",
-   "tags": [
-    "strikes",
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Two killed in explosion of ammunition-laden vehicle in Syria’s Idlib",
-   "url": "https://www.aljazeera.com/news/2026/9/1/two-killed-in-explosion-of-ammunition-laden-vehicle-in-syrias-idlib?traffic_source=rss",
-   "published": "2026-09-01T11:43:28+00:00",
-   "summary": "Several people injured in the incident that took place in the Idlib countryside, state media reports.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   },
