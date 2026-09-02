@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-02T03:25:56.413209+00:00",
+ "asOf": "2026-09-02T04:41:44.344799+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "US strikes on Iran kill child at wedding ceremony",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/us-strikes-on-iran-kill-child-at-wedding-ceremony?traffic_source=rss",
+   "published": "2026-09-02T03:27:26+00:00",
+   "summary": "Dozens of people are injured, and at least five dead, after US strikes hit a wedding ceremony near Sirik, Iran.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "Woman is indicted over World War II Memorial vandalism incident:",
@@ -23,7 +34,7 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "Iran says US bombed a wedding party in Sirik, killing five",
+   "title": "Iran says US bombed a wedding party in Sirik, killing five people",
    "url": "https://www.aljazeera.com/news/2026/9/2/iran-says-us-strikes-hit-a-wedding-party-in-sirik-killing-five?traffic_source=rss",
    "published": "2026-09-02T01:34:55+00:00",
    "summary": "Officials say at least 63 others wounded in attack on city of Kuhestak, including women and children.",
@@ -106,7 +117,7 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "Iran war live: US bombs Iran, Tehran retaliates on Gulf neighbours, Jordan",
+   "title": "Iran war live: Tehran claims attacks on US bases in Bahrain, Jordan, Iraq",
    "url": "https://www.aljazeera.com/news/liveblog/2026/9/2/iran-war-live-us-bombs-iran-tehran-retaliates-on-gulf-neighbours-jordan?traffic_source=rss",
    "published": "2026-09-02T00:00:00+00:00",
    "summary": "Tehran pledges &#039;severe punishment&#039; and retaliation against Washington following a new wave of US attacks.",
@@ -563,18 +574,6 @@
    "summary": "The controversial tycoon will lead the joint oil venture as the Trump administration seeks to reshape energy markets.",
    "tags": [
     "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "SCO slams attacks, sanctions on Iran: Key takeaways from Bishkek summit",
-   "url": "https://www.aljazeera.com/news/2026/9/1/sco-slams-attacks-sanctions-on-iran-key-takeaways-from-bishkek-summit?traffic_source=rss",
-   "published": "2026-09-01T13:32:33+00:00",
-   "summary": "The SCO started in 1996 and accounts for 43 percent of the world’s population and 23 percent of the global economy.",
-   "tags": [
-    "strikes",
-    "sanctions"
    ],
    "highlight": false
   },
