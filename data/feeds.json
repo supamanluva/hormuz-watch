@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-03T13:49:43.402117+00:00",
+ "asOf": "2026-09-03T14:23:29.041412+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Somalia repels armed assault on Baidoa amid regional political tensions",
+   "url": "https://www.aljazeera.com/news/2026/9/3/somalia-repels-armed-assault-on-baidoa-amid-regional-political-tensions?traffic_source=rss",
+   "published": "2026-09-03T13:40:42+00:00",
+   "summary": "Explosions and gunfire rock Baidoa as armed groups strike during South West State&#039;s political tensions.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "IRGC commander condemns US ‘terror attack’ on wedding ceremony",
@@ -597,17 +608,6 @@
     "shipping"
    ],
    "highlight": true
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Aubameyang ‘humiliated’ as ex-Arsenal striker quits Gabon national team",
-   "url": "https://www.aljazeera.com/sports/2026/9/2/aubameyang-humiliated-as-ex-arsenal-striker-quits-gabon-national-team?traffic_source=rss",
-   "published": "2026-09-02T15:21:43+00:00",
-   "summary": "Pierre-Emerick Aubameyang cites 2025 Africa Cup of Nations treatment as captain steps away from Gabon duty.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
   },
   {
    "source": "White House",
