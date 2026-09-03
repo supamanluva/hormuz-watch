@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-03T09:24:28.767204+00:00",
+ "asOf": "2026-09-03T09:49:51.010271+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Norway seizes Russian ship in Arctic over Crimea compensation claim",
+   "url": "https://www.aljazeera.com/news/2026/9/3/norway-seizes-russian-ship-in-arctic-over-crimea-compensation-claim?traffic_source=rss",
+   "published": "2026-09-03T09:22:18+00:00",
+   "summary": "Moscow challenges Norway&#039;s seizure of vessel, the Professor Molchanov, calling it an act of piracy.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "US leaders must answer for war crimes, IRGC says after wedding attack",
@@ -583,17 +594,6 @@
    "summary": "Golfer&#039;s driving licence will be suspended for five years under the terms of a plea agreement that dropped DUI charges.",
    "tags": [
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Putin and Zelenskyy issue threats as strikes rock Ukraine, Russia",
-   "url": "https://www.aljazeera.com/news/2026/9/2/putin-and-zelenskyy-issue-threats-as-strikes-rock-ukraine-russia?traffic_source=rss",
-   "published": "2026-09-02T12:55:42+00:00",
-   "summary": "Putin accuses Zelenskyy of &#039;terrorism&#039;, while Ukraine warns foreign airlines against using Russian airspace.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   },
