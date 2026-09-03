@@ -1,6 +1,50 @@
 {
- "asOf": "2026-09-03T03:11:04.696259+00:00",
+ "asOf": "2026-09-03T06:36:36.755563+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "‘War crime’: Iran sends formal letter to UN over deadly US attack on wedding",
+   "url": "https://en.irna.ir/news/86253837/War-crime-Iran-sends-formal-letter-to-UN-over-deadly-US-attack",
+   "published": "2026-09-03T05:56:54+00:00",
+   "summary": "New York, IRNA – Iran’s ambassador and deputy permanent representative to the United Nations, Gholamhossein Darzi, has strongly condemned a deadly US strike on a home in Hormozgan during a wedding, calling it a war crime.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Asia looks to store oil, gas closer to home after Strait of Hormuz crisis",
+   "url": "https://www.aljazeera.com/economy/2026/9/3/asia-looks-to-store-oil-gas-closer-to-home-after-strait-of-hormuz-crisis?traffic_source=rss",
+   "published": "2026-09-03T04:26:27+00:00",
+   "summary": "Asian economies are racing to build up storage capacity to reduce their exposure to conflict in the Middle East.",
+   "tags": [
+    "shipping",
+    "oil"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "US’s Chevron, Italy’s Eni to expand oil projects in Venezuela",
+   "url": "https://www.aljazeera.com/news/2026/9/3/uss-chevron-italys-eni-to-expand-oil-projects-in-venezuela?traffic_source=rss",
+   "published": "2026-09-03T04:19:11+00:00",
+   "summary": "Energy firms sign deals in Caracas, days after Venezuela agreed to grant the US control of a fifth of its oil reserves.",
+   "tags": [
+    "diplomacy",
+    "oil"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "[No Title] - Post from September 3, 2026",
+   "url": "https://trumpstruth.org/statuses/41490",
+   "published": "2026-09-03T03:18:19+00:00",
+   "summary": "",
+   "tags": [],
+   "highlight": true
+  },
   {
    "source": "Trump · Truth Social",
    "title": "Miranda Devine: AG Letitia James turns evil eye on Trump — and blind eye to NY crime:",
@@ -64,10 +108,10 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "Iran war live: Trump says US ready to strike Iran ‘at any time’",
+   "title": "Iran war live: 105 children and women wounded in latest US attacks",
    "url": "https://www.aljazeera.com/news/liveblog/2026/9/3/iran-war-live-trump-says-renewed-us-iran-clashes-will-not-last-too?traffic_source=rss",
    "published": "2026-09-03T00:00:00+00:00",
-   "summary": "Iran&#039;s health ministry spokesman says the death toll from US attacks has risen to 18, including a child.",
+   "summary": "Sixty-one of the injured were women and 44 victims were under the age of 18, Health Ministry says.",
    "tags": [
     "strikes"
    ],
@@ -581,47 +625,6 @@
    "summary": "Beyond lowering drug prices, Trump ups national security by restoring America’s pharma supply chain: https:// justthenews.com/government/whi te-house/drug-announcements-larger-impact-beyond-lower-prices-securing-americas",
    "tags": [],
    "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Beyond lowering drug prices, Trump ups national security by restoring America’s pharma supply chain:",
-   "url": "https://trumpstruth.org/statuses/41484",
-   "published": "2026-09-02T11:58:40+00:00",
-   "summary": "Beyond lowering drug prices, Trump ups national security by restoring America’s pharma supply chain: https:// justthenews.com/government/whi te-house/drug-announcements-larger-impact-beyond-lower-prices-securing-americas",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "The US is gobbling up Venezuelan oil, but will it lower fuel prices?",
-   "url": "https://www.aljazeera.com/news/2026/9/2/the-us-is-gobbling-up-venezuelan-oil-but-will-it-lower-fuel-prices?traffic_source=rss",
-   "published": "2026-09-02T11:43:31+00:00",
-   "summary": "Analysts say Venezuelan crude is hard to extract and refine, and likely can&#039;t replace oil stuck in the Strait of Hormuz.",
-   "tags": [
-    "shipping",
-    "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iranian parliament deputy speaker condemns US attack on wedding ceremony in Sirik",
-   "url": "https://en.irna.ir/news/86253281/Iranian-parliament-deputy-speaker-condemns-US-attack-on-wedding",
-   "published": "2026-09-02T11:07:02+00:00",
-   "summary": "Tehran, IRNA – Iranian Deputy Parliament Speaker Ali Nikzad has condemned a US attack on a wedding ceremony in Kuhestak, Sirik County, describing it as a continuation of the attacks on Minab and Lamerd on February 28, 2026, and saying Washington is seeking to disrupt everyday life in Iran.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Palestinian Rights Committee, 430th Meeting (AM)",
-   "url": "https://press.un.org/en/blog/gapal1496",
-   "published": "2026-09-02T10:58:16+00:00",
-   "summary": "The General Assembly’s Committee on the Exercise of the Inalienable Rights of the Palestinian People will meet today to hear an update on the situation in the Occupied Palestinian Territory, including East Jerusalem, and briefings on the humanitarian situation. It will also elect a Bureau member and consider its draft 2026 annual report. The update will be provided by the Permanent Observer Missio",
-   "tags": [],
-   "highlight": false
   }
  ]
 }
