@@ -1,6 +1,18 @@
 {
- "asOf": "2026-09-03T20:20:01.445533+00:00",
+ "asOf": "2026-09-03T20:50:12.462503+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Israel kills 3 in Gaza as far-right minister plans for Palestinian removals",
+   "url": "https://www.aljazeera.com/news/2026/9/3/israel-kills-3-in-gaza-as-far-right-minister-plans-for-palestinian-removals?traffic_source=rss",
+   "published": "2026-09-03T20:31:08+00:00",
+   "summary": "Israeli drone strike and gunfire kills and injures people across the Gaza Strip despite &#039;ceasefire&#039;.",
+   "tags": [
+    "strikes",
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Qalibaf: Bessent on the brink as oil reserves fall and bond yields surge",
@@ -9,6 +21,18 @@
    "summary": "Tehran, IRNA – Iranian Parliament Speaker Mohammad Bagher Ghalibaf has warned US Treasury Secretary Scott Bessent that rapidly declining strategic oil reserves, rising US Treasury yields and surging oil futures prices have placed him and the US President Donald Trump administration in a difficult position.",
    "tags": [
     "oil"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Funeral held for child killed in US strike on Iranian wedding",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/09-03-iran-child-funeral-minisv?traffic_source=rss",
+   "published": "2026-09-03T20:00:40+00:00",
+   "summary": "Mourners carried the coffin of a child killed in a US strike on a wedding in Kuhestak, along the Strait of Hormuz.",
+   "tags": [
+    "strikes",
+    "shipping"
    ],
    "highlight": false
   },
@@ -571,18 +595,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "Saudi Arabia condemns deadly Iranian attack on tanker in Strait of Hormuz",
-   "url": "https://www.aljazeera.com/news/2026/9/2/saudi-arabia-condemns-deadly-iranian-attack-on-tanker-in-strait-of-hormuz?traffic_source=rss",
-   "published": "2026-09-02T19:16:36+00:00",
-   "summary": "Regional neighbours condemn attack this week that killed two crew members from the Philippines.",
-   "tags": [
-    "strikes",
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
    "source": "IRNA (Iran state wire)",
    "title": "UN chief gravely concerned by renewed US-Iran exchange of fire: Spokesperson",
    "url": "https://en.irna.ir/news/86253728/UN-chief-gravely-concerned-by-renewed-US-Iran-exchange-of-fire",
@@ -590,18 +602,6 @@
    "summary": "New York, IRNA – UN spokesperson Stephane Dujarric said on Wednesday during a news conference that \"I can tell the secretary-general is gravely concerned by the renewed exchange of fire overnight between the United States and the Islamic Republic of Iran. The secretary-general is deeply alarmed by reports of civilian casualties, including a strike that reportedly hit a wedding ceremony in Iran.\"",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "EU pursuing more Russia sanctions after failed airport attack: Kallas",
-   "url": "https://www.aljazeera.com/news/2026/9/2/eu-pursuing-more-russia-sanctions-after-failed-airport-attack-kallas?traffic_source=rss",
-   "published": "2026-09-02T19:06:19+00:00",
-   "summary": "EU foreign affairs chief Kaja Kallas warns of more pressure after Germany blames Russia for attempted attack.",
-   "tags": [
-    "strikes",
-    "sanctions"
    ],
    "highlight": false
   },
