@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-03T08:52:17.892000+00:00",
+ "asOf": "2026-09-03T09:24:28.767204+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "US leaders must answer for war crimes, IRGC says after wedding attack",
+   "url": "https://en.irna.ir/news/86253963/US-leaders-must-answer-for-war-crimes-IRGC-says-after-wedding",
+   "published": "2026-09-03T09:07:47+00:00",
+   "summary": "Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) says that Washington must be held to account for a war crime committed by US terrorist forces in Hormozgan Province, after an airstrike targeted a wedding ceremony.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Iran Red Crescent urges ICC probe into deadly US strike on wedding party",
@@ -618,15 +629,6 @@
     "nuclear"
    ],
    "highlight": false
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Christian leaders urge Trump to create legal pathway for Jewish Canadians facing antisemitism:",
-   "url": "https://www.trumpstruth.org/statuses/41482",
-   "published": "2026-09-02T11:59:15+00:00",
-   "summary": "Christian leaders urge Trump to create legal pathway for Jewish Canadians facing antisemitism: https:// justthenews.com/government/whi te-house/christian-leaders-urge-trump-create-legal-pathway-jewish-canadians-facing",
-   "tags": [],
-   "highlight": true
   }
  ]
 }
