@@ -1,6 +1,35 @@
 {
- "asOf": "2026-09-03T01:59:48.097859+00:00",
+ "asOf": "2026-09-03T03:11:04.696259+00:00",
  "items": [
+  {
+   "source": "Trump · Truth Social",
+   "title": "Miranda Devine: AG Letitia James turns evil eye on Trump — and blind eye to NY crime:",
+   "url": "https://trumpstruth.org/statuses/41488",
+   "published": "2026-09-03T02:21:11+00:00",
+   "summary": "Miranda Devine: AG Letitia James turns evil eye on Trump — and blind eye to NY crime: https:// nypost.com/2026/08/30/opinion/ miranda-devine-ag-letitia-james-evil-eye-on-trump-and-blind-eye-to-ny-crime/",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "A Nice Man!!!",
+   "url": "https://trumpstruth.org/statuses/41489",
+   "published": "2026-09-03T02:20:51+00:00",
+   "summary": "A Nice Man!!!",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Trump threatens more strikes as death toll in Iran rises to 18",
+   "url": "https://www.aljazeera.com/news/2026/9/3/trump-threatens-more-strikes-as-death-toll-in-iran-rises-to-19?traffic_source=rss",
+   "published": "2026-09-03T01:45:32+00:00",
+   "summary": "Trump says US can hit Iran &#039;anytime we want&#039; as Tehran says deadly strikes, including on wedding party, a war crime.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Venezuela’s Maduro asserts immunity in US court, urges dismissal of charges",
@@ -35,7 +64,7 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "Iran war live: Trump says renewed US-Iran clashes will not last ‘too long’",
+   "title": "Iran war live: Trump says US ready to strike Iran ‘at any time’",
    "url": "https://www.aljazeera.com/news/liveblog/2026/9/3/iran-war-live-trump-says-renewed-us-iran-clashes-will-not-last-too?traffic_source=rss",
    "published": "2026-09-03T00:00:00+00:00",
    "summary": "Iran&#039;s health ministry spokesman says the death toll from US attacks has risen to 18, including a child.",
@@ -592,42 +621,6 @@
    "published": "2026-09-02T10:58:16+00:00",
    "summary": "The General Assembly’s Committee on the Exercise of the Inalienable Rights of the Palestinian People will meet today to hear an update on the situation in the Occupied Palestinian Territory, including East Jerusalem, and briefings on the humanitarian situation. It will also elect a Bureau member and consider its draft 2026 annual report. The update will be provided by the Permanent Observer Missio",
    "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "What do we know about the fatal US bombing of a wedding in Iran’s Sirik?",
-   "url": "https://www.aljazeera.com/news/2026/9/2/what-do-we-know-about-the-fatal-us-bombing-of-a-wedding-in-irans-sirik?traffic_source=rss",
-   "published": "2026-09-02T10:57:16+00:00",
-   "summary": "A residential building and a telecom tower were struck overnight, as Iran and the US launched more strikes over Hormuz.",
-   "tags": [
-    "strikes",
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran’s MP questions US failure to distinguish military targets from civilian sites",
-   "url": "https://en.irna.ir/news/86253083/Iran-s-MP-questions-US-failure-to-distinguish-military-targets",
-   "published": "2026-09-02T09:10:26+00:00",
-   "summary": "Tehran, IRNA – Hasan Ghashghavi, spokesperson for the Iranian Parliament’s National Security and Foreign Policy Commission, has questioned how the United States can fail to distinguish between military targets and civilian sites, following a US attack on a wedding ceremony in Sirik, Hormuzgan Province.",
-   "tags": [
-    "strikes",
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iran, US exchange new attacks: Who was hit in latest strikes?",
-   "url": "https://www.aljazeera.com/news/2026/9/2/iran-us-exchange-new-attacks-who-was-hit-in-latest-strikes?traffic_source=rss",
-   "published": "2026-09-02T08:55:20+00:00",
-   "summary": "Iran says the US bombed a wedding near the Strait of Hormuz; hits Kuwait, Bahrain, and Jordan in retaliation.",
-   "tags": [
-    "strikes",
-    "shipping"
-   ],
    "highlight": false
   }
  ]
