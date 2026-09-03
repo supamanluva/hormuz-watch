@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-03T18:50:40.355211+00:00",
+ "asOf": "2026-09-03T19:16:08.916167+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "5 dead, dozens missing after migrant boat found after weeks at sea",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/5-dead-dozens-missing-after-migrant-boat-found-after-weeks-at-sea?traffic_source=rss",
+   "published": "2026-09-03T18:44:31+00:00",
+   "summary": "Authorities say at least 5 people have died as they attempted to reach Spain’s Canary Islands on a wooden vessel.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "UN Press",
    "title": "Secretary-General Welcomes UN Institute for Capability and Learning Innovation as ‘Important Step Forward’",
@@ -581,17 +592,6 @@
    "published": "2026-09-02T18:52:17+00:00",
    "summary": "Desperate conditions prevail throughout the Occupied Palestinian Territory, the Committee on the Exercise of the Inalienable Rights of the Palestinian People heard today, as humanitarian actors detailed inadequate funding to address dire need as another winter threatens to make things even worse.",
    "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Signing ceremony as US to control a fifth of Venezuela’s oil reserves",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/signing-ceremony-as-us-to-control-a-fifth-of-venezuelas-oil-reserves?traffic_source=rss",
-   "published": "2026-09-02T18:51:07+00:00",
-   "summary": "Signing ceremony as US to control a fifth of Venezuela’s oil reserves.",
-   "tags": [
-    "oil"
-   ],
    "highlight": false
   },
   {
