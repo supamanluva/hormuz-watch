@@ -1,6 +1,38 @@
 {
- "asOf": "2026-09-03T11:30:30.256363+00:00",
+ "asOf": "2026-09-03T12:55:07.919727+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Kenya’s aviation strike is over, but the dispute is far from settled",
+   "url": "https://www.aljazeera.com/news/2026/9/3/kenyas-aviation-strike-is-over-but-the-dispute-is-far-from-settled?traffic_source=rss",
+   "published": "2026-09-03T11:55:28+00:00",
+   "summary": "Years of wrangling over pay, union recognition and collective bargaining are now back on the negotiating table.",
+   "tags": [
+    "strikes",
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "Sec. Lutnick had Venezuela on his mind when he said nobody was killed. 18 people were killed in Iran!",
+   "url": "https://trumpstruth.org/statuses/41493",
+   "published": "2026-09-03T11:31:17+00:00",
+   "summary": "Sec. Lutnick had Venezuela on his mind when he said nobody was killed. 18 people were killed in Iran!",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "This is GREAT! President DONALD J. TRUMPSyria is pitching itself as an alternative to the Strait of Hormuz:",
+   "url": "https://trumpstruth.org/statuses/41492",
+   "published": "2026-09-03T11:18:27+00:00",
+   "summary": "This is GREAT! President DONALD J. TRUMP Syria is pitching itself as an alternative to the Strait of Hormuz: https://www. washingtonpost.com/world/2026/ 09/02/syria-eyeing-role-middle-east-hub-offers-options-bypass-hormuz/",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": true
+  },
   {
    "source": "Al Jazeera",
    "title": "Legendary Bosnian striker Edin Dzeko to retire from international football",
@@ -11,6 +43,15 @@
     "strikes"
    ],
    "highlight": false
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "[No Title] - Post from September 3, 2026",
+   "url": "https://trumpstruth.org/statuses/41491",
+   "published": "2026-09-03T11:10:28+00:00",
+   "summary": "",
+   "tags": [],
+   "highlight": true
   },
   {
    "source": "IRNA (Iran state wire)",
@@ -250,6 +291,15 @@
    "tags": [
     "strikes"
    ],
+   "highlight": false
+  },
+  {
+   "source": "UN Press",
+   "title": "Security Council, 10217th Meeting (AM) Syria/OPCW",
+   "url": "https://press.un.org/en/blog/sc16445",
+   "published": "2026-09-02T20:39:33+00:00",
+   "summary": "The Security Council today will hold a meeting on the situation in the Middle East, focusing on efforts to eliminate the Syrian chemical weapons programme in accordance with resolution 2118 (2013). UN High Representative for Disarmament Affairs Izumi Nakamitsu is expected to brief the organ on recent developments.",
+   "tags": [],
    "highlight": false
   },
   {
@@ -549,17 +599,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "Can Ukraine’s drones shut Russian airspace? What that means for airlines",
-   "url": "https://www.aljazeera.com/features/2026/9/2/can-ukraines-drones-shut-russian-airspace-what-that-means-for-airlines?traffic_source=rss",
-   "published": "2026-09-02T14:55:16+00:00",
-   "summary": "What happens if the airspace of the world&#039;s largest country by land mass is out of bounds because of Ukrainian drones?",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
    "source": "White House",
    "title": "Ten Times Extreme Liberal Democrats in Congress Put Their Dangerous Agenda Ahead of the American People",
    "url": "https://www.whitehouse.gov/fact-sheets/2026/09/ten-times-extreme-liberal-democrats-in-congress-put-their-dangerous-agenda-ahead-of-the-american-people/",
@@ -585,50 +624,6 @@
    "summary": "We have hundreds of happy construction workers in D.C. busily doing their job building the finest Ballroom/Military complex anywhere in the World. There is nothing like it, and never will be! It was a long, hard, fight in the Court System, but the winner is, as always under “TRUMP,” the U.S.A. Also, it is important to remember, the Ballroom is a 400 Million Dollar gift the America! President DJT",
    "tags": [],
    "highlight": true
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran condemns US strikes on civilians as war crimes, reaffirms its right to self-defense",
-   "url": "https://en.irna.ir/news/86253521/Iran-condemns-US-strikes-on-civilians-as-war-crimes-reaffirms",
-   "published": "2026-09-02T14:24:17+00:00",
-   "summary": "Tehran, IRNA – Iran’s Foreign Ministry has condemned US attacks on civilian areas and infrastructure across several provinces as “brutal war crimes” and reaffirmed the Islamic Republic’s right to retaliate in self-defense.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran says international silence on US attacks is ‘not neutrality’",
-   "url": "https://en.irna.ir/photo/86253520/Iran-says-international-silence-on-US-attacks-is-not-neutrality",
-   "published": "2026-09-02T14:06:28+00:00",
-   "summary": "Foreign Ministry spokesman Esmail Baqaei says that governments and international organizations that remain silent over US attacks on civilians, or seek to justify them, should not regard their silence as neutrality.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Bombing Sirik wedding exposes true face of US war, FM spokesperson says",
-   "url": "https://en.irna.ir/news/86253421/Bombing-Sirik-wedding-exposes-true-face-of-US-war-FM-spokesperson",
-   "published": "2026-09-02T12:50:36+00:00",
-   "summary": "Tehran, IRNA – Foreign Ministry spokesperson Esmaeil Baqaei says the true face of the US-Israeli war against Iran can be seen in the bombing of a wedding in Sirik, not in AI-generated videos portraying US officials as triumphant heroes.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Hezbollah targets Israeli military patrol with drones in southern Lebanon",
-   "url": "https://en.irna.ir/news/86253351/Hezbollah-targets-Israeli-military-patrol-with-drones-in-southern",
-   "published": "2026-09-02T12:46:55+00:00",
-   "summary": "Tehran, IRNA – Hezbollah carries out a drone attack on an Israeli military patrol in the Ali al-Taher Heights in southern Lebanon, according to Lebanese media reports.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
   }
  ]
 }
