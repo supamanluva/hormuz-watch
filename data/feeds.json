@@ -1,6 +1,15 @@
 {
- "asOf": "2026-09-03T17:50:20.381713+00:00",
+ "asOf": "2026-09-03T18:26:36.292001+00:00",
  "items": [
+  {
+   "source": "UN Press",
+   "title": "Secretary-General Welcomes UN Institute for Capability and Learning Innovation as ‘Important Step Forward’",
+   "url": "https://press.un.org/en/2026/sgsm23259.doc.htm",
+   "published": "2026-09-03T18:24:31+00:00",
+   "summary": "The following statement was issued today by the Spokesman for UN Secretary-General António Guterres:",
+   "tags": [],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Canada ready for a trade deal with US that benefits both, Carney says",
@@ -613,17 +622,6 @@
    "published": "2026-09-02T15:58:33+00:00",
    "summary": "During National Recovery Month, we celebrate the more than 23 million Americans who have found a pathway from addiction to recovery, we recognize those who have helped them reclaim their lives, and we renew our commitment to supporting those still struggling to find hope and healing.&#160; Throughout every community in America, the effects of drug [&#8230;] The post Presidential Message on Nationa",
    "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "US war crimes in Sirik part of ongoing pattern of civilian bombings: Baqaei",
-   "url": "https://en.irna.ir/news/86253587/US-war-crimes-in-Sirik-part-of-ongoing-pattern-of-civilian-bombings",
-   "published": "2026-09-02T15:32:57+00:00",
-   "summary": "Tehran, IRNA – Foreign Ministry spokesperson Esmaeil Baqaei has deplored the US Central Command (CENTCOM) for denying American bombing of civilians on Sirik Island, saying that even the US propaganda machine has failed to refute this horrifying reality of its military.",
-   "tags": [
-    "strikes"
-   ],
    "highlight": false
   }
  ]
