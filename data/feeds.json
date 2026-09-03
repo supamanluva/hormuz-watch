@@ -1,6 +1,29 @@
 {
- "asOf": "2026-09-03T00:56:40.233093+00:00",
+ "asOf": "2026-09-03T01:36:07.368984+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Venezuela’s Maduro asserts immunity in US court, urges dismissal of charges",
+   "url": "https://www.aljazeera.com/news/2026/9/3/venezuelas-maduro-asserts-immunity-in-us-court-urges-dismissal-of-charges?traffic_source=rss",
+   "published": "2026-09-03T01:22:21+00:00",
+   "summary": "Former Venezuelan leader was abducted by US forces during a military attack on Caracas in January.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "White House",
+   "title": "President Trump Secures the Biggest Oil Deal in World History",
+   "url": "https://www.whitehouse.gov/releases/2026/09/president-trump-secures-the-biggest-oil-deal-in-world-history/",
+   "published": "2026-09-03T00:35:13+00:00",
+   "summary": "President Trump has secured the biggest oil deal in world history, delivering U.S. majority control of more than 65 billion barrels of proven oil reserves in Venezuela – vastly expanding our current U.S. territorial proven reserves of roughly 46 billion barrels. President Trump&#8217;s bold foreign policy is driving America First wins: this deal greatly increases America&#8217;s oil [&#8230;] The ",
+   "tags": [
+    "diplomacy",
+    "oil"
+   ],
+   "highlight": false
+  },
   {
    "source": "White House",
    "title": "Congressional Bill H.R. 6500 Signed into Law",
@@ -604,29 +627,6 @@
    "tags": [
     "strikes",
     "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "US strike in Kermanshah claims lives of four IRGC Aerospace forces",
-   "url": "https://en.irna.ir/news/86253070/US-strike-in-Kermanshah-claims-lives-of-four-IRGC-Aerospace-forces",
-   "published": "2026-09-02T08:47:13+00:00",
-   "summary": "Kermanshah, IRNA — Four IRGC aerospace personnel have been killed in Kermanshah during a US attack, according to a statement from the provincial IRGC public relations office.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Video: US energy chief in Venezuela to sign controversial oil deal",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/video-us-energy-chief-in-venezuela-to-sign-controversial-oil-deal?traffic_source=rss",
-   "published": "2026-09-02T08:26:43+00:00",
-   "summary": "US Energy Secretary arrived in La Guaira for the signing of a deal that will control much of Venezuela&#039;s oil reserves.",
-   "tags": [
-    "diplomacy",
-    "oil"
    ],
    "highlight": false
   }
