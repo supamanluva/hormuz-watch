@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-03T14:50:19.319747+00:00",
+ "asOf": "2026-09-03T15:23:57.713338+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Iranian drone damages residential building in Kuwait City",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/03-09-iranian-drone-kuwait-building-clip?traffic_source=rss",
+   "published": "2026-09-03T14:47:52+00:00",
+   "summary": "An Iranian drone attack damaged a residential building in Kuwait, authorities say, with no casualties reported.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Somalia repels armed assault on Baidoa amid regional political tensions",
@@ -533,17 +544,6 @@
    "summary": "While the Trump administration claims it has killed &#039;narcoterrorists&#039;, families fear fishermen are among the victims.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "US oil giant Chevron to expand Venezuela operations",
-   "url": "https://www.aljazeera.com/economy/2026/9/2/us-oil-giant-chevron-to-expand-venezuela-operations?traffic_source=rss",
-   "published": "2026-09-02T16:57:22+00:00",
-   "summary": "Chevron, the only US oil firm with major presence in Venezuela, said it has got extra acreage and will double output.",
-   "tags": [
-    "oil"
    ],
    "highlight": false
   },
