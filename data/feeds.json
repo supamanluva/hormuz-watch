@@ -1,6 +1,26 @@
 {
- "asOf": "2026-09-02T23:49:41.822613+00:00",
+ "asOf": "2026-09-03T00:56:40.233093+00:00",
  "items": [
+  {
+   "source": "White House",
+   "title": "Congressional Bill H.R. 6500 Signed into Law",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/09/congressional-bill-h-r-6500-signed-into-law/",
+   "published": "2026-09-03T00:02:19+00:00",
+   "summary": "On Wednesday, September 2, 2026, the President signed into law: H.R. 6500, the &#8220;Continuing Appropriations and Extensions Act, 2027,&#8221; which includes a short-term continuing resolution that provides fiscal year 2027 appropriations to Federal agencies through December 11, 2026, for continuing projects and activities of the Federal Government, and extends authorities for a broad range of [",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Iran war live: Trump says renewed US-Iran clashes will not last ‘too long’",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/9/3/iran-war-live-trump-says-renewed-us-iran-clashes-will-not-last-too?traffic_source=rss",
+   "published": "2026-09-03T00:00:00+00:00",
+   "summary": "Iran&#039;s health ministry spokesman says the death toll from US attacks has risen to 18, including a child.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "White House",
    "title": "G20 Innovation Ministerial Concludes with Consensus Statement",
@@ -607,29 +627,6 @@
    "tags": [
     "diplomacy",
     "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "IRGC hits US commander’s position in Kuwait",
-   "url": "https://en.irna.ir/news/86252839/IRGC-hits-US-commander-s-position-in-Kuwait",
-   "published": "2026-09-02T08:22:20+00:00",
-   "summary": "Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) says it has launched a missile‑drone strike on the US Ali al‑Salem base in Kuwait in response to the recent US aggression against Iranian soil.",
-   "tags": [
-    "strikes",
-    "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Worshippers in West Bank tear-gassed as Israeli attacks on mosques surge",
-   "url": "https://www.aljazeera.com/news/2026/9/2/israeli-forces-settlers-attack-two-west-bank-mosques?traffic_source=rss",
-   "published": "2026-09-02T07:40:20+00:00",
-   "summary": "Palestinian authorities say Israeli forces and settlers have &#039;violated&#039; 13 West Bank mosques this year.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   }
