@@ -1,6 +1,28 @@
 {
- "asOf": "2026-09-03T06:36:36.755563+00:00",
+ "asOf": "2026-09-03T06:58:22.743613+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Yemen holds Red Sea drills for possible confrontation with Israel and US: Official",
+   "url": "https://en.irna.ir/news/86253863/Yemen-holds-Red-Sea-drills-for-possible-confrontation-with-Israel",
+   "published": "2026-09-03T06:45:11+00:00",
+   "summary": "Tehran, IRNA – A senior Yemeni official says Yemen’s armed forces are conducting new military drills in the Red Sea to prepare for a possible confrontation with Israel and the United States.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "EU remains divided over trade sanctions on illegal Israeli settlements",
+   "url": "https://www.aljazeera.com/news/2026/9/3/eu-remains-divided-over-trade-sanctions-on-illegal-israeli-settlements?traffic_source=rss",
+   "published": "2026-09-03T06:35:18+00:00",
+   "summary": "Irish Foreign Minister Helen McEntee says the bloc &#039;should be moving collectively&#039; in upholding international law.",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "‘War crime’: Iran sends formal letter to UN over deadly US attack on wedding",
@@ -571,17 +593,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "Killing at Sea",
-   "url": "https://www.aljazeera.com/video/fault-lines/2026/9/2/killing-at-sea?traffic_source=rss",
-   "published": "2026-09-02T12:00:00+00:00",
-   "summary": "Three families, two bombings and a hidden war: uncovering the lives behind Operation Southern Spear&#039;s dead.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
    "source": "Trump · Truth Social",
    "title": "Christian leaders urge Trump to create legal pathway for Jewish Canadians facing antisemitism:",
    "url": "https://www.trumpstruth.org/statuses/41482",
@@ -614,15 +625,6 @@
    "url": "https://trumpstruth.org/statuses/41483",
    "published": "2026-09-02T11:58:57+00:00",
    "summary": "Cheaper drugs, cheaper beef, cheaper gas. Trump lines up fall affordability before Labor Day: https:// justthenews.com/government/whi te-house/cheaper-drugs-cheaper-beef-cheaper-gas-trump-lines-his-fall-affordability",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Beyond lowering drug prices, Trump ups national security by restoring America’s pharma supply chain:",
-   "url": "https://www.trumpstruth.org/statuses/41484",
-   "published": "2026-09-02T11:58:40+00:00",
-   "summary": "Beyond lowering drug prices, Trump ups national security by restoring America’s pharma supply chain: https:// justthenews.com/government/whi te-house/drug-announcements-larger-impact-beyond-lower-prices-securing-americas",
    "tags": [],
    "highlight": true
   }
