@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-03T19:49:37.279769+00:00",
+ "asOf": "2026-09-03T20:20:01.445533+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Qalibaf: Bessent on the brink as oil reserves fall and bond yields surge",
+   "url": "https://en.irna.ir/news/86254422/Qalibaf-Bessent-on-the-brink-as-oil-reserves-fall-and-bond-yields",
+   "published": "2026-09-03T20:08:29+00:00",
+   "summary": "Tehran, IRNA – Iranian Parliament Speaker Mohammad Bagher Ghalibaf has warned US Treasury Secretary Scott Bessent that rapidly declining strategic oil reserves, rising US Treasury yields and surging oil futures prices have placed him and the US President Donald Trump administration in a difficult position.",
+   "tags": [
+    "oil"
+   ],
+   "highlight": false
+  },
   {
    "source": "UN Press",
    "title": "First Verified Destruction of Syrian Chemical Munitions Since 2014 Marks ‘Significant Progress’, Disarmament Chief Tells Security Council",
@@ -613,15 +624,6 @@
     "strikes",
     "diplomacy"
    ],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "Presidential Message on National Childhood Cancer Awareness Month",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/09/presidential-message-on-national-childhood-cancer-awareness-month/",
-   "published": "2026-09-02T15:59:31+00:00",
-   "summary": "This National Childhood Cancer Awareness Month, my Administration stands with the countless children facing the devastating effects of cancer.&#160; We recognize the love, strength, and care of the families who walk beside them through every step of their journeys. &#160;Above all, we commit to advancing lifesaving innovation and accelerating cures, giving every child the chance [&#8230;] The post",
-   "tags": [],
    "highlight": false
   }
  ]
