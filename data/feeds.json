@@ -1,6 +1,29 @@
 {
- "asOf": "2026-09-03T20:50:12.462503+00:00",
+ "asOf": "2026-09-03T21:19:05.025986+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Envoy to Germany: Aggressors come and go; Iran remains",
+   "url": "https://en.irna.ir/news/86254416/Envoy-to-Germany-Aggressors-come-and-go-Iran-remains",
+   "published": "2026-09-03T20:53:40+00:00",
+   "summary": "London, IRNA – In a message marking the anniversary of the martyrdom of Rais-Ali Delvari, the Iranian ambassador to Germany emphasized that warmongers must learn from history that aggressors come and go, but Iran endures.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Ten injured in Ukraine as Kyiv expects talks with US envoys in coming days",
+   "url": "https://www.aljazeera.com/news/2026/9/3/ten-injured-in-ukraine-as-kyiv-expects-talks-with-us-envoys-in-coming-days?traffic_source=rss",
+   "published": "2026-09-03T20:44:49+00:00",
+   "summary": "Separately, one person killed and five injured after Ukrainian drone struck bus in Russian-controlled part of Horlivka.",
+   "tags": [
+    "strikes",
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Israel kills 3 in Gaza as far-right minister plans for Palestinian removals",
@@ -555,17 +578,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "Tiger Woods avoids jail time, takes plea deal over Florida crash",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/tiger-woods-avoids-jail-time-takes-plea-deal-over-florida-crash?traffic_source=rss",
-   "published": "2026-09-02T20:00:34+00:00",
-   "summary": "Golfing champion Tiger Woods has pleaded no contest at a Florida court for reckless driving after a rollover crash.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
    "source": "UN Press",
    "title": "Humanity Speeding Past 1.5°C Climate Limit, Secretary-General Warns, Urging Immediate Action, in Message on Launch of Environment Report",
    "url": "https://press.un.org/en/2026/sgsm23257.doc.htm",
@@ -612,18 +624,6 @@
    "published": "2026-09-02T18:52:17+00:00",
    "summary": "Desperate conditions prevail throughout the Occupied Palestinian Territory, the Committee on the Exercise of the Inalienable Rights of the Palestinian People heard today, as humanitarian actors detailed inadequate funding to address dire need as another winter threatens to make things even worse.",
    "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Israel conducts further attacks in Southern Lebanon despite framework agreement",
-   "url": "https://en.irna.ir/news/86253690/Israel-conducts-further-attacks-in-Southern-Lebanon-despite-framework",
-   "published": "2026-09-02T18:04:06+00:00",
-   "summary": "Tehran, IRNA – The Israeli occupation forces have carried out further attacks in southern Lebanon, according to Lebanese field sources, amid continued tensions despite a US-backed framework agreement between Beirut and Israel",
-   "tags": [
-    "strikes",
-    "diplomacy"
-   ],
    "highlight": false
   }
  ]
