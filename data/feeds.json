@@ -1,5 +1,5 @@
 {
- "asOf": "2026-09-03T18:26:36.292001+00:00",
+ "asOf": "2026-09-03T18:50:40.355211+00:00",
  "items": [
   {
    "source": "UN Press",
@@ -8,6 +8,17 @@
    "published": "2026-09-03T18:24:31+00:00",
    "summary": "The following statement was issued today by the Spokesman for UN Secretary-General António Guterres:",
    "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Israel releases Lebanese civilian, says five prisoners will be freed",
+   "url": "https://www.aljazeera.com/news/2026/9/3/israel-releases-lebanese-civilian-says-five-more-will-be-freed?traffic_source=rss",
+   "published": "2026-09-03T18:13:55+00:00",
+   "summary": "The prisoner, identified as Malek Ghazi, is the first Lebanese citizen held by Israel to be set free since talks began.",
+   "tags": [
+    "diplomacy"
+   ],
    "highlight": false
   },
   {
@@ -580,17 +591,6 @@
    "summary": "Signing ceremony as US to control a fifth of Venezuela’s oil reserves.",
    "tags": [
     "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Will the EU take action against Israel?",
-   "url": "https://www.aljazeera.com/video/inside-story/2026/9/2/will-the-eu-take-action-against-israel?traffic_source=rss",
-   "published": "2026-09-02T18:46:21+00:00",
-   "summary": "Surge in Israeli settler attacks against Palestinians",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   },
