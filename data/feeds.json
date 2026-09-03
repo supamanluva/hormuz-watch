@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-03T17:19:33.697952+00:00",
+ "asOf": "2026-09-03T17:50:20.381713+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Canada ready for a trade deal with US that benefits both, Carney says",
+   "url": "https://www.aljazeera.com/economy/2026/9/3/canada-ready-for-a-trade-deal-with-us-that-benefits-both-carney-says?traffic_source=rss",
+   "published": "2026-09-03T17:18:39+00:00",
+   "summary": "Carney says Canada is ready for a deal that benefits both Canadian and US businesses and workers.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Israeli bombing seen behind journalist reporting from Lebanese village",
@@ -571,17 +582,6 @@
    "summary": "Surge in Israeli settler attacks against Palestinians",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Israel kills or injures 7 children a day in Lebanon invasion, report says",
-   "url": "https://www.aljazeera.com/news/2026/9/2/israel-kills-or-injures-7-children-a-day-in-lebanon-invasion-report-says?traffic_source=rss",
-   "published": "2026-09-02T18:31:22+00:00",
-   "summary": "Save the Children data shows toll on children in Lebanon, despite government agreement with Israel to halt fighting.",
-   "tags": [
-    "diplomacy"
    ],
    "highlight": false
   },
