@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-03T07:49:59.128138+00:00",
+ "asOf": "2026-09-03T08:29:44.893911+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Iran Red Crescent urges ICC probe into deadly US strike on wedding party",
+   "url": "https://www.aljazeera.com/news/2026/9/3/iran-red-crescent-urges-icc-probe-into-deadly-us-strike-on-wedding-party?traffic_source=rss",
+   "published": "2026-09-03T07:41:45+00:00",
+   "summary": "Outrage grows over US strike that killed four people and wounded 67 at a wedding party in Kuhestak.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Yemen holds Red Sea drills for possible confrontation with Israel and US: Official",
@@ -578,17 +589,6 @@
    "summary": "Moscow, IRNA – The CEO of Russia’s state-owned nuclear corporation Rosatom says the recent meeting between President Vladimir Putin and his Iranian counterpart, Masoud Pezeshkian, on the sidelines of the Shanghai Cooperation Organization (SCO) summit in Bishkek included bilateral issues, including the two countries' cooperation in the nuclear field.",
    "tags": [
     "nuclear"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "What is Iran’s Castle Breaker missile, used against US bases?",
-   "url": "https://www.aljazeera.com/news/2026/9/2/what-is-irans-castle-breaker-missile-used-against-us-bases?traffic_source=rss",
-   "published": "2026-09-02T12:38:39+00:00",
-   "summary": "Kheibar Shekan, Iran&#039;s medium-range missile, is said to play a pivotal role in escalating US-Israel tensions.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   },
