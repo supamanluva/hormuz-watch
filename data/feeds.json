@@ -1,6 +1,28 @@
 {
- "asOf": "2026-09-03T09:49:51.010271+00:00",
+ "asOf": "2026-09-03T10:32:12.585628+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Wedding strike exposes US savagery: Expediency Council chief",
+   "url": "https://en.irna.ir/news/86254031/Wedding-strike-exposes-US-savagery-Expediency-Council-chief",
+   "published": "2026-09-03T10:16:21+00:00",
+   "summary": "Tehran, IRNA – Head of Iran’s Expediency Council Ayatollah Sadegh Amoli Larijani has condemned the US strike in Sirik, Hormozgan Province, calling the killing of women and children a war crime that exposes Washington’s hypocrisy on human rights.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "EU foreign ministers fail to break deadlock over Israel and Ukraine",
+   "url": "https://www.aljazeera.com/news/2026/9/3/eu-foreign-ministers-fail-to-break-deadlock-over-israel-and-ukraine?traffic_source=rss",
+   "published": "2026-09-03T09:34:09+00:00",
+   "summary": "EU officials met in Ireland but failed to agree on imposing trade sanctions on Israel or military support for Ukraine.",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Norway seizes Russian ship in Arctic over Crimea compensation claim",
@@ -587,17 +609,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "Tiger Woods pleads guilty to reckless driving, forfeits driving licence",
-   "url": "https://www.aljazeera.com/sports/2026/9/2/tiger-woods-pleads-guilty-to-reckless-driving-in-florida-car-crash?traffic_source=rss",
-   "published": "2026-09-02T13:44:00+00:00",
-   "summary": "Golfer&#039;s driving licence will be suspended for five years under the terms of a plea agreement that dropped DUI charges.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
    "source": "IRNA (Iran state wire)",
    "title": "Bombing Sirik wedding exposes true face of US war, FM spokesperson says",
    "url": "https://en.irna.ir/news/86253421/Bombing-Sirik-wedding-exposes-true-face-of-US-war-FM-spokesperson",
@@ -616,17 +627,6 @@
    "summary": "Tehran, IRNA – Hezbollah carries out a drone attack on an Israeli military patrol in the Ali al-Taher Heights in southern Lebanon, according to Lebanese media reports.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Putin, Pezeshkian discussed nuclear cooperation at Bishkek meeting: Rosatom chief",
-   "url": "https://en.irna.ir/news/86253371/Putin-Pezeshkian-discussed-nuclear-cooperation-at-Bishkek-meeting",
-   "published": "2026-09-02T12:44:17+00:00",
-   "summary": "Moscow, IRNA – The CEO of Russia’s state-owned nuclear corporation Rosatom says the recent meeting between President Vladimir Putin and his Iranian counterpart, Masoud Pezeshkian, on the sidelines of the Shanghai Cooperation Organization (SCO) summit in Bishkek included bilateral issues, including the two countries' cooperation in the nuclear field.",
-   "tags": [
-    "nuclear"
    ],
    "highlight": false
   }
