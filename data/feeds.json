@@ -1,5 +1,5 @@
 {
- "asOf": "2026-09-04T06:35:14.662386+00:00",
+ "asOf": "2026-09-04T06:57:36.661067+00:00",
  "items": [
   {
    "source": "IRNA (Iran state wire)",
@@ -9,6 +9,18 @@
    "summary": "Tehran, IRNA – The Israeli regime has intensified attacks across the Gaza Strip, with heavy gunfire, artillery shelling and airstrikes reported in Gaza City and central Gaza, according to the Palestinian media.",
    "tags": [
     "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Houthi attacks on Yemen’s Taiz escalate, triggering new displacement wave",
+   "url": "https://www.aljazeera.com/news/2026/9/4/houthi-attacks-on-yemens-taiz-escalate-triggering-new-displacement-wave?traffic_source=rss",
+   "published": "2026-09-04T06:22:44+00:00",
+   "summary": "Government-Houthi clashes in Taiz intensify, displacing thousands and threatening vital roadways to the Red Sea coast.",
+   "tags": [
+    "strikes",
+    "shipping"
    ],
    "highlight": false
   },
@@ -605,18 +617,6 @@
    "summary": "Asian economies are racing to build up storage capacity to reduce their exposure to conflict in the Middle East.",
    "tags": [
     "shipping",
-    "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "US’s Chevron, Italy’s Eni to expand oil projects in Venezuela",
-   "url": "https://www.aljazeera.com/news/2026/9/3/uss-chevron-italys-eni-to-expand-oil-projects-in-venezuela?traffic_source=rss",
-   "published": "2026-09-03T04:19:11+00:00",
-   "summary": "Energy firms sign deals in Caracas, days after Venezuela agreed to grant the US control of a fifth of its oil reserves.",
-   "tags": [
-    "diplomacy",
     "oil"
    ],
    "highlight": false
