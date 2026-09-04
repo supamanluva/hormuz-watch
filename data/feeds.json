@@ -1,5 +1,5 @@
 {
- "asOf": "2026-09-04T06:57:36.661067+00:00",
+ "asOf": "2026-09-04T07:23:48.020666+00:00",
  "items": [
   {
    "source": "IRNA (Iran state wire)",
@@ -7,6 +7,17 @@
    "url": "https://en.irna.ir/news/86254511/Israeli-regime-intensifies-attacks-across-Gaza-Strip",
    "published": "2026-09-04T06:27:46+00:00",
    "summary": "Tehran, IRNA – The Israeli regime has intensified attacks across the Gaza Strip, with heavy gunfire, artillery shelling and airstrikes reported in Gaza City and central Gaza, according to the Palestinian media.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "In southern Lebanon, Israeli demolitions continue ‘day and night’",
+   "url": "https://www.aljazeera.com/features/2026/9/4/in-southern-lebanon-israeli-demolitions-continue-day-and-night?traffic_source=rss",
+   "published": "2026-09-04T06:24:55+00:00",
+   "summary": "Explosions shake the ground in Froun as Israeli operations persist, disrupting daily life in southern Lebanon.",
    "tags": [
     "strikes"
    ],
@@ -606,18 +617,6 @@
    "summary": "New York, IRNA – Iran’s ambassador and deputy permanent representative to the United Nations, Gholamhossein Darzi, has strongly condemned a deadly US strike on a home in Hormozgan during a wedding, calling it a war crime.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Asia looks to store oil, gas closer to home after Strait of Hormuz crisis",
-   "url": "https://www.aljazeera.com/economy/2026/9/3/asia-looks-to-store-oil-gas-closer-to-home-after-strait-of-hormuz-crisis?traffic_source=rss",
-   "published": "2026-09-03T04:26:27+00:00",
-   "summary": "Asian economies are racing to build up storage capacity to reduce their exposure to conflict in the Middle East.",
-   "tags": [
-    "shipping",
-    "oil"
    ],
    "highlight": false
   },
