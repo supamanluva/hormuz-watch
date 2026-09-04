@@ -1,6 +1,28 @@
 {
- "asOf": "2026-09-04T13:21:06.543811+00:00",
+ "asOf": "2026-09-04T13:50:06.494175+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "‘Things happen’: How Vance’s comment on Iran wedding strike fits US pattern",
+   "url": "https://www.aljazeera.com/news/2026/9/4/things-happen-how-vances-comment-on-iran-wedding-strike-fits-us-pattern?traffic_source=rss",
+   "published": "2026-09-04T13:15:36+00:00",
+   "summary": "From My Lai to civilian killings in Afghanistan, Iraq, the US has often denied role before later quietly acknowledging.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "At least 100 killed as Yemen’s Houthis push towards key strait",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/at-least-100-killed-as-yemens-houthis-push-towards-key-strait?traffic_source=rss",
+   "published": "2026-09-04T13:13:14+00:00",
+   "summary": "Fighting has intensified between Iran-backed Houthi rebels and Yemeni government forces since Thursday.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "US envoys headed to Russia and Ukraine to relaunch mediation",
@@ -591,29 +613,6 @@
    "summary": "Explosions and gunfire rock Baidoa as armed groups strike during South West State&#039;s political tensions.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "IRGC commander condemns US ‘terror attack’ on wedding ceremony",
-   "url": "https://en.irna.ir/news/86254205/IRGC-commander-condemns-US-terror-attack-on-wedding-ceremony",
-   "published": "2026-09-03T13:19:04+00:00",
-   "summary": "Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) Commander-in-Chief Major General Ahmad Vahidi has condemned the US attack on a wedding in Kuhestak as a terrorist act, saying it reflects the enemies’ hostility and inability to break the Iranian people’s resolve.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Kenya’s aviation strike is over, but the dispute is far from settled",
-   "url": "https://www.aljazeera.com/news/2026/9/3/kenyas-aviation-strike-is-over-but-the-dispute-is-far-from-settled?traffic_source=rss",
-   "published": "2026-09-03T11:55:28+00:00",
-   "summary": "Years of wrangling over pay, union recognition and collective bargaining are now back on the negotiating table.",
-   "tags": [
-    "strikes",
-    "diplomacy"
    ],
    "highlight": false
   }
