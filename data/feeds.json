@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-04T11:50:06.669179+00:00",
+ "asOf": "2026-09-04T12:31:39.484115+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "South Korea mulls ‘contributions’ in Strait of Hormuz",
+   "url": "https://www.aljazeera.com/news/2026/9/4/south-korea-mulls-contributions-in-strait-of-hormuz?traffic_source=rss",
+   "published": "2026-09-04T12:10:51+00:00",
+   "summary": "Seoul heavily affected by closure of strategic waterway and under heavy US pressure for participation against Iran.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Argentina’s Milei threatens sanctions as he refocuses on Falklands",
@@ -602,17 +613,6 @@
    "published": "2026-09-03T11:31:17+00:00",
    "summary": "Sec. Lutnick had Venezuela on his mind when he said nobody was killed. 18 people were killed in Iran!",
    "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "This is GREAT! President DONALD J. TRUMPSyria is pitching itself as an alternative to the Strait of Hormuz:",
-   "url": "https://trumpstruth.org/statuses/41492",
-   "published": "2026-09-03T11:18:27+00:00",
-   "summary": "This is GREAT! President DONALD J. TRUMP Syria is pitching itself as an alternative to the Strait of Hormuz: https://www. washingtonpost.com/world/2026/ 09/02/syria-eyeing-role-middle-east-hub-offers-options-bypass-hormuz/",
-   "tags": [
-    "shipping"
-   ],
    "highlight": true
   }
  ]
