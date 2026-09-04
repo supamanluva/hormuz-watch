@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-04T12:54:20.165699+00:00",
+ "asOf": "2026-09-04T13:21:06.543811+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "US envoys headed to Russia and Ukraine to relaunch mediation",
+   "url": "https://www.aljazeera.com/news/2026/9/4/us-envoys-headed-to-russia-and-ukraine-to-relaunch-mediation?traffic_source=rss",
+   "published": "2026-09-04T12:51:57+00:00",
+   "summary": "The return of Washington&#039;s negotiators raises hope of progress towards a settlement to end Moscow&#039;s war on Ukraine.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "South Korea mulls ‘contributions’ in Strait of Hormuz",
@@ -605,15 +616,6 @@
     "diplomacy"
    ],
    "highlight": false
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Sec. Lutnick had Venezuela on his mind when he said nobody was killed. 18 people were killed in Iran!",
-   "url": "https://trumpstruth.org/statuses/41493",
-   "published": "2026-09-03T11:31:17+00:00",
-   "summary": "Sec. Lutnick had Venezuela on his mind when he said nobody was killed. 18 people were killed in Iran!",
-   "tags": [],
-   "highlight": true
   }
  ]
 }
