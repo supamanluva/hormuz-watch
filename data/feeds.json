@@ -1,6 +1,18 @@
 {
- "asOf": "2026-09-04T01:44:58.295543+00:00",
+ "asOf": "2026-09-04T02:29:20.543159+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "US continues to squeeze Cuban economy with new round of sanctions",
+   "url": "https://www.aljazeera.com/news/2026/9/4/us-continues-to-squeeze-cuban-economy-with-new-round-of-sanctions?traffic_source=rss",
+   "published": "2026-09-04T01:45:56+00:00",
+   "summary": "Cuba announces new pro-market reforms amid threats of military attack from the Trump administration.",
+   "tags": [
+    "strikes",
+    "sanctions"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Baqaei: Iran's defensive strikes were merely against military targets",
@@ -614,17 +626,6 @@
    "published": "2026-09-03T00:02:19+00:00",
    "summary": "On Wednesday, September 2, 2026, the President signed into law: H.R. 6500, the &#8220;Continuing Appropriations and Extensions Act, 2027,&#8221; which includes a short-term continuing resolution that provides fiscal year 2027 appropriations to Federal agencies through December 11, 2026, for continuing projects and activities of the Federal Government, and extends authorities for a broad range of [",
    "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iran war live: 105 children and women wounded in latest US attacks",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/9/3/iran-war-live-trump-says-renewed-us-iran-clashes-will-not-last-too?traffic_source=rss",
-   "published": "2026-09-03T00:00:00+00:00",
-   "summary": "Sixty-one of the injured were women and 44 victims were under the age of 18, Health Ministry says.",
-   "tags": [
-    "strikes"
-   ],
    "highlight": false
   }
  ]
