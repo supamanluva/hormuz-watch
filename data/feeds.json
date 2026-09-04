@@ -1,6 +1,41 @@
 {
- "asOf": "2026-09-04T19:49:38.958781+00:00",
+ "asOf": "2026-09-04T20:20:22.974365+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Israeli drones drop bombs on southern Lebanon’s Mansouri",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/04-09-sv-israel-drone-bombs-mansouri-lb-fm?traffic_source=rss",
+   "published": "2026-09-04T20:04:13+00:00",
+   "summary": "Several explosions rocked the southern Lebanese town of Mansouri after Israeli military drones dropped explosives in the",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Israeli strike kills two in southern Lebanon amid ongoing escalation",
+   "url": "https://www.aljazeera.com/news/2026/9/4/israeli-strike-kills-two-in-southern-lebanon-amid-ongoing-escalation?traffic_source=rss",
+   "published": "2026-09-04T19:48:25+00:00",
+   "summary": "Israeli attacks against villages and towns in southern Lebanon continue despite truce agreements and diplomacy.",
+   "tags": [
+    "strikes",
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "UN Press",
+   "title": "Security Council ISIL (Da’esh) and Al-Qaida Sanctions Committee Amends Two Entries on Its Sanctions List",
+   "url": "https://press.un.org/en/2026/sc16446.doc.htm",
+   "published": "2026-09-04T19:46:38+00:00",
+   "summary": "On 4 September 2026, the Security Council Committee pursuant to resolutions 1267 (1999), 1989 (2011) and 2253 (2015) concerning ISIL (Da’esh), Al‑Qaida and associated individuals, groups, undertakings and entities enacted the amendments specified with strikethrough and underline in the entries below on its ISIL (Da’esh) and Al-Qaida Sanctions List of individuals and entities subject to the assets ",
+   "tags": [
+    "strikes",
+    "sanctions"
+   ],
+   "highlight": false
+  },
   {
    "source": "White House",
    "title": "Supporting America’s Ranchers",
@@ -566,36 +601,6 @@
    "summary": "I am pleased to announce that Adam Telle, the current Assistant Secretary of the Army for Civil Works, will become Acting Secretary of the Army, effective immediately. He is a Great Patriot, who is respected by all. Thank you for your attention to this matter! President DONALD J. TRUMP",
    "tags": [],
    "highlight": true
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Why are people calling Venezuela oil deal a new form of US colonialism?",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/aje-onl-nf_us-venezuela-oil-deal_colonialism-030926?traffic_source=rss",
-   "published": "2026-09-03T22:08:33+00:00",
-   "summary": "Critics call the US multi-billion-dollar oil deal in Venezuela modern-day colonialism.",
-   "tags": [
-    "diplomacy",
-    "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "UN80 Moving from ‘Diagnosis to Design’ and Implementation, Secretary-General Tells General Assembly",
-   "url": "https://press.un.org/en/2026/sgsm23260.doc.htm",
-   "published": "2026-09-03T22:01:45+00:00",
-   "summary": "Following are UN Secretary-General António Guterres’ remarks to the General Assembly on the UN80 Initiative, in New York today:",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "General Assembly Establishes UN Institute for Capability and Learning Innovation, Surmounting Concerns over ‘Rushed’ Process",
-   "url": "https://press.un.org/en/2026/ga12778.doc.htm",
-   "published": "2026-09-03T20:54:43+00:00",
-   "summary": "Despite concerns from several delegations that the process was rushed, the General Assembly decided this morning to merge the United Nations System Staff College (UNSSC) with the United Nations Institute for Training and Research (UNITAR).",
-   "tags": [],
-   "highlight": false
   }
  ]
 }
