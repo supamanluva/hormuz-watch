@@ -1,6 +1,18 @@
 {
- "asOf": "2026-09-04T04:49:52.063482+00:00",
+ "asOf": "2026-09-04T05:21:14.350562+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Argentina’s Milei threatens sanctions over Falklands oil drilling",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/argentinas-milei-threatens-sanctions-over-falklands-oil-drilling?traffic_source=rss",
+   "published": "2026-09-04T04:45:21+00:00",
+   "summary": "Argentina’s President Javier Milei has threatened sanctions against oil companies operating off the Falklands.",
+   "tags": [
+    "sanctions",
+    "oil"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Arsenal sell Martinelli to Al-Hilal in post-transfer deadline day deal",
@@ -613,15 +625,6 @@
    "url": "https://www.trumpstruth.org/statuses/41490",
    "published": "2026-09-03T03:18:19+00:00",
    "summary": "",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Miranda Devine: AG Letitia James turns evil eye on Trump — and blind eye to NY crime:",
-   "url": "https://trumpstruth.org/statuses/41488",
-   "published": "2026-09-03T02:21:11+00:00",
-   "summary": "Miranda Devine: AG Letitia James turns evil eye on Trump — and blind eye to NY crime: https:// nypost.com/2026/08/30/opinion/ miranda-devine-ag-letitia-james-evil-eye-on-trump-and-blind-eye-to-ny-crime/",
    "tags": [],
    "highlight": true
   }
