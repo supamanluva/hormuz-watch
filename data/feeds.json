@@ -1,6 +1,37 @@
 {
- "asOf": "2026-09-04T15:31:28.348021+00:00",
+ "asOf": "2026-09-04T16:32:11.981901+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Russian drone strikes Ukraine’s security service headquarters",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/09-04-russia-targets-ukraine-security-hq-clip-mp4?traffic_source=rss",
+   "published": "2026-09-04T16:03:41+00:00",
+   "summary": "A Russian drone has struck Ukraine’s domestic intelligence headquarters in central Kyiv, injuring five people.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Russia’s jet-powered drones overwhelm Ukraine, killing dozens",
+   "url": "https://www.aljazeera.com/news/2026/9/4/russias-jet-powered-drones-overwhelm-ukraine-killing-dozens?traffic_source=rss",
+   "published": "2026-09-04T15:44:14+00:00",
+   "summary": "As Ukrainian civilians suffer from air attacks, Russian ground forces struggle to advance.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "White House",
+   "title": "Made in America: Manufacturing, Private Hiring Power Explosive August Jobs Report",
+   "url": "https://www.whitehouse.gov/releases/2026/09/made-in-america-manufacturing-private-hiring-power-explosive-august-jobs-report/",
+   "published": "2026-09-04T15:25:08+00:00",
+   "summary": "“America added 162,000 jobs in August — triple economists’ expectations. The private sector has now created over one million jobs under President Trump, whose reindustrialization agenda continues to drive manufacturing and factory construction job growth. America is in the middle of a historic investment boom, and the August jobs report is the latest data point [&#8230;] The post Made in America: ",
+   "tags": [],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Israel releases five detainees to Lebanon after US-mediated negotiations",
@@ -77,8 +108,9 @@
    "title": "US envoys headed to Russia and Ukraine to relaunch mediation",
    "url": "https://www.aljazeera.com/news/2026/9/4/us-envoys-headed-to-russia-and-ukraine-to-relaunch-mediation?traffic_source=rss",
    "published": "2026-09-04T12:51:57+00:00",
-   "summary": "The return of Washington&#039;s negotiators raises hope of progress towards a settlement to end Moscow&#039;s war on Ukraine.",
+   "summary": "Amid hopes for diplomacy, a Russian strike hits the headquarters of Ukraine&#039;s SBU security service in Kyiv.",
    "tags": [
+    "strikes",
     "diplomacy"
    ],
    "highlight": false
@@ -588,33 +620,6 @@
     "shipping"
    ],
    "highlight": false
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "It is very good for Canadian Politicians like Prime Minister Carney to make President Donald J. Trump “the enemy,” until their Economy collapses, then it will prove to be very bad for Politics — Worse than anything that has ever happened to a Canadian Politician. Just watch! President DONALD J. TRUMP",
-   "url": "https://trumpstruth.org/statuses/41496",
-   "published": "2026-09-03T15:14:24+00:00",
-   "summary": "It is very good for Canadian Politicians like Prime Minister Carney to make President Donald J. Trump “the enemy,” until their Economy collapses, then it will prove to be very bad for Politics — Worse than anything that has ever happened to a Canadian Politician. Just watch! President DONALD J. TRUMP",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "It is very good for Canadian Politicians like Prime Minister Carney to make President Donald J. Trump “the enemy,” until their Economy collapses, then it will prove to be very bad for Politics — Worse than anything that has ever happened to a Canadian Politician. Just watch! President DONALD J. TRUMP",
-   "url": "https://www.trumpstruth.org/statuses/41496",
-   "published": "2026-09-03T15:14:24+00:00",
-   "summary": "It is very good for Canadian Politicians like Prime Minister Carney to make President Donald J. Trump “the enemy,” until their Economy collapses, then it will prove to be very bad for Politics — Worse than anything that has ever happened to a Canadian Politician. Just watch! President DONALD J. TRUMP",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "For the treasonous SCUM that refuses to accurately report on our Military Operation in Iran, we have virtually unlimited amounts of Mid to High Grade Ammunition, far more than we could ever use for this, or for any other War (which is highly unlikely!), that could improbably take place. In addition, we are producing Munitions at levels never seen before. We are stockpiling and preparing for any contingency that could happen. We are taking them for ourselves, the U.S.A., rather than selling them to others, but the sales to Allies will soon again, begin. Also, please let it be known, that the Biden Administration gave far more Munitions away to Ukraine, at no cost to them, whatsoever, than we have used in Iran. Hundreds of Billions of Dollars was given to Ukraine and NATO, free of charge, that Europe would have paid for — If they were only asked, but we will be asking for that money, though somewhat belatedly! Thank you for your attention to this matter. President DONALD J. TRUMP",
-   "url": "https://trumpstruth.org/statuses/41494",
-   "published": "2026-09-03T14:56:21+00:00",
-   "summary": "For the treasonous SCUM that refuses to accurately report on our Military Operation in Iran, we have virtually unlimited amounts of Mid to High Grade Ammunition, far more than we could ever use for this, or for any other War (which is highly unlikely!), that could improbably take place. In addition, we are producing Munitions at levels never seen before. We are stockpiling and preparing for any co",
-   "tags": [],
-   "highlight": true
   }
  ]
 }
