@@ -1,5 +1,5 @@
 {
- "asOf": "2026-09-04T10:31:27.639942+00:00",
+ "asOf": "2026-09-04T10:50:00.873091+00:00",
  "items": [
   {
    "source": "IRNA (Iran state wire)",
@@ -211,6 +211,24 @@
    "highlight": false
   },
   {
+   "source": "UN Press",
+   "title": "UN80 Moving from ‘Diagnosis to Design’ and Implementation, Secretary-General Tells General Assembly",
+   "url": "https://press.un.org/en/2026/sgsm23260.doc.htm",
+   "published": "2026-09-03T22:01:45+00:00",
+   "summary": "Following are UN Secretary-General António Guterres’ remarks to the General Assembly on the UN80 Initiative, in New York today:",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "UN Press",
+   "title": "General Assembly Establishes UN Institute for Capability and Learning Innovation, Surmounting Concerns over ‘Rushed’ Process",
+   "url": "https://press.un.org/en/2026/ga12778.doc.htm",
+   "published": "2026-09-03T20:54:43+00:00",
+   "summary": "Despite concerns from several delegations that the process was rushed, the General Assembly decided this morning to merge the United Nations System Staff College (UNSSC) with the United Nations Institute for Training and Research (UNITAR).",
+   "tags": [],
+   "highlight": false
+  },
+  {
    "source": "IRNA (Iran state wire)",
    "title": "Envoy to Germany: Aggressors come and go; Iran remains",
    "url": "https://en.irna.ir/news/86254416/Envoy-to-Germany-Aggressors-come-and-go-Iran-remains",
@@ -270,6 +288,15 @@
   },
   {
    "source": "UN Press",
+   "title": "General Assembly Sets Modalities for 2028 UN Water Conference, Adopts Text on Assistive Technologies",
+   "url": "https://press.un.org/en/2026/ga12777.doc.htm",
+   "published": "2026-09-03T19:53:59+00:00",
+   "summary": "The General Assembly took stock of the activities of the United Nations Youth Office today, including the implementation of its 2025–2028 strategic plan, with delegates using the opportunity to discuss youth participation in multilateral processes, their economic inclusion and their access to education and skills.",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "UN Press",
    "title": "First Verified Destruction of Syrian Chemical Munitions Since 2014 Marks ‘Significant Progress’, Disarmament Chief Tells Security Council",
    "url": "https://press.un.org/en/2026/sc16445.doc.htm",
    "published": "2026-09-03T19:11:06+00:00",
@@ -286,6 +313,15 @@
    "tags": [
     "shipping"
    ],
+   "highlight": false
+  },
+  {
+   "source": "UN Press",
+   "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General",
+   "url": "https://press.un.org/en/2026/db260903.doc.htm",
+   "published": "2026-09-03T18:29:27+00:00",
+   "summary": "A new World Meteorological Organization (WMO) report that shows that the El Niño phenomenon is firmly established and will intensify into a very strong event in the coming months. WMO noted that this will have big impacts on rainfall and temperature patterns, associated risks of floods, drought and extreme heat.",
+   "tags": [],
    "highlight": false
   },
   {
@@ -582,50 +618,6 @@
    "url": "https://en.irna.ir/news/86253963/US-leaders-must-answer-for-war-crimes-IRGC-says-after-wedding",
    "published": "2026-09-03T09:07:47+00:00",
    "summary": "Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) says that Washington must be held to account for a war crime committed by US terrorist forces in Hormozgan Province, after an airstrike targeted a wedding ceremony.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iran Red Crescent urges ICC probe into deadly US strike on wedding party",
-   "url": "https://www.aljazeera.com/news/2026/9/3/iran-red-crescent-urges-icc-probe-into-deadly-us-strike-on-wedding-party?traffic_source=rss",
-   "published": "2026-09-03T07:41:45+00:00",
-   "summary": "Outrage grows over US strike that killed four people and wounded 67 at a wedding party in Kuhestak.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Yemen holds Red Sea drills for possible confrontation with Israel and US: Official",
-   "url": "https://en.irna.ir/news/86253863/Yemen-holds-Red-Sea-drills-for-possible-confrontation-with-Israel",
-   "published": "2026-09-03T06:45:11+00:00",
-   "summary": "Tehran, IRNA – A senior Yemeni official says Yemen’s armed forces are conducting new military drills in the Red Sea to prepare for a possible confrontation with Israel and the United States.",
-   "tags": [
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "EU remains divided over trade sanctions on illegal Israeli settlements",
-   "url": "https://www.aljazeera.com/news/2026/9/3/eu-remains-divided-over-trade-sanctions-on-illegal-israeli-settlements?traffic_source=rss",
-   "published": "2026-09-03T06:35:18+00:00",
-   "summary": "Irish Foreign Minister Helen McEntee says the bloc &#039;should be moving collectively&#039; in upholding international law.",
-   "tags": [
-    "sanctions"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "‘War crime’: Iran sends formal letter to UN over deadly US attack on wedding",
-   "url": "https://en.irna.ir/news/86253837/War-crime-Iran-sends-formal-letter-to-UN-over-deadly-US-attack",
-   "published": "2026-09-03T05:56:54+00:00",
-   "summary": "New York, IRNA – Iran’s ambassador and deputy permanent representative to the United Nations, Gholamhossein Darzi, has strongly condemned a deadly US strike on a home in Hormozgan during a wedding, calling it a war crime.",
    "tags": [
     "strikes"
    ],
