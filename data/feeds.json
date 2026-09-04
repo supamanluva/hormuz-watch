@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-04T16:32:11.981901+00:00",
+ "asOf": "2026-09-04T16:49:30.269993+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "October 7 attack shapes Israel’s elections and fuels political blame",
+   "url": "https://www.aljazeera.com/news/2026/9/4/october-7-attack-shapes-israels-elections-and-fuels-political-blame?traffic_source=rss",
+   "published": "2026-09-04T16:20:35+00:00",
+   "summary": "Three years on, October 7 is central to Israeli politics as Netanyahu faces pressure and deflects blame for his failures",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Russian drone strikes Ukraine’s security service headquarters",
@@ -607,17 +618,6 @@
    "summary": "Tehran, IRNA — Foreign Ministry spokesperson Esmaeil Baqaei has condemned the Niamey attacks, reaffirming Iran’s support for Niger’s sovereignty and stability.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Panama Canal restricts traffic amid Hormuz crisis: Why this matters",
-   "url": "https://www.aljazeera.com/news/2026/9/3/panama-canal-restricts-traffic-amid-hormuz-crisis-why-this-matters?traffic_source=rss",
-   "published": "2026-09-03T15:35:57+00:00",
-   "summary": "Limits on the number of vessels in the canal could create shipping delays and increase freight costs.",
-   "tags": [
-    "shipping"
    ],
    "highlight": false
   }
