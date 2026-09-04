@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-04T05:49:40.637360+00:00",
+ "asOf": "2026-09-04T06:35:14.662386+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Israeli regime intensifies attacks across Gaza Strip",
+   "url": "https://en.irna.ir/news/86254511/Israeli-regime-intensifies-attacks-across-Gaza-Strip",
+   "published": "2026-09-04T06:27:46+00:00",
+   "summary": "Tehran, IRNA – The Israeli regime has intensified attacks across the Gaza Strip, with heavy gunfire, artillery shelling and airstrikes reported in Gaza City and central Gaza, according to the Palestinian media.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Argentina’s Milei threatens sanctions over Falklands oil drilling",
@@ -614,15 +625,6 @@
    "source": "Trump · Truth Social",
    "title": "[No Title] - Post from September 3, 2026",
    "url": "https://trumpstruth.org/statuses/41490",
-   "published": "2026-09-03T03:18:19+00:00",
-   "summary": "",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from September 3, 2026",
-   "url": "https://www.trumpstruth.org/statuses/41490",
    "published": "2026-09-03T03:18:19+00:00",
    "summary": "",
    "tags": [],
