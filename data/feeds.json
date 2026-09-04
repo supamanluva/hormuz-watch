@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-04T09:34:06.902871+00:00",
+ "asOf": "2026-09-04T10:31:27.639942+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran demonstrated strategic resilience despite US attacks, says Judiciary chief",
+   "url": "https://en.irna.ir/news/86254637/Iran-demonstrated-strategic-resilience-despite-US-attacks-says",
+   "published": "2026-09-04T09:44:33+00:00",
+   "summary": "Tehran, IRNA – Judiciary Chief Gholam-Hossein Mohseni-Ejei says that Iran has faced illegal attacks by the United States during the current year but has demonstrated its strategic resilience and stability through the strong presence of its people and their comprehensive support for the country and its officials.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Israeli regime intensifies attacks across Gaza Strip",
@@ -619,15 +630,6 @@
     "strikes"
    ],
    "highlight": false
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from September 3, 2026",
-   "url": "https://trumpstruth.org/statuses/41490",
-   "published": "2026-09-03T03:18:19+00:00",
-   "summary": "",
-   "tags": [],
-   "highlight": true
   }
  ]
 }
