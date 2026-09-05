@@ -1,6 +1,30 @@
 {
- "asOf": "2026-09-05T19:29:04.162105+00:00",
+ "asOf": "2026-09-05T19:49:33.058582+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran condemns US attacks on oil tankers as violation of international law",
+   "url": "https://en.irna.ir/news/86255891/Iran-condemns-US-attacks-on-oil-tankers-as-violation-of-international",
+   "published": "2026-09-05T19:34:24+00:00",
+   "summary": "Tehran, IRNA – The Iranian Foreign Ministry has issued a strong condemnation of the attacks by the US on its commercial shipping fleet, saying they represent a clear violation of international law.",
+   "tags": [
+    "strikes",
+    "shipping",
+    "oil"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Cuban and Afghan immigrants deported from US under Trump arrive in Guyana",
+   "url": "https://www.aljazeera.com/news/2026/9/5/cuban-and-afghan-immigrants-deported-from-us-under-trump-arrive-in-guyana?traffic_source=rss",
+   "published": "2026-09-05T19:19:52+00:00",
+   "summary": "The Trump administration has sought to expand third-country deportations, with more than 30 deals struck so far.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Iran warns US of more severe blows to warships if aggression continues",
@@ -595,24 +619,6 @@
    "url": "https://www.whitehouse.gov/presidential-actions/2026/09/promoting-fair-competition-in-livestock-markets-and-expanding-market-access-for-american-meat-producers/",
    "published": "2026-09-04T19:23:49+00:00",
    "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered: Section 1. Purpose. American ranchers want to be able to butcher, process, package, and sell their meat to consumers across State lines while maintaining the highest standards of food safety and avoid [&#8230;] The post Promoting Fair Competition In Livestock Markets A",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "Fact Sheet: President Donald J. Trump Supports America’s Ranchers",
-   "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-supports-americas-ranchers/",
-   "published": "2026-09-04T19:15:35+00:00",
-   "summary": "DEFENDING AND STRENGTHENING OUR NATION’S VITAL RANCHING INDUSTRY:&#160;Today, President Donald J. Trump signed an Executive Order launching a whole-of-government effort to protect and fully support America’s ranchers. EQUIPPING RANCHERS IN MODERN CHALLENGES:&#160;President Trump is honoring our hardworking ranchers who feed our Nation by taking decisive action to give them the tools they need to t",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "Fact Sheet: President Donald J. Trump Promotes Fair Competition in Livestock Markets and Expands Market Access for American Meat Producers",
-   "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-promotes-fair-competition-in-livestock-markets-and-expands-market-access-for-american-meat-producers/",
-   "published": "2026-09-04T19:15:33+00:00",
-   "summary": "ADVANCING COMPETITION AND ACCOUNTABILITY:&#160;Today, President Donald J. Trump signed an Executive Order to support American producers’ ability to butcher, process, package, and sell their meat to consumers across state lines while maintaining the highest standards of food safety while avoiding being overcharged by monopolistic practices in the meat processing industry.&#160; EXPANDING MARKET ACC",
    "tags": [],
    "highlight": false
   }
