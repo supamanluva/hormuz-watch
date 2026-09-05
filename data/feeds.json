@@ -1,6 +1,54 @@
 {
- "asOf": "2026-09-05T09:29:47.860315+00:00",
+ "asOf": "2026-09-05T10:49:31.513035+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iranian, Indian judicial officials discuss cooperation on BRICS summit sidelines",
+   "url": "https://en.irna.ir/news/86255496/Iranian-Indian-judicial-officials-discuss-cooperation-on-BRICS",
+   "published": "2026-09-05T10:30:21+00:00",
+   "summary": "Tehran, IRNA – Iranian and Indian judicial officials have held discussions on expanding bilateral and multilateral legal cooperation on the sidelines of a BRICS meeting of chief justices and senior judicial officials in New Delhi, with stronger judicial ties, arbitration and mediation emerging as key areas of focus.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Why is Trump threatening to strike Iran’s Pickaxe Mountain again, now?",
+   "url": "https://www.aljazeera.com/news/2026/9/5/why-is-trump-threatening-to-strike-irans-pickaxe-mountain-again-now?traffic_source=rss",
+   "published": "2026-09-05T09:56:53+00:00",
+   "summary": "As oil tanker struck off Kharg island, Trump threatens one of the remaining parts of Iran’s nuclear complex.",
+   "tags": [
+    "strikes",
+    "nuclear",
+    "shipping",
+    "oil"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Nuclear threat narrative has been proven false: Iran VP Aref",
+   "url": "https://en.irna.ir/news/86255348/Nuclear-threat-narrative-has-been-proven-false-Iran-VP-Aref",
+   "published": "2026-09-05T09:55:02+00:00",
+   "summary": "Tehran, IRNA – Iran’s Vice President Mohammad Reza Aref says that the world has realized that the alleged nuclear threat used against Iran was nothing but a false narrative, stressing that the Islamic Republic remains committed to using advanced technologies to serve national and regional needs.",
+   "tags": [
+    "nuclear"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Oil and politics: What Trump’s ‘historic’ deal means for Venezuela",
+   "url": "https://www.aljazeera.com/features/2026/9/5/oil-and-politics-what-trumps-historic-deal-means-for?traffic_source=rss",
+   "published": "2026-09-05T09:11:58+00:00",
+   "summary": "Venezuelans are hoping for free and fair elections, but the US may prioritise oil production.",
+   "tags": [
+    "diplomacy",
+    "oil"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Sirik wedding attack echoes tragedy of Minab schoolchildren: Iran",
@@ -554,49 +602,6 @@
     "shipping"
    ],
    "highlight": false
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "How Trump can help Ukraine build its own Patriot missiles:",
-   "url": "https://trumpstruth.org/statuses/41506",
-   "published": "2026-09-04T13:08:08+00:00",
-   "summary": "How Trump can help Ukraine build its own Patriot missiles: https://www. washingtonpost.com/opinions/20 26/09/03/let-ukraine-make-patriot-missiles-block-russian-air-attacks/",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": true
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "US envoys headed to Russia and Ukraine to relaunch mediation",
-   "url": "https://www.aljazeera.com/news/2026/9/4/us-envoys-headed-to-russia-and-ukraine-to-relaunch-mediation?traffic_source=rss",
-   "published": "2026-09-04T12:51:57+00:00",
-   "summary": "Amid hopes for diplomacy, a Russian strike hits the headquarters of Ukraine&#039;s SBU security service in Kyiv.",
-   "tags": [
-    "strikes",
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "South Korea mulls ‘contributions’ in Strait of Hormuz",
-   "url": "https://www.aljazeera.com/news/2026/9/4/south-korea-mulls-contributions-in-strait-of-hormuz?traffic_source=rss",
-   "published": "2026-09-04T12:10:51+00:00",
-   "summary": "Seoul heavily affected by closure of strategic waterway and under heavy US pressure for participation against Iran.",
-   "tags": [
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from September 4, 2026",
-   "url": "https://trumpstruth.org/statuses/41505",
-   "published": "2026-09-04T11:05:36+00:00",
-   "summary": "",
-   "tags": [],
-   "highlight": true
   }
  ]
 }
