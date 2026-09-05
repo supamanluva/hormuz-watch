@@ -1,6 +1,18 @@
 {
- "asOf": "2026-09-05T18:21:51.485445+00:00",
+ "asOf": "2026-09-05T18:49:31.542201+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Russia’s Putin meets US envoys to discuss Trump proposal to end Ukraine war",
+   "url": "https://www.aljazeera.com/news/2026/9/5/russias-putin-meets-us-envoys-to-discuss-trump-proposal-to-end-ukraine-war?traffic_source=rss",
+   "published": "2026-09-05T18:12:52+00:00",
+   "summary": "Both Russia and Ukraine vow not to strike each other&#039;s capitals for three days during talks in Moscow and Kyiv.",
+   "tags": [
+    "strikes",
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Gaza death toll rises to 73,651, health ministry says",
@@ -601,17 +613,6 @@
    "summary": "Germany, Austria, ⁠Greece, Denmark and the Netherlands did not outline where the centres would be located.",
    "tags": [
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Brazilian Supreme Court roiled by dispute between justices",
-   "url": "https://www.aljazeera.com/news/2026/9/4/brazilian-supreme-court-roiled-by-dispute-between-justices?traffic_source=rss",
-   "published": "2026-09-04T18:46:44+00:00",
-   "summary": "The country&#039;s highest court is considering investigations into two judges who have accused each other of wrongdoing.",
-   "tags": [
-    "oil"
    ],
    "highlight": false
   }
