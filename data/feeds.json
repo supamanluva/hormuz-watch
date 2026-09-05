@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-05T21:29:10.839558+00:00",
+ "asOf": "2026-09-05T22:17:12.702635+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "US envoys Witkoff, Kushner meet Putin for talks on Ukraine war",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/us-envoys-witkoff-kushner-meet-putin-for-talks-on-ukraine-war?traffic_source=rss",
+   "published": "2026-09-05T21:23:06+00:00",
+   "summary": "US envoys Steve Witkoff and Jared Kushner met Russian President Vladimir Putin at the Kremlin on Saturday.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "IRGC Navy Commander: Do not be deceived by US; Any suspicious move will be targeted",
@@ -87,7 +98,7 @@
    "title": "Russia’s Putin meets US envoys to discuss Trump proposal to end Ukraine war",
    "url": "https://www.aljazeera.com/news/2026/9/5/russias-putin-meets-us-envoys-to-discuss-trump-proposal-to-end-ukraine-war?traffic_source=rss",
    "published": "2026-09-05T18:12:52+00:00",
-   "summary": "Both Russia and Ukraine vow not to strike each other&#039;s capitals for three days during talks in Moscow and Kyiv.",
+   "summary": "Russia and Ukraine pledge not to strike each other&#039;s capitals for three days during talks in Moscow and Kyiv.",
    "tags": [
     "strikes",
     "diplomacy"
@@ -131,10 +142,10 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "US says it hit Iran oil tankers helping finance ‘regional proxies’",
+   "title": "US says it hit Iran oil tankers accused of helping ‘regional proxies’",
    "url": "https://www.aljazeera.com/news/2026/9/5/us-says-it-hit-iran-oil-tankers-helping-finance-regional-proxies?traffic_source=rss",
    "published": "2026-09-05T14:49:36+00:00",
-   "summary": "US strikes have hit Iranian oil tankers in the Gulf of Oman and near Iran’s Kharg island.",
+   "summary": "The latest US strikes have hit Iranian oil tankers in the Gulf of Oman and near Iran’s Kharg island.",
    "tags": [
     "strikes",
     "shipping",
@@ -613,17 +624,6 @@
    "published": "2026-09-04T20:24:46+00:00",
    "summary": "The General Assembly today took an important step towards correcting distortions in commonly used world maps, particularly the Mercator projection, which are seen misrepresenting the relative size of continents and contribute to a diminished perception of Africa and other equatorial regions.",
    "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Israeli drones drop bombs on southern Lebanon’s Mansouri",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/04-09-sv-israel-drone-bombs-mansouri-lb-fm?traffic_source=rss",
-   "published": "2026-09-04T20:04:13+00:00",
-   "summary": "Several explosions rocked the southern Lebanese town of Mansouri after Israeli military drones dropped explosives in the",
-   "tags": [
-    "strikes"
-   ],
    "highlight": false
   }
  ]
