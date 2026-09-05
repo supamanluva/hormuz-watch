@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-05T23:16:19.485515+00:00",
+ "asOf": "2026-09-05T23:29:18.370198+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Fuel tanker blast in western Iran kills at least 10",
+   "url": "https://www.aljazeera.com/news/2026/9/5/fuel-tanker-blast-in-western-iran-kills-at-least-10?traffic_source=rss",
+   "published": "2026-09-05T23:07:48+00:00",
+   "summary": "At least six other people were injured in the tanker blast on Iran&#039;s Hamedan-Sanandaj highway, officials say.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "US envoys Witkoff, Kushner meet Putin for talks on Ukraine war",
@@ -615,15 +626,6 @@
    "tags": [
     "diplomacy"
    ],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "General Assembly Adopts Text to ‘Correct the Map’, among Others Proclaiming Decade of Culture for Sustainable Development, Child Marriage Elimination Day",
-   "url": "https://press.un.org/en/2026/ga12779.doc.htm",
-   "published": "2026-09-04T20:24:46+00:00",
-   "summary": "The General Assembly today took an important step towards correcting distortions in commonly used world maps, particularly the Mercator projection, which are seen misrepresenting the relative size of continents and contribute to a diminished perception of Africa and other equatorial regions.",
-   "tags": [],
    "highlight": false
   }
  ]
