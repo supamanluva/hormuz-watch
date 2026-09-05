@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-05T16:19:26.388599+00:00",
+ "asOf": "2026-09-05T16:49:27.813569+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Gaza teams recover remains of 55 people nearly 3 years after Israeli strike",
+   "url": "https://www.aljazeera.com/news/2026/9/5/gaza-teams-recover-remains-of-55-people-nearly-3-years-after-israeli-strike?traffic_source=rss",
+   "published": "2026-09-05T16:17:47+00:00",
+   "summary": "The victims, all from one Palestinian family, had been sheltering at their family home when Israel hit it.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "US says it hit three Iranian oil tankers after attacks on warships",
@@ -601,17 +612,6 @@
    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/09-04-russia-targets-ukraine-security-hq-clip-mp4?traffic_source=rss",
    "published": "2026-09-04T16:03:41+00:00",
    "summary": "A Russian drone has struck Ukraine’s domestic intelligence headquarters in central Kyiv, injuring five people.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Russia’s jet-powered drones overwhelm Ukraine, killing dozens",
-   "url": "https://www.aljazeera.com/news/2026/9/4/russias-jet-powered-drones-overwhelm-ukraine-killing-dozens?traffic_source=rss",
-   "published": "2026-09-04T15:44:14+00:00",
-   "summary": "As Ukrainian civilians suffer from air attacks, Russian ground forces struggle to advance.",
    "tags": [
     "strikes"
    ],
