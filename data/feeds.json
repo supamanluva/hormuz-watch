@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-05T05:19:15.009012+00:00",
+ "asOf": "2026-09-05T05:49:38.308950+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "US imposes sanctions on Turkish bank, prompting legal threat",
+   "url": "https://www.aljazeera.com/news/2026/9/5/us-imposes-sanctions-on-turkish-bank-prompting-legal-threat?traffic_source=rss",
+   "published": "2026-09-05T05:19:05+00:00",
+   "summary": "US sanctions Turkish bank over alleged IRGC ties, accusing it of facilitating millions in transactions for Iran.",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Blasts at Bolivian military base kill at least 10, injure dozens",
@@ -580,18 +591,6 @@
    "summary": "Explosions shake the ground in Froun as Israeli operations persist, disrupting daily life in southern Lebanon.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Houthi attacks on Yemen’s Taiz escalate, triggering new displacement wave",
-   "url": "https://www.aljazeera.com/news/2026/9/4/houthi-attacks-on-yemens-taiz-escalate-triggering-new-displacement-wave?traffic_source=rss",
-   "published": "2026-09-04T06:22:44+00:00",
-   "summary": "Government-Houthi clashes in Taiz intensify, displacing thousands and threatening vital roadways to the Red Sea coast.",
-   "tags": [
-    "strikes",
-    "shipping"
    ],
    "highlight": false
   }
