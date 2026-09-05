@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-05T01:42:01.264415+00:00",
+ "asOf": "2026-09-05T02:28:00.949859+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Ecuador defends US sinking of vessels as joint anti-drug operation",
+   "url": "https://www.aljazeera.com/news/2026/9/5/ecuador-defends-us-sinking-of-vessels-as-joint-anti-drug-operation?traffic_source=rss",
+   "published": "2026-09-05T01:46:50+00:00",
+   "summary": "Relatives of detained crew say US forces acted without evidence, claiming the men were fishermen, not smugglers.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Iran war live: Trump says US may target Iran’s Pickaxe Mountain ‘very soon’",
@@ -581,17 +592,6 @@
    "source": "Trump · Truth Social",
    "title": "How Trump turned a frozen conflict into a model for peace:",
    "url": "https://trumpstruth.org/statuses/41501",
-   "published": "2026-09-04T01:02:19+00:00",
-   "summary": "How Trump turned a frozen conflict into a model for peace: https://www. washingtonexaminer.com/op-eds/ 4681517/armenia-azerbaijan-peace-deal-tripp-framework/",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "How Trump turned a frozen conflict into a model for peace:",
-   "url": "https://www.trumpstruth.org/statuses/41501",
    "published": "2026-09-04T01:02:19+00:00",
    "summary": "How Trump turned a frozen conflict into a model for peace: https://www. washingtonexaminer.com/op-eds/ 4681517/armenia-azerbaijan-peace-deal-tripp-framework/",
    "tags": [
