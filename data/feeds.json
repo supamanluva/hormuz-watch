@@ -1,6 +1,18 @@
 {
- "asOf": "2026-09-05T14:17:51.430557+00:00",
+ "asOf": "2026-09-05T14:49:25.201826+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "IRGC denies reports of attack on nuclear facilities in Isfahan",
+   "url": "https://en.irna.ir/news/86255742/IRGC-denies-reports-of-attack-on-nuclear-facilities-in-Isfahan",
+   "published": "2026-09-05T14:36:06+00:00",
+   "summary": "Isfahan, IRNA – The Islamic Revolution Guards Corps (IRGC) in Isfahan province has denied reports of US-Israeli attacks against nuclear facilities in the central province.",
+   "tags": [
+    "strikes",
+    "nuclear"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "At least four civilians killed in Houthi missile strike near Yemen’s Taiz",
@@ -598,15 +610,6 @@
     "diplomacy"
    ],
    "highlight": false
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "PASS THE SAVE AMERICA ACT!!!",
-   "url": "https://trumpstruth.org/statuses/41507",
-   "published": "2026-09-04T13:48:22+00:00",
-   "summary": "PASS THE SAVE AMERICA ACT!!!",
-   "tags": [],
-   "highlight": true
   }
  ]
 }
