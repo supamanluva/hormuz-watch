@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-05T08:24:26.221310+00:00",
+ "asOf": "2026-09-05T08:49:43.842984+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Sirik wedding attack echoes tragedy of Minab schoolchildren: Iran",
+   "url": "https://en.irna.ir/news/86255296/Sirik-wedding-attack-echoes-tragedy-of-Minab-schoolchildren",
+   "published": "2026-09-05T08:31:35+00:00",
+   "summary": "Tehran, IRNA – Iran’s administration spokesperson, Fatemeh Mohajerani, says the recent US attack on the Sirik district in southern Hormozgan Province cannot be viewed separately from the earlier killing of schoolchildren in Minab, stressing that the United States, as the aggressor and initiator of the military action, should be held accountable for the tragedies.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Niger accuses France of orchestrating failed military mutiny",
@@ -165,10 +176,10 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "Iran war live: Iranian oil tanker reported hit by missiles off Kharg Island",
+   "title": "Iran war live: Iranian oil tanker reported hit by missiles off Kharg island",
    "url": "https://www.aljazeera.com/news/liveblog/2026/9/5/iran-war-live-trump-says-us-may-target-irans-pickaxe-mountain-very-soon?traffic_source=rss",
    "published": "2026-09-05T00:00:00+00:00",
-   "summary": "US President Donald Trump has repeated an earlier warning that the US may attack Iran&#039;s Pickaxe Mountain &quot;very soon&quot;.",
+   "summary": "The oil tanker has been hit by several US missiles, Iranian media reports.",
    "tags": [
     "strikes",
     "shipping",
@@ -586,15 +597,6 @@
    "summary": "",
    "tags": [],
    "highlight": true
-  },
-  {
-   "source": "UN Press",
-   "title": "General Assembly, 114th & 115th Meetings (AM & PM) 4 September 2026",
-   "url": "https://press.un.org/en/blog/ga12779",
-   "published": "2026-09-04T10:39:59+00:00",
-   "summary": "At 11 a.m., the General Assembly will take action on a host of drafts, including on rebalancing global cartographic representation of the world’s regions; the International Decade of Culture for Sustainable Development; and participation in the high-level meeting to commemorate the twenty-fifth anniversary of the Durban Declaration and Programme of Action.",
-   "tags": [],
-   "highlight": false
   }
  ]
 }
