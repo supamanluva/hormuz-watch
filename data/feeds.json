@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-05T18:49:31.542201+00:00",
+ "asOf": "2026-09-05T19:14:58.725625+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran warns US of more severe blows to warships if aggression continues",
+   "url": "https://en.irna.ir/news/86255880/Iran-warns-US-of-more-severe-blows-to-warships-if-aggression",
+   "published": "2026-09-05T19:11:10+00:00",
+   "summary": "Tehran, IRNA – Spokesperson for the Khatam al-Anbiya Central Headquarters has warned the “terrorist” US military that the armed forces will deal more “severe and extensive” blows to American warships if Washington continues acts of aggression in the region.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Russia’s Putin meets US envoys to discuss Trump proposal to end Ukraine war",
@@ -603,17 +614,6 @@
    "published": "2026-09-04T19:15:33+00:00",
    "summary": "ADVANCING COMPETITION AND ACCOUNTABILITY:&#160;Today, President Donald J. Trump signed an Executive Order to support American producers’ ability to butcher, process, package, and sell their meat to consumers across state lines while maintaining the highest standards of food safety while avoiding being overcharged by monopolistic practices in the meat processing industry.&#160; EXPANDING MARKET ACC",
    "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Five EU nations inch towards deal on migrant ‘return hubs’ by 2027",
-   "url": "https://www.aljazeera.com/news/2026/9/4/five-eu-nations-inch-towards-deal-on-migrant-return-hubs-by-2027?traffic_source=rss",
-   "published": "2026-09-04T18:52:28+00:00",
-   "summary": "Germany, Austria, ⁠Greece, Denmark and the Netherlands did not outline where the centres would be located.",
-   "tags": [
-    "diplomacy"
-   ],
    "highlight": false
   }
  ]
