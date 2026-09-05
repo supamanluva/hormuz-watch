@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-05T07:49:47.690347+00:00",
+ "asOf": "2026-09-05T08:24:26.221310+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Niger accuses France of orchestrating failed military mutiny",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/niger-accuses-france-of-orchestrating-failed-military-mutiny?traffic_source=rss",
+   "published": "2026-09-05T07:42:59+00:00",
+   "summary": "Niger has blamed France for inciting an attack on a key military airbase by mutinous soldiers last week.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "At least five killed in Sudan’s South Kordofan in attack by rebel group",
@@ -154,12 +165,14 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "Iran war live: US polygraphs 50 Joint Staff members over Iran war leaks",
+   "title": "Iran war live: Iranian oil tanker reported hit by missiles off Kharg Island",
    "url": "https://www.aljazeera.com/news/liveblog/2026/9/5/iran-war-live-trump-says-us-may-target-irans-pickaxe-mountain-very-soon?traffic_source=rss",
    "published": "2026-09-05T00:00:00+00:00",
    "summary": "US President Donald Trump has repeated an earlier warning that the US may attack Iran&#039;s Pickaxe Mountain &quot;very soon&quot;.",
    "tags": [
-    "strikes"
+    "strikes",
+    "shipping",
+    "oil"
    ],
    "highlight": false
   },
@@ -581,17 +594,6 @@
    "published": "2026-09-04T10:39:59+00:00",
    "summary": "At 11 a.m., the General Assembly will take action on a host of drafts, including on rebalancing global cartographic representation of the world’s regions; the International Decade of Culture for Sustainable Development; and participation in the high-level meeting to commemorate the twenty-fifth anniversary of the Durban Declaration and Programme of Action.",
    "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Argentina’s Milei threatens sanctions as he refocuses on Falklands",
-   "url": "https://www.aljazeera.com/news/2026/9/4/argentinas-milei-threatens-sanctions-as-he-refocuses-on-falklands?traffic_source=rss",
-   "published": "2026-09-04T10:17:47+00:00",
-   "summary": "Argentina&#039;s president accused of political machinations as he eyes shifting US stance on Las Malvinas.",
-   "tags": [
-    "sanctions"
-   ],
    "highlight": false
   }
  ]
