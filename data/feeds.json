@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-05T06:31:11.101423+00:00",
+ "asOf": "2026-09-05T06:52:13.670018+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "New US–E3 push for IAEA anti-Iran resolution a sign of failure of ‘snapback illusion’: Iran Vienna mission",
+   "url": "https://en.irna.ir/news/86255121/New-US-E3-push-for-IAEA-anti-Iran-resolution-a-sign-of-failure",
+   "published": "2026-09-05T06:38:07+00:00",
+   "summary": "London, IRNA — Iran’s permanent mission to the United Nations and other international organizations in Vienna says a new attempt by the US and the three European countries of Germany, Britain, and France to refer Iran’s nuclear issue to the UN Security Council clearly shows “the complete failure of the snapback illusion” they have already pursued.",
+   "tags": [
+    "nuclear"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Bolivian military barracks explosion kills at least 10",
@@ -578,17 +589,6 @@
    "url": "https://en.irna.ir/news/86254637/Iran-demonstrated-strategic-resilience-despite-US-attacks-says",
    "published": "2026-09-04T09:44:33+00:00",
    "summary": "Tehran, IRNA – Judiciary Chief Gholam-Hossein Mohseni-Ejei says that Iran has faced illegal attacks by the United States during the current year but has demonstrated its strategic resilience and stability through the strong presence of its people and their comprehensive support for the country and its officials.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Israeli regime intensifies attacks across Gaza Strip",
-   "url": "https://en.irna.ir/news/86254511/Israeli-regime-intensifies-attacks-across-Gaza-Strip",
-   "published": "2026-09-04T06:27:46+00:00",
-   "summary": "Tehran, IRNA – The Israeli regime has intensified attacks across the Gaza Strip, with heavy gunfire, artillery shelling and airstrikes reported in Gaza City and central Gaza, according to the Palestinian media.",
    "tags": [
     "strikes"
    ],
