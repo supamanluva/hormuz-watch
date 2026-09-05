@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-05T05:49:38.308950+00:00",
+ "asOf": "2026-09-05T06:31:11.101423+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Bolivian military barracks explosion kills at least 10",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/bolivian-military-barracks-explosion-kills-at-least-10?traffic_source=rss",
+   "published": "2026-09-05T06:11:05+00:00",
+   "summary": "An explosion at a military barracks in Viacha, Bolivia, has killed at least 10 people and injured dozens.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "US imposes sanctions on Turkish bank, prompting legal threat",
@@ -578,17 +589,6 @@
    "url": "https://en.irna.ir/news/86254511/Israeli-regime-intensifies-attacks-across-Gaza-Strip",
    "published": "2026-09-04T06:27:46+00:00",
    "summary": "Tehran, IRNA – The Israeli regime has intensified attacks across the Gaza Strip, with heavy gunfire, artillery shelling and airstrikes reported in Gaza City and central Gaza, according to the Palestinian media.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "In southern Lebanon, Israeli demolitions continue ‘day and night’",
-   "url": "https://www.aljazeera.com/features/2026/9/4/in-southern-lebanon-israeli-demolitions-continue-day-and-night?traffic_source=rss",
-   "published": "2026-09-04T06:24:55+00:00",
-   "summary": "Explosions shake the ground in Froun as Israeli operations persist, disrupting daily life in southern Lebanon.",
    "tags": [
     "strikes"
    ],
