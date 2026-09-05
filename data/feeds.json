@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-05T06:52:13.670018+00:00",
+ "asOf": "2026-09-05T07:19:58.035095+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "At least five killed in Sudan’s South Kordofan in attack by rebel group",
+   "url": "https://www.aljazeera.com/news/2026/9/5/five-killed-in-sudans-kordofan-in-attack-by-rebel-group?traffic_source=rss",
+   "published": "2026-09-05T06:51:32+00:00",
+   "summary": "Sudan Doctors Network says SPLM-N forces shelled residential areas in the town of Dilling.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "New US–E3 push for IAEA anti-Iran resolution a sign of failure of ‘snapback illusion’: Iran Vienna mission",
@@ -580,17 +591,6 @@
    "summary": "Argentina&#039;s president accused of political machinations as he eyes shifting US stance on Las Malvinas.",
    "tags": [
     "sanctions"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran demonstrated strategic resilience despite US attacks, says Judiciary chief",
-   "url": "https://en.irna.ir/news/86254637/Iran-demonstrated-strategic-resilience-despite-US-attacks-says",
-   "published": "2026-09-04T09:44:33+00:00",
-   "summary": "Tehran, IRNA – Judiciary Chief Gholam-Hossein Mohseni-Ejei says that Iran has faced illegal attacks by the United States during the current year but has demonstrated its strategic resilience and stability through the strong presence of its people and their comprehensive support for the country and its officials.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   }
