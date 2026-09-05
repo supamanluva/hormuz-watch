@@ -1,6 +1,41 @@
 {
- "asOf": "2026-09-05T20:19:03.055164+00:00",
+ "asOf": "2026-09-05T20:49:34.244422+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "IRGC Navy Commander: Do not be deceived by US; Any suspicious move will be targeted",
+   "url": "https://en.irna.ir/news/86255906/IRGC-Navy-Commander-Do-not-be-deceived-by-US-Any-suspicious",
+   "published": "2026-09-05T20:39:55+00:00",
+   "summary": "Tehran, IRNA – In a statement emphasizing that \"do not be deceived by the US\" and warning that \"any suspicious move will be targeted,\" the Commander of the IRGC Navy declared that the act of aggression by the US terrorist military—in attacking three oil tankers belonging to the Islamic Republic of Iran—will be met with a firm response.",
+   "tags": [
+    "strikes",
+    "shipping",
+    "oil"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Yemeni army launches drone attack on Saudi-affiliated militia positions in Taiz",
+   "url": "https://en.irna.ir/news/86255902/Yemeni-army-launches-drone-attack-on-Saudi-affiliated-militia",
+   "published": "2026-09-05T20:24:34+00:00",
+   "summary": "Tehran, IRNA – The Yemeni armed forces launched several drones at positions held by Saudi-backed militias whole at the same time, an explosion was heard in the city of Taiz.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Colombian government reports three killed in rebel attack on military post",
+   "url": "https://www.aljazeera.com/news/2026/9/5/colombian-government-reports-three-killed-in-rebel-attack-on-military-post?traffic_source=rss",
+   "published": "2026-09-05T20:03:29+00:00",
+   "summary": "Colombian authorities blame ELN rebel group for attack that reportedly included drones dropping explosives on compound.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Jerusalem Daily: raids, settlers & sieges",
@@ -589,39 +624,6 @@
    "tags": [
     "strikes"
    ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Israeli strike kills two in southern Lebanon amid ongoing escalation",
-   "url": "https://www.aljazeera.com/news/2026/9/4/israeli-strike-kills-two-in-southern-lebanon-amid-ongoing-escalation?traffic_source=rss",
-   "published": "2026-09-04T19:48:25+00:00",
-   "summary": "Israeli attacks against villages and towns in southern Lebanon continue despite truce agreements and diplomacy.",
-   "tags": [
-    "strikes",
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Security Council ISIL (Da’esh) and Al-Qaida Sanctions Committee Amends Two Entries on Its Sanctions List",
-   "url": "https://press.un.org/en/2026/sc16446.doc.htm",
-   "published": "2026-09-04T19:46:38+00:00",
-   "summary": "On 4 September 2026, the Security Council Committee pursuant to resolutions 1267 (1999), 1989 (2011) and 2253 (2015) concerning ISIL (Da’esh), Al‑Qaida and associated individuals, groups, undertakings and entities enacted the amendments specified with strikethrough and underline in the entries below on its ISIL (Da’esh) and Al-Qaida Sanctions List of individuals and entities subject to the assets ",
-   "tags": [
-    "strikes",
-    "sanctions"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "Supporting America’s Ranchers",
-   "url": "https://www.whitehouse.gov/presidential-actions/2026/09/supporting-americas-ranchers/",
-   "published": "2026-09-04T19:28:18+00:00",
-   "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered: Section 1. Policy. Ranchers play a vital role in our Nation&#8217;s food supply chain and cultural heritage. These hardworking Americans ensure that our country has a reliable domestic source of high-quality [&#8230;] The post Supporting America&#8217;s Ranchers appear",
-   "tags": [],
    "highlight": false
   }
  ]
