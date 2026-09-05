@@ -1,6 +1,19 @@
 {
- "asOf": "2026-09-05T15:29:07.303051+00:00",
+ "asOf": "2026-09-05T16:19:26.388599+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "US says it hit three Iranian oil tankers after attacks on warships",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/us-says-it-hit-three-iranian-oil-tankers-after-attacks-on-warships?traffic_source=rss",
+   "published": "2026-09-05T15:49:44+00:00",
+   "summary": "US Central Command says its forces struck three Iranian crude oil carriers on Saturday.",
+   "tags": [
+    "strikes",
+    "shipping",
+    "oil"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "US says it hit Iran oil tankers helping finance ‘regional proxies’",
@@ -602,15 +615,6 @@
    "tags": [
     "strikes"
    ],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "Made in America: Manufacturing, Private Hiring Power Explosive August Jobs Report",
-   "url": "https://www.whitehouse.gov/releases/2026/09/made-in-america-manufacturing-private-hiring-power-explosive-august-jobs-report/",
-   "published": "2026-09-04T15:25:08+00:00",
-   "summary": "“America added 162,000 jobs in August — triple economists’ expectations. The private sector has now created over one million jobs under President Trump, whose reindustrialization agenda continues to drive manufacturing and factory construction job growth. America is in the middle of a historic investment boom, and the August jobs report is the latest data point [&#8230;] The post Made in America: ",
-   "tags": [],
    "highlight": false
   }
  ]
