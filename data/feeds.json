@@ -1,6 +1,19 @@
 {
- "asOf": "2026-09-05T14:49:25.201826+00:00",
+ "asOf": "2026-09-05T15:29:07.303051+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "US says it hit Iran oil tankers helping finance ‘regional proxies’",
+   "url": "https://www.aljazeera.com/news/2026/9/5/us-says-it-hit-iran-oil-tankers-helping-finance-regional-proxies?traffic_source=rss",
+   "published": "2026-09-05T14:49:36+00:00",
+   "summary": "US strikes have hit Iranian oil tankers in the Gulf of Oman and near Iran’s Kharg island.",
+   "tags": [
+    "strikes",
+    "shipping",
+    "oil"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "IRGC denies reports of attack on nuclear facilities in Isfahan",
@@ -62,7 +75,7 @@
    "title": "At least 5 killed in Russian attacks on Ukraine as US envoys visit Moscow",
    "url": "https://www.aljazeera.com/news/2026/9/5/at-least-5-killed-in-russian-attacks-on-ukraine-as-us-envoys-visit-moscow?traffic_source=rss",
    "published": "2026-09-05T10:27:23+00:00",
-   "summary": "Ukraine and Russia announce a three-day limited ceasefire as US envoys visit Moscow, before trip to Kyiv.",
+   "summary": "Ukraine and Russia announce a three-day limited ceasefire as Steve Witkoff and Jared Kushner visit Moscow and Kyiv.",
    "tags": [
     "strikes",
     "diplomacy"
@@ -598,17 +611,6 @@
    "published": "2026-09-04T15:25:08+00:00",
    "summary": "“America added 162,000 jobs in August — triple economists’ expectations. The private sector has now created over one million jobs under President Trump, whose reindustrialization agenda continues to drive manufacturing and factory construction job growth. America is in the middle of a historic investment boom, and the August jobs report is the latest data point [&#8230;] The post Made in America: ",
    "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Israel releases five detainees to Lebanon after US-mediated negotiations",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/09-04-israel-lebanon-detainees-minisv-mp4?traffic_source=rss",
-   "published": "2026-09-04T15:16:34+00:00",
-   "summary": "Israel has released five people to Lebanon after US-mediated negotiations. Dozens of Lebanese remain detained by Israel.",
-   "tags": [
-    "diplomacy"
-   ],
    "highlight": false
   }
  ]
