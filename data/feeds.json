@@ -1,13 +1,25 @@
 {
- "asOf": "2026-09-05T10:49:31.513035+00:00",
+ "asOf": "2026-09-05T11:16:29.270158+00:00",
  "items": [
   {
    "source": "IRNA (Iran state wire)",
    "title": "Iranian, Indian judicial officials discuss cooperation on BRICS summit sidelines",
    "url": "https://en.irna.ir/news/86255496/Iranian-Indian-judicial-officials-discuss-cooperation-on-BRICS",
    "published": "2026-09-05T10:30:21+00:00",
-   "summary": "Tehran, IRNA – Iranian and Indian judicial officials have held discussions on expanding bilateral and multilateral legal cooperation on the sidelines of a BRICS meeting of chief justices and senior judicial officials in New Delhi, with stronger judicial ties, arbitration and mediation emerging as key areas of focus.",
+   "summary": "Tehran, IRNA — Iranian and Indian judicial officials have held discussions on expanding bilateral and multilateral legal cooperation on the sidelines of a BRICS meeting of chief justices and senior judicial officials in New Delhi, with stronger judicial ties, arbitration and mediation emerging as key areas of focus.",
    "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "At least 5 killed in Russian attacks on Ukraine as US envoys visit Moscow",
+   "url": "https://www.aljazeera.com/news/2026/9/5/at-least-5-killed-in-russian-attacks-on-ukraine-as-us-envoys-visit-moscow?traffic_source=rss",
+   "published": "2026-09-05T10:27:23+00:00",
+   "summary": "Ukrainian armed forces were ordered to follow a three-day ceasefire as US envoys visit Moscow, before trip to Kyiv.",
+   "tags": [
+    "strikes",
     "diplomacy"
    ],
    "highlight": false
@@ -589,17 +601,6 @@
    "summary": "From My Lai to civilian killings in Afghanistan, Iraq, the US has often denied role before later quietly acknowledging.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "At least 100 killed as Yemen’s Houthis push towards key strait",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/at-least-100-killed-as-yemens-houthis-push-towards-key-strait?traffic_source=rss",
-   "published": "2026-09-04T13:13:14+00:00",
-   "summary": "Fighting has intensified between Iran-backed Houthi rebels and Yemeni government forces since Thursday.",
-   "tags": [
-    "shipping"
    ],
    "highlight": false
   }
