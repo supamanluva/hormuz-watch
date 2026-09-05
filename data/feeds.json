@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-04T23:49:22.092110+00:00",
+ "asOf": "2026-09-05T00:52:51.664974+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Iran war live: Trump says US may target Iran’s Pickaxe Mountain ‘very soon’",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/9/5/iran-war-live-trump-says-us-may-target-irans-pickaxe-mountain-very-soon?traffic_source=rss",
+   "published": "2026-09-05T00:00:00+00:00",
+   "summary": "US President Donald Trump has repeated an earlier warning that the US may attack Iran&#039;s Pickaxe Mountain &quot;very soon&quot;.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "What an incredible summer for AMERICAN TRAVEL! Americans traveled nearly 300 BILLION MILES, our National Parks welcomed 78 MILLION VISITORS, and MILLIONS took to the skies. The FIFA World Cup alone generated more than 18 BILLION DOLLARS for our Economy, and supported more than 160,000 JOBS! Travel and Tourism mean JOBS, INVESTMENT, and BILLIONS OF DOLLARS flowing into American Businesses and Communities. We are cutting red tape, modernizing Air Travel, and making it easier to visit, and do business, in the United States. AMERICA IS OPEN FOR BUSINESS — AND THE BEST IS YET TO COME! President DONALD J. TRUMP",
@@ -587,17 +598,6 @@
     "diplomacy"
    ],
    "highlight": true
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Baqaei: Iran's defensive strikes were merely against military targets",
-   "url": "https://en.irna.ir/news/86254471/Baqaei-Iran-s-defensive-strikes-were-merely-against-military",
-   "published": "2026-09-04T00:15:33+00:00",
-   "summary": "Tehran, IRNA – In a statement, the Spokesperson for the Ministry of Foreign Affairs of the Islamic Republic of Iran emphasized that—unlike the United States, which has made attacking civilian targets a standard pattern of its illegal wars—Iran’s defensive strikes were directed exclusively at military targets, noting that the official report from Qatar confirms this fact.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
   }
  ]
 }
