@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-05T19:49:33.058582+00:00",
+ "asOf": "2026-09-05T20:19:03.055164+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Jerusalem Daily: raids, settlers & sieges",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/jerusalem-daily-raids-settlers-sieges?traffic_source=rss",
+   "published": "2026-09-05T19:37:10+00:00",
+   "summary": "Mike Huckabee visits as settlers attack Palestinians, Israeli forces carry out raids and arrests.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Iran condemns US attacks on oil tankers as violation of international law",
@@ -610,15 +621,6 @@
    "url": "https://www.whitehouse.gov/presidential-actions/2026/09/supporting-americas-ranchers/",
    "published": "2026-09-04T19:28:18+00:00",
    "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered: Section 1. Policy. Ranchers play a vital role in our Nation&#8217;s food supply chain and cultural heritage. These hardworking Americans ensure that our country has a reliable domestic source of high-quality [&#8230;] The post Supporting America&#8217;s Ranchers appear",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "Promoting Fair Competition In Livestock Markets And Expanding Market Access for American Meat Producers",
-   "url": "https://www.whitehouse.gov/presidential-actions/2026/09/promoting-fair-competition-in-livestock-markets-and-expanding-market-access-for-american-meat-producers/",
-   "published": "2026-09-04T19:23:49+00:00",
-   "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered: Section 1. Purpose. American ranchers want to be able to butcher, process, package, and sell their meat to consumers across State lines while maintaining the highest standards of food safety and avoid [&#8230;] The post Promoting Fair Competition In Livestock Markets A",
    "tags": [],
    "highlight": false
   }
