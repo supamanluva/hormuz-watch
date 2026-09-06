@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-06T09:19:49.270862+00:00",
+ "asOf": "2026-09-06T10:49:37.700175+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Israeli air attacks on Lebanon kill at least four",
+   "url": "https://www.aljazeera.com/news/2026/9/6/israeli-air-attacks-on-lebanon-kill-at-least-four?traffic_source=rss",
+   "published": "2026-09-06T09:15:20+00:00",
+   "summary": "Two women killed in an air attack on Arab Salim, and two people killed in strike on Nabatieh al-Fawqa.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Israel bombards several towns in southern Lebanon",
@@ -100,14 +111,12 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "Iran war live: IRGC, US trade fire, attack oil tankers in Hormuz",
+   "title": "Iran war live: Tehran warns of ‘faster, more painful’ response to attacks",
    "url": "https://www.aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade?traffic_source=rss",
    "published": "2026-09-06T00:00:00+00:00",
-   "summary": "IRGC launches new strikes after firing missiles at US warships as standoff in Strait of Hormuz intensifies.",
+   "summary": "Iran’s parliament speaker says new attacks on the country will “meet a faster, heavier and more painful response”.",
    "tags": [
-    "strikes",
-    "shipping",
-    "oil"
+    "strikes"
    ],
    "highlight": false
   },
@@ -452,17 +461,6 @@
    "summary": "Authorities say seven people are still missing after deadly explosions at a facility storing pyrotechnic material.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Trump sends envoys to Russia, Ukraine with new peace plan",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/trump-sends-envoys-to-russia-ukraine-with-new-peace-plan?traffic_source=rss",
-   "published": "2026-09-05T03:25:46+00:00",
-   "summary": "Al Jazeera’s Kimberly Halkett reports that US President Donald Trump is sending envoys Jared Kushner and Steve Witkoff.",
-   "tags": [
-    "diplomacy"
    ],
    "highlight": false
   },
