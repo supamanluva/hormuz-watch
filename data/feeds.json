@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-06T18:22:02.415508+00:00",
+ "asOf": "2026-09-06T18:49:46.548111+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Witkoff says peace talks have been ‘very meaningful’ in Ukraine",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/6/witkoff-says-peace-talks-have-been-very-meaningful-in-ukraine?traffic_source=rss",
+   "published": "2026-09-06T18:28:27+00:00",
+   "summary": "Witkoff says peace talks have been ‘very meaningful’ in Ukraine",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "[No Title] - Post from September 6, 2026",
@@ -495,20 +506,6 @@
    "tags": [
     "strikes",
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Why is Trump threatening to strike Iran’s Pickaxe Mountain again, now?",
-   "url": "https://www.aljazeera.com/news/2026/9/5/why-is-trump-threatening-to-strike-irans-pickaxe-mountain-again-now?traffic_source=rss",
-   "published": "2026-09-05T09:56:53+00:00",
-   "summary": "As oil tanker struck off Kharg island, Trump threatens one of the remaining parts of Iran’s nuclear complex.",
-   "tags": [
-    "strikes",
-    "nuclear",
-    "shipping",
-    "oil"
    ],
    "highlight": false
   },
