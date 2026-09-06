@@ -1,6 +1,27 @@
 {
- "asOf": "2026-09-05T23:49:28.697874+00:00",
+ "asOf": "2026-09-06T01:00:53.713172+00:00",
  "items": [
+  {
+   "source": "Trump · Truth Social",
+   "title": "So sad what is happening in Spain, a country with ZERO control of its Border. WOW!",
+   "url": "https://trumpstruth.org/statuses/41530",
+   "published": "2026-09-06T00:24:30+00:00",
+   "summary": "So sad what is happening in Spain, a country with ZERO control of its Border. WOW!",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Iran war live: IRGC claims new attacks on US warships over naval blockade",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade?traffic_source=rss",
+   "published": "2026-09-06T00:00:00+00:00",
+   "summary": "IRGC says it fired ballistic missiles at US aircraft carrier and destroyer as standoff intensifies in Strait of Hormuz.",
+   "tags": [
+    "strikes",
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Fuel tanker blast in western Iran kills at least 10",
@@ -106,12 +127,11 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "Russia’s Putin meets US envoys to discuss Trump proposal to end Ukraine war",
+   "title": "Russia’s Putin and US envoys discuss Trump proposal to end Ukraine war",
    "url": "https://www.aljazeera.com/news/2026/9/5/russias-putin-meets-us-envoys-to-discuss-trump-proposal-to-end-ukraine-war?traffic_source=rss",
    "published": "2026-09-05T18:12:52+00:00",
-   "summary": "Russia and Ukraine pledge not to strike each other&#039;s capitals for three days during talks in Moscow and Kyiv.",
+   "summary": "Kremlin aide calls the Moscow talks &#039;very frank and constructive&#039;, as US envoys head to Kyiv next.",
    "tags": [
-    "strikes",
     "diplomacy"
    ],
    "highlight": false
@@ -607,26 +627,6 @@
    "summary": "Very productive and historic two days at the G20 Innovation Ministerial in Chapel Hill, North Carolina — A truly GREAT State — Home of the Research Triangle, World Class Universities, and some of the smartest, hardest working people anywhere in the World. INNOVATION is BACK at the G20! Countries from all over the World now understand that Innovation means GROWTH, and Growth means Prosperity. Secre",
    "tags": [],
    "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "I joined my friend, Texas Lieutenant Governor, Dan Patrick, on his new podcast, Lt. Dan, to discuss the upcoming Republican Convention, the first Midterm Convention in History! It’s going to be a fantastic event next week in Dallas. We also discussed other key issues, including Iran, and the dangerous rise of Socialism and Communism in our Country. Be sure to watch my conversation. Visit",
-   "url": "https://trumpstruth.org/statuses/41518",
-   "published": "2026-09-04T22:22:55+00:00",
-   "summary": "I joined my friend, Texas Lieutenant Governor, Dan Patrick, on his new podcast, Lt. Dan, to discuss the upcoming Republican Convention, the first Midterm Convention in History! It’s going to be a fantastic event next week in Dallas. We also discussed other key issues, including Iran, and the dangerous rise of Socialism and Communism in our Country. Be sure to watch my conversation. Visit https:// ",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Witkoff and Kushner will travel to ‘end’ Russia’s war in Ukraine: Trump",
-   "url": "https://www.aljazeera.com/news/2026/9/4/witkoff-and-kushner-will-travel-to-end-russias-war-in-ukraine-trump?traffic_source=rss",
-   "published": "2026-09-04T21:19:05+00:00",
-   "summary": "Steve Witkoff and Jared Kushner will travel to Ukraine and Russia this weekend to help restart peace negotiations.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
   }
  ]
 }
