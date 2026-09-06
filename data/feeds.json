@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-06T02:49:58.537708+00:00",
+ "asOf": "2026-09-06T03:37:00.380981+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Nearly 9,000 killed in Israeli attacks on Lebanon since 2023",
+   "url": "https://www.aljazeera.com/news/2026/9/6/nearly-9000-killed-in-israeli-attacks-on-lebanon-since-2023?traffic_source=rss",
+   "published": "2026-09-06T02:56:31+00:00",
+   "summary": "More than 179 attacks on ambulance crews recorded since March 2, killing 179 healthcare workers.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Netanyahu boasts about bombing Qatar, says Gaza funds used for aid",
@@ -525,17 +536,6 @@
    "summary": "The Greatest RALLY of them all! I’ll be speaking on night one, and hanging around for an earlier closing, and lots of music, on night two!!! See you in Dallas. President DJT",
    "tags": [],
    "highlight": true
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Ecuador defends US sinking of vessels as joint anti-drug operation",
-   "url": "https://www.aljazeera.com/news/2026/9/5/ecuador-defends-us-sinking-of-vessels-as-joint-anti-drug-operation?traffic_source=rss",
-   "published": "2026-09-05T01:46:50+00:00",
-   "summary": "Relatives of detained crew say US forces acted without evidence, claiming the men were fishermen, not smugglers.",
-   "tags": [
-    "shipping"
-   ],
-   "highlight": false
   },
   {
    "source": "Trump · Truth Social",
