@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-06T18:49:46.548111+00:00",
+ "asOf": "2026-09-06T19:14:51.608283+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Adidas faces boycott calls over campaign featuring former Israeli soldier",
+   "url": "https://www.aljazeera.com/sports/2026/9/6/adidas-faces-boycott-calls-over-campaign-featuring-former-israeli-soldier?traffic_source=rss",
+   "published": "2026-09-06T18:56:25+00:00",
+   "summary": "Activists slam campaign showing soldier while over 5,000 Palestinians faced amputations due to Israeli attacks in Gaza.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Witkoff says peace talks have been ‘very meaningful’ in Ukraine",
@@ -493,18 +504,6 @@
    "published": "2026-09-05T10:30:21+00:00",
    "summary": "Tehran, IRNA — Iranian and Indian judicial officials have held discussions on expanding bilateral and multilateral legal cooperation on the sidelines of a BRICS meeting of chief justices and senior judicial officials in New Delhi, with stronger judicial ties, arbitration and mediation emerging as key areas of focus.",
    "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "At least 5 killed in Russian attacks on Ukraine as US envoys visit Moscow",
-   "url": "https://www.aljazeera.com/news/2026/9/5/at-least-5-killed-in-russian-attacks-on-ukraine-as-us-envoys-visit-moscow?traffic_source=rss",
-   "published": "2026-09-05T10:27:23+00:00",
-   "summary": "Ukraine and Russia announce a three-day limited ceasefire as Steve Witkoff and Jared Kushner visit Moscow and Kyiv.",
-   "tags": [
-    "strikes",
     "diplomacy"
    ],
    "highlight": false
