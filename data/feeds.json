@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-06T01:00:53.713172+00:00",
+ "asOf": "2026-09-06T01:32:36.062741+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Netanyahu boasts about bombing Qatar, says Gaza funds used for aid",
+   "url": "https://www.aljazeera.com/news/2026/9/6/netanyahu-boasts-about-bombing-qatar-says-gaza-funds-used-for-aid?traffic_source=rss",
+   "published": "2026-09-06T01:02:08+00:00",
+   "summary": "Israeli PM says money he facilitated Qatar in sending to Gaza was recommended by Israeli security agencies.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "So sad what is happening in Spain, a country with ZERO control of its Border. WOW!",
@@ -12,13 +23,14 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "Iran war live: IRGC claims new attacks on US warships over naval blockade",
+   "title": "Iran war live: IRGC claims attacks on 3 oil tankers and 3 US-linked ships",
    "url": "https://www.aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade?traffic_source=rss",
    "published": "2026-09-06T00:00:00+00:00",
-   "summary": "IRGC says it fired ballistic missiles at US aircraft carrier and destroyer as standoff intensifies in Strait of Hormuz.",
+   "summary": "IRGC launches new strikes after firing missiles at US warships as standoff in Strait of Hormuz intensifies.",
    "tags": [
     "strikes",
-    "shipping"
+    "shipping",
+    "oil"
    ],
    "highlight": false
   },
@@ -522,19 +534,6 @@
    "summary": "Relatives of detained crew say US forces acted without evidence, claiming the men were fishermen, not smugglers.",
    "tags": [
     "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iran war live: Iranian oil tanker reported hit by missiles off Kharg island",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/9/5/iran-war-live-trump-says-us-may-target-irans-pickaxe-mountain-very-soon?traffic_source=rss",
-   "published": "2026-09-05T00:00:00+00:00",
-   "summary": "The oil tanker has been hit by several US missiles, Iranian media reports.",
-   "tags": [
-    "strikes",
-    "shipping",
-    "oil"
    ],
    "highlight": false
   },
