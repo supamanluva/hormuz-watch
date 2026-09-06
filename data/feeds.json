@@ -1,6 +1,18 @@
 {
- "asOf": "2026-09-06T16:20:12.277729+00:00",
+ "asOf": "2026-09-06T16:49:25.630349+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Iran touts military response as US maintains blockade, hits tankers",
+   "url": "https://www.aljazeera.com/news/2026/9/6/iran-touts-military-response-as-us-maintains-blockade-hits-tankers?traffic_source=rss",
+   "published": "2026-09-06T16:17:06+00:00",
+   "summary": "Tehran says time for proportionate retaliation is over after a US strike on Iranian tankers inside the blockade line.",
+   "tags": [
+    "strikes",
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "US envoys hold ‘substantive’ talks with Zelenskyy in first visit to Kyiv",
@@ -499,17 +511,6 @@
    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/niger-accuses-france-of-orchestrating-failed-military-mutiny?traffic_source=rss",
    "published": "2026-09-05T07:42:59+00:00",
    "summary": "Niger has blamed France for inciting an attack on a key military airbase by mutinous soldiers last week.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "At least five killed in Sudan’s South Kordofan in attack by rebel group",
-   "url": "https://www.aljazeera.com/news/2026/9/5/five-killed-in-sudans-kordofan-in-attack-by-rebel-group?traffic_source=rss",
-   "published": "2026-09-05T06:51:32+00:00",
-   "summary": "Sudan Doctors Network says SPLM-N forces shelled residential areas in the town of Dilling.",
    "tags": [
     "strikes"
    ],
