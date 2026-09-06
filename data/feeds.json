@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-06T08:49:40.101601+00:00",
+ "asOf": "2026-09-06T09:19:49.270862+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Israel bombards several towns in southern Lebanon",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/6/israel-bombards-several-towns-in-southern-lebanon?traffic_source=rss",
+   "published": "2026-09-06T08:44:03+00:00",
+   "summary": "The Israeli army has blown up several villages in southern Lebanon in violation of a ceasefire agreement reached in June",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Iran FM holds phone talks with Saudi, Turkish counterparts",
@@ -450,17 +461,6 @@
    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/trump-sends-envoys-to-russia-ukraine-with-new-peace-plan?traffic_source=rss",
    "published": "2026-09-05T03:25:46+00:00",
    "summary": "Al Jazeera’s Kimberly Halkett reports that US President Donald Trump is sending envoys Jared Kushner and Steve Witkoff.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "After Pretoria peace deal, old enemies in Ethiopia’s Tigray find new ground",
-   "url": "https://www.aljazeera.com/news/2026/9/5/after-pretoria-peace-deal-old-enemies-in-ethiopias-tigray-find-new-ground?traffic_source=rss",
-   "published": "2026-09-05T03:05:28+00:00",
-   "summary": "The 2022 peace deal ended the war but left key disputes unresolved, giving the TPLF room to regroup as tensions return.",
    "tags": [
     "diplomacy"
    ],
