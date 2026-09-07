@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-07T17:18:31.566517+00:00",
+ "asOf": "2026-09-07T17:49:59.351075+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Bolivian blast death toll rises to 7, rescuers search for missing soldiers",
+   "url": "https://www.aljazeera.com/news/2026/9/7/bolivian-military-base-blast-leaves-seven-dead-seven-missing?traffic_source=rss",
+   "published": "2026-09-07T17:31:04+00:00",
+   "summary": "President Rodrigo Paz declares national mourning, urges unity after deadly military base explosions near La Paz.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Yemen warns Saudi attacks will not go unpunished",
@@ -606,17 +617,6 @@
    "summary": "Tehran, IRNA – Parliament Speaker Mohammad Bagher Ghalibaf has once again mocked US Treasury Secretary Scott Bessent over his claim of GDP growth and the speculation that oil prices will fall to $40 before the US midterm elections.",
    "tags": [
     "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Palestinian farmers battle settler sabotage to save Hebron crops, livestock",
-   "url": "https://www.aljazeera.com/features/2026/9/6/palestinian-farmers-battle-settler-sabotage-to-save-hebron-crops-livestock?traffic_source=rss",
-   "published": "2026-09-06T17:03:20+00:00",
-   "summary": "West Bank farmers defy daily settler attacks, sheep theft, and military restrictions to protect their land.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   }
