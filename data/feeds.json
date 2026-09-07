@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-07T07:52:58.209552+00:00",
+ "asOf": "2026-09-07T08:33:00.548191+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "In photos: US attack turns wedding into wake in Iran",
+   "url": "https://en.irna.ir/photo/86257026/In-photos-US-attack-turns-wedding-into-wake-in-Iran",
+   "published": "2026-09-07T08:21:19+00:00",
+   "summary": "Images show the damage caused on September 1, 2026, by a US airstrike on a house in Hormozgan Province, where a group of people were attending a wedding ceremony. The attack left four people, including a child, dead and 68 others injured.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Israeli air attack kills at least 10 people in southern Lebanon",
@@ -611,17 +622,6 @@
    "url": "https://en.irna.ir/news/86255902/Yemeni-army-launches-drone-attack-on-Saudi-affiliated-militia",
    "published": "2026-09-05T20:24:34+00:00",
    "summary": "Tehran, IRNA – The Yemeni armed forces launched several drones at positions held by Saudi-backed militias whole at the same time, an explosion was heard in the city of Taiz.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Colombian government reports three killed in rebel attack on military post",
-   "url": "https://www.aljazeera.com/news/2026/9/5/colombian-government-reports-three-killed-in-rebel-attack-on-military-post?traffic_source=rss",
-   "published": "2026-09-05T20:03:29+00:00",
-   "summary": "Colombian authorities blame ELN rebel group for attack that reportedly included drones dropping explosives on compound.",
    "tags": [
     "strikes"
    ],
