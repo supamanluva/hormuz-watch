@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-07T13:49:54.053163+00:00",
+ "asOf": "2026-09-07T14:22:37.358927+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Israeli attacks on Gaza kill five Palestinians, including two children",
+   "url": "https://www.aljazeera.com/news/2026/9/7/israeli-attacks-on-gaza-kill-five-palestinians-including-two-children?traffic_source=rss",
+   "published": "2026-09-07T13:52:52+00:00",
+   "summary": "Seven-year-old Wafaa Aqila and her father killed by Israeli strike while returning home with school supplies.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Why Jamaica is seeking $10bn in reparations from the UK",
@@ -611,18 +622,6 @@
     "strikes",
     "shipping",
     "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Pezeshkian orders probe into fatal fuel tanker explosion in western Iran",
-   "url": "https://en.irna.ir/news/86256553/Pezeshkian-orders-probe-into-fatal-fuel-tanker-explosion-in-western",
-   "published": "2026-09-06T10:59:35+00:00",
-   "summary": "Tehran, IRNA – President Masoud Pezeshkian has ordered an immediate investigation into the causes of a fuel tanker explosion that killed 11 people and injured seven others on the Sanandaj-Hamedan road in western Iran.",
-   "tags": [
-    "strikes",
-    "shipping"
    ],
    "highlight": false
   }
