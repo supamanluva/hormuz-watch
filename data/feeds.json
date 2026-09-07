@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-07T01:59:14.501006+00:00",
+ "asOf": "2026-09-07T02:32:09.491498+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Eight-year-old Gaza girl killed by Israel on first day of school",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/eight-year-old-gaza-girl-killed-by-israel-on-first-day-of-school?traffic_source=rss",
+   "published": "2026-09-07T02:17:17+00:00",
+   "summary": "An eight-year-old girl and her father were killed when an Israeli strike hit their vehicle on her first day of school.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "New York Times Bestselling Author, Victor Davis Hanson, just wrote what will quickly be considered one of the BEST BOOKS OF THE YEAR (Maybe the BEST!). Entitled, THE COUNTER REVOLUTION, he understands me, perhaps better, than I understand myself. From the brink of disaster, the U.S.A. is now the “hottest” Country anywhere in the World, and it was MAGA, and a lot of Great American Patriots, that got us there. Victor Davis Hanson explains it all, and better than ever before! GET HIS HISTORICALLY IMPORTANT BOOK, NOW. Thank you!!! President DJT",
@@ -612,19 +623,6 @@
    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/us-says-it-hit-three-iranian-oil-tankers-after-attacks-on-warships?traffic_source=rss",
    "published": "2026-09-05T15:49:44+00:00",
    "summary": "US Central Command says its forces struck three Iranian crude oil carriers on Saturday.",
-   "tags": [
-    "strikes",
-    "shipping",
-    "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "US says it hit Iran oil tankers accused of helping ‘regional proxies’",
-   "url": "https://www.aljazeera.com/news/2026/9/5/us-says-it-hit-iran-oil-tankers-helping-finance-regional-proxies?traffic_source=rss",
-   "published": "2026-09-05T14:49:36+00:00",
-   "summary": "The latest US strikes have hit Iranian oil tankers in the Gulf of Oman and near Iran’s Kharg island.",
    "tags": [
     "strikes",
     "shipping",
