@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-07T14:22:37.358927+00:00",
+ "asOf": "2026-09-07T14:49:48.190291+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Will Trump succeed in restarting Russia-Ukraine peace talks?",
+   "url": "https://www.aljazeera.com/opinions/2026/9/7/will-trump-succeed-in-restarting-russia-ukraine-peace-talks?traffic_source=rss",
+   "published": "2026-09-07T14:22:58+00:00",
+   "summary": "The Witkoff-Kushner visit to Moscow and Kyiv did not produce a breakthrough, but it can help begin a new process.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Israeli attacks on Gaza kill five Palestinians, including two children",
@@ -609,19 +620,6 @@
    "summary": "Steve Witkoff and Jared Kushner met Putin and headed to Kyiv as part of Trump&#039;s new efforts to broker agreement.",
    "tags": [
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "US military cannot call its ‘barbaric crimes’ against civilians a ‘mistake’: Iran’s OIC mission",
-   "url": "https://en.irna.ir/news/86256611/US-military-cannot-call-its-barbaric-crimes-against-civilians",
-   "published": "2026-09-06T13:03:38+00:00",
-   "summary": "Tehran, IRNA –Iran’s mission to the Organization of Islamic Cooperation (OIC) has denounced the US military for proudly acknowledging yet another “cowardly and illegal attack” on an Iranian oil tanker, while evading responsibility for the killing of civilians.",
-   "tags": [
-    "strikes",
-    "shipping",
-    "oil"
    ],
    "highlight": false
   }
