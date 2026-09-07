@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-07T13:23:08.294348+00:00",
+ "asOf": "2026-09-07T13:49:54.053163+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Why Jamaica is seeking $10bn in reparations from the UK",
+   "url": "https://www.aljazeera.com/news/2026/9/7/why-jamaica-is-seeking-10bn-in-reparations-from-the-uk?traffic_source=rss",
+   "published": "2026-09-07T13:24:53+00:00",
+   "summary": "Hundreds of thousands of enslaved Africans toiled in Jamaica under more than 300 years of British rule.",
+   "tags": [
+    "oil"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Strike our assets, and you will get struck, Ghalibaf warns US",
@@ -20,6 +31,29 @@
    "summary": "Tehran, IRNA – Foreign Ministry spokesperson Esmaeil Baqaei has once again denounced the US for committing war crimes in Iran, describing the American military attacks and killing of civilians as “deliberate” aggression, not “collateral damage.”",
    "tags": [
     "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Moment Israeli strike hits next to Lebanese reporter",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/moment-israeli-strike-hits-next-to-lebanese-reporter?traffic_source=rss",
+   "published": "2026-09-07T13:05:59+00:00",
+   "summary": "Moment Israeli strike hits next to Lebanese reporter",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Yemen gov’t forces launch air strikes on Houthi targets",
+   "url": "https://www.aljazeera.com/news/2026/9/7/yemen-govt-forces-launch-air-strikes-on-houthi-targets?traffic_source=rss",
+   "published": "2026-09-07T13:05:54+00:00",
+   "summary": "The Houthis and Yemeni government forces are battling for control of the critical Bab al-Mandeb Strait.",
+   "tags": [
+    "strikes",
+    "shipping"
    ],
    "highlight": false
   },
@@ -62,7 +96,7 @@
    "title": "Iran and Ukraine wars: Why ship fuel is running short, and why it matters",
    "url": "https://www.aljazeera.com/news/2026/9/7/iran-and-ukraine-wars-why-ship-fuel-is-running-short-and-why-it-matters?traffic_source=rss",
    "published": "2026-09-07T11:26:27+00:00",
-   "summary": "There&#039;s less crude in the market, and refiners prefer to produce diesel. The result: Ships are running short of fuel.",
+   "summary": "There is less crude in the market, and refiners prefer to produce diesel. The result: ships are running short of fuel.",
    "tags": [
     "oil"
    ],
@@ -589,40 +623,6 @@
    "tags": [
     "strikes",
     "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "US, Iran engaged in tanker war: Where is the months-long conflict headed?",
-   "url": "https://www.aljazeera.com/news/2026/9/6/us-iran-engaged-in-tanker-war-where-is-the-months-long-conflict-headed?traffic_source=rss",
-   "published": "2026-09-06T10:49:22+00:00",
-   "summary": "The US and Iran attack tankers in Strait of Hormuz, as the two sides try to exert control over the strategic waterway.",
-   "tags": [
-    "strikes",
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Israeli air attacks on Lebanon kill at least four",
-   "url": "https://www.aljazeera.com/news/2026/9/6/israeli-air-attacks-on-lebanon-kill-at-least-four?traffic_source=rss",
-   "published": "2026-09-06T09:15:20+00:00",
-   "summary": "Two women killed in an air attack on Arab Salim, and two people killed in strike on Nabatieh al-Fawqa.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Israel bombards several towns in southern Lebanon",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/6/israel-bombards-several-towns-in-southern-lebanon?traffic_source=rss",
-   "published": "2026-09-06T08:44:03+00:00",
-   "summary": "The Israeli army has blown up several villages in southern Lebanon in violation of a ceasefire agreement reached in June",
-   "tags": [
-    "diplomacy"
    ],
    "highlight": false
   }
