@@ -1,6 +1,19 @@
 {
- "asOf": "2026-09-07T10:49:40.722249+00:00",
+ "asOf": "2026-09-07T11:19:59.012484+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran dismisses US account of attacks on Iranian oil tankers, says it’s acting in self-defense",
+   "url": "https://en.irna.ir/news/86257492/Iran-dismisses-US-account-of-attacks-on-Iranian-oil-tankers",
+   "published": "2026-09-07T11:04:44+00:00",
+   "summary": "Tehran, IRNA – Foreign Ministry spokesperson Esmaeil Baqaei has dismissed the US narrative about its attacks on Iranian oil tankers in the Persian Gulf, saying Iran is acting in self-defense in the face of a maritime blockade and economic war imposed by Washington.",
+   "tags": [
+    "strikes",
+    "shipping",
+    "oil"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Baqaei: Iran’s actions in Strait of Hormuz purely defensive",
@@ -609,17 +622,6 @@
    "url": "https://www.aljazeera.com/news/2026/9/6/netanyahu-boasts-about-bombing-qatar-says-gaza-funds-used-for-aid?traffic_source=rss",
    "published": "2026-09-06T01:02:08+00:00",
    "summary": "Netanyahu has called Qatar a &#039;hostile&#039; state and boasted that Israel bombed the country.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iran war live: Tehran warns of ‘faster, more painful’ response to attacks",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade?traffic_source=rss",
-   "published": "2026-09-06T00:00:00+00:00",
-   "summary": "Iran’s parliament speaker says new attacks on the country will “meet a faster, heavier and more painful response”.",
    "tags": [
     "strikes"
    ],
