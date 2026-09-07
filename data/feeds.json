@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-07T11:19:59.012484+00:00",
+ "asOf": "2026-09-07T11:49:58.171549+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Iran and Ukraine wars: Why ship fuel is running short, and why it matters",
+   "url": "https://www.aljazeera.com/news/2026/9/7/iran-and-ukraine-wars-why-ship-fuel-is-running-short-and-why-it-matters?traffic_source=rss",
+   "published": "2026-09-07T11:26:27+00:00",
+   "summary": "There&#039;s less crude in the market, and refiners prefer to produce diesel. The result: Ships are running short of fuel.",
+   "tags": [
+    "oil"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Iran dismisses US account of attacks on Iranian oil tankers, says it’s acting in self-defense",
@@ -611,17 +622,6 @@
    "url": "https://www.aljazeera.com/news/2026/9/6/nearly-9000-killed-in-israeli-attacks-on-lebanon-since-2023?traffic_source=rss",
    "published": "2026-09-06T02:56:31+00:00",
    "summary": "More than 179 attacks on ambulance crews recorded since March 2, killing 179 healthcare workers.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Netanyahu boasts about bombing Qatar, says Gaza funds used for aid",
-   "url": "https://www.aljazeera.com/news/2026/9/6/netanyahu-boasts-about-bombing-qatar-says-gaza-funds-used-for-aid?traffic_source=rss",
-   "published": "2026-09-06T01:02:08+00:00",
-   "summary": "Netanyahu has called Qatar a &#039;hostile&#039; state and boasted that Israel bombed the country.",
    "tags": [
     "strikes"
    ],
