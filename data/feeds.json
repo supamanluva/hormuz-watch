@@ -1,6 +1,18 @@
 {
- "asOf": "2026-09-07T19:49:47.456619+00:00",
+ "asOf": "2026-09-07T20:20:05.219402+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Cuba says no negotiations with US despite ‘genocidal’ blockade",
+   "url": "https://www.aljazeera.com/economy/2026/9/7/cuba-says-no-negotiations-with-us-despite-genocidal-blockade?traffic_source=rss",
+   "published": "2026-09-07T19:58:48+00:00",
+   "summary": "Cuba reports record losses from the US embargo as foreign minister describes months of punishing blackouts.",
+   "tags": [
+    "sanctions",
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Iran: US and Israeli regime bombed IAEA Statute and nuclear safety rules",
@@ -23,6 +35,15 @@
     "nuclear"
    ],
    "highlight": false
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "[No Title] - Post from September 7, 2026",
+   "url": "https://trumpstruth.org/statuses/41620",
+   "published": "2026-09-07T18:35:19+00:00",
+   "summary": "",
+   "tags": [],
+   "highlight": true
   },
   {
    "source": "IRNA (Iran state wire)",
@@ -339,15 +360,6 @@
    "highlight": true
   },
   {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from September 7, 2026",
-   "url": "https://trumpstruth.org/statuses/41612",
-   "published": "2026-09-07T14:42:51+00:00",
-   "summary": "",
-   "tags": [],
-   "highlight": true
-  },
-  {
    "source": "Al Jazeera",
    "title": "Will Trump succeed in restarting Russia-Ukraine peace talks?",
    "url": "https://www.aljazeera.com/opinions/2026/9/7/will-trump-succeed-in-restarting-russia-ukraine-peace-talks?traffic_source=rss",
@@ -606,17 +618,6 @@
     "diplomacy",
     "shipping",
     "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran’s top security official: Trump’s claim that Strait of Hormuz is open ‘a big lie’",
-   "url": "https://en.irna.ir/news/86256864/Iran-s-top-security-official-Trump-s-claim-Strait-of-Hormuz",
-   "published": "2026-09-06T19:09:46+00:00",
-   "summary": "Tehran, IRNA - Secretary of Iran’s Supreme National Security Council has declared that the Strait of Hormuz is “completely closed and under the control of the armed forces,” dismissing US President Donald Trump’s claim that the strategic waterway remains open as a “big lie.”",
-   "tags": [
-    "shipping"
    ],
    "highlight": false
   }
