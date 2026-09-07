@@ -1,6 +1,46 @@
 {
- "asOf": "2026-09-07T21:18:16.206145+00:00",
+ "asOf": "2026-09-07T22:18:39.678130+00:00",
  "items": [
+  {
+   "source": "Trump · Truth Social",
+   "title": "[No Title] - Post from September 7, 2026",
+   "url": "https://trumpstruth.org/statuses/41623",
+   "published": "2026-09-07T21:41:14+00:00",
+   "summary": "",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "US producer prices post largest drop in 14 months; inflation risks still tilted to the upside:",
+   "url": "https://trumpstruth.org/statuses/41622",
+   "published": "2026-09-07T21:35:50+00:00",
+   "summary": "US producer prices post largest drop in 14 months; inflation risks still tilted to the upside: https://www. reuters.com/business/us-produc er-prices-unexpectedly-fall-june-2026-07-15/",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Oil prices surge as US-Iran strikes intensify in Strait of Hormuz",
+   "url": "https://www.aljazeera.com/economy/2026/9/7/oil-prices-surge-as-us-iran-strikes-intensify-in-strait-of-hormuz?traffic_source=rss",
+   "published": "2026-09-07T21:17:12+00:00",
+   "summary": "Oil prices spike to six-week highs as US-Iran strikes disrupt traffic in the crucial Strait of Hormuz.",
+   "tags": [
+    "strikes",
+    "shipping",
+    "oil"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "Christopher Columbus proudly stands at the entrance to the Eisenhower Executive Office Building, directly adjacent to the White House, one of the most important Entrances to a Building in D.C. I did this in Honor of the Italian American Community — Industrious, brilliant, wonderful people. It is something that they have greatly appreciated! President DONALD J. TRUMP",
+   "url": "https://trumpstruth.org/statuses/41621",
+   "published": "2026-09-07T21:17:06+00:00",
+   "summary": "Christopher Columbus proudly stands at the entrance to the Eisenhower Executive Office Building, directly adjacent to the White House, one of the most important Entrances to a Building in D.C. I did this in Honor of the Italian American Community — Industrious, brilliant, wonderful people. It is something that they have greatly appreciated! President DONALD J. TRUMP",
+   "tags": [],
+   "highlight": true
+  },
   {
    "source": "Al Jazeera",
    "title": "Yemen fighting escalates as forces battle for Bab al-Mandeb Strait",
@@ -367,33 +407,6 @@
    "highlight": true
   },
   {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from September 7, 2026",
-   "url": "https://www.trumpstruth.org/statuses/41611",
-   "published": "2026-09-07T14:42:59+00:00",
-   "summary": "",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from September 7, 2026",
-   "url": "https://trumpstruth.org/statuses/41611",
-   "published": "2026-09-07T14:42:59+00:00",
-   "summary": "",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from September 7, 2026",
-   "url": "https://www.trumpstruth.org/statuses/41612",
-   "published": "2026-09-07T14:42:51+00:00",
-   "summary": "",
-   "tags": [],
-   "highlight": true
-  },
-  {
    "source": "Al Jazeera",
    "title": "Will Trump succeed in restarting Russia-Ukraine peace talks?",
    "url": "https://www.aljazeera.com/opinions/2026/9/7/will-trump-succeed-in-restarting-russia-ukraine-peace-talks?traffic_source=rss",
@@ -603,17 +616,6 @@
    "summary": "Patrick Havas, 38, arrested with weapons after injuring several at Ohio Democrat Amy Acton’s campaign stop.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iran to announce restricted zone outside Strait of Hormuz",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/aje-onl-nf_iran-to-announce-restricted-zone-around-hormuz-060926?traffic_source=rss",
-   "published": "2026-09-07T02:41:56+00:00",
-   "summary": "Iran&#039;s security chief Mohsen Rezaei says Tehran will announce a restricted zone around the Strait of Hormuz.",
-   "tags": [
-    "shipping"
    ],
    "highlight": false
   }
