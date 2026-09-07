@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-07T20:20:05.219402+00:00",
+ "asOf": "2026-09-07T20:49:46.014106+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran on path of active deterrence: A new defense doctrine with new tools",
+   "url": "https://en.irna.ir/news/86257892/Iran-on-path-of-active-deterrence-A-new-defense-doctrine-with",
+   "published": "2026-09-07T20:34:28+00:00",
+   "summary": "Tehran, IRNA – The unveiling of the Qasem Basir ballistic missile marks a turning point in Iran's defense strategy; it is a missile that not only boasts greater range and precision but also symbolizes a paradigm shift: the transition from reactive to active deterrence.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Cuba says no negotiations with US despite ‘genocidal’ blockade",
@@ -604,20 +615,6 @@
     "strikes",
     "nuclear",
     "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iran war live: US energy firms ‘legitimate’ targets after tanker attacks",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/9/7/iran-war-live-tehran-to-announce-new-hormuz-shipping-route-in-coming-days?traffic_source=rss",
-   "published": "2026-09-07T00:00:00+00:00",
-   "summary": "Iran&#039;s top negotiator warns US oil-and-gas companies will be hit after Hormuz Strait shipping strikes.",
-   "tags": [
-    "strikes",
-    "diplomacy",
-    "shipping",
-    "oil"
    ],
    "highlight": false
   }
