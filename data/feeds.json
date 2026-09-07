@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-07T06:44:56.761855+00:00",
+ "asOf": "2026-09-07T07:06:30.673316+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Israeli air attack kills at least 10 people in southern Lebanon",
+   "url": "https://www.aljazeera.com/news/2026/9/7/israeli-air-attack-kills-at-least-10-people-in-southern-lebanon?traffic_source=rss",
+   "published": "2026-09-07T06:58:28+00:00",
+   "summary": "Among the 10 killed overnight are children, including a two-month old infant.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Armed assailant attacks Ohio Democratic candidate during campaign stop",
@@ -274,7 +285,7 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "Iran war live: Tehran to announce new Hormuz shipping route in coming days",
+   "title": "Iran war live: Tehran to announce Hormuz route; Israel kills 11 in Lebanon",
    "url": "https://www.aljazeera.com/news/liveblog/2026/9/7/iran-war-live-tehran-to-announce-new-hormuz-shipping-route-in-coming-days?traffic_source=rss",
    "published": "2026-09-07T00:00:00+00:00",
    "summary": "Move comes as Iran&#039;s top negotiator warns of heavier responses to new attacks after US strikes on Iranian oil tankers.",
@@ -611,17 +622,6 @@
    "url": "https://www.aljazeera.com/news/2026/9/5/colombian-government-reports-three-killed-in-rebel-attack-on-military-post?traffic_source=rss",
    "published": "2026-09-05T20:03:29+00:00",
    "summary": "Colombian authorities blame ELN rebel group for attack that reportedly included drones dropping explosives on compound.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Jerusalem Daily: raids, settlers & sieges",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/jerusalem-daily-raids-settlers-sieges?traffic_source=rss",
-   "published": "2026-09-05T19:37:10+00:00",
-   "summary": "Mike Huckabee visits as settlers attack Palestinians, Israeli forces carry out raids and arrests.",
    "tags": [
     "strikes"
    ],
