@@ -1,6 +1,28 @@
 {
- "asOf": "2026-09-07T11:49:58.171549+00:00",
+ "asOf": "2026-09-07T12:32:30.780369+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran-Pakistan chamber seeks free trade deal amid tariff hike",
+   "url": "https://en.irna.ir/news/86257551/Iran-Pakistan-chamber-seeks-free-trade-deal-amid-tariff-hike",
+   "published": "2026-09-07T12:14:01+00:00",
+   "summary": "Tehran, IRNA – The head of the Iran-Pakistan Joint Chamber says the chamber is negotiating to remove trade barriers following Pakistan’s recent increase in tariffs on some Iranian exports.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Can Iran enforce a restricted zone in the Strait of Hormuz?",
+   "url": "https://www.aljazeera.com/news/2026/9/7/can-iran-enforce-a-restricted-zone-in-the-strait-of-hormuz?traffic_source=rss",
+   "published": "2026-09-07T11:37:46+00:00",
+   "summary": "Iran unveils plans for a restricted zone, but will Tehran be able to enforce it amid escalating tensions with the US?",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Iran and Ukraine wars: Why ship fuel is running short, and why it matters",
@@ -602,28 +624,6 @@
    "tags": [
     "strikes",
     "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "IRGC targets US aircraft carrier, destroyer in ballistic missile attack",
-   "url": "https://en.irna.ir/news/86255997/IRGC-targets-US-aircraft-carrier-destroyer-in-ballistic-missile",
-   "published": "2026-09-06T05:53:41+00:00",
-   "summary": "Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) has announced that its Aerospace Force had targeted a US aircraft carrier and a destroyer with several ballistic missiles during an ongoing maritime confrontation.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Nearly 9,000 killed in Israeli attacks on Lebanon since 2023",
-   "url": "https://www.aljazeera.com/news/2026/9/6/nearly-9000-killed-in-israeli-attacks-on-lebanon-since-2023?traffic_source=rss",
-   "published": "2026-09-06T02:56:31+00:00",
-   "summary": "More than 179 attacks on ambulance crews recorded since March 2, killing 179 healthcare workers.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   }
