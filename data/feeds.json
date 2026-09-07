@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-07T02:32:09.491498+00:00",
+ "asOf": "2026-09-07T02:52:22.744310+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Iran to announce restricted zone outside Strait of Hormuz",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/aje-onl-nf_iran-to-announce-restricted-zone-around-hormuz-060926?traffic_source=rss",
+   "published": "2026-09-07T02:41:56+00:00",
+   "summary": "Iran&#039;s security chief Mohsen Rezaei says Tehran will announce a restricted zone around the Strait of Hormuz.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Eight-year-old Gaza girl killed by Israel on first day of school",
@@ -614,19 +625,6 @@
    "summary": "The victims, all from one Palestinian family, had been sheltering at their family home when Israel hit it.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "US says it hit three Iranian oil tankers after attacks on warships",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/us-says-it-hit-three-iranian-oil-tankers-after-attacks-on-warships?traffic_source=rss",
-   "published": "2026-09-05T15:49:44+00:00",
-   "summary": "US Central Command says its forces struck three Iranian crude oil carriers on Saturday.",
-   "tags": [
-    "strikes",
-    "shipping",
-    "oil"
    ],
    "highlight": false
   }
