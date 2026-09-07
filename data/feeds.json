@@ -1,6 +1,29 @@
 {
- "asOf": "2026-09-07T20:49:46.014106+00:00",
+ "asOf": "2026-09-07T21:18:16.206145+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Yemen fighting escalates as forces battle for Bab al-Mandeb Strait",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/yemen-fighting-escalates-as-forces-battle-for-bab-al-mandeb-strait?traffic_source=rss",
+   "published": "2026-09-07T20:59:56+00:00",
+   "summary": "Fighting is intensifying in Yemen as government-aligned forces launch counterattacks against the Iran-backed Houthis.",
+   "tags": [
+    "strikes",
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran: Calls for unconditional IAEA Safeguards compliance meaningless",
+   "url": "https://en.irna.ir/news/86257904/Iran-Calls-for-unconditional-IAEA-Safeguards-compliance-meaningless",
+   "published": "2026-09-07T20:49:49+00:00",
+   "summary": "London, IRNA – Iran’s mission to the United Nations in Vienna says calls on Tehran to unconditionally comply with International Atomic Energy Agency (IAEA) Safeguards are “meaningless” under the current “hazardous” circumstances.",
+   "tags": [
+    "nuclear"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Iran on path of active deterrence: A new defense doctrine with new tools",
@@ -590,30 +613,6 @@
    "published": "2026-09-07T02:41:56+00:00",
    "summary": "Iran&#039;s security chief Mohsen Rezaei says Tehran will announce a restricted zone around the Strait of Hormuz.",
    "tags": [
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Eight-year-old Gaza girl killed by Israel on first day of school",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/eight-year-old-gaza-girl-killed-by-israel-on-first-day-of-school?traffic_source=rss",
-   "published": "2026-09-07T02:17:17+00:00",
-   "summary": "An eight-year-old girl and her father were killed when an Israeli strike hit their vehicle on her first day of school.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "North Korea deploys warship ‘capable of annihilating retaliatory strikes’",
-   "url": "https://www.aljazeera.com/news/2026/9/7/north-korea-deploys-warship-capable-of-annihilating-retaliatory-strikes?traffic_source=rss",
-   "published": "2026-09-07T00:20:04+00:00",
-   "summary": "Leader Kim Jong Un says vessel will form part of Pyongyang&#039;s nuclear response system, strengthen naval forces.",
-   "tags": [
-    "strikes",
-    "nuclear",
     "shipping"
    ],
    "highlight": false
