@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-07T08:33:00.548191+00:00",
+ "asOf": "2026-09-07T08:53:56.160670+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran warns South Korea over military presence in Persian Gulf",
+   "url": "https://en.irna.ir/news/86257207/Iran-warns-South-Korea-over-military-presence-in-Persian-Gulf",
+   "published": "2026-09-07T08:41:59+00:00",
+   "summary": "Tehran, IRNA — Iran has warned South Korea against any military participation in the Persian Gulf and Strait of Hormuz, saying such involvement would amount to direct support for an aggressor and could have serious consequences.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "In photos: US attack turns wedding into wake in Iran",
@@ -14,10 +25,10 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "Israeli air attack kills at least 10 people in southern Lebanon",
+   "title": "Israeli air attacks kill at least 11 people in southern Lebanon",
    "url": "https://www.aljazeera.com/news/2026/9/7/israeli-air-attack-kills-at-least-10-people-in-southern-lebanon?traffic_source=rss",
    "published": "2026-09-07T06:58:28+00:00",
-   "summary": "Among the 10 killed overnight are children, including a two-month old infant.",
+   "summary": "Israeli air strike on residential building in Kfar Reman kills nine people, and two medics killed in drone attack.",
    "tags": [
     "strikes"
    ],
@@ -613,17 +624,6 @@
     "strikes",
     "shipping",
     "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Yemeni army launches drone attack on Saudi-affiliated militia positions in Taiz",
-   "url": "https://en.irna.ir/news/86255902/Yemeni-army-launches-drone-attack-on-Saudi-affiliated-militia",
-   "published": "2026-09-05T20:24:34+00:00",
-   "summary": "Tehran, IRNA – The Yemeni armed forces launched several drones at positions held by Saudi-backed militias whole at the same time, an explosion was heard in the city of Taiz.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   }
