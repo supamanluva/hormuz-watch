@@ -1,6 +1,29 @@
 {
- "asOf": "2026-09-07T19:16:38.294631+00:00",
+ "asOf": "2026-09-07T19:49:47.456619+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran: US and Israeli regime bombed IAEA Statute and nuclear safety rules",
+   "url": "https://en.irna.ir/news/86257875/Iran-US-and-Israeli-regime-bombed-IAEA-Statute-and-nuclear-safety",
+   "published": "2026-09-07T19:35:22+00:00",
+   "summary": "London, IRNA – At the meeting of the IAEA Board of Governors, the Islamic Republic of Iran condemned the aggression by the United States and the Israeli regime against the country's peaceful, safeguards-subjected nuclear facilities, emphasizing that through these attacks, the aggressors bombed the UN Charter, the IAEA Statute, and fundamental nuclear safety rules.",
+   "tags": [
+    "strikes",
+    "nuclear"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Syria’s Assad-era reactor configured for nuclear weapons: IAEA",
+   "url": "https://www.aljazeera.com/news/2026/9/7/syrias-assad-era-reactor-configured-for-nuclear-weapons-iaea?traffic_source=rss",
+   "published": "2026-09-07T19:31:05+00:00",
+   "summary": "UN watchdog says material from facility, bombed in 2007, now under IAEA safeguards.",
+   "tags": [
+    "nuclear"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Araghchi appears before Parliament’s National Security Commission",
@@ -594,28 +617,6 @@
    "summary": "Tehran, IRNA - Secretary of Iran’s Supreme National Security Council has declared that the Strait of Hormuz is “completely closed and under the control of the armed forces,” dismissing US President Donald Trump’s claim that the strategic waterway remains open as a “big lie.”",
    "tags": [
     "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Adidas faces boycott calls over campaign featuring former Israeli soldier",
-   "url": "https://www.aljazeera.com/sports/2026/9/6/adidas-faces-boycott-calls-over-campaign-featuring-former-israeli-soldier?traffic_source=rss",
-   "published": "2026-09-06T18:56:25+00:00",
-   "summary": "Activists slam campaign showing soldier while over 5,000 Palestinians faced amputations due to Israeli attacks in Gaza.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Witkoff says peace talks have been ‘very meaningful’ in Ukraine",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/6/witkoff-says-peace-talks-have-been-very-meaningful-in-ukraine?traffic_source=rss",
-   "published": "2026-09-06T18:28:27+00:00",
-   "summary": "Witkoff says peace talks have been ‘very meaningful’ in Ukraine",
-   "tags": [
-    "diplomacy"
    ],
    "highlight": false
   }
