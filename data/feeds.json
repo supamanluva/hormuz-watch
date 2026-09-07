@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-07T14:49:48.190291+00:00",
+ "asOf": "2026-09-07T15:20:25.731001+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Why do the Falkland Islands matter to the UK and Argentina so much?",
+   "url": "https://www.aljazeera.com/news/2026/9/7/why-do-the-falkland-islands-matter-to-the-uk-and-argentina-so-much?traffic_source=rss",
+   "published": "2026-09-07T14:58:56+00:00",
+   "summary": "Argentina&#039;s sovereignty claim is enshrined in its constitution, but oil production raises the economic stakes.",
+   "tags": [
+    "oil"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Will Trump succeed in restarting Russia-Ukraine peace talks?",
@@ -607,17 +618,6 @@
    "url": "https://en.irna.ir/news/86256677/Tehran-Moscow-poised-to-finalize-economic-deals-Iranian-minister",
    "published": "2026-09-06T15:03:40+00:00",
    "summary": "Moscow, IRNA – Economy Minister Seyed Ali Madanizadeh says Iran and Russia are moving toward finalizing previously reached economic agreements, with their implementation expected to strengthen financial ties and support trade and production.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "US envoys meet Putin: What’s behind latest diplomacy on Russia-Ukraine war?",
-   "url": "https://www.aljazeera.com/news/2026/9/6/putin-meets-us-envoys-whats-behind-latest-diplomacy-on-russia-ukraine-war?traffic_source=rss",
-   "published": "2026-09-06T15:00:16+00:00",
-   "summary": "Steve Witkoff and Jared Kushner met Putin and headed to Kyiv as part of Trump&#039;s new efforts to broker agreement.",
    "tags": [
     "diplomacy"
    ],
