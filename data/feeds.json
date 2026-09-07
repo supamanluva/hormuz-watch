@@ -1,5 +1,5 @@
 {
- "asOf": "2026-09-07T05:49:32.110488+00:00",
+ "asOf": "2026-09-07T06:44:56.761855+00:00",
  "items": [
   {
    "source": "Al Jazeera",
@@ -287,6 +287,17 @@
    "highlight": false
   },
   {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran’s top security official: Trump’s claim that Strait of Hormuz is open ‘a big lie’",
+   "url": "https://en.irna.ir/news/86256864/Iran-s-top-security-official-Trump-s-claim-Strait-of-Hormuz",
+   "published": "2026-09-06T19:09:46+00:00",
+   "summary": "Tehran, IRNA - Secretary of Iran’s Supreme National Security Council has declared that the Strait of Hormuz is “completely closed and under the control of the armed forces,” dismissing US President Donald Trump’s claim that the strategic waterway remains open as a “big lie.”",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
    "source": "Al Jazeera",
    "title": "Adidas faces boycott calls over campaign featuring former Israeli soldier",
    "url": "https://www.aljazeera.com/sports/2026/9/6/adidas-faces-boycott-calls-over-campaign-featuring-former-israeli-soldier?traffic_source=rss",
@@ -305,6 +316,29 @@
    "summary": "Witkoff says peace talks have been ‘very meaningful’ in Ukraine",
    "tags": [
     "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran will ban sanctioning countries from transiting Strait of Hormuz: MP",
+   "url": "https://en.irna.ir/news/86256819/Iran-will-ban-sanctioning-countries-from-transiting-Strait-of",
+   "published": "2026-09-06T17:40:20+00:00",
+   "summary": "Tehran, IRNA - Iran’s Parliament National Security and Foreign Policy Commission has approved a strategic plan aimed at ensuring security in the Strait of Hormuz, which would ban countries and entities that impose sanctions against the Islamic Republic from transiting the strategic waterway.",
+   "tags": [
+    "sanctions",
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Ghalibaf mocks Bessent for speculating drop in oil prices before US midterm elections",
+   "url": "https://en.irna.ir/news/86256805/Ghalibaf-mocks-Bessent-for-speculating-drop-in-oil-prices-before",
+   "published": "2026-09-06T17:36:34+00:00",
+   "summary": "Tehran, IRNA – Parliament Speaker Mohammad Bagher Ghalibaf has once again mocked US Treasury Secretary Scott Bessent over his claim of GDP growth and the speculation that oil prices will fall to $40 before the US midterm elections.",
+   "tags": [
+    "oil"
    ],
    "highlight": false
   },
@@ -344,11 +378,33 @@
    "highlight": false
   },
   {
+   "source": "IRNA (Iran state wire)",
+   "title": "Yemeni army hits gathering of Saudi-affiliated militia commanders with missile",
+   "url": "https://en.irna.ir/news/86256717/Yemeni-army-hits-gathering-of-Saudi-affiliated-militia-commanders",
+   "published": "2026-09-06T16:00:12+00:00",
+   "summary": "Tehran, IRNA – The Yemeni Armed Forces have targeted a meeting of Saudi-backed militia commanders with a ballistic missile, in the western city of Taiz, amid Riyadh's renewed military mobilization against Sana'a.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
    "source": "Al Jazeera",
    "title": "US envoys hold ‘substantive’ talks with Zelenskyy in first visit to Kyiv",
    "url": "https://www.aljazeera.com/news/2026/9/6/us-envoys-hold-substantive-talks-with-zelenskyy-in-first-visit-to-kyiv?traffic_source=rss",
    "published": "2026-09-06T15:32:00+00:00",
    "summary": "Meeting comes a day after US envoys Jared Kushner and Steve Witkoff met Russian President Vladimir Putin in Moscow.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Tehran, Moscow poised to finalize economic deals: Iranian minister",
+   "url": "https://en.irna.ir/news/86256677/Tehran-Moscow-poised-to-finalize-economic-deals-Iranian-minister",
+   "published": "2026-09-06T15:03:40+00:00",
+   "summary": "Moscow, IRNA – Economy Minister Seyed Ali Madanizadeh says Iran and Russia are moving toward finalizing previously reached economic agreements, with their implementation expected to strengthen financial ties and support trade and production.",
    "tags": [
     "diplomacy"
    ],
@@ -566,63 +622,6 @@
    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/jerusalem-daily-raids-settlers-sieges?traffic_source=rss",
    "published": "2026-09-05T19:37:10+00:00",
    "summary": "Mike Huckabee visits as settlers attack Palestinians, Israeli forces carry out raids and arrests.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran condemns US attacks on oil tankers as violation of international law",
-   "url": "https://en.irna.ir/news/86255891/Iran-condemns-US-attacks-on-oil-tankers-as-violation-of-international",
-   "published": "2026-09-05T19:34:24+00:00",
-   "summary": "Tehran, IRNA – The Iranian Foreign Ministry has issued a strong condemnation of the attacks by the US on its commercial shipping fleet, saying they represent a clear violation of international law.",
-   "tags": [
-    "strikes",
-    "shipping",
-    "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Cuban and Afghan immigrants deported from US under Trump arrive in Guyana",
-   "url": "https://www.aljazeera.com/news/2026/9/5/cuban-and-afghan-immigrants-deported-from-us-under-trump-arrive-in-guyana?traffic_source=rss",
-   "published": "2026-09-05T19:19:52+00:00",
-   "summary": "The Trump administration has sought to expand third-country deportations, with more than 30 deals struck so far.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran warns US of more severe blows to warships if aggression continues",
-   "url": "https://en.irna.ir/news/86255880/Iran-warns-US-of-more-severe-blows-to-warships-if-aggression",
-   "published": "2026-09-05T19:11:10+00:00",
-   "summary": "Tehran, IRNA – Spokesperson for the Khatam al-Anbiya Central Headquarters has warned the “terrorist” US military that the armed forces will deal more “severe and extensive” blows to American warships if Washington continues acts of aggression in the region.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Russia’s Putin and US envoys discuss Trump proposal to end Ukraine war",
-   "url": "https://www.aljazeera.com/news/2026/9/5/russias-putin-meets-us-envoys-to-discuss-trump-proposal-to-end-ukraine-war?traffic_source=rss",
-   "published": "2026-09-05T18:12:52+00:00",
-   "summary": "Kremlin aide calls the Moscow talks &#039;very frank and constructive&#039;, as US envoys head to Kyiv next.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Gaza death toll rises to 73,651, health ministry says",
-   "url": "https://en.irna.ir/news/86255817/Gaza-death-toll-rises-to-73-651-health-ministry-says",
-   "published": "2026-09-05T17:05:27+00:00",
-   "summary": "The death toll from Israeli attacks on the Gaza Strip has risen to 73,651, with 174,575 people wounded, Gaza’s health ministry said on Saturday.",
    "tags": [
     "strikes"
    ],
