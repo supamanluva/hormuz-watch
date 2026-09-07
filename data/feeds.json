@@ -1,6 +1,40 @@
 {
- "asOf": "2026-09-07T12:54:38.712794+00:00",
+ "asOf": "2026-09-07T13:23:08.294348+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Strike our assets, and you will get struck, Ghalibaf warns US",
+   "url": "https://en.irna.ir/news/86257497/Strike-our-assets-and-you-will-get-struck-Ghalibaf-warns-US",
+   "published": "2026-09-07T13:09:34+00:00",
+   "summary": "Tehran, IRNA – Parliament Speaker Mohammad Bagher Ghalibaf has reacted to the US war secretary’s threats against Iran and said any attack on Iran’s assets will be met with strikes on US energy companies in the region.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran holds US accountable for ‘deliberate’ attacks on civilians: Baqaei",
+   "url": "https://en.irna.ir/news/86257472/Iran-holds-US-accountable-for-deliberate-attacks-on-civilians",
+   "published": "2026-09-07T13:07:05+00:00",
+   "summary": "Tehran, IRNA – Foreign Ministry spokesperson Esmaeil Baqaei has once again denounced the US for committing war crimes in Iran, describing the American military attacks and killing of civilians as “deliberate” aggression, not “collateral damage.”",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran says Oman acts in good faith in talks on Strait of Hormuz",
+   "url": "https://en.irna.ir/news/86257335/Iran-says-Oman-acts-in-good-faith-in-talks-on-Strait-of-Hormuz",
+   "published": "2026-09-07T13:01:47+00:00",
+   "summary": "Tehran, IRNA – Foreign Ministry spokesperson Esmaeil Baqaei says Oman has acted in good faith during recent talks on shipping security in the Strait of Hormuz.",
+   "tags": [
+    "diplomacy",
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Iran-Pakistan chamber seeks free trade deal amid tariff hike",
@@ -589,41 +623,6 @@
    "summary": "The Israeli army has blown up several villages in southern Lebanon in violation of a ceasefire agreement reached in June",
    "tags": [
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran FM holds phone talks with Saudi, Turkish counterparts",
-   "url": "https://en.irna.ir/news/86256017/Iran-FM-holds-phone-talks-with-Saudi-Turkish-counterparts",
-   "published": "2026-09-06T06:30:29+00:00",
-   "summary": "Tehran, IRNA – Iran’s Foreign Minister, Abbas Araghchi, and his Saudi and Turkish counterparts, Faisal bin Farhan and Hakan Fidan, have discussed regional developments and ongoing diplomatic efforts.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "IRGC attacks US unmanned vessel seeking access to Strait of Hormuz",
-   "url": "https://en.irna.ir/news/86256022/IRGC-attacks-US-unmanned-vessel-seeking-access-to-Strait-of-Hormuz",
-   "published": "2026-09-06T06:00:23+00:00",
-   "summary": "Tehran, IRNA – The Naval Forces of the Islamic Revolution Guards Corps (IRGC) have attacked a US military unmanned surface vessel (USV) that was attempting to enter the protected area of the Strait of Hormuz.",
-   "tags": [
-    "strikes",
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran strikes back after US targets its tankers",
-   "url": "https://en.irna.ir/news/86256016/Iran-strikes-back-after-US-targets-its-tankers",
-   "published": "2026-09-06T06:00:23+00:00",
-   "summary": "Tehran, IRNA — The Islamic Revolution Guards Corps (IRGC) Navy has responded to the aggression of the US military in attacking three Iranian tankers by firing three missiles from Sirik toward the Strait of Hormuz.",
-   "tags": [
-    "strikes",
-    "shipping"
    ],
    "highlight": false
   }
