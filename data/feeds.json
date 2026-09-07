@@ -1,6 +1,29 @@
 {
- "asOf": "2026-09-07T16:50:31.347985+00:00",
+ "asOf": "2026-09-07T17:18:31.566517+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Yemen warns Saudi attacks will not go unpunished",
+   "url": "https://en.irna.ir/news/86257794/Yemen-warns-Saudi-attacks-will-not-go-unpunished",
+   "published": "2026-09-07T16:50:08+00:00",
+   "summary": "Tehran, IRNA – Yemen’s armed forces spokesperson Brigadier General Yahya Saree says that continued Saudi attacks on Yemen would not go unanswered, following Saudi airstrikes on several areas in the country.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Claimed Israeli capture of Lebanese ridge reshapes negotiation dynamics",
+   "url": "https://www.aljazeera.com/features/2026/9/7/claimed-israeli-capture-of-lebanese-ridge-reshapes-negotiation-dynamics?traffic_source=rss",
+   "published": "2026-09-07T16:42:51+00:00",
+   "summary": "Israel&#039;s continued strikes challenge Lebanon&#039;s push for an elusive peace agreement and stability.",
+   "tags": [
+    "strikes",
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Hamas official slams international bodies for silence over Zionist crimes",
@@ -594,30 +617,6 @@
    "summary": "West Bank farmers defy daily settler attacks, sheep theft, and military restrictions to protect their land.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Trump official says ‘there may not be a nuclear agreement’ with Iran",
-   "url": "https://www.aljazeera.com/news/2026/9/6/trump-official-says-there-may-not-be-a-nuclear-agreement-with-iran?traffic_source=rss",
-   "published": "2026-09-06T16:59:04+00:00",
-   "summary": "US Energy Secretary Chris Wright&#039;s comments could signal that US hopes for a nuclear deal are dimming.",
-   "tags": [
-    "diplomacy",
-    "nuclear"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iran touts military response as US maintains blockade, hits tankers",
-   "url": "https://www.aljazeera.com/news/2026/9/6/iran-touts-military-response-as-us-maintains-blockade-hits-tankers?traffic_source=rss",
-   "published": "2026-09-06T16:17:06+00:00",
-   "summary": "Tehran says time for proportionate retaliation is over after a US strike on Iranian tankers inside the blockade line.",
-   "tags": [
-    "strikes",
-    "shipping"
    ],
    "highlight": false
   }
