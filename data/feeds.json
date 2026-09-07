@@ -1,6 +1,28 @@
 {
- "asOf": "2026-09-07T18:24:55.578301+00:00",
+ "asOf": "2026-09-07T18:49:36.694950+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Araghchi appears before Parliament’s National Security Commission",
+   "url": "https://en.irna.ir/news/86257845/Araghchi-appears-before-Parliament-s-National-Security-Commission",
+   "published": "2026-09-07T18:30:25+00:00",
+   "summary": "Tehran, IRNA – The Chairman of the Parliament's National Security and Foreign Policy Commission announced Foreign Minister Abbas Araghchi's attendance at the commission, and said that the meeting addressed issues such as measures taken regarding the Islamabad Memorandum of Understanding and interactions between Iran and Oman, particularly concerning the Strait of Hormuz.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Russia shutters German consulate as diplomatic freeze deepens",
+   "url": "https://www.aljazeera.com/news/2026/9/7/russia-shutters-german-consulate-as-diplomatic-freeze-deepens?traffic_source=rss",
+   "published": "2026-09-07T18:27:39+00:00",
+   "summary": "Moscow retaliates after similar move from Berlin last week citing failed drone attack on airport.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "NO MORE SELLING BOMBARDIER IN THE UNITED STATES! Their products aren’t good enough! Over 50% of their revenue comes from the United States — They live off American Buyers, American Companies, American Airports, and American Service — All while Canada blocks our GREAT American Banks, and Companies, throughout the U.S.A. They even blocked Gulfstream Aerospace from doing business in Canada — Completely unjust and unfair! That Era is OVER! If they want our Market, they must build here, and stop treating America like a “piggybank.” BUY AMERICAN. FLY ON AMERICAN AIRLINERS. ENJOY AMERICAN LIQUOR AND BEVERAGES. SAIL ON LAKE AMERICA. AMERICA FIRST! Thank you for your attention to this matter. President DONALD J. TRUMP",
@@ -594,29 +616,6 @@
    "summary": "Witkoff says peace talks have been ‘very meaningful’ in Ukraine",
    "tags": [
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran will ban sanctioning countries from transiting Strait of Hormuz: MP",
-   "url": "https://en.irna.ir/news/86256819/Iran-will-ban-sanctioning-countries-from-transiting-Strait-of",
-   "published": "2026-09-06T17:40:20+00:00",
-   "summary": "Tehran, IRNA - Iran’s Parliament National Security and Foreign Policy Commission has approved a strategic plan aimed at ensuring security in the Strait of Hormuz, which would ban countries and entities that impose sanctions against the Islamic Republic from transiting the strategic waterway.",
-   "tags": [
-    "sanctions",
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Ghalibaf mocks Bessent for speculating drop in oil prices before US midterm elections",
-   "url": "https://en.irna.ir/news/86256805/Ghalibaf-mocks-Bessent-for-speculating-drop-in-oil-prices-before",
-   "published": "2026-09-06T17:36:34+00:00",
-   "summary": "Tehran, IRNA – Parliament Speaker Mohammad Bagher Ghalibaf has once again mocked US Treasury Secretary Scott Bessent over his claim of GDP growth and the speculation that oil prices will fall to $40 before the US midterm elections.",
-   "tags": [
-    "oil"
    ],
    "highlight": false
   }
