@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-08T05:21:27.216791+00:00",
+ "asOf": "2026-09-08T05:49:26.054584+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Top security official: Washington has received clear warning from Iran’s new missiles",
+   "url": "https://en.irna.ir/news/86258020/Top-security-official-Washington-has-received-clear-warning",
+   "published": "2026-09-08T05:42:45+00:00",
+   "summary": "Tehran, IRNA – Secretary of Iran’s Supreme National Security Council Major General Mohsen Rezaei says Washington has received a clear warning from new missiles of the Islamic Republic.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Houthi attacks on Saudi Arabia have wounded 73 civilians, official says",
@@ -609,17 +620,6 @@
     "strikes",
     "shipping",
     "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Baqaei: Iran’s actions in Strait of Hormuz purely defensive",
-   "url": "https://en.irna.ir/news/86257351/Baqaei-Iran-s-actions-in-Strait-of-Hormuz-purely-defensive",
-   "published": "2026-09-07T10:05:04+00:00",
-   "summary": "Tehran, IRNA – Iranian Foreign Ministry spokesperson Esmaeil Baqaei has said Iran’s actions in the Strait of Hormuz are quite defensive and are being carried out in response to the ongoing military aggression of the US and the Israeli regime.",
-   "tags": [
-    "shipping"
    ],
    "highlight": false
   }
