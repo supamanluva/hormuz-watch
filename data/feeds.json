@@ -1,6 +1,48 @@
 {
- "asOf": "2026-09-08T21:17:13.642717+00:00",
+ "asOf": "2026-09-08T22:18:45.552183+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran deems new UK sanctions illegal and contrary to shared interests of two countries",
+   "url": "https://en.irna.ir/news/86258974/Iran-deems-new-UK-sanctions-illegal-and-contrary-to-shared-interests",
+   "published": "2026-09-08T21:48:42+00:00",
+   "summary": "London, IRNA – Expressing deep regret over the British government's decision to impose fresh sanctions on the Iranian people, the Embassy of the Islamic Republic of Iran in London condemned the move as illegal and contrary to the two nations' shared interests, warning that London's alignment with the US policy of economic terrorism would further heighten the wall of mistrust between the two countr",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "The Republican National Convention, tomorrow night in Dallas, is really “HOT!” The American Airlines Center, home to the Dallas Mavericks, is totally sold out! Everybody wants to be there, but we’re really asking only those Candidates that are in tight Races, a little up, a little down, or even, to speak. We want to save the “stage” for them. We don’t need people who are up 45 points, and have been in office for 30 years, as much as we love them all! Anyway, I’ll be speaking tomorrow night, and “closing it out” on Thursday! Thank you for your attention to this matter. MAKE AMERICA GREAT AGAIN. See you in Dallas! President DONALD J. TRUMP",
+   "url": "https://trumpstruth.org/statuses/41635",
+   "published": "2026-09-08T21:29:26+00:00",
+   "summary": "The Republican National Convention, tomorrow night in Dallas, is really “HOT!” The American Airlines Center, home to the Dallas Mavericks, is totally sold out! Everybody wants to be there, but we’re really asking only those Candidates that are in tight Races, a little up, a little down, or even, to speak. We want to save the “stage” for them. We don’t need people who are up 45 points, and have bee",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Araghchi: US waged war on Iran on Israel’s behalf",
+   "url": "https://en.irna.ir/news/86258967/Araghchi-US-waged-war-on-Iran-on-Israel-s-behalf",
+   "published": "2026-09-08T21:23:18+00:00",
+   "summary": "Iranian Foreign Minister Abbas Araghchi mocked US policy towards Iran, saying Washington waged war on Tehran on behalf of Israel and resorted to further sanctions after both military action and sanctions failed to achieve their goals.",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "US forces sink vessel ‘linked to Ecuador criminal gang’",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/us-forces-sink-vessel-linked-to-ecuador-criminal?traffic_source=rss",
+   "published": "2026-09-08T21:06:48+00:00",
+   "summary": "The US military says it intercepted and sank a floating refueling station in the eastern Pacific.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Top commander warns of strikes on US bases if Iranian oil tankers are attacked",
@@ -15,6 +57,15 @@
    "highlight": false
   },
   {
+   "source": "UN Press",
+   "title": "Secretary-General Pledges Full Support to Rebuild Trust in Multilateral System, at Opening of General Assembly’s Eighty-First Session",
+   "url": "https://press.un.org/en/2026/sgsm23268.doc.htm",
+   "published": "2026-09-08T21:01:53+00:00",
+   "summary": "Following are UN Secretary-General António Guterres’ remarks at the opening of the eighty-first session of the United Nations General Assembly, in New York today:",
+   "tags": [],
+   "highlight": false
+  },
+  {
    "source": "Al Jazeera",
    "title": "Police bodycam captures Russian missile strike on Kyiv",
    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/police-bodycam-captures-russian-missile-strike-on-kyiv?traffic_source=rss",
@@ -23,6 +74,26 @@
    "tags": [
     "strikes"
    ],
+   "highlight": false
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "Everyone knows that Canada doesn’t let our Great Dairy Farmers sell into the Canadian Market, and that the only reason Canada makes Autos is because of previous disastrous Trade Agreements while other Presidents were in Office. Canada has been ripping us off for years, but what many do not realize is that the Canadian Government, including Canadian Provinces, have banned American Small Businesses and Companies from selling into their Government Procurement Markets. This is the case even though Canada gets broad access into the massive American Government Procurement Market, including those of our States. That is not reciprocity, it is a Canadian Trade Scam. From now on, NO RECIPROCITY – NO ACCESS! I am hereby directing the GSA, working with the USTR, to take all necessary steps to REMOVE Canadian-origin products from GSA’s Multiple Award Schedules unless Canada restores full and fair reciprocity for American Farmers and Companies. Those schedules account for more than 50 BILLION DOLLARS a year. This should have been cut off years ago, by other Administrations, like it was by mine, only to reinstituted by Sleepy Joe Biden. Thank you for your attention to this matter! President DONALD J. TRUMP",
+   "url": "https://trumpstruth.org/statuses/41634",
+   "published": "2026-09-08T20:29:29+00:00",
+   "summary": "Everyone knows that Canada doesn’t let our Great Dairy Farmers sell into the Canadian Market, and that the only reason Canada makes Autos is because of previous disastrous Trade Agreements while other Presidents were in Office. Canada has been ripping us off for years, but what many do not realize is that the Canadian Government, including Canadian Provinces, have banned American Small Businesses ",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": true
+  },
+  {
+   "source": "UN Press",
+   "title": "Deeply Concerned by Escalating Israeli Military Operations in Southern Lebanon, Secretary-General Condemns Mounting Civilian Causalities",
+   "url": "https://press.un.org/en/2026/sgsm23267.doc.htm",
+   "published": "2026-09-08T20:22:44+00:00",
+   "summary": "The following statement was issued today by the Spokesman for UN Secretary-General António Guterres:",
+   "tags": [],
    "highlight": false
   },
   {
@@ -276,6 +347,15 @@
    "source": "UN Press",
    "title": "Stressing South-South Cooperation Drives Development, Secretary-General Observance Message Urges Global Solidarity Connecting Ideas, Ambition to Investment, Action",
    "url": "https://press.un.org/en/2026/sgsm23262",
+   "published": "2026-09-08T14:26:09+00:00",
+   "summary": "Following is UN Secretary-General António Guterres’ message for the International Day for South-South Cooperation, observed on 12 September:",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "UN Press",
+   "title": "Stressing South-South Cooperation Drives Development, Secretary-General Observance Message Urges Global Solidarity Connecting Ideas, Ambition to Investment, Action",
+   "url": "https://press.un.org/en/2026/sgsm23262.doc.htm",
    "published": "2026-09-08T14:26:09+00:00",
    "summary": "Following is UN Secretary-General António Guterres’ message for the International Day for South-South Cooperation, observed on 12 September:",
    "tags": [],
@@ -543,86 +623,6 @@
     "shipping"
    ],
    "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Houthis accuse Saudi Arabia of killing seven in Yemen prison air strike",
-   "url": "https://www.aljazeera.com/news/2026/9/7/houthis-accuse-saudi-arabia-of-killing-seven-in-yemen-prison-attack?traffic_source=rss",
-   "published": "2026-09-07T23:50:53+00:00",
-   "summary": "Houthi-run media outlet released footage of destruction after alleged Saudi air strike on al-Hazm prison.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "General Assembly, 1st Meeting (AM) 8 September 2026",
-   "url": "https://press.un.org/en/blog/ga12781",
-   "published": "2026-09-07T23:21:34+00:00",
-   "summary": "At 3 p.m., the General Assembly will open its eighty-first session, presided over by Khalilur Rahman of Bangladesh, appointing members of the Credentials Committee and adopting the agenda.",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "General Assembly, 116th Meeting (AM) 8 September 2026",
-   "url": "https://press.un.org/en/blog/ga12780",
-   "published": "2026-09-07T23:20:10+00:00",
-   "summary": "At 11:00 a.m., the General Assembly will close its 80th session, with statements by the Secretary-General and the President of the General Assembly, followed by the oath of office by the President-elect.",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Exclusive — Orthodox Patriarch Encourages All World Leaders to Follow Trump, Vance in Visiting Jerusalem’s Church of Holy Sepulchre: ’Heartbeat of Our Faith’:",
-   "url": "https://trumpstruth.org/statuses/41629",
-   "published": "2026-09-07T23:17:44+00:00",
-   "summary": "Exclusive — Orthodox Patriarch Encourages All World Leaders to Follow Trump, Vance in Visiting Jerusalem’s Church of Holy Sepulchre: ’Heartbeat of Our Faith’: https://www. breitbart.com/politics/2026/09 /07/exclusive-orthodox-patriarch-encourages-all-world-leaders-follow-trump-vance-visiting-jerusalems-church-holy-sepulchre-heartbeat-our-faith/",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Exclusive — Orthodox Patriarch Encourages All World Leaders to Follow Trump, Vance in Visiting Jerusalem’s Church of Holy Sepulchre: ’Heartbeat of Our Faith’:",
-   "url": "https://www.trumpstruth.org/statuses/41629",
-   "published": "2026-09-07T23:17:44+00:00",
-   "summary": "Exclusive — Orthodox Patriarch Encourages All World Leaders to Follow Trump, Vance in Visiting Jerusalem’s Church of Holy Sepulchre: ’Heartbeat of Our Faith’: https://www. breitbart.com/politics/2026/09 /07/exclusive-orthodox-patriarch-encourages-all-world-leaders-follow-trump-vance-visiting-jerusalems-church-holy-sepulchre-heartbeat-our-faith/",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Oil prices will drop precipitously, like everything else is dropping (but more!), when we WIN the war with Iran. Three Dollars a gallon, but ultimately, below Two Dollars a gallon. It will all happen quickly, and Iran will never have a Nuclear Weapon. MAGA! President DJT",
-   "url": "https://trumpstruth.org/statuses/41630",
-   "published": "2026-09-07T23:16:45+00:00",
-   "summary": "Oil prices will drop precipitously, like everything else is dropping (but more!), when we WIN the war with Iran. Three Dollars a gallon, but ultimately, below Two Dollars a gallon. It will all happen quickly, and Iran will never have a Nuclear Weapon. MAGA! President DJT",
-   "tags": [
-    "nuclear",
-    "oil"
-   ],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Oil prices will drop precipitously, like everything else is dropping (but more!), when we WIN the war with Iran. Three Dollars a gallon, but ultimately, below Two Dollars a gallon. It will all happen quickly, and Iran will never have a Nuclear Weapon. MAGA! President DJT",
-   "url": "https://www.trumpstruth.org/statuses/41630",
-   "published": "2026-09-07T23:16:45+00:00",
-   "summary": "Oil prices will drop precipitously, like everything else is dropping (but more!), when we WIN the war with Iran. Three Dollars a gallon, but ultimately, below Two Dollars a gallon. It will all happen quickly, and Iran will never have a Nuclear Weapon. MAGA! President DJT",
-   "tags": [
-    "nuclear",
-    "oil"
-   ],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from September 7, 2026",
-   "url": "https://trumpstruth.org/statuses/41627",
-   "published": "2026-09-07T23:01:19+00:00",
-   "summary": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117232228056672165",
-   "tags": [],
-   "highlight": true
   }
  ]
 }
