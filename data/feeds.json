@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-08T09:34:37.344364+00:00",
+ "asOf": "2026-09-08T10:32:11.011287+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "IRGC deputy chief: Siege, sanctions, war failed to sideline Iranian nation",
+   "url": "https://en.irna.ir/news/86258395/IRGC-deputy-chief-Siege-sanctions-war-failed-to-sideline-Iranian",
+   "published": "2026-09-08T09:58:27+00:00",
+   "summary": "Birjand, IRNA – Deputy Commander-in-Chief of the Islamic Revolution Guards Corps (IRGC) Major General Mostafa Izadi has said that the enemy sought to push the Iranian people out of the field through pressure, sanctions, economic hardship, and war, but the nation stood firm and remained on the scene.",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Senior MP: Strike on US warships represents mere fraction of Iran’s military prowess",
@@ -608,17 +619,6 @@
    "tags": [
     "diplomacy",
     "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran-Pakistan chamber seeks free trade deal amid tariff hike",
-   "url": "https://en.irna.ir/news/86257551/Iran-Pakistan-chamber-seeks-free-trade-deal-amid-tariff-hike",
-   "published": "2026-09-07T12:14:01+00:00",
-   "summary": "Tehran, IRNA – The head of the Iran-Pakistan Joint Chamber says the chamber is negotiating to remove trade barriers following Pakistan’s recent increase in tariffs on some Iranian exports.",
-   "tags": [
-    "diplomacy"
    ],
    "highlight": false
   }
