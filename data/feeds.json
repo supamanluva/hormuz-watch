@@ -1,6 +1,50 @@
 {
- "asOf": "2026-09-08T15:33:10.167200+00:00",
+ "asOf": "2026-09-08T16:36:14.277618+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "UK sanctions on Israeli settlements a ‘seismic’ shift says Albanese",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/09-08-israel-sanctions-albanese-qt-mp4?traffic_source=rss",
+   "published": "2026-09-08T16:05:38+00:00",
+   "summary": "UN expert Francesca Albanese calls UK sanctions on Israeli settlements a ‘seismic shift’ after years of UK ‘complicity’.",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran: Armed forces have full control over Strait of Hormuz",
+   "url": "https://en.irna.ir/news/86258764/Iran-Armed-forces-have-full-control-over-Strait-of-Hormuz",
+   "published": "2026-09-08T15:57:15+00:00",
+   "summary": "Tehran, IRNA – The Deputy Commander of the Islamic Revolution Guards Corps (IRGC) reiterated that Iran’s armed forces maintain full command and control over the Strait of Hormuz.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Maldives asks UK to reopen sovereignty talks over Chagos Islands",
+   "url": "https://www.aljazeera.com/news/2026/9/8/maldives-muizzu-asks-uk-to-reopen-sovereignty-talks-over-chagos-islands?traffic_source=rss",
+   "published": "2026-09-08T15:43:21+00:00",
+   "summary": "Chagos Islands should not be handed over to Mauritius, president of Maldives says in letter to UK&#039;s prime minister.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Jerusalem Daily: UK announces sanctions on Israeli settlement goods",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/jerusalem-daily-uk-announces-sanctions-on-israeli-settlement-goods?traffic_source=rss",
+   "published": "2026-09-08T15:12:42+00:00",
+   "summary": "The UK’s foreign secretary has announced a ban on trade with goods from Israeli settlements in the occupied West Bank.",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
   {
    "source": "UN Press",
    "title": "Deeply Concerned about Taliban’s Continuing Discriminatory Policies on Afghan Women, Girls, Secretary-General Urges De Facto Authorities to Lift All Restrictions",
@@ -48,7 +92,7 @@
    "title": "UK, France among 12 states backing sanctions on illegal Israeli settlements",
    "url": "https://www.aljazeera.com/news/2026/9/8/uk-announces-sanctions-on-illegal-israeli-settlements?traffic_source=rss",
    "published": "2026-09-08T12:34:55+00:00",
-   "summary": "UK to ⁠introduce import ban on goods ⁠from illegal ​settlements in occupied West Bank, in coordination with others.",
+   "summary": "Israel ⁠is closing ​Britain&#039;s consulate in occupied East Jerusalem as part of its retaliatory measures.",
    "tags": [
     "sanctions"
    ],
@@ -573,51 +617,6 @@
    "summary": "President Rodrigo Paz declares national mourning, urges unity after deadly military base explosions near La Paz.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Yemen warns Saudi attacks will not go unpunished",
-   "url": "https://en.irna.ir/news/86257794/Yemen-warns-Saudi-attacks-will-not-go-unpunished",
-   "published": "2026-09-07T16:50:08+00:00",
-   "summary": "Tehran, IRNA – Yemen’s armed forces spokesperson Brigadier General Yahya Saree says that continued Saudi attacks on Yemen would not go unanswered, following Saudi airstrikes on several areas in the country.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Claimed Israeli capture of Lebanese ridge reshapes negotiation dynamics",
-   "url": "https://www.aljazeera.com/features/2026/9/7/claimed-israeli-capture-of-lebanese-ridge-reshapes-negotiation-dynamics?traffic_source=rss",
-   "published": "2026-09-07T16:42:51+00:00",
-   "summary": "Israel&#039;s continued strikes challenge Lebanon&#039;s push for an elusive peace agreement and stability.",
-   "tags": [
-    "strikes",
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Hamas official slams international bodies for silence over Zionist crimes",
-   "url": "https://en.irna.ir/news/86257781/Hamas-official-slams-international-bodies-for-silence-over-Zionist",
-   "published": "2026-09-07T16:13:27+00:00",
-   "summary": "Tehran, IRNA – A senior Hamas official strongly condemned Israeli settlers and troops for their attacks in the West Bank and slammed the silence of the global community and international bodies in the face of the Zionist regime’s blatant crimes.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Pakistan envoy stresses diplomacy, dialogue as key to resolving disputes",
-   "url": "https://en.irna.ir/news/86257697/Pakistan-envoy-stresses-diplomacy-dialogue-as-key-to-resolving",
-   "published": "2026-09-07T16:10:04+00:00",
-   "summary": "Tehran, IRNA – Pakistan’s Ambassador to the Islamic Republic of Iran, Imran Ahmed Siddiqui, has emphasized that Islamabad strongly believes diplomacy, dialogue, and confidence-building are the most effective means for resolving disputes.",
-   "tags": [
-    "diplomacy"
    ],
    "highlight": false
   }
