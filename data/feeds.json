@@ -1,9 +1,31 @@
 {
- "asOf": "2026-09-08T04:36:15.166541+00:00",
+ "asOf": "2026-09-08T05:21:27.216791+00:00",
  "items": [
   {
    "source": "Al Jazeera",
-   "title": "Russia strikes Kyiv as three-day pause during US envoy visits ends",
+   "title": "Houthi attacks on Saudi Arabia have wounded 73 civilians, official says",
+   "url": "https://www.aljazeera.com/news/2026/9/8/houthi-attacks-on-saudi-arabia-have-wounded-73-civilians-official-says?traffic_source=rss",
+   "published": "2026-09-08T04:26:16+00:00",
+   "summary": "Spokesperson for Saudi-led coalition says Houthis have targeted civilian sites in Abha, Khamis Mushait, Jazan and Najran.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "‘House moved like jelly’ says resident near Bolivia barracks blast",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/aje-onl-nf_nine-killed-in-bolivia-military-base-explosion-080926?traffic_source=rss",
+   "published": "2026-09-08T04:24:37+00:00",
+   "summary": "Reports are emerging from the powerful explosion at a military barracks in Bolivia that killed at least nine people.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Russia launches deadly strikes on Kyiv as pause during US envoy visits ends",
    "url": "https://www.aljazeera.com/news/2026/9/8/russia-strikes-kyiv-as-three-day-pause-during-us-envoy-visits-ends?traffic_source=rss",
    "published": "2026-09-08T03:08:28+00:00",
    "summary": "US envoy says &#039;encouraged&#039; by talks as White House official told Reuters next steps to be announced in coming weeks.",
@@ -598,28 +620,6 @@
    "summary": "Tehran, IRNA – Iranian Foreign Ministry spokesperson Esmaeil Baqaei has said Iran’s actions in the Strait of Hormuz are quite defensive and are being carried out in response to the ongoing military aggression of the US and the Israeli regime.",
    "tags": [
     "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Video: Israeli air strikes kill at least 10 in southern Lebanon",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/video-israeli-air-strikes-kill-at-least-10-in-southern-lebanon?traffic_source=rss",
-   "published": "2026-09-07T09:44:27+00:00",
-   "summary": "Israeli air strikes on southern Lebanon began at dawn on Sunday, killing at least 10 people.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Arsenal vs Chelsea: Gunners stamp authority, but Blues are contenders too",
-   "url": "https://www.aljazeera.com/sports/2026/9/7/arsenal-vs-chelsea-gunners-stamp-authority-but-blues-are-contenders-too?traffic_source=rss",
-   "published": "2026-09-07T08:50:35+00:00",
-   "summary": "Arsenal&#039;s strong defence and reliable attack edge Chelsea&#039;s bravery and intent in the Premier League&#039;s biggest clash.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   }
