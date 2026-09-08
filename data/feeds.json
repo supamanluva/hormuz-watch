@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-08T11:19:07.360591+00:00",
+ "asOf": "2026-09-08T11:49:59.449364+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Saudi-Houthi fighting in Yemen escalates: What happened, and what’s next?",
+   "url": "https://www.aljazeera.com/news/2026/9/8/saudi-houthi-fighting-in-yemen-escalates-what-happened-and-whats-next?traffic_source=rss",
+   "published": "2026-09-08T11:40:21+00:00",
+   "summary": "Saudi Arabia promises firm retaliation after Houthi strikes injure 73 and disrupt energy facilities in southern cities.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Iran says US return to Islamabad Memorandum key to normalizing Strait of Hormuz",
@@ -604,17 +615,6 @@
    "url": "https://en.irna.ir/news/86257472/Iran-holds-US-accountable-for-deliberate-attacks-on-civilians",
    "published": "2026-09-07T13:07:05+00:00",
    "summary": "Tehran, IRNA – Foreign Ministry spokesperson Esmaeil Baqaei has once again denounced the US for committing war crimes in Iran, describing the American military attacks and killing of civilians as “deliberate” aggression, not “collateral damage.”",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Moment Israeli strike hits next to Lebanese reporter",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/moment-israeli-strike-hits-next-to-lebanese-reporter?traffic_source=rss",
-   "published": "2026-09-07T13:05:59+00:00",
-   "summary": "Moment Israeli strike hits next to Lebanese reporter",
    "tags": [
     "strikes"
    ],
