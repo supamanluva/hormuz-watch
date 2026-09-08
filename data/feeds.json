@@ -1,6 +1,40 @@
 {
- "asOf": "2026-09-08T16:36:14.277618+00:00",
+ "asOf": "2026-09-08T16:49:49.464595+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran captures US submarine drone in Strait of Hormuz",
+   "url": "https://en.irna.ir/news/86258845/Iran-captures-US-submarine-drone-in-Strait-of-Hormuz",
+   "published": "2026-09-08T16:39:20+00:00",
+   "summary": "Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) Navy has announced the seizure of an unmanned American submarine in the strategic Strait of Hormuz.",
+   "tags": [
+    "strikes",
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran warns IAEA confidentiality breaches enabled nuclear sabotage",
+   "url": "https://en.irna.ir/news/86258834/Iran-warns-IAEA-confidentiality-breaches-enabled-nuclear-sabotage",
+   "published": "2026-09-08T16:36:13+00:00",
+   "summary": "London, IRNA – Iran says that breaches of confidentiality at the International Atomic Energy Agency had previously exposed sensitive information that was later used to facilitate sabotage against safeguarded nuclear facilities.",
+   "tags": [
+    "nuclear"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Israeli strikes transform Lebanese city into ghost town",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/israeli-strikes-transform-lebanese-city-into-ghost-town?traffic_source=rss",
+   "published": "2026-09-08T16:19:52+00:00",
+   "summary": "Nabatieh, once southern Lebanon’s economic centre, is now a ghost town as Israel intensifies attacks.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "UK sanctions on Israeli settlements a ‘seismic’ shift says Albanese",
@@ -584,39 +618,6 @@
    "summary": "UN watchdog says material from facility, bombed in 2007, now under IAEA safeguards.",
    "tags": [
     "nuclear"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Araghchi appears before Parliament’s National Security Commission",
-   "url": "https://en.irna.ir/news/86257845/Araghchi-appears-before-Parliament-s-National-Security-Commission",
-   "published": "2026-09-07T18:30:25+00:00",
-   "summary": "Tehran, IRNA – The Chairman of the Parliament's National Security and Foreign Policy Commission announced Foreign Minister Abbas Araghchi's attendance at the commission, and said that the meeting addressed issues such as measures taken regarding the Islamabad Memorandum of Understanding and interactions between Iran and Oman, particularly concerning the Strait of Hormuz.",
-   "tags": [
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Russia shutters German consulate as diplomatic freeze deepens",
-   "url": "https://www.aljazeera.com/news/2026/9/7/russia-shutters-german-consulate-as-diplomatic-freeze-deepens?traffic_source=rss",
-   "published": "2026-09-07T18:27:39+00:00",
-   "summary": "Moscow retaliates after similar move from Berlin last week citing failed drone attack on airport.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Bolivian blast death toll rises to 7, rescuers search for missing soldiers",
-   "url": "https://www.aljazeera.com/news/2026/9/7/bolivian-military-base-blast-leaves-seven-dead-seven-missing?traffic_source=rss",
-   "published": "2026-09-07T17:31:04+00:00",
-   "summary": "President Rodrigo Paz declares national mourning, urges unity after deadly military base explosions near La Paz.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   }
