@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-08T01:57:26.389689+00:00",
+ "asOf": "2026-09-08T02:29:46.985814+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "IAEA warns over Iran nuclear access as Western powers push UN referral",
+   "url": "https://www.aljazeera.com/news/2026/9/8/iaea-warns-over-iran-nuclear-access-as-western-powers-push-un-referral?traffic_source=rss",
+   "published": "2026-09-08T01:50:37+00:00",
+   "summary": "UN nuclear watchdog urges Iran to cooperate, as Western powers push to refer its nuclear file to the Security Council.",
+   "tags": [
+    "nuclear"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "[No Title] - Post from September 8, 2026",
@@ -608,17 +619,6 @@
    "summary": "Tehran, IRNA — Iran has warned South Korea against any military participation in the Persian Gulf and Strait of Hormuz, saying such involvement would amount to direct support for an aggressor and could have serious consequences.",
    "tags": [
     "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "In photos: US attack turns wedding into wake in Iran",
-   "url": "https://en.irna.ir/photo/86257026/In-photos-US-attack-turns-wedding-into-wake-in-Iran",
-   "published": "2026-09-07T08:21:19+00:00",
-   "summary": "Images show the damage caused on September 1, 2026, by a US airstrike on a house in Hormozgan Province, where a group of people were attending a wedding ceremony. The attack left four people, including a child, dead and 68 others injured.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   }
