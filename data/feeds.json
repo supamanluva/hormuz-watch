@@ -1,6 +1,35 @@
 {
- "asOf": "2026-09-08T16:49:49.464595+00:00",
+ "asOf": "2026-09-08T17:20:24.360177+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Israeli strikes devastate homes, displace families across Gaza",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/israeli-strikes-devastate-homes-displace-families-across-gaza?traffic_source=rss",
+   "published": "2026-09-08T17:04:28+00:00",
+   "summary": "Israeli strikes hit several areas across Gaza, destroying homes in Khan Younis and sending thick smoke over Bureij camp.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "UN Press",
+   "title": "General Assembly Concludes Eightieth Session, as President, Refuting Critics, Defends Multilateralism, Says Power Struggles Served to Unify Member States",
+   "url": "https://press.un.org/en/2026/ga12780.doc.htm",
+   "published": "2026-09-08T16:58:58+00:00",
+   "summary": "As the General Assembly concluded its eightieth session today, outgoing President Annalena Baerbock (Germany) reflected on a term marked by geopolitical divisions, institutional reform and a renewed defence of multilateralism.",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "UN Press",
+   "title": "Maintain Spirit of Collaboration, Common Purpose, Secretary-General Urges at Closing of General Assembly’s Eightieth Session, Hailing Outgoing President’s Leadership",
+   "url": "https://press.un.org/en/2026/sgsm23266.doc.htm",
+   "published": "2026-09-08T16:58:23+00:00",
+   "summary": "Following are UN Secretary-General António Guterres’ remarks at the closing of the eightieth session of the United Nations General Assembly:",
+   "tags": [],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Iran captures US submarine drone in Strait of Hormuz",
@@ -58,6 +87,15 @@
    "highlight": false
   },
   {
+   "source": "UN Press",
+   "title": "Secretary-General Anniversary Message Marking Death of Dag Hammarskjöld Urges Embodying Former UN Chief’s Qualities of Integrity, Compassion to Build Peaceful, Just World",
+   "url": "https://press.un.org/en/2026/sgsm23265.doc.htm",
+   "published": "2026-09-08T15:48:44+00:00",
+   "summary": "Following are UN Secretary-General António Guterres’ remarks at the wreath-laying ceremony commemorating the sixty-fifth anniversary of the death of former Secretary-General Dag Hammarskjöld, in New York today:",
+   "tags": [],
+   "highlight": false
+  },
+  {
    "source": "Al Jazeera",
    "title": "Maldives asks UK to reopen sovereignty talks over Chagos Islands",
    "url": "https://www.aljazeera.com/news/2026/9/8/maldives-muizzu-asks-uk-to-reopen-sovereignty-talks-over-chagos-islands?traffic_source=rss",
@@ -77,6 +115,33 @@
    "tags": [
     "sanctions"
    ],
+   "highlight": false
+  },
+  {
+   "source": "UN Press",
+   "title": "Secretary-General Urges Expediting Shift to Sustainable Cooling, Protecting People, Planet, in World Ozone Day Message",
+   "url": "https://press.un.org/en/2026/sgsm23264.doc.htm",
+   "published": "2026-09-08T15:08:14+00:00",
+   "summary": "Following is UN Secretary-General António Guterres’ message for the International Day for the Preservation of the Ozone Layer, observed on 16 September:",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "UN Press",
+   "title": "As Divisions Deepen, Conflicts Multiply, Secretary-General Urges Recommitting to Ensure Every Voice Counts, in Message for International Day of Democracy",
+   "url": "https://press.un.org/en/2026/sgsm23263.doc.htm",
+   "published": "2026-09-08T14:44:11+00:00",
+   "summary": "Following is UN Secretary-General António Guterres’ message for the International Day of Democracy, observed on 15 September:",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "UN Press",
+   "title": "Stressing South-South Cooperation Drives Development, Secretary-General Observance Message Urges Global Solidarity Connecting Ideas, Ambition to Investment, Action",
+   "url": "https://press.un.org/en/2026/sgsm23262",
+   "published": "2026-09-08T14:26:09+00:00",
+   "summary": "Following is UN Secretary-General António Guterres’ message for the International Day for South-South Cooperation, observed on 12 September:",
+   "tags": [],
    "highlight": false
   },
   {
@@ -540,84 +605,6 @@
     "strikes",
     "shipping",
     "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Christopher Columbus proudly stands at the entrance to the Eisenhower Executive Office Building, directly adjacent to the White House, one of the most important Entrances to a Building in D.C. I did this in Honor of the Italian American Community — Industrious, brilliant, wonderful people. It is something that they have greatly appreciated! President DONALD J. TRUMP",
-   "url": "https://trumpstruth.org/statuses/41621",
-   "published": "2026-09-07T21:17:06+00:00",
-   "summary": "Christopher Columbus proudly stands at the entrance to the Eisenhower Executive Office Building, directly adjacent to the White House, one of the most important Entrances to a Building in D.C. I did this in Honor of the Italian American Community — Industrious, brilliant, wonderful people. It is something that they have greatly appreciated! President DONALD J. TRUMP",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Yemen fighting escalates as forces battle for Bab al-Mandeb Strait",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/yemen-fighting-escalates-as-forces-battle-for-bab-al-mandeb-strait?traffic_source=rss",
-   "published": "2026-09-07T20:59:56+00:00",
-   "summary": "Fighting is intensifying in Yemen as government-aligned forces launch counterattacks against the Iran-backed Houthis.",
-   "tags": [
-    "strikes",
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran: Calls for unconditional IAEA Safeguards compliance meaningless",
-   "url": "https://en.irna.ir/news/86257904/Iran-Calls-for-unconditional-IAEA-Safeguards-compliance-meaningless",
-   "published": "2026-09-07T20:49:49+00:00",
-   "summary": "London, IRNA – Iran’s mission to the United Nations in Vienna says calls on Tehran to unconditionally comply with International Atomic Energy Agency (IAEA) Safeguards are “meaningless” under the current “hazardous” circumstances.",
-   "tags": [
-    "nuclear"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran on path of active deterrence: A new defense doctrine with new tools",
-   "url": "https://en.irna.ir/news/86257892/Iran-on-path-of-active-deterrence-A-new-defense-doctrine-with",
-   "published": "2026-09-07T20:34:28+00:00",
-   "summary": "Tehran, IRNA – The unveiling of the Qasem Basir ballistic missile marks a turning point in Iran's defense strategy; it is a missile that not only boasts greater range and precision but also symbolizes a paradigm shift: the transition from reactive to active deterrence.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Cuba says no negotiations with US despite ‘genocidal’ blockade",
-   "url": "https://www.aljazeera.com/economy/2026/9/7/cuba-says-no-negotiations-with-us-despite-genocidal-blockade?traffic_source=rss",
-   "published": "2026-09-07T19:58:48+00:00",
-   "summary": "Cuba reports record losses from the US embargo as foreign minister describes months of punishing blackouts.",
-   "tags": [
-    "sanctions",
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran: US and Israeli regime bombed IAEA Statute and nuclear safety rules",
-   "url": "https://en.irna.ir/news/86257875/Iran-US-and-Israeli-regime-bombed-IAEA-Statute-and-nuclear-safety",
-   "published": "2026-09-07T19:35:22+00:00",
-   "summary": "London, IRNA – At the meeting of the IAEA Board of Governors, the Islamic Republic of Iran condemned the aggression by the United States and the Israeli regime against the country's peaceful, safeguards-subjected nuclear facilities, emphasizing that through these attacks, the aggressors bombed the UN Charter, the IAEA Statute, and fundamental nuclear safety rules.",
-   "tags": [
-    "strikes",
-    "nuclear"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Syria’s Assad-era reactor configured for nuclear weapons: IAEA",
-   "url": "https://www.aljazeera.com/news/2026/9/7/syrias-assad-era-reactor-configured-for-nuclear-weapons-iaea?traffic_source=rss",
-   "published": "2026-09-07T19:31:05+00:00",
-   "summary": "UN watchdog says material from facility, bombed in 2007, now under IAEA safeguards.",
-   "tags": [
-    "nuclear"
    ],
    "highlight": false
   }
