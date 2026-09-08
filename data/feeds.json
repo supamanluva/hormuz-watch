@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-08T10:49:43.192679+00:00",
+ "asOf": "2026-09-08T11:19:07.360591+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran says US return to Islamabad Memorandum key to normalizing Strait of Hormuz",
+   "url": "https://en.irna.ir/news/86258551/Iran-says-US-return-to-Islamabad-Memorandum-key-to-normalizing",
+   "published": "2026-09-08T10:52:49+00:00",
+   "summary": "Tehran, IRNA – Foreign Minister Abbas Araghchi says the way to restore normal conditions in the Strait of Hormuz is for the United States to return to and honor its commitments under the Islamabad Memorandum of Understanding with Iran.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Strait of Hormuz firmly controlled by Iranian Forces: IRGC commander",
@@ -606,18 +617,6 @@
    "summary": "Moment Israeli strike hits next to Lebanese reporter",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Yemen gov’t forces launch air strikes on Houthi targets",
-   "url": "https://www.aljazeera.com/news/2026/9/7/yemen-govt-forces-launch-air-strikes-on-houthi-targets?traffic_source=rss",
-   "published": "2026-09-07T13:05:54+00:00",
-   "summary": "The Houthis and Yemeni government forces are battling for control of the critical Bab al-Mandeb Strait.",
-   "tags": [
-    "strikes",
-    "shipping"
    ],
    "highlight": false
   }
