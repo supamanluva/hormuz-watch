@@ -1,6 +1,28 @@
 {
- "asOf": "2026-09-08T12:54:20.995599+00:00",
+ "asOf": "2026-09-08T13:22:21.140940+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "UK expands unilateral sanctions against Iran",
+   "url": "https://en.irna.ir/news/86258619/UK-expands-unilateral-sanctions-against-Iran",
+   "published": "2026-09-08T13:08:13+00:00",
+   "summary": "London, IRNA – The UK government, maintaining its hostile and unconstructive stance toward Iran, has issued new regulations to expand unilateral sanctions on the financial, commercial, and aviation sectors.",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Liverpool announce five-year shirt sponsorship deal with Turkish Airlines",
+   "url": "https://www.aljazeera.com/sports/2026/9/8/liverpool-announce-five-year-shirt-sponsorship-deal-with-turkish-airlines?traffic_source=rss",
+   "published": "2026-09-08T12:50:05+00:00",
+   "summary": "The deal is reportedly worth more than $405m, which would place it among the most lucrative in the Premier League.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Qatar says reopening Strait of Hormuz ‘unconditionally’ is a priority",
@@ -598,28 +620,6 @@
    "summary": "Argentina&#039;s sovereignty claim is enshrined in its constitution, but oil production raises the economic stakes.",
    "tags": [
     "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Will Trump succeed in restarting Russia-Ukraine peace talks?",
-   "url": "https://www.aljazeera.com/opinions/2026/9/7/will-trump-succeed-in-restarting-russia-ukraine-peace-talks?traffic_source=rss",
-   "published": "2026-09-07T14:22:58+00:00",
-   "summary": "The Witkoff-Kushner visit to Moscow and Kyiv did not produce a breakthrough, but it can help begin a new process.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Israeli attacks on Gaza kill five Palestinians, including two children",
-   "url": "https://www.aljazeera.com/news/2026/9/7/israeli-attacks-on-gaza-kill-five-palestinians-including-two-children?traffic_source=rss",
-   "published": "2026-09-07T13:52:52+00:00",
-   "summary": "Seven-year-old Wafaa Aqila and her father killed by Israeli strike while returning home with school supplies.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   }
