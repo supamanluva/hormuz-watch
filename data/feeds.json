@@ -1,6 +1,28 @@
 {
- "asOf": "2026-09-08T17:20:24.360177+00:00",
+ "asOf": "2026-09-08T17:50:18.289976+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Yemen’s war is back: A new battle for Sanaa and the Red Sea",
+   "url": "https://www.aljazeera.com/features/2026/9/8/yemens-war-is-back-a-new-battle-for-sanaa-and-the-red-sea?traffic_source=rss",
+   "published": "2026-09-08T17:37:35+00:00",
+   "summary": "This phase of the war could be the start of another protracted conflict rather than a decisive campaign, say analysts.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "US won’t join UK ban on trade with illegal Israeli settlements",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/09-08-rubio-comments-uk-sanctions-clip-mp4?traffic_source=rss",
+   "published": "2026-09-08T17:24:36+00:00",
+   "summary": "Secretary of State Marco Rubio says the US will ‘obviously not’ follow the UK in sanctioning illegal Israeli settlements",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Israeli strikes devastate homes, displace families across Gaza",
@@ -585,28 +607,6 @@
    "summary": "US producer prices post largest drop in 14 months; inflation risks still tilted to the upside: https://www. reuters.com/business/us-produc er-prices-unexpectedly-fall-june-2026-07-15/",
    "tags": [],
    "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "US producer prices post largest drop in 14 months; inflation risks still tilted to the upside:",
-   "url": "https://www.trumpstruth.org/statuses/41622",
-   "published": "2026-09-07T21:35:50+00:00",
-   "summary": "US producer prices post largest drop in 14 months; inflation risks still tilted to the upside: https://www. reuters.com/business/us-produc er-prices-unexpectedly-fall-june-2026-07-15/",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Oil prices surge as US-Iran strikes intensify in Strait of Hormuz",
-   "url": "https://www.aljazeera.com/economy/2026/9/7/oil-prices-surge-as-us-iran-strikes-intensify-in-strait-of-hormuz?traffic_source=rss",
-   "published": "2026-09-07T21:17:12+00:00",
-   "summary": "Oil prices spike to six-week highs as US-Iran strikes disrupt traffic in the crucial Strait of Hormuz.",
-   "tags": [
-    "strikes",
-    "shipping",
-    "oil"
-   ],
-   "highlight": false
   }
  ]
 }
