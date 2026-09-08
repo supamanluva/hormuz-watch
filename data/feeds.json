@@ -1,6 +1,28 @@
 {
- "asOf": "2026-09-08T12:31:44.578389+00:00",
+ "asOf": "2026-09-08T12:54:20.995599+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Qatar says reopening Strait of Hormuz ‘unconditionally’ is a priority",
+   "url": "https://www.aljazeera.com/news/2026/9/8/qatar-says-reopening-strait-of-hormuz-unconditionally-is-a-priority?traffic_source=rss",
+   "published": "2026-09-08T12:44:59+00:00",
+   "summary": "Qatar&#039;s Foreign Ministry says Doha working towards diplomatic solutions to end US war on Iran.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "UK announces sanctions on illegal Israeli settlements",
+   "url": "https://www.aljazeera.com/news/2026/9/8/uk-announces-sanctions-on-illegal-israeli-settlements?traffic_source=rss",
+   "published": "2026-09-08T12:34:55+00:00",
+   "summary": "Britain will ⁠introduce an import ban on goods ⁠from ​Israeli settlements, Ed Miliband tells parliament.",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "BRICS summit may be the only place another Iran ceasefire can be built",
@@ -596,28 +618,6 @@
    "url": "https://www.aljazeera.com/news/2026/9/7/israeli-attacks-on-gaza-kill-five-palestinians-including-two-children?traffic_source=rss",
    "published": "2026-09-07T13:52:52+00:00",
    "summary": "Seven-year-old Wafaa Aqila and her father killed by Israeli strike while returning home with school supplies.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Why Jamaica is seeking $10bn in reparations from the UK",
-   "url": "https://www.aljazeera.com/news/2026/9/7/why-jamaica-is-seeking-10bn-in-reparations-from-the-uk?traffic_source=rss",
-   "published": "2026-09-07T13:24:53+00:00",
-   "summary": "Hundreds of thousands of enslaved Africans toiled in Jamaica under more than 300 years of British rule.",
-   "tags": [
-    "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Strike our assets, and you will get struck, Ghalibaf warns US",
-   "url": "https://en.irna.ir/news/86257497/Strike-our-assets-and-you-will-get-struck-Ghalibaf-warns-US",
-   "published": "2026-09-07T13:09:34+00:00",
-   "summary": "Tehran, IRNA – Parliament Speaker Mohammad Bagher Ghalibaf has reacted to the US war secretary’s threats against Iran and said any attack on Iran’s assets will be met with strikes on US energy companies in the region.",
    "tags": [
     "strikes"
    ],
