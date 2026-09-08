@@ -1,6 +1,18 @@
 {
- "asOf": "2026-09-08T07:49:55.521756+00:00",
+ "asOf": "2026-09-08T08:29:09.567670+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran envoy: US–E3 draft resolution at IAEA is ‘one act of lawlessness after another’",
+   "url": "https://en.irna.ir/news/86258134/Iran-envoy-US-E3-draft-resolution-at-IAEA-is-one-act-of-lawlessness",
+   "published": "2026-09-08T08:25:08+00:00",
+   "summary": "London, IRNA — Iran’s Ambassador to Germany, Majid Neeli, has described the latest move by the United States and the three European countries of Germany, France, and Britain to refer Iran’s nuclear issue to the UN Security Council as another act of “lawlessness,” recalling a similar move by the three European countries last year.",
+   "tags": [
+    "diplomacy",
+    "nuclear"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Top security official: Washington has received clear warning from Iran’s new missiles",
@@ -36,7 +48,7 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "Russia launches deadly strikes on Kyiv as pause during US envoy visits ends",
+   "title": "Russian strikes on Ukraine’s Kyiv kill at least two people",
    "url": "https://www.aljazeera.com/news/2026/9/8/russia-strikes-kyiv-as-three-day-pause-during-us-envoy-visits-ends?traffic_source=rss",
    "published": "2026-09-08T03:08:28+00:00",
    "summary": "US envoy says &#039;encouraged&#039; by talks as White House official told Reuters next steps to be announced in coming weeks.",
@@ -606,19 +618,6 @@
    "published": "2026-09-07T11:26:27+00:00",
    "summary": "There is less crude in the market, and refiners prefer to produce diesel. The result: ships are running short of fuel.",
    "tags": [
-    "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran dismisses US account of attacks on Iranian oil tankers, says it’s acting in self-defense",
-   "url": "https://en.irna.ir/news/86257492/Iran-dismisses-US-account-of-attacks-on-Iranian-oil-tankers",
-   "published": "2026-09-07T11:04:44+00:00",
-   "summary": "Tehran, IRNA – Foreign Ministry spokesperson Esmaeil Baqaei has dismissed the US narrative about its attacks on Iranian oil tankers in the Persian Gulf, saying Iran is acting in self-defense in the face of a maritime blockade and economic war imposed by Washington.",
-   "tags": [
-    "strikes",
-    "shipping",
     "oil"
    ],
    "highlight": false
