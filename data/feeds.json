@@ -1,6 +1,15 @@
 {
- "asOf": "2026-09-08T13:50:13.377037+00:00",
+ "asOf": "2026-09-08T14:23:15.345792+00:00",
  "items": [
+  {
+   "source": "UN Press",
+   "title": "Deeply Concerned about Taliban’s Continuing Discriminatory Policies on Afghan Women, Girls, Secretary-General Urges De Facto Authorities to Lift All Restrictions",
+   "url": "https://press.un.org/en/2026/sgsm23261.doc.htm",
+   "published": "2026-09-08T14:10:59+00:00",
+   "summary": "The following statement was issued today by the Spokesman for UN Secretary-General António Guterres:",
+   "tags": [],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "UK expands unilateral sanctions against Iran",
@@ -264,6 +273,15 @@
    "tags": [
     "strikes"
    ],
+   "highlight": false
+  },
+  {
+   "source": "UN Press",
+   "title": "General Assembly, 116th Meeting (AM) 8 September 2026",
+   "url": "https://press.un.org/en/blog/ga12780",
+   "published": "2026-09-07T23:20:10+00:00",
+   "summary": "At 11:00 a.m., the General Assembly will close its 80th session, with statements by the Secretary-General and the President of the General Assembly, followed by the oath of office by the President-elect.",
+   "tags": [],
    "highlight": false
   },
   {
@@ -600,26 +618,6 @@
    "summary": "Tehran, IRNA – Pakistan’s Ambassador to the Islamic Republic of Iran, Imran Ahmed Siddiqui, has emphasized that Islamabad strongly believes diplomacy, dialogue, and confidence-building are the most effective means for resolving disputes.",
    "tags": [
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "Labor Day, 2026",
-   "url": "https://www.whitehouse.gov/presidential-actions/2026/09/labor-day-2026/",
-   "published": "2026-09-07T16:05:01+00:00",
-   "summary": "By the President of the United States of America A Proclamation This Labor Day, we recognize the hard work, dedication, and unwavering commitment of the American worker.&#160; Their inspiring skill and unbreakable spirit have propelled our country forward for generations.&#160; Their strength built our cities, their genius launched and sustained our most advanced industries, and [&#8230;] The post",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Why do the Falkland Islands matter to the UK and Argentina so much?",
-   "url": "https://www.aljazeera.com/news/2026/9/7/why-do-the-falkland-islands-matter-to-the-uk-and-argentina-so-much?traffic_source=rss",
-   "published": "2026-09-07T14:58:56+00:00",
-   "summary": "Argentina&#039;s sovereignty claim is enshrined in its constitution, but oil production raises the economic stakes.",
-   "tags": [
-    "oil"
    ],
    "highlight": false
   }
