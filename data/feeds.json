@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-08T10:32:11.011287+00:00",
+ "asOf": "2026-09-08T10:49:43.192679+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Strait of Hormuz firmly controlled by Iranian Forces: IRGC commander",
+   "url": "https://en.irna.ir/news/86258370/Strait-of-Hormuz-firmly-controlled-by-Iranian-Forces-IRGC-commander",
+   "published": "2026-09-08T10:48:41+00:00",
+   "summary": "Birjand, IRNA – Major General Mostafa Izadi, Deputy Commander of the Islamic Revolution Guards Corps (IRGC), says IRGC firmly controls the Strait of Hormuz and Iran’s Armed Forces remain fully prepared in southern regions.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "IRGC deputy chief: Siege, sanctions, war failed to sideline Iranian nation",
@@ -606,18 +617,6 @@
    "summary": "The Houthis and Yemeni government forces are battling for control of the critical Bab al-Mandeb Strait.",
    "tags": [
     "strikes",
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran says Oman acts in good faith in talks on Strait of Hormuz",
-   "url": "https://en.irna.ir/news/86257335/Iran-says-Oman-acts-in-good-faith-in-talks-on-Strait-of-Hormuz",
-   "published": "2026-09-07T13:01:47+00:00",
-   "summary": "Tehran, IRNA – Foreign Ministry spokesperson Esmaeil Baqaei says Oman has acted in good faith during recent talks on shipping security in the Strait of Hormuz.",
-   "tags": [
-    "diplomacy",
     "shipping"
    ],
    "highlight": false
