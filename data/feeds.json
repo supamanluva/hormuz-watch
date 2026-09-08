@@ -1,6 +1,30 @@
 {
- "asOf": "2026-09-08T20:50:06.176963+00:00",
+ "asOf": "2026-09-08T21:17:13.642717+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Top commander warns of strikes on US bases if Iranian oil tankers are attacked",
+   "url": "https://en.irna.ir/news/86258958/Top-commander-warns-of-strikes-on-US-bases-if-Iranian-oil-tankers",
+   "published": "2026-09-08T21:02:56+00:00",
+   "summary": "Tehran, IRNA – Chief of Staff of the Iranian Armed Forces Major General Ali Abdollahi has warned the United States that any attack on Iranian oil tankers would trigger strikes on US bases across the region.",
+   "tags": [
+    "strikes",
+    "shipping",
+    "oil"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Police bodycam captures Russian missile strike on Kyiv",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/police-bodycam-captures-russian-missile-strike-on-kyiv?traffic_source=rss",
+   "published": "2026-09-08T20:43:52+00:00",
+   "summary": "Bodycam video has captured the moment a Russian missile struck near police in Ukraine’s capital Kiev",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Mamdani says 9/11 illnesses killed more than attacks did",
@@ -63,7 +87,7 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "Trump, Putin hold ‘frank’ phone call as US restarts Ukraine deal efforts",
+   "title": "Trump, Putin hold ‘frank’ phone call as US revives Ukraine peace efforts",
    "url": "https://www.aljazeera.com/news/2026/9/8/trump-putin-hold-frank-phone-call-as-us-restarts-ukraine-deal-efforts?traffic_source=rss",
    "published": "2026-09-08T18:31:30+00:00",
    "summary": "The phone call comes after US special envoys travelled to Russia and Ukraine to discuss &#039;a proposal to end the war&#039;.",
@@ -597,24 +621,6 @@
    "url": "https://trumpstruth.org/statuses/41627",
    "published": "2026-09-07T23:01:19+00:00",
    "summary": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117232228056672165",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from September 7, 2026",
-   "url": "https://www.trumpstruth.org/statuses/41627",
-   "published": "2026-09-07T23:01:19+00:00",
-   "summary": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117232228056672165",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from September 7, 2026",
-   "url": "https://trumpstruth.org/statuses/41628",
-   "published": "2026-09-07T22:57:19+00:00",
-   "summary": "",
    "tags": [],
    "highlight": true
   }
