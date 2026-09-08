@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-08T19:29:23.654435+00:00",
+ "asOf": "2026-09-08T19:50:13.297461+00:00",
  "items": [
+  {
+   "source": "UN Press",
+   "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General",
+   "url": "https://press.un.org/en/2026/db260908.doc.htm",
+   "published": "2026-09-08T19:09:42+00:00",
+   "summary": "The United Nations Multidimensional Integrated Stabilization Mission in the Central African Republic (MINUSCA)reports encouraging signs of a gradual return to normal life in Am-Dafock, near the border with Sudan, after an attack by armed groups killed 29 people and displaced over 17,000. MINUSCA has increased patrols to help protect civilians; over 5,000 have returned home.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Mission: No amount of force can destroy Iran's nuclear capabilities",
@@ -511,6 +522,15 @@
   },
   {
    "source": "UN Press",
+   "title": "General Assembly, 1st Meeting (AM) 8 September 2026",
+   "url": "https://press.un.org/en/blog/ga12781",
+   "published": "2026-09-07T23:21:34+00:00",
+   "summary": "At 3 p.m., the General Assembly will open its eighty-first session, presided over by Khalilur Rahman of Bangladesh, appointing members of the Credentials Committee and adopting the agenda.",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "UN Press",
    "title": "General Assembly, 116th Meeting (AM) 8 September 2026",
    "url": "https://press.un.org/en/blog/ga12780",
    "published": "2026-09-07T23:20:10+00:00",
@@ -592,24 +612,6 @@
    "title": "[No Title] - Post from September 7, 2026",
    "url": "https://www.trumpstruth.org/statuses/41628",
    "published": "2026-09-07T22:57:19+00:00",
-   "summary": "",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from September 7, 2026",
-   "url": "https://trumpstruth.org/statuses/41626",
-   "published": "2026-09-07T22:36:04+00:00",
-   "summary": "",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from September 7, 2026",
-   "url": "https://www.trumpstruth.org/statuses/41626",
-   "published": "2026-09-07T22:36:04+00:00",
    "summary": "",
    "tags": [],
    "highlight": true
