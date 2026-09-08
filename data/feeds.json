@@ -1,6 +1,28 @@
 {
- "asOf": "2026-09-08T08:51:04.431949+00:00",
+ "asOf": "2026-09-08T09:34:37.344364+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Senior MP: Strike on US warships represents mere fraction of Iran’s military prowess",
+   "url": "https://en.irna.ir/news/86258329/MP-Strike-on-US-warships-represents-mere-fraction-of-Iran-s",
+   "published": "2026-09-08T09:15:19+00:00",
+   "summary": "Tehran, IRNA — Iranian Deputy Parliament Speaker Ali Nikzad says that the strikes on US warships and the obliteration of their commanders’ headquarters represent only a small portion of Iran’s full military capacity.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Houthi attacks on southern Saudi Arabia reportedly injure dozens",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/houthi-attacks-on-southern-saudi-arabia-reportedly-injure-dozens?traffic_source=rss",
+   "published": "2026-09-08T08:42:42+00:00",
+   "summary": "Saudi Arabia says a wave of Houthi attacks on the country’s south have injured 73 people, including women and children.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Iran envoy: US–E3 draft resolution at IAEA is ‘one act of lawlessness after another’",
@@ -597,28 +619,6 @@
    "summary": "Tehran, IRNA – The head of the Iran-Pakistan Joint Chamber says the chamber is negotiating to remove trade barriers following Pakistan’s recent increase in tariffs on some Iranian exports.",
    "tags": [
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Can Iran enforce a restricted zone in the Strait of Hormuz?",
-   "url": "https://www.aljazeera.com/news/2026/9/7/can-iran-enforce-a-restricted-zone-in-the-strait-of-hormuz?traffic_source=rss",
-   "published": "2026-09-07T11:37:46+00:00",
-   "summary": "Iran unveils plans for a restricted zone, but will Tehran be able to enforce it amid escalating tensions with the US?",
-   "tags": [
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iran and Ukraine wars: Why ship fuel is running short, and why it matters",
-   "url": "https://www.aljazeera.com/news/2026/9/7/iran-and-ukraine-wars-why-ship-fuel-is-running-short-and-why-it-matters?traffic_source=rss",
-   "published": "2026-09-07T11:26:27+00:00",
-   "summary": "There is less crude in the market, and refiners prefer to produce diesel. The result: ships are running short of fuel.",
-   "tags": [
-    "oil"
    ],
    "highlight": false
   }
