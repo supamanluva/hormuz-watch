@@ -1,6 +1,15 @@
 {
- "asOf": "2026-09-08T22:18:45.552183+00:00",
+ "asOf": "2026-09-08T22:49:53.098483+00:00",
  "items": [
+  {
+   "source": "UN Press",
+   "title": "‘Trust Cannot Simply Be Requested’, New General Assembly President Says as Session Opens",
+   "url": "https://press.un.org/en/2026/ga12781.doc.htm",
+   "published": "2026-09-08T22:17:58+00:00",
+   "summary": "While spotlighting United Nations efforts to promote peace, pursue development and confront emerging challenges over the past 80 years, the new President of the General Assembly nevertheless urged that the organ’s upcoming session seek to address the unmet expectations surrounding the Organization under the theme “Restoring Trust, Managing Transformation: A United Nations that Delivers for All”.",
+   "tags": [],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Iran deems new UK sanctions illegal and contrary to shared interests of two countries",
@@ -612,17 +621,6 @@
    "summary": "",
    "tags": [],
    "highlight": true
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iran war live: Qatar warns of ‘industrial catastrophe’ if crisis continues",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/9/8/iran-war-live-qatar-warns-of-industrial-catastrophe-if-crisis-continues?traffic_source=rss",
-   "published": "2026-09-08T00:00:00+00:00",
-   "summary": "An average of 10 ships transited Strait of Hormuz daily over past 10 days, the lowest level since May, Kpler data shows.",
-   "tags": [
-    "shipping"
-   ],
-   "highlight": false
   }
  ]
 }
