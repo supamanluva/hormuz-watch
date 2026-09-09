@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-09T08:50:47.523725+00:00",
+ "asOf": "2026-09-09T09:35:21.530325+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iranian airlines warn sanctions must not put civil aviation safety at risk",
+   "url": "https://en.irna.ir/news/86259304/Iranian-airlines-warn-sanctions-must-not-put-civil-aviation-safety",
+   "published": "2026-09-09T09:00:14+00:00",
+   "summary": "Tehran, IRNA – The Association of Iranian Airlines has warned that continued sanctions against Iran’s carriers could affect civil aviation services, stressing that air transport should not become a target of political and economic measures.",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "In maps and charts: Russian and Ukrainian attacks on civilian targets",
@@ -73,7 +84,7 @@
    "title": "IRGC spokesperson: No advanced technology can evade Iran’s surveillance layers in Strait of Hormuz",
    "url": "https://en.irna.ir/news/86259127/IRGC-spokesperson-No-advanced-technology-can-evade-Iran-s-surveillance",
    "published": "2026-09-09T06:03:59+00:00",
-   "summary": "Tehran, IRNA – The spokesperson for the Islamic Revolution Guards Corps (IRGC), Brigadier General Ali Mohammad Naini, has said Iran’s Armed Forces have the capability to detect and monitor even the most advanced technologies in the Strait of Hormuz.",
+   "summary": "Tehran, IRNA – The spokesperson for the Islamic Revolution Guards Corps (IRGC), Brigadier General Hossein Mohebbi, has said Iran’s Armed Forces have the capability to detect and monitor even the most advanced technologies in the Strait of Hormuz.",
    "tags": [
     "shipping"
    ],
@@ -586,15 +597,6 @@
    "url": "https://www.whitehouse.gov/presidential-actions/2026/09/accelerating-access-to-veterans-benefits-and-employment-opportunities/",
    "published": "2026-09-08T19:00:01+00:00",
    "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered: Section 1. Purpose and Policy. Millions of brave men and women have served in our Armed Forces with courage, commitment, and sacrifice, guaranteeing our security, prosperity, and freedom. These veterans deserve [&#8230;] The post Accelerating Access To Veterans&#8217; ",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "Adjusting Certain Delegations Under the Defense Production Act",
-   "url": "https://www.whitehouse.gov/presidential-actions/2026/09/adjusting-certain-delegations-under-the-defense-production-act-e2de/",
-   "published": "2026-09-08T18:52:09+00:00",
-   "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered: Section 1. Purpose. This order amends Executive Order 13603 of March 16, 2012 (National Defense Resources Preparedness), as amended by Executive Order 14391 of March 13, 2026 (Adjusting Certain Delegations Under the [&#8230;] The post Adjusting Certain Delegations Unde",
    "tags": [],
    "highlight": false
   }
