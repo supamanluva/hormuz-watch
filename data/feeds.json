@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-09T16:23:30.117937+00:00",
+ "asOf": "2026-09-09T17:18:31.623173+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran criticizes IAEA over safeguards expectations amid US, Israeli threats",
+   "url": "https://en.irna.ir/news/86259865/Iran-criticizes-IAEA-over-safeguards-expectations-amid-US-Israeli",
+   "published": "2026-09-09T16:25:18+00:00",
+   "summary": "London, IRNA — Iran’s permanent mission to the United Nations and other international organizations in Vienna has criticized the IAEA’s expectation of normal safeguards implementation amid continued US and Israeli threats and aggression.",
+   "tags": [
+    "nuclear"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Iran, Russia, China reject US-E3 draft resolution against Tehran at IAEA BoG as ‘baseless’",
@@ -9,6 +20,17 @@
    "summary": "London, IRNA – Iran, Russia, and China have jointly rejected an anti-Iran draft resolution presented by the United States and the E3 – Germany, France, and Britain – at the IAEA Board of Governors meeting, calling the move legally baseless.",
    "tags": [
     "nuclear"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Attackers kill police officer, kidnap teachers in Cameroon’s northwest",
+   "url": "https://www.aljazeera.com/news/2026/9/9/attackers-kill-police-officer-kidnap-teachers-in-cameroons-northwest?traffic_source=rss",
+   "published": "2026-09-09T16:00:01+00:00",
+   "summary": "An armed group attacks a teacher training centre in the town of Wum, according to the Northwest Region&#039;s governor.",
+   "tags": [
+    "strikes"
    ],
    "highlight": false
   },
@@ -594,30 +616,6 @@
     "strikes",
     "shipping",
     "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iran war live: US, Iran attack oil tankers; crude heads to $100",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/9/9/iran-war-live-us-hits-iranian-tankers-irgc-attacks-us-base-in-jordan?traffic_source=rss",
-   "published": "2026-09-09T00:00:00+00:00",
-   "summary": "Iran&#039;s IRGC urges crews to leave tankers in Kuwait and Bahrain, warning it will target ships following US attack.",
-   "tags": [
-    "strikes",
-    "shipping",
-    "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "US increases pressure on Iran with sanctions targeting aviation sector",
-   "url": "https://www.aljazeera.com/news/2026/9/8/us-increases-pressure-on-iran-with-sanctions-targeting-aviation-sector?traffic_source=rss",
-   "published": "2026-09-08T23:51:29+00:00",
-   "summary": "Trump administration has sought to isolate Tehran through a raft of measures meant to squeeze the country&#039;s economy.",
-   "tags": [
-    "sanctions"
    ],
    "highlight": false
   }
