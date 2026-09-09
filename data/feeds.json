@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-09T10:32:19.337060+00:00",
+ "asOf": "2026-09-09T11:19:19.489307+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "US sanctions will not stop Iran’s aviation industry: Official",
+   "url": "https://en.irna.ir/news/86259552/US-sanctions-will-not-stop-Iran-s-aviation-industry-Official",
+   "published": "2026-09-09T10:44:00+00:00",
+   "summary": "Tehran, IRNA — The head of Iran’s Civil Aviation Organization says new US sanctions against Iranian airlines are a continuation of a failed policy, stressing that they may raise costs but cannot halt the country’s flight operations.",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Israel tells UK to close East Jerusalem consulate within 30 days",
@@ -195,7 +206,7 @@
    "title": "Fact Sheet: President Donald J. Trump Responds to Canada’s Retaliation",
    "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-responds-to-canadas-retaliation/",
    "published": "2026-09-09T01:38:43+00:00",
-   "summary": "COUNTERING CANADA’S LATEST RETALIATION AGAINST AMERICAN EXPORTS: Today, to address Canada’s increased discrimination against U.S. commerce, President Trump signed five Proclamations pursuant to Section 338 of the Tariff Act of 1930 to ban certain products from Canada and modify the scope of the tariffs on certain Canadian products previously announced on July 20, 2026. President Trump is taking de",
+   "summary": "COUNTERING CANADA’S LATEST RETALIATION AGAINST AMERICAN EXPORTS:&#160;Today, to address Canada’s increased discrimination against U.S. commerce,&#160;President Trump signed five Proclamations pursuant to Section 338 of the Tariff Act of 1930 to ban certain products from Canada and modify the scope of the tariffs on certain Canadian products previously&#160;announced&#160;on July 20, 2026. Presiden",
    "tags": [],
    "highlight": false
   },
@@ -590,17 +601,6 @@
    "summary": "The United Nations Multidimensional Integrated Stabilization Mission in the Central African Republic (MINUSCA)reports encouraging signs of a gradual return to normal life in Am-Dafock, near the border with Sudan, after an attack by armed groups killed 29 people and displaced over 17,000. MINUSCA has increased patrols to help protect civilians; over 5,000 have returned home.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Mission: No amount of force can destroy Iran’s nuclear capabilities",
-   "url": "https://en.irna.ir/news/86258906/Mission-No-amount-of-force-can-destroy-Iran-s-nuclear-capabilities",
-   "published": "2026-09-08T19:05:32+00:00",
-   "summary": "London, IRNA – The Islamic Republic of Iran emphasized at the IAEA Board of Governors meeting that its nuclear capabilities are rooted in the knowledge, determination, and human resources of a proud nation, and no amount of force can change it.",
-   "tags": [
-    "nuclear"
    ],
    "highlight": false
   }
