@@ -1,6 +1,28 @@
 {
- "asOf": "2026-09-09T09:35:21.530325+00:00",
+ "asOf": "2026-09-09T10:32:19.337060+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Israel tells UK to close East Jerusalem consulate within 30 days",
+   "url": "https://www.aljazeera.com/news/2026/9/9/israel-tells-uk-to-close-east-jerusalem-consulate-within-30-days?traffic_source=rss",
+   "published": "2026-09-09T10:09:06+00:00",
+   "summary": "Israel announced it would close the consulate after UK said it was imposing sanctions on illegal settlements.",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Pakistan faces new frontier against attacks: Balochistan’s Pashtun areas",
+   "url": "https://www.aljazeera.com/news/2026/9/9/pakistan-faces-new-frontier-against-attacks-balochistans-pashtun-areas?traffic_source=rss",
+   "published": "2026-09-09T09:44:10+00:00",
+   "summary": "A surge in attacks in Balochistan’s Pashtun-majority districts is raising questions about a widening rebellion.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Iranian airlines warn sanctions must not put civil aviation safety at risk",
@@ -580,24 +602,6 @@
    "tags": [
     "nuclear"
    ],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "Fact Sheet: President Donald J. Trump Accelerates Veterans’ Access to Benefits and Employment Opportunities",
-   "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-accelerates-veterans-access-to-benefits-and-employment-opportunities/",
-   "published": "2026-09-08T19:02:42+00:00",
-   "summary": "EXPANDING ACCESS AND CREATING OPPORTUNITY:&#160;Today, President Donald J. Trump signed an Executive Order to modernize data management and data sharing between the Departments of War and Veterans Affairs in order to expedite veterans’ access to benefits.&#160;&#160; REMOVING ANTIQUATED SYSTEM BARRIERS TO DELIVER RESULTS:&#160;President Trump is removing the inefficiencies and delays that hinder o",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "Accelerating Access To Veterans’ Benefits And Employment Opportunities",
-   "url": "https://www.whitehouse.gov/presidential-actions/2026/09/accelerating-access-to-veterans-benefits-and-employment-opportunities/",
-   "published": "2026-09-08T19:00:01+00:00",
-   "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered: Section 1. Purpose and Policy. Millions of brave men and women have served in our Armed Forces with courage, commitment, and sacrifice, guaranteeing our security, prosperity, and freedom. These veterans deserve [&#8230;] The post Accelerating Access To Veterans&#8217; ",
-   "tags": [],
    "highlight": false
   }
  ]
