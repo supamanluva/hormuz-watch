@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-09T07:24:55.088124+00:00",
+ "asOf": "2026-09-09T07:49:56.267764+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Araghchi meets new envoys of India, Denmark, WHO office in Tehran",
+   "url": "https://en.irna.ir/news/86259289/Araghchi-meets-new-envoys-of-India-Denmark-WHO-office-in-Tehran",
+   "published": "2026-09-09T07:44:27+00:00",
+   "summary": "Tehran, IRNA – The new ambassadors of India and Denmark, along with the new representative of the World Health Organization (WHO) office in Iran, have met with Foreign Minister Abbas Araghchi at the beginning of their missions.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "IRGC targets US vessels, tankers in Strait of Hormuz",
@@ -582,17 +593,6 @@
    "summary": "Moscow, IRNA – Iran’s economy minister holds talks with senior officials of the Eurasian Economic Union (EAEU) in Moscow on accelerating trade transactions between the two sides and strengthening Iran’s presence in the bloc’s market of more than 180 million people.",
    "tags": [
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Yemen’s war is back: A new battle for Sanaa and the Red Sea",
-   "url": "https://www.aljazeera.com/features/2026/9/8/yemens-war-is-back-a-new-battle-for-sanaa-and-the-red-sea?traffic_source=rss",
-   "published": "2026-09-08T17:37:35+00:00",
-   "summary": "This phase of the war could be the start of another protracted conflict rather than a decisive campaign, say analysts.",
-   "tags": [
-    "shipping"
    ],
    "highlight": false
   }
