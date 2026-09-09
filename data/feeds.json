@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-09T07:49:56.267764+00:00",
+ "asOf": "2026-09-09T08:28:09.814896+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Russian drone attack kills two at Ukraine-Moldova border crossing",
+   "url": "https://www.aljazeera.com/news/2026/9/9/russian-drone-attack-kills-two-at-ukraine-moldova-border-crossing?traffic_source=rss",
+   "published": "2026-09-09T08:05:58+00:00",
+   "summary": "Russian drones strike Ukraine-Moldova border in Odesa, killing two and injuring three civilians, officials confirm.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Araghchi meets new envoys of India, Denmark, WHO office in Tehran",
@@ -9,6 +20,17 @@
    "summary": "Tehran, IRNA – The new ambassadors of India and Denmark, along with the new representative of the World Health Organization (WHO) office in Iran, have met with Foreign Minister Abbas Araghchi at the beginning of their missions.",
    "tags": [
     "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Medicine shortages grow in Iran as US tightens sanctions, blockade",
+   "url": "https://www.aljazeera.com/news/2026/9/9/medicine-shortages-grow-in-iran-as-us-tightens-sanctions-blockade?traffic_source=rss",
+   "published": "2026-09-09T07:14:12+00:00",
+   "summary": "Many Iranians cannot access or afford life-saving drugs, but authorities say pharmaceutical sector will not collapse.",
+   "tags": [
+    "sanctions"
    ],
    "highlight": false
   },
@@ -571,26 +593,6 @@
    "url": "https://www.aljazeera.com/news/2026/9/8/trump-putin-hold-frank-phone-call-as-us-restarts-ukraine-deal-efforts?traffic_source=rss",
    "published": "2026-09-08T18:31:30+00:00",
    "summary": "The phone call comes after US special envoys travelled to Russia and Ukraine to discuss &#039;a proposal to end the war&#039;.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "President Trump Honors 9/11 Heroes and Renews America’s Vow to Never Forget",
-   "url": "https://www.whitehouse.gov/releases/2026/09/president-trump-honors-9-11-heroes-and-renews-americas-vow-to-never-forget/",
-   "published": "2026-09-08T18:11:32+00:00",
-   "summary": "Today, President Donald J. Trump stood with first responders, Gold Star families, and the Tunnel to Towers Foundation to honor the Americans who ran toward the fire on September 11, 2001. At his side was a 21-foot steel beam recovered from the wreckage of the South Tower — carried more than 10,500 miles on Tunnel [&#8230;] The post President Trump Honors 9/11 Heroes and Renews America’s Vow to Nev",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran, Eurasian Economic Union discuss expanding trade",
-   "url": "https://en.irna.ir/news/86258882/Iran-Eurasian-Economic-Union-discuss-expanding-trade",
-   "published": "2026-09-08T18:09:48+00:00",
-   "summary": "Moscow, IRNA – Iran’s economy minister holds talks with senior officials of the Eurasian Economic Union (EAEU) in Moscow on accelerating trade transactions between the two sides and strengthening Iran’s presence in the bloc’s market of more than 180 million people.",
    "tags": [
     "diplomacy"
    ],
