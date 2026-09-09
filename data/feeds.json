@@ -1,6 +1,39 @@
 {
- "asOf": "2026-09-09T15:32:24.779450+00:00",
+ "asOf": "2026-09-09T16:23:30.117937+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran, Russia, China reject US-E3 draft resolution against Tehran at IAEA BoG as ‘baseless’",
+   "url": "https://en.irna.ir/news/86259885/Iran-Russia-China-reject-US-E3-draft-resolution-against-Tehran",
+   "published": "2026-09-09T16:08:22+00:00",
+   "summary": "London, IRNA – Iran, Russia, and China have jointly rejected an anti-Iran draft resolution presented by the United States and the E3 – Germany, France, and Britain – at the IAEA Board of Governors meeting, calling the move legally baseless.",
+   "tags": [
+    "nuclear"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "As the UK sanctions Israeli settlements, is the two-state solution dead?",
+   "url": "https://www.aljazeera.com/news/2026/9/9/as-the-uk-sanctions-israeli-settlements-is-the-two-state-solution-dead?traffic_source=rss",
+   "published": "2026-09-09T15:43:29+00:00",
+   "summary": "Analysts say UK move far from enough to drive momentum for Palestinian statehood.",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Jerusalem Daily: Israel retaliates over sanctions on illegal settlements",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/jerusalem-daily-israel-retaliates-over-sanctions-on-illegal-settlements?traffic_source=rss",
+   "published": "2026-09-09T15:41:43+00:00",
+   "summary": "A diplomatic rift grows between the UK and Israel after Britain led a ban on trade with illegal Israeli settlements",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Iran's envoy to OIC and FM Araghchi review latest developments in Islamic world",
@@ -586,39 +619,6 @@
    "tags": [
     "sanctions"
    ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "US bombs five Iranian oil tankers after its navy is attacked",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/us-bombs-five-iranian-oil-tankers-after-its-navy-is-attacked?traffic_source=rss",
-   "published": "2026-09-08T23:49:25+00:00",
-   "summary": "The US military has released video of its forces destroying what it says are five Iranian crude oil tankers.",
-   "tags": [
-    "strikes",
-    "shipping",
-    "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Mamdani releases records on toxic air in New York after 9/11 attacks",
-   "url": "https://www.aljazeera.com/news/2026/9/8/mamdani-releases-records-on-toxic-air-in-new-york-after-9-11?traffic_source=rss",
-   "published": "2026-09-08T23:14:31+00:00",
-   "summary": "The New York City mayor said the document release shows victims were &#039;lied to&#039; about health impacts from the attacks.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "Modifying the Scope of Products of Canada Subject to the Additional Duties Imposed to Offset Canadian Discrimination Against the United States with Respect to Motor Vehicles",
-   "url": "https://www.whitehouse.gov/presidential-actions/2026/09/modifying-the-scope-of-products-of-canada-subject-to-the-additional-duties-imposed-to-offset-canadian-discrimination-against-the-united-states-with-respect-to-motor-vehicles/",
-   "published": "2026-09-08T22:50:00+00:00",
-   "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA A PROCLAMATION 1.&#160; In Proclamation 11048 of July 20, 2026 (Imposing Additional Duties To Offset Canadian Discrimination Against the Commerce of the United States With Respect to Motor Vehicles), I&#160;found as a fact that Canada is discriminating in fact against the commerce of the United States [&#8230;] The post Modifying the Scope of Produc",
-   "tags": [],
    "highlight": false
   }
  ]
