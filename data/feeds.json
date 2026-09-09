@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-09T08:28:09.814896+00:00",
+ "asOf": "2026-09-09T08:50:47.523725+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "In maps and charts: Russian and Ukrainian attacks on civilian targets",
+   "url": "https://www.aljazeera.com/news/2026/9/9/in-maps-and-charts-russian-and-ukrainian-attacks-on-civilian-targets?traffic_source=rss",
+   "published": "2026-09-09T08:42:33+00:00",
+   "summary": "Al Jazeera visualises how attacks on civilian infrastructure have more than doubled during the course of the war.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Russian drone attack kills two at Ukraine-Moldova border crossing",
@@ -551,10 +562,10 @@
   },
   {
    "source": "IRNA (Iran state wire)",
-   "title": "Mission: No amount of force can destroy Iran's nuclear capabilities",
+   "title": "Mission: No amount of force can destroy Iran’s nuclear capabilities",
    "url": "https://en.irna.ir/news/86258906/Mission-No-amount-of-force-can-destroy-Iran-s-nuclear-capabilities",
    "published": "2026-09-08T19:05:32+00:00",
-   "summary": "London, IRNA – The Islamic Republic of Iran emphasized at the IAEA Board of Governors meeting that its nuclear capabilities are rooted in knowledge, determination, and human resources of a proud nation and no amount of force can change it.",
+   "summary": "London, IRNA – The Islamic Republic of Iran emphasized at the IAEA Board of Governors meeting that its nuclear capabilities are rooted in the knowledge, determination, and human resources of a proud nation, and no amount of force can change it.",
    "tags": [
     "nuclear"
    ],
@@ -585,17 +596,6 @@
    "published": "2026-09-08T18:52:09+00:00",
    "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered: Section 1. Purpose. This order amends Executive Order 13603 of March 16, 2012 (National Defense Resources Preparedness), as amended by Executive Order 14391 of March 13, 2026 (Adjusting Certain Delegations Under the [&#8230;] The post Adjusting Certain Delegations Unde",
    "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Trump, Putin hold ‘frank’ phone call as US revives Ukraine peace efforts",
-   "url": "https://www.aljazeera.com/news/2026/9/8/trump-putin-hold-frank-phone-call-as-us-restarts-ukraine-deal-efforts?traffic_source=rss",
-   "published": "2026-09-08T18:31:30+00:00",
-   "summary": "The phone call comes after US special envoys travelled to Russia and Ukraine to discuss &#039;a proposal to end the war&#039;.",
-   "tags": [
-    "diplomacy"
-   ],
    "highlight": false
   }
  ]
