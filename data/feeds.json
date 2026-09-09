@@ -1,6 +1,52 @@
 {
- "asOf": "2026-09-09T11:50:15.506734+00:00",
+ "asOf": "2026-09-09T12:31:43.742160+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran will firmly respond to any enemy aggression: Foreign Ministry",
+   "url": "https://en.irna.ir/news/86259670/Iran-will-firmly-respond-to-any-enemy-aggression-Foreign-Ministry",
+   "published": "2026-09-09T12:20:07+00:00",
+   "summary": "Tehran, IRNA – Iran's Foreign Ministry has issued yet another strong condemnation of US attacks on several oil tankers, warning that the Iranian Armed Forces will firmly and decisively respond to enemy aggression by exercising their inherent right to self-defense.",
+   "tags": [
+    "strikes",
+    "shipping",
+    "oil"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "How has Israel hit back against sanctions by the UK, others?",
+   "url": "https://www.aljazeera.com/news/2026/9/9/how-has-israel-hit-back-against-sanctions-by-the-uk-others?traffic_source=rss",
+   "published": "2026-09-09T12:17:50+00:00",
+   "summary": "Israel announced four countermeasures including the closure of the British consulate in East Jerusalem.",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Lionel Messi agrees deal to buy second-tier Spanish club Eldense",
+   "url": "https://www.aljazeera.com/sports/2026/9/9/lionel-messi-agrees-deal-to-buy-second-tier-spanish-club-eldense?traffic_source=rss",
+   "published": "2026-09-09T12:07:46+00:00",
+   "summary": "Messi poised to become majority owner of a second club in Spain after the purchase of fifth-tier UE Cornella in April.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Video: Dozens protest potential Strait of Hormuz deployment",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/video-dozens-protest-potential-strait-of-hormuz-deployment?traffic_source=rss",
+   "published": "2026-09-09T11:52:48+00:00",
+   "summary": "Almost 100 anti-war activists protested on Wednesday outside the Sejong Centre in Seoul.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Video: RSF drone attack on Sudan court kills at least 13 people",
@@ -14,11 +60,12 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "Has Iran captured an unmanned US submarine? What we know",
+   "title": "Did Iran capture a US submarine? What we know about the underwater drone",
    "url": "https://www.aljazeera.com/news/2026/9/9/has-iran-captured-an-unmanned-us-submarine-what-we-know?traffic_source=rss",
    "published": "2026-09-09T11:06:16+00:00",
    "summary": "Tehran lauds capturing Dive-LD vessel, while Washington insists that the submersible &#039;had malfunctioned a day ago&#039;.",
    "tags": [
+    "strikes",
     "shipping"
    ],
    "highlight": false
@@ -228,7 +275,7 @@
    "title": "Fact Sheet: President Donald J. Trump Responds to Canada’s Retaliation",
    "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-responds-to-canadas-retaliation/",
    "published": "2026-09-09T01:38:43+00:00",
-   "summary": "COUNTERING CANADA’S LATEST RETALIATION AGAINST AMERICAN EXPORTS:&#160;Today, to address Canada’s increased discrimination against U.S. commerce,&#160;President Trump signed five Proclamations pursuant to Section 338 of the Tariff Act of 1930 to ban certain products from Canada and modify the scope of the tariffs on certain Canadian products previously&#160;announced&#160;on July 20, 2026. Presiden",
+   "summary": "COUNTERING CANADA’S LATEST RETALIATION AGAINST AMERICAN EXPORTS: Today, to address Canada’s increased discrimination against U.S. commerce, President Donald J. Trump signed five Proclamations pursuant to Section 338 of the Tariff Act of 1930 to ban certain products from Canada and modify the scope of the tariffs on certain Canadian products previously announced on July 20, 2026. President Trump is",
    "tags": [],
    "highlight": false
   },
@@ -560,48 +607,6 @@
    "tags": [
     "shipping"
    ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Top commander warns of strikes on US bases if Iranian oil tankers are attacked",
-   "url": "https://en.irna.ir/news/86258958/Top-commander-warns-of-strikes-on-US-bases-if-Iranian-oil-tankers",
-   "published": "2026-09-08T21:02:56+00:00",
-   "summary": "Tehran, IRNA – Chief of Staff of the Iranian Armed Forces Major General Ali Abdollahi has warned the United States that any attack on Iranian oil tankers would trigger strikes on US bases across the region.",
-   "tags": [
-    "strikes",
-    "shipping",
-    "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Secretary-General Pledges Full Support to Rebuild Trust in Multilateral System, at Opening of General Assembly’s Eighty-First Session",
-   "url": "https://press.un.org/en/2026/sgsm23268.doc.htm",
-   "published": "2026-09-08T21:01:53+00:00",
-   "summary": "Following are UN Secretary-General António Guterres’ remarks at the opening of the eighty-first session of the United Nations General Assembly, in New York today:",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Police bodycam captures Russian missile strike on Kyiv",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/police-bodycam-captures-russian-missile-strike-on-kyiv?traffic_source=rss",
-   "published": "2026-09-08T20:43:52+00:00",
-   "summary": "Bodycam video has captured the moment a Russian missile struck near police in Ukraine’s capital Kiev",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Deeply Concerned by Escalating Israeli Military Operations in Southern Lebanon, Secretary-General Condemns Mounting Civilian Causalities",
-   "url": "https://press.un.org/en/2026/sgsm23267.doc.htm",
-   "published": "2026-09-08T20:22:44+00:00",
-   "summary": "The following statement was issued today by the Spokesman for UN Secretary-General António Guterres:",
-   "tags": [],
    "highlight": false
   }
  ]
