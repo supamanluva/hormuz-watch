@@ -1,6 +1,18 @@
 {
- "asOf": "2026-09-09T12:31:43.742160+00:00",
+ "asOf": "2026-09-09T12:54:46.907884+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Brent crude surpasses $100 a barrel as Iran, US escalate attacks",
+   "url": "https://www.aljazeera.com/news/2026/9/9/global-stocks-slide-as-brent-crude-surpasses-100-a-barrel?traffic_source=rss",
+   "published": "2026-09-09T12:26:25+00:00",
+   "summary": "Benchmark Brent crude hits $100, shaking markets and fuelling concerns over rising inflation pressures worldwide.",
+   "tags": [
+    "strikes",
+    "oil"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Iran will firmly respond to any enemy aggression: Foreign Ministry",
@@ -595,17 +607,6 @@
    "summary": "Iranian Foreign Minister Abbas Araghchi mocked US policy towards Iran, saying Washington waged war on Tehran on behalf of Israel and resorted to further sanctions after both military action and sanctions failed to achieve their goals.",
    "tags": [
     "sanctions"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "US forces sink vessel ‘linked to Ecuador criminal gang’",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/us-forces-sink-vessel-linked-to-ecuador-criminal?traffic_source=rss",
-   "published": "2026-09-08T21:06:48+00:00",
-   "summary": "The US military says it intercepted and sank a floating refueling station in the eastern Pacific.",
-   "tags": [
-    "shipping"
    ],
    "highlight": false
   }
