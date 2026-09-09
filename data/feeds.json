@@ -1,21 +1,33 @@
 {
- "asOf": "2026-09-09T00:55:07.426337+00:00",
+ "asOf": "2026-09-09T01:31:23.549707+00:00",
  "items": [
   {
    "source": "Al Jazeera",
-   "title": "US destroys five Iranian tankers, Iran retaliates with attacks on Jordan",
-   "url": "https://www.aljazeera.com/news/2026/9/9/us-destroys-five-iranian-tankers-iran-retaliates-with-attacks-on-jordan-base?traffic_source=rss",
-   "published": "2026-09-09T00:08:37+00:00",
-   "summary": "US military says it struck the five Iranian tankers after IRGC targeted a US warship twice in two days.",
+   "title": "Jordanian air defences intercept Iranian missile barrage",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/jordanian-air-defences-intercept-iranian-missile-barrage?traffic_source=rss",
+   "published": "2026-09-09T01:08:15+00:00",
+   "summary": "Witnesses have captured the moment Jordanian air defence systems intercepted a barrage of Iranian ballistic missiles.",
    "tags": [
-    "strikes",
-    "shipping"
+    "strikes"
    ],
    "highlight": false
   },
   {
    "source": "Al Jazeera",
-   "title": "Iran war live: US hits Iranian tankers, IRGC attacks US base in Jordan",
+   "title": "US attacks 5 Iranian oil tankers, Tehran retaliates with strikes on Jordan",
+   "url": "https://www.aljazeera.com/news/2026/9/9/us-destroys-five-iranian-tankers-iran-retaliates-with-attacks-on-jordan-base?traffic_source=rss",
+   "published": "2026-09-09T00:08:37+00:00",
+   "summary": "US military says it struck the five Iranian tankers after the IRGC targeted a US warship twice in two days.",
+   "tags": [
+    "strikes",
+    "shipping",
+    "oil"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Iran war live: US hits Iranian tankers, IRGC attacks US forces in Jordan",
    "url": "https://www.aljazeera.com/news/liveblog/2026/9/9/iran-war-live-us-hits-iranian-tankers-irgc-attacks-us-base-in-jordan?traffic_source=rss",
    "published": "2026-09-09T00:00:00+00:00",
    "summary": "Iran&#039;s IRGC urges crews to leave tankers in Kuwait and Bahrain, warning it will target ships following US attack.",
@@ -604,17 +616,6 @@
    "summary": "Birjand, IRNA – Major General Mostafa Izadi, Deputy Commander of the Islamic Revolution Guards Corps (IRGC), says IRGC firmly controls the Strait of Hormuz and Iran’s Armed Forces remain fully prepared in southern regions.",
    "tags": [
     "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "IRGC deputy chief: Siege, sanctions, war failed to sideline Iranian nation",
-   "url": "https://en.irna.ir/news/86258395/IRGC-deputy-chief-Siege-sanctions-war-failed-to-sideline-Iranian",
-   "published": "2026-09-08T09:58:27+00:00",
-   "summary": "Birjand, IRNA – Deputy Commander-in-Chief of the Islamic Revolution Guards Corps (IRGC) Major General Mostafa Izadi has said that the enemy sought to push the Iranian people out of the field through pressure, sanctions, economic hardship, and war, but the nation stood firm and remained on the scene.",
-   "tags": [
-    "sanctions"
    ],
    "highlight": false
   }
