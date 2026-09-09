@@ -1,6 +1,18 @@
 {
- "asOf": "2026-09-09T13:21:23.922456+00:00",
+ "asOf": "2026-09-09T13:49:30.036408+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Nigeria, Boko Haram reportedly reach secret three-month ceasefire",
+   "url": "https://www.aljazeera.com/news/2026/9/9/nigeria-boko-haram-reportedly-reach-secret-three-month-ceasefire?traffic_source=rss",
+   "published": "2026-09-09T13:35:34+00:00",
+   "summary": "The reported truce follows the release of 360 villagers abducted during a Boko Haram attack in northeastern Nigeria.",
+   "tags": [
+    "strikes",
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Brent crude surpasses $100 a barrel as Iran, US escalate attacks",
@@ -594,17 +606,6 @@
    "url": "https://en.irna.ir/news/86258974/Iran-deems-new-UK-sanctions-illegal-and-contrary-to-shared-interests",
    "published": "2026-09-08T21:48:42+00:00",
    "summary": "London, IRNA – Expressing deep regret over the British government's decision to impose fresh sanctions on the Iranian people, the Embassy of the Islamic Republic of Iran in London condemned the move as illegal and contrary to the two nations' shared interests, warning that London's alignment with the US policy of economic terrorism would further heighten the wall of mistrust between the two countr",
-   "tags": [
-    "sanctions"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Araghchi: US waged war on Iran on Israel’s behalf",
-   "url": "https://en.irna.ir/news/86258967/Araghchi-US-waged-war-on-Iran-on-Israel-s-behalf",
-   "published": "2026-09-08T21:23:18+00:00",
-   "summary": "Iranian Foreign Minister Abbas Araghchi mocked US policy towards Iran, saying Washington waged war on Tehran on behalf of Israel and resorted to further sanctions after both military action and sanctions failed to achieve their goals.",
    "tags": [
     "sanctions"
    ],
