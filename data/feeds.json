@@ -1,6 +1,28 @@
 {
- "asOf": "2026-09-10T20:19:10.772235+00:00",
+ "asOf": "2026-09-10T20:50:19.824707+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "What’s happening in Yemen and how did we get here?",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/10/whats-happening-in-yemen-and-how-did-we-get-here-3?traffic_source=rss",
+   "published": "2026-09-10T20:24:47+00:00",
+   "summary": "Fighting has reignited in Yemen as Houthi forces push south towards the strategic Bab al-Mandab Strait.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Could Pakistan enter Yemen conflict under Mecca agreement?",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/10/10-09-sv-pakistan-yemen-mecca-pk?traffic_source=rss",
+   "published": "2026-09-10T20:06:04+00:00",
+   "summary": "Pakistan says no military response has been discussed under its new defence pact with Saudi Arabia and Turkiye.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Ghalibaf: US ‘arsenal’ of interventions, Treasury falsehoods will fail to curb oil prices",
@@ -589,26 +611,6 @@
    "tags": [
     "strikes"
    ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Trump says Iran war ‘will end immediately’ after US midterm elections",
-   "url": "https://www.aljazeera.com/news/2026/9/9/trump-says-iran-war-will-end-immediately-after-us-midterm-elections?traffic_source=rss",
-   "published": "2026-09-09T21:09:45+00:00",
-   "summary": "The president added the US is not looking to restart negotiations with Iran after the failure of previous ceasefires.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Activities of Secretary-General in Kyrgyzstan, 31 August-2 September",
-   "url": "https://press.un.org/en/2026/sgt3473.doc.htm",
-   "published": "2026-09-09T20:56:40+00:00",
-   "summary": "UN Secretary-General António Guterres arrived in Bishkek, Kyrgyzstan, early on Monday, 31 August, to attend the Shanghai Cooperation Organization meeting.",
-   "tags": [],
    "highlight": false
   }
  ]
