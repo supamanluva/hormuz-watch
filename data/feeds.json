@@ -1,6 +1,26 @@
 {
- "asOf": "2026-09-10T14:20:47.234011+00:00",
+ "asOf": "2026-09-10T14:49:36.997775+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Yemen’s Houthis seize strategic Red Sea city of Mocha",
+   "url": "https://www.aljazeera.com/news/2026/9/10/yemens-houthis-seize-strategic-red-sea-city-of-mocha?traffic_source=rss",
+   "published": "2026-09-10T14:16:42+00:00",
+   "summary": "Houthis deliver &#039;significant blow&#039; to the Yemeni government, expand control over Bab al-Mandeb, analysts say.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "White House",
+   "title": "Fact Sheet: President Donald J. Trump Announces the Working Families Obamacare Refunds",
+   "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-announces-the-working-families-obamacare-refunds/",
+   "published": "2026-09-10T14:06:53+00:00",
+   "summary": "RETURNING BIDEN OVERCHARGES TO WORKING FAMILIES:&#160;Today, President Donald J. Trump announced that the federal government will return to the American people hundreds of millions in Obamacare overcharges, collected by the Biden Administration, by issuing refunds of $500 per person to nearly 1 million Americans in 30 states. Today’s actions directly refund the Americans most exposed [&#8230;] The",
+   "tags": [],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Houthis advance along Yemen’s southern Red Sea coast",
@@ -583,29 +603,6 @@
    "summary": "An explosion tore through a temporary weapons depot near Sarmada, in northwestern Syria killing at least 14 people",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Houthi attacks on Saudi Arabia could activate defence pact, Pakistan says",
-   "url": "https://www.aljazeera.com/news/2026/9/9/pakistan-warns-mecca-defense-pact-will-activate-after-houthi-attacks?traffic_source=rss",
-   "published": "2026-09-09T18:31:10+00:00",
-   "summary": "Pakistan warns Mecca defence agreement may be activated if Yemen&#039;s Houthi rebels continue targeting Saudi Arabia.",
-   "tags": [
-    "strikes",
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "How significant are new European sanctions on illegal Israeli settlements?",
-   "url": "https://www.aljazeera.com/video/inside-story/2026/9/9/how-significant-are-new-european-sanctions-on-illegal-israeli-settlements?traffic_source=rss",
-   "published": "2026-09-09T18:23:27+00:00",
-   "summary": "Israel is accused of the ethnic cleansing of Palestinians.",
-   "tags": [
-    "sanctions"
    ],
    "highlight": false
   }
