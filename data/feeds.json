@@ -1,6 +1,39 @@
 {
- "asOf": "2026-09-10T02:51:17.507334+00:00",
+ "asOf": "2026-09-10T03:38:40.235993+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Netanyahu to sue Haaretz over claims UAE warned him before October 7 attack",
+   "url": "https://www.aljazeera.com/news/2026/9/10/netanyahu-to-sue-haaretz-over-claims-uae-warned-him-before-october-7-attack?traffic_source=rss",
+   "published": "2026-09-10T03:14:52+00:00",
+   "summary": "Israeli prime minister denies claim that UAE president warned him of Hamas plans before the 2023 attacks.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Why is Iran bombing Jordan’s Al-Azraq base?",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/10/why-is-iran-bombing-jordans-al-azraq-base?traffic_source=rss",
+   "published": "2026-09-10T03:02:18+00:00",
+   "summary": "Iran has increased its targeting of Jordan’s Muwaffaq Salti Air Base near Al-Azraq in recent weeks.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Tunisian flotilla activists remain jailed as hunger striker worsens",
+   "url": "https://www.aljazeera.com/news/2026/9/10/tunisian-flotilla-activists-remain-jailed-as-hunger-striker-worsens?traffic_source=rss",
+   "published": "2026-09-10T02:41:50+00:00",
+   "summary": "The four have been held since March in a financial investigation linked to organisers of the Global Sumud Flotilla.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "US announces $45m in security funding, additional naval vessels for Ecuador",
@@ -531,28 +564,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "Israel tells UK to close East Jerusalem consulate within 30 days",
-   "url": "https://www.aljazeera.com/news/2026/9/9/israel-tells-uk-to-close-east-jerusalem-consulate-within-30-days?traffic_source=rss",
-   "published": "2026-09-09T10:09:06+00:00",
-   "summary": "Israel announced it would close the consulate after UK said it was imposing sanctions on illegal settlements.",
-   "tags": [
-    "sanctions"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Pakistan faces new frontier against attacks: Balochistan’s Pashtun areas",
-   "url": "https://www.aljazeera.com/news/2026/9/9/pakistan-faces-new-frontier-against-attacks-balochistans-pashtun-areas?traffic_source=rss",
-   "published": "2026-09-09T09:44:10+00:00",
-   "summary": "A surge in attacks in Balochistan’s Pashtun-majority districts is raising questions about a widening rebellion.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
    "source": "IRNA (Iran state wire)",
    "title": "Iranian airlines warn sanctions must not put civil aviation safety at risk",
    "url": "https://en.irna.ir/news/86259304/Iranian-airlines-warn-sanctions-must-not-put-civil-aviation-safety",
@@ -560,17 +571,6 @@
    "summary": "Tehran, IRNA – The Association of Iranian Airlines has warned that continued sanctions against Iran’s carriers could affect civil aviation services, stressing that air transport should not become a target of political and economic measures.",
    "tags": [
     "sanctions"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "In maps and charts: Russian and Ukrainian attacks on civilian targets",
-   "url": "https://www.aljazeera.com/news/2026/9/9/in-maps-and-charts-russian-and-ukrainian-attacks-on-civilian-targets?traffic_source=rss",
-   "published": "2026-09-09T08:42:33+00:00",
-   "summary": "Al Jazeera visualises how attacks on civilian infrastructure have more than doubled during the course of the war.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   },
