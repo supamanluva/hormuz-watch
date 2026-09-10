@@ -1,6 +1,29 @@
 {
- "asOf": "2026-09-10T07:49:35.993176+00:00",
+ "asOf": "2026-09-10T08:28:58.276675+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Russian attacks kill 7 in Ukraine as Kyiv targets gas plants deep in Arctic",
+   "url": "https://www.aljazeera.com/news/2026/9/10/russian-attacks-kill-7-in-ukraine-as-kyiv-targets-gas-plants-deep-in-arctic?traffic_source=rss",
+   "published": "2026-09-10T07:50:24+00:00",
+   "summary": "Ukraine launches one of its deepest strikes to date, targeting natural gas plants in Russia&#039;s Arctic region.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Israeli attacks kill at least four Palestinians in northern Gaza",
+   "url": "https://www.aljazeera.com/news/2026/9/10/israeli-attacks-kill-at-least-four-palestinians-in-northern-gaza?traffic_source=rss",
+   "published": "2026-09-10T07:45:21+00:00",
+   "summary": "Israeli attacks on the occupied Palestinian territory continue despite a &#039;ceasefire&#039; brokered in October.",
+   "tags": [
+    "strikes",
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Iran condemns US sanctions on 27 Iranian airlines as ‘economic terrorism’",
@@ -588,17 +611,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "Lionel Messi agrees deal to buy second-tier Spanish club Eldense",
-   "url": "https://www.aljazeera.com/sports/2026/9/9/lionel-messi-agrees-deal-to-buy-second-tier-spanish-club-eldense?traffic_source=rss",
-   "published": "2026-09-09T12:07:46+00:00",
-   "summary": "Messi poised to become majority owner of a second club in Spain after the purchase of fifth-tier UE Cornella in April.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
    "source": "Trump · Truth Social",
    "title": "Declassified FBI notes expose discrepancies between Flynn interview, official FBI records:",
    "url": "https://trumpstruth.org/statuses/41656",
@@ -615,17 +627,6 @@
    "summary": "Declassified FBI notes expose discrepancies between Flynn interview, official FBI records: https:// justthenews.com/accountability /russia-and-ukraine-scandals/hld6am-declassified-fbi-notes-reveal-discrepancies-flynn",
    "tags": [],
    "highlight": true
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Video: Dozens protest potential Strait of Hormuz deployment",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/video-dozens-protest-potential-strait-of-hormuz-deployment?traffic_source=rss",
-   "published": "2026-09-09T11:52:48+00:00",
-   "summary": "Almost 100 anti-war activists protested on Wednesday outside the Sejong Centre in Seoul.",
-   "tags": [
-    "shipping"
-   ],
-   "highlight": false
   }
  ]
 }
