@@ -1,6 +1,40 @@
 {
- "asOf": "2026-09-10T10:32:25.017392+00:00",
+ "asOf": "2026-09-10T11:19:22.300629+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "IAEA accuses Iran of ‘non-compliance’: Why, and what now?",
+   "url": "https://www.aljazeera.com/news/2026/9/10/iaea-accuses-iran-of-non-compliance-why-and-what-now?traffic_source=rss",
+   "published": "2026-09-10T10:59:39+00:00",
+   "summary": "Nuclear watchdog has gone more than a year without inspecting key sites; Iran says US attacks have made access unsafe.",
+   "tags": [
+    "strikes",
+    "nuclear"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "How Ukraine’s deepest attack in Russia, on Arctic gas, signals new reach",
+   "url": "https://www.aljazeera.com/news/2026/9/10/how-ukraines-deepest-attack-in-russia-on-arctic-gas-signals-new-reach?traffic_source=rss",
+   "published": "2026-09-10T10:38:53+00:00",
+   "summary": "Long-range Ukrainian drones hit Russia&#039;s key gas plants, raising questions about the conflict&#039;s next phase.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Drone video shows aftermath of deadly ferry fire off the Philippines",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/10/drone-video-shows-aftermath-of-deadly-ferry-fire-off-the-philippines?traffic_source=rss",
+   "published": "2026-09-10T10:28:44+00:00",
+   "summary": "Drone video from the Philippine Coast Guard shows smoke rising from the burned out MV June Aster off Palawan.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Pakistan reaffirms Iran’s right to peaceful nuclear energy",
@@ -575,29 +609,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "At least 14 killed in weapons depot blast in Syria’s Idlib, state TV says",
-   "url": "https://www.aljazeera.com/news/2026/9/9/at-least-14-killed-in-weapons-depot-blast-in-syrias-idlib-state-tv-says?traffic_source=rss",
-   "published": "2026-09-09T13:02:38+00:00",
-   "summary": "Authorities have not clarified what caused the explosion near the city of Sarmada.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Brent crude surpasses $100 a barrel as Iran, US escalate attacks",
-   "url": "https://www.aljazeera.com/news/2026/9/9/global-stocks-slide-as-brent-crude-surpasses-100-a-barrel?traffic_source=rss",
-   "published": "2026-09-09T12:26:25+00:00",
-   "summary": "Benchmark Brent crude hits $100, shaking markets and fuelling concerns over rising inflation pressures worldwide.",
-   "tags": [
-    "strikes",
-    "oil"
-   ],
-   "highlight": false
-  },
-  {
    "source": "IRNA (Iran state wire)",
    "title": "Iran will firmly respond to any enemy aggression: Foreign Ministry",
    "url": "https://en.irna.ir/news/86259670/Iran-will-firmly-respond-to-any-enemy-aggression-Foreign-Ministry",
@@ -607,17 +618,6 @@
     "strikes",
     "shipping",
     "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "How has Israel hit back against sanctions by the UK, others?",
-   "url": "https://www.aljazeera.com/news/2026/9/9/how-has-israel-hit-back-against-sanctions-by-the-uk-others?traffic_source=rss",
-   "published": "2026-09-09T12:17:50+00:00",
-   "summary": "Israel announced four countermeasures including the closure of the British consulate in East Jerusalem.",
-   "tags": [
-    "sanctions"
    ],
    "highlight": false
   },
