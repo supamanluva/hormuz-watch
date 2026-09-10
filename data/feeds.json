@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-10T06:35:35.262187+00:00",
+ "asOf": "2026-09-10T06:57:57.316724+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran condemns US sanctions on 27 Iranian airlines as ‘economic terrorism’",
+   "url": "https://en.irna.ir/news/86260146/Iran-condemns-US-sanctions-on-27-Iranian-airlines-as-economic",
+   "published": "2026-09-10T06:43:39+00:00",
+   "summary": "New York, IRNA — The Islamic Republic has condemned new US sanctions targeting 27 Iranian airlines and aviation-related entities, describing the measures as “economic terrorism” and “ collective punishment” that threaten civilian aviation safety and restrict the movement of millions of people.",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Fighting escalates in Yemen; Houthi attacks trigger alerts in Saudi Arabia",
@@ -613,17 +624,6 @@
    "summary": "Almost 100 anti-war activists protested on Wednesday outside the Sejong Centre in Seoul.",
    "tags": [
     "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "US sanctions will not stop Iran’s aviation industry: Official",
-   "url": "https://en.irna.ir/news/86259552/US-sanctions-will-not-stop-Iran-s-aviation-industry-Official",
-   "published": "2026-09-09T10:44:00+00:00",
-   "summary": "Tehran, IRNA — The head of Iran’s Civil Aviation Organization says new US sanctions against Iranian airlines are a continuation of a failed policy, stressing that they may raise costs but cannot halt the country’s flight operations.",
-   "tags": [
-    "sanctions"
    ],
    "highlight": false
   }
