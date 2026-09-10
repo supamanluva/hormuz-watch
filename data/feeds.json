@@ -1,5 +1,5 @@
 {
- "asOf": "2026-09-10T19:49:42.843308+00:00",
+ "asOf": "2026-09-10T20:19:10.772235+00:00",
  "items": [
   {
    "source": "IRNA (Iran state wire)",
@@ -13,12 +13,36 @@
    "highlight": false
   },
   {
+   "source": "UN Press",
+   "title": "Security Council, Surmounting Procedural Vote, Debates Work of 1737 Iran Sanctions Committee, with Divisions Lingering over ‘Snapback’, Nuclear Escalation Risks",
+   "url": "https://press.un.org/en/2026/sc16448.doc.htm",
+   "published": "2026-09-10T19:42:22+00:00",
+   "summary": "With Security Council members locked into disagreement on whether sanctions concerning Iran’s nuclear programme have snapped back or not, some speakers stressed the need to appoint experts to support that sanctions committee even as others insisted that the Council stop considering this agenda item at all.",
+   "tags": [
+    "sanctions",
+    "diplomacy",
+    "nuclear"
+   ],
+   "highlight": false
+  },
+  {
    "source": "White House",
    "title": "S. 858 Signed into Law",
    "url": "https://www.whitehouse.gov/briefings-statements/2026/09/s-858-signed-into-law/",
    "published": "2026-09-10T19:31:08+00:00",
    "summary": "On Thursday, September 10, 2026, the President signed into law: S. 858, the &#8221; Hershel &#8216;Woody&#8217; Williams National Medal of Honor Monument Location Act,&#8221; which authorizes the National Medal of Honor Museum Foundation to establish a commemorative work on the National Mall to honor the extraordinary acts of valor, selfless service, and sacrifice displayed by [&#8230;] The post S",
    "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "UN Press",
+   "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General",
+   "url": "https://press.un.org/en/2026/db260910.doc.htm",
+   "published": "2026-09-10T19:25:11+00:00",
+   "summary": "Cuba’s severe power crisis, following sanctions, is taking an increasing toll on basic services. Electricity generation in August met less than one third of national demand, according to authorities. The UN and its partners are working with authorities to support those with the most severe needs.",
+   "tags": [
+    "sanctions"
+   ],
    "highlight": false
   },
   {
@@ -29,6 +53,18 @@
    "summary": "Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) Navy has announced that it had struck and destroyed a US unmanned surface vessel at the entrance to the Strait of Hormuz.",
    "tags": [
     "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "UN Press",
+   "title": "Security Council, 10219th Meeting (PM) Yemen",
+   "url": "https://press.un.org/en/blog/sc16449",
+   "published": "2026-09-10T18:23:52+00:00",
+   "summary": "The Security Council will hold a briefing this afternoon on Yemen following Houthi missile and drone attacks against Saudi Arabia. Bahrain and the United Kingdom, the Council’s penholder on Yemen, requested the meeting. UN Special Envoy Hans Grundberg is expected to brief. Saudi Arabia and Yemen will participate under rule 37, which allows States that are not Council members to join discussions wi",
+   "tags": [
+    "strikes",
+    "diplomacy"
    ],
    "highlight": false
   },
@@ -574,37 +610,6 @@
    "summary": "UN Secretary-General António Guterres arrived in Bishkek, Kyrgyzstan, early on Monday, 31 August, to attend the Shanghai Cooperation Organization meeting.",
    "tags": [],
    "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Trump says Putin wants to make a deal to end Ukraine war",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/trump-says-putin-wants-to-make-a-deal-to-end-ukraine-war?traffic_source=rss",
-   "published": "2026-09-09T20:56:05+00:00",
-   "summary": "US President Donald Trump says Russian President Putin wants a deal to end the war in Ukraine.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran raps IAEA over safeguards expectations amid aggression",
-   "url": "https://en.irna.ir/news/86260011/Iran-raps-IAEA-over-safeguards-expectations-amid-aggression",
-   "published": "2026-09-09T20:54:38+00:00",
-   "summary": "London, IRNA – Iran’s permanent mission to the United Nations and other international organizations in Vienna has criticized the IAEA’s expectation of normal safeguards implementation amid continued US and Israeli threats and aggression.",
-   "tags": [
-    "nuclear"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from September 9, 2026",
-   "url": "https://trumpstruth.org/statuses/41662",
-   "published": "2026-09-09T20:53:19+00:00",
-   "summary": "",
-   "tags": [],
-   "highlight": true
   }
  ]
 }
