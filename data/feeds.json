@@ -1,6 +1,28 @@
 {
- "asOf": "2026-09-10T04:24:50.827615+00:00",
+ "asOf": "2026-09-10T05:21:00.865592+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Fighting escalates in Yemen; Houthi attacks trigger alerts in Saudi Arabia",
+   "url": "https://www.aljazeera.com/news/2026/9/10/fighting-escalates-in-yemen-houthi-attacks-trigger-alerts-in-saudi-arabia?traffic_source=rss",
+   "published": "2026-09-10T05:09:39+00:00",
+   "summary": "Yemen&#039;s government accuses Houthis of killing 3 children as rebels claim Saudi forces launched 54 air raids in 12 hours.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Ukrainian drones strike Russian Caspian Sea port in Dagestan",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/10/aje-onl-nf_suspected-ukrainian-drones-strike-dagestan-100926?traffic_source=rss",
+   "published": "2026-09-10T04:41:06+00:00",
+   "summary": "Fires and explosions were seen in Russia’s Dagestan after a Ukrainian drone attack.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Netanyahu to sue Haaretz over claims UAE warned him before October 7 attack",
@@ -525,29 +547,6 @@
    "published": "2026-09-09T11:52:48+00:00",
    "summary": "Almost 100 anti-war activists protested on Wednesday outside the Sejong Centre in Seoul.",
    "tags": [
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Video: RSF drone attack on Sudan court kills at least 13 people",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/video-rsf-drone-attack-on-sudan-court-kills-at-least-13-people?traffic_source=rss",
-   "published": "2026-09-09T11:08:56+00:00",
-   "summary": "An RSF drone attack on a court in Sudan’s North Kordofan state has killed at least 13 people and wounded more than 20.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Did Iran capture a US submarine? What we know about the underwater drone",
-   "url": "https://www.aljazeera.com/news/2026/9/9/has-iran-captured-an-unmanned-us-submarine-what-we-know?traffic_source=rss",
-   "published": "2026-09-09T11:06:16+00:00",
-   "summary": "Tehran lauds capturing Dive-LD vessel, while Washington insists that the submersible &#039;had malfunctioned a day ago&#039;.",
-   "tags": [
-    "strikes",
     "shipping"
    ],
    "highlight": false
