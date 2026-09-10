@@ -1,6 +1,28 @@
 {
- "asOf": "2026-09-10T12:54:19.090199+00:00",
+ "asOf": "2026-09-10T13:19:55.412042+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Houthis advance along Yemen’s southern Red Sea coast",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/10/houthis-advance-along-yemens-southern-red-sea-coast?traffic_source=rss",
+   "published": "2026-09-10T13:14:03+00:00",
+   "summary": "Yemen’s Houthi rebels are advancing along the Red Sea coast, to gain more leverage over the Bab el-Mandeb Strait.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Is Egypt’s Hamza Abdelkarim set to be Barcelona’s next breakout star?",
+   "url": "https://www.aljazeera.com/sports/2026/9/10/is-egypts-hamza-abdelkarim-set-to-be-barcelonas-next-breakout-star?traffic_source=rss",
+   "published": "2026-09-10T12:24:25+00:00",
+   "summary": "Four goals in five games made the 18-year-old striker Barcelona&#039;s top scorer during preseason.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "Supreme Court sides with Republicans in fight over broadcast ad rates:",
@@ -561,28 +583,6 @@
    "summary": "An armed group attacks a teacher training centre in the town of Wum, according to the Northwest Region&#039;s governor.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "As the UK sanctions Israeli settlements, is the two-state solution dead?",
-   "url": "https://www.aljazeera.com/news/2026/9/9/as-the-uk-sanctions-israeli-settlements-is-the-two-state-solution-dead?traffic_source=rss",
-   "published": "2026-09-09T15:43:29+00:00",
-   "summary": "Analysts say UK move far from enough to drive momentum for Palestinian statehood.",
-   "tags": [
-    "sanctions"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Jerusalem Daily: Israel retaliates over sanctions on illegal settlements",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/jerusalem-daily-israel-retaliates-over-sanctions-on-illegal-settlements?traffic_source=rss",
-   "published": "2026-09-09T15:41:43+00:00",
-   "summary": "A diplomatic rift grows between the UK and Israel after Britain led a ban on trade with illegal Israeli settlements",
-   "tags": [
-    "sanctions"
    ],
    "highlight": false
   },
