@@ -1,6 +1,26 @@
 {
- "asOf": "2026-09-10T19:15:47.317450+00:00",
+ "asOf": "2026-09-10T19:49:42.843308+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Ghalibaf: US ‘arsenal’ of interventions, Treasury falsehoods will fail to curb oil prices",
+   "url": "https://en.irna.ir/news/86260658/Ghalibaf-US-arsenal-of-interventions-Treasury-falsehoods",
+   "published": "2026-09-10T19:46:02+00:00",
+   "summary": "Tehran, IRNA — Iran’s Parliament Speaker Mohammad Bagher Qalibaf has mocked Washington’s efforts to curb rising oil prices, and said the US measures, including market interventions and the release of strategic reserves, have failed to stop the surge in crude prices.",
+   "tags": [
+    "oil"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "White House",
+   "title": "S. 858 Signed into Law",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/09/s-858-signed-into-law/",
+   "published": "2026-09-10T19:31:08+00:00",
+   "summary": "On Thursday, September 10, 2026, the President signed into law: S. 858, the &#8221; Hershel &#8216;Woody&#8217; Williams National Medal of Honor Monument Location Act,&#8221; which authorizes the National Medal of Honor Museum Foundation to establish a commemorative work on the National Mall to honor the extraordinary acts of valor, selfless service, and sacrifice displayed by [&#8230;] The post S",
+   "tags": [],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "IRGC destroys US unmanned vessel in Strait of Hormuz",
@@ -585,26 +605,6 @@
    "summary": "",
    "tags": [],
    "highlight": true
-  },
-  {
-   "source": "UN Press",
-   "title": "At Tribute to Sheikh Hamad bin Khalifa al-Thani, Secretary-General Highlights Late Father Amir of Qatar’s Visionary Leadership in Fostering Long-Term Prosperity",
-   "url": "https://press.un.org/en/2026/sgsm23271.doc.htm",
-   "published": "2026-09-09T20:51:20+00:00",
-   "summary": "Following are UN Secretary-General António Guterres’ remarks at the Tribute to the Memory of His Highness, the Late Father Amir of the State of Qatar, Sheikh Hamad bin Khalifa al-Thani, in New York today:",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Araghchi meets ambassador of Iran to Pakistan",
-   "url": "https://en.irna.ir/news/86260004/Araghchi-meets-ambassador-of-Iran-to-Pakistan",
-   "published": "2026-09-09T20:29:23+00:00",
-   "summary": "Tehran, IRNA – Reza Amiri-Moghaddam, the Ambassador of the Islamic Republic of Iran to Pakistan, met and held talks with Foreign Minister Abbas Araghchi this evening (Wednesday).",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
   }
  ]
 }
