@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-10T18:49:54.486752+00:00",
+ "asOf": "2026-09-10T19:15:47.317450+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "IRGC destroys US unmanned vessel in Strait of Hormuz",
+   "url": "https://en.irna.ir/news/86260629/IRGC-destroys-US-unmanned-vessel-in-Strait-of-Hormuz",
+   "published": "2026-09-10T19:00:03+00:00",
+   "summary": "Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) Navy has announced that it had struck and destroyed a US unmanned surface vessel at the entrance to the Strait of Hormuz.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "White House",
    "title": "Trump Dividend: America Is Winning — and Americans Should Win With It",
@@ -592,17 +603,6 @@
    "summary": "Tehran, IRNA – Reza Amiri-Moghaddam, the Ambassador of the Islamic Republic of Iran to Pakistan, met and held talks with Foreign Minister Abbas Araghchi this evening (Wednesday).",
    "tags": [
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "IAEA board refers Iran to UN Security Council over nuclear ‘non-compliance’",
-   "url": "https://www.aljazeera.com/news/2026/9/9/iaea-board-resolves-to-report-iran-to-security-council-over-nuclear-program?traffic_source=rss",
-   "published": "2026-09-09T20:23:34+00:00",
-   "summary": "The symbolic escalation has been initiated by the United States, Germany, France and the United Kingdom.",
-   "tags": [
-    "nuclear"
    ],
    "highlight": false
   }
