@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-10T08:51:27.215799+00:00",
+ "asOf": "2026-09-10T09:34:08.774090+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Pakistan reaffirms Iran’s right to peaceful nuclear energy",
+   "url": "https://en.irna.ir/news/86260257/Pakistan-reaffirms-Iran-s-right-to-peaceful-nuclear-energy",
+   "published": "2026-09-10T09:32:25+00:00",
+   "summary": "Islamabad, IRNA — Pakistan has reaffirmed that Iran, as a signatory to the Treaty on the Non-Proliferation of Nuclear Weapons (NPT), has a legitimate right to develop and use nuclear energy for peaceful purposes.",
+   "tags": [
+    "nuclear"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Russian attacks kill 7 in Ukraine as Kyiv targets gas plants deep in Arctic",
@@ -614,15 +625,6 @@
    "source": "Trump · Truth Social",
    "title": "Declassified FBI notes expose discrepancies between Flynn interview, official FBI records:",
    "url": "https://trumpstruth.org/statuses/41656",
-   "published": "2026-09-09T12:00:58+00:00",
-   "summary": "Declassified FBI notes expose discrepancies between Flynn interview, official FBI records: https:// justthenews.com/accountability /russia-and-ukraine-scandals/hld6am-declassified-fbi-notes-reveal-discrepancies-flynn",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Declassified FBI notes expose discrepancies between Flynn interview, official FBI records:",
-   "url": "https://www.trumpstruth.org/statuses/41656",
    "published": "2026-09-09T12:00:58+00:00",
    "summary": "Declassified FBI notes expose discrepancies between Flynn interview, official FBI records: https:// justthenews.com/accountability /russia-and-ukraine-scandals/hld6am-declassified-fbi-notes-reveal-discrepancies-flynn",
    "tags": [],
