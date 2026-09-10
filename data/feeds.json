@@ -1,6 +1,30 @@
 {
- "asOf": "2026-09-10T16:21:29.190480+00:00",
+ "asOf": "2026-09-10T17:18:42.463029+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Jerusalem Daily: Israeli strikes devastate Gaza",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/10/jerusalem-daily-israeli-strikes-devastate-gaza?traffic_source=rss",
+   "published": "2026-09-10T16:27:37+00:00",
+   "summary": "Israeli air strikes have killed and injured dozens across Gaza.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Oil jumps to $105, pushing up chances of a US interest rate increase",
+   "url": "https://www.aljazeera.com/economy/2026/9/10/oil-jumps-to-105-pushing-up-chances-of-a-us-interest-rate-increase?traffic_source=rss",
+   "published": "2026-09-10T16:05:06+00:00",
+   "summary": "Prices spiked as attacks on oil tankers escalated in the Middle East.",
+   "tags": [
+    "strikes",
+    "shipping",
+    "oil"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "Last night at the Convention — A packed house! President DONALD J. TRUMP",
@@ -579,28 +603,6 @@
    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/israeli-strike-targets-home-in-gazas-al-shati-refugee-camp?traffic_source=rss",
    "published": "2026-09-09T19:37:47+00:00",
    "summary": "An Israeli strike devastated a home in Gaza City’s al-Shati refugee camp, heavily damaging surrounding homes.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Zelenskyy’s plane ‘almost hit’ by drone on way to Oslo, Norwegian PM says",
-   "url": "https://www.aljazeera.com/news/2026/9/9/zelenskyys-plane-almost-hit-by-drone-on-way-to-oslo-norwegian-pm-says?traffic_source=rss",
-   "published": "2026-09-09T18:36:50+00:00",
-   "summary": "Jonas ​Gahr Store says incident happened when jet ⁠⁠carrying Ukrainian president took off from Moldova.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Explosion at depot storing weapons left from Syria war kills 14",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/explosion-at-depot-storing-weapons-left-from-syria-war-kills-14?traffic_source=rss",
-   "published": "2026-09-09T18:32:19+00:00",
-   "summary": "An explosion tore through a temporary weapons depot near Sarmada, in northwestern Syria killing at least 14 people",
    "tags": [
     "strikes"
    ],
