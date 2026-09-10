@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-09T23:49:53.165654+00:00",
+ "asOf": "2026-09-10T00:53:33.465032+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "US announces $45m in security funding, additional naval vessels for Ecuador",
+   "url": "https://www.aljazeera.com/news/2026/9/9/us-announces-45m-in-security-funding-additional-naval-vessels-for-ecuador?traffic_source=rss",
+   "published": "2026-09-09T23:40:00+00:00",
+   "summary": "Secretary of State Rubio has hailed Ecuador as the US&#039;s &#039;most involved and aggressive partner&#039; in the anti-drug fight.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "White House",
    "title": "Patriot Day 2026, The 25th Anniversary of the September 11 Terrorist Attacks",
@@ -558,17 +569,6 @@
    "url": "https://www.aljazeera.com/news/2026/9/9/in-maps-and-charts-russian-and-ukrainian-attacks-on-civilian-targets?traffic_source=rss",
    "published": "2026-09-09T08:42:33+00:00",
    "summary": "Al Jazeera visualises how attacks on civilian infrastructure have more than doubled during the course of the war.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Russian drone attack kills two at Ukraine-Moldova border crossing",
-   "url": "https://www.aljazeera.com/news/2026/9/9/russian-drone-attack-kills-two-at-ukraine-moldova-border-crossing?traffic_source=rss",
-   "published": "2026-09-09T08:05:58+00:00",
-   "summary": "Russian drones strike Ukraine-Moldova border in Odesa, killing two and injuring three civilians, officials confirm.",
    "tags": [
     "strikes"
    ],
