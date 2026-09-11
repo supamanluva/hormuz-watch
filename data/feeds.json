@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-11T12:31:14.760792+00:00",
+ "asOf": "2026-09-11T12:53:48.574929+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Myanmar airport closed following reported drone attack",
+   "url": "https://www.aljazeera.com/news/2026/9/11/myanmar-airport-closed-following-reported-drone-attack?traffic_source=rss",
+   "published": "2026-09-11T12:22:12+00:00",
+   "summary": "Military government pins attack on pro-democracy rebels it has been battling since seizing power in 2021.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Houthis control key shipping route after gains along Yemen’s Red Sea coast",
@@ -601,18 +612,6 @@
    "summary": "The Republican Midterm Convention last night, in Dallas, was a major, sold out hit, far bigger, better, and more important than anyone thought possible. It was really something, streaming all over the place, and really big numbers, despite going up against the NFL. The overall numbers beat the NFL. The Arena, which was really nice, beat its own attendance records. The place was packed! There were ",
    "tags": [],
    "highlight": true
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "IAEA accuses Iran of ‘noncompliance’",
-   "url": "https://www.aljazeera.com/news/2026/9/10/iaea-accuses-iran-of-non-compliance-why-and-what-now?traffic_source=rss",
-   "published": "2026-09-10T10:59:39+00:00",
-   "summary": "Nuclear watchdog has gone more than a year without inspecting key sites; Iran says US attacks have made access unsafe.",
-   "tags": [
-    "strikes",
-    "nuclear"
-   ],
-   "highlight": false
   }
  ]
 }
