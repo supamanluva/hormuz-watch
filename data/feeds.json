@@ -1,6 +1,24 @@
 {
- "asOf": "2026-09-11T17:49:50.795148+00:00",
+ "asOf": "2026-09-11T18:25:05.229255+00:00",
  "items": [
+  {
+   "source": "Trump · Truth Social",
+   "title": "[No Title] - Post from September 11, 2026",
+   "url": "https://www.trumpstruth.org/statuses/41689",
+   "published": "2026-09-11T17:39:50+00:00",
+   "summary": "",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "[No Title] - Post from September 11, 2026",
+   "url": "https://www.trumpstruth.org/statuses/41688",
+   "published": "2026-09-11T17:35:34+00:00",
+   "summary": "",
+   "tags": [],
+   "highlight": true
+  },
   {
    "source": "Al Jazeera",
    "title": "Houthis declare Red Sea shipping safe except for Saudi vessels",
@@ -9,6 +27,18 @@
    "summary": "Houthi spokesman Yahya Saree said maritime navigation in the Red Sea is safe, except for Saudi ships.",
    "tags": [
     "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "UN Press",
+   "title": "Security Council Unanimously Adopts Resolution 2828 (2026), Renewing Sudan Sanctions for One Month, Keeping Door Open for Continued Talks",
+   "url": "https://press.un.org/en/2026/sc16450.doc.htm",
+   "published": "2026-09-11T16:31:56+00:00",
+   "summary": "The Security Council today extended for one month the 1591 Sudan sanctions regime, including targeted sanctions and an arms embargo, in order to allow more time for negotiations on whether to expand the measures.",
+   "tags": [
+    "sanctions",
+    "diplomacy"
    ],
    "highlight": false
   },
@@ -598,33 +628,6 @@
    "url": "https://www.trumpstruth.org/statuses/41673",
    "published": "2026-09-10T12:45:10+00:00",
    "summary": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117246807115442408",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from September 10, 2026",
-   "url": "https://www.trumpstruth.org/statuses/41674",
-   "published": "2026-09-10T12:44:58+00:00",
-   "summary": "",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "A Classic answer by Jared to a hostile, Trump Deranged Reporter. President DJT",
-   "url": "https://www.trumpstruth.org/statuses/41675",
-   "published": "2026-09-10T12:44:37+00:00",
-   "summary": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117246804565502433 A Classic answer by Jared to a hostile, Trump Deranged Reporter. President DJT",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from September 10, 2026",
-   "url": "https://www.trumpstruth.org/statuses/41676",
-   "published": "2026-09-10T12:44:19+00:00",
-   "summary": "",
    "tags": [],
    "highlight": true
   }
