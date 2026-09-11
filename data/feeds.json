@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-11T02:51:05.167808+00:00",
+ "asOf": "2026-09-11T03:37:36.928727+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Putin lands in India for BRICs summit, shadowed by Iran and Ukraine wars",
+   "url": "https://www.aljazeera.com/news/2026/9/11/putin-lands-in-india-for-brics-summit-shadowed-by-iran-and-ukraine-wars?traffic_source=rss",
+   "published": "2026-09-11T02:40:19+00:00",
+   "summary": "Russian, Iranian leaders due to hold talks with India&#039;s Modi at summit dominated by wars in Middle East and Ukraine.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "[No Title] - Post from September 11, 2026",
@@ -600,17 +611,6 @@
    "tags": [
     "strikes",
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran condemns US sanctions on 27 Iranian airlines as ‘economic terrorism’",
-   "url": "https://en.irna.ir/news/86260146/Iran-condemns-US-sanctions-on-27-Iranian-airlines-as-economic",
-   "published": "2026-09-10T06:43:39+00:00",
-   "summary": "New York, IRNA — The Islamic Republic has condemned new US sanctions targeting 27 Iranian airlines and aviation-related entities, describing the measures as “economic terrorism” and “ collective punishment” that threaten civilian aviation safety and restrict the movement of millions of people.",
-   "tags": [
-    "sanctions"
    ],
    "highlight": false
   }
