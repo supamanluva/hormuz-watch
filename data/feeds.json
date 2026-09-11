@@ -1,9 +1,9 @@
 {
- "asOf": "2026-09-11T11:19:06.924340+00:00",
+ "asOf": "2026-09-11T11:50:00.524362+00:00",
  "items": [
   {
    "source": "Al Jazeera",
-   "title": "Houthis take control of Yemen’s Red Sea coast, key shipping route",
+   "title": "Houthis take control of Yemen’s Red Sea coast and key shipping route",
    "url": "https://www.aljazeera.com/news/2026/9/11/houthis-take-control-of-yemens-red-sea-coast-key-shipping-route?traffic_source=rss",
    "published": "2026-09-11T10:11:17+00:00",
    "summary": "Rapid advance of Iran-backed force threatens key alternative shipping route to Strait of Hormuz.",
@@ -260,7 +260,7 @@
    "title": "IRGC destroys US unmanned vessel in Strait of Hormuz",
    "url": "https://en.irna.ir/news/86260629/IRGC-destroys-US-unmanned-vessel-in-Strait-of-Hormuz",
    "published": "2026-09-10T19:00:03+00:00",
-   "summary": "Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) Navy has announced that it had struck and destroyed a US unmanned surface vessel at the entrance to the Strait of Hormuz.",
+   "summary": "Tehran, IRNA — The Islamic Revolution Guards Corps (IRGC) Navy has announced that it has struck and destroyed a US unmanned surface vessel at the entrance to the Strait of Hormuz.",
    "tags": [
     "shipping"
    ],
