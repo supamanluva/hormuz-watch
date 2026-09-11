@@ -1,6 +1,28 @@
 {
- "asOf": "2026-09-11T16:22:46.626748+00:00",
+ "asOf": "2026-09-11T17:18:12.994092+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Houthis declare Red Sea shipping safe except for Saudi vessels",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/houthis-declare-red-sea-shipping-safe-except-for-saudi-vessels?traffic_source=rss",
+   "published": "2026-09-11T16:32:14+00:00",
+   "summary": "Houthi spokesman Yahya Saree said maritime navigation in the Red Sea is safe, except for Saudi ships.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "US diplomacy under fire as Russia escalates attacks on Ukrainian officials",
+   "url": "https://www.aljazeera.com/news/2026/9/11/us-diplomacy-under-fire-as-moscow-escalates-attacks-on-ukrainian-officials?traffic_source=rss",
+   "published": "2026-09-11T16:30:48+00:00",
+   "summary": "The Witkoff-Kushner visit to Moscow was immediately followed by Russian attacks on Kyiv.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "UN Press",
    "title": "Security Council, 10221st Meeting (PM) Terrorist Acts",
@@ -481,17 +503,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "Houthis advance along Yemen’s southern Red Sea coast",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/10/houthis-advance-along-yemens-southern-red-sea-coast?traffic_source=rss",
-   "published": "2026-09-10T13:14:03+00:00",
-   "summary": "Yemen’s Houthi rebels are advancing along the Red Sea coast, to gain more leverage over the Bab el-Mandeb Strait.",
-   "tags": [
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
    "source": "Trump · Truth Social",
    "title": "[No Title] - Post from September 10, 2026",
    "url": "https://www.trumpstruth.org/statuses/41677",
@@ -616,17 +627,6 @@
    "summary": "",
    "tags": [],
    "highlight": true
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Is Egypt’s Hamza Abdelkarim set to be Barcelona’s next breakout star?",
-   "url": "https://www.aljazeera.com/sports/2026/9/10/is-egypts-hamza-abdelkarim-set-to-be-barcelonas-next-breakout-star?traffic_source=rss",
-   "published": "2026-09-10T12:24:25+00:00",
-   "summary": "Four goals in five games made the 18-year-old striker Barcelona&#039;s top scorer during preseason.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
   }
  ]
 }
