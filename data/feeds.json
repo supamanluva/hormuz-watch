@@ -1,6 +1,37 @@
 {
- "asOf": "2026-09-11T18:25:05.229255+00:00",
+ "asOf": "2026-09-11T18:49:34.766658+00:00",
  "items": [
+  {
+   "source": "UN Press",
+   "title": "Secretary-General Saddened by Passing of Ex-UNDP Chief William Henry Draper",
+   "url": "https://press.un.org/en/2026/sgsm23273.doc.htm",
+   "published": "2026-09-11T18:36:49+00:00",
+   "summary": "The following statement was issued today by the Spokesman for UN Secretary-General António Guterres:",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Iran says will discuss Strait of Hormuz with Gulf states on Monday",
+   "url": "https://www.aljazeera.com/news/2026/9/11/iran-says-will-discuss-strait-of-hormuz-with-gulf-states-on-monday?traffic_source=rss",
+   "published": "2026-09-11T18:33:36+00:00",
+   "summary": "Iran&#039;s Foreign Ministry says the meeting in Oman is to &#039;promote better understanding among the countries of the region&#039;.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "US holds memorials for the 9/11 attacks, 25 years later",
+   "url": "https://www.aljazeera.com/gallery/2026/9/11/us-holds-memorials-for-the-9-11-attacks-25-years?traffic_source=rss",
+   "published": "2026-09-11T18:00:41+00:00",
+   "summary": "In New York, Virginia and Pennsylvania, mourners gathered to remember nearly 3,000 people killed during the hijackings.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "[No Title] - Post from September 11, 2026",
@@ -482,19 +513,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "Oil jumps to $105, pushing up chances of a US interest rate increase",
-   "url": "https://www.aljazeera.com/economy/2026/9/10/oil-jumps-to-105-pushing-up-chances-of-a-us-interest-rate-increase?traffic_source=rss",
-   "published": "2026-09-10T16:05:06+00:00",
-   "summary": "Prices spiked as attacks on oil tankers escalated amid the US-Iran war.",
-   "tags": [
-    "strikes",
-    "shipping",
-    "oil"
-   ],
-   "highlight": false
-  },
-  {
    "source": "Trump · Truth Social",
    "title": "Last night at the Convention — A packed house! President DONALD J. TRUMP",
    "url": "https://www.trumpstruth.org/statuses/41686",
@@ -511,17 +529,6 @@
    "summary": "https://www. instagram.com/reel/Dcl4n1RPUVn /",
    "tags": [],
    "highlight": true
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Yemen’s Houthis seize strategic Red Sea city of Mocha",
-   "url": "https://www.aljazeera.com/news/2026/9/10/yemens-houthis-seize-strategic-red-sea-city-of-mocha?traffic_source=rss",
-   "published": "2026-09-10T14:16:42+00:00",
-   "summary": "Houthis deliver &#039;significant blow&#039; to the Yemeni government, expand control over Bab al-Mandeb, analysts say.",
-   "tags": [
-    "shipping"
-   ],
-   "highlight": false
   },
   {
    "source": "White House",
@@ -619,15 +626,6 @@
    "url": "https://www.trumpstruth.org/statuses/41672",
    "published": "2026-09-10T12:45:54+00:00",
    "summary": "",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from September 10, 2026",
-   "url": "https://www.trumpstruth.org/statuses/41673",
-   "published": "2026-09-10T12:45:10+00:00",
-   "summary": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117246807115442408",
    "tags": [],
    "highlight": true
   }
