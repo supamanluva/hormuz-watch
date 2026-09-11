@@ -1,6 +1,15 @@
 {
- "asOf": "2026-09-11T20:50:40.660668+00:00",
+ "asOf": "2026-09-11T21:17:31.986056+00:00",
  "items": [
+  {
+   "source": "UN Press",
+   "title": "High-Level Meetings of the Eighty-First General Assembly",
+   "url": "https://press.un.org/en/highlights/unga81",
+   "published": "2026-09-11T20:26:30+00:00",
+   "summary": "",
+   "tags": [],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "‘Sold-out crowd’ in Dallas energized for midterms as Vance, Trump speak at Republican convention:",
@@ -9,6 +18,15 @@
    "summary": "‘Sold-out crowd’ in Dallas energized for midterms as Vance, Trump speak at Republican convention: https:// heartlandernews.com/sold-out-c rowd-in-dallas-energized-for-midterms-as-vance-trump-speak-at-republican-convention/",
    "tags": [],
    "highlight": true
+  },
+  {
+   "source": "UN Press",
+   "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General",
+   "url": "https://press.un.org/en/2026/db260911.doc.htm",
+   "published": "2026-09-11T20:07:00+00:00",
+   "summary": "In the Occupied Palestinian Territory, the UN and its partners brought more than 350,000 litres of fuel and hundreds of pallets of supplies into Gaza on 10 September. Humanitarian teams also supported the evacuation of dozens of patients and provided psychological first aid, emergency assistance and referral services.",
+   "tags": [],
+   "highlight": false
   },
   {
    "source": "Al Jazeera",
@@ -607,24 +625,6 @@
    "title": "[No Title] - Post from September 10, 2026",
    "url": "https://www.trumpstruth.org/statuses/41679",
    "published": "2026-09-10T12:52:22+00:00",
-   "summary": "",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from September 10, 2026",
-   "url": "https://www.trumpstruth.org/statuses/41680",
-   "published": "2026-09-10T12:51:45+00:00",
-   "summary": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117246833197264572",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from September 10, 2026",
-   "url": "https://www.trumpstruth.org/statuses/41681",
-   "published": "2026-09-10T12:51:36+00:00",
    "summary": "",
    "tags": [],
    "highlight": true
