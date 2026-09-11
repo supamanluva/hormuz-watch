@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-11T07:23:37.097130+00:00",
+ "asOf": "2026-09-11T07:49:42.194620+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Settlers, soldiers, and Israeli impunity in the West Bank",
+   "url": "https://www.aljazeera.com/news/2026/9/11/settlers-soldiers-and-israeli-impunity-in-the-west-bank?traffic_source=rss",
+   "published": "2026-09-11T07:36:43+00:00",
+   "summary": "Armed settlers in military uniforms are seizing land and attacking Palestinian communities with near-total impunity.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Anthropic claims Claude AI used for missile projects, global espionage",
@@ -599,17 +610,6 @@
    "summary": "Islamabad, IRNA — Pakistan has reaffirmed that Iran, as a signatory to the Treaty on the Non-Proliferation of Nuclear Weapons (NPT), has a legitimate right to develop and use nuclear energy for peaceful purposes.",
    "tags": [
     "nuclear"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Russian attacks kill 7 in Ukraine as Kyiv targets gas plants deep in Arctic",
-   "url": "https://www.aljazeera.com/news/2026/9/10/russian-attacks-kill-7-in-ukraine-as-kyiv-targets-gas-plants-deep-in-arctic?traffic_source=rss",
-   "published": "2026-09-10T07:50:24+00:00",
-   "summary": "Ukraine launches one of its deepest strikes to date, targeting natural gas plants in Russia&#039;s Arctic region.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   }
