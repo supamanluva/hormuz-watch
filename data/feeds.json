@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-11T12:53:48.574929+00:00",
+ "asOf": "2026-09-11T13:21:06.923945+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Russian strikes kill two in Kyiv as Moscow targets capital’s fuel stations",
+   "url": "https://www.aljazeera.com/news/2026/9/11/russian-strikes-kill-two-in-kyiv-as-moscow-targets-capitals-fuel-stations?traffic_source=rss",
+   "published": "2026-09-11T13:09:44+00:00",
+   "summary": "Second day of strikes on fuel stations suggest a new campaign focused on civilian areas in the Ukrainian capital.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Myanmar airport closed following reported drone attack",
@@ -601,15 +612,6 @@
    "url": "https://www.trumpstruth.org/statuses/41663",
    "published": "2026-09-10T11:54:29+00:00",
    "summary": "https:// truthsocial.com/@realDonaldTru mp/117184422478750334",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "The Republican Midterm Convention last night, in Dallas, was a major, sold out hit, far bigger, better, and more important than anyone thought possible. It was really something, streaming all over the place, and really big numbers, despite going up against the NFL. The overall numbers beat the NFL. The Arena, which was really nice, beat its own attendance records. The place was packed! There were thousands of people outside who couldn’t get in. Screens were provided. I guess people LOVE TRUMP POLITICS! I’ll be there again tonight to close out the show. Exciting “Stuff!” MAKE AMERICA GREAT AGAIN!!!",
-   "url": "https://www.trumpstruth.org/statuses/41664",
-   "published": "2026-09-10T11:54:04+00:00",
-   "summary": "The Republican Midterm Convention last night, in Dallas, was a major, sold out hit, far bigger, better, and more important than anyone thought possible. It was really something, streaming all over the place, and really big numbers, despite going up against the NFL. The overall numbers beat the NFL. The Arena, which was really nice, beat its own attendance records. The place was packed! There were ",
    "tags": [],
    "highlight": true
   }
