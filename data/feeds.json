@@ -1,6 +1,37 @@
 {
- "asOf": "2026-09-11T19:16:55.573292+00:00",
+ "asOf": "2026-09-11T19:50:12.718931+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "How US leaders remembered the 25th anniversary of the 9/11 attacks",
+   "url": "https://www.aljazeera.com/news/2026/9/11/how-us-leaders-remembered-the-25th-anniversary-of-the-9-11?traffic_source=rss",
+   "published": "2026-09-11T19:21:48+00:00",
+   "summary": "Trump drew parallels to the US&#039;s present-day war against Iran, while figures like Abdul El-Sayed called for inclusivity.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "White House",
+   "title": "Congressional Bills H.R. 1276, H.R. 2069, H.R. 2196 and H.R. 5366 Signed into Law",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/09/congressional-bills-h-r-1276-h-r-2069-h-r-2196-and-h-r-5366-signed-into-law/",
+   "published": "2026-09-11T19:11:44+00:00",
+   "summary": "On Friday, September 11, 2026, the President signed into law: H.R. 1276, which directs the Department of the Interior to remove all deed restriction from an approximately 3.62-acre parcel of land conveyed from the Department to the City of Paducah, Kentucky; H.R. 2069, the &#8220;Stop Secret Spending Act of 2025,&#8221; which expands Federal spending transparency [&#8230;] The post Congressional B",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Houthi advance in Yemen is about more than just the Red Sea",
+   "url": "https://www.aljazeera.com/news/2026/9/11/houthi-advance-in-yemen-is-about-more-than-just-the-red-sea?traffic_source=rss",
+   "published": "2026-09-11T19:01:07+00:00",
+   "summary": "Houthis were already able to disrupt shipping - their advance consolidates that power, and exposes government weakness.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "UN Press",
    "title": "Secretary-General Saddened by Passing of Ex-UNDP Chief William Henry Draper",
@@ -491,28 +522,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "Israel arrests 100 Palestinians in a week as West Bank pogroms continue",
-   "url": "https://www.aljazeera.com/news/2026/9/10/israel-arrests-100-palestinians-in-a-week-as-west-bank-pogroms-continue?traffic_source=rss",
-   "published": "2026-09-10T17:00:17+00:00",
-   "summary": "Palestinian Prisoner’s Society says detained include children, journalists and ex-prisoner freed in recent exchange deal",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Jerusalem Daily: Israeli strikes devastate Gaza",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/10/jerusalem-daily-israeli-strikes-devastate-gaza?traffic_source=rss",
-   "published": "2026-09-10T16:27:37+00:00",
-   "summary": "Israeli air strikes have killed and injured dozens across Gaza.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
    "source": "Trump · Truth Social",
    "title": "Last night at the Convention — A packed house! President DONALD J. TRUMP",
    "url": "https://www.trumpstruth.org/statuses/41686",
@@ -617,15 +626,6 @@
    "url": "https://www.trumpstruth.org/statuses/41671",
    "published": "2026-09-10T12:46:08+00:00",
    "summary": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117246810836573647",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from September 10, 2026",
-   "url": "https://www.trumpstruth.org/statuses/41672",
-   "published": "2026-09-10T12:45:54+00:00",
-   "summary": "",
    "tags": [],
    "highlight": true
   }
