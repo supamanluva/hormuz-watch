@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-11T04:25:23.876360+00:00",
+ "asOf": "2026-09-11T05:20:53.788996+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Anthropic claims Claude AI used for missile projects, global espionage",
+   "url": "https://www.aljazeera.com/news/2026/9/11/anthropic-claims-claude-ai-used-for-missile-projects-global-espionage?traffic_source=rss",
+   "published": "2026-09-11T04:48:25+00:00",
+   "summary": "AI was used to develop missile guidance software in Yemen and to power cyber operations, a report alleges.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Putin lands in India for BRICs summit, shadowed by Iran and Ukraine wars",
@@ -599,18 +610,6 @@
    "summary": "Ukraine launches one of its deepest strikes to date, targeting natural gas plants in Russia&#039;s Arctic region.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Israeli attacks kill at least four Palestinians in northern Gaza",
-   "url": "https://www.aljazeera.com/news/2026/9/10/israeli-attacks-kill-at-least-four-palestinians-in-northern-gaza?traffic_source=rss",
-   "published": "2026-09-10T07:45:21+00:00",
-   "summary": "Israeli attacks on the occupied Palestinian territory continue despite a &#039;ceasefire&#039; brokered in October.",
-   "tags": [
-    "strikes",
-    "diplomacy"
    ],
    "highlight": false
   }
