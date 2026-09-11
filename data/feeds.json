@@ -1,6 +1,29 @@
 {
- "asOf": "2026-09-11T14:49:34.251171+00:00",
+ "asOf": "2026-09-11T15:31:07.541716+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran, other Persian Gulf littoral states to meet in Oman to discuss regional issues: Foreign Ministry",
+   "url": "https://en.irna.ir/news/86261089/Iran-other-Persian-Gulf-littoral-states-to-meet-in-Oman-to-discuss",
+   "published": "2026-09-11T14:53:39+00:00",
+   "summary": "Tehran, IRNA — Foreign Ministry spokesperson Esmaeil Baqaei says Iran and other Persian Gulf littoral states will sit down next week to discuss regional issues, including a Tehran–Muscat deal to manage shipping through the Strait of Hormuz.",
+   "tags": [
+    "diplomacy",
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Can the Houthis close the Red Sea after seizing the Yemen coast?",
+   "url": "https://www.aljazeera.com/news/2026/9/11/can-the-houthis-close-the-red-sea-after-seizing-the-yemen-coast?traffic_source=rss",
+   "published": "2026-09-11T14:47:12+00:00",
+   "summary": "Some observers see a force that has improved impressively in the past years, but others doubt the Houthis can sustain wins.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "White House",
    "title": "Presidential Message on Rosh Hashanah",
@@ -40,6 +63,17 @@
    "summary": "Military government pins attack on pro-democracy rebels it has been battling since seizing power in 2021.",
    "tags": [
     "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "UN Press",
+   "title": "Security Council, 10220th Meeting (AM) Sudan, South Sudan",
+   "url": "https://press.un.org/en/blog/sc16450",
+   "published": "2026-09-11T10:55:05+00:00",
+   "summary": "At 10 a.m., the Security Council will to vote on a draft resolution renewing the 1591 Sudan sanctions regime - which includes asset freezes and travel bans, along with an arms embargo - for one month, until 9 October 2026. The draft was authored by the United States, the penholder.",
+   "tags": [
+    "sanctions"
    ],
    "highlight": false
   },
@@ -587,33 +621,6 @@
    "url": "https://www.trumpstruth.org/statuses/41666",
    "published": "2026-09-10T12:02:05+00:00",
    "summary": "https:// truthsocial.com/@mazurikl/1171 84504303118220",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from September 10, 2026",
-   "url": "https://www.trumpstruth.org/statuses/41667",
-   "published": "2026-09-10T12:01:51+00:00",
-   "summary": "https:// truthsocial.com/@mazurikl/1171 84492074309638",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from September 10, 2026",
-   "url": "https://www.trumpstruth.org/statuses/41668",
-   "published": "2026-09-10T12:01:27+00:00",
-   "summary": "https:// truthsocial.com/@Angela73/1171 84541657732157",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from September 10, 2026",
-   "url": "https://www.trumpstruth.org/statuses/41669",
-   "published": "2026-09-10T12:01:01+00:00",
-   "summary": "https:// truthsocial.com/@realDonaldTru mp/117184422478750334",
    "tags": [],
    "highlight": true
   }
