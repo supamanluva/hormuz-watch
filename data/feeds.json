@@ -1,6 +1,39 @@
 {
- "asOf": "2026-09-11T15:31:07.541716+00:00",
+ "asOf": "2026-09-11T16:22:46.626748+00:00",
  "items": [
+  {
+   "source": "UN Press",
+   "title": "Security Council, 10221st Meeting (PM) Terrorist Acts",
+   "url": "https://press.un.org/en/blog/sc16451",
+   "published": "2026-09-11T16:09:55+00:00",
+   "summary": "This afternoon, the Security Council will hold an open briefing on counter-terrorism to mark 25 years since the 11 September 2001 terrorist attacks against the United States. Council members will hear briefings from senior UN counter-terrorism officials and the Executive Director of the Global Internet Forum to Counter Terrorism. The Council is also expected to adopt a presidential statement on co",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Trump pays tribute to the victims of 9/11 at Pentagon ceremony",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/trump-pays-tribute-to-the-victims-of-9-11-at-pentagon?traffic_source=rss",
+   "published": "2026-09-11T15:45:46+00:00",
+   "summary": "US President Donald Trump remembered the victims of the September 11 attacks at a ceremony to mark the 25th anniversary.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Houthis take control of Yemen’s entire Red Sea coast, reports say",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/houthis-take-control-of-yemens-entire-red-sea-coast-reports-say?traffic_source=rss",
+   "published": "2026-09-11T15:34:30+00:00",
+   "summary": "The Iran-backed Houthi forces have taken control over most of the western Red Sea coastal line",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Iran, other Persian Gulf littoral states to meet in Oman to discuss regional issues: Foreign Ministry",
@@ -594,35 +627,6 @@
     "strikes"
    ],
    "highlight": false
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Supreme Court sides with Republicans in fight over broadcast ad rates:",
-   "url": "https://www.trumpstruth.org/statuses/41670",
-   "published": "2026-09-10T12:10:44+00:00",
-   "summary": "Supreme Court sides with Republicans in fight over broadcast ad rates: https://www. cbsnews.com/news/supreme-court -sides-with-republicans-cheaper-broadcast-ad-rates/",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Calls grow for investigation after ICE attacks protesters",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/10/calls-grow-for-investigation-after-ice-attacks-protesters?traffic_source=rss",
-   "published": "2026-09-10T12:07:30+00:00",
-   "summary": "Calls grow for investigation after ICE attacks protesters",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from September 10, 2026",
-   "url": "https://www.trumpstruth.org/statuses/41666",
-   "published": "2026-09-10T12:02:05+00:00",
-   "summary": "https:// truthsocial.com/@mazurikl/1171 84504303118220",
-   "tags": [],
-   "highlight": true
   }
  ]
 }
