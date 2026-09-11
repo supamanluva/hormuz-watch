@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-11T08:52:20.950789+00:00",
+ "asOf": "2026-09-11T09:33:19.448112+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Pezeshkian arrives in New Delhi to attend 18th BRICS Summit",
+   "url": "https://en.irna.ir/news/86260926/Pezeshkian-arrives-in-New-Delhi-to-attend-18th-BRICS-Summit",
+   "published": "2026-09-11T09:28:06+00:00",
+   "summary": "Tehran, IRNA – Iranian President Masoud Pezeshkian arrived in Indian capital of New Delhi on Friday to attend the 18th BRICS Summit and was received by India’s Minister of Ports, Shipping and Waterways Shantanu Thakur upon his arrival.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Araghchi: American people deserve better than footing bill for Israel’s wars",
@@ -600,17 +611,6 @@
    "summary": "At 10 a.m., the Security Council will hold a briefing on the work of the 1737 Sanctions Committee concerning Iran, to be convened by France, Council President for September, under the \"Non-Proliferation\" agenda item. The 1737 Sanctions Committee was established by resolution 1737 (2006), with a requirement to report to the Council every 90 days. Prior to the 2015 Joint Comprehensive Plan of Action",
    "tags": [
     "sanctions"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "How Ukraine’s deepest attack in Russia, on Arctic gas, signals new reach",
-   "url": "https://www.aljazeera.com/news/2026/9/10/how-ukraines-deepest-attack-in-russia-on-arctic-gas-signals-new-reach?traffic_source=rss",
-   "published": "2026-09-10T10:38:53+00:00",
-   "summary": "Long-range Ukrainian drones hit Russia&#039;s key gas plants, raising questions about the conflict&#039;s next phase.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   }
