@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-11T23:17:35.754935+00:00",
+ "asOf": "2026-09-11T23:49:30.161706+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "UN extends partial Sudan arms embargo for a month",
+   "url": "https://www.aljazeera.com/news/2026/9/11/un-extends-partial-sudan-arms-embargo-for-a-month?traffic_source=rss",
+   "published": "2026-09-11T23:08:05+00:00",
+   "summary": "Sudan’s UN ambassador said a total arms embargo goes against the UN Charter that guarantees a right to self-defence.",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
   {
    "source": "UN Press",
    "title": "General Assembly Adopts Agenda for Its Eighty-First Session",
@@ -503,17 +514,6 @@
    "summary": "Thousands of drones were used to recreate New York’s Twin Towers in a tribute ahead of the 25th anniversary of 9/11.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "What’s happening in Yemen and how did we get here?",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/10/whats-happening-in-yemen-and-how-did-we-get-here-3?traffic_source=rss",
-   "published": "2026-09-10T20:24:47+00:00",
-   "summary": "Fighting has reignited in Yemen as Houthi forces push south towards the strategic Bab al-Mandab Strait.",
-   "tags": [
-    "shipping"
    ],
    "highlight": false
   },
