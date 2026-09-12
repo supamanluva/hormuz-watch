@@ -1,5 +1,5 @@
 {
- "asOf": "2026-09-12T16:30:20.261468+00:00",
+ "asOf": "2026-09-12T17:16:04.834960+00:00",
  "items": [
   {
    "source": "IRNA (Iran state wire)",
@@ -11,6 +11,17 @@
     "strikes",
     "sanctions",
     "nuclear"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Will the Houthi attacks activate the Mecca Pact?",
+   "url": "https://www.aljazeera.com/opinions/2026/9/12/will-the-houthi-attacks-activate-the-mecca-pact?traffic_source=rss",
+   "published": "2026-09-12T16:06:48+00:00",
+   "summary": "If there is a Saudi request, Pakistan and Turkiye will intervene, but direct involvement in the Yemen war is unlikely.",
+   "tags": [
+    "strikes"
    ],
    "highlight": false
   },
@@ -541,17 +552,6 @@
    "tags": [
     "sanctions",
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "US diplomacy under fire as Russia escalates attacks on Ukrainian officials",
-   "url": "https://www.aljazeera.com/news/2026/9/11/us-diplomacy-under-fire-as-moscow-escalates-attacks-on-ukrainian-officials?traffic_source=rss",
-   "published": "2026-09-11T16:30:48+00:00",
-   "summary": "The Witkoff-Kushner visit to Moscow was immediately followed by Russian attacks on Kyiv.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   },
