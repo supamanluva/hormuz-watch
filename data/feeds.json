@@ -1,9 +1,32 @@
 {
- "asOf": "2026-09-12T08:24:45.321071+00:00",
+ "asOf": "2026-09-12T08:49:26.907066+00:00",
  "items": [
   {
    "source": "IRNA (Iran state wire)",
-   "title": "Iran prioritizes peace, respects for rights, calls for lifting of sanctions: Pezeshkian",
+   "title": "Envoy says IAEA BoG resolution not effective",
+   "url": "https://en.irna.ir/news/86261510/Envoy-says-IAEA-BoG-resolution-not-effective",
+   "published": "2026-09-12T08:44:19+00:00",
+   "summary": "London, IRNA — Iran’s permanent ambassador to the United Nations and other international organizations in Vienna, Reza Najafi, has criticized Western nations for politicizing the International Atomic Energy Agency (IAEA) Board of Governors and stressed that there wouldn’t be any actual effect from this resolution.",
+   "tags": [
+    "diplomacy",
+    "nuclear"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Diplomatic gains cannot be reduced to oil prices: FM spokesperson",
+   "url": "https://en.irna.ir/news/86261602/Diplomatic-gains-cannot-be-reduced-to-oil-prices-FM-spokesperson",
+   "published": "2026-09-12T08:33:54+00:00",
+   "summary": "Tehran, IRNA – Foreign Ministry spokesperson Esmaeil Baqaei has rejected criticism that announcing a joint meeting between Iran and the Persian Gulf states contributed to a decline in global oil prices, saying diplomatic decisions cannot be made based on a single factor and that the priority is to secure national interests at the appropriate time.",
+   "tags": [
+    "oil"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran prioritizes peace, respect for its rights, calls for lifting sanctions: Pezeshkian",
    "url": "https://en.irna.ir/news/86261568/Iran-prioritizes-peace-respects-for-rights-calls-for-lifting",
    "published": "2026-09-12T08:07:43+00:00",
    "summary": "Tehran, IRNA — President Masoud Pezeshkian has emphasized that Iran prioritizes peace and seeks respect for its international rights and the lifting of sanctions, stressing that Tehran does not seek war or its continuation despite the suffering inflicted on the Iranian people.",
@@ -110,7 +133,7 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "Iran war live: Houthis control Red Sea coast, Saudi pipeline shut down",
+   "title": "Iran war live: Yemen government counterattacks Houthis with air strikes",
    "url": "https://www.aljazeera.com/news/liveblog/2026/9/12/iran-war-live-houthis-control-red-sea-coast-saudi-pipeline-shut-down?traffic_source=rss",
    "published": "2026-09-12T00:00:00+00:00",
    "summary": "Houthi forces seize Yemen&#039;s Red Sea coast while Saudi Arabia suspends crucial oil pipeline following drone attack.",
@@ -613,28 +636,6 @@
    "published": "2026-09-10T19:31:08+00:00",
    "summary": "On Thursday, September 10, 2026, the President signed into law: S. 858, the &#8221; Hershel &#8216;Woody&#8217; Williams National Medal of Honor Monument Location Act,&#8221; which authorizes the National Medal of Honor Museum Foundation to establish a commemorative work on the National Mall to honor the extraordinary acts of valor, selfless service, and sacrifice displayed by [&#8230;] The post S",
    "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General",
-   "url": "https://press.un.org/en/2026/db260910.doc.htm",
-   "published": "2026-09-10T19:25:11+00:00",
-   "summary": "Cuba’s severe power crisis, following sanctions, is taking an increasing toll on basic services. Electricity generation in August met less than one third of national demand, according to authorities. The UN and its partners are working with authorities to support those with the most severe needs.",
-   "tags": [
-    "sanctions"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "IRGC destroys US unmanned vessel in Strait of Hormuz",
-   "url": "https://en.irna.ir/news/86260629/IRGC-destroys-US-unmanned-vessel-in-Strait-of-Hormuz",
-   "published": "2026-09-10T19:00:03+00:00",
-   "summary": "Tehran, IRNA — The Islamic Revolution Guards Corps (IRGC) Navy has announced that it has struck and destroyed a US unmanned surface vessel at the entrance to the Strait of Hormuz.",
-   "tags": [
-    "shipping"
-   ],
    "highlight": false
   }
  ]
