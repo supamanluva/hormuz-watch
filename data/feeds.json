@@ -1,6 +1,30 @@
 {
- "asOf": "2026-09-11T23:49:30.161706+00:00",
+ "asOf": "2026-09-12T00:52:36.784104+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Former top US diplomat reveals mistakes made after 9/11 attacks",
+   "url": "https://www.aljazeera.com/news/2026/9/12/former-top-us-diplomat-reveals-mistakes-made-after-9-11?traffic_source=rss",
+   "published": "2026-09-12T00:04:23+00:00",
+   "summary": "Ambassador Zalmay Khalilzad describes misgivings about the US handling of the Afghanistan and Iraq wars.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Iran war live: Houthis control Red Sea coast, Saudi pipeline shut down",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/9/12/iran-war-live-houthis-control-red-sea-coast-saudi-pipeline-shut-down?traffic_source=rss",
+   "published": "2026-09-12T00:00:00+00:00",
+   "summary": "Houthi forces seize Yemen&#039;s Red Sea coast while Saudi Arabia suspends crucial oil pipeline following drone attack.",
+   "tags": [
+    "strikes",
+    "shipping",
+    "oil"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "UN extends partial Sudan arms embargo for a month",
@@ -492,28 +516,6 @@
    "summary": "Fuel and engine oil shortages are forcing Gaza’s hospitals to ration electricity",
    "tags": [
     "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Russian strike hits shopping centre in central Ukraine",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/10/10-09-clip-russia-strike-pavlohrad-ua?traffic_source=rss",
-   "published": "2026-09-10T21:03:42+00:00",
-   "summary": "A Russian strike on a shopping centre in the central Ukrainian city of Pavlohrad killed at least four people.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Drones recreate Twin Towers in tribute ahead of 9/11 anniversary",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/10/drones-recreate-twin-towers-in-tribute-ahead-of-9-11?traffic_source=rss",
-   "published": "2026-09-10T21:00:18+00:00",
-   "summary": "Thousands of drones were used to recreate New York’s Twin Towers in a tribute ahead of the 25th anniversary of 9/11.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   },
