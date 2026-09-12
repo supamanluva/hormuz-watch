@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-12T14:49:54.913463+00:00",
+ "asOf": "2026-09-12T15:17:29.204318+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Iranian official tells Al Jazeera IAEA ruling was imposed by US and Israel",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-clip-iranian-fm-spox-aj?traffic_source=rss",
+   "published": "2026-09-12T14:49:48+00:00",
+   "summary": "Iranian official tells Al Jazeera an IAEA resolution on Tehran’s nuclear safeguards was ‘imposed’ by the US and Israel",
+   "tags": [
+    "nuclear"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "‘Divine triumph’: Iran celebrates Houthis’ capture of Yemen’s Red Sea coast",
@@ -163,7 +174,7 @@
    "title": "Three killed in Russian air strikes on 10 regions of Ukraine",
    "url": "https://www.aljazeera.com/news/2026/9/12/russia-strikes-cargo-vessels-steel-plants-across-ukraine?traffic_source=rss",
    "published": "2026-09-12T08:38:48+00:00",
-   "summary": "Russia attacks have targeted cargo vessels, steel plants and industrial facilities across Ukraine.",
+   "summary": "Russia&#039;s attacks have targeted cargo vessels, steel plants and industrial facilities across Ukraine.",
    "tags": [
     "strikes",
     "shipping"
@@ -526,17 +537,6 @@
    "url": "https://press.un.org/en/blog/sc16451",
    "published": "2026-09-11T16:09:55+00:00",
    "summary": "This afternoon, the Security Council will hold an open briefing on counter-terrorism to mark 25 years since the 11 September 2001 terrorist attacks against the United States. Council members will hear briefings from senior UN counter-terrorism officials and the Executive Director of the Global Internet Forum to Counter Terrorism. The Council is also expected to adopt a presidential statement on co",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Trump pays tribute to the victims of 9/11 at Pentagon ceremony",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/trump-pays-tribute-to-the-victims-of-9-11-at-pentagon?traffic_source=rss",
-   "published": "2026-09-11T15:45:46+00:00",
-   "summary": "US President Donald Trump remembered the victims of the September 11 attacks at a ceremony to mark the 25th anniversary.",
    "tags": [
     "strikes"
    ],
