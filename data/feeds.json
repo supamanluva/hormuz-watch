@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-12T13:17:17.454805+00:00",
+ "asOf": "2026-09-12T13:49:33.236403+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "‘Divine triumph’: Iran celebrates Houthis’ capture of Yemen’s Red Sea coast",
+   "url": "https://www.aljazeera.com/news/2026/9/12/divine-triumph-iran-celebrates-houthis-capture-of-yemens-red-sea-coast?traffic_source=rss",
+   "published": "2026-09-12T13:06:05+00:00",
+   "summary": "Iranian officials have praised the Houthis&#039; victories but have not spoken about any imminent closure of Bab al-Mandeb.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Trump: Iran probably ‘behind’ Saudi oil pipeline attack",
@@ -528,17 +539,6 @@
    "summary": "US President Donald Trump remembered the victims of the September 11 attacks at a ceremony to mark the 25th anniversary.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Houthis take control of Yemen’s entire Red Sea coast, reports say",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/houthis-take-control-of-yemens-entire-red-sea-coast-reports-say?traffic_source=rss",
-   "published": "2026-09-11T15:34:30+00:00",
-   "summary": "The Iran-backed Houthi forces have taken control over most of the western Red Sea coastal line",
-   "tags": [
-    "shipping"
    ],
    "highlight": false
   },
