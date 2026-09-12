@@ -1,6 +1,30 @@
 {
- "asOf": "2026-09-12T11:49:34.112296+00:00",
+ "asOf": "2026-09-12T12:27:06.717456+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Trump: Iran probably ‘behind’ Saudi oil pipeline attack",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/trump-iran-probably-behind-saudi-oil-pipeline-attack?traffic_source=rss",
+   "published": "2026-09-12T12:10:13+00:00",
+   "summary": "Trump: Iran probably ‘behind’ Saudi oil pipeline attack",
+   "tags": [
+    "strikes",
+    "oil"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Yemen government forces say Houthi ‘members, vehicles’ targeted in Mocha",
+   "url": "https://www.aljazeera.com/news/2026/9/12/yemen-government-forces-say-houthi-members-vehicles-targeted-in-mocha?traffic_source=rss",
+   "published": "2026-09-12T11:57:49+00:00",
+   "summary": "Yemeni government forces says they launched air strikes on Houthi fighters along the Red Sea coast.",
+   "tags": [
+    "strikes",
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Houthis celebrate seizing control of Yemen’s Red Sea coast",
@@ -531,17 +555,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "Can the Houthis close the Red Sea after seizing the Yemen coast?",
-   "url": "https://www.aljazeera.com/news/2026/9/11/can-the-houthis-close-the-red-sea-after-seizing-the-yemen-coast?traffic_source=rss",
-   "published": "2026-09-11T14:47:12+00:00",
-   "summary": "Some observers see a force that has improved impressively in the past years, but others doubt the Houthis can sustain wins.",
-   "tags": [
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
    "source": "White House",
    "title": "Presidential Message on Rosh Hashanah",
    "url": "https://www.whitehouse.gov/briefings-statements/2026/09/presidential-message-on-rosh-hashanah-982e/",
@@ -558,17 +571,6 @@
    "summary": "Tehran, IRNA — Foreign Ministry spokesperson Esmaeil Baqaei has criticized the head of the International Atomic Energy Agency (IAEA) for his continued politically motivated and biased stance towards Iran’s peaceful nuclear program, warning that Rafael Grossi is squandering the credibility of the Agency.",
    "tags": [
     "nuclear"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Russian strikes kill two in Kyiv as Moscow targets capital’s fuel stations",
-   "url": "https://www.aljazeera.com/news/2026/9/11/russian-strikes-kill-two-in-kyiv-as-moscow-targets-capitals-fuel-stations?traffic_source=rss",
-   "published": "2026-09-11T13:09:44+00:00",
-   "summary": "Second day of strikes on fuel stations suggest a new campaign focused on civilian areas in the Ukrainian capital.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   },
