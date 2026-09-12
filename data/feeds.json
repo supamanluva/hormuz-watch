@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-12T19:14:52.555229+00:00",
+ "asOf": "2026-09-12T19:29:08.476164+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Will Houthi advances in Yemen give Iran leverage in its war with the US?",
+   "url": "https://www.aljazeera.com/video/inside-story/2026/9/12/will-houthi-advances-in-yemen-give-iran-leverage-in-its-war-with-the-us?traffic_source=rss",
+   "published": "2026-09-12T19:17:37+00:00",
+   "summary": "The Iranian ally seizes Yemen&#039;s Red Sea coast, cementing their hold on the Bab al-Mandeb strait.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Iraq probes drone strikes on Saudi Arabia, shuts three crossings to Iran",
@@ -523,17 +534,6 @@
    "published": "2026-09-11T18:36:49+00:00",
    "summary": "The following statement was issued today by the Spokesman for UN Secretary-General António Guterres:",
    "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iran says will discuss Strait of Hormuz with Gulf states on Monday",
-   "url": "https://www.aljazeera.com/news/2026/9/11/iran-says-will-discuss-strait-of-hormuz-with-gulf-states-on-monday?traffic_source=rss",
-   "published": "2026-09-11T18:33:36+00:00",
-   "summary": "Iran&#039;s Foreign Ministry says the meeting in Oman is to &#039;promote better understanding among the countries of the region&#039;.",
-   "tags": [
-    "shipping"
-   ],
    "highlight": false
   },
   {
