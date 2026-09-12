@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-12T17:49:24.486221+00:00",
+ "asOf": "2026-09-12T18:22:06.844840+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Yemen warns Saudi attacks will not go unpunished",
+   "url": "https://en.irna.ir/news/86262138/Yemen-warns-Saudi-attacks-will-not-go-unpunished",
+   "published": "2026-09-12T18:09:49+00:00",
+   "summary": "Tehran, IRNA – Yemen’s Armed Forces spokesperson Brigadier General Yahya Saree says that continued Saudi attacks on Yemen would not go unanswered, following Saudi airstrikes on several areas in the country.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "BRICS declaration aligns with Iran’s key positions: Gharibabadi",
@@ -628,18 +639,6 @@
    "summary": "Tehran, IRNA – Foreign Minister Abbas Araghchi says that the American people should not have to bear the cost of wars fought by Israel, while highlighting Iran’s attacks on US military facilities in the region.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Envoy: UN meeting on Iranian nuclear file is abuse of process",
-   "url": "https://en.irna.ir/news/86260859/Envoy-UN-meeting-on-Iranian-nuclear-file-is-abuse-of-process",
-   "published": "2026-09-11T08:10:01+00:00",
-   "summary": "told the Security Council that renewed accusations against Iran's peaceful nuclear programme are political rather than technical, and that Resolution 2231 expired on 18 October 2025.",
-   "tags": [
-    "diplomacy",
-    "nuclear"
    ],
    "highlight": false
   }
