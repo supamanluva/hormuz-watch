@@ -1,6 +1,30 @@
 {
- "asOf": "2026-09-12T15:17:29.204318+00:00",
+ "asOf": "2026-09-12T16:30:20.261468+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "BRICS declaration aligns with Iran’s key positions: Gharibabadi",
+   "url": "https://en.irna.ir/news/86262089/BRICS-declaration-aligns-with-Iran-s-key-positions-Gharibabadi",
+   "published": "2026-09-12T16:28:57+00:00",
+   "summary": "Tehran, IRNA – Deputy Foreign Minister for Legal and International Affairs Kazem Gharibabadi has emphasized that BRICS’ New Delhi Declaration aligns with Iran’s positions on key issues, including opposition to unilateral sanctions, condemnation of attacks on peaceful nuclear facilities, support for Iran’s World Trade Organization (WTO) membership bid, and backing for Palestinian rights.",
+   "tags": [
+    "strikes",
+    "sanctions",
+    "nuclear"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iranian, Omani FMs speak ahead of Hormuz meeting",
+   "url": "https://en.irna.ir/news/86262086/Iranian-Omani-FMs-speak-ahead-of-Hormuz-meeting",
+   "published": "2026-09-12T16:04:25+00:00",
+   "summary": "Tehran, IRNA –Foreign Minister Abbas Araghchi has held a telephone conversation with his Omani counterpart, Badr bin Hamad Al Busaidi, to discuss issues of mutual interest.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Iranian official tells Al Jazeera IAEA ruling was imposed by US and Israel",
@@ -616,26 +640,6 @@
    "tags": [
     "diplomacy",
     "nuclear"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from September 11, 2026",
-   "url": "https://www.trumpstruth.org/statuses/41687",
-   "published": "2026-09-11T01:19:51+00:00",
-   "summary": "",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "UN Press",
-   "title": "Marking Twenty-Fifth Anniversary of 9/11 Attacks, Secretary-General Calls for Renewed Commitment to Future Free from Terrorism",
-   "url": "https://press.un.org/en/2026/sgsm23272.doc.htm",
-   "published": "2026-09-10T21:53:11+00:00",
-   "summary": "The following statement was issued today by the Spokesman for UN Secretary-General António Guterres:",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   }
