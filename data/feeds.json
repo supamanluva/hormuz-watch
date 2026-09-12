@@ -1,6 +1,29 @@
 {
- "asOf": "2026-09-12T02:28:42.811084+00:00",
+ "asOf": "2026-09-12T02:50:39.344777+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "North Korea fires ballistic missiles off eastern coast, Seoul says",
+   "url": "https://www.aljazeera.com/news/2026/9/12/north-korea-fires-ballistic-missiles-off-eastern-coast-seoul-says?traffic_source=rss",
+   "published": "2026-09-12T02:25:59+00:00",
+   "summary": "South Korea said it was closely exchanging information on the launches with the US and Japan.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Satellite image shows critical Saudi pipeline damaged in drone attack",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/saudi-arabia-east-west-oil-pipeline-drone-attack-iraq?traffic_source=rss",
+   "published": "2026-09-12T02:18:52+00:00",
+   "summary": "Saudi Arabia has shut its East-West oil pipeline after a drone attack. Riyadh says the attack originated in Iraq.",
+   "tags": [
+    "strikes",
+    "oil"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "CIA drops dozens of declassified documents on bin Laden and al-Qaeda",
@@ -473,28 +496,6 @@
    "tags": [
     "strikes",
     "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "UN envoy warns Security Council Yemen’s war has entered ‘dangerous phase’",
-   "url": "https://www.aljazeera.com/news/2026/9/10/un-envoy-warns-security-council-yemens-war-has-entered-dangerous-phase?traffic_source=rss",
-   "published": "2026-09-10T23:46:07+00:00",
-   "summary": "Envoy for Yemen Hans Grundberg demands urgent steps to protect civilians and trade routes amid Houthi escalation.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Israel says it destroyed Hezbollah base in Lebanon’s Ali al-Taher ridge",
-   "url": "https://www.aljazeera.com/news/2026/9/10/israel-says-it-destroyed-hezbollah-base-in-lebanons-ali-al-taher-ridge?traffic_source=rss",
-   "published": "2026-09-10T22:33:41+00:00",
-   "summary": "Israeli attacks come a week after it said to have established operational control over the strategic ridge.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   },
