@@ -1,6 +1,29 @@
 {
- "asOf": "2026-09-12T11:16:22.662011+00:00",
+ "asOf": "2026-09-12T11:49:34.112296+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Houthis celebrate seizing control of Yemen’s Red Sea coast",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/houthis-celebrate-seizing-control-of-yemens-red-sea-coast?traffic_source=rss",
+   "published": "2026-09-12T11:32:02+00:00",
+   "summary": "Yemen’s Iran-aligned Houthis have been celebrating after seizing control of the Red Sea coast in a rapid offensive.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Israel-Lebanon talks postponed as explosions rock southern Lebanon",
+   "url": "https://www.aljazeera.com/news/2026/9/12/israel-lebanon-talks-postponed-as-explosions-rock-southern-lebanon?traffic_source=rss",
+   "published": "2026-09-12T11:04:34+00:00",
+   "summary": "President Aoun says &#039;no new negotiations with Israel at the moment&#039;.",
+   "tags": [
+    "strikes",
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Far-right protesters rally against Islam on 9/11 anniversary",
@@ -550,17 +573,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "Myanmar airport closed following reported drone attack",
-   "url": "https://www.aljazeera.com/news/2026/9/11/myanmar-airport-closed-following-reported-drone-attack?traffic_source=rss",
-   "published": "2026-09-11T12:22:12+00:00",
-   "summary": "Military government pins attack on pro-democracy rebels it has been battling since seizing power in 2021.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
    "source": "UN Press",
    "title": "Security Council, 10220th Meeting (AM) Sudan, South Sudan",
    "url": "https://press.un.org/en/blog/sc16450",
@@ -568,17 +580,6 @@
    "summary": "At 10 a.m., the Security Council will to vote on a draft resolution renewing the 1591 Sudan sanctions regime - which includes asset freezes and travel bans, along with an arms embargo - for one month, until 9 October 2026. The draft was authored by the United States, the penholder.",
    "tags": [
     "sanctions"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Houthis control key shipping route after gains along Yemen’s Red Sea coast",
-   "url": "https://www.aljazeera.com/news/2026/9/11/houthis-take-control-of-yemens-red-sea-coast-key-shipping-route?traffic_source=rss",
-   "published": "2026-09-11T10:11:17+00:00",
-   "summary": "Rapid advance of Iran-backed force threatens key alternative shipping route to Strait of Hormuz.",
-   "tags": [
-    "shipping"
    ],
    "highlight": false
   },
