@@ -1,5 +1,5 @@
 {
- "asOf": "2026-09-12T08:49:26.907066+00:00",
+ "asOf": "2026-09-12T09:20:19.954842+00:00",
  "items": [
   {
    "source": "IRNA (Iran state wire)",
@@ -10,6 +10,18 @@
    "tags": [
     "diplomacy",
     "nuclear"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Russia strikes cargo vessels, steel plants across Ukraine",
+   "url": "https://www.aljazeera.com/news/2026/9/12/russia-strikes-cargo-vessels-steel-plants-across-ukraine?traffic_source=rss",
+   "published": "2026-09-12T08:38:48+00:00",
+   "summary": "Russia&#039;s Defence Ministry says its forces have struck several industrial facilities across Ukraine",
+   "tags": [
+    "strikes",
+    "shipping"
    ],
    "highlight": false
   },
@@ -565,18 +577,6 @@
    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/iran-claims-to-have-captured-a-us-sail-drone-near-hormuz-strait?traffic_source=rss",
    "published": "2026-09-11T00:24:24+00:00",
    "summary": "Iran’s Revolutionary Guard says its navy struck a US-operated surface drone at the entrance of the Strait of Hormuz.",
-   "tags": [
-    "strikes",
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iran war live: IRGC attacks US unmanned vessel in Hormuz; two ships hit",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/9/11/iran-war-live-irgc-attacks-us-unmanned-vessel-in-hormuz-two-ships-hit?traffic_source=rss",
-   "published": "2026-09-11T00:00:00+00:00",
-   "summary": "IRGC says it attacked a US unmanned vessel in Hormuz, while UKMTO says projectiles hit two ships off Oman.",
    "tags": [
     "strikes",
     "shipping"
