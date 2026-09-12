@@ -1,6 +1,28 @@
 {
- "asOf": "2026-09-12T18:49:31.513665+00:00",
+ "asOf": "2026-09-12T19:14:52.555229+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Iraq probes drone strikes on Saudi Arabia, shuts three crossings to Iran",
+   "url": "https://www.aljazeera.com/news/2026/9/12/iraq-probes-drone-strikes-on-saudi-arabia-shuts-three-crossings-to-iran?traffic_source=rss",
+   "published": "2026-09-12T18:53:31+00:00",
+   "summary": "PM Ali al-Zaidi dismisses commander, orders investigation into operations command in Maysan province, bordering Iran.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Iran, UAE hold first talks at BRICS summit since conflict began",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-clip-uae-iran-brics-talks-mp4?traffic_source=rss",
+   "published": "2026-09-12T18:36:17+00:00",
+   "summary": "Iran’s President has met Abu Dhabi’s Crown Prince at the BRICS summit for their highest-level talks since the war began.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Yemen warns Saudi attacks will not go unpunished",
@@ -515,17 +537,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "US holds memorials for the 9/11 attacks, 25 years later",
-   "url": "https://www.aljazeera.com/gallery/2026/9/11/us-holds-memorials-for-the-9-11-attacks-25-years?traffic_source=rss",
-   "published": "2026-09-11T18:00:41+00:00",
-   "summary": "In New York, Virginia and Pennsylvania, mourners gathered to remember nearly 3,000 people killed during the hijackings.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
    "source": "Trump · Truth Social",
    "title": "[No Title] - Post from September 11, 2026",
    "url": "https://www.trumpstruth.org/statuses/41689",
@@ -542,17 +553,6 @@
    "summary": "",
    "tags": [],
    "highlight": true
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Houthis declare Red Sea shipping safe except for Saudi vessels",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/houthis-declare-red-sea-shipping-safe-except-for-saudi-vessels?traffic_source=rss",
-   "published": "2026-09-11T16:32:14+00:00",
-   "summary": "Houthi spokesman Yahya Saree said maritime navigation in the Red Sea is safe, except for Saudi ships.",
-   "tags": [
-    "shipping"
-   ],
-   "highlight": false
   },
   {
    "source": "UN Press",
