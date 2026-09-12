@@ -1,6 +1,29 @@
 {
- "asOf": "2026-09-12T07:49:49.866465+00:00",
+ "asOf": "2026-09-12T08:24:45.321071+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran prioritizes peace, respects for rights, calls for lifting of sanctions: Pezeshkian",
+   "url": "https://en.irna.ir/news/86261568/Iran-prioritizes-peace-respects-for-rights-calls-for-lifting",
+   "published": "2026-09-12T08:07:43+00:00",
+   "summary": "Tehran, IRNA — President Masoud Pezeshkian has emphasized that Iran prioritizes peace and seeks respect for its international rights and the lifting of sanctions, stressing that Tehran does not seek war or its continuation despite the suffering inflicted on the Iranian people.",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "AEOI chief heads to Vienna to attend IAEA General Conference",
+   "url": "https://en.irna.ir/news/86261460/AEOI-chief-heads-to-Vienna-for-attending-IAEA-GC-meeting",
+   "published": "2026-09-12T08:05:17+00:00",
+   "summary": "Tehran, IRNA – The head of the Atomic Energy Organization of Iran (AEOI) has traveled to Vienna to attend the 70th IAEA General Conference and hold talks with diplomats on nuclear cooperation.",
+   "tags": [
+    "diplomacy",
+    "nuclear"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "[No Title] - Post from September 12, 2026",
@@ -612,27 +635,6 @@
    "tags": [
     "shipping"
    ],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Security Council, 10219th Meeting (PM) Yemen",
-   "url": "https://press.un.org/en/blog/sc16449",
-   "published": "2026-09-10T18:23:52+00:00",
-   "summary": "The Security Council will hold a briefing this afternoon on Yemen following Houthi missile and drone attacks against Saudi Arabia. Bahrain and the United Kingdom, the Council’s penholder on Yemen, requested the meeting. UN Special Envoy Hans Grundberg is expected to brief. Saudi Arabia and Yemen will participate under rule 37, which allows States that are not Council members to join discussions wi",
-   "tags": [
-    "strikes",
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "Trump Dividend: America Is Winning — and Americans Should Win With It",
-   "url": "https://www.whitehouse.gov/releases/2026/09/trump-dividend-america-is-winning-and-americans-should-win-with-it/",
-   "published": "2026-09-10T17:56:28+00:00",
-   "summary": "Last night, President Donald J. Trump unveiled the Trump Dividend — a historic $5,000 cash payment to every adult American citizen, made possible by the strength of the American economy under his leadership. The announcement is the latest proof that President Trump does what the so-called “experts” say cannot be done: he delivers for the [&#8230;] The post Trump Dividend: America Is Winning — and ",
-   "tags": [],
    "highlight": false
   }
  ]
