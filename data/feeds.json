@@ -1,6 +1,28 @@
 {
- "asOf": "2026-09-12T19:49:45.734816+00:00",
+ "asOf": "2026-09-12T20:20:04.978467+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Israeli regime continues attacks on Lebanese territory",
+   "url": "https://en.irna.ir/news/86262172/Israeli-regime-continues-attacks-on-Lebanese-territory",
+   "published": "2026-09-12T20:04:00+00:00",
+   "summary": "Tehran, IRNA – News sources reported that the Israeli regime fighter jets have bombed various areas in southern Lebanon.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Israel bombs southern Lebanon as talks postponed",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/israel-bombs-southern-lebanon-as-talks-postponed?traffic_source=rss",
+   "published": "2026-09-12T19:56:09+00:00",
+   "summary": "The next round of talks between Israel and Lebanon, mediated by the US, has been postponed.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Bahrain says it will not participate in Iran’s proposed Hormuz meeting",
@@ -481,17 +503,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "How US leaders remembered the 25th anniversary of the 9/11 attacks",
-   "url": "https://www.aljazeera.com/news/2026/9/11/how-us-leaders-remembered-the-25th-anniversary-of-the-9-11?traffic_source=rss",
-   "published": "2026-09-11T19:21:48+00:00",
-   "summary": "Trump drew parallels to the US&#039;s present-day war against Iran, while figures like Abdul El-Sayed called for inclusivity.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
    "source": "White House",
    "title": "Congressional Bills H.R. 1276, H.R. 2069, H.R. 2196 and H.R. 5366 Signed into Law",
    "url": "https://www.whitehouse.gov/briefings-statements/2026/09/congressional-bills-h-r-1276-h-r-2069-h-r-2196-and-h-r-5366-signed-into-law/",
@@ -628,17 +639,6 @@
    "summary": "Tehran, IRNA – Iranian President Masoud Pezeshkian arrived in Indian capital of New Delhi on Friday to attend the 18th BRICS Summit and was received by India’s Minister of Ports, Shipping and Waterways Shantanu Thakur upon his arrival.",
    "tags": [
     "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Araghchi: American people deserve better than footing bill for Israel’s wars",
-   "url": "https://en.irna.ir/news/86260865/Araghchi-American-people-deserve-better-than-footing-bill-for",
-   "published": "2026-09-11T08:13:49+00:00",
-   "summary": "Tehran, IRNA – Foreign Minister Abbas Araghchi says that the American people should not have to bear the cost of wars fought by Israel, while highlighting Iran’s attacks on US military facilities in the region.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   }
