@@ -1,6 +1,48 @@
 {
- "asOf": "2026-09-12T09:20:19.954842+00:00",
+ "asOf": "2026-09-12T10:29:22.633129+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Civil aviation must not be used as tool of political pressure: Iranian official",
+   "url": "https://en.irna.ir/news/86261624/Civil-aviation-must-not-be-used-as-tool-of-political-pressure",
+   "published": "2026-09-12T09:52:08+00:00",
+   "summary": "Tehran, IRNA — The head of Iran’s Civil Aviation Organization has condemned the United States for imposing broad and unilateral sanctions on the country’s civil aviation sector, warning that the continuation of such measures could harm regional and international aviation.",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Malaysian envoy welcomes Iran Air’s return to East Asia",
+   "url": "https://en.irna.ir/news/86261720/Malaysian-envoy-welcomes-Iran-Air-s-return-to-East-Asia",
+   "published": "2026-09-12T09:36:49+00:00",
+   "summary": "Tehran, IRNA — The Malaysian ambassador to Iran has welcomed the resumption of Iran Air’s flights to Malaysia.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "What did US intelligence know before the 9/11 attacks?",
+   "url": "https://www.aljazeera.com/news/2026/9/12/what-did-us-intelligence-know-before-the-9-11?traffic_source=rss",
+   "published": "2026-09-12T09:30:51+00:00",
+   "summary": "The CIA have declassified documents showing US presidents were warned about Osama bin Laden and al-Qaeda before 9/11.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "Such a great golfer. Too bad I have very little time to play!!!",
+   "url": "https://www.trumpstruth.org/statuses/41699",
+   "published": "2026-09-12T09:06:42+00:00",
+   "summary": "Such a great golfer. Too bad I have very little time to play!!!",
+   "tags": [],
+   "highlight": true
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Envoy says IAEA BoG resolution not effective",
@@ -18,7 +60,7 @@
    "title": "Russia strikes cargo vessels, steel plants across Ukraine",
    "url": "https://www.aljazeera.com/news/2026/9/12/russia-strikes-cargo-vessels-steel-plants-across-ukraine?traffic_source=rss",
    "published": "2026-09-12T08:38:48+00:00",
-   "summary": "Russia&#039;s Defence Ministry says its forces have struck several industrial facilities across Ukraine",
+   "summary": "Russia&#039;s Defence Ministry says its forces have struck several industrial facilities across Ukraine.",
    "tags": [
     "strikes",
     "shipping"
@@ -572,18 +614,6 @@
    "highlight": true
   },
   {
-   "source": "Al Jazeera",
-   "title": "Iran claims to have captured a US ‘sail drone’ near Hormuz Strait",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/iran-claims-to-have-captured-a-us-sail-drone-near-hormuz-strait?traffic_source=rss",
-   "published": "2026-09-11T00:24:24+00:00",
-   "summary": "Iran’s Revolutionary Guard says its navy struck a US-operated surface drone at the entrance of the Strait of Hormuz.",
-   "tags": [
-    "strikes",
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
    "source": "UN Press",
    "title": "Marking Twenty-Fifth Anniversary of 9/11 Attacks, Secretary-General Calls for Renewed Commitment to Future Free from Terrorism",
    "url": "https://press.un.org/en/2026/sgsm23272.doc.htm",
@@ -603,39 +633,6 @@
    "tags": [
     "diplomacy"
    ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Ghalibaf: US ‘arsenal’ of interventions, Treasury falsehoods will fail to curb oil prices",
-   "url": "https://en.irna.ir/news/86260658/Ghalibaf-US-arsenal-of-interventions-Treasury-falsehoods",
-   "published": "2026-09-10T19:46:02+00:00",
-   "summary": "Tehran, IRNA — Iran’s Parliament Speaker Mohammad Bagher Qalibaf has mocked Washington’s efforts to curb rising oil prices, and said the US measures, including market interventions and the release of strategic reserves, have failed to stop the surge in crude prices.",
-   "tags": [
-    "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Security Council, Surmounting Procedural Vote, Debates Work of 1737 Iran Sanctions Committee, with Divisions Lingering over ‘Snapback’, Nuclear Escalation Risks",
-   "url": "https://press.un.org/en/2026/sc16448.doc.htm",
-   "published": "2026-09-10T19:42:22+00:00",
-   "summary": "With Security Council members locked into disagreement on whether sanctions concerning Iran’s nuclear programme have snapped back or not, some speakers stressed the need to appoint experts to support that sanctions committee even as others insisted that the Council stop considering this agenda item at all.",
-   "tags": [
-    "sanctions",
-    "diplomacy",
-    "nuclear"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "S. 858 Signed into Law",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/09/s-858-signed-into-law/",
-   "published": "2026-09-10T19:31:08+00:00",
-   "summary": "On Thursday, September 10, 2026, the President signed into law: S. 858, the &#8221; Hershel &#8216;Woody&#8217; Williams National Medal of Honor Monument Location Act,&#8221; which authorizes the National Medal of Honor Museum Foundation to establish a commemorative work on the National Mall to honor the extraordinary acts of valor, selfless service, and sacrifice displayed by [&#8230;] The post S",
-   "tags": [],
    "highlight": false
   }
  ]
