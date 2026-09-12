@@ -1,6 +1,18 @@
 {
- "asOf": "2026-09-12T21:18:38.903576+00:00",
+ "asOf": "2026-09-12T22:29:08.255942+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "First naval battle between drones takes place in the Black Sea",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/first-naval-battle-between-drones-takes-place-in-the-black-sea?traffic_source=rss",
+   "published": "2026-09-12T21:38:24+00:00",
+   "summary": "The first naval battle between two Unmanned Surface Vessels (USVs) has taken place in the Black Sea.",
+   "tags": [
+    "strikes",
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Israeli regime continues attacks on Lebanese territory",
@@ -450,17 +462,6 @@
    "url": "https://www.aljazeera.com/news/2026/9/11/saudi-arabia-says-east-west-pipeline-hit-by-drones-launched-from-iraq?traffic_source=rss",
    "published": "2026-09-11T21:30:47+00:00",
    "summary": "Iraq condemns the attack, dismisses a military commander who led operations in Maysan province.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Somber tributes as US marks the 25th anniversary of September 11 attacks",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/somber-tributes-as-us-marks-the-25th-anniversary-of-september-11-attacks?traffic_source=rss",
-   "published": "2026-09-11T21:23:51+00:00",
-   "summary": "Families are remembering the loved ones they lost in the September 11, 2001 attacks on the US.",
    "tags": [
     "strikes"
    ],
