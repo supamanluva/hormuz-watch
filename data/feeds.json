@@ -1,6 +1,28 @@
 {
- "asOf": "2026-09-13T13:17:24.278377+00:00",
+ "asOf": "2026-09-13T13:49:53.357950+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Muscat meeting to focus on new maritime arrangements in Strait of Hormuz: Araghchi",
+   "url": "https://en.irna.ir/news/86262964/Muscat-meeting-to-focus-on-new-maritime-arrangements-in-Strait",
+   "published": "2026-09-13T13:44:57+00:00",
+   "summary": "Tehran, IRNA – Foreign Minister Abbas Araghchi says the upcoming regional meeting in Muscat will focus exclusively on establishing new maritime arrangements in the Strait of Hormuz.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Ukraine drone strikes kill four as Russia attacks close to Poland border",
+   "url": "https://www.aljazeera.com/news/2026/9/13/ukraine-drone-strikes-kill-four-as-russia-attacks-close-to-poland-border?traffic_source=rss",
+   "published": "2026-09-13T13:05:40+00:00",
+   "summary": "Russia says four people killed in Ukrainian strikes as both sides continue to attack each other with waves of drones.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "The Houthis’ escalation in Yemen could flop",
@@ -382,18 +404,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "Saudi Arabia shuts critical oil pipeline after drone attack: What it means",
-   "url": "https://www.aljazeera.com/news/2026/9/12/saudi-arabia-shuts-critical-oil-pipeline-after-drone-attack-what-happened?traffic_source=rss",
-   "published": "2026-09-12T10:36:18+00:00",
-   "summary": "Baghdad launches investigation, closes border after confirming strike came from Iraqi territory.",
-   "tags": [
-    "strikes",
-    "oil"
-   ],
-   "highlight": false
-  },
-  {
    "source": "IRNA (Iran state wire)",
    "title": "Civil aviation must not be used as tool of political pressure: Iranian official",
    "url": "https://en.irna.ir/news/86261624/Civil-aviation-must-not-be-used-as-tool-of-political-pressure",
@@ -625,17 +635,6 @@
    "tags": [
     "sanctions",
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Security Council, 10221st Meeting (PM) Terrorist Acts",
-   "url": "https://press.un.org/en/blog/sc16451",
-   "published": "2026-09-11T16:09:55+00:00",
-   "summary": "This afternoon, the Security Council will hold an open briefing on counter-terrorism to mark 25 years since the 11 September 2001 terrorist attacks against the United States. Council members will hear briefings from senior UN counter-terrorism officials and the Executive Director of the Global Internet Forum to Counter Terrorism. The Council is also expected to adopt a presidential statement on co",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   }
