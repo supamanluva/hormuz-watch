@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-13T13:49:53.357950+00:00",
+ "asOf": "2026-09-13T14:18:40.501173+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Iran-GCC summit: What’s behind the meeting, why is Bahrain not attending?",
+   "url": "https://www.aljazeera.com/news/2026/9/13/iran-gcc-summit-whats-behind-the-meeting-why-is-bahrain-not-attending?traffic_source=rss",
+   "published": "2026-09-13T13:59:27+00:00",
+   "summary": "Iran says it plans to hold talks with Iraq and Gulf nations in Oman to help strengthen shared regional security.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Muscat meeting to focus on new maritime arrangements in Strait of Hormuz: Araghchi",
@@ -389,17 +400,6 @@
    "summary": "Tehran, IRNA – The Islamic Republic of Iran has emphasized that the key objective in the ongoing war is to eliminate the threat and secure a decisive and permanent end to the war, stressing that a temporary ceasefire without guarantees against renewed aggression would not provide lasting stability.",
    "tags": [
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Two men receive jail terms for violent burglary of Man City’s Donnarumma",
-   "url": "https://www.aljazeera.com/sports/2026/9/12/two-men-receive-jail-terms-for-violent-burglary-of-man-citys-donnarumma?traffic_source=rss",
-   "published": "2026-09-12T10:37:10+00:00",
-   "summary": "Two men jailed after Italy international Gianluigi Donnarumma and his now wife attacked in Paris home during PSG stint.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   },
