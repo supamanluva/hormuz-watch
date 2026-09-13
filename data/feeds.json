@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-13T12:27:30.409922+00:00",
+ "asOf": "2026-09-13T12:50:09.357211+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "The Houthis’ escalation in Yemen could flop",
+   "url": "https://www.aljazeera.com/opinions/2026/9/13/the-houthis-escalation-in-yemen-could-flop?traffic_source=rss",
+   "published": "2026-09-13T12:39:50+00:00",
+   "summary": "The Houthis and Iran are seeking to gain leverage, but they may instead get a unified front in the Red Sea.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Fighting continues between Yemen gov’t forces, Houthis: What is the latest?",
@@ -401,17 +412,6 @@
    "summary": "Tehran, IRNA — The Malaysian ambassador to Iran has welcomed the resumption of Iran Air’s flights to Malaysia.",
    "tags": [
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "What did US intelligence know before the 9/11 attacks?",
-   "url": "https://www.aljazeera.com/news/2026/9/12/what-did-us-intelligence-know-before-the-9-11?traffic_source=rss",
-   "published": "2026-09-12T09:30:51+00:00",
-   "summary": "The CIA have declassified documents showing US presidents were warned about Osama bin Laden and al-Qaeda before 9/11.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   },
