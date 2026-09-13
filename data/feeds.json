@@ -1,6 +1,18 @@
 {
- "asOf": "2026-09-13T20:19:50.245373+00:00",
+ "asOf": "2026-09-13T20:49:38.897215+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "US Envoy Jared Kushner says Doha attack left Israel ‘globally isolated’",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/09-13-kushner-doha-attack-comments-clip?traffic_source=rss",
+   "published": "2026-09-13T20:33:28+00:00",
+   "summary": "Jared Kushner, says Israel’s failed attack on Hamas leadership in Doha was ‘terrible’ and left the country ‘isolated&#039;",
+   "tags": [
+    "strikes",
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Guyana’s oil boom and challenges",
@@ -430,17 +442,6 @@
    "summary": "Iranian official tells Al Jazeera an IAEA resolution on Tehran’s nuclear safeguards was ‘imposed’ by the US and Israel",
    "tags": [
     "nuclear"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "‘Divine triumph’: Iran celebrates Houthis’ capture of Yemen’s Red Sea coast",
-   "url": "https://www.aljazeera.com/news/2026/9/12/divine-triumph-iran-celebrates-houthis-capture-of-yemens-red-sea-coast?traffic_source=rss",
-   "published": "2026-09-12T13:06:05+00:00",
-   "summary": "Iranian officials have praised the Houthis&#039; victories but have not spoken about any imminent closure of Bab al-Mandeb.",
-   "tags": [
-    "shipping"
    ],
    "highlight": false
   },
