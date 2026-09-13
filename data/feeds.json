@@ -1,6 +1,18 @@
 {
- "asOf": "2026-09-13T05:50:18.995851+00:00",
+ "asOf": "2026-09-13T06:36:22.009529+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iraq vows to prevent attacks on neighboring countries from its soil",
+   "url": "https://en.irna.ir/news/86262316/Iraq-vows-to-prevent-attacks-on-neighboring-countries-from-its",
+   "published": "2026-09-13T06:13:49+00:00",
+   "summary": "Tehran, IRNA — Iraq will not allow its territory to be used as a launching pad for attacks against neighboring countries or to undermine regional security, spokesman for the commander-in-chief of the Iraqi Armed Forces, Sabah Al-Numan, says.",
+   "tags": [
+    "strikes",
+    "oil"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "1,400 Yemenis flee to Djibouti within 24 hours",
@@ -48,12 +60,13 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "Iran war live: Tens of thousands displaced as Yemen fighting escalates",
+   "title": "Iran war live: Commercial ship attacked in Hormuz killing 1, wounding 3",
    "url": "https://www.aljazeera.com/news/liveblog/2026/9/13/iran-war-live-saudi-arabia-and-houthis-trade-strikes-over-bab-al-mandeb?traffic_source=rss",
    "published": "2026-09-13T00:00:40+00:00",
-   "summary": "Houthi forces and Yemen&#039;s internationally recognised government trade strikes as fighting intensifies.",
+   "summary": "Latest strike on cargo vessel comes as Iran leaders plan to meet Gulf officials to discuss control over key waterway.",
    "tags": [
-    "strikes"
+    "strikes",
+    "shipping"
    ],
    "highlight": false
   },
@@ -627,17 +640,6 @@
    "summary": "At 10 a.m., the Security Council will to vote on a draft resolution renewing the 1591 Sudan sanctions regime - which includes asset freezes and travel bans, along with an arms embargo - for one month, until 9 October 2026. The draft was authored by the United States, the penholder.",
    "tags": [
     "sanctions"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Pezeshkian arrives in New Delhi to attend 18th BRICS Summit",
-   "url": "https://en.irna.ir/news/86260926/Pezeshkian-arrives-in-New-Delhi-to-attend-18th-BRICS-Summit",
-   "published": "2026-09-11T09:28:06+00:00",
-   "summary": "Tehran, IRNA – Iranian President Masoud Pezeshkian arrived in Indian capital of New Delhi on Friday to attend the 18th BRICS Summit and was received by India’s Minister of Ports, Shipping and Waterways Shantanu Thakur upon his arrival.",
-   "tags": [
-    "shipping"
    ],
    "highlight": false
   }
