@@ -1,6 +1,19 @@
 {
- "asOf": "2026-09-13T15:50:03.703239+00:00",
+ "asOf": "2026-09-13T16:30:47.642402+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Ukrainian drone evades Russian helicopter fire to strike oil tanker",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/09-12-ukraine-drone-russian-tanker-sv?traffic_source=rss",
+   "published": "2026-09-13T16:11:43+00:00",
+   "summary": "Ukraine has released footage showing a drone evading fire from a Russian helicopter before striking a Russian oil tanker",
+   "tags": [
+    "strikes",
+    "shipping",
+    "oil"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Red Sea nations watch as Houthis seize Bab al-Mandeb strait",
@@ -398,17 +411,6 @@
    "summary": "Yemeni government forces says they launched air strikes on Houthi fighters along the Red Sea coast.",
    "tags": [
     "strikes",
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Houthis celebrate seizing control of Yemen’s Red Sea coast",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/houthis-celebrate-seizing-control-of-yemens-red-sea-coast?traffic_source=rss",
-   "published": "2026-09-12T11:32:02+00:00",
-   "summary": "Yemen’s Iran-aligned Houthis have been celebrating after seizing control of the Red Sea coast in a rapid offensive.",
-   "tags": [
     "shipping"
    ],
    "highlight": false
