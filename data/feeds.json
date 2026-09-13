@@ -1,6 +1,29 @@
 {
- "asOf": "2026-09-12T23:49:31.149250+00:00",
+ "asOf": "2026-09-13T01:00:27.271163+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Houthi projectile wounds two, damages mosque in Jazan region, Saudi says",
+   "url": "https://www.aljazeera.com/news/2026/9/13/houthi-projectile-wounds-two-damages-mosque-in-jazan-region-saudi-says?traffic_source=rss",
+   "published": "2026-09-13T00:24:29+00:00",
+   "summary": "The Houthis claim their attack targeted a Saudi military base in Sharurah.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Iran war live: Saudi Arabia and Houthis trade strikes over Bab al-Mandeb",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/9/13/iran-war-live-saudi-arabia-and-houthis-trade-strikes-over-bab-al-mandeb?traffic_source=rss",
+   "published": "2026-09-13T00:00:40+00:00",
+   "summary": "Houthis accuse Saudi Arabia of launching 129 strikes in 48 hours as fears grow over impact on Riyadh’s oil industry.",
+   "tags": [
+    "strikes",
+    "oil"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "First naval battle between drones takes place in the Black Sea",
@@ -437,34 +460,12 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "UN extends partial Sudan arms embargo for a month",
-   "url": "https://www.aljazeera.com/news/2026/9/11/un-extends-partial-sudan-arms-embargo-for-a-month?traffic_source=rss",
-   "published": "2026-09-11T23:08:05+00:00",
-   "summary": "Sudan’s UN ambassador said a total arms embargo goes against the UN Charter that guarantees a right to self-defence.",
-   "tags": [
-    "sanctions"
-   ],
-   "highlight": false
-  },
-  {
    "source": "UN Press",
    "title": "General Assembly Adopts Agenda for Its Eighty-First Session",
    "url": "https://press.un.org/en/2026/ga12782.doc.htm",
    "published": "2026-09-11T21:46:09+00:00",
    "summary": "The General Assembly today took note of the report of its General Committee on the organization of its eighty-first regular session, adopting its agenda and taking note of the allocation of the items.",
    "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Saudi Arabia says East-West pipeline hit by drones launched from Iraq",
-   "url": "https://www.aljazeera.com/news/2026/9/11/saudi-arabia-says-east-west-pipeline-hit-by-drones-launched-from-iraq?traffic_source=rss",
-   "published": "2026-09-11T21:30:47+00:00",
-   "summary": "Iraq condemns the attack, dismisses a military commander who led operations in Maysan province.",
-   "tags": [
-    "strikes"
-   ],
    "highlight": false
   },
   {
