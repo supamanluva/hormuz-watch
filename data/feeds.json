@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-13T06:57:04.087717+00:00",
+ "asOf": "2026-09-13T07:21:22.129703+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Projectile hits Iranian commercial vessel in Strait of Hormuz, killing one, injuring four",
+   "url": "https://en.irna.ir/news/86262425/Projectile-hits-Iranian-commercial-vessel-in-Strait-of-Hormuz",
+   "published": "2026-09-13T07:05:42+00:00",
+   "summary": "Qeshm, IRNA – An Iranian commercial container ship was hit by an unidentified projectile early Sunday near Hengam Island in the Strait of Hormuz, killing one crew member and injuring four others, according to the governor of Iran’s Qeshm Island.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Iraq vows to prevent attacks on neighboring countries from its soil",
@@ -15,10 +26,10 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "1,400 Yemenis flee to Djibouti within 24 hours",
+   "title": "About 1,400 Yemenis flee to Djibouti within 24 hours",
    "url": "https://www.aljazeera.com/news/2026/9/13/1400-yemenis-flee-to-djibouti-within-24-hours?traffic_source=rss",
    "published": "2026-09-13T04:40:18+00:00",
-   "summary": "Yemeni refugees arrive in Obock, Djibouti, within 24 hours as Houthis tighten their grip on the Bab al-Mandeb strait.",
+   "summary": "Refugees from Yemen arrive in Obock, Djibouti, as Houthis tighten their grip on the Bab al-Mandeb strait.",
    "tags": [
     "shipping"
    ],
@@ -60,7 +71,7 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "Iran war live: Commercial ship attacked in Hormuz killing 1, wounding 3",
+   "title": "Iran war live: Commercial ship attacked in Hormuz, killing 1, wounding 3",
    "url": "https://www.aljazeera.com/news/liveblog/2026/9/13/iran-war-live-saudi-arabia-and-houthis-trade-strikes-over-bab-al-mandeb?traffic_source=rss",
    "published": "2026-09-13T00:00:40+00:00",
    "summary": "Latest strike on cargo vessel comes as Iran leaders plan to meet Gulf officials to discuss control over key waterway.",
@@ -629,17 +640,6 @@
    "summary": "Tehran, IRNA — Foreign Ministry spokesperson Esmaeil Baqaei has criticized the head of the International Atomic Energy Agency (IAEA) for his continued politically motivated and biased stance towards Iran’s peaceful nuclear program, warning that Rafael Grossi is squandering the credibility of the Agency.",
    "tags": [
     "nuclear"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Security Council, 10220th Meeting (AM) Sudan, South Sudan",
-   "url": "https://press.un.org/en/blog/sc16450",
-   "published": "2026-09-11T10:55:05+00:00",
-   "summary": "At 10 a.m., the Security Council will to vote on a draft resolution renewing the 1591 Sudan sanctions regime - which includes asset freezes and travel bans, along with an arms embargo - for one month, until 9 October 2026. The draft was authored by the United States, the penholder.",
-   "tags": [
-    "sanctions"
    ],
    "highlight": false
   }
