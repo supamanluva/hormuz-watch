@@ -1,6 +1,47 @@
 {
- "asOf": "2026-09-13T09:44:44.314186+00:00",
+ "asOf": "2026-09-13T11:16:32.608289+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Fighting continues between Yemen gov’t forces, Houthis: What is the latest?",
+   "url": "https://www.aljazeera.com/news/2026/9/13/fighting-continues-between-yemen-govt-forces-houthis-what-is-the-latest?traffic_source=rss",
+   "published": "2026-09-13T10:47:19+00:00",
+   "summary": "Government forces and Saudi Arabia carry out air attacks to stop Houthis&#039; advance as thousands displaced by conflict.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Israeli attack on Gaza kills two Palestinians",
+   "url": "https://www.aljazeera.com/news/2026/9/13/israeli-attack-on-gaza-kills-two-palestinians?traffic_source=rss",
+   "published": "2026-09-13T10:22:01+00:00",
+   "summary": "Israeli strikes on Palestinian territory persist despite a &#039;ceasefire&#039; brokered by the United States.",
+   "tags": [
+    "strikes",
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "[No Title] - Post from September 13, 2026",
+   "url": "https://www.trumpstruth.org/statuses/41700",
+   "published": "2026-09-13T09:06:55+00:00",
+   "summary": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117262935739176527 https:// x.com/interiorpress47/status/2 098824375214506096?s=46",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "[No Title] - Post from September 13, 2026",
+   "url": "https://www.trumpstruth.org/statuses/41701",
+   "published": "2026-09-13T09:06:41+00:00",
+   "summary": "",
+   "tags": [],
+   "highlight": true
+  },
   {
    "source": "Al Jazeera",
    "title": "Mosque and homes damaged in Saudi Arabia after alleged Houthi strike",
@@ -396,18 +437,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "Three killed in Russian air strikes on 10 regions of Ukraine",
-   "url": "https://www.aljazeera.com/news/2026/9/12/russia-strikes-cargo-vessels-steel-plants-across-ukraine?traffic_source=rss",
-   "published": "2026-09-12T08:38:48+00:00",
-   "summary": "Russia&#039;s attacks have targeted cargo vessels, steel plants and industrial facilities across Ukraine.",
-   "tags": [
-    "strikes",
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
    "source": "IRNA (Iran state wire)",
    "title": "Diplomatic gains cannot be reduced to oil prices: FM spokesperson",
    "url": "https://en.irna.ir/news/86261602/Diplomatic-gains-cannot-be-reduced-to-oil-prices-FM-spokesperson",
@@ -478,17 +507,6 @@
    "summary": "So, I’m asking for the Smithsonian to install the 11-foot Washington statue that was featured at the recent Freedom 250 Grand Prix Race in the Museum’s Flag Hall, and dedicate it this Constitution Day, September 17, 2026. Immediately design and display a five-year exhibition worthy of the Life, Sacrifice, and Contributions of George Washington. Then, as soon as it is ready, install a 30-foot Washi",
    "tags": [],
    "highlight": true
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "North Korea fires ballistic missiles off eastern coast, Seoul says",
-   "url": "https://www.aljazeera.com/news/2026/9/12/north-korea-fires-ballistic-missiles-off-eastern-coast-seoul-says?traffic_source=rss",
-   "published": "2026-09-12T02:25:59+00:00",
-   "summary": "South Korea said it was closely exchanging information on the launches with the US and Japan.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
   },
   {
    "source": "UN Press",
@@ -619,27 +637,6 @@
    "tags": [
     "strikes"
    ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran, other Persian Gulf littoral states to meet in Oman to discuss regional issues: Foreign Ministry",
-   "url": "https://en.irna.ir/news/86261089/Iran-other-Persian-Gulf-littoral-states-to-meet-in-Oman-to-discuss",
-   "published": "2026-09-11T14:53:39+00:00",
-   "summary": "Tehran, IRNA — Foreign Ministry spokesperson Esmaeil Baqaei says Iran and other Persian Gulf littoral states will sit down next week to discuss regional issues, including a Tehran–Muscat deal to manage shipping through the Strait of Hormuz.",
-   "tags": [
-    "diplomacy",
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "Presidential Message on Rosh Hashanah",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/09/presidential-message-on-rosh-hashanah-982e/",
-   "published": "2026-09-11T14:22:25+00:00",
-   "summary": "Melania and I send our warmest greetings to the entire Jewish community on Rosh Hashanah—the Jewish New Year and the first of the High Holy Days. The Jewish community around the world marks the anniversary of when the Almighty created Adam and Eve and the story of humanity began.&#160; These two days open a solemn [&#8230;] The post Presidential Message on Rosh Hashanah appeared first on The White",
-   "tags": [],
    "highlight": false
   }
  ]
