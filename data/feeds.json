@@ -1,5 +1,5 @@
 {
- "asOf": "2026-09-13T22:30:24.811913+00:00",
+ "asOf": "2026-09-13T23:29:06.482715+00:00",
  "items": [
   {
    "source": "Trump · Truth Social",
@@ -9,6 +9,18 @@
    "summary": "",
    "tags": [],
    "highlight": true
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Tehran and Muscat delay talks, citing regional consensus need",
+   "url": "https://www.aljazeera.com/news/2026/9/13/tehran-and-muscat-delay-talks-citing-regional-consensus-need?traffic_source=rss",
+   "published": "2026-09-13T21:50:50+00:00",
+   "summary": "Tehran and Muscat agree to delay dialogue to prioritise regional consensus amid tensions in the Strait of Hormuz.",
+   "tags": [
+    "diplomacy",
+    "shipping"
+   ],
+   "highlight": false
   },
   {
    "source": "White House",
@@ -414,17 +426,6 @@
    "summary": "PM Ali al-Zaidi dismisses commander, orders investigation into operations command in Maysan province, bordering Iran.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iran, UAE hold first talks at BRICS summit since conflict began",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-clip-uae-iran-brics-talks-mp4?traffic_source=rss",
-   "published": "2026-09-12T18:36:17+00:00",
-   "summary": "Iran’s President has met Abu Dhabi’s Crown Prince at the BRICS summit for their highest-level talks since the war began.",
-   "tags": [
-    "diplomacy"
    ],
    "highlight": false
   },
