@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-13T15:17:49.872297+00:00",
+ "asOf": "2026-09-13T15:50:03.703239+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Red Sea nations watch as Houthis seize Bab al-Mandeb strait",
+   "url": "https://www.aljazeera.com/economy/2026/9/13/red-sea-nations-watch-as-houthis-seize-bab-al-mandeb-strait?traffic_source=rss",
+   "published": "2026-09-13T15:00:47+00:00",
+   "summary": "Houthi control of Bab al-Mandeb chokes Suez Canal revenues, triggers refugee flows, and exposes regional security gaps.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Araghchi: Iran-Oman understanding does not mean reopening of Strait of Hormuz",
@@ -399,18 +410,6 @@
    "summary": "Yemen’s Iran-aligned Houthis have been celebrating after seizing control of the Red Sea coast in a rapid offensive.",
    "tags": [
     "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Israel-Lebanon talks postponed as explosions rock southern Lebanon",
-   "url": "https://www.aljazeera.com/news/2026/9/12/israel-lebanon-talks-postponed-as-explosions-rock-southern-lebanon?traffic_source=rss",
-   "published": "2026-09-12T11:04:34+00:00",
-   "summary": "President Aoun says &#039;no new negotiations with Israel at the moment&#039;.",
-   "tags": [
-    "strikes",
-    "diplomacy"
    ],
    "highlight": false
   },
