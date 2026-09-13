@@ -1,12 +1,23 @@
 {
- "asOf": "2026-09-13T07:50:29.422311+00:00",
+ "asOf": "2026-09-13T08:25:42.342876+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Mosque and homes damaged in Saudi Arabia after alleged Houthi strike",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/mosque-and-homes-damaged-in-saudi-arabia-after-alleged-houthi-strike?traffic_source=rss",
+   "published": "2026-09-13T08:13:56+00:00",
+   "summary": "Mosque and homes damaged in Saudi Arabia after alleged Houthi strike",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Baqaei: Iran to pursue justice for victims of US attack on Lamerd",
    "url": "https://en.irna.ir/news/86262468/Baqaei-Iran-to-pursue-justice-for-victims-of-US-attack-on-Lamerd",
    "published": "2026-09-13T07:46:25+00:00",
-   "summary": "Shiraz, IRNA – Foreign Ministry spokesperson Esmaeil Baqaei says the United States undoubtedly committed a war crime by using banned weapons in airstrikes on the southern city of Lamerd, emphasizing that Iran is making every effort to pursue justice for the victims of the attack.",
+   "summary": "Shiraz, IRNA — Foreign Ministry spokesperson Esmaeil Baqaei says the United States undoubtedly committed a war crime by using banned weapons in airstrikes on the southern city of Lamerd, emphasizing that Iran is making every effort to pursue justice for the victims of the attack.",
    "tags": [
     "strikes"
    ],
@@ -476,18 +487,6 @@
    "summary": "South Korea said it was closely exchanging information on the launches with the US and Japan.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Satellite image shows critical Saudi pipeline damaged in drone attack",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/saudi-arabia-east-west-oil-pipeline-drone-attack-iraq?traffic_source=rss",
-   "published": "2026-09-12T02:18:52+00:00",
-   "summary": "Saudi Arabia has shut its East-West oil pipeline after a drone attack. Riyadh says the attack originated in Iraq.",
-   "tags": [
-    "strikes",
-    "oil"
    ],
    "highlight": false
   },
