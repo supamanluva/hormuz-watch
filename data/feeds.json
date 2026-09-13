@@ -1,6 +1,39 @@
 {
- "asOf": "2026-09-13T14:50:03.422231+00:00",
+ "asOf": "2026-09-13T15:17:49.872297+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Araghchi: Iran-Oman understanding does not mean reopening of Strait of Hormuz",
+   "url": "https://en.irna.ir/photo/86263005/Araghchi-Iran-Oman-understanding-does-not-mean-reopening-of",
+   "published": "2026-09-13T14:52:17+00:00",
+   "summary": "Foreign Minister Abbas Araghchi has emphasized that the understanding between Iran and Oman at the upcoming Muscat meeting does not mean the reopening of the Strait of Hormuz.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "World must break silence on continued Israeli atrocities in Lebanon: Iran’s rights body",
+   "url": "https://en.irna.ir/news/86263014/World-must-break-silence-on-continued-Israeli-atrocities-in-Lebanon",
+   "published": "2026-09-13T14:50:13+00:00",
+   "summary": "Tehran, IRNA – Iran’s High Council for Human Rights (HCHR) has strongly condemned the Israeli regime's continued airstrikes and shelling of residential areas and crimes against the people of Lebanon.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "More than 2,000 Yemenis flee to Djibouti amid Houthi advances",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/more-than-2000-yemenis-flee-to-djibouti-amid-houthi-advances?traffic_source=rss",
+   "published": "2026-09-13T14:38:46+00:00",
+   "summary": "Escalating fighting along Yemen’s western coast has driven more than 2,000 Yemenis across the Red Sea to Djibouti.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Iran-GCC summit: What’s behind the meeting, why is Bahrain not attending?",
@@ -382,17 +415,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "Far-right protesters rally against Islam on 9/11 anniversary",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/far-right-protesters-rally-against-islam-on-9-11?traffic_source=rss",
-   "published": "2026-09-12T10:51:07+00:00",
-   "summary": "A far-right Islamophobic rally was held outside New York City Hall on the 25th anniversary of the September 11 attacks.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
    "source": "IRNA (Iran state wire)",
    "title": "Why Iran seeks permanent end to war, not temporary ceasefire?",
    "url": "https://en.irna.ir/news/86261825/Why-Iran-seeks-permanent-end-to-war-not-temporary-ceasefire",
@@ -616,27 +638,6 @@
    "summary": "",
    "tags": [],
    "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from September 11, 2026",
-   "url": "https://www.trumpstruth.org/statuses/41688",
-   "published": "2026-09-11T17:35:34+00:00",
-   "summary": "",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "UN Press",
-   "title": "Security Council Unanimously Adopts Resolution 2828 (2026), Renewing Sudan Sanctions for One Month, Keeping Door Open for Continued Talks",
-   "url": "https://press.un.org/en/2026/sc16450.doc.htm",
-   "published": "2026-09-11T16:31:56+00:00",
-   "summary": "The Security Council today extended for one month the 1591 Sudan sanctions regime, including targeted sanctions and an arms embargo, in order to allow more time for negotiations on whether to expand the measures.",
-   "tags": [
-    "sanctions",
-    "diplomacy"
-   ],
-   "highlight": false
   }
  ]
 }
