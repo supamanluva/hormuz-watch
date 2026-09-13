@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-13T07:21:22.129703+00:00",
+ "asOf": "2026-09-13T07:50:29.422311+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Baqaei: Iran to pursue justice for victims of US attack on Lamerd",
+   "url": "https://en.irna.ir/news/86262468/Baqaei-Iran-to-pursue-justice-for-victims-of-US-attack-on-Lamerd",
+   "published": "2026-09-13T07:46:25+00:00",
+   "summary": "Shiraz, IRNA – Foreign Ministry spokesperson Esmaeil Baqaei says the United States undoubtedly committed a war crime by using banned weapons in airstrikes on the southern city of Lamerd, emphasizing that Iran is making every effort to pursue justice for the victims of the attack.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Projectile hits Iranian commercial vessel in Strait of Hormuz, killing one, injuring four",
@@ -630,17 +641,6 @@
    "published": "2026-09-11T14:22:25+00:00",
    "summary": "Melania and I send our warmest greetings to the entire Jewish community on Rosh Hashanah—the Jewish New Year and the first of the High Holy Days. The Jewish community around the world marks the anniversary of when the Almighty created Adam and Eve and the story of humanity began.&#160; These two days open a solemn [&#8230;] The post Presidential Message on Rosh Hashanah appeared first on The White",
    "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Grossi harms impartiality and independence of UN nuclear watchdog: Baqaei",
-   "url": "https://en.irna.ir/news/86261060/Grossi-harms-impartiality-and-independence-of-UN-nuclear-watchdog",
-   "published": "2026-09-11T13:33:03+00:00",
-   "summary": "Tehran, IRNA — Foreign Ministry spokesperson Esmaeil Baqaei has criticized the head of the International Atomic Energy Agency (IAEA) for his continued politically motivated and biased stance towards Iran’s peaceful nuclear program, warning that Rafael Grossi is squandering the credibility of the Agency.",
-   "tags": [
-    "nuclear"
-   ],
    "highlight": false
   }
  ]
