@@ -1,6 +1,24 @@
 {
- "asOf": "2026-09-13T21:49:50.218771+00:00",
+ "asOf": "2026-09-13T22:30:24.811913+00:00",
  "items": [
+  {
+   "source": "Trump · Truth Social",
+   "title": "[No Title] - Post from September 13, 2026",
+   "url": "https://www.trumpstruth.org/statuses/41703",
+   "published": "2026-09-13T22:06:16+00:00",
+   "summary": "",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "White House",
+   "title": "Presidential Message on the Anniversary of the Battle of Fort McHenry",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/09/presidential-message-on-the-anniversary-of-the-battle-of-fort-mchenry/",
+   "published": "2026-09-13T21:37:19+00:00",
+   "summary": "In September of 1814, 1,000 American patriots heroically defended our young Nation’s sovereignty at the Battle of Fort McHenry, where they halted the British invasion of Baltimore in a critical turning point in the War of 1812.&#160; Despite relentless cannon bombardment from the most powerful navy of its age, American forces stood strong.&#160; When dawn [&#8230;] The post Presidential Message on",
+   "tags": [],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Poland, Ukraine accuse Russia of ‘escalation’ after strikes near border",
@@ -624,24 +642,6 @@
    "summary": "In the Occupied Palestinian Territory, the UN and its partners brought more than 350,000 litres of fuel and hundreds of pallets of supplies into Gaza on 10 September. Humanitarian teams also supported the evacuation of dozens of patients and provided psychological first aid, emergency assistance and referral services.",
    "tags": [],
    "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "Congressional Bills H.R. 1276, H.R. 2069, H.R. 2196 and H.R. 5366 Signed into Law",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/09/congressional-bills-h-r-1276-h-r-2069-h-r-2196-and-h-r-5366-signed-into-law/",
-   "published": "2026-09-11T19:11:44+00:00",
-   "summary": "On Friday, September 11, 2026, the President signed into law: H.R. 1276, which directs the Department of the Interior to remove all deed restriction from an approximately 3.62-acre parcel of land conveyed from the Department to the City of Paducah, Kentucky; H.R. 2069, the &#8220;Stop Secret Spending Act of 2025,&#8221; which expands Federal spending transparency [&#8230;] The post Congressional B",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from September 11, 2026",
-   "url": "https://www.trumpstruth.org/statuses/41691",
-   "published": "2026-09-11T19:09:11+00:00",
-   "summary": "",
-   "tags": [],
-   "highlight": true
   }
  ]
 }
