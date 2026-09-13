@@ -1,5 +1,5 @@
 {
- "asOf": "2026-09-13T05:19:45.093358+00:00",
+ "asOf": "2026-09-13T05:50:18.995851+00:00",
  "items": [
   {
    "source": "Al Jazeera",
@@ -48,13 +48,12 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "Iran war live: Saudi Arabia and Houthis trade strikes over Bab al-Mandeb",
+   "title": "Iran war live: Tens of thousands displaced as Yemen fighting escalates",
    "url": "https://www.aljazeera.com/news/liveblog/2026/9/13/iran-war-live-saudi-arabia-and-houthis-trade-strikes-over-bab-al-mandeb?traffic_source=rss",
    "published": "2026-09-13T00:00:40+00:00",
-   "summary": "Houthis accuse Saudi Arabia of launching 129 strikes in 48 hours as fears grow over impact on Riyadh’s oil industry.",
+   "summary": "Houthi forces and Yemen&#039;s internationally recognised government trade strikes as fighting intensifies.",
    "tags": [
-    "strikes",
-    "oil"
+    "strikes"
    ],
    "highlight": false
   },
