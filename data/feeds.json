@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-13T18:23:03.129248+00:00",
+ "asOf": "2026-09-13T18:49:34.649477+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Trump tells Zelenskyy to stop hitting Russian diesel supplies",
+   "url": "https://www.aljazeera.com/economy/2026/9/13/trump-tells-zelenskyy-to-stop-hitting-russian-diesel-supplies?traffic_source=rss",
+   "published": "2026-09-13T18:15:12+00:00",
+   "summary": "The US president says Ukraine&#039;s attacks on Russian diesel infrastructure are contributing to global fuel shortages.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Ukrainian drone evades Russian helicopter fire to strike oil tanker",
@@ -400,18 +411,6 @@
    "tags": [
     "strikes",
     "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Yemen government forces say Houthi ‘members, vehicles’ targeted in Mocha",
-   "url": "https://www.aljazeera.com/news/2026/9/12/yemen-government-forces-say-houthi-members-vehicles-targeted-in-mocha?traffic_source=rss",
-   "published": "2026-09-12T11:57:49+00:00",
-   "summary": "Yemeni government forces says they launched air strikes on Houthi fighters along the Red Sea coast.",
-   "tags": [
-    "strikes",
-    "shipping"
    ],
    "highlight": false
   },
