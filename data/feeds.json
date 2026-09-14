@@ -1,6 +1,24 @@
 {
- "asOf": "2026-09-14T15:22:02.061215+00:00",
+ "asOf": "2026-09-14T15:49:41.424190+00:00",
  "items": [
+  {
+   "source": "UN Press",
+   "title": "Health of Humanity, Nature Intertwined, Stresses Secretary-General in Message to International Biodiversity Conference",
+   "url": "https://press.un.org/en/2026/sgsm23277.doc.htm",
+   "published": "2026-09-14T15:33:40+00:00",
+   "summary": "Following is UN Secretary-General António Guterres’ message for the third International Conference on Health and Biodiversity, held in Galway, Ireland, today:",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "UN Press",
+   "title": "Inclusive Global Growth Requires Strong Multilateral System, Says Secretary-General at BRICS Summit",
+   "url": "https://press.un.org/en/2026/sgsm23276.doc.htm",
+   "published": "2026-09-14T15:30:23+00:00",
+   "summary": "Following are UN Secretary-General António Guterres’ remarks at the eighteenth BRICS [Brazil, Russian Federation, India, China, South Africa] Summit, in New Delhi today:",
+   "tags": [],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Israel violates Gaza ceasefire 4,803 times, killing 1,369 Palestinians: Report",
@@ -618,29 +636,6 @@
    "summary": "Shiraz, IRNA — Foreign Ministry spokesperson Esmaeil Baqaei says the United States undoubtedly committed a war crime by using banned weapons in airstrikes on the southern city of Lamerd, emphasizing that Iran is making every effort to pursue justice for the victims of the attack.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Projectile hits Iranian commercial vessel in Strait of Hormuz, killing one, injuring four",
-   "url": "https://en.irna.ir/news/86262425/Projectile-hits-Iranian-commercial-vessel-in-Strait-of-Hormuz",
-   "published": "2026-09-13T07:05:42+00:00",
-   "summary": "Qeshm, IRNA – An Iranian commercial container ship was hit by an unidentified projectile early Sunday near Hengam Island in the Strait of Hormuz, killing one crew member and injuring four others, according to the governor of Iran’s Qeshm Island.",
-   "tags": [
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iraq vows to prevent attacks on neighboring countries from its soil",
-   "url": "https://en.irna.ir/news/86262316/Iraq-vows-to-prevent-attacks-on-neighboring-countries-from-its",
-   "published": "2026-09-13T06:13:49+00:00",
-   "summary": "Tehran, IRNA — Iraq will not allow its territory to be used as a launching pad for attacks against neighboring countries or to undermine regional security, spokesman for the commander-in-chief of the Iraqi Armed Forces, Sabah Al-Numan, says.",
-   "tags": [
-    "strikes",
-    "oil"
    ],
    "highlight": false
   }
