@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-14T03:52:39.638256+00:00",
+ "asOf": "2026-09-14T05:33:23.859994+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Russia hits Ukrainian train shortly after Boris Johnson leaves station",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/russia-hits-ukrainian-train-shortly-after-boris-johnson-leaves-station?traffic_source=rss",
+   "published": "2026-09-14T03:37:12+00:00",
+   "summary": "A Russian drone struck a train near Ukraine-Poland border, shortly after Former UK PM Boris Johnson left the station.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "The White House was in very bad condition, both inside and out. Frankly, it was a “dump!” Past Presidents did not take care of it. I love renovating it during my spare time, which is not much. The Department of Interior, and various contractors, are doing a fantastic job. Attached are pictures of BEFORE and AFTER. The exterior “skin” of the Building was practically falling off! It is now in better shape than when built in 1792. Such an Honor to have the privilege of saving this Great Structure! More time without renovation would have destroyed our beloved White House! President DONALD J. TRUMP",
@@ -486,17 +497,6 @@
    "url": "https://www.aljazeera.com/news/2026/9/12/bahrain-says-it-will-not-participate-in-irans-proposed-hormuz-meeting?traffic_source=rss",
    "published": "2026-09-12T19:34:04+00:00",
    "summary": "Iran tells Al Jazeera that Monday&#039;s meeting is a sign of &#039;good intentions&#039; towards neighbouring countries.",
-   "tags": [
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Will Houthi advances in Yemen give Iran leverage in its war with the US?",
-   "url": "https://www.aljazeera.com/video/inside-story/2026/9/12/will-houthi-advances-in-yemen-give-iran-leverage-in-its-war-with-the-us?traffic_source=rss",
-   "published": "2026-09-12T19:17:37+00:00",
-   "summary": "The Iranian ally seizes Yemen&#039;s Red Sea coast, cementing their hold on the Bab al-Mandeb strait.",
    "tags": [
     "shipping"
    ],
