@@ -1,6 +1,40 @@
 {
- "asOf": "2026-09-14T15:49:41.424190+00:00",
+ "asOf": "2026-09-14T16:21:58.880300+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Any assessment of Hormuz crisis ‘incomplete’ without addressing root causes: Iran’s UN envoy",
+   "url": "https://en.irna.ir/news/86264119/Any-assessment-of-Hormuz-crisis-incomplete-without-addressing",
+   "published": "2026-09-14T16:14:48+00:00",
+   "summary": "London, IRNA - Iran’s permanent representative to the United Nations Office in Geneva has warned that any assessment of the economic and developmental consequences of the Strait of Hormuz crisis would be incomplete without addressing its root causes, which he attributed directly to US and Israeli military aggression.",
+   "tags": [
+    "diplomacy",
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Blocking Iran’s nuclear chief from IAEA conference sets dangerous precedent: AEOI",
+   "url": "https://en.irna.ir/news/86264082/Blocking-Iran-s-nuclear-chief-from-IAEA-conference-sets-dangerous",
+   "published": "2026-09-14T16:04:53+00:00",
+   "summary": "London, IRNA – The spokesperson for the Atomic Energy Organization of Iran (AEOI), Behrouz Kamalvandi, has described preventing AEOI chief Mohammad Eslami from attending the IAEA General Conference as a dangerous precedent for all countries, stressing that the agency and its member states must stand up to US bullying and political pressure.",
+   "tags": [
+    "nuclear"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Eto’o faces allegations of embezzlement in Cameroon FA presidency role",
+   "url": "https://www.aljazeera.com/sports/2026/9/14/etoo-faces-allegations-of-embezzlement-in-cameroon-fa-presidency-role?traffic_source=rss",
+   "published": "2026-09-14T15:50:05+00:00",
+   "summary": "Ex-Chelsea and Barcelona striker Samuel Eto’o faces new allegations over Cameroon FA finances under his presidency.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "UN Press",
    "title": "Health of Humanity, Nature Intertwined, Stresses Secretary-General in Message to International Biodiversity Conference",
@@ -232,7 +266,7 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "Yemen gov’t forces advance in Taiz as Houthis claim attack on Saudi Arabia",
+   "title": "Yemen forces advance in Taiz; Houthis take key islands, attack Saudi Arabia",
    "url": "https://www.aljazeera.com/news/2026/9/14/yemen-govt-forces-advance-in-taiz-as-houthis-claim-attack-on-saudi-arabia?traffic_source=rss",
    "published": "2026-09-14T09:21:56+00:00",
    "summary": "Yemeni government forces have advanced in western Taiz after successfully repelling a Houthi offensive.",
@@ -600,17 +634,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "Fighting continues between Yemen gov’t forces, Houthis: What is the latest?",
-   "url": "https://www.aljazeera.com/news/2026/9/13/fighting-continues-between-yemen-govt-forces-houthis-what-is-the-latest?traffic_source=rss",
-   "published": "2026-09-13T10:47:19+00:00",
-   "summary": "Government forces and Saudi Arabia carry out air attacks to stop Houthis&#039; advance as thousands displaced by conflict.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
    "source": "Trump · Truth Social",
    "title": "[No Title] - Post from September 13, 2026",
    "url": "https://www.trumpstruth.org/statuses/41700",
@@ -618,26 +641,6 @@
    "summary": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117262935739176527 https:// x.com/interiorpress47/status/2 098824375214506096?s=46",
    "tags": [],
    "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from September 13, 2026",
-   "url": "https://www.trumpstruth.org/statuses/41701",
-   "published": "2026-09-13T09:06:41+00:00",
-   "summary": "",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Baqaei: Iran to pursue justice for victims of US attack on Lamerd",
-   "url": "https://en.irna.ir/news/86262468/Baqaei-Iran-to-pursue-justice-for-victims-of-US-attack-on-Lamerd",
-   "published": "2026-09-13T07:46:25+00:00",
-   "summary": "Shiraz, IRNA — Foreign Ministry spokesperson Esmaeil Baqaei says the United States undoubtedly committed a war crime by using banned weapons in airstrikes on the southern city of Lamerd, emphasizing that Iran is making every effort to pursue justice for the victims of the attack.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
   }
  ]
 }
