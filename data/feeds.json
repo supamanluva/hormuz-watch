@@ -1,6 +1,29 @@
 {
- "asOf": "2026-09-14T07:08:31.207564+00:00",
+ "asOf": "2026-09-14T07:43:43.448915+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "IRGC downs advanced MQ-1 drone over Strait of Hormuz",
+   "url": "https://en.irna.ir/news/86263404/IRGC-downs-advanced-MQ-1-drone-over-Strait-of-Hormuz",
+   "published": "2026-09-14T07:39:23+00:00",
+   "summary": "Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) has confirmed the downing of an advanced MQ-1 drone in the airspace over the Strait of Hormuz.",
+   "tags": [
+    "strikes",
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Wounds caused by US ‘heinous’ crime in Lamerd will never heal: Baqaei",
+   "url": "https://en.irna.ir/news/86263396/Wounds-caused-by-US-heinous-crime-in-Lamerd-will-never-heal",
+   "published": "2026-09-14T07:32:18+00:00",
+   "summary": "Tehran, IRNA — Foreign Ministry spokesperson Esmaeil Baqaei has emphasized the need for justice for the victims of a February US missile attack on Iran’s southern city of Lamerd, saying that the wounds inflicted by “the heinous crime” will never heal completely.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Russia hits Ukrainian train shortly after Boris Johnson leaves station",
@@ -624,24 +647,6 @@
     "nuclear"
    ],
    "highlight": false
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from September 12, 2026",
-   "url": "https://www.trumpstruth.org/statuses/41698",
-   "published": "2026-09-12T03:53:25+00:00",
-   "summary": "",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from September 12, 2026",
-   "url": "https://www.trumpstruth.org/statuses/41697",
-   "published": "2026-09-12T03:21:32+00:00",
-   "summary": "",
-   "tags": [],
-   "highlight": true
   }
  ]
 }
