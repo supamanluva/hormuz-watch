@@ -1,5 +1,5 @@
 {
- "asOf": "2026-09-14T19:49:57.832291+00:00",
+ "asOf": "2026-09-14T20:20:34.192616+00:00",
  "items": [
   {
    "source": "White House",
@@ -7,6 +7,15 @@
    "url": "https://www.whitehouse.gov/presidential-actions/2026/09/nominations-sent-to-the-senate-9fc3/",
    "published": "2026-09-14T19:25:34+00:00",
    "summary": "NOMINATIONS SENT TO THE SENATE: Samuel D. Adkisson, of Tennessee, to be United States District Judge for the Eastern District of Tennessee. Philip Axt, of North Dakota, to be United States District Judge for the District of North Dakota. Daniel Lewis Ballou, of Kentucky, to be United States District Judge for the Eastern District of [&#8230;] The post Nominations Sent to the Senate appeared first ",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "UN Press",
+   "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General",
+   "url": "https://press.un.org/en/2026/db260914.doc.htm",
+   "published": "2026-09-14T19:13:17+00:00",
+   "summary": "In Djibouti, UN teams are working closely with the Government in response to the arrival of people fleeing the latest escalation of conflict in Yemen. Around 2,300 people have arrived already and, with existing capacities under significant pressure, additional resources are urgently needed as arrivals continue.",
    "tags": [],
    "highlight": false
   },
@@ -617,17 +626,6 @@
    "published": "2026-09-13T21:37:19+00:00",
    "summary": "In September of 1814, 1,000 American patriots heroically defended our young Nation’s sovereignty at the Battle of Fort McHenry, where they halted the British invasion of Baltimore in a critical turning point in the War of 1812.&#160; Despite relentless cannon bombardment from the most powerful navy of its age, American forces stood strong.&#160; When dawn [&#8230;] The post Presidential Message on",
    "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Poland, Ukraine accuse Russia of ‘escalation’ after strikes near border",
-   "url": "https://www.aljazeera.com/news/2026/9/13/poland-ukraine-accuse-russia-of-escalation-after-strikes-near-border?traffic_source=rss",
-   "published": "2026-09-13T21:10:07+00:00",
-   "summary": "Western officials including ex-UK PM Boris Johnson were nearby when Russia hit a train at the Poland-Ukraine border.",
-   "tags": [
-    "strikes"
-   ],
    "highlight": false
   }
  ]
