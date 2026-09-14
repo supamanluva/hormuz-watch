@@ -1,6 +1,40 @@
 {
- "asOf": "2026-09-14T11:50:19.399907+00:00",
+ "asOf": "2026-09-14T12:32:39.264338+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Why the Houthi advance towards Yemen’s Marib, Taiz matters",
+   "url": "https://www.aljazeera.com/news/2026/9/14/why-the-houthi-advance-towards-yemens-marib-taiz-matters?traffic_source=rss",
+   "published": "2026-09-14T12:09:02+00:00",
+   "summary": "Marib is home to Yemen&#039;s oil sector. Whoever controls it secures economic gains. Taiz&#039;s location makes it critical.",
+   "tags": [
+    "oil"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "PGSA warns firms over non-compliant vessels",
+   "url": "https://en.irna.ir/news/86263772/PGSA-warns-firms-over-non-compliant-vessels",
+   "published": "2026-09-14T11:51:03+00:00",
+   "summary": "Tehran, IRNA – The Persian Gulf Strait Authority (PGSA) has warned companies and organizations dealing with non-compliant vessels.",
+   "tags": [
+    "diplomacy",
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Temporary Hormuz solution deferred as Iran-Arab summit falls through",
+   "url": "https://www.aljazeera.com/news-analysis/2026/9/14/temporary-hormuz-solution-deferred-as-iran-arab-summit-falls-through?traffic_source=rss",
+   "published": "2026-09-14T11:50:44+00:00",
+   "summary": "Saudi Arabia asked for the meeting to be postponed, but Tehran says it will continue to seek a regionally backed bill.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Blocking Iran’s nuclear chief from IAEA conference marks clear violation of rights: Envoy",
@@ -562,29 +596,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "Yemen’s Houthis seize strategic Mayun Island in Red Sea",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/yemens-houthis-seize-strategic-mayun-island-in-red-sea?traffic_source=rss",
-   "published": "2026-09-13T02:44:32+00:00",
-   "summary": "Yemen’s Houthis have seized the strategic Mayun Island as they cement control over the Bab al-Mandeb Strait.",
-   "tags": [
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iraq seizes drone-launching platform used for targeting Saudi oil pipeline",
-   "url": "https://www.aljazeera.com/news/2026/9/13/iraq-seizes-drone-launching-platform-used-for-targeting-saudi-oil-pipeline?traffic_source=rss",
-   "published": "2026-09-13T02:32:12+00:00",
-   "summary": "Saudi authorities trace the launch site to Maysan province in southeastern Iraq, near the Iranian border.",
-   "tags": [
-    "strikes",
-    "oil"
-   ],
-   "highlight": false
-  },
-  {
    "source": "IRNA (Iran state wire)",
    "title": "Israeli regime continues attacks on Lebanese territory",
    "url": "https://en.irna.ir/news/86262172/Israeli-regime-continues-attacks-on-Lebanese-territory",
@@ -638,17 +649,6 @@
    "summary": "Tehran, IRNA – The Islamic Republic of Iran has emphasized that the key objective in the ongoing war is to eliminate the threat and secure a decisive and permanent end to the war, stressing that a temporary ceasefire without guarantees against renewed aggression would not provide lasting stability.",
    "tags": [
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Civil aviation must not be used as tool of political pressure: Iranian official",
-   "url": "https://en.irna.ir/news/86261624/Civil-aviation-must-not-be-used-as-tool-of-political-pressure",
-   "published": "2026-09-12T09:52:08+00:00",
-   "summary": "Tehran, IRNA — The head of Iran’s Civil Aviation Organization has condemned the United States for imposing broad and unilateral sanctions on the country’s civil aviation sector, warning that the continuation of such measures could harm regional and international aviation.",
-   "tags": [
-    "sanctions"
    ],
    "highlight": false
   }
