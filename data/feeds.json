@@ -1,6 +1,29 @@
 {
- "asOf": "2026-09-14T13:23:14.471720+00:00",
+ "asOf": "2026-09-14T13:49:44.843963+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "‘Attacks will be fully autonomous’: Russia, Ukraine race towards AI warfare",
+   "url": "https://www.aljazeera.com/news/2026/9/14/attacks-will-be-fully-autonomous-russia-ukraine-race-towards-ai-warfare?traffic_source=rss",
+   "published": "2026-09-14T13:20:50+00:00",
+   "summary": "Automated AI drones are just one component of an ultimate chain of destruction both sides are building.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Why Saudi Arabia’s East-West pipeline matters for global oil",
+   "url": "https://www.aljazeera.com/news/2026/9/14/why-saudi-arabias-east-west-pipeline-matters-for-global-oil?traffic_source=rss",
+   "published": "2026-09-14T13:15:14+00:00",
+   "summary": "The 1,200km (745-mile) pipeline has been temporarily closed, affecting up to 5 percent of global oil supply.",
+   "tags": [
+    "strikes",
+    "oil"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Why the Houthi advance towards Yemen’s Marib, Taiz matters",
@@ -540,17 +563,6 @@
    "highlight": true
   },
   {
-   "source": "Al Jazeera",
-   "title": "Mosque and homes damaged in Saudi Arabia after alleged Houthi strike",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/mosque-and-homes-damaged-in-saudi-arabia-after-alleged-houthi-strike?traffic_source=rss",
-   "published": "2026-09-13T08:13:56+00:00",
-   "summary": "Mosque and homes damaged in Saudi Arabia after alleged Houthi strike",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
    "source": "IRNA (Iran state wire)",
    "title": "Baqaei: Iran to pursue justice for victims of US attack on Lamerd",
    "url": "https://en.irna.ir/news/86262468/Baqaei-Iran-to-pursue-justice-for-victims-of-US-attack-on-Lamerd",
@@ -581,17 +593,6 @@
    "tags": [
     "strikes",
     "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "About 1,400 Yemenis flee to Djibouti within 24 hours",
-   "url": "https://www.aljazeera.com/news/2026/9/13/1400-yemenis-flee-to-djibouti-within-24-hours?traffic_source=rss",
-   "published": "2026-09-13T04:40:18+00:00",
-   "summary": "Refugees from Yemen arrive in Obock, Djibouti, as Houthis tighten their grip on the Bab al-Mandeb strait.",
-   "tags": [
-    "shipping"
    ],
    "highlight": false
   },
