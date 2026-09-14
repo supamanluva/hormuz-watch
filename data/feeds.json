@@ -1,5 +1,5 @@
 {
- "asOf": "2026-09-14T14:24:12.964486+00:00",
+ "asOf": "2026-09-14T14:50:32.700614+00:00",
  "items": [
   {
    "source": "IRNA (Iran state wire)",
@@ -22,6 +22,15 @@
     "strikes"
    ],
    "highlight": false
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "The only control or “guardrails” that AI needs is a STRONG AND SMART (High IQ!) PRESIDENT, and the U.S.A. has that, in spades! The Trump Administration has stopped AI “people” from doing bad, or potentially bad, “things,“ like Dario (Anthropic!), who is now pretending to be a “perfect little angel” - and we will continue to do so! We already have tremendous CRIMINAL and REGULATORY power over these companies! There is a SICK conspiracy going on against AI and Data Centers, and the only one that is happy about it is China. WHOEVER WINS AI, WINS! We are leading China, and all others, and will continue to do so. Conspiracy Theorists, Treasonists, Traitors, and Leakers, BEWARE! Thank you for your attention to this matter! President DONALD J. TRUMP",
+   "url": "https://www.trumpstruth.org/statuses/41712",
+   "published": "2026-09-14T13:58:24+00:00",
+   "summary": "The only control or “guardrails” that AI needs is a STRONG AND SMART (High IQ!) PRESIDENT, and the U.S.A. has that, in spades! The Trump Administration has stopped AI “people” from doing bad, or potentially bad, “things,“ like Dario (Anthropic!), who is now pretending to be a “perfect little angel” - and we will continue to do so! We already have tremendous CRIMINAL and REGULATORY power over these",
+   "tags": [],
+   "highlight": true
   },
   {
    "source": "Al Jazeera",
@@ -638,17 +647,6 @@
     "strikes",
     "sanctions",
     "nuclear"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iranian, Omani FMs speak ahead of Hormuz meeting",
-   "url": "https://en.irna.ir/news/86262086/Iranian-Omani-FMs-speak-ahead-of-Hormuz-meeting",
-   "published": "2026-09-12T16:04:25+00:00",
-   "summary": "Tehran, IRNA –Foreign Minister Abbas Araghchi has held a telephone conversation with his Omani counterpart, Badr bin Hamad Al Busaidi, to discuss issues of mutual interest.",
-   "tags": [
-    "shipping"
    ],
    "highlight": false
   }
