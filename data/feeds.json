@@ -1,6 +1,18 @@
 {
- "asOf": "2026-09-14T09:51:43.991943+00:00",
+ "asOf": "2026-09-14T10:22:09.351703+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Foreign Ministry dismisses allegations of Iran’s involvement in Saudi pipeline attack",
+   "url": "https://en.irna.ir/news/86263752/Foreign-Ministry-dismisses-allegations-of-Iran-s-involvement",
+   "published": "2026-09-14T10:07:44+00:00",
+   "summary": "Tehran, IRNA – Foreign Ministry spokesperson Esmaeil Baqaei has dismissed US allegations of Iran’s involvement in a recent attack from Iraqi soil that struck Saudi Arabia’s East-West oil pipeline, saying that Washington is making false claims to deepen disputes between regional countries and complicate the situation.",
+   "tags": [
+    "strikes",
+    "oil"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Yemen gov’t forces advance in Taiz as Houthis claim attack on Saudi Arabia",
@@ -633,17 +645,6 @@
    "summary": "Tehran, IRNA – Foreign Ministry spokesperson Esmaeil Baqaei has rejected criticism that announcing a joint meeting between Iran and the Persian Gulf states contributed to a decline in global oil prices, saying diplomatic decisions cannot be made based on a single factor and that the priority is to secure national interests at the appropriate time.",
    "tags": [
     "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran prioritizes peace, respect for its rights, calls for lifting sanctions: Pezeshkian",
-   "url": "https://en.irna.ir/news/86261568/Iran-prioritizes-peace-respects-for-rights-calls-for-lifting",
-   "published": "2026-09-12T08:07:43+00:00",
-   "summary": "Tehran, IRNA — President Masoud Pezeshkian has emphasized that Iran prioritizes peace and seeks respect for its international rights and the lifting of sanctions, stressing that Tehran does not seek war or its continuation despite the suffering inflicted on the Iranian people.",
-   "tags": [
-    "sanctions"
    ],
    "highlight": false
   }
