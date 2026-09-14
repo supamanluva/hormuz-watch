@@ -1,6 +1,28 @@
 {
- "asOf": "2026-09-14T13:49:44.843963+00:00",
+ "asOf": "2026-09-14T14:24:12.964486+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Israeli occupation regime repeatedly violates ceasefire agreement",
+   "url": "https://en.irna.ir/news/86264034/Israeli-occupation-regime-repeatedly-violates-ceasefire-agreement",
+   "published": "2026-09-14T14:15:06+00:00",
+   "summary": "Tehran, IRNA – The daily report provides a summary of the violations committed by the occupation forces since the ceasefire agreement came into force, documenting these through figures and field developments.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Why is Trump warning Zelenskyy not to hit Russian diesel refineries?",
+   "url": "https://www.aljazeera.com/economy/2026/9/14/why-is-trump-warning-zelenskyy-not-to-hit-russian-diesel-refineries?traffic_source=rss",
+   "published": "2026-09-14T14:04:55+00:00",
+   "summary": "Trump blames Ukraine’s attacks for global diesel shortage, linking the crisis to Russia&#039;s war rather than US actions.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "‘Attacks will be fully autonomous’: Russia, Ukraine race towards AI warfare",
@@ -533,18 +555,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "Israeli attack on Gaza kills two Palestinians",
-   "url": "https://www.aljazeera.com/news/2026/9/13/israeli-attack-on-gaza-kills-two-palestinians?traffic_source=rss",
-   "published": "2026-09-13T10:22:01+00:00",
-   "summary": "Israeli strikes on Palestinian territory persist despite a &#039;ceasefire&#039; brokered by the United States.",
-   "tags": [
-    "strikes",
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
    "source": "Trump · Truth Social",
    "title": "[No Title] - Post from September 13, 2026",
    "url": "https://www.trumpstruth.org/statuses/41700",
@@ -639,17 +649,6 @@
    "summary": "Tehran, IRNA –Foreign Minister Abbas Araghchi has held a telephone conversation with his Omani counterpart, Badr bin Hamad Al Busaidi, to discuss issues of mutual interest.",
    "tags": [
     "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Why Iran seeks permanent end to war, not temporary ceasefire?",
-   "url": "https://en.irna.ir/news/86261825/Why-Iran-seeks-permanent-end-to-war-not-temporary-ceasefire",
-   "published": "2026-09-12T10:45:49+00:00",
-   "summary": "Tehran, IRNA – The Islamic Republic of Iran has emphasized that the key objective in the ongoing war is to eliminate the threat and secure a decisive and permanent end to the war, stressing that a temporary ceasefire without guarantees against renewed aggression would not provide lasting stability.",
-   "tags": [
-    "diplomacy"
    ],
    "highlight": false
   }
