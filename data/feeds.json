@@ -1,6 +1,18 @@
 {
- "asOf": "2026-09-14T11:31:31.677254+00:00",
+ "asOf": "2026-09-14T11:50:19.399907+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Blocking Iran’s nuclear chief from IAEA conference marks clear violation of rights: Envoy",
+   "url": "https://en.irna.ir/news/86263805/Blocking-Iran-s-nuclear-chief-from-IAEA-conference-marks-clear",
+   "published": "2026-09-14T11:44:56+00:00",
+   "summary": "London, IRNA — Iran’s permanent representative to international organizations in Vienna, Reza Najafi, has described preventing the Atomic Energy Organization of Iran (AEOI) chief, Mohammad Eslami, from attending the International Atomic Energy Agency (IAEA) General Conference as a clear violation of Iran’s rights.",
+   "tags": [
+    "diplomacy",
+    "nuclear"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "US says it’s clearing Hormuz traffic: Why are oil futures beyond $100?",
@@ -637,17 +649,6 @@
    "summary": "Tehran, IRNA — The head of Iran’s Civil Aviation Organization has condemned the United States for imposing broad and unilateral sanctions on the country’s civil aviation sector, warning that the continuation of such measures could harm regional and international aviation.",
    "tags": [
     "sanctions"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Malaysian envoy welcomes Iran Air’s return to East Asia",
-   "url": "https://en.irna.ir/news/86261720/Malaysian-envoy-welcomes-Iran-Air-s-return-to-East-Asia",
-   "published": "2026-09-12T09:36:49+00:00",
-   "summary": "Tehran, IRNA — The Malaysian ambassador to Iran has welcomed the resumption of Iran Air’s flights to Malaysia.",
-   "tags": [
-    "diplomacy"
    ],
    "highlight": false
   }
