@@ -1,6 +1,29 @@
 {
- "asOf": "2026-09-14T08:55:04.545857+00:00",
+ "asOf": "2026-09-14T09:29:48.768449+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Israeli regime continues attacks on Lebanon",
+   "url": "https://en.irna.ir/news/86263356/Israeli-regime-continues-attacks-on-Lebanon",
+   "published": "2026-09-14T09:20:48+00:00",
+   "summary": "Tehran, IRNA — Lebanese sources have reported continued violations of the ceasefire by Israeli regime forces, including airstrikes, artillery fire, and destructive actions in southern Lebanon.",
+   "tags": [
+    "strikes",
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "South Korean officials decry ‘worst ever’ Asian Games accommodation",
+   "url": "https://www.aljazeera.com/sports/2026/9/14/south-korean-officials-decry-worst-ever-asian-games-accommodation?traffic_source=rss",
+   "published": "2026-09-14T08:49:29+00:00",
+   "summary": "Organisers in Japan say they had &#039;neither the manpower nor the budget&#039; to deal with the accommodation shortage.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "IRGC downs advanced MQ-1 drone over Strait of Hormuz",
@@ -64,13 +87,12 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "Iran war live: Oman says Hormuz talks with Iran, Gulf states postponed",
+   "title": "Iran war live: Houthis claim ‘direct hits’ on Saudi airbase after strikes",
    "url": "https://www.aljazeera.com/news/liveblog/2026/9/14/iran-war-live-oman-says-hormuz-talks-with-iran-gulf-states-postponed?traffic_source=rss",
    "published": "2026-09-14T00:00:00+00:00",
-   "summary": "Oman says Hormuz talks with Iran and Gulf states are postponed &#039;in the interests of consensus&#039;.",
+   "summary": "No response from Saudi Arabia after Yemen&#039;s rebels say drone-and-missile attack inflicted damage on key military site.",
    "tags": [
-    "diplomacy",
-    "shipping"
+    "strikes"
    ],
    "highlight": false
   },
@@ -515,17 +537,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "Bahrain says it will not participate in Iran’s proposed Hormuz meeting",
-   "url": "https://www.aljazeera.com/news/2026/9/12/bahrain-says-it-will-not-participate-in-irans-proposed-hormuz-meeting?traffic_source=rss",
-   "published": "2026-09-12T19:34:04+00:00",
-   "summary": "Iran tells Al Jazeera that Monday&#039;s meeting is a sign of &#039;good intentions&#039; towards neighbouring countries.",
-   "tags": [
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
    "source": "IRNA (Iran state wire)",
    "title": "Yemen warns Saudi attacks will not go unpunished",
    "url": "https://en.irna.ir/news/86262138/Yemen-warns-Saudi-attacks-will-not-go-unpunished",
@@ -633,18 +644,6 @@
    "summary": "Tehran, IRNA — President Masoud Pezeshkian has emphasized that Iran prioritizes peace and seeks respect for its international rights and the lifting of sanctions, stressing that Tehran does not seek war or its continuation despite the suffering inflicted on the Iranian people.",
    "tags": [
     "sanctions"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "AEOI chief heads to Vienna to attend IAEA General Conference",
-   "url": "https://en.irna.ir/news/86261460/AEOI-chief-heads-to-Vienna-for-attending-IAEA-GC-meeting",
-   "published": "2026-09-12T08:05:17+00:00",
-   "summary": "Tehran, IRNA – The head of the Atomic Energy Organization of Iran (AEOI) has traveled to Vienna to attend the 70th IAEA General Conference and hold talks with diplomats on nuclear cooperation.",
-   "tags": [
-    "diplomacy",
-    "nuclear"
    ],
    "highlight": false
   }
