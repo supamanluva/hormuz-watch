@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-14T20:20:34.192616+00:00",
+ "asOf": "2026-09-14T20:50:23.501674+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Super-tanker explodes after striking a naval mine; Strait of Hormuz under IRGC Navy control",
+   "url": "https://en.irna.ir/news/86264191/Super-tanker-explodes-after-striking-a-naval-mine-Strait-of",
+   "published": "2026-09-14T20:26:49+00:00",
+   "summary": "Tehran, IRNA – The IRGC Navy Command announced that the supertanker \"Algaya\" exploded south of the Strait of Hormuz after striking naval mines.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "White House",
    "title": "Nominations Sent to the Senate",
@@ -617,15 +628,6 @@
     "diplomacy",
     "shipping"
    ],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "Presidential Message on the Anniversary of the Battle of Fort McHenry",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/09/presidential-message-on-the-anniversary-of-the-battle-of-fort-mchenry/",
-   "published": "2026-09-13T21:37:19+00:00",
-   "summary": "In September of 1814, 1,000 American patriots heroically defended our young Nation’s sovereignty at the Battle of Fort McHenry, where they halted the British invasion of Baltimore in a critical turning point in the War of 1812.&#160; Despite relentless cannon bombardment from the most powerful navy of its age, American forces stood strong.&#160; When dawn [&#8230;] The post Presidential Message on",
-   "tags": [],
    "highlight": false
   }
  ]
