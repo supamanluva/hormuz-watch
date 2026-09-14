@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-14T09:29:48.768449+00:00",
+ "asOf": "2026-09-14T09:51:43.991943+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Yemen gov’t forces advance in Taiz as Houthis claim attack on Saudi Arabia",
+   "url": "https://www.aljazeera.com/news/2026/9/14/yemen-govt-forces-advance-in-taiz-as-houthis-claim-attack-on-saudi-arabia?traffic_source=rss",
+   "published": "2026-09-14T09:21:56+00:00",
+   "summary": "Yemeni government forces have advanced in western Taiz after successfully repelling a Houthi offensive.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Israeli regime continues attacks on Lebanon",
@@ -522,17 +533,6 @@
    "summary": "Tehran, IRNA – News sources reported that the Israeli regime fighter jets have bombed various areas in southern Lebanon.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Israel bombs southern Lebanon as talks postponed",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/israel-bombs-southern-lebanon-as-talks-postponed?traffic_source=rss",
-   "published": "2026-09-12T19:56:09+00:00",
-   "summary": "The next round of talks between Israel and Lebanon, mediated by the US, has been postponed.",
-   "tags": [
-    "diplomacy"
    ],
    "highlight": false
   },
