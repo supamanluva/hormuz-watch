@@ -1,6 +1,35 @@
 {
- "asOf": "2026-09-14T14:50:32.700614+00:00",
+ "asOf": "2026-09-14T15:22:02.061215+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Israel violates Gaza ceasefire 4,803 times, killing 1,369 Palestinians: Report",
+   "url": "https://en.irna.ir/news/86264083/Israel-violates-Gaza-ceasefire-4-803-times-killing-1-369-Palestinians",
+   "published": "2026-09-14T15:18:55+00:00",
+   "summary": "Tehran, IRNA - Israeli occupation forces committed 24 new violations of the ceasefire agreement in the Gaza Strip over 24 hours ending Friday, bringing the total number of recorded violations to 4,803 since the agreement came into force 335 days ago, according to a daily monitoring report.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "UN Press",
+   "title": "Ahead of World Maritime Day, Secretary-General Underlines Need for Safe Seafaring",
+   "url": "https://press.un.org/en/2026/sgsm23275.doc.htm",
+   "published": "2026-09-14T14:55:33+00:00",
+   "summary": "Following is UN Secretary-General António Guterres’ message for World Maritime Day, observed on 24 September:",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "UN Press",
+   "title": "Marking International Day amidst Flagging Global Solidarity, Secretary-General Urges Deliberate Investment in Peace",
+   "url": "https://press.un.org/en/2026/sgsm23274.doc.htm",
+   "published": "2026-09-14T14:44:30+00:00",
+   "summary": "Following is UN Secretary-General António Guterres’ message for the International Day of Peace, observed on 21 September:",
+   "tags": [],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Israeli occupation regime repeatedly violates ceasefire agreement",
@@ -612,41 +641,6 @@
    "tags": [
     "strikes",
     "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Israeli regime continues attacks on Lebanese territory",
-   "url": "https://en.irna.ir/news/86262172/Israeli-regime-continues-attacks-on-Lebanese-territory",
-   "published": "2026-09-12T20:04:00+00:00",
-   "summary": "Tehran, IRNA – News sources reported that the Israeli regime fighter jets have bombed various areas in southern Lebanon.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Yemen warns Saudi attacks will not go unpunished",
-   "url": "https://en.irna.ir/news/86262138/Yemen-warns-Saudi-attacks-will-not-go-unpunished",
-   "published": "2026-09-12T18:09:49+00:00",
-   "summary": "Tehran, IRNA – Yemen’s Armed Forces spokesperson Brigadier General Yahya Saree says that continued Saudi attacks on Yemen would not go unanswered, following Saudi airstrikes on several areas in the country.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "BRICS declaration aligns with Iran’s key positions: Gharibabadi",
-   "url": "https://en.irna.ir/news/86262089/BRICS-declaration-aligns-with-Iran-s-key-positions-Gharibabadi",
-   "published": "2026-09-12T16:28:57+00:00",
-   "summary": "Tehran, IRNA – Deputy Foreign Minister for Legal and International Affairs Kazem Gharibabadi has emphasized that BRICS’ New Delhi Declaration aligns with Iran’s positions on key issues, including opposition to unilateral sanctions, condemnation of attacks on peaceful nuclear facilities, support for Iran’s World Trade Organization (WTO) membership bid, and backing for Palestinian rights.",
-   "tags": [
-    "strikes",
-    "sanctions",
-    "nuclear"
    ],
    "highlight": false
   }
