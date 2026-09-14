@@ -1,6 +1,15 @@
 {
- "asOf": "2026-09-14T19:17:52.307862+00:00",
+ "asOf": "2026-09-14T19:49:57.832291+00:00",
  "items": [
+  {
+   "source": "White House",
+   "title": "Nominations Sent to the Senate",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/09/nominations-sent-to-the-senate-9fc3/",
+   "published": "2026-09-14T19:25:34+00:00",
+   "summary": "NOMINATIONS SENT TO THE SENATE: Samuel D. Adkisson, of Tennessee, to be United States District Judge for the Eastern District of Tennessee. Philip Axt, of North Dakota, to be United States District Judge for the District of North Dakota. Daniel Lewis Ballou, of Kentucky, to be United States District Judge for the Eastern District of [&#8230;] The post Nominations Sent to the Senate appeared first ",
+   "tags": [],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "NATO pledges increased Ukraine support as Russia strikes near border",
@@ -618,17 +627,6 @@
    "summary": "Western officials including ex-UK PM Boris Johnson were nearby when Russia hit a train at the Poland-Ukraine border.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Can a warming Arctic become an important commercial highway?",
-   "url": "https://www.aljazeera.com/video/inside-story/2026/9/13/can-a-warming-arctic-become-an-important-commercial-highway?traffic_source=rss",
-   "published": "2026-09-13T20:44:51+00:00",
-   "summary": "The conflict in the Middle East raises security concerns about traditional shipping routes.",
-   "tags": [
-    "shipping"
    ],
    "highlight": false
   }
