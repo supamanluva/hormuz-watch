@@ -1,6 +1,28 @@
 {
- "asOf": "2026-09-14T20:50:23.501674+00:00",
+ "asOf": "2026-09-14T21:17:48.663913+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "What could stop the Houthis’ advance across Yemen?",
+   "url": "https://www.aljazeera.com/video/inside-story/2026/9/14/what-could-stop-the-houthis-advance-across-yemen?traffic_source=rss",
+   "published": "2026-09-14T20:55:57+00:00",
+   "summary": "Iran-backed group seized areas on Red Sea coastline.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Austria denies entry to Iranian official after UN ruling",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/austria-denies-entry-to-iranian-official-after-un-ruling?traffic_source=rss",
+   "published": "2026-09-14T20:41:21+00:00",
+   "summary": "Iran accused Austria of reversing its approval of an Iranian delegation to the IAEA under external pressure.",
+   "tags": [
+    "nuclear"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Super-tanker explodes after striking a naval mine; Strait of Hormuz under IRGC Navy control",
@@ -9,6 +31,17 @@
    "summary": "Tehran, IRNA – The IRGC Navy Command announced that the supertanker \"Algaya\" exploded south of the Strait of Hormuz after striking naval mines.",
    "tags": [
     "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Finland shelters under French nuclear umbrella amid Russian, US uncertainty",
+   "url": "https://www.aljazeera.com/news/2026/9/14/finland-shelters-under-french-nuclear-umbrella-amid-russian-us-uncertainty?traffic_source=rss",
+   "published": "2026-09-14T20:20:20+00:00",
+   "summary": "Finland becomes 10th European state to sign up to military cooperation and nuclear deterrence initiative.",
+   "tags": [
+    "nuclear"
    ],
    "highlight": false
   },
@@ -599,36 +632,6 @@
    "summary": "",
    "tags": [],
    "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Iranians Are Running Out of Gas as Economic Squeeze Takes Hold:",
-   "url": "https://www.trumpstruth.org/statuses/41704",
-   "published": "2026-09-13T22:43:20+00:00",
-   "summary": "Iranians Are Running Out of Gas as Economic Squeeze Takes Hold: https://www. wsj.com/world/middle-east/iran ians-are-running-out-of-gas-as-economic-squeeze-takes-hold-67e38a7b",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from September 13, 2026",
-   "url": "https://www.trumpstruth.org/statuses/41703",
-   "published": "2026-09-13T22:06:16+00:00",
-   "summary": "",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Tehran and Muscat delay talks, citing regional consensus need",
-   "url": "https://www.aljazeera.com/news/2026/9/13/tehran-and-muscat-delay-talks-citing-regional-consensus-need?traffic_source=rss",
-   "published": "2026-09-13T21:50:50+00:00",
-   "summary": "Tehran and Muscat agree to delay dialogue to prioritise regional consensus amid tensions in the Strait of Hormuz.",
-   "tags": [
-    "diplomacy",
-    "shipping"
-   ],
-   "highlight": false
   }
  ]
 }
