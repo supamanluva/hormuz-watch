@@ -1,6 +1,76 @@
 {
- "asOf": "2026-09-14T10:22:09.351703+00:00",
+ "asOf": "2026-09-14T11:31:31.677254+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "US says it’s clearing Hormuz traffic: Why are oil futures beyond $100?",
+   "url": "https://www.aljazeera.com/news/2026/9/14/us-says-its-clearing-hormuz-traffic-why-are-oil-futures-beyond-100?traffic_source=rss",
+   "published": "2026-09-14T11:06:17+00:00",
+   "summary": "Brent crude crosses $107 as Hormuz disruptions and Saudi pipeline shutdown threaten global oil supply.",
+   "tags": [
+    "strikes",
+    "shipping",
+    "oil"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Strait of Hormuz talks postponed due to Yemen events, says Iran",
+   "url": "https://www.aljazeera.com/news/2026/9/14/strait-of-hormuz-talks-postponed-due-to-yemen-events-says-iran?traffic_source=rss",
+   "published": "2026-09-14T10:58:07+00:00",
+   "summary": "Foreign Ministry spokesperson Esmaeil Baghaei says Iran does not interfere in Yemeni affairs.",
+   "tags": [
+    "diplomacy",
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "US may be ‘forced to intervene’ in the Red Sea",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/us-may-be-forced-to-intervene-in-the-red-sea?traffic_source=rss",
+   "published": "2026-09-14T10:56:41+00:00",
+   "summary": "US may be &#039;forced to intervene&#039; in the Red Sea",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "IAEA General Conference kicks off in Vienna with US sabotage",
+   "url": "https://en.irna.ir/news/86263804/IAEA-General-Conference-kicks-off-in-Vienna-with-US-obstructing",
+   "published": "2026-09-14T10:43:14+00:00",
+   "summary": "London, IRNA – The International Atomic Energy Agency (IAEA) has begun its 70th General Conference, with the United States obstructing Iran’s participation.",
+   "tags": [
+    "nuclear"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran’s nuclear policy unchanged; deterrence debate natural after attacks on nuclear sites: Iran",
+   "url": "https://en.irna.ir/news/86263740/Iran-s-nuclear-policy-unchanged-deterrence-debate-natural-after",
+   "published": "2026-09-14T10:33:36+00:00",
+   "summary": "Tehran, IRNA – Iran’s nuclear policy remains clear, and discussions about nuclear deterrence are not unusual after repeated attacks and acts of sabotage targeting the country’s nuclear facilities, Foreign Ministry spokesman Esmaeil Baqaei says, rejecting claims that Tehran has changed its nuclear doctrine or is considering withdrawal from the Nuclear Non-Proliferation Treaty (NPT).",
+   "tags": [
+    "strikes",
+    "nuclear"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "UNSC divided over E3’s ‘snapback’ move on Iran: Baqaei",
+   "url": "https://en.irna.ir/news/86263745/UNSC-divided-over-E3-s-snapback-move-on-Iran-Baqaei",
+   "published": "2026-09-14T10:25:33+00:00",
+   "summary": "Tehran, IRNA – Foreign Ministry spokesperson Esmaeil Baqaei, referring to Europe’s push for the so-called ‘snapback’ sanctions mechanism against Iran, says UN Security Council members have not reached a consensus yet.",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Foreign Ministry dismisses allegations of Iran’s involvement in Saudi pipeline attack",
@@ -503,41 +573,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "Houthi projectile wounds two, damages mosque in Jazan region, Saudi says",
-   "url": "https://www.aljazeera.com/news/2026/9/13/houthi-projectile-wounds-two-damages-mosque-in-jazan-region-saudi-says?traffic_source=rss",
-   "published": "2026-09-13T00:24:29+00:00",
-   "summary": "The Houthis say they carried out a strike targeting a Saudi military base in Sharurah, Najran province.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iran war live: Commercial ship attacked in Hormuz, killing 1, wounding 4",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/9/13/iran-war-live-saudi-arabia-and-houthis-trade-strikes-over-bab-al-mandeb?traffic_source=rss",
-   "published": "2026-09-13T00:00:40+00:00",
-   "summary": "Latest strike on cargo vessel comes as Iran leaders plan to meet Gulf officials to discuss control over key waterway.",
-   "tags": [
-    "strikes",
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "First naval battle between drones takes place in the Black Sea",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/first-naval-battle-between-drones-takes-place-in-the-black-sea?traffic_source=rss",
-   "published": "2026-09-12T21:38:24+00:00",
-   "summary": "The first naval battle between two Unmanned Surface Vessels (USVs) has taken place in the Black Sea.",
-   "tags": [
-    "strikes",
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
    "source": "IRNA (Iran state wire)",
    "title": "Israeli regime continues attacks on Lebanese territory",
    "url": "https://en.irna.ir/news/86262172/Israeli-regime-continues-attacks-on-Lebanese-territory",
@@ -613,38 +648,6 @@
    "summary": "Tehran, IRNA — The Malaysian ambassador to Iran has welcomed the resumption of Iran Air’s flights to Malaysia.",
    "tags": [
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Such a great golfer. Too bad I have very little time to play!!!",
-   "url": "https://www.trumpstruth.org/statuses/41699",
-   "published": "2026-09-12T09:06:42+00:00",
-   "summary": "Such a great golfer. Too bad I have very little time to play!!!",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Envoy says IAEA BoG resolution not effective",
-   "url": "https://en.irna.ir/news/86261510/Envoy-says-IAEA-BoG-resolution-not-effective",
-   "published": "2026-09-12T08:44:19+00:00",
-   "summary": "London, IRNA — Iran’s permanent ambassador to the United Nations and other international organizations in Vienna, Reza Najafi, has criticized Western nations for politicizing the International Atomic Energy Agency (IAEA) Board of Governors and stressed that there wouldn’t be any actual effect from this resolution.",
-   "tags": [
-    "diplomacy",
-    "nuclear"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Diplomatic gains cannot be reduced to oil prices: FM spokesperson",
-   "url": "https://en.irna.ir/news/86261602/Diplomatic-gains-cannot-be-reduced-to-oil-prices-FM-spokesperson",
-   "published": "2026-09-12T08:33:54+00:00",
-   "summary": "Tehran, IRNA – Foreign Ministry spokesperson Esmaeil Baqaei has rejected criticism that announcing a joint meeting between Iran and the Persian Gulf states contributed to a decline in global oil prices, saying diplomatic decisions cannot be made based on a single factor and that the priority is to secure national interests at the appropriate time.",
-   "tags": [
-    "oil"
    ],
    "highlight": false
   }
