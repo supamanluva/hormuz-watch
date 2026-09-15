@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-15T19:50:40.754058+00:00",
+ "asOf": "2026-09-15T20:20:52.597866+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "NATO jet shoots down suspected Russian drone over Lithuania",
+   "url": "https://www.aljazeera.com/news/2026/9/15/nato-jet-shoots-down-suspected-russian-drone-over-lithuania?traffic_source=rss",
+   "published": "2026-09-15T19:59:00+00:00",
+   "summary": "EU chief warns of wider conflict as border incursions stoke fears that Ukraine war is spilling into neighbouring states.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "NATO downs drone over Lithuania, ‘probably’ launched by Russia",
@@ -598,17 +609,6 @@
    "summary": "Tehran, IRNA – The IRGC Navy Command announced that the supertanker \"Algaya\" exploded south of the Strait of Hormuz after striking naval mines.",
    "tags": [
     "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Finland shelters under French nuclear umbrella amid Russian, US uncertainty",
-   "url": "https://www.aljazeera.com/news/2026/9/14/finland-shelters-under-french-nuclear-umbrella-amid-russian-us-uncertainty?traffic_source=rss",
-   "published": "2026-09-14T20:20:20+00:00",
-   "summary": "Finland becomes 10th European state to sign up to military cooperation and nuclear deterrence initiative.",
-   "tags": [
-    "nuclear"
    ],
    "highlight": false
   }
