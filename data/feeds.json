@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-15T08:29:42.134814+00:00",
+ "asOf": "2026-09-15T08:53:41.034621+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Houthis say air strikes hit Yemen after Saudi Arabia vows ‘firm’ response",
+   "url": "https://www.aljazeera.com/news/2026/9/15/houthis-report-air-strikes-in-yemen-after-saudi-arabia-vows-firm-response?traffic_source=rss",
+   "published": "2026-09-15T08:11:09+00:00",
+   "summary": "Saudi-led coalition promises to respond &#039;firmly&#039; to Houthi strikes on urban areas in Saudi Arabia.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Palestine weekly: Settlement sanctions spark diplomatic crisis",
@@ -590,17 +601,6 @@
    "summary": "Tehran, IRNA – The daily report provides a summary of the violations committed by the occupation forces since the ceasefire agreement came into force, documenting these through figures and field developments.",
    "tags": [
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Why is Trump warning Zelenskyy not to hit Russian diesel refineries?",
-   "url": "https://www.aljazeera.com/economy/2026/9/14/why-is-trump-warning-zelenskyy-not-to-hit-russian-diesel-refineries?traffic_source=rss",
-   "published": "2026-09-14T14:04:55+00:00",
-   "summary": "Trump blames Ukraine’s attacks for global diesel shortage, linking the crisis to Russia&#039;s war rather than US actions.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   }
