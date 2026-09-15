@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-15T12:55:13.479780+00:00",
+ "asOf": "2026-09-15T13:22:53.906072+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iraq repatriates 48 Iranian prisoners under bilateral agreement",
+   "url": "https://en.irna.ir/news/86264937/Iraq-repatriates-48-Iranian-prisoners-under-bilateral-agreement",
+   "published": "2026-09-15T12:55:38+00:00",
+   "summary": "Tehran, IRNA – The Director-General of Consular Affairs, Ministry of Foreign Affairs of the Islamic Republic of Iran, Mojtaba Shasti Karimi, says Iraq has repatriated 48 Iranian prisoners under a bilateral agreement on the transfer of sentenced prisoners.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Zelenskyy says Ukraine will pause attacks if Russia spares infrastructure",
@@ -599,17 +610,6 @@
    "summary": "Following is UN Secretary-General António Guterres’ message for the third International Conference on Health and Biodiversity, held in Galway, Ireland, today:",
    "tags": [],
    "highlight": false
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "The failing Nation of Iran wants to make a deal, quickly and badly. I will determine whether or not the U.S.A. will choose to engage - The concept of which we are open to. Thank you for your attention to this matter! President DONALD J. TRUMP",
-   "url": "https://www.trumpstruth.org/statuses/41715",
-   "published": "2026-09-14T15:32:27+00:00",
-   "summary": "The failing Nation of Iran wants to make a deal, quickly and badly. I will determine whether or not the U.S.A. will choose to engage - The concept of which we are open to. Thank you for your attention to this matter! President DONALD J. TRUMP",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": true
   }
  ]
 }
