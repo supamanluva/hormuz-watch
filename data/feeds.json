@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-15T14:50:35.205748+00:00",
+ "asOf": "2026-09-15T15:20:28.867537+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Can the Houthis hold on to Yemen’s strategic western coast?",
+   "url": "https://www.aljazeera.com/news/2026/9/15/can-the-houthis-hold-on-to-yemens-strategic-western-coast?traffic_source=rss",
+   "published": "2026-09-15T14:28:31+00:00",
+   "summary": "Houthi coastal advances face hurdles: geography, local resistance and fierce government counterattacks.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Interior minister heads to Turkey for talks on security cooperation",
@@ -600,15 +611,6 @@
     "diplomacy",
     "shipping"
    ],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "General Assembly Mourns Late King of Norway, Champion of Global Cooperation",
-   "url": "https://press.un.org/en/2026/ga12783.doc.htm",
-   "published": "2026-09-14T16:12:18+00:00",
-   "summary": "The General Assembly convened today to pay tribute to King Harald V of Norway, who died on 26 August.",
-   "tags": [],
    "highlight": false
   }
  ]
