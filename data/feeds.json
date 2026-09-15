@@ -1,6 +1,29 @@
 {
- "asOf": "2026-09-15T17:50:15.924401+00:00",
+ "asOf": "2026-09-15T18:24:05.797650+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Egypt’s Sisi meets MBS, backs Saudi call for secure Red Sea navigation",
+   "url": "https://www.aljazeera.com/news/2026/9/15/egypts-sisi-meets-mbs-backs-saudi-call-for-secure-red-sea-navigation?traffic_source=rss",
+   "published": "2026-09-15T18:05:24+00:00",
+   "summary": "Red Sea disruptions impact Egypt’s economy, with Suez Canal revenues dropping by $7bn in two years.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Kamalvandi at IAEA conference: Iran's nuclear industry will not be destroyed by military attack",
+   "url": "https://en.irna.ir/news/86265194/Kamalvandi-at-IAEA-conference-Iran-s-nuclear-industry-will-not",
+   "published": "2026-09-15T17:51:33+00:00",
+   "summary": "The spokesperson for the Atomic Energy Organization of Iran emphasized at the IAEA’s 70th General Conference that military attacks, sabotage, and assassinations cannot destroy Iran’s deeply rooted nuclear industry, and that the country will not relinquish its nuclear rights.",
+   "tags": [
+    "strikes",
+    "nuclear"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Iran says US bid to block its IAEA conference committee membership fails",
@@ -584,29 +607,6 @@
    "summary": "The $5,000 Trump Dividend, to be given to all Adults in the United States due to the fact that our Country is taking in Trillions of Dollars of Economic Development, Investment, and Pure SUCCESS, is being criticized by “Dumocrats” who are hoping that it never happens — But it will! As an example, the Dumocrats said THE GREAT BIG BEAUTIFUL BILL, one of the largest ever approved by Congress, or sign",
    "tags": [],
    "highlight": true
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "JD Vance insists US is ‘on top of’ Houthi advance in Red Sea",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/jd-vance-insists-us-is-on-top-of-houthi-advance-in-red-sea?traffic_source=rss",
-   "published": "2026-09-14T17:16:18+00:00",
-   "summary": "US Vice President JD Vance says the Trump administration is “very much on top of” the Houthi advance in Yemen.",
-   "tags": [
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Why Middle East tensions are pushing oil prices above $100",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/why-middle-east-tensions-are-pushing-oil-prices-above-100?traffic_source=rss",
-   "published": "2026-09-14T16:36:05+00:00",
-   "summary": "Brent crude has risen above $100 a barrel as war in Iran disrupts shipping through the Strait of Hormuz.",
-   "tags": [
-    "shipping",
-    "oil"
-   ],
-   "highlight": false
   }
  ]
 }
