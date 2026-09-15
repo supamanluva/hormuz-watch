@@ -1,6 +1,18 @@
 {
- "asOf": "2026-09-15T09:24:19.232809+00:00",
+ "asOf": "2026-09-15T09:39:06.479210+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Fourth intruding American MQ-1 drone shot down over Hormuz: IRGC",
+   "url": "https://en.irna.ir/news/86264716/Fourth-intruding-American-MQ-1-drone-shot-down-over-Hormuz-IRGC",
+   "published": "2026-09-15T09:35:06+00:00",
+   "summary": "Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) has shot down one more advanced MQ-1 drone over the Strait of Hormuz, bringing the number of unmanned aerial vehicles (UAVs) of the US enemy intercepted this week to four.",
+   "tags": [
+    "strikes",
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Houthis say air strikes hit Yemen after Saudi Arabia vows ‘firm’ response",
@@ -591,17 +603,6 @@
    "published": "2026-09-14T14:44:30+00:00",
    "summary": "Following is UN Secretary-General António Guterres’ message for the International Day of Peace, observed on 21 September:",
    "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Israeli occupation regime repeatedly violates ceasefire agreement",
-   "url": "https://en.irna.ir/news/86264034/Israeli-occupation-regime-repeatedly-violates-ceasefire-agreement",
-   "published": "2026-09-14T14:15:06+00:00",
-   "summary": "Tehran, IRNA – The daily report provides a summary of the violations committed by the occupation forces since the ceasefire agreement came into force, documenting these through figures and field developments.",
-   "tags": [
-    "diplomacy"
-   ],
    "highlight": false
   }
  ]
