@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-15T00:56:19.709944+00:00",
+ "asOf": "2026-09-15T01:33:16.268943+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Russia resupplies military bases in Syria for first time under new deal",
+   "url": "https://www.aljazeera.com/news/2026/9/15/russia-resupplies-military-bases-in-syria-for-first-time-under-new-deal?traffic_source=rss",
+   "published": "2026-09-15T00:43:47+00:00",
+   "summary": "Moscow maintains military foothold in the Mediterranean following talks with Damascus",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Geneva talks put Rwanda-DRC peace deal to the test",
@@ -607,18 +618,6 @@
    "published": "2026-09-14T10:43:14+00:00",
    "summary": "London, IRNA – The International Atomic Energy Agency (IAEA) has begun its 70th General Conference, with the United States obstructing Iran’s participation.",
    "tags": [
-    "nuclear"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran’s nuclear policy unchanged; deterrence debate natural after attacks on nuclear sites: Iran",
-   "url": "https://en.irna.ir/news/86263740/Iran-s-nuclear-policy-unchanged-deterrence-debate-natural-after",
-   "published": "2026-09-14T10:33:36+00:00",
-   "summary": "Tehran, IRNA – Iran’s nuclear policy remains clear, and discussions about nuclear deterrence are not unusual after repeated attacks and acts of sabotage targeting the country’s nuclear facilities, Foreign Ministry spokesman Esmaeil Baqaei says, rejecting claims that Tehran has changed its nuclear doctrine or is considering withdrawal from the Nuclear Non-Proliferation Treaty (NPT).",
-   "tags": [
-    "strikes",
     "nuclear"
    ],
    "highlight": false
