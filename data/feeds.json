@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-15T13:50:03.159123+00:00",
+ "asOf": "2026-09-15T14:22:55.302412+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Interior minister heads to Turkey for talks on security cooperation",
+   "url": "https://en.irna.ir/news/86265043/Interior-minister-heads-to-Turkey-for-talks-on-security-cooperation",
+   "published": "2026-09-15T14:11:54+00:00",
+   "summary": "Tehran, IRNA – Interior Minister Eskandar Momeni left for Ankara on Tuesday for a two-day visit to discuss bilateral ties, particularly police cooperation, counter-terrorism efforts and border security, Interior Ministry said.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Houthi-run TV releases video of abandoned Mocha airport",
@@ -597,17 +608,6 @@
    "url": "https://en.irna.ir/news/86264082/Blocking-Iran-s-nuclear-chief-from-IAEA-conference-sets-dangerous",
    "published": "2026-09-14T16:04:53+00:00",
    "summary": "London, IRNA – The spokesperson for the Atomic Energy Organization of Iran (AEOI), Behrouz Kamalvandi, has described preventing AEOI chief Mohammad Eslami from attending the IAEA General Conference as a dangerous precedent for all countries, stressing that the agency and its member states must stand up to US bullying and political pressure.",
-   "tags": [
-    "nuclear"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Amidst Heightened Nuclear Concerns, Secretary-General Stresses Importance of International Atomic Energy Agency as Body Begins Annual Conference",
-   "url": "https://press.un.org/en/2026/sgsm23278.doc.htm",
-   "published": "2026-09-14T16:04:20+00:00",
-   "summary": "Following is UN Secretary-General António Guterres’ message — delivered by Monica Juma, Executive Director of the UN Office on Drugs and Crime (UNODC) and Director-General of the UN Office at Vienna — to the opening of the seventieth regular session of the General Conference of the International Atomic Energy Agency (IAEA), in Vienna today:",
    "tags": [
     "nuclear"
    ],
