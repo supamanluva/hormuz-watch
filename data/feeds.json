@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-15T09:39:06.479210+00:00",
+ "asOf": "2026-09-15T10:33:23.155523+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Pakistani envoy calls for boosting scientific ties on a visit to Sharif University of Technology in Tehran",
+   "url": "https://en.irna.ir/news/86264788/Pakistani-envoy-calls-for-boosting-scientific-ties-on-a-visit",
+   "published": "2026-09-15T10:17:25+00:00",
+   "summary": "Tehran, IRNA — Pakistan’s Ambassador to Iran, while visiting Sharif University of Technology in Tehran, has emphasized expanding scientific and technological collaboration between the two countries’ higher academic institutions.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Fourth intruding American MQ-1 drone shot down over Hormuz: IRGC",
@@ -593,15 +604,6 @@
    "url": "https://press.un.org/en/2026/sgsm23275.doc.htm",
    "published": "2026-09-14T14:55:33+00:00",
    "summary": "Following is UN Secretary-General António Guterres’ message for World Maritime Day, observed on 24 September:",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Marking International Day amidst Flagging Global Solidarity, Secretary-General Urges Deliberate Investment in Peace",
-   "url": "https://press.un.org/en/2026/sgsm23274.doc.htm",
-   "published": "2026-09-14T14:44:30+00:00",
-   "summary": "Following is UN Secretary-General António Guterres’ message for the International Day of Peace, observed on 21 September:",
    "tags": [],
    "highlight": false
   }
