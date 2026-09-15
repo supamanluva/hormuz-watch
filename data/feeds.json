@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-15T06:36:43.008629+00:00",
+ "asOf": "2026-09-15T06:59:47.240020+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "No talks with US until Iran’s conditions are met: Security chief",
+   "url": "https://en.irna.ir/news/86264369/No-talks-with-US-until-Iran-s-conditions-are-met-Security-chief",
+   "published": "2026-09-15T06:47:59+00:00",
+   "summary": "Tehran, IRNA – Secretary of Iran’s Supreme National Security Council Major General Mohsen Rezaee says no negotiations would take place with the United States until Iran’s conditions are met.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Iran downs another advanced US drone over Strait of Hormuz",
@@ -147,13 +158,12 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "Iran war live: CENTCOM disputes IRGC claim supertanker struck by Hormuz nav",
+   "title": "Iran war live: 54 Saudi air strikes target Houthis as Yemen fighting rages",
    "url": "https://www.aljazeera.com/news/liveblog/2026/9/15/iran-war-live-centcom-refutes-iran-claim-supertanker-hit-hormuz-mines?traffic_source=rss",
    "published": "2026-09-15T00:00:00+00:00",
-   "summary": "CENTCOM disputes the IRGC claim that the Panama-flagged oil tanker El Gaia hit naval mines in the Strait of Hormuz.",
+   "summary": "Houthis say attacks by Saudi Arabia ongoing as Yemen PM accuses militia of killing and displacing civilians.",
    "tags": [
-    "shipping",
-    "oil"
+    "strikes"
    ],
    "highlight": false
   },
@@ -591,18 +601,6 @@
    "summary": "Automated AI drones are just one component of an ultimate chain of destruction both sides are building.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Why Saudi Arabia’s East-West pipeline matters for global oil",
-   "url": "https://www.aljazeera.com/news/2026/9/14/why-saudi-arabias-east-west-pipeline-matters-for-global-oil?traffic_source=rss",
-   "published": "2026-09-14T13:15:14+00:00",
-   "summary": "The 1,200km (745-mile) pipeline has been temporarily closed, affecting up to 5 percent of global oil supply.",
-   "tags": [
-    "strikes",
-    "oil"
    ],
    "highlight": false
   }
