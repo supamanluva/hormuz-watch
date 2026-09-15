@@ -1,5 +1,5 @@
 {
- "asOf": "2026-09-15T19:17:44.646808+00:00",
+ "asOf": "2026-09-15T19:29:47.118517+00:00",
  "items": [
   {
    "source": "Al Jazeera",
@@ -96,6 +96,15 @@
    "highlight": true
   },
   {
+   "source": "UN Press",
+   "title": "Secretary-General Appoints Martin Kimani of Kenya Assistant Secretary-General for Africa",
+   "url": "https://press.un.org/en/2026/sga2437.doc.htm",
+   "published": "2026-09-15T15:27:30+00:00",
+   "summary": "United Nations Secretary-General António Guterres announced today the appointment of Martin Kimani of Kenya as the new Assistant Secretary-General for Africa in the Departments of Political and Peacebuilding Affairs and Peace Operations (DPPA-DPO).",
+   "tags": [],
+   "highlight": false
+  },
+  {
    "source": "Al Jazeera",
    "title": "Canada, the UK and Australia should investigate the WCK attack in Gaza",
    "url": "https://www.aljazeera.com/opinions/2026/9/15/canada-the-uk-and-australia-should-investigate-the-wck-attack-in-gaza?traffic_source=rss",
@@ -123,6 +132,17 @@
    "summary": "Houthi coastal advances face hurdles: geography, local resistance and fierce government counterattacks.",
    "tags": [
     "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "UN Press",
+   "title": "Security Council, 10222nd Meeting (PM) Yemen",
+   "url": "https://press.un.org/en/blog/sc16453",
+   "published": "2026-09-15T14:27:31+00:00",
+   "summary": "The Security Council will meet at 3 p.m. today on the Middle East amid growing concern over the Houthis’ advance along Yemen’s Red Sea coast. The group seized the port of Mokha and Mayyun Island last week and reportedly moved onto the Greater and Lesser Hanish islands, tightening its grip on the Bab el-Mandeb strait, which carries about 8.7 per cent of global seaborne trade.",
+   "tags": [
+    "shipping"
    ],
    "highlight": false
   },
@@ -460,6 +480,17 @@
    "highlight": true
   },
   {
+   "source": "UN Press",
+   "title": "Threat of Nuclear Catastrophe ‘Immediate, Growing’, Secretary-General Warns on International Day",
+   "url": "https://press.un.org/en/2026/sgsm23281.doc.htm",
+   "published": "2026-09-14T22:01:22+00:00",
+   "summary": "Following is UN Secretary-General António Guterres’ message for the International Day for the Total Elimination of Nuclear Weapons, observed on 26 September:",
+   "tags": [
+    "nuclear"
+   ],
+   "highlight": false
+  },
+  {
    "source": "Al Jazeera",
    "title": "Israeli attack targets Gaza displacement camp",
    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/israeli-attack-targets-gaza-displacement-camp?traffic_source=rss",
@@ -578,35 +609,6 @@
    "summary": "Finland becomes 10th European state to sign up to military cooperation and nuclear deterrence initiative.",
    "tags": [
     "nuclear"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "Nominations Sent to the Senate",
-   "url": "https://www.whitehouse.gov/presidential-actions/2026/09/nominations-sent-to-the-senate-9fc3/",
-   "published": "2026-09-14T19:25:34+00:00",
-   "summary": "NOMINATIONS SENT TO THE SENATE: Samuel D. Adkisson, of Tennessee, to be United States District Judge for the Eastern District of Tennessee. Philip Axt, of North Dakota, to be United States District Judge for the District of North Dakota. Daniel Lewis Ballou, of Kentucky, to be United States District Judge for the Eastern District of [&#8230;] The post Nominations Sent to the Senate appeared first ",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General",
-   "url": "https://press.un.org/en/2026/db260914.doc.htm",
-   "published": "2026-09-14T19:13:17+00:00",
-   "summary": "In Djibouti, UN teams are working closely with the Government in response to the arrival of people fleeing the latest escalation of conflict in Yemen. Around 2,300 people have arrived already and, with existing capacities under significant pressure, additional resources are urgently needed as arrivals continue.",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "NATO pledges more Ukraine support after Russia strikes near Poland",
-   "url": "https://www.aljazeera.com/news/2026/9/14/nato-pledges-increased-support-for-ukraine-after-russia-strikes-warsaw-bound-train?traffic_source=rss",
-   "published": "2026-09-14T18:40:23+00:00",
-   "summary": "NATO chief Rutte insists Western allies will not be intimidated by Russian attacks meant to &#039;scare&#039; them off.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   }
