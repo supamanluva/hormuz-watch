@@ -1,6 +1,18 @@
 {
- "asOf": "2026-09-15T05:32:54.280329+00:00",
+ "asOf": "2026-09-15T05:50:07.083372+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran downs another advanced US drone over Strait of Hormuz",
+   "url": "https://en.irna.ir/news/86264307/Iran-downs-another-advanced-US-drone-over-Strait-of-Hormuz",
+   "published": "2026-09-15T05:33:42+00:00",
+   "summary": "Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) has announced the interception and downing of yet another advanced MQ-1 drone of the United States over the strategic Strait of Hormuz.",
+   "tags": [
+    "strikes",
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Millions line up for ‘sacred henna’ at Indian temple",
@@ -590,17 +602,6 @@
    "summary": "The 1,200km (745-mile) pipeline has been temporarily closed, affecting up to 5 percent of global oil supply.",
    "tags": [
     "strikes",
-    "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Why the Houthi advance towards Yemen’s Marib, Taiz matters",
-   "url": "https://www.aljazeera.com/news/2026/9/14/why-the-houthi-advance-towards-yemens-marib-taiz-matters?traffic_source=rss",
-   "published": "2026-09-14T12:09:02+00:00",
-   "summary": "Marib is home to Yemen&#039;s oil sector. Whoever controls it secures economic gains. Taiz&#039;s location makes it critical.",
-   "tags": [
     "oil"
    ],
    "highlight": false
