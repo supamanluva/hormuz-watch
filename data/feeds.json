@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-15T10:33:23.155523+00:00",
+ "asOf": "2026-09-15T11:49:55.048427+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Dozens of aircraft, hundreds of buildings: US loss to Iran attacks revealed",
+   "url": "https://www.aljazeera.com/features/2026/9/15/dozens-of-aircraft-hundreds-of-buildings-us-loss-to-iran-attacks-revealed?traffic_source=rss",
+   "published": "2026-09-15T11:17:03+00:00",
+   "summary": "The Pentagon watchdog&#039;s report paints a picture of significant losses to US forces and facilities in the region.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Pakistani envoy calls for boosting scientific ties on a visit to Sharif University of Technology in Tehran",
@@ -596,15 +607,6 @@
    "tags": [
     "diplomacy"
    ],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Ahead of World Maritime Day, Secretary-General Underlines Need for Safe Seafaring",
-   "url": "https://press.un.org/en/2026/sgsm23275.doc.htm",
-   "published": "2026-09-14T14:55:33+00:00",
-   "summary": "Following is UN Secretary-General António Guterres’ message for World Maritime Day, observed on 24 September:",
-   "tags": [],
    "highlight": false
   }
  ]
