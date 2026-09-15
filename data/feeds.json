@@ -1,6 +1,17 @@
 {
- "asOf": "2026-09-15T06:59:47.240020+00:00",
+ "asOf": "2026-09-15T07:25:58.982630+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Palestine weekly: Settlement sanctions spark diplomatic crisis",
+   "url": "https://www.aljazeera.com/news/2026/9/15/palestine-weekly-settlement-sanctions-spark-diplomatic-crisis?traffic_source=rss",
+   "published": "2026-09-15T06:53:50+00:00",
+   "summary": "New B&#039;Tselem report frames events on ground as Israel&#039;s &#039;project of elimination&#039; of Palestinians.",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "No talks with US until Iran’s conditions are met: Security chief",
@@ -588,17 +599,6 @@
    "url": "https://www.aljazeera.com/economy/2026/9/14/why-is-trump-warning-zelenskyy-not-to-hit-russian-diesel-refineries?traffic_source=rss",
    "published": "2026-09-14T14:04:55+00:00",
    "summary": "Trump blames Ukraine’s attacks for global diesel shortage, linking the crisis to Russia&#039;s war rather than US actions.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "‘Attacks will be fully autonomous’: Russia, Ukraine race towards AI warfare",
-   "url": "https://www.aljazeera.com/news/2026/9/14/attacks-will-be-fully-autonomous-russia-ukraine-race-towards-ai-warfare?traffic_source=rss",
-   "published": "2026-09-14T13:20:50+00:00",
-   "summary": "Automated AI drones are just one component of an ultimate chain of destruction both sides are building.",
    "tags": [
     "strikes"
    ],
