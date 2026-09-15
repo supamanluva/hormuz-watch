@@ -1,6 +1,28 @@
 {
- "asOf": "2026-09-15T15:49:46.250076+00:00",
+ "asOf": "2026-09-15T16:22:50.755408+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran says US bid to block its IAEA conference committee membership fails",
+   "url": "https://en.irna.ir/news/86265112/Iran-says-US-bid-to-block-its-IAEA-conference-committee-membership",
+   "published": "2026-09-15T16:04:57+00:00",
+   "summary": "Tehran, IRNA – Iran says that a US effort to prevent it from joining a committee of the International Atomic Energy Agency’s General Conference had failed, with Tehran securing significantly more votes in a subsequent ballot.",
+   "tags": [
+    "nuclear"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Will Russia and Ukraine halt attacks on energy infrastructure?",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/15/will-russia-and-ukraine-halt-attacks-on-energy-infrastructure?traffic_source=rss",
+   "published": "2026-09-15T15:50:51+00:00",
+   "summary": "Will Russia and Ukraine halt attacks on energy infrastructure?",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Canada, the UK and Australia should investigate the WCK attack in Gaza",
@@ -591,26 +613,6 @@
     "oil"
    ],
    "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "I’ve just received a Report that the United States is producing more Exquisite and Elite Weapons than at any time in our History. They are being delivered on a daily basis to our Forces in the Middle East, and beyond. Our Defense Company Factories are moving 24/7, while at the same time building, on average, 4 to 5 largescale brand new Plants, each! A primary focus of this production has been Patriots, THAAD Systems, Tomahawks, and other Standard Missile Systems, of which we already have large numbers in stock. President DONALD J. TRUMP",
-   "url": "https://www.trumpstruth.org/statuses/41716",
-   "published": "2026-09-14T16:22:57+00:00",
-   "summary": "I’ve just received a Report that the United States is producing more Exquisite and Elite Weapons than at any time in our History. They are being delivered on a daily basis to our Forces in the Middle East, and beyond. Our Defense Company Factories are moving 24/7, while at the same time building, on average, 4 to 5 largescale brand new Plants, each! A primary focus of this production has been Patr",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": true
-  },
-  {
-   "source": "UN Press",
-   "title": "Secretary-General Spotlights ‘Profound’ Empathy of King Harald V of Norway, Whose Life Shaped by Exile, War, as General Assembly Pays Tribute to Late Leader",
-   "url": "https://press.un.org/en/2026/sgsm23280.doc.htm",
-   "published": "2026-09-14T16:20:34+00:00",
-   "summary": "Following are UN Secretary-General António Guterres’ remarks, delivered by Chef de Cabinet Earle Courtenay Rattray, at the General Assembly’s tribute to the memory of His Majesty King Harald V of Norway, in New York today:",
-   "tags": [],
-   "highlight": false
   }
  ]
 }
