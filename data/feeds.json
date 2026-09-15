@@ -1,6 +1,26 @@
 {
- "asOf": "2026-09-15T15:20:28.867537+00:00",
+ "asOf": "2026-09-15T15:49:46.250076+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Canada, the UK and Australia should investigate the WCK attack in Gaza",
+   "url": "https://www.aljazeera.com/opinions/2026/9/15/canada-the-uk-and-australia-should-investigate-the-wck-attack-in-gaza?traffic_source=rss",
+   "published": "2026-09-15T15:25:39+00:00",
+   "summary": "Israel has made clear it is unwilling to hold to account those responsible for the deaths of seven humanitarian workers.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "White House",
+   "title": "President Trump Promised to Make Memphis Safe Again. One Year Later, the Numbers Prove It.",
+   "url": "https://www.whitehouse.gov/releases/2026/09/president-trump-promised-to-make-memphis-safe-again-one-year-later-the-numbers-prove-it/",
+   "published": "2026-09-15T15:22:37+00:00",
+   "summary": "One year ago, President Donald J. Trump created the Memphis Safe Task Force and ordered a full-scale federal surge into one of America’s most violent cities. President Trump directed coordination of more than 30 federal, state, and local agencies in making arrests, clearing warrants, seizing illegal firearms, and saturating neighborhoods that Democrats had long surrendered [&#8230;] The post Presi",
+   "tags": [],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Can the Houthis hold on to Yemen’s strategic western coast?",
@@ -590,27 +610,6 @@
    "published": "2026-09-14T16:20:34+00:00",
    "summary": "Following are UN Secretary-General António Guterres’ remarks, delivered by Chef de Cabinet Earle Courtenay Rattray, at the General Assembly’s tribute to the memory of His Majesty King Harald V of Norway, in New York today:",
    "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "World Free from Cluster Munitions within Reach, Secretary-General Tells States Parties Conference, Urging States to Join Convention",
-   "url": "https://press.un.org/en/2026/sgsm23279.doc.htm",
-   "published": "2026-09-14T16:16:02+00:00",
-   "summary": "Following is UN Secretary-General António Guterres’ message, as delivered by Armida Salsiah Alisjahbana, Executive Secretary of the Economic and Social Commission for Asia and the Pacific (ESCAP), to the third review conference of the States Parties to the Convention on Cluster Munitions, in Vientiane today:",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Any assessment of Hormuz crisis ‘incomplete’ without addressing root causes: Iran’s UN envoy",
-   "url": "https://en.irna.ir/news/86264119/Any-assessment-of-Hormuz-crisis-incomplete-without-addressing",
-   "published": "2026-09-14T16:14:48+00:00",
-   "summary": "London, IRNA - Iran’s permanent representative to the United Nations Office in Geneva has warned that any assessment of the economic and developmental consequences of the Strait of Hormuz crisis would be incomplete without addressing its root causes, which he attributed directly to US and Israeli military aggression.",
-   "tags": [
-    "diplomacy",
-    "shipping"
-   ],
    "highlight": false
   }
  ]
