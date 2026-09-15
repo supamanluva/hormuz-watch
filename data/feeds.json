@@ -1,6 +1,28 @@
 {
- "asOf": "2026-09-15T11:49:55.048427+00:00",
+ "asOf": "2026-09-15T12:31:00.728950+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Zelenskyy says Ukraine will pause attacks if Russia spares infrastructure",
+   "url": "https://www.aljazeera.com/news/2026/9/15/zelenskyy-says-ukraine-will-pause-attacks-if-russia-spares-infrastructure?traffic_source=rss",
+   "published": "2026-09-15T11:54:37+00:00",
+   "summary": "Zelenskyy insists de-escalation depends on US ensuring Russia&#039;s genuine readiness to stop war and attacks on Ukraine.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Benchmark US government bond yield hits 19-year peak as oil prices surge",
+   "url": "https://www.aljazeera.com/economy/2026/9/15/benchmark-us-government-bond-yield-hits-19-year-peak-as-oil-prices-surge?traffic_source=rss",
+   "published": "2026-09-15T11:36:51+00:00",
+   "summary": "The 10-year US Treasury yield hit 5.02 percent on Tuesday for the first time since the 2007 global financial crisis.",
+   "tags": [
+    "oil"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Dozens of aircraft, hundreds of buildings: US loss to Iran attacks revealed",
@@ -37,7 +59,7 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "Houthis say air strikes hit Yemen after Saudi Arabia vows ‘firm’ response",
+   "title": "Heavy air strikes hit Yemen, UN says over 100,000 people displaced",
    "url": "https://www.aljazeera.com/news/2026/9/15/houthis-report-air-strikes-in-yemen-after-saudi-arabia-vows-firm-response?traffic_source=rss",
    "published": "2026-09-15T08:11:09+00:00",
    "summary": "Saudi-led coalition promises to respond &#039;firmly&#039; to Houthi strikes on urban areas in Saudi Arabia.",
@@ -588,26 +610,6 @@
     "diplomacy"
    ],
    "highlight": true
-  },
-  {
-   "source": "UN Press",
-   "title": "Inclusive Global Growth Requires Strong Multilateral System, Says Secretary-General at BRICS Summit",
-   "url": "https://press.un.org/en/2026/sgsm23276.doc.htm",
-   "published": "2026-09-14T15:30:23+00:00",
-   "summary": "Following are UN Secretary-General António Guterres’ remarks at the eighteenth BRICS [Brazil, Russian Federation, India, China, South Africa] Summit, in New Delhi today:",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Israel violates Gaza ceasefire 4,803 times, killing 1,369 Palestinians: Report",
-   "url": "https://en.irna.ir/news/86264083/Israel-violates-Gaza-ceasefire-4-803-times-killing-1-369-Palestinians",
-   "published": "2026-09-14T15:18:55+00:00",
-   "summary": "Tehran, IRNA - Israeli occupation forces committed 24 new violations of the ceasefire agreement in the Gaza Strip over 24 hours ending Friday, bringing the total number of recorded violations to 4,803 since the agreement came into force 335 days ago, according to a daily monitoring report.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
   }
  ]
 }
