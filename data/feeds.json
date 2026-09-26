@@ -1,6 +1,518 @@
 {
- "asOf": "2026-09-24T11:33:42.182296+00:00",
+ "asOf": "2026-09-26T13:51:47.706847+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Turkiye calls for UN Security Council veto to end: Could it happen?",
+   "url": "https://www.aljazeera.com/features/2026/9/26/turkiye-calls-for-un-security-council-veto-to-end-could-it-happen?traffic_source=rss",
+   "published": "2026-09-26T13:17:05+00:00",
+   "summary": "Fully abolishing the veto would require the unlikely agreement of all five permanent Security Council members.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Manchester City face ‘drastic’ sanctions, says club’s former chairman",
+   "url": "https://www.aljazeera.com/sports/2026/9/26/man-city-face-drastic-sanctions-according-to-clubs-former-chairman?traffic_source=rss",
+   "published": "2026-09-26T12:59:13+00:00",
+   "summary": "Manchester City are understood to be ready to appeal any guilty verdict, but could face &#039;severe penalty&#039; says ex-chair.",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Mecca defence alliance chiefs meet amid Houthi attacks",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/26-09-sv-saudi-turkiye-pakistan-chiefs-riy-ks?traffic_source=rss",
+   "published": "2026-09-26T12:48:50+00:00",
+   "summary": "Defence chiefs from Saudi Arabia, Turkiye and Pakistan have been meeting in Riyadh to discuss support for Saudi Arabia.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran no longer trusts dialogue with United States: President",
+   "url": "https://en.irna.ir/news/86275158/Iran-no-longer-trusts-dialogue-with-United-States-President",
+   "published": "2026-09-26T12:28:19+00:00",
+   "summary": "Tehran, IRNA –President Masoud Pezeshkian has said Iran no longer trusts negotiations with Washington, pointing to repeated US breaches of the diplomatic process, attacks and sanctions imposed after every round of talks with Tehran.",
+   "tags": [
+    "strikes",
+    "sanctions",
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "FAKE NEWS SHOULD NOT BE ALLOWED IN THE WHITE HOUSE!!! IT HAS GONE ON FAR TOO LONG, AT A TREMENDOUS COST TO OUR COUNTRY. President DJT",
+   "url": "https://www.trumpstruth.org/statuses/41926",
+   "published": "2026-09-26T12:22:53+00:00",
+   "summary": "FAKE NEWS SHOULD NOT BE ALLOWED IN THE WHITE HOUSE!!! IT HAS GONE ON FAR TOO LONG, AT A TREMENDOUS COST TO OUR COUNTRY. President DJT",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "IRAN CAN NOT HAVE A NUCLEAR WEAPON!!! President DJT",
+   "url": "https://www.trumpstruth.org/statuses/41927",
+   "published": "2026-09-26T12:18:04+00:00",
+   "summary": "IRAN CAN NOT HAVE A NUCLEAR WEAPON!!! President DJT",
+   "tags": [
+    "nuclear"
+   ],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "A MUST SEE ON THE CLIMATE HOAX. President DJT",
+   "url": "https://www.trumpstruth.org/statuses/41925",
+   "published": "2026-09-26T12:15:35+00:00",
+   "summary": "A MUST SEE ON THE CLIMATE HOAX. President DJT",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Pezeshkian says Iran is ready for talks, but rejects coercion and bullying",
+   "url": "https://en.irna.ir/news/86275074/Pezeshkian-says-Iran-is-ready-for-talks-but-rejects-coercion",
+   "published": "2026-09-26T12:08:32+00:00",
+   "summary": "Tehran, IRNA – President Masoud Pezeshkian says Iran engages in dialogue to resolve issues but will never accept bullying or the use of force, and will never allow anyone to force it into submission.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Suicide bombing in Pakistan’s Dera Ismail Khan kills at least 12 people",
+   "url": "https://www.aljazeera.com/news/2026/9/26/blast-in-pakistans-dera-ismail-khan-kills-several-people?traffic_source=rss",
+   "published": "2026-09-26T11:33:42+00:00",
+   "summary": "Majority of those killed and wounded are security personnel, police say.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Pezeshkian says Iran ‘no longer trusts talks with Washington’",
+   "url": "https://www.aljazeera.com/news/2026/9/26/pezeshkian-says-iran-no-longer-trusts-talks-with-washington?traffic_source=rss",
+   "published": "2026-09-26T11:06:28+00:00",
+   "summary": "In an interview with Al Jazeera, the Iranian president says Qatar and Pakistan are relaying Tehran&#039;s messages to the US.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "Why should perpetrators of FAKE NEWS, like CNN and MSDNC, be allowed access to a very sacred place, the White House? Despite my big Election Win, almost 100% of “TRUMP” coverage is negative, and has been for years!Defiant White House slaps down journalists: 'Access is a privilege - not a right':",
+   "url": "https://www.trumpstruth.org/statuses/41923",
+   "published": "2026-09-26T10:51:35+00:00",
+   "summary": "Why should perpetrators of FAKE NEWS, like CNN and MSDNC, be allowed access to a very sacred place, the White House? Despite my big Election Win, almost 100% of “TRUMP” coverage is negative, and has been for years! Defiant White House slaps down journalists: 'Access is a privilege - not a right': https:// justthenews.com/politics-polic y/defiant-white-house-slaps-down-journalists-access-privilege-",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "Animal welfare groups praise Trump administration for more moves to reduce animal testing:",
+   "url": "https://www.trumpstruth.org/statuses/41924",
+   "published": "2026-09-26T10:50:57+00:00",
+   "summary": "Animal welfare groups praise Trump administration for more moves to reduce animal testing: https:// justthenews.com/government/fed eral-agencies/animal-welfare-groups-praise-trump-administration-more-moves-reduce",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran, Afghanistan to expand transit cooperation via Chabahar: Envoy",
+   "url": "https://en.irna.ir/news/86275045/Iran-Afghanistan-to-expand-transit-cooperation-via-Chabahar",
+   "published": "2026-09-26T10:45:36+00:00",
+   "summary": "Tehran, IRNA – Iran and Afghanistan are broadening transport and transit cooperation, particularly through the use of Chabahar Port, says Iran’s acting ambassador in Kabul, Alireza Bikdeli.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "Keep the lights on, sideline Big Brother: Trump EPA rollback could save ratepayers $310 billion:",
+   "url": "https://www.trumpstruth.org/statuses/41917",
+   "published": "2026-09-26T10:32:40+00:00",
+   "summary": "Keep the lights on, sideline Big Brother: Trump EPA rollback could save ratepayers $310 billion: https:// justthenews.com/government/fed eral-agencies/trumps-epa-gets-action-roots-out-30-billion-waste-fraud-and-abuse",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "Feds arrest, indict hundreds in Trump voter fraud crackdown: 'Catching it all over the country':",
+   "url": "https://www.trumpstruth.org/statuses/41918",
+   "published": "2026-09-26T10:32:04+00:00",
+   "summary": "Feds arrest, indict hundreds in Trump voter fraud crackdown: 'Catching it all over the country': https:// justthenews.com/politics-polic y/elections/feds-have-arrested-indicted-hundreds-voter-fraud-crackdown-catching-it",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "Agent in Jack Smith case says he was kept in dark that subpoenaed phone data belonged to Congress:",
+   "url": "https://www.trumpstruth.org/statuses/41919",
+   "published": "2026-09-26T10:31:46+00:00",
+   "summary": "Agent in Jack Smith case says he was kept in dark that subpoenaed phone data belonged to Congress: https:// justthenews.com/accountability /political-ethics/agent-jack-smith-case-says-he-was-kept-dark-subpoenaed-phone-data",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "Trump’s U.N. speech reveals a world realigned by his policy and pressure, with China in the wings:",
+   "url": "https://www.trumpstruth.org/statuses/41920",
+   "published": "2026-09-26T10:31:22+00:00",
+   "summary": "Trump’s U.N. speech reveals a world realigned by his policy and pressure, with China in the wings: https:// justthenews.com/government/whi te-house/trump-0",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "White House press monopoly exposes risks of news blackout, as RAV steps in with new pool feed:",
+   "url": "https://www.trumpstruth.org/statuses/41921",
+   "published": "2026-09-26T10:30:35+00:00",
+   "summary": "White House press monopoly exposes risks of news blackout, as RAV steps in with new pool feed: https:// justthenews.com/government/whi te-house/real-first-amendment-issue-press-monopoly-creates-gaps-coverage-limits-news",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "Fantastic news for America!SCOTUS reinstates Trump's voter citizenship verification rules:",
+   "url": "https://www.trumpstruth.org/statuses/41922",
+   "published": "2026-09-26T10:30:06+00:00",
+   "summary": "Fantastic news for America! SCOTUS reinstates Trump's voter citizenship verification rules: https:// justthenews.com/government/cou rts-law/scotus-reinstates-trumps-voter-citizenship-verification-rules",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "Justice Department charges four aliens in Pennsylvania with election fraud:",
+   "url": "https://www.trumpstruth.org/statuses/41914",
+   "published": "2026-09-26T10:28:36+00:00",
+   "summary": "Justice Department charges four aliens in Pennsylvania with election fraud: https:// justthenews.com/government/fed eral-agencies/justice-department-charges-four-migrants-pennsylvania-election-fraud",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "Two-tiered justice: Local DAs shield noncitizens from immigration consequences:",
+   "url": "https://www.trumpstruth.org/statuses/41915",
+   "published": "2026-09-26T10:28:17+00:00",
+   "summary": "Two-tiered justice: Local DAs shield noncitizens from immigration consequences: https:// justthenews.com/nation/crime/t wo-tiered-justice-local-das-shield-noncitizens-immigration-consequences",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "A big WIN for Republicans!!!Trump stacks wins: SCOTUS unleashes voter citizenship checks while feds put machines on leash:",
+   "url": "https://www.trumpstruth.org/statuses/41916",
+   "published": "2026-09-26T10:27:52+00:00",
+   "summary": "A big WIN for Republicans!!! Trump stacks wins: SCOTUS unleashes voter citizenship checks while feds put machines on leash: https:// justthenews.com/government/whi te-house/supreme-court-cisa",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Israel bans Arab parties from election: Who they are, why it matters",
+   "url": "https://www.aljazeera.com/news/2026/9/26/israel-bans-arab-parties-from-election-who-they-are-why-it-matters?traffic_source=rss",
+   "published": "2026-09-26T10:27:11+00:00",
+   "summary": "Israeli politicians subject to ICC arrest warrants or international sanctions remain eligible to run.",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Trump ‘rejects’ Iran’s seven-day ceasefire proposal. What’s next?",
+   "url": "https://www.aljazeera.com/news/2026/9/26/trump-reportedly-rejects-irans-seven-day-ceasefire-proposal-whats-next?traffic_source=rss",
+   "published": "2026-09-26T09:28:19+00:00",
+   "summary": "Analysts say Trump may opt to resume attacks on Iran after November midterm elections.",
+   "tags": [
+    "strikes",
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran, Turkey FMs hold talks on sidelines of UNGA",
+   "url": "https://en.irna.ir/news/86274709/Iran-Turkey-FMs-hold-talks-on-sidelines-of-UNGA",
+   "published": "2026-09-26T09:11:25+00:00",
+   "summary": "Tehran, IRNA – Iran’s Foreign Minister Abbas Araghchgi and his Turkish counterpart, Hakan Fidan, have held talks on the sidelines of the 81st UN General Assembly in New York.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Iran war squeezes Iraq’s economy as oil revenues fall and prices rise",
+   "url": "https://www.aljazeera.com/news/2026/9/26/iran-war-squeezes-iraqs-economy-as-oil-revenues-fall-and-prices-rise?traffic_source=rss",
+   "published": "2026-09-26T08:13:06+00:00",
+   "summary": "Disrupted oil exports, costlier imports, and a weaker dinar expose Iraq&#039;s economic dependence on oil, foreign goods.",
+   "tags": [
+    "oil"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Araghchi meets Indian counterpart on UNGA sidelines",
+   "url": "https://en.irna.ir/news/86274681/Araghchi-meets-Indian-counterpart-on-UNGA-sidelines",
+   "published": "2026-09-26T08:12:40+00:00",
+   "summary": "Tehran, IRNA – Iran’s Foreign Minister Abbas Araghchgi and his Indian counterpart, Subrahmanyam Jaishankar, have held talks on the sidelines of the 81st UN General Assembly session in New York.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran, Oman FMs hold talks in New York",
+   "url": "https://en.irna.ir/news/86274583/Iran-Oman-FMs-hold-talks-in-New-York",
+   "published": "2026-09-26T06:45:32+00:00",
+   "summary": "Tehran, IRNA — Iran’s Foreign Minister Abbas Araghchi and his Omani counterpart, Sayyid Badr al-Busaidi, have held talks on the margins of the 81st UN General Assembly session in New York.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Pezeshkian: Iran ready for talks, but will not accept bullying or coercion",
+   "url": "https://en.irna.ir/news/86274619/Pezeshkian-Iran-ready-for-talks-but-will-not-accept-bullying",
+   "published": "2026-09-26T06:42:08+00:00",
+   "summary": "New York, IRNA – Iran’s President Masoud Pezeshkian says that Tehran is ready to engage in dialogue to resolve disputes, but will not accept bullying or the use of force, reiterating that Iran has never sought to develop nuclear weapons and is committed to the peaceful use of nuclear technology.",
+   "tags": [
+    "diplomacy",
+    "nuclear"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Foreign minister outlines Iran’s seven-day plan to reopen Strait of Hormuz",
+   "url": "https://en.irna.ir/news/86274596/Foreign-minister-outlines-Iran-s-seven-day-plan-to-reopen-Strait",
+   "published": "2026-09-26T06:26:52+00:00",
+   "summary": "Tehran, IRNA – Foreign Minister Abbas Araghchi has outlined Iran’s seven-day plan to reopen the Strait of Hormuz, provided that the United States accepts the conditions of the Islamic Republic.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "White House",
+   "title": "Fact Sheet: President Donald J. Trump Advances a Fair and Reciprocal Relationship with China While Hosting Historic State Visit",
+   "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-advances-a-fair-and-reciprocal-relationship-with-china-while-hosting-historic-state-visit/",
+   "published": "2026-09-26T03:29:32+00:00",
+   "summary": "DELIVERING FOR AMERICANS:&#160;This week, President Donald J. Trump and First Lady Melania Trump hosted President Xi Jinping and Madame Peng Liyuan of the People’s Republic of China for a reciprocal State Visit. During the visit, President Trump advanced the U.S.-China relationship and put the American people first.&#160; OPERATIONALIZING THE BOARDS OF TRADE AND INVESTMENT:&#160;This week, [&#8230",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "[No Title] - Post from September 26, 2026",
+   "url": "https://www.trumpstruth.org/statuses/41913",
+   "published": "2026-09-26T03:26:18+00:00",
+   "summary": "",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "RT @DanScavinoA beautiful evening at last nights incredible State Dinner hosted by President @realDonaldTrump and First Lady @MelaniaTrump. CONGRATS POTUS &amp; FLOTUS🇺🇸🦅🚀 Hallelujah!!!",
+   "url": "https://www.trumpstruth.org/statuses/41910",
+   "published": "2026-09-26T03:07:46+00:00",
+   "summary": "RT @ DanScavino A beautiful evening at last nights incredible State Dinner hosted by President @ realDonaldTrump and First Lady @ MelaniaTrump . CONGRATS POTUS &amp; FLOTUS🇺🇸🦅🚀 Hallelujah!!!",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "[No Title] - Post from September 26, 2026",
+   "url": "https://www.trumpstruth.org/statuses/41911",
+   "published": "2026-09-26T03:07:35+00:00",
+   "summary": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117335132934731885",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "[No Title] - Post from September 26, 2026",
+   "url": "https://www.trumpstruth.org/statuses/41912",
+   "published": "2026-09-26T03:07:23+00:00",
+   "summary": "",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "RT @DanScavinoA beautiful evening at last nights incredible State Dinner hosted by President @realDonaldTrump and First Lady @MelaniaTrump. CONGRATS POTUS &amp; FLOTUS🇺🇸🦅🚀 Hallelujah!!!",
+   "url": "https://www.trumpstruth.org/statuses/41908",
+   "published": "2026-09-26T02:58:02+00:00",
+   "summary": "RT @ DanScavino A beautiful evening at last nights incredible State Dinner hosted by President @ realDonaldTrump and First Lady @ MelaniaTrump . CONGRATS POTUS &amp; FLOTUS🇺🇸🦅🚀 Hallelujah!!!",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "A beautiful evening at last nights incredible State Dinner hosted by President @realDonaldTrump and First Lady @MelaniaTrump. CONGRATS POTUS &amp; FLOTUS🇺🇸🦅🚀 Hallelujah!!!",
+   "url": "https://www.trumpstruth.org/statuses/41909",
+   "published": "2026-09-26T02:56:57+00:00",
+   "summary": "A beautiful evening at last nights incredible State Dinner hosted by President @ realDonaldTrump and First Lady @ MelaniaTrump . CONGRATS POTUS &amp; FLOTUS🇺🇸🦅🚀 Hallelujah!!!",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "[No Title] - Post from September 26, 2026",
+   "url": "https://www.trumpstruth.org/statuses/41901",
+   "published": "2026-09-26T00:56:03+00:00",
+   "summary": "",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "[No Title] - Post from September 26, 2026",
+   "url": "https://www.trumpstruth.org/statuses/41902",
+   "published": "2026-09-26T00:55:53+00:00",
+   "summary": "",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "[No Title] - Post from September 26, 2026",
+   "url": "https://www.trumpstruth.org/statuses/41903",
+   "published": "2026-09-26T00:55:42+00:00",
+   "summary": "",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "[No Title] - Post from September 26, 2026",
+   "url": "https://www.trumpstruth.org/statuses/41904",
+   "published": "2026-09-26T00:55:33+00:00",
+   "summary": "",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "[No Title] - Post from September 26, 2026",
+   "url": "https://www.trumpstruth.org/statuses/41905",
+   "published": "2026-09-26T00:55:24+00:00",
+   "summary": "",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Gharibabadi: Sovereignty and territorial integrity of states are not subject to violation or negotiation",
+   "url": "https://en.irna.ir/news/86274384/Gharibabadi-Sovereignty-and-territorial-integrity-of-states",
+   "published": "2026-09-25T21:00:48+00:00",
+   "summary": "Tehran, IRNA – Iranian Deputy Foreign Minister for Legal and International Affairs Kazem Gharibabadi, noting that the credibility of international law hinges on the equality of states before the law, added: The Islamic Republic of Iran believes that if international law is to truly safeguard peace, justice, and human dignity, it cannot be a set of selective rules—rigorously enforced against some s",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "White House",
+   "title": "President Trump, First Lady Conclude Historic China State Visit",
+   "url": "https://www.whitehouse.gov/releases/2026/09/president-trump-first-lady-conclude-historic-china-state-visit/",
+   "published": "2026-09-25T20:10:42+00:00",
+   "summary": "Today, President Donald J. Trump and First Lady Melania Trump concluded a historic state visit with His Excellency Xi Jinping, President of the People’s Republic of China, and Madame Peng Liyuan. This marked the first visit to the White House by a Chinese President in more than a decade — and the first time a [&#8230;] The post President Trump, First Lady Conclude Historic China State Visit appear",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "White House",
+   "title": "Congressional Bills H.R. 3657, H.R. 7250, S. 550, S. 603, S. 759 and S. 790 Signed into Law",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/09/congressional-bills-h-r-3657-h-r-7250-s-550-s-603-s-759-and-s-790-signed-into-law/",
+   "published": "2026-09-25T19:48:25+00:00",
+   "summary": "On Friday, September 25, 2026, the President signed into law: H.R. 3657, the &#8220;Hydropower Licensing Transparency Act,&#8221; which requires the Federal Energy Regulatory Commission to submit annually to the Congress a report on the status of outstanding hydropower licensing applications; H.R. 7250, which reauthorizes appropriations for the Fort Peck Reservation Rural Water System; S. 550, [&#",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "White House",
+   "title": "Gold Star Mother’s And Family’s Day, 2026",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/09/gold-star-mothers-and-familys-day-2026/",
+   "published": "2026-09-25T19:47:32+00:00",
+   "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA A PROCLAMATION America is free, strong, secure, and prosperous due to the courage of the heroes in uniform who are willing to lay down their lives in the defense of our Republic.&#160; The supreme sacrifice paid by every fallen warrior is borne in perpetual sorrow and [&#8230;] The post Gold Star Mother&#8217;s And Family&#8217;s Day, 2026 appeared ",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "White House",
+   "title": "Presidential Public Service Announcements Are Nothing New",
+   "url": "https://www.whitehouse.gov/releases/2026/09/presidential-public-service-announcements-are-nothing-new/",
+   "published": "2026-09-25T19:10:41+00:00",
+   "summary": "The attacks on President Donald J. Trump’s public service announcements are highly dishonest. The announcements are very clearly not campaign ads; President Trump is not on the ballot and there is no call to action. Instead, the announcements are a reminder for Americans to love their country and know why it’s worth defending — at [&#8230;] The post Presidential Public Service Announcements Are No",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "White House",
+   "title": "First Lady Melania Trump Highlights Art, Culture, and the Next Generation During State Visit of President Xi Jinping and Madame Peng Liyuan",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/09/first-lady-melania-trump-highlights-art-culture-and-the-next-generation-during-state-visit-of-president-xi-jinping-and-madame-peng-liyuan/",
+   "published": "2026-09-25T16:24:18+00:00",
+   "summary": "“Art and culture have a remarkable ability to transcend borders, connect generations, and offer us a deeper appreciation for one another. It was an honor to welcome President Xi Jinping and Madame Peng Liyuan and share with them the history, artistry, and traditions that help make America exceptional and our trans-Pacific relations so important,” said [&#8230;] The post First Lady Melania Trump Hi",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran has not started the war but will respond powerfully to any attack: Pezeshkian",
+   "url": "https://en.irna.ir/news/86274215/Iran-has-not-started-the-war-but-will-respond-powerfully-to-any",
+   "published": "2026-09-25T14:16:20+00:00",
+   "summary": "Tehran, IRNA – President Masoud Pezeshkian says that Iran has not started the war and will not do so, stressing that the country has faced an imposed war and will defend itself against any attack.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "White House",
+   "title": "First Lady Melania Trump and Madame Peng Liyuan Visit Smithsonian National Museum of Asian Art Highlighting Sino-American Artwork, Culture, and the Next Generation",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/09/first-lady-melania-trump-and-madame-peng-liyuan-visit-smithsonian-national-museum-of-asian-art-highlighting-sino-american-artwork-culture-and-the-next-generation/",
+   "published": "2026-09-24T17:33:46+00:00",
+   "summary": "First Lady Melania Trump and Madame Peng Liyuan visited the Smithsonian National Museum of Asian Art in Washington, DC today, where they explored works spanning centuries of artistic achievement and cultural exchange and shared a special moment with students from the Washington, DC area. Upon arrival, the First Lady and Madame Peng were welcomed by [&#8230;] The post First Lady Melania Trump and M",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "White House",
+   "title": "Presidential Message on the Beatification of Archbishop Fulton J. Sheen",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/09/presidential-message-on-the-beatification-of-archbishop-fulton-j-sheen/",
+   "published": "2026-09-24T14:00:00+00:00",
+   "summary": "Melania and I join all those celebrating the life and legacy of Archbishop Fulton J. Sheen—the Catholic priest who pioneered the use of media to speak the truth, preach the Gospel, and bring many souls closer to Christ.&#160; Today, Archbishop Sheen will become the first-ever American-born bishop to be beatified by the Catholic Church. Born [&#8230;] The post Presidential Message on the Beatificat",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "White House",
+   "title": "First Lady Melania Trump Releases Details on the State Dinner with His Excellency Xi Jinping, President of The People’s Republic of China, and Madame Peng Liyuan",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/09/first-lady-melania-trump-releases-details-on-the-state-dinner-with-his-excellency-xi-jinping-president-of-the-peoples-republic-of-china-and-madame-peng-liyuan/",
+   "published": "2026-09-24T12:21:19+00:00",
+   "summary": "President Donald J. Trump and First Lady Melania Trump will welcome His Excellency Xi Jinping, President of The People’s Republic of China, and Madame Peng Liyuan for a State Dinner in the East Room of the White House this evening. The First Lady led the preparations for the dinner, which will be attended by the [&#8230;] The post First Lady Melania Trump Releases Details on the State Dinner with ",
+   "tags": [],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Russian attacks kill eight people across Ukraine as US steps up diplomacy",
@@ -80,33 +592,6 @@
    "highlight": false
   },
   {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from September 24, 2026",
-   "url": "https://www.trumpstruth.org/statuses/41856",
-   "published": "2026-09-24T01:51:54+00:00",
-   "summary": "",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "The story that the White House, or me, want to affix my name to Ford’s Theatre, in Washington, D.C., where Abraham Lincoln was assassinated, is a ridiculous lie. It is FAKE NEWS! Who would possibly want a name on such a tragic place? The Dumocrats suffer from serious Trump Derangement Syndrome. They are Degenerates and Losers who make up lie after lie, and this Ford’s Theatre Hoax is just another one of their never-ending, malicious falsehoods to try to discredit and demean. Thank you for your attention to this matter. President DONALD J. TRUMP",
-   "url": "https://www.trumpstruth.org/statuses/41854",
-   "published": "2026-09-24T00:21:25+00:00",
-   "summary": "The story that the White House, or me, want to affix my name to Ford’s Theatre, in Washington, D.C., where Abraham Lincoln was assassinated, is a ridiculous lie. It is FAKE NEWS! Who would possibly want a name on such a tragic place? The Dumocrats suffer from serious Trump Derangement Syndrome. They are Degenerates and Losers who make up lie after lie, and this Ford’s Theatre Hoax is just another ",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "BIG DAY FOR BOEING AND AMERICAN MANUFACTURING! Today, Türkiye and Bangladesh announced purchases totaling 111 Boeing Airplanes—with options for 50 more—following support from Howard Lutnick and the Department of Commerce. TENS of BILLIONS of Dollars in Sales, and huge U.S. Exports, supporting tens of thousands of American Jobs across our Country. The Market is recognizing what Boeing and I have known all along: When you BUILD IN AMERICA, EXPORT FROM AMERICA, and SUPPORT AMERICAN WORKERS, you make your Company stronger. Congratulations to Boeing, and its incredible workforce! President DONALD J. TRUMP",
-   "url": "https://www.trumpstruth.org/statuses/41855",
-   "published": "2026-09-24T00:19:29+00:00",
-   "summary": "BIG DAY FOR BOEING AND AMERICAN MANUFACTURING! Today, Türkiye and Bangladesh announced purchases totaling 111 Boeing Airplanes—with options for 50 more—following support from Howard Lutnick and the Department of Commerce. TENS of BILLIONS of Dollars in Sales, and huge U.S. Exports, supporting tens of thousands of American Jobs across our Country. The Market is recognizing what Boeing and I have kn",
-   "tags": [],
-   "highlight": true
-  },
-  {
    "source": "IRNA (Iran state wire)",
    "title": "Iranian and South Korean foreign ministers meet in New York",
    "url": "https://en.irna.ir/news/86272995/Iranian-and-South-Korean-foreign-ministers-meet-in-New-York",
@@ -114,490 +599,6 @@
    "summary": "New York, IRNA – Abbas Araghchi, the Foreign Minister of the Islamic Republic of Iran, met and held talks with his South Korean counterpart, Cho Hyun, in New York.",
    "tags": [
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from September 23, 2026",
-   "url": "https://www.trumpstruth.org/statuses/41853",
-   "published": "2026-09-23T19:50:55+00:00",
-   "summary": "",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "The Great Gary Player, Bryson DeChambeau, Mikayla Demaiter, and Susan Waterfall, on Marine One! President DONALD J. TRUMP",
-   "url": "https://www.trumpstruth.org/statuses/41852",
-   "published": "2026-09-23T19:44:04+00:00",
-   "summary": "The Great Gary Player, Bryson DeChambeau, Mikayla Demaiter, and Susan Waterfall, on Marine One! President DONALD J. TRUMP",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran’s top security official: No return to pre-war diplomacy with US",
-   "url": "https://en.irna.ir/news/86272960/Iran-s-top-security-official-No-return-to-pre-war-diplomacy",
-   "published": "2026-09-23T19:37:42+00:00",
-   "summary": "Tehran, IRNA – Secretary of Iran’s Supreme National Security Council (SNSC) Mohsen Rezaei has reiterated that Iran will not return to its pre-war diplomatic approach towardd the United States, calling on Washington to “take action” and meet Iran’s conditions for reopening the Strait of Hormuz.",
-   "tags": [
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Pezeshkian meets Bangladesh PM in New York",
-   "url": "https://en.irna.ir/news/86272952/Pezeshkian-meets-Bangladesh-PM-in-New-York",
-   "published": "2026-09-23T19:19:24+00:00",
-   "summary": "New York, IRNA – On the sidelines of the 81st session of the United Nations General Assembly, President Masoud Pezeshkian met and held talks with Bangladesh Prime Minister Tarique Rahman Wednesday.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "White House App Hits No. 1 in News and Cracks App Store Top 20 as Americans Tune Out Fake News",
-   "url": "https://www.whitehouse.gov/releases/2026/09/white-house-app-hits-no-1-in-news-and-cracks-app-store-top-20-as-americans-tune-out-fake-news/",
-   "published": "2026-09-23T19:07:52+00:00",
-   "summary": "As of September 22, 2026, the official White House mobile app reached No. 1 in the News category on the App Store and climbed into the Top 20 among all apps. The app previously hit No. 1 in News and, at launch, soared as high as No. 4 across the entire App Store. More and [&#8230;] The post White House App Hits No. 1 in News and Cracks App Store Top 20 as Americans Tune Out Fake News appeared firs",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Araghchi meets German counterpart in New York",
-   "url": "https://en.irna.ir/news/86272944/Araghchi-meets-German-counterpart-in-New-York",
-   "published": "2026-09-23T18:56:33+00:00",
-   "summary": "New York, IRNA – Iranian Foreign Minister Abbas Araghchi and German Foreign Minister Johann Wadephul held talks on Wednesday on the sidelines of the 81st session of the United Nations General Assembly in New York.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Araghchi meets his Tajik counterpart in New York",
-   "url": "https://en.irna.ir/news/86272933/Araghchi-meets-his-Tajik-counterpart-in-New-York",
-   "published": "2026-09-23T18:39:29+00:00",
-   "summary": "New York, IRNA – Iranian Foreign Minister Abbas Araghchi met and held talks with his Tajik counterpart, Sirojiddin Muhriddin, on the sidelines of the UN General Assembly.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Pezeshkian meets Iraqi PM in New York",
-   "url": "https://en.irna.ir/news/86272924/Pezeshkian-meets-Iraqi-PM-in-New-York",
-   "published": "2026-09-23T18:23:38+00:00",
-   "summary": "New York, IRNA – Iranian President Masoud Pezeshkian and Iraqi Prime Minister Ali al-Zaidi met and held talks on the sidelines of the 81st UN General Assembly.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Pezeshkian’s first meeting in New York: Meets Swiss president",
-   "url": "https://en.irna.ir/news/86272889/Pezeshkian-s-first-meeting-in-New-York-Meets-Swiss-president",
-   "published": "2026-09-23T17:46:10+00:00",
-   "summary": "New York, IRNA – Masoud Pezeshkian, the President of the Islamic Republic of Iran, who is currently in New York, held talks with Swiss President Guy Parmelin in his first round of bilateral meetings.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran will not negotiate, reopen Hormuz until its conditions are met: Security chief",
-   "url": "https://en.irna.ir/news/86272842/Iran-will-not-negotiate-reopen-Hormuz-until-its-conditions-are",
-   "published": "2026-09-23T16:47:26+00:00",
-   "summary": "Tehran, IRNA – Iran will not enter negotiations with the United States or reopen the Strait of Hormuz until Washington meets seven conditions set by Tehran, Mohsen Rezaei, the secretary of the Supreme National Security Council, said on Wednesday.",
-   "tags": [
-    "diplomacy",
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Baqaei recalls Minab school martyrs on first day of new school year",
-   "url": "https://en.irna.ir/news/86272723/Baqaei-recalls-Minab-school-martyrs-on-first-day-of-new-school",
-   "published": "2026-09-23T14:18:32+00:00",
-   "summary": "Tehran, IRNA – Foreign Ministry Spokesperson Esmaeil Baqaei has marked the first day of the new school year by honoring the memory of the Minab school students massacared in a US-Israeli attack, saying the angels of Minab will forever remain in the hearts of Iranians.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran president at UNGA: ‘We do not fear war to defend ourselves’",
-   "url": "https://en.irna.ir/news/86272731/President-Pezeshkian-begins-his-address-at-UNGA-meeting-in-New",
-   "published": "2026-09-23T14:14:52+00:00",
-   "summary": "Tehran, IRNA –President Masoud Pezeshkian told the 81st UN General Assembly on Wednesday that war had been “imposed” on the Islamic Republic, declaring that Iran would never stop defending itself, nor would it shy away from negotiations to achieve peace.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "President Trump Delivers Powerful America First Message to the United Nations",
-   "url": "https://www.whitehouse.gov/releases/2026/09/president-trump-delivers-powerful-america-first-message-to-the-united-nations/",
-   "published": "2026-09-23T14:02:11+00:00",
-   "summary": "In his address to the United Nations, President Donald J. Trump&#160;touted&#160;his record of historic results that have reshaped world order for America’s benefit and made our nation safer and more prosperous. President Donald J. Trump is ensuring America is respected on the world stage again and holding the U.N. accountable after years of weak and [&#8230;] The post President Trump Delivers Pow",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "China firmly opposes illegal unilateral US sanctions against Iran",
-   "url": "https://en.irna.ir/news/86272674/China-firmly-opposes-illegal-unilateral-US-sanctions-against",
-   "published": "2026-09-23T13:31:20+00:00",
-   "summary": "Tehran, IRNA – Chinese Foreign Ministry spokesperson Guo Jiakun has emphasized that China firmly opposes illegal unilateral sanctions against Iran, amid US threats to sanction countries allowing Iranian commercial flights to land.",
-   "tags": [
-    "sanctions"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Victor Davis Hanson on Canada — A MUST SEE! President DONALD J. TRUMP",
-   "url": "https://www.trumpstruth.org/statuses/41851",
-   "published": "2026-09-23T13:26:43+00:00",
-   "summary": "Victor Davis Hanson on Canada — A MUST SEE! President DONALD J. TRUMP",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Canada is destroying itself by allowing millions and millions of people into the Country, essentially unchecked and unvetted, and who are causing problems that will soon be too big to handle. It is a Liberal takeover that will end very badly. Already showing up in their numbers. Big unemployment. ‘Oh Canada! President DJT",
-   "url": "https://www.trumpstruth.org/statuses/41850",
-   "published": "2026-09-23T13:08:24+00:00",
-   "summary": "Canada is destroying itself by allowing millions and millions of people into the Country, essentially unchecked and unvetted, and who are causing problems that will soon be too big to handle. It is a Liberal takeover that will end very badly. Already showing up in their numbers. Big unemployment. ‘Oh Canada! President DJT",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Saudi forces conduct 15 airstrikes on Yemen’s Hodeidah province",
-   "url": "https://en.irna.ir/news/86272679/Saudi-forces-conduct-15-airstrikes-on-Yemen-s-Hodeidah-province",
-   "published": "2026-09-23T12:42:31+00:00",
-   "summary": "Tehran, IRNA – Saudi Arabia carried out 15 airstrikes on Yemen’s Hodeidah Province and its subordinate areas, media sources reported.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Thank you to the Great Robert Greenway and Jesse — They get it! President DONALD J. TRUMP",
-   "url": "https://www.trumpstruth.org/statuses/41849",
-   "published": "2026-09-23T12:36:52+00:00",
-   "summary": "Thank you to the Great Robert Greenway and Jesse — They get it! President DONALD J. TRUMP",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Ruddy: 'A Rising Trump Lifts All Boats':",
-   "url": "https://www.trumpstruth.org/statuses/41845",
-   "published": "2026-09-23T04:04:44+00:00",
-   "summary": "Ruddy: 'A Rising Trump Lifts All Boats': https://www. newsmax.com/ruddy/ruddy-donald -trump-economy/2026/09/13/id/1269294/",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Azerbaijan's Hajiyev to Newsmax: Trump Peacemaker, Iran Deal Possible:",
-   "url": "https://www.trumpstruth.org/statuses/41846",
-   "published": "2026-09-23T04:04:24+00:00",
-   "summary": "Azerbaijan's Hajiyev to Newsmax: Trump Peacemaker, Iran Deal Possible: https://www. newsmax.com/newsfront/azerbaij an-ilham-aliyev-armenia/2026/09/14/id/1269433/",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Netanyahu Bloc Takes Lead in Latest Israeli Election Poll:",
-   "url": "https://www.trumpstruth.org/statuses/41847",
-   "published": "2026-09-23T04:04:03+00:00",
-   "summary": "Netanyahu Bloc Takes Lead in Latest Israeli Election Poll: https://www. newsmax.com/newsfront/israel-b enjamin-netanyahu-likud/2026/09/17/id/1269830/",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from September 23, 2026",
-   "url": "https://www.trumpstruth.org/statuses/41848",
-   "published": "2026-09-23T04:03:16+00:00",
-   "summary": "",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "All of the SLEAZEBAGS, like Third Rate “Reporter,” Kaitlan Collins, of Fake News CNN, a truly unhappy person, said they weren’t going to be covering me. Then why were they ranting and raving like Lunatics, in the Press Area, at the United Nations? Why was she there? She’s got a “TRUMP” addiction, and so does CNN and MSDNC. They’re all sick, treasonous, and demented! The “good news” is that they have a great, for them, and totally disloyal Judge. MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP",
-   "url": "https://www.trumpstruth.org/statuses/41844",
-   "published": "2026-09-23T03:53:59+00:00",
-   "summary": "All of the SLEAZEBAGS, like Third Rate “Reporter,” Kaitlan Collins, of Fake News CNN, a truly unhappy person, said they weren’t going to be covering me. Then why were they ranting and raving like Lunatics, in the Press Area, at the United Nations? Why was she there? She’s got a “TRUMP” addiction, and so does CNN and MSDNC. They’re all sick, treasonous, and demented! The “good news” is that they ha",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Agent in Jack Smith case says he was kept in dark that subpoenaed phone data belonged to Congress:",
-   "url": "https://www.trumpstruth.org/statuses/41843",
-   "published": "2026-09-22T22:13:52+00:00",
-   "summary": "Agent in Jack Smith case says he was kept in dark that subpoenaed phone data belonged to Congress: https:// justthenews.com/accountability /political-ethics/agent-jack-smith-case-says-he-was-kept-dark-subpoenaed-phone-data",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "White House",
-   "title": "President Trump Inks Historic Arctic Security Agreement",
-   "url": "https://www.whitehouse.gov/releases/2026/09/president-trump-inks-historic-arctic-security-agreement/",
-   "published": "2026-09-22T21:03:03+00:00",
-   "summary": "Today, President Donald J. Trump joined leaders of Denmark and Greenland to sign an unprecedented agreement giving the United States lasting control over security interests in Greenland. The landmark agreement — which comes at no cost to American taxpayers — forever guarantees America the ability to defend the continent, includes permanent basing rights, and bars [&#8230;] The post President Trump",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "First Lady Melania Trump Unveils New Fostering the Future Together Technology Alliances, International Events, and Membership Expansion",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/09/first-lady-melania-trump-unveils-new-fostering-the-future-together-technology-alliances-international-events-and-membership-expansion/",
-   "published": "2026-09-22T18:07:04+00:00",
-   "summary": "First Lady Melania Trump today reconvened members of Fostering the Future Together during the 81st United Nations General Assembly. The First Lady welcomed leaders from around the world, including representatives from the United Kingdom of Great Britain and Northern Ireland, Republic of Korea, the Philippines, Poland, Ukraine, Türkiye, the United Arab Emirates, Panama, Canada, and [&#8230;] The po",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "President Trump at the United Nations: “While Others Have Talked, I Have Acted”",
-   "url": "https://www.whitehouse.gov/releases/2026/09/president-trump-at-the-united-nations-while-others-have-talked-i-have-acted/",
-   "published": "2026-09-22T17:04:23+00:00",
-   "summary": "Today, President Donald J. Trump addressed the 81st session of the United Nations General Assembly and delivered a powerful message: American strength and resolve is back. President Trump declared that under his leadership, America is stronger than ever — and we will use that strength to confront our enemies, protect our interests, forbid communism, reject [&#8230;] The post President Trump at the",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "AGREEMENT BETWEEN THE GOVERNMENT OF THE UNITED STATES OF AMERICA AND THE GOVERNMENT OF THE KINGDOM OF DENMARK TOGETHER WITH THE GOVERNMENT OF GREENLAND",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/09/agreement-between-the-government-of-the-united-states-of-america-and-the-government-of-the-kingdom-of-denmark-together-with-the-government-of-greenland-to-amend-and-supplement-the-agreement-of-27-apri/",
-   "published": "2026-09-22T15:48:16+00:00",
-   "summary": "&#160;AGREEMENT BETWEEN THE GOVERNMENT OF THE UNITED STATES OF AMERICA AND THE GOVERNMENT OF THE KINGDOM OF DENMARK TOGETHER WITH THE GOVERNMENT OF GREENLAND TO AMEND AND SUPPLEMENT THE AGREEMENT OF 27 APRIL 1951 PURSUANT TO THE NORTH ATLANTIC TREATY BETWEEN THE GOVERNMENT OF THE UNITED STATES OF AMERICA AND THE GOVERNMENT OF THE KINGDOM [&#8230;] The post AGREEMENT BETWEEN THE GOVERNMENT OF THE U",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "The cowards and traitors would love to say the United States is low on munitions. It's not true. We have more munitions than we could ever possibly think of using, and are building them up now at levels we have never seen before. President DONALD J. TRUMP",
-   "url": "https://www.trumpstruth.org/statuses/41842",
-   "published": "2026-09-22T11:14:40+00:00",
-   "summary": "The cowards and traitors would love to say the United States is low on munitions. It's not true. We have more munitions than we could ever possibly think of using, and are building them up now at levels we have never seen before. President DONALD J. TRUMP",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Thanks Johnny. You are a total winner! President DJTSPORTS MLB Legend Johnny Damon Refuses To Apologize For His Opinion on President Trump:",
-   "url": "https://www.trumpstruth.org/statuses/41841",
-   "published": "2026-09-22T04:00:52+00:00",
-   "summary": "Thanks Johnny. You are a total winner! President DJT SPORTS MLB Legend Johnny Damon Refuses To Apologize For His Opinion on President Trump: https://www. miamiherald.com/sports/article 317314631.html",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "RT @Schoenlaw The writer tries to make excuses to explain this great news but the facts are the facts: Americans are doing better financially and the poverty level is dramatically down! Let’s give credit where it is due and celebrate good news for our country and fellow Americans!!! @realDonaldTrump",
-   "url": "https://www.trumpstruth.org/statuses/41839",
-   "published": "2026-09-22T03:26:49+00:00",
-   "summary": "RT @ Schoenlaw https://www. wsj.com/opinion/americans-hous ehold-income-2025-census-bureau-2e2a9e36?st=9jyvTw . The writer tries to make excuses to explain this great news but the facts are the facts: Americans are doing better financially and the poverty level is dramatically down! Let’s give credit where it is due and celebrate good news for our country and fellow Americans!!! @ realDonaldTrump",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Keep the lights on, sideline Big Brother: Trump EPA rollback could save ratepayers $310 billion:",
-   "url": "https://www.trumpstruth.org/statuses/41838",
-   "published": "2026-09-22T03:19:27+00:00",
-   "summary": "Keep the lights on, sideline Big Brother: Trump EPA rollback could save ratepayers $310 billion: https:// justthenews.com/government/fed eral-agencies/trumps-epa-gets-action-roots-out-30-billion-waste-fraud-and-abuse",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "While in New York City, I’m on the way to one of my favorite places in the World, Gracie Mansion. I spent lots of hours there over the years, with some great Mayors, some average Mayors, and some bad Mayors. It will be interesting to see how it looks now, invited by Mayor Mamdani. Look forward to it. MAKE NEW YORK CITY GREAT AGAIN! President DONALD J. TRUMP",
-   "url": "https://www.trumpstruth.org/statuses/41837",
-   "published": "2026-09-21T19:53:03+00:00",
-   "summary": "While in New York City, I’m on the way to one of my favorite places in the World, Gracie Mansion. I spent lots of hours there over the years, with some great Mayors, some average Mayors, and some bad Mayors. It will be interesting to see how it looks now, invited by Mayor Mamdani. Look forward to it. MAKE NEW YORK CITY GREAT AGAIN! President DONALD J. TRUMP",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "As expected, Fake News CNN, Politico (Pay back the 8 Million Dollar contribution made by the U.S. Government to keep them afloat!), and MSNOW (formerly known as MSDNC!), have brought suit to gain access to the White House, and your President, ME! They have drawn a great Judge, for them, a man who ruled in favor of Jim Acosta, who now seems to have disappeared from the Planet. The Judge’s name is Tim Kelly, and he was, sadly, appointed by “TRUMP.” In other words, almost without question and, as usual, we’ll go for appeal because Fake News people and publications that only write negatively, and who violate our National Security by writing false and defamatory stories with unknown “sources,” shouldn’t be allowed access to the most important Office anywhere in the World. It is called the Oval Office, and it should be treated with Decorum, Respect, and Dignity, not defiled by Third Rate Clowns, who purposefully distort, twist, and degrade with everything they write or publish. Virtually every story about me, or anything having to do with me, is negative, wrong and, in many cases, DANGEROUS for our Country! No matter how GREAT my Achievements, they trivialize and demean. The fact is, I won all seven Swing States, the Popular Vote, the Electoral College (312 to 226), and the Counties throughout America by 86%, and yet it is reported that I get 94% bad publicity. With such a Crooked and Corrupt Press, how did I win in such a LANDSLIDE? It is because the Media has NO credibility, and that is a very bad thing for our Nation! Why should I have to give “access” to such people? Perhaps Judge Kelly could explain that! In any event, I have an obligation to fight for the Success and Safety of our Country. FAKE NEWS IS A THREAT TO DEMOCRACY, and I will do whatever is necessary to make sure that the U.S.A. thrives. MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP",
-   "url": "https://www.trumpstruth.org/statuses/41836",
-   "published": "2026-09-21T19:39:56+00:00",
-   "summary": "As expected, Fake News CNN, Politico (Pay back the 8 Million Dollar contribution made by the U.S. Government to keep them afloat!), and MSNOW (formerly known as MSDNC!), have brought suit to gain access to the White House, and your President, ME! They have drawn a great Judge, for them, a man who ruled in favor of Jim Acosta, who now seems to have disappeared from the Planet. The Judge’s name is T",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Michael Baumgartner has my Complete and Total Endorsement for Re-Election as U.S. Representative from Washington’s 5th Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
-   "url": "https://www.trumpstruth.org/statuses/41833",
-   "published": "2026-09-21T18:43:24+00:00",
-   "summary": "Michael Baumgartner has my Complete and Total Endorsement for Re-Election as U.S. Representative from Washington’s 5th Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Joe Mitchell has my Complete and Total Endorsement to be the next U.S. Representative from Iowa’s 2nd Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
-   "url": "https://www.trumpstruth.org/statuses/41834",
-   "published": "2026-09-21T18:43:14+00:00",
-   "summary": "Joe Mitchell has my Complete and Total Endorsement to be the next U.S. Representative from Iowa’s 2nd Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Mike Bouchard has my Complete and Total Endorsement to be the next U.S. Representative from Michigan’s 10th Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
-   "url": "https://www.trumpstruth.org/statuses/41835",
-   "published": "2026-09-21T18:41:32+00:00",
-   "summary": "Mike Bouchard has my Complete and Total Endorsement to be the next U.S. Representative from Michigan’s 10th Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "We are just leaving the White House Lawn on the maiden voyage from the newly built, and very beautiful, Heliport! I want to thank Jim Taiclet, CEO of Lockheed Martin, who made this valuable contribution to our Country. Our Government has been thinking about doing this for 25 years, but was never able to get it done. I get things done! Also, and most importantly, THANK YOU to the Great Construction Workers and Stone Masons of the Washington, D.C., area, who created something very special, and to Clark Construction for its wonderful supervisory work. GOD BLESS AMERICA! President DONALD J. TRUMP",
-   "url": "https://www.trumpstruth.org/statuses/41832",
-   "published": "2026-09-21T18:08:27+00:00",
-   "summary": "We are just leaving the White House Lawn on the maiden voyage from the newly built, and very beautiful, Heliport! I want to thank Jim Taiclet, CEO of Lockheed Martin, who made this valuable contribution to our Country. Our Government has been thinking about doing this for 25 years, but was never able to get it done. I get things done! Also, and most importantly, THANK YOU to the Great Construction",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "White House",
-   "title": "White House Access Is a Privilege — Not a Right",
-   "url": "https://www.whitehouse.gov/releases/2026/09/white-house-access-is-a-privilege-not-a-right/",
-   "published": "2026-09-21T18:01:52+00:00",
-   "summary": "Last week, President Donald J. Trump removed CNN, MS NOW, and Politico from the White House grounds after years of false reporting. The First Amendment protects their right to publish; it does not entitle them to a hard pass, briefing room seat, or place in the press pool. Access changes are nothing new. What is [&#8230;] The post White House Access Is a Privilege — Not a Right appeared first on T",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "If Senate Republicans don’t TERMINATE THE FILIBUSTER, the Dumocrats will, and I will be, despite how well our Party is doing, the last Republican President! The Dumocrats will vote in Puerto Rico (4% Republican Vote), and Washington, D.C. (3% Republican Vote), pick up 4 Senators, 8 Congressmen/women, tremendous numbers of Popular and Electoral College Votes and, importantly, control the Voting Mechanisms and Systems, both Legal and otherwise, throughout the United States. It will be impossible for Republicans to ever win an Election again. In other words, it will be THE END OF AMERICA! Thank you for your attention to this matter. MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP",
-   "url": "https://www.trumpstruth.org/statuses/41831",
-   "published": "2026-09-21T17:18:05+00:00",
-   "summary": "If Senate Republicans don’t TERMINATE THE FILIBUSTER, the Dumocrats will, and I will be, despite how well our Party is doing, the last Republican President! The Dumocrats will vote in Puerto Rico (4% Republican Vote), and Washington, D.C. (3% Republican Vote), pick up 4 Senators, 8 Congressmen/women, tremendous numbers of Popular and Electoral College Votes and, importantly, control the Voting Mec",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "White House",
-   "title": "G20 Energy Abundance Ministerial Concludes with Four Consensus Outcomes",
-   "url": "https://www.whitehouse.gov/releases/2026/09/g20-energy-abundance-ministerial-concludes-with-four-consensus-outcomes/",
-   "published": "2026-09-21T14:41:07+00:00",
-   "summary": "On Wednesday, September 16th, 2026, G20 Energy Ministers concluded the Energy Abundance Ministerial in Houston, Texas. The Ministerial was hosted by the White House National Energy Dominance Council (NEDC), the Department of the Interior, the Department of Energy, and the Environmental Protection Agency. At the conclusion of the Ministerial, G20 Ministers reached consensus on four [&#8230;] The po",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "First Lady Melania Trump Releases Details Ahead of His Excellency Xi Jinping, President of The People’s Republic of China, and Madame Peng Liyuan’s Visit to The White House",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/09/first-lady-melania-trump-releases-details-ahead-of-his-excellency-xi-jinping-president-of-the-peoples-republic-of-china-and-madame-peng-liyuans-visit-to-the-white-house/",
-   "published": "2026-09-21T13:17:18+00:00",
-   "summary": "President Donald J. Trump and First Lady Melania Trump will welcome His Excellency Xi Jinping, President of the People’s Republic of China and Madame Peng Liyuan to the White House on Thursday, September 24, 2026, for an official state visit. This visit comes more than a decade since President Xi and Madame Peng’s last visit [&#8230;] The post First Lady Melania Trump Releases Details Ahead of His",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "Presidential Message on National Historically Black Colleges and Universities Week, 2026",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/09/presidential-message-on-national-historically-black-colleges-and-universities-week-2026/",
-   "published": "2026-09-21T13:16:01+00:00",
-   "summary": "For nearly two centuries, Historically Black Colleges and Universities (HBCUs) have opened doors of opportunity, cultivated excellence, and prepared generations of hardworking black Americans to become leaders in every field of national life.&#160; During National Historically Black Colleges and Universities Week, we honor that legacy and the enduring contributions of these storied institutions to",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "In photos: Iraqi strikes on Iran’s borders on the brink of war in 1980",
-   "url": "https://en.irna.ir/photo/86269750/In-photos-Iraqi-strikes-on-Iran-s-borders-on-the-brink-of-war",
-   "published": "2026-09-21T06:50:54+00:00",
-   "summary": "In August–September 1980, prior to Iraq’s all-out invasion of Iran, military confrontations escalated along the nation’s western frontiers.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Another US MQ-1 drone downed over Strait of Hormuz",
-   "url": "https://en.irna.ir/news/86269596/Another-US-MQ-1-drone-downed-over-Strait-of-Hormuz",
-   "published": "2026-09-21T05:54:01+00:00",
-   "summary": "Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) has announced the downing and destruction of yet another American MQ-1 drone over the strategic Strait of Hormuz.",
-   "tags": [
-    "strikes",
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iran’s military says US preparing to resume strikes",
-   "url": "https://www.aljazeera.com/news/2026/9/21/irans-military-says-us-preparing-to-resume-strikes?traffic_source=rss",
-   "published": "2026-09-21T05:21:41+00:00",
-   "summary": "Tehran threatens retaliation as Trump weighs military action while Qatar pushes to revive talks.",
-   "tags": [
-    "strikes",
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Massive explosions at Syrian army weapons depot near Aleppo",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/21/09-21-aleppo-depot-explosions-reported-mp4?traffic_source=rss",
-   "published": "2026-09-21T04:19:00+00:00",
-   "summary": "Explosions rocked a Syrian army ammunition depot south of Aleppo, injuring at least four people.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Powerful explosions at Syrian army site near Aleppo injure at least four",
-   "url": "https://www.aljazeera.com/news/2026/9/21/powerful-explosions-at-syrian-army-site-near-aleppo-injures-at-least-four?traffic_source=rss",
-   "published": "2026-09-21T01:30:46+00:00",
-   "summary": "Officials urge civilians to stay away from the site in al-Eis near Aleppo after a series of explosions.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Trump administration readies sweeping sanctions against ICC, reports say",
-   "url": "https://www.aljazeera.com/news/2026/9/21/trump-administration-readies-sweeping-sanctions-against-icc-reports-say?traffic_source=rss",
-   "published": "2026-09-21T01:19:42+00:00",
-   "summary": "Measures targeting the court itself could disrupt payments, IT services and investigations.",
-   "tags": [
-    "sanctions"
    ],
    "highlight": false
   }
