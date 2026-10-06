@@ -1,5 +1,5 @@
 {
- "asOf": "2026-10-06T19:52:07.501980+00:00",
+ "asOf": "2026-10-06T20:24:18.491898+00:00",
  "items": [
   {
    "source": "UN Press",
@@ -10,6 +10,17 @@
    "tags": [
     "strikes",
     "nuclear"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Yemen’s government is on the attack against the Houthis. What has changed?",
+   "url": "https://www.aljazeera.com/news-analysis/2026/10/6/yemen-government-is-on-the-attack-against-the-houthis-what-has-changed?traffic_source=rss",
+   "published": "2026-10-06T19:43:05+00:00",
+   "summary": "Yemeni forces are trying to reverse Houthi gains, aided by heavier air power and renewed international support.",
+   "tags": [
+    "strikes"
    ],
    "highlight": false
   },
@@ -585,17 +596,6 @@
    "tags": [
     "shipping",
     "oil"
-   ],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Exclusive — President of Cyprus: ‘Sky Is the Limit’ for Bilateral Relations with USA, Trump Has ‘Unique Advantage’ in Negotiations Because ‘You Know Where You Stand’ with POTUS:",
-   "url": "https://www.trumpstruth.org/statuses/42163",
-   "published": "2026-10-05T05:25:09+00:00",
-   "summary": "Exclusive — President of Cyprus: ‘Sky Is the Limit’ for Bilateral Relations with USA, Trump Has ‘Unique Advantage’ in Negotiations Because ‘You Know Where You Stand’ with POTUS: https://www. breitbart.com/politics/2026/10 /04/exclusive-president-of-cyprus-sky-is-the-limit-for-bilateral-relations-with-usa-trump-has-unique-advantage-in-negotiations-because-you-know-whe/",
-   "tags": [
-    "diplomacy"
    ],
    "highlight": true
   }
