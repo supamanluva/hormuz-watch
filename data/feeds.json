@@ -1,6 +1,232 @@
 {
- "asOf": "2026-10-06T12:03:28.291295+00:00",
+ "asOf": "2026-10-06T18:27:36.404734+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Tuareg rebels withdraw from strategic town of Kidal in northern Mali",
+   "url": "https://www.aljazeera.com/news/2026/10/6/tuareg-rebels-withdraw-from-strategic-town-of-kidal-in-northern-mali?traffic_source=rss",
+   "published": "2026-10-06T17:46:52+00:00",
+   "summary": "The Azawad Liberation Front said sustained air strikes by Malian troops and Russian allies forced its tactical retreat.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Ship sinks off Bulgaria after drone attack in Black Sea",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/ship-sinks-off-bulgaria-after-drone-attack-in-black-sea?traffic_source=rss",
+   "published": "2026-10-06T16:53:04+00:00",
+   "summary": "Ship sinks off Bulgaria after drone attack in Black Sea",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "UN Press",
+   "title": "Every New Fossil Fuel Projects Makes Tomorrow’s Heatwaves Deadlier, Secretary-General Tells Global Heat Forum, Urging More Investment to Protect People, Planet",
+   "url": "https://press.un.org/en/2026/sgsm23319.doc.htm",
+   "published": "2026-10-06T16:49:48+00:00",
+   "summary": "Following is the text of UN Secretary-General António Guterres’ video message for the Global Heat Forum, in Bangkok today:",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "UN Press",
+   "title": "Upon Receiving National Honour, Secretary-General Thanks People of Pakistan, Hailing It as Country of Strength, Determination, Compassion",
+   "url": "https://press.un.org/en/2026/sgsm23318.doc.htm",
+   "published": "2026-10-06T16:37:54+00:00",
+   "summary": "Following are UN Secretary-General António Guterres’ remarks on receiving the Pakistan national honour, in Islamabad today:",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "White House",
+   "title": "WHAT THEY ARE SAYING: President Trump Delivers Immediate Diesel Relief, Saving Americans Up to $100 Per Fill",
+   "url": "https://www.whitehouse.gov/releases/2026/10/what-they-are-saying-president-trump-delivers-immediate-diesel-relief-saving-americans-up-to-100-per-fill/",
+   "published": "2026-10-06T16:22:32+00:00",
+   "summary": "Last night, President Donald J. Trump signed an Executive Order that immediately cuts diesel costs by authorizing highway use of tax-free dyed diesel and deferring the federal diesel excise tax through the end of the year. The decisive action — expected to save drivers as much as $100 per fill — puts real money back [&#8230;] The post WHAT THEY ARE SAYING: President Trump Delivers Immediate Diesel",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Is Europe preparing for a wider war with Russia?",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/is-europe-preparing-for-a-wider-war-with-russia?traffic_source=rss",
+   "published": "2026-10-06T16:17:58+00:00",
+   "summary": "A British war-game show simulating a Russian attack has drawn a nuclear warning from Moscow.",
+   "tags": [
+    "strikes",
+    "nuclear"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "UN Press",
+   "title": "Security Council 1518 Sanctions Committee Removes One Entry from Its Sanctions List",
+   "url": "https://press.un.org/en/2026/sc16468.doc.htm",
+   "published": "2026-10-06T15:59:46+00:00",
+   "summary": "On 5 October 2026, the Security Council Committee established pursuant to resolution 1518 (2003) removed the following entry from its Sanctions List of individuals and entities:",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "UN Press",
+   "title": "Make Israeli-Palestinian Ceasefire Permanent, Allow Humanitarian Assistance at Scale, Secretary-General Urges in Message Marking Third Anniversary of 7 October",
+   "url": "https://press.un.org/en/2026/sgsm23317.doc.htm",
+   "published": "2026-10-06T15:57:02+00:00",
+   "summary": "Following is UN Secretary-General António Guterres’ message marking three years since the attacks of 7 October 2023:",
+   "tags": [
+    "strikes",
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran, Qatar to form joint task force to follow up on bilateral agreements",
+   "url": "https://en.irna.ir/news/86285266/Iran-Qatar-to-form-joint-task-force-to-follow-up-on-bilateral",
+   "published": "2026-10-06T15:47:14+00:00",
+   "summary": "Tehran, IRNA – Interior Minister Eskandar Momeni says Iran and Qatar would form a joint task force between their interior ministries to follow up on decisions and agreements reached during recent meetings.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "What’s happening in France is nothing less than out of control mass migration. This isn’t about schools, this is about Islam wanting to take over a once great Country! President DJT",
+   "url": "https://www.trumpstruth.org/statuses/42183",
+   "published": "2026-10-06T15:25:01+00:00",
+   "summary": "What’s happening in France is nothing less than out of control mass migration. This isn’t about schools, this is about Islam wanting to take over a once great Country! President DJT",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Bulgaria searches for missing crew after drones hit two ships in Black Sea",
+   "url": "https://www.aljazeera.com/news/2026/10/6/bulgaria-says-two-commercial-vessels-were-hit-in-drone-attack-in-its-waters?traffic_source=rss",
+   "published": "2026-10-06T14:50:01+00:00",
+   "summary": "Bulgaria launches search operation after Togo-flagged Alfa Watan sinks at scene of attack.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "‘Not the act of a friend’: Israel’s deadline to close UK consulate nears",
+   "url": "https://www.aljazeera.com/news/2026/10/6/its-not-the-act-of-a-friend-or-ally-israel-moves-to-shut-uk-consulate?traffic_source=rss",
+   "published": "2026-10-06T14:47:39+00:00",
+   "summary": "Former British consul Sir Vincent Fean says Israel is acting unlawfully in the wake of a new wave of sanctions.",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Saudi Arabia says East-West pipeline pumping 5.8 million bpd",
+   "url": "https://www.aljazeera.com/news/2026/10/6/saudi-arabia-says-east-west-pipeline-pumping-5-8-million-bpd?traffic_source=rss",
+   "published": "2026-10-06T14:38:09+00:00",
+   "summary": "Energy Minister Prince Abdulaziz bin ⁠Salman says capacity restored after major attack last month.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Hormuz ship attacks surge: Are increased oil exports sustainable?",
+   "url": "https://www.aljazeera.com/news/2026/10/6/hormuz-ship-attacks-surge-are-increased-oil-exports-sustainable?traffic_source=rss",
+   "published": "2026-10-06T14:15:09+00:00",
+   "summary": "Gulf oil flows surge despite escalating ship attacks in the critical Strait of Hormuz energy corridor.",
+   "tags": [
+    "strikes",
+    "shipping",
+    "oil"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "‘Cockroach stir stripped Modi’s carefully confected image’: Arundhati Roy",
+   "url": "https://www.aljazeera.com/news/2026/10/6/cockroach-stir-stripped-modis-carefully-confected-image-arundhati-roy?traffic_source=rss",
+   "published": "2026-10-06T14:13:55+00:00",
+   "summary": "Acclaimed Indian author talks to Al Jazeera on the Gen Z-led protests and allegations of vote theft by Modi government.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "FoxNews is long form interviewing the sleazebag, Dan Osborn, right now, who is running against our GREAT Republican Senator, Pete Ricketts, from Nebraska. Why are they doing this??? The “other side” doesn’t give our people any positive exposure or airtime. It is a miracle that I won, the last by a landslide, three Presidential Races! President DJT",
+   "url": "https://www.trumpstruth.org/statuses/42182",
+   "published": "2026-10-06T14:04:02+00:00",
+   "summary": "FoxNews is long form interviewing the sleazebag, Dan Osborn, right now, who is running against our GREAT Republican Senator, Pete Ricketts, from Nebraska. Why are they doing this??? The “other side” doesn’t give our people any positive exposure or airtime. It is a miracle that I won, the last by a landslide, three Presidential Races! President DJT",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "MY RALLIES ARE SAVING THE REPUBLICAN PARTY, AGAIN!!!",
+   "url": "https://www.trumpstruth.org/statuses/42181",
+   "published": "2026-10-06T13:51:56+00:00",
+   "summary": "MY RALLIES ARE SAVING THE REPUBLICAN PARTY, AGAIN!!!",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "FoxNews spends more time covering the Jihadist and Dumocrat candidates than they do the good old fashioned Republicans, the people that have saved America, and are making it great again. All they talk about is Dumocrat Jihadists like El-Sayed, with his softball interview by Martha MacCallum, and the like. She never interviews me like that. They don’t show my record breaking Rallies the morning after, but others do, and that’s what MAGA is watching. Fox is promoting the Dumocrats, not the Republicans and MAGA. They have totally lost their way! President DJT",
+   "url": "https://www.trumpstruth.org/statuses/42180",
+   "published": "2026-10-06T13:50:22+00:00",
+   "summary": "FoxNews spends more time covering the Jihadist and Dumocrat candidates than they do the good old fashioned Republicans, the people that have saved America, and are making it great again. All they talk about is Dumocrat Jihadists like El-Sayed, with his softball interview by Martha MacCallum, and the like. She never interviews me like that. They don’t show my record breaking Rallies the morning aft",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "UK police arrest British national linked to RAF Fairford airbase incident",
+   "url": "https://www.aljazeera.com/news/2026/10/6/uk-police-arrest-british-national-linked-to-airbase-incident?traffic_source=rss",
+   "published": "2026-10-06T13:44:19+00:00",
+   "summary": "British national, twenty-two, arrested on suspicion of a &quot;terror&quot; offence after other suspects released on bail.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "My Rally crowds and enthusiasm are unbelievable! Nobody has ever seen anything like it. We are flipping races all over the place. The Fake News knows it, but they don’t want to be truthful with their viewers. It’s all happening! The Dumocrats never counted on this. Thanks you to the great Networks that are covering the Rallies in full. They are being rewarded with BIG RATINGS. Watch for the “Midterm Surprise!” President DJT",
+   "url": "https://www.trumpstruth.org/statuses/42177",
+   "published": "2026-10-06T12:36:53+00:00",
+   "summary": "My Rally crowds and enthusiasm are unbelievable! Nobody has ever seen anything like it. We are flipping races all over the place. The Fake News knows it, but they don’t want to be truthful with their viewers. It’s all happening! The Dumocrats never counted on this. Thanks you to the great Networks that are covering the Rallies in full. They are being rewarded with BIG RATINGS. Watch for the “Midte",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "Chicago is suffering an unprecedented and particularly violent crime wave that is getting worse by the day. The Federal Government can extinguish it quickly and completely, but the Mayor of Chicago, or the Governor of Illinois, must ask for our help. What is wrong with them? Why aren’t they asking? TIME IS OF THE ESSENCE! President DJT",
+   "url": "https://www.trumpstruth.org/statuses/42178",
+   "published": "2026-10-06T12:25:59+00:00",
+   "summary": "Chicago is suffering an unprecedented and particularly violent crime wave that is getting worse by the day. The Federal Government can extinguish it quickly and completely, but the Mayor of Chicago, or the Governor of Illinois, must ask for our help. What is wrong with them? Why aren’t they asking? TIME IS OF THE ESSENCE! President DJT",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "Watchdog concludes Biden risked security by letting millions overstay visas, including threats:",
+   "url": "https://www.trumpstruth.org/statuses/42179",
+   "published": "2026-10-06T11:48:12+00:00",
+   "summary": "Watchdog concludes Biden risked security by letting millions overstay visas, including threats: https:// justthenews.com/government/sec urity/tuewatchdog-concludes-biden-risked-security-letting-millions-overstay-visas",
+   "tags": [],
+   "highlight": true
+  },
   {
    "source": "Al Jazeera",
    "title": "Saudi Arabia says three wounded in attacks on airports near Yemen border",
@@ -13,6 +239,59 @@
    "highlight": false
   },
   {
+   "source": "UN Press",
+   "title": "Security Council, 10233rd Meeting (AM) United Nations-African Union Cooperation",
+   "url": "https://press.un.org/en/blog/sc16469",
+   "published": "2026-10-06T10:40:10+00:00",
+   "summary": "The Security Council holds a briefing on cooperation between the UN and the African Union. Special Representative of the Secretary-General to the African Union and Head of the UN Office to the African Union Parfait Onanga-Anyanga and African Union Commissioner for Political Affairs and Peace and Security Bankole Adeoye are expected to brief. Mr. Onanga-Anyanga is expected to present the Secretary-",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Araghchi holds talks with UN special coordinator for Lebanon",
+   "url": "https://en.irna.ir/news/86284961/Araghchi-holds-talks-with-UN-special-coordinator-for-Lebanon",
+   "published": "2026-10-06T10:03:43+00:00",
+   "summary": "Tehran, IRNA — Iranian Foreign Minister Abbas Araghchi has held talks with Jean Arnault, the United Nations Special Coordinator for Lebanon.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran to send technical team to Qatar for talks on Iranian pilots",
+   "url": "https://en.irna.ir/news/86284847/Iran-to-send-technical-team-to-Qatar-for-talks-on-Iranian-pilots",
+   "published": "2026-10-06T09:09:45+00:00",
+   "summary": "Tehran, IRNA – The Islamic Republic will send a technical team to Qatar to hold further talks on the fate of Iranian pilots, Interior Minister Eskandar Momeni says.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran has no fear of negotiations, will defend national interests: Spokesperson Mohajerani",
+   "url": "https://en.irna.ir/news/86284776/Iran-has-no-fear-of-negotiations-will-defend-national-interests",
+   "published": "2026-10-06T08:39:23+00:00",
+   "summary": "Tehran, IRNA — Iran has no fear of negotiations and will firmly defend its national interests and territorial integrity, Administration spokesperson Fatemeh Mohajerani has said.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Trump’s social media posts do not determine whether Strait of Hormuz is open or closed: Deputy speaker",
+   "url": "https://en.irna.ir/news/86284694/Trump-s-social-media-posts-do-not-determine-whether-Strait-of",
+   "published": "2026-10-06T07:54:08+00:00",
+   "summary": "Tehran, IRNA — Deputy Parliament Speaker Ali Nikzad says whether the Strait of Hormuz remains open or closed is determined by fuel price displays in the United States, not by US President Donald Trump’s “empty” social media posts.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
    "source": "Al Jazeera",
    "title": "Trump approves firing squad execution for Fort Hood attacker Nidal Hasan",
    "url": "https://www.aljazeera.com/news/2026/10/6/trump-approves-firing-squad-execution-for-fort-hood-attacker-nidal-hasan?traffic_source=rss",
@@ -20,6 +299,50 @@
    "summary": "Pentagon confirms execution order for Nidal Hasan, convicted of killing 13 in Fort Hood shooting in 2009.",
    "tags": [
     "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "FM Araghchi, Iran’s envoy review outlook for Tehran-Baku ties",
+   "url": "https://en.irna.ir/news/86284640/FM-Araghchi-Iran-s-envoy-review-outlook-for-Tehran-Baku-ties",
+   "published": "2026-10-06T07:22:33+00:00",
+   "summary": "Tehran, IRNA – Foreign Minister Abbas Araghchi and Iran’s Ambassador to the Republic of Azerbaijan Mojtaba Demirchilou have reviewed the outlook for Tehran-Baku relations.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Official: UN chief to visit Pakistani officials on Iran–US talks",
+   "url": "https://en.irna.ir/news/86284523/Official-UN-chief-to-visit-Pakistani-officials-on-Iran-US-talks",
+   "published": "2026-10-06T06:16:40+00:00",
+   "summary": "New York, IRNA — Deputy Spokesman for the UN Secretary-General, Farhan Haq, has confirmed that Secretary-General António Guterres is currently in Pakistan, where he is expected to discuss the ongoing diplomatic efforts and mediation between Tehran and Washington with Pakistani officials.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran warns Bahrain, regional states against attacks from their territory",
+   "url": "https://en.irna.ir/news/86284434/Iran-warns-Bahrain-regional-states-against-hosting-attacks",
+   "published": "2026-10-06T06:09:17+00:00",
+   "summary": "New York, IRNA – Tehran has warned Bahrain and other regional states against allowing their territory or airspace to be used in attacks on Iran, stressing that it will respond if they allow such attacks again.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Interior minister in Doha for security talks",
+   "url": "https://en.irna.ir/news/86284493/Iranian-interior-minister-in-Doha-for-security-talks",
+   "published": "2026-10-06T05:55:37+00:00",
+   "summary": "Tehran, IRNA — Interior Minister Eskandar Momeni arrived in Doha late on Monday for talks with Qatari officials on bilateral security cooperation and regional developments.",
+   "tags": [
+    "diplomacy"
    ],
    "highlight": false
   },
@@ -114,6 +437,42 @@
    "highlight": false
   },
   {
+   "source": "UN Press",
+   "title": "Secretary-General Appoints Gianluca Rampolla del Tindaro of Italy United Nations Resident Coordinator in Egypt",
+   "url": "https://press.un.org/en/2026/sga2444.doc.htm",
+   "published": "2026-10-05T23:41:07+00:00",
+   "summary": "United Nations Secretary-General António Guterres has appointed Gianluca Rampolla del Tindaro of Italy as the United Nations Resident Coordinator in Egypt, with the host Government’s approval.",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "UN Press",
+   "title": "Petitioners from Non-Self-Governing Territories Urge Fourth Committee to Advance Their Decolonization",
+   "url": "https://press.un.org/en/2026/gaspd834.doc.htm",
+   "published": "2026-10-05T23:24:30+00:00",
+   "summary": "“The ocean is our ancestor,” not a resource to be exploited, elected representatives and petitioners from French Polynesia told the Fourth Committee (Special Political and Decolonization) today.",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "UN Press",
+   "title": "‘Good Governance’ Can Rebuild Trust, Create Opportunity for All, Secretary-General Tells Inter-Parliamentary Union",
+   "url": "https://press.un.org/en/2026/sgsm23316.doc.htm",
+   "published": "2026-10-05T23:22:31+00:00",
+   "summary": "Following is the text of UN Secretary-General António Guterres’ video message to the 153rd Assembly of the Inter-Parliamentary Union (IPU), held under theme “Enhancing good governance and empowering communities through inclusivity, trust and opportunities for all”, in Arusha, United Republic of Tanzania, today:",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "UN Press",
+   "title": "With $4 Trillion Annual SDG Financing Gap, Second Committee Opens General Debate amid Calls to ‘Double Down’ on Development",
+   "url": "https://press.un.org/en/2026/gaef3619.doc.htm",
+   "published": "2026-10-05T22:46:26+00:00",
+   "summary": "With an annual Sustainable Development Goal (SDG) financing gap estimated at more than $4 trillion, global growth projected to expand by only 2.6 per cent in 2026 and over 800 million people still living in poverty, speakers today called for efforts to “double down” on translating global aspirations into tangible outcomes as the Second Committee (Economic and Financial) opened its general debate.",
+   "tags": [],
+   "highlight": false
+  },
+  {
    "source": "Trump · Truth Social",
    "title": "The Radical Left is upset with the fact that I am taking Ads, which I consider to be a positive promotion for our Great U.S.A., and paying for them with U.S.A. money. This is a rather standard thing to do but, rather than doing that, although nothing will make them happy, I have decided to do the Patriotic Ads, among others, and pay for them myself, and with money I raised for MAGA, Inc. MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP",
    "url": "https://www.trumpstruth.org/statuses/42171",
@@ -121,6 +480,15 @@
    "summary": "The Radical Left is upset with the fact that I am taking Ads, which I consider to be a positive promotion for our Great U.S.A., and paying for them with U.S.A. money. This is a rather standard thing to do but, rather than doing that, although nothing will make them happy, I have decided to do the Patriotic Ads, among others, and pay for them myself, and with money I raised for MAGA, Inc. MAKE AMER",
    "tags": [],
    "highlight": true
+  },
+  {
+   "source": "UN Press",
+   "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General",
+   "url": "https://press.un.org/en/2026/db261005.doc.htm",
+   "published": "2026-10-05T22:13:51+00:00",
+   "summary": "In Ethiopia’s Tigray region, a UN agency warehouse with aid supplies, and local and international non-governmental organizations’ facilities were looted on Sunday amid ongoing insecurity in the north of the country. Plans are under way to resume deliveries of food and health support.",
+   "tags": [],
+   "highlight": false
   },
   {
    "source": "Trump · Truth Social",
@@ -227,360 +595,6 @@
    "summary": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117384609805773432",
    "tags": [],
    "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Thank you Mehek! President DJT",
-   "url": "https://www.trumpstruth.org/statuses/42161",
-   "published": "2026-10-04T20:50:00+00:00",
-   "summary": "Thank you Mehek! President DJT",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "A beautiful picture with the Great Leader of China, President Xi Jinping! President DONALD J. TRUMP",
-   "url": "https://www.trumpstruth.org/statuses/42159",
-   "published": "2026-10-04T18:09:43+00:00",
-   "summary": "A beautiful picture with the Great Leader of China, President Xi Jinping! President DONALD J. TRUMP",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from October 4, 2026",
-   "url": "https://www.trumpstruth.org/statuses/42156",
-   "published": "2026-10-04T17:50:13+00:00",
-   "summary": "",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from October 4, 2026",
-   "url": "https://www.trumpstruth.org/statuses/42157",
-   "published": "2026-10-04T17:50:02+00:00",
-   "summary": "",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Trump credits tariffs for bringing pharmaceutical manufacturing campus to Ohio:",
-   "url": "https://www.trumpstruth.org/statuses/42158",
-   "published": "2026-10-04T17:49:24+00:00",
-   "summary": "Trump credits tariffs for bringing pharmaceutical manufacturing campus to Ohio: https:// justthenews.com/government/whi te-house/trump-credits-tariffs-bringing-pharmaceutical-manufacturing-campus-ohio",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from October 4, 2026",
-   "url": "https://www.trumpstruth.org/statuses/42155",
-   "published": "2026-10-04T17:38:02+00:00",
-   "summary": "",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from October 4, 2026",
-   "url": "https://www.trumpstruth.org/statuses/42153",
-   "published": "2026-10-04T17:09:53+00:00",
-   "summary": "",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from October 4, 2026",
-   "url": "https://www.trumpstruth.org/statuses/42154",
-   "published": "2026-10-04T17:09:41+00:00",
-   "summary": "",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from October 4, 2026",
-   "url": "https://www.trumpstruth.org/statuses/42136",
-   "published": "2026-10-04T17:09:24+00:00",
-   "summary": "",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "White House",
-   "title": "U.S. Leads International Coalition to Endorse Kyoto Vision for a Golden Age of Science",
-   "url": "https://www.whitehouse.gov/releases/2026/10/us-leads-international-coalition-to-endorse-kyoto-vision-for-a-golden-age-of-science/",
-   "published": "2026-10-04T09:14:42+00:00",
-   "summary": "KYOTO, JAPAN — At the 23rd Annual Meeting of the Science and Technology in Society (STS) Forum convened in Kyoto, the United States and 16 countries endorsed the Kyoto Vision for a Golden Age of Science. The joint declaration reflects a shared ambition to renew and strengthen our science ecosystems and usher in a golden age [&#8230;] The post U.S. Leads International Coalition to Endorse Kyoto Vis",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "Fact Sheet: President Donald J. Trump Announces Medicare Improvement Fund Payments for Seniors",
-   "url": "https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-president-donald-j-trump-announces-medicare-improvement-fund-payments-for-seniors/",
-   "published": "2026-10-03T03:01:43+00:00",
-   "summary": "IMPROVING MEDICARE FOR SENIORS:&#160;Today, President Donald J. Trump announced that the federal government will be making one-time payments of $90 per person to help more than 20 million enrollees pay for their Medicare Part B premiums.&#160;&#160; HISTORIC ACTION TO HELP SENIOR CITIZENS:&#160;With this action, President Trump is the first President to ever use the Medicare [&#8230;] The post Fac",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "National Manufacturing Day, 2026",
-   "url": "https://www.whitehouse.gov/presidential-actions/2026/10/national-manufacturing-day-2026/",
-   "published": "2026-10-02T19:29:58+00:00",
-   "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA A PROCLAMATION For 250 years, American workers have been the driving force behind our Nation&#8217;s strength, prosperity, and industrial might.&#160; Their skill, ingenuity, and determination have fueled our economy and carried American manufacturing to new heights.&#160; On National Manufacturing Day, we honor the men and women [&#8230;] The post ",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "Presidential Message on Down Syndrome Awareness Month",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-down-syndrome-awareness-month-6778/",
-   "published": "2026-10-02T18:30:00+00:00",
-   "summary": "Every child is a gift from God, created in His image and likeness, bringing hope, love, and a future filled with promise to our Nation and the world.&#160; This Down Syndrome Awareness Month, I join millions of Americans in celebrating the lives, accomplishments, and contributions of people with Down syndrome and honor the families and [&#8230;] The post Presidential Message on Down Syndrome Aware",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "Presidential Message on National Cybersecurity Awareness Month",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-national-cybersecurity-awareness-month/",
-   "published": "2026-10-02T18:28:12+00:00",
-   "summary": "In an age of rapid digital advancement, cyberspace has emerged as the new frontier of American innovation, prosperity, and strength.&#160; As new technologies open doors to discovery and opportunity that were once unimaginable, a secure cyberspace is essential to ensuring that America continues to lead the world in finance, military power, emerging technology, and manufacturing.&#160; [&#8230;] Th",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "Presidential Message on National Domestic Violence Awareness Month",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-national-domestic-violence-awareness-month/",
-   "published": "2026-10-02T18:25:08+00:00",
-   "summary": "In communities across our great Nation, domestic violence destroys families, harms innocent children, and leaves lasting pain in our neighborhoods.&#160; For America to be strong, children must feel safe in their homes, spouses and significant others must be respected, and it must be a universal truth that violence in any form is unacceptable.&#160; This National [&#8230;] The post Presidential Me",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "Presidential Message on National Breast Cancer Awareness Month",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-national-breast-cancer-awareness-month-a680/",
-   "published": "2026-10-02T18:20:21+00:00",
-   "summary": "During National Breast Cancer Awareness Month, we celebrate the resilience and courage of our Nation’s four million breast cancer survivors, extend our unwavering support to those currently in the fight, and honor the memory of beloved family members and friends lost to this terrible disease.&#160; In an instant, a breast cancer diagnosis forever changes the [&#8230;] The post Presidential Message",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "New Report: DSA Policies Would Cost Americans Trillions",
-   "url": "https://www.whitehouse.gov/releases/2026/10/new-report-dsa-policies-would-cost-americans-trillions/",
-   "published": "2026-10-01T22:22:29+00:00",
-   "summary": "Today, President Donald J. Trump’s Council of Economic Advisers released a report revealing the severe economic cost – $49 TRILLION, over $350,000 per household – for American taxpayers over the next ten years if the Democratic Socialists of America’s top policies were adopted. The report titled, “The Real Cost of Socialism in America,” details the scathing reality of their [&#8230;] The post New ",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "Nearly Two Years In, President Trump Is Still Stacking Historic Wins at Record Speed",
-   "url": "https://www.whitehouse.gov/releases/2026/10/nearly-two-years-in-president-trump-is-still-stacking-historic-wins-at-record-speed/",
-   "published": "2026-10-01T17:43:08+00:00",
-   "summary": "On Day One, President Donald J. Trump promised to “move with purpose and speed to bring back hope, prosperity, safety, and peace.” Nearly two years into his second term, he has done exactly that — delivering results at a pace Washington has never seen. Here are 32 landmark policy wins from the past few weeks [&#8230;] The post Nearly Two Years In, President Trump Is Still Stacking Historic Wins at",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Pakistan says 22 fighters killed in air attacks on Afghanistan",
-   "url": "https://www.aljazeera.com/news/2026/10/1/afghanistan-says-nine-killed-in-pakistani-air-raids-on-kunar-helmand?traffic_source=rss",
-   "published": "2026-10-01T04:16:19+00:00",
-   "summary": "Kabul says the strikes on Kunar and Helmand provinces killed nine women and children.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "Democrats UNANIMOUSLY Vote AGAINST the Stop Insider Trading Act",
-   "url": "https://www.whitehouse.gov/releases/2026/09/democrats-unanimously-vote-against-the-stop-insider-trading-act/",
-   "published": "2026-10-01T03:00:00+00:00",
-   "summary": "President Trump stands with the American people— no lawmaker, regardless of party or seniority, should utilize insider information for personal profit. In his State of the Union Address to Congress earlier this year, President Trump called for the passage of the Stop Insider Trading Act without delay to ensure that Members of Congress cannot profit [&#8230;] The post Democrats UNANIMOUSLY Vote AGA",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "UK says Iran may be linked to alleged airbase plot, drawing angry denial",
-   "url": "https://www.aljazeera.com/news/2026/10/1/uk-says-iran-may-be-linked-to-alleged-airbase-plot-drawing-angry-denial?traffic_source=rss",
-   "published": "2026-10-01T02:30:45+00:00",
-   "summary": "Andy Burnham says UK has &#039;strong indications&#039; Iran involved in alleged security incident at RAF base used by US.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iran parades Shahed drones through capital",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/iran-parades-shahed-drones-through-capital?traffic_source=rss",
-   "published": "2026-10-01T00:39:04+00:00",
-   "summary": "Crowds cheered and waved national flags as two Shahed drones were paraded through Tehran.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iran war live: Trump hints US could strike Iran, warns time coming",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/10/1/iran-war-live-trump-hints-us-could-strike-iran-warns-time-coming?traffic_source=rss",
-   "published": "2026-10-01T00:00:00+00:00",
-   "summary": "Trump says the US may “blow up” Iran or strike a deal, insisting the standoff will end very soon one way or the other.",
-   "tags": [
-    "strikes",
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "US judge approves settlement allowing Paramount to acquire Warner Bros",
-   "url": "https://www.aljazeera.com/news/2026/9/30/us-judge-approves-settlement-allowing-paramount-to-acquire-warner-bros?traffic_source=rss",
-   "published": "2026-09-30T23:15:00+00:00",
-   "summary": "Mammoth deal has raised questions about corporate consolidation and editorial independence in media.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Russian drone crashes into Kyiv playground without exploding",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/aje-onl-nf_russian-drone-crashes-on-kyiv-playground-300926?traffic_source=rss",
-   "published": "2026-09-30T22:13:35+00:00",
-   "summary": "A Russian attack drone crashed into a children’s playground in Kyiv, Ukraine without exploding.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran, Russia discuss information security and AI cooperation",
-   "url": "https://en.irna.ir/news/86279868/Iran-Russia-discuss-information-security-and-AI",
-   "published": "2026-09-30T21:17:33+00:00",
-   "summary": "Moscow, IRNA — A new round of consultations regarding the implementation of the bilateral agreement on international information security between Iran and Russia was held in Moscow.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Gunmen kill 7 on bus in Syria as pipeline blast knocks out 3 power plants",
-   "url": "https://www.aljazeera.com/news/2026/9/30/gas-pipeline-explodes-in-syria-knocks-three-power-plants-offline?traffic_source=rss",
-   "published": "2026-09-30T21:01:13+00:00",
-   "summary": "Gunmen attack bus in Homs province hours after a pipeline explosion knocked out three power plants near Damascus.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Israeli attacks across Gaza kill at least eight",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/israeli-attacks-across-gaza-kill-at-least-eight?traffic_source=rss",
-   "published": "2026-09-30T20:12:22+00:00",
-   "summary": "Israeli attacks on residential areas across Gaza killed at least eight civilians and wounded others on Wednesday",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "ICYMI: President Trump Announces Largest-Ever Steel Plant Coming to Iowa",
-   "url": "https://www.whitehouse.gov/releases/2026/09/icymi-president-trump-announces-largest-ever-steel-plant-coming-to-iowa/",
-   "published": "2026-09-30T17:10:17+00:00",
-   "summary": "President Donald J. Trump announced a $15 billion Mesabi Metallics steel complex is coming to Iowa — the largest steel plant ever built in the United States as more industrial capacity comes home. The project will create 1,750 new, permanent jobs, support up to 6,000 construction jobs, and generate an estimated $95 billion in U.S. [&#8230;] The post ICYMI: President Trump Announces Largest-Ever St",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran urges UNESCO cooperation to restore cultural heritage damaged in war",
-   "url": "https://en.irna.ir/news/86279757/Iran-urges-UNESCO-cooperation-to-restore-cultural-heritage-damaged",
-   "published": "2026-09-30T17:06:44+00:00",
-   "summary": "Tehran, IRNA – An official from Iran’s Ministry of Cultural Heritage and Tourism has called for strengthened international cooperation, particularly from UNESCO, to assess, document, and restore Iranian cultural heritage damaged in US attacks.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Hamas: Israel’s attacks are genocide, blatant ceasefire breach",
-   "url": "https://en.irna.ir/news/86279701/Hamas-Israel-s-attacks-are-genocide-blatant-ceasefire-breach",
-   "published": "2026-09-30T16:22:12+00:00",
-   "summary": "Tehran, IRNA – The Islamic Resistance Movement (Hamas) said that the Zionist regime’s continued escalation of attacks in the Gaza Strip amounts to continued genocide against the Palestinians and a blatant violation of the ceasefire agreement.",
-   "tags": [
-    "strikes",
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "Congressional Bill S. 2398 Signed into Law",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/09/congressional-bill-s-2398-signed-into-law/",
-   "published": "2026-09-30T16:17:26+00:00",
-   "summary": "On Wednesday, September 30, 2026, the President signed into law: S. 2398, the &#8220;Kay Hagan Tick Reauthorization Act,&#8221; which reauthorizes through Fiscal Year 2030, activities to address vector-borne diseases. The post Congressional Bill S. 2398 Signed into Law appeared first on The White House .",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "Adobe, Amazon, Intel, Starlink, Google, and Zoom partner with First Lady Melania Trump’s Fostering the Future Together",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/09/adobe-amazon-intel-starlink-google-and-zoom-partner-with-first-lady-melania-trumps-fostering-the-future-together/",
-   "published": "2026-09-30T12:28:07+00:00",
-   "summary": "First Lady Melania Trump secured six new private-sector technology partnerships for Fostering the Future Together, including Adobe, Amazon, Intel, Starlink, Google, and Zoom. “When I established Fostering the Future Together, the mission was clear: empower children through technology and education. Delivering on that mission demands alliances between best-in-class innovators and global leaders, es",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran’s maritime transport remains active despite sanctions: Official",
-   "url": "https://en.irna.ir/news/86279317/Iran-s-maritime-transport-remains-active-despite-sanctions-Official",
-   "published": "2026-09-30T11:09:45+00:00",
-   "summary": "Tehran, IRNA – Minister of Roads and Urban Development Farzaneh Sadegh has described maritime transport as an important manifestation of Iran’s economic and diplomatic strength.",
-   "tags": [
-    "sanctions"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Pezeshkian: Sustainable Persian Gulf security depends on regional responsibility",
-   "url": "https://en.irna.ir/news/86279374/Pezeshkian-Sustainable-Persian-Gulf-security-depends-on-regional",
-   "published": "2026-09-30T10:36:28+00:00",
-   "summary": "Tehran, IRNA – President Masoud Pezeshkian stresses the special importance of the Strait of Hormuz to regional and global security and economy, emphasizing a responsible approach based on preserving stability and the interests of regional countries.",
-   "tags": [
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran’s maritime power plays key role in supporting shipping security: Top commander",
-   "url": "https://en.irna.ir/news/86278922/Iran-s-maritime-power-plays-key-role-in-supporting-shipping-security",
-   "published": "2026-09-30T09:42:44+00:00",
-   "summary": "Tehran, IRNA – Iranian Navy commander Rear Admiral Shahram Irani has described Iran’s maritime power as a key factor in safeguarding national interests, regional security and the safety of shipping routes.",
-   "tags": [
-    "shipping"
-   ],
-   "highlight": false
   }
  ]
 }
