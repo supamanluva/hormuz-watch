@@ -1,6 +1,27 @@
 {
- "asOf": "2026-10-06T19:19:25.072960+00:00",
+ "asOf": "2026-10-06T19:52:07.501980+00:00",
  "items": [
+  {
+   "source": "UN Press",
+   "title": "Alarming Rise in Nuclear Spending, Proliferation in Drones, Missiles, Due to Decade-Long Erosion of Trust, Fist Committee Speakers Stress",
+   "url": "https://press.un.org/en/2026/gadis3763.doc.htm",
+   "published": "2026-10-06T19:48:07+00:00",
+   "summary": "Nuclear risks persist, arms-control arrangements are under pressure and new technologies are transforming the character and speed of conflict, Khalilur Rahman, President of the UN General Assembly, told the First Committee (Disarmament and International Security) today, as it began its general debate.",
+   "tags": [
+    "strikes",
+    "nuclear"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "UN Press",
+   "title": "As Insecurity Expands across Africa, United Nations-African Union Partnership Must Prevent Rather than Merely React to Crises, Speakers Urge Security Council",
+   "url": "https://press.un.org/en/2026/sc16469.doc.htm",
+   "published": "2026-10-06T19:10:50+00:00",
+   "summary": "Amid deepening conflict and insecurity across Africa, the partnership between the United Nations and the African Union should shift from reactive crisis management to proactive conflict prevention and from abstract frameworks to concrete implementation of Council resolution 2719 (2023), speakers heard today during the Council’s annual meeting on cooperation with the African Union, ahead of their t",
+   "tags": [],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Tuareg rebels withdraw from strategic town of Kidal in northern Mali",
@@ -576,24 +597,6 @@
    "tags": [
     "diplomacy"
    ],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "125 Million People voted today in the first round of India’s Presidential Election. The results came out shortly after the vote closed, on the SAME DAY! In Detroit, Philadelphia, California, and numerous other U.S. Cities and States, the results, with much smaller numbers, will often take weeks to Rig, I mean, calculate. Voting in America is CORRUPT!!! President DJT",
-   "url": "https://www.trumpstruth.org/statuses/42162",
-   "published": "2026-10-05T03:32:10+00:00",
-   "summary": "125 Million People voted today in the first round of India’s Presidential Election. The results came out shortly after the vote closed, on the SAME DAY! In Detroit, Philadelphia, California, and numerous other U.S. Cities and States, the results, with much smaller numbers, will often take weeks to Rig, I mean, calculate. Voting in America is CORRUPT!!! President DJT",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "[No Title] - Post from October 4, 2026",
-   "url": "https://www.trumpstruth.org/statuses/42160",
-   "published": "2026-10-04T20:50:34+00:00",
-   "summary": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117384609805773432",
-   "tags": [],
    "highlight": true
   }
  ]
