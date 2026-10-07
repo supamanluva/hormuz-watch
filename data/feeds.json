@@ -1,6 +1,29 @@
 {
- "asOf": "2026-10-07T03:29:57.878064+00:00",
+ "asOf": "2026-10-07T03:57:47.391926+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "US stock market hits all-time high as investors bet big on AI",
+   "url": "https://www.aljazeera.com/economy/2026/10/7/us-stock-market-hits-all-time-high-as-investors-bet-big-on-ai?traffic_source=rss",
+   "published": "2026-10-07T03:27:20+00:00",
+   "summary": "The benchmark S&amp;P 500 is up 14 percent this year despite elevated oil prices and US government debt sell-off.",
+   "tags": [
+    "oil"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Oman evacuates injured crew from attacked tanker in Strait of Hormuz",
+   "url": "https://www.aljazeera.com/news/2026/10/7/oman-evacuates-injured-crew-from-attacked-tanker-in-strait-of-hormuz?traffic_source=rss",
+   "published": "2026-10-07T03:16:32+00:00",
+   "summary": "India&#039;s Foreign Ministry says 11 out of 12 injured crew members on board the On Peace are Indian nationals.",
+   "tags": [
+    "strikes",
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Explosion shutters Venezuela’s second-largest oil refinery",
@@ -12,6 +35,15 @@
     "oil"
    ],
    "highlight": false
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "Jack Smith Spied on Trump Staffer’s Communications and 20+ Lawyers: Report:",
+   "url": "https://www.trumpstruth.org/statuses/42184",
+   "published": "2026-10-07T02:12:02+00:00",
+   "summary": "Jack Smith Spied on Trump Staffer’s Communications and 20+ Lawyers: Report: https:// usajournal.news/2026/10/05/jac k-smith-spied-on-susie-wiles-phone-and-emails-while-she-ran-trumps-campaign/",
+   "tags": [],
+   "highlight": true
   },
   {
    "source": "Al Jazeera",
@@ -583,33 +615,6 @@
    "summary": "Think of it, The New York Times DOCTORED the picture of the beautiful exterior facade of Doral, in Miami, trying to make it look as bad as possible. These people are STONE COLD LOSERS — Totally dishonest. That’s why they’re going TO HELL, and their subscription numbers are way down! President DONALD J. TRUMP",
    "tags": [],
    "highlight": true
-  },
-  {
-   "source": "White House",
-   "title": "Emergency Tax Relief on Diesel Fuel",
-   "url": "https://www.whitehouse.gov/presidential-actions/2026/10/emergency-tax-relief-on-diesel-fuel/",
-   "published": "2026-10-06T01:13:53+00:00",
-   "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered: Section 1. Purpose and Policy. Farmers and truckers are essential to the American way of life. Restricted global diesel supply has led to rising prices, and these key industries have been [&#8230;] The post Emergency Tax Relief on Diesel Fuel appeared first on The Whit",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "Presidential Message on Child Health Day",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-child-health-day-c67c/",
-   "published": "2026-10-06T01:04:09+00:00",
-   "summary": "This Child Health Day, we renew our commitment to ensure the health and well-being of America’s children – our Nation’s future – so that they may live full, lasting, and happy lives free from the burden of health concerns. As our children grow, we must protect their health and give them every opportunity to thrive.&#160; [&#8230;] The post Presidential Message on Child Health Day appeared first on",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "Presidential Message on Fire Prevention Week",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-fire-prevention-week/",
-   "published": "2026-10-06T01:02:35+00:00",
-   "summary": "During Fire Prevention Week, my Administration honors the memory of America’s courageous firefighters and first responders for their extraordinary service and sacrifice. We are reaffirming our commitment to strengthening fire prevention and emergency response across the Nation. &#160;I encourage every American to take simple steps to protect their homes, families, and communities from preventable ",
-   "tags": [],
-   "highlight": false
   }
  ]
 }
