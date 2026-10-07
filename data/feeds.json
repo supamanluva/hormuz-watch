@@ -1,6 +1,18 @@
 {
- "asOf": "2026-10-07T08:58:21.296683+00:00",
+ "asOf": "2026-10-07T09:27:40.313662+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "What does a year-long ceasefire in Gaza look like?",
+   "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/10/7/what-does-a-year-long-ceasefire-in-gaza-look-like?traffic_source=rss",
+   "published": "2026-10-07T08:55:12+00:00",
+   "summary": "Israel attacked Gaza nine days out of 10 during a so-called ceasefire.",
+   "tags": [
+    "strikes",
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Yemen’s Houthis attack Aden airport; Saudi forces down missile near Riyadh",
@@ -38,10 +50,10 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "At least two killed in Kyiv as Russia launches ‘massive’ attack on Ukraine",
+   "title": "At least 11 killed as Russia launches ‘massive’ attack on Ukraine",
    "url": "https://www.aljazeera.com/news/2026/10/7/at-least-two-killed-in-kyiv-as-russia-launches-massive-attack-on-ukraine?traffic_source=rss",
    "published": "2026-10-07T06:19:26+00:00",
-   "summary": "Russia’s Defence Ministry says its forces carried out a &#039;massive strike&#039; on Kyiv and other Ukrainian regions.",
+   "summary": "Ukraine&#039;s air force says Russia launched 130 drones, 48 cruise missiles and ballistic missiles in overnight attack.",
    "tags": [
     "strikes"
    ],
@@ -475,17 +487,6 @@
     "strikes",
     "shipping",
     "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "‘Cockroach stir stripped Modi’s carefully confected image’: Arundhati Roy",
-   "url": "https://www.aljazeera.com/news/2026/10/6/cockroach-stir-stripped-modis-carefully-confected-image-arundhati-roy?traffic_source=rss",
-   "published": "2026-10-06T14:13:55+00:00",
-   "summary": "Acclaimed Indian author talks to Al Jazeera on the Gen Z-led protests and allegations of vote theft by Modi government.",
-   "tags": [
-    "diplomacy"
    ],
    "highlight": false
   },
