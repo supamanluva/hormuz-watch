@@ -1,5 +1,5 @@
 {
- "asOf": "2026-10-07T08:14:45.472819+00:00",
+ "asOf": "2026-10-07T08:49:35.522809+00:00",
  "methodology": "Unique MMSIs observed inside each strait bounding box during a ~10 min aisstream.io listening window per run (presence count, not full transits; AIS-dark vessels are invisible). Tanker = AIS ship type 80-89. Lower bound, best read as a trend.",
  "hours": [
   {
