@@ -1,6 +1,18 @@
 {
- "asOf": "2026-10-07T02:39:21.223579+00:00",
+ "asOf": "2026-10-07T03:01:14.603460+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Explosion shutters Venezuela’s second-largest oil refinery",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/explosion-shutters-venezuelas-second-largest-oil-refinery?traffic_source=rss",
+   "published": "2026-10-07T02:23:03+00:00",
+   "summary": "An explosion has ripped through Venezuela&#039;s second-largest oil refinery, causing it to suspend activities.",
+   "tags": [
+    "strikes",
+    "oil"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Two Houthi missiles target Yemen’s Aden International Airport",
@@ -596,15 +608,6 @@
    "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-fire-prevention-week/",
    "published": "2026-10-06T01:02:35+00:00",
    "summary": "During Fire Prevention Week, my Administration honors the memory of America’s courageous firefighters and first responders for their extraordinary service and sacrifice. We are reaffirming our commitment to strengthening fire prevention and emergency response across the Nation. &#160;I encourage every American to take simple steps to protect their homes, families, and communities from preventable ",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "President Trump Takes Decisive Action to Lower Diesel Costs for American Truckers, Farmers",
-   "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-takes-decisive-action-to-lower-diesel-costs-for-american-truckers-farmers/",
-   "published": "2026-10-06T00:20:07+00:00",
-   "summary": "Tonight, President Donald J. Trump signed an Executive Order to immediately cut diesel costs for the truckers and farmers who keep America moving. The order temporarily opens highway use of tax-free dyed diesel, deferring the federal diesel tax on that fuel through the end of the year — no interest, no penalties. With elevated diesel [&#8230;] The post President Trump Takes Decisive Action to Lowe",
    "tags": [],
    "highlight": false
   }
