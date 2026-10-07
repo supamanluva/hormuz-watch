@@ -1,6 +1,28 @@
 {
- "asOf": "2026-10-06T23:54:53.889029+00:00",
+ "asOf": "2026-10-07T01:01:30.009785+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Yemeni forces launch offensive to retake Houthi-held al-Waziiya in Taiz",
+   "url": "https://www.aljazeera.com/news/2026/10/7/yemeni-forces-launch-offensive-to-retake-houthi-held-al-waziiya-in-taiz?traffic_source=rss",
+   "published": "2026-10-07T00:35:57+00:00",
+   "summary": "The mountainous district is key to control of Mocha, the Red Sea port the Houthis seized last month.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Sudan’s al-Burhan rejects talks, vows to retake all territory from RSF",
+   "url": "https://www.aljazeera.com/news/2026/10/7/sudans-al-burhan-rejects-talks-vows-to-retake-all-territory-from-rsf?traffic_source=rss",
+   "published": "2026-10-07T00:26:47+00:00",
+   "summary": "At least 10 civilians were killed in West Kordofan and 5,500 displaced in Blue Nile as clashes widened on Tuesday.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "UN Press",
    "title": "States Must Cooperate to Combat Borderless Terrorist Threat, Sixth Committee Hears as Debate Continues",
@@ -108,7 +130,7 @@
   },
   {
    "source": "UN Press",
-   "title": "Alarming Rise in Nuclear Spending, Proliferation in Drones, Missiles, Due to Decade-Long Erosion of Trust, First Committee Speakers Stress",
+   "title": "Alarming Rise in Nuclear Spending, Proliferation in Drones, Missiles, Due to Decade-Long Erosion of Trust, Fist Committee Speakers Stress",
    "url": "https://press.un.org/en/2026/gadis3763.doc.htm",
    "published": "2026-10-06T19:48:07+00:00",
    "summary": "Nuclear risks persist, arms-control arrangements are under pressure and new technologies are transforming the character and speed of conflict, Khalilur Rahman, President of the UN General Assembly, told the First Committee (Disarmament and International Security) today, as it began its general debate.",
@@ -579,24 +601,6 @@
    "url": "https://press.un.org/en/2026/sga2444.doc.htm",
    "published": "2026-10-05T23:41:07+00:00",
    "summary": "United Nations Secretary-General António Guterres has appointed Gianluca Rampolla del Tindaro of Italy as the United Nations Resident Coordinator in Egypt, with the host Government’s approval.",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Petitioners from Non-Self-Governing Territories Urge Fourth Committee to Advance Their Decolonization",
-   "url": "https://press.un.org/en/2026/gaspd834.doc.htm",
-   "published": "2026-10-05T23:24:30+00:00",
-   "summary": "“The ocean is our ancestor,” not a resource to be exploited, elected representatives and petitioners from French Polynesia told the Fourth Committee (Special Political and Decolonization) today.",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "‘Good Governance’ Can Rebuild Trust, Create Opportunity for All, Secretary-General Tells Inter-Parliamentary Union",
-   "url": "https://press.un.org/en/2026/sgsm23316.doc.htm",
-   "published": "2026-10-05T23:22:31+00:00",
-   "summary": "Following is the text of UN Secretary-General António Guterres’ video message to the 153rd Assembly of the Inter-Parliamentary Union (IPU), held under theme “Enhancing good governance and empowering communities through inclusivity, trust and opportunities for all”, in Arusha, United Republic of Tanzania, today:",
    "tags": [],
    "highlight": false
   }
