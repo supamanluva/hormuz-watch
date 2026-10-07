@@ -1,6 +1,17 @@
 {
- "asOf": "2026-10-07T01:01:30.009785+00:00",
+ "asOf": "2026-10-07T01:42:09.506019+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "What’s behind Israel’s growing shift to the right?",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/whats-behind-israels-growing-shift-to-the-right?traffic_source=rss",
+   "published": "2026-10-07T00:58:21+00:00",
+   "summary": "Three years after the October 7 attacks, the politics of Israeli society has shifted further right.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Yemeni forces launch offensive to retake Houthi-held al-Waziiya in Taiz",
@@ -592,15 +603,6 @@
    "url": "https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-president-donald-j-trump-promotes-diesel-affordability/",
    "published": "2026-10-06T00:07:38+00:00",
    "summary": "ADDRESSING AMERICAN DIESEL AFFORDABILITY: Today, President Donald J. Trump signed an Executive Order to temporarily allow off-road “dyed” diesel for highway use and defer the applicable Federal excise tax, lowering costs for Americans. PUTTING MONEY BACK INTO THE POCKETS OF AMERICANS: President Trump is addressing fuel affordability for American consumers, farmers, truckers, and workers. The [&#82",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Secretary-General Appoints Gianluca Rampolla del Tindaro of Italy United Nations Resident Coordinator in Egypt",
-   "url": "https://press.un.org/en/2026/sga2444.doc.htm",
-   "published": "2026-10-05T23:41:07+00:00",
-   "summary": "United Nations Secretary-General António Guterres has appointed Gianluca Rampolla del Tindaro of Italy as the United Nations Resident Coordinator in Egypt, with the host Government’s approval.",
    "tags": [],
    "highlight": false
   }
