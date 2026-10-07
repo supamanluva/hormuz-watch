@@ -1,6 +1,41 @@
 {
- "asOf": "2026-10-07T06:37:58.158033+00:00",
+ "asOf": "2026-10-07T07:05:43.779132+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Yemen’s Houthis attack Aden airport; Saudi forces down missile near Riyadh",
+   "url": "https://www.aljazeera.com/news/2026/10/7/yemens-houthis-attack-aden-airport-saudi-forces-down-missile-near-riyadh?traffic_source=rss",
+   "published": "2026-10-07T06:41:11+00:00",
+   "summary": "Yemeni government says one of the missiles hit Aden airport&#039;s runway minutes before a flight from Cairo was due to land.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Enemy made grave miscalculation in seeking Iran’s collapse: IRGC deputy chief",
+   "url": "https://en.irna.ir/news/86285644/Enemy-made-grave-miscalculation-in-seeking-Iran-s-collapse-IRGC",
+   "published": "2026-10-07T06:38:50+00:00",
+   "summary": "Bandar Abbas, IRNA – The enemy made a grave miscalculation by believing that military attacks, sanctions, unrest, and assassination of Iranian officials could create a power vacuum and lead to the collapse of the country within a week, Islamic Revolution Guards Corps (IRGC) Political Deputy Brigadier General Yadollah Javani says.",
+   "tags": [
+    "strikes",
+    "sanctions"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Has Russia’s fuel crisis given Iranian oil an opening in Central Asia?",
+   "url": "https://www.aljazeera.com/news/2026/10/7/has-russias-fuel-crisis-given-iranian-oil-an-opening-in-central-asia?traffic_source=rss",
+   "published": "2026-10-07T06:33:54+00:00",
+   "summary": "Iran&#039;s oil exports have struggled amid a US blockade. A Russian energy crisis because of Ukrainian attacks could help.",
+   "tags": [
+    "strikes",
+    "oil"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "At least two killed in Kyiv as Russia launches ‘massive’ attack on Ukraine",
@@ -482,17 +517,6 @@
    "highlight": true
   },
   {
-   "source": "Al Jazeera",
-   "title": "UK police arrest British national linked to RAF Fairford airbase incident",
-   "url": "https://www.aljazeera.com/news/2026/10/6/uk-police-arrest-british-national-linked-to-airbase-incident?traffic_source=rss",
-   "published": "2026-10-06T13:44:19+00:00",
-   "summary": "British national, twenty-two, arrested on suspicion of a &quot;terror&quot; offence after other suspects released on bail.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
    "source": "Trump · Truth Social",
    "title": "My Rally crowds and enthusiasm are unbelievable! Nobody has ever seen anything like it. We are flipping races all over the place. The Fake News knows it, but they don’t want to be truthful with their viewers. It’s all happening! The Dumocrats never counted on this. Thanks you to the great Networks that are covering the Rallies in full. They are being rewarded with BIG RATINGS. Watch for the “Midterm Surprise!” President DJT",
    "url": "https://www.trumpstruth.org/statuses/42177",
@@ -518,17 +542,6 @@
    "summary": "Watchdog concludes Biden risked security by letting millions overstay visas, including threats: https:// justthenews.com/government/sec urity/tuewatchdog-concludes-biden-risked-security-letting-millions-overstay-visas",
    "tags": [],
    "highlight": true
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Saudi Arabia says three wounded in attacks on airports near Yemen border",
-   "url": "https://www.aljazeera.com/news/2026/10/6/saudi-arabia-says-three-wounded-in-attacks-on-airports-near-yemen-border?traffic_source=rss",
-   "published": "2026-10-06T10:47:54+00:00",
-   "summary": "Saudi aviation authority reports severe injuries and damage following Houthi strikes on Jazan and Najran airports.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
   },
   {
    "source": "UN Press",
@@ -613,17 +626,6 @@
    "summary": "New York, IRNA – Tehran has warned Bahrain and other regional states against allowing their territory or airspace to be used in attacks on Iran, stressing that it will respond if they allow such attacks again.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Interior minister in Doha for security talks",
-   "url": "https://en.irna.ir/news/86284493/Iranian-interior-minister-in-Doha-for-security-talks",
-   "published": "2026-10-06T05:55:37+00:00",
-   "summary": "Tehran, IRNA — Interior Minister Eskandar Momeni arrived in Doha late on Monday for talks with Qatari officials on bilateral security cooperation and regional developments.",
-   "tags": [
-    "diplomacy"
    ],
    "highlight": false
   }
