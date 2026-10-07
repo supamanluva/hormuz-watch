@@ -1,6 +1,17 @@
 {
- "asOf": "2026-10-07T10:24:06.884584+00:00",
+ "asOf": "2026-10-07T10:53:41.483784+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Bulgaria ends search for missing crew after drone strike sinks cargo ship",
+   "url": "https://www.aljazeera.com/news/2026/10/7/bulgaria-ends-search-for-missing-crew-after-drone-strike-sinks-cargo-ship?traffic_source=rss",
+   "published": "2026-10-07T10:12:04+00:00",
+   "summary": "Rescuers halt operation off the coast after finding no survivors.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "What does a year-long ceasefire in Gaza look like?",
@@ -474,19 +485,6 @@
    "summary": "Energy Minister Prince Abdulaziz bin ⁠Salman says capacity restored after major attack last month.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Hormuz ship attacks surge: Are increased oil exports sustainable?",
-   "url": "https://www.aljazeera.com/news/2026/10/6/hormuz-ship-attacks-surge-are-increased-oil-exports-sustainable?traffic_source=rss",
-   "published": "2026-10-06T14:15:09+00:00",
-   "summary": "Gulf oil flows surge despite escalating ship attacks in the critical Strait of Hormuz energy corridor.",
-   "tags": [
-    "strikes",
-    "shipping",
-    "oil"
    ],
    "highlight": false
   },
