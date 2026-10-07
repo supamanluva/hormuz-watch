@@ -1,6 +1,18 @@
 {
- "asOf": "2026-10-07T10:53:41.483784+00:00",
+ "asOf": "2026-10-07T11:21:48.962725+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "US sets new demands for Iran deal: What are they?",
+   "url": "https://www.aljazeera.com/news/2026/10/7/us-sets-new-demands-for-iran-deal-what-are-they?traffic_source=rss",
+   "published": "2026-10-07T10:58:23+00:00",
+   "summary": "US Vice President Vance’s call for reduced nuclear enrichment suggests room for compromise, but major obstacles remain.",
+   "tags": [
+    "diplomacy",
+    "nuclear"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Bulgaria ends search for missing crew after drone strike sinks cargo ship",
@@ -474,17 +486,6 @@
    "summary": "Former British consul Sir Vincent Fean says Israel is acting unlawfully in the wake of a new wave of sanctions.",
    "tags": [
     "sanctions"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Saudi Arabia says East-West pipeline pumping 5.8 million bpd",
-   "url": "https://www.aljazeera.com/news/2026/10/6/saudi-arabia-says-east-west-pipeline-pumping-5-8-million-bpd?traffic_source=rss",
-   "published": "2026-10-06T14:38:09+00:00",
-   "summary": "Energy Minister Prince Abdulaziz bin ⁠Salman says capacity restored after major attack last month.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   },
