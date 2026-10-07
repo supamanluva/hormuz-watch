@@ -1,6 +1,17 @@
 {
- "asOf": "2026-10-07T02:05:53.232878+00:00",
+ "asOf": "2026-10-07T02:39:21.223579+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Two Houthi missiles target Yemen’s Aden International Airport",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/two-houthi-missiles-target-yemens-aden-international-airport?traffic_source=rss",
+   "published": "2026-10-07T01:59:15+00:00",
+   "summary": "Explosions near Aden International Airport after Yemen’s Saudi-backed gov&#039;t said two missiles were fired by the Houthis.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "What’s behind Israel’s growing shift to the right?",
@@ -594,15 +605,6 @@
    "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-takes-decisive-action-to-lower-diesel-costs-for-american-truckers-farmers/",
    "published": "2026-10-06T00:20:07+00:00",
    "summary": "Tonight, President Donald J. Trump signed an Executive Order to immediately cut diesel costs for the truckers and farmers who keep America moving. The order temporarily opens highway use of tax-free dyed diesel, deferring the federal diesel tax on that fuel through the end of the year — no interest, no penalties. With elevated diesel [&#8230;] The post President Trump Takes Decisive Action to Lowe",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "Fact Sheet: President Donald J. Trump Promotes Diesel Affordability",
-   "url": "https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-president-donald-j-trump-promotes-diesel-affordability/",
-   "published": "2026-10-06T00:07:38+00:00",
-   "summary": "ADDRESSING AMERICAN DIESEL AFFORDABILITY: Today, President Donald J. Trump signed an Executive Order to temporarily allow off-road “dyed” diesel for highway use and defer the applicable Federal excise tax, lowering costs for Americans. PUTTING MONEY BACK INTO THE POCKETS OF AMERICANS: President Trump is addressing fuel affordability for American consumers, farmers, truckers, and workers. The [&#82",
    "tags": [],
    "highlight": false
   }
