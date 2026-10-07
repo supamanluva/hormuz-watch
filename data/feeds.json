@@ -1,6 +1,62 @@
 {
- "asOf": "2026-10-07T11:21:48.962725+00:00",
+ "asOf": "2026-10-07T11:52:30.492469+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Israeli attacks across Gaza kill at least four Palestinians",
+   "url": "https://www.aljazeera.com/news/2026/10/7/israeli-attacks-across-gaza-kill-at-least-four-palestinians?traffic_source=rss",
+   "published": "2026-10-07T11:13:32+00:00",
+   "summary": "Israeli air strike kills Palestinian Civil Defence rescue volunteer in northern Gaza.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "[No Title] - Post from October 7, 2026",
+   "url": "https://www.trumpstruth.org/statuses/42185",
+   "published": "2026-10-07T11:07:39+00:00",
+   "summary": "",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "[No Title] - Post from October 7, 2026",
+   "url": "https://www.trumpstruth.org/statuses/42186",
+   "published": "2026-10-07T11:07:34+00:00",
+   "summary": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117399305601073573",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "[No Title] - Post from October 7, 2026",
+   "url": "https://www.trumpstruth.org/statuses/42187",
+   "published": "2026-10-07T11:07:20+00:00",
+   "summary": "",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "[No Title] - Post from October 7, 2026",
+   "url": "https://www.trumpstruth.org/statuses/42188",
+   "published": "2026-10-07T11:07:06+00:00",
+   "summary": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117399303994327712",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "[No Title] - Post from October 7, 2026",
+   "url": "https://www.trumpstruth.org/statuses/42189",
+   "published": "2026-10-07T11:06:55+00:00",
+   "summary": "",
+   "tags": [],
+   "highlight": true
+  },
   {
    "source": "Al Jazeera",
    "title": "US sets new demands for Iran deal: What are they?",
@@ -479,17 +535,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "‘Not the act of a friend’: Israel’s deadline to close UK consulate nears",
-   "url": "https://www.aljazeera.com/news/2026/10/6/its-not-the-act-of-a-friend-or-ally-israel-moves-to-shut-uk-consulate?traffic_source=rss",
-   "published": "2026-10-06T14:47:39+00:00",
-   "summary": "Former British consul Sir Vincent Fean says Israel is acting unlawfully in the wake of a new wave of sanctions.",
-   "tags": [
-    "sanctions"
-   ],
-   "highlight": false
-  },
-  {
    "source": "Trump · Truth Social",
    "title": "FoxNews is long form interviewing the sleazebag, Dan Osborn, right now, who is running against our GREAT Republican Senator, Pete Ricketts, from Nebraska. Why are they doing this??? The “other side” doesn’t give our people any positive exposure or airtime. It is a miracle that I won, the last by a landslide, three Presidential Races! President DJT",
    "url": "https://www.trumpstruth.org/statuses/42182",
@@ -571,61 +616,6 @@
    "summary": "Tehran, IRNA – The Islamic Republic will send a technical team to Qatar to hold further talks on the fate of Iranian pilots, Interior Minister Eskandar Momeni says.",
    "tags": [
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran has no fear of negotiations, will defend national interests: Spokesperson Mohajerani",
-   "url": "https://en.irna.ir/news/86284776/Iran-has-no-fear-of-negotiations-will-defend-national-interests",
-   "published": "2026-10-06T08:39:23+00:00",
-   "summary": "Tehran, IRNA — Iran has no fear of negotiations and will firmly defend its national interests and territorial integrity, Administration spokesperson Fatemeh Mohajerani has said.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Trump’s social media posts do not determine whether Strait of Hormuz is open or closed: Deputy speaker",
-   "url": "https://en.irna.ir/news/86284694/Trump-s-social-media-posts-do-not-determine-whether-Strait-of",
-   "published": "2026-10-06T07:54:08+00:00",
-   "summary": "Tehran, IRNA — Deputy Parliament Speaker Ali Nikzad says whether the Strait of Hormuz remains open or closed is determined by fuel price displays in the United States, not by US President Donald Trump’s “empty” social media posts.",
-   "tags": [
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "FM Araghchi, Iran’s envoy review outlook for Tehran-Baku ties",
-   "url": "https://en.irna.ir/news/86284640/FM-Araghchi-Iran-s-envoy-review-outlook-for-Tehran-Baku-ties",
-   "published": "2026-10-06T07:22:33+00:00",
-   "summary": "Tehran, IRNA – Foreign Minister Abbas Araghchi and Iran’s Ambassador to the Republic of Azerbaijan Mojtaba Demirchilou have reviewed the outlook for Tehran-Baku relations.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Official: UN chief to visit Pakistani officials on Iran–US talks",
-   "url": "https://en.irna.ir/news/86284523/Official-UN-chief-to-visit-Pakistani-officials-on-Iran-US-talks",
-   "published": "2026-10-06T06:16:40+00:00",
-   "summary": "New York, IRNA — Deputy Spokesman for the UN Secretary-General, Farhan Haq, has confirmed that Secretary-General António Guterres is currently in Pakistan, where he is expected to discuss the ongoing diplomatic efforts and mediation between Tehran and Washington with Pakistani officials.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran warns Bahrain, regional states against attacks from their territory",
-   "url": "https://en.irna.ir/news/86284434/Iran-warns-Bahrain-regional-states-against-hosting-attacks",
-   "published": "2026-10-06T06:09:17+00:00",
-   "summary": "New York, IRNA – Tehran has warned Bahrain and other regional states against allowing their territory or airspace to be used in attacks on Iran, stressing that it will respond if they allow such attacks again.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   }
