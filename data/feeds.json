@@ -1,6 +1,29 @@
 {
- "asOf": "2026-10-07T05:39:48.219520+00:00",
+ "asOf": "2026-10-07T06:37:58.158033+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "At least two killed in Kyiv as Russia launches ‘massive’ attack on Ukraine",
+   "url": "https://www.aljazeera.com/news/2026/10/7/at-least-two-killed-in-kyiv-as-russia-launches-massive-attack-on-ukraine?traffic_source=rss",
+   "published": "2026-10-07T06:19:26+00:00",
+   "summary": "Russia’s Defence Ministry says its forces carried out a &#039;massive strike&#039; on Kyiv and other Ukrainian regions.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran envoy: US attacks damaged 111 petrochemical, pharmaceutical facilities",
+   "url": "https://en.irna.ir/news/86285592/Iran-envoy-US-attacks-damaged-111-petrochemical-pharmaceutical",
+   "published": "2026-10-07T06:15:10+00:00",
+   "summary": "London, IRNA – Iran’s ambassador to the Netherlands and Representative to the Organization for the Prohibition of Chemical Weapons (OPCW) has said that US military attacks on Iran’s chemical industries damaged 111 petrochemical and pharmaceutical facilities, disrupting supply chains and affecting the implementation of the Chemical Weapons Convention.",
+   "tags": [
+    "strikes",
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Deputy FM stresses developing bilateral ties with India, Japan, Spain",
@@ -561,17 +584,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "Trump approves firing squad execution for Fort Hood attacker Nidal Hasan",
-   "url": "https://www.aljazeera.com/news/2026/10/6/trump-approves-firing-squad-execution-for-fort-hood-attacker-nidal-hasan?traffic_source=rss",
-   "published": "2026-10-06T07:23:00+00:00",
-   "summary": "Pentagon confirms execution order for Nidal Hasan, convicted of killing 13 in Fort Hood shooting in 2009.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
    "source": "IRNA (Iran state wire)",
    "title": "FM Araghchi, Iran’s envoy review outlook for Tehran-Baku ties",
    "url": "https://en.irna.ir/news/86284640/FM-Araghchi-Iran-s-envoy-review-outlook-for-Tehran-Baku-ties",
@@ -614,15 +626,6 @@
     "diplomacy"
    ],
    "highlight": false
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "HUGE INVESTMENT WIN for NEBRASKA AND THE U.S.!Beckton Dickenson (BD), one of the largest Medical Device Manufacturers, has agreed to an Investment of 3 BILLION DOLLARS to Onshore Manufacturing of Essential Medical Products (syringes, needles, lab kits, and more) that American Patients and Hospitals depend on. The biggest expansion will be in NEBRASKA (I am heading there today!) where BD will Invest over 1 BILLION DOLLARS to ramp up production of numerous products, including needles made with American Steel. No one likes needles — But, if you need one, it should be made of American Steel in the U.S.A.The reason for BD’s announcement is my strong Medical Device TARIFFS, which will be in place by the end of the year. BUILD IN AMERICA, HIRE AMERICAN WORKERS, AND TREAT AMERICAN PATIENTS FAIRLY — OR PAY! President DONALD J. TRUMP",
-   "url": "https://www.trumpstruth.org/statuses/42176",
-   "published": "2026-10-06T03:18:50+00:00",
-   "summary": "HUGE INVESTMENT WIN for NEBRASKA AND THE U.S.! Beckton Dickenson (BD), one of the largest Medical Device Manufacturers, has agreed to an Investment of 3 BILLION DOLLARS to Onshore Manufacturing of Essential Medical Products (syringes, needles, lab kits, and more) that American Patients and Hospitals depend on. The biggest expansion will be in NEBRASKA (I am heading there today!) where BD will Inve",
-   "tags": [],
-   "highlight": true
   }
  ]
 }
