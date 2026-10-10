@@ -1,6 +1,54 @@
 {
- "asOf": "2026-10-10T12:30:29.796417+00:00",
+ "asOf": "2026-10-10T12:57:09.095971+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Child among seven killed by Israel in Gaza on ‘ceasefire’ anniversary",
+   "url": "https://www.aljazeera.com/news/2026/10/10/israeli-forces-kill-six-in-gaza-including-a-child?traffic_source=rss",
+   "published": "2026-10-10T12:40:57+00:00",
+   "summary": "At least 1,481 Palestinians killed in Israeli attacks since last year&#039;s &#039;ceasefire&#039;, Gaza&#039;s Health Ministry says.",
+   "tags": [
+    "strikes",
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "England international Cole Palmer signs new Chelsea deal until 2034",
+   "url": "https://www.aljazeera.com/sports/2026/10/10/england-international-cole-palmer-signs-new-chelsea-deal-until-2034?traffic_source=rss",
+   "published": "2026-10-10T12:37:14+00:00",
+   "summary": "Attacking midfielder Palmer has become a key figure in Chelsea&#039;s squad since his arrival from Man City in 2023.",
+   "tags": [
+    "strikes",
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Ukraine warns Trump-Putin diesel deal will bankroll Russia’s war",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/ukraine-warns-trump-putin-diesel-deal-will-bankroll-russias-war?traffic_source=rss",
+   "published": "2026-10-10T12:33:07+00:00",
+   "summary": "Donald Trump’s diesel deal with Putin gives Russia more money to continue attacking Ukraine, Zelenskyy says.",
+   "tags": [
+    "strikes",
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Why is US turning to Russia for diesel despite sanctions?",
+   "url": "https://www.aljazeera.com/news/2026/10/10/why-is-us-turning-to-russia-for-diesel-despite-sanctions?traffic_source=rss",
+   "published": "2026-10-10T12:16:12+00:00",
+   "summary": "President Donald Trump&#039;s deal with Putin comes amid surging fuel prices and looming US midterm elections.",
+   "tags": [
+    "sanctions",
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "What has Trump’s Board of Peace achieved in a year since Gaza ‘ceasefire’?",
@@ -565,42 +613,6 @@
    "tags": [
     "nuclear"
    ],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "President Trump Presents National Medals of Science and National Medals of Technology and Innovation",
-   "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-presents-national-medals-of-science-and-national-medals-of-technology-and-innovation/",
-   "published": "2026-10-08T18:32:51+00:00",
-   "summary": "FOR IMMEDIATE RELEASE Today at the&#160;Science: A New Golden Age&#160;Summit, President Donald J. Trump presented National Medals of Science and National Medals of Technology and Innovation, our nation’s highest honors for exemplary achievement and leadership in science and technology, to six of America’s greatest living innovators.&#160;Since 1963, the President of the United States has bestowed",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "Fact Sheet: Trump Administration Announces the Most Ambitious Set of Science Initiatives This Century",
-   "url": "https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-trump-administration-announces-the-most-ambitious-set-of-science-initiatives-this-century/",
-   "published": "2026-10-08T15:05:06+00:00",
-   "summary": "WASHINGTON, DC&#160;—&#160;Today,&#160;at the&#160;Science: A New Golden Age&#160;Summit, the&#160;Trump Administration launched the most ambitious set of science initiatives in decades, representing over $6 billion in investments across the Federal Government, industry, academia, and philanthropy to usher in a New Golden Age of Science.&#160; The Summit builds on&#160;Science: A New Golden Age, a",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "Establishment of a Committee of Inquiry to Investigate Allegations of False Statements by Lisa DeNell Cook",
-   "url": "https://www.whitehouse.gov/presidential-actions/2026/10/establishment-of-a-committee-of-inquiry-to-investigate-allegations-of-false-statements-by-lisa-denell-cook/",
-   "published": "2026-10-08T01:00:00+00:00",
-   "summary": "MEMORANDUM FOR THE ATTORNEY GENERAL THE COUNSEL TO THE PRESIDENT THE ASSISTANT TO THE PRESIDENT FOR ECONOMIC POLICY THE DIRECTOR OF THE OFFICE OF GOVERNMENT ETHICS THE CHAIRMAN OF THE EQUAL EMPLOYMENT OPPORTUNITY COMMISSION By the authority vested in me as President by the Constitution and the laws of the United States of America, I [&#8230;] The post Establishment of a Committee of Inquiry to Inv",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "Trump Accounts Put 70 Million Kids on the Path to Financial Freedom",
-   "url": "https://www.whitehouse.gov/releases/2026/10/a-financial-stake-in-the-future-for-nearly-70-million-american-children-trump-accounts-made-it-possible/",
-   "published": "2026-10-08T00:28:12+00:00",
-   "summary": "Trump Accounts—tax-advantaged investment accounts for kids—are a game-changing tool designed to help every American child build savings and a stronger financial future. With automatic enrollment now complete, the Trump Administration has made it easier than ever for families to participate and give their children a jump-start on the American Dream. Nearly 70 million Trump Accounts [&#8230;] The po",
-   "tags": [],
    "highlight": false
   }
  ]
