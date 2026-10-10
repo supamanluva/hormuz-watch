@@ -1,6 +1,150 @@
 {
- "asOf": "2026-10-10T12:57:09.095971+00:00",
+ "asOf": "2026-10-10T19:20:57.716106+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Palestinians still being killed in Gaza, one year into ‘ceasefire’",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/palestinians-still-being-killed-in-gaza-one-year-into?traffic_source=rss",
+   "published": "2026-10-10T18:38:01+00:00",
+   "summary": "One year to the day after the US-brokered ceasefire was agreed, more Israeli attacks killed Palestinians in Gaza.",
+   "tags": [
+    "strikes",
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Photos: Thousands march across Europe to demand end to Israel’s war on Gaza",
+   "url": "https://www.aljazeera.com/gallery/2026/10/10/photos-thousands-march-across-europe-to-demand-end-to-israels-war-on-gaza?traffic_source=rss",
+   "published": "2026-10-10T18:26:13+00:00",
+   "summary": "Demonstrations in London, Berlin, and Rome denounce ongoing Israeli attacks on Gaza &#039;ceasefire&#039; anniversary.",
+   "tags": [
+    "strikes",
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Attack on airport in Saudi capital, Riyadh, leaves several injured",
+   "url": "https://www.aljazeera.com/news/2026/10/10/attack-on-airport-in-saudi-capital-riyadh-leaves-several-injured?traffic_source=rss",
+   "published": "2026-10-10T18:08:46+00:00",
+   "summary": "Operations suspended at King Khalid International Airport after another attack this week, Civil Aviation Authority says.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Nine killed in shooting in US state of Pennsylvania, including two children",
+   "url": "https://www.aljazeera.com/news/2026/10/10/nine-killed-in-shooting-in-us-state-of-pennsylvania-including-two-children?traffic_source=rss",
+   "published": "2026-10-10T17:48:45+00:00",
+   "summary": "The shooting in Erie, Pennsylvania happened on Friday, according to state officials. The attacker is among the dead.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Pope says death penalty ‘inadmissible’ as US plans to livestream execution",
+   "url": "https://www.aljazeera.com/news/2026/10/10/pope-says-death-penalty-inadmissible-as-us-plans-to-livestream-execution?traffic_source=rss",
+   "published": "2026-10-10T17:38:18+00:00",
+   "summary": "Pope Leo XIV describes capital punishment as an &#039;attack on the inviolability and dignity of the person&#039; in post on X.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "IRGC: Offending supertanker is burning in Strait of Hormuz",
+   "url": "https://en.irna.ir/news/86288817/IRGC-Offending-supertanker-is-burning-in-Strait-of-Hormuz",
+   "published": "2026-10-10T17:19:07+00:00",
+   "summary": "Tehran, IRNA – The Navy of the Islamic Revolution Guards Corps (IRGC) announced that a rogue supertanker carrying crude oil exploded after striking a naval mine while exiting the Strait of Hormuz via an unauthorized route.",
+   "tags": [
+    "shipping",
+    "oil"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran and Russia discuss opportunities for oil exploration cooperation in southern Caspian Sea",
+   "url": "https://en.irna.ir/news/86288804/Iran-and-Russia-discuss-opportunities-for-oil-exploration-cooperation",
+   "published": "2026-10-10T16:54:30+00:00",
+   "summary": "Sari, IRNA – In a meeting with the ambassador of the Islamic Republic of Iran to Russia, the CEO of the Caspian Oil Company highlighted the potential for expanding exploration activities and developing hydrocarbon structures in the southern sector of the Caspian Sea.",
+   "tags": [
+    "oil"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran’s security indicators have improved, Armed Forces chief says",
+   "url": "https://en.irna.ir/news/86288758/Iran-s-security-indicators-have-improved-Armed-Forces-chief",
+   "published": "2026-10-10T16:32:02+00:00",
+   "summary": "Tehran, IRNA – Iran’s security indicators have improved despite two wars over the past year, Major General Ali Abdollahi, chief of the General Staff of the Armed Forces, said, praising the country’s police force for maintaining security despite attacks on its facilities.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Three injured in third school attack in Poland in less than a week",
+   "url": "https://www.aljazeera.com/news/2026/10/10/three-injured-in-third-school-attack-in-poland-in-less-than-a-week?traffic_source=rss",
+   "published": "2026-10-10T15:13:55+00:00",
+   "summary": "The attack comes after police announced the detention of 76 people across Poland in connection with previous incidents.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "Robert Jeffress, senior pastor of First Baptist Dallas, says he supports public execution announced by the Pentagon:",
+   "url": "https://www.trumpstruth.org/statuses/42237",
+   "published": "2026-10-10T14:42:55+00:00",
+   "summary": "Robert Jeffress, senior pastor of First Baptist Dallas, says he supports public execution announced by the Pentagon: https://www. dallasnews.com/news/faith/arti cle/robert-jeffress-death-penalty-22470214.php",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Jerusalem Daily: Israeli settlers attack olive farmers",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/jerusalem-daily-israeli-settlers-attack-olive-farmers?traffic_source=rss",
+   "published": "2026-10-10T14:39:53+00:00",
+   "summary": "Israeli settlers steal olives and attack Palestinian farmers during this year’s harvest.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Why is the US sanctioning the International Criminal Court?",
+   "url": "https://www.aljazeera.com/news/2026/10/10/why-is-the-us-sanctioning-the-international-criminal-court?traffic_source=rss",
+   "published": "2026-10-10T14:19:43+00:00",
+   "summary": "The sanctions targeting the ICC, which prosecutes humanitarian crimes, are the latest move by the US against the court.",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "The American people are 'under attack' by US enemies and allies, John Catsimatidis argues:",
+   "url": "https://www.trumpstruth.org/statuses/42236",
+   "published": "2026-10-10T12:54:28+00:00",
+   "summary": "The American people are 'under attack' by US enemies and allies, John Catsimatidis argues: https:// video.foxbusiness.com/v/640653 5561112",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": true
+  },
   {
    "source": "Al Jazeera",
    "title": "Child among seven killed by Israel in Gaza on ‘ceasefire’ anniversary",
@@ -48,6 +192,35 @@
     "diplomacy"
    ],
    "highlight": false
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "Mike Ditka was a great champion, both as a player and a Coach. He was MAGA all the way, and he will be missed. Rest in Peace, Mike! President DONALD J. TRUMP",
+   "url": "https://www.trumpstruth.org/statuses/42235",
+   "published": "2026-10-10T12:15:37+00:00",
+   "summary": "Mike Ditka was a great champion, both as a player and a Coach. He was MAGA all the way, and he will be missed. Rest in Peace, Mike! President DONALD J. TRUMP",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "Prosecutorial Misconduct!",
+   "url": "https://www.trumpstruth.org/statuses/42233",
+   "published": "2026-10-10T12:06:58+00:00",
+   "summary": "https:// truthsocial.com/@realDonaldTru mp/117411241255928585 Prosecutorial Misconduct!",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "I settled 8 WARS, am close to ending or settling 2 more, got all of the Israeli hostages back, including the final 28, both living and dead, had hundreds of hostages, from countries all over the World, released and sent back home, won a war in Venezuela, and captured the violent dictator who so viciously ran that country, and stopped the number one state sponsor of terror, the Islamic Republic of Iran, from obtaining a Nuclear Weapon — AND MUCH MORE! Yet, with all of that I, or the United States of America, did not get the Noble Peace Prize. WOW!",
+   "url": "https://www.trumpstruth.org/statuses/42234",
+   "published": "2026-10-10T12:04:13+00:00",
+   "summary": "I settled 8 WARS, am close to ending or settling 2 more, got all of the Israeli hostages back, including the final 28, both living and dead, had hundreds of hostages, from countries all over the World, released and sent back home, won a war in Venezuela, and captured the violent dictator who so viciously ran that country, and stopped the number one state sponsor of terror, the Islamic Republic of ",
+   "tags": [
+    "nuclear"
+   ],
+   "highlight": true
   },
   {
    "source": "Al Jazeera",
@@ -453,166 +626,6 @@
    "published": "2026-10-09T18:46:08+00:00",
    "summary": "Remarks by Director Michael Kratsios at the Science: A New Golden Age Summit Remarks as prepared for delivery Oct. 8, 2026 Good morning, and thank you all for being here. It has been so encouraging to see “Science: A New Golden Age” receive such a warm reception, and thrilling to see the enthusiasm with which [&#8230;] The post Remarks by Director Michael Kratsios at the Science: A New Golden Age ",
    "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "First Committee Underscores Need for Nuclear Non-Proliferation, Weapons-Free Zones, Control of Artificial Intelligence in Warfare, End to Ukraine War",
-   "url": "https://press.un.org/en/2026/gadis3766.doc.htm",
-   "published": "2026-10-09T18:24:53+00:00",
-   "summary": "Nuclear disarmament and non-proliferation, challenges to international peace and security, geopolitical tensions and armed conflicts, as well as possible threats from artificial intelligence, remained central topics of the general debate today in the First Committee (Disarmament and International Security).",
-   "tags": [
-    "nuclear"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "IRGC warns vessels against violating designated routes in Strait of Hormuz",
-   "url": "https://en.irna.ir/news/86287769/IRGC-warns-vessels-against-violating-designated-routes-in-Strait",
-   "published": "2026-10-09T15:59:30+00:00",
-   "summary": "Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) Navy has renewed its warning to vessels defying the shipping guidelines and attempting to pass through a restricted zone south of the Strait of Hormuz.",
-   "tags": [
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran slams French president’s double standard on nuclear deterrence",
-   "url": "https://en.irna.ir/news/86287738/Iran-slams-French-president-s-double-standard-on-nuclear-deterrence",
-   "published": "2026-10-09T15:55:18+00:00",
-   "summary": "Tehran, IRNA – Iran’s Foreign Ministry spokesperson has criticized the French president over a blatant double standard on nuclear deterrence, questioning why the same logic that France views as guaranteeing its security and freedom suddenly turns into a “threat” when it comes to Iran.",
-   "tags": [
-    "nuclear"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Security Council, 10237th Meeting (PM) Ukraine",
-   "url": "https://press.un.org/en/blog/sc16472",
-   "published": "2026-10-09T15:48:59+00:00",
-   "summary": "The Security Council will meet at 3 p.m. to discuss a new wave of Russian Federation attacks on Ukraine in the past few days. Ukraine requested the meeting. Khaled Khiari, Assistant Secretary-General, Departments of Political and Peacebuilding Affairs and Peace Operations, and Gemma Connell, Director of the Crisis Response Division of the Office for the Coordination of Humanitarian Affairs, will b",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Secretary-General Congratulates International Law, Human Rights Champion Navanethem ‘Navi’ Pillay on Receiving 2026 Nobel Peace Prize",
-   "url": "https://press.un.org/en/2026/sgsm23324.doc.htm",
-   "published": "2026-10-09T15:47:46+00:00",
-   "summary": "The following statement by UN Secretary-General António Guterres was issued today:",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Aggressive US military bears responsibility for regional maritime escalation: IRGC",
-   "url": "https://en.irna.ir/news/86287702/Aggressive-US-military-bears-responsibility-for-regional-maritime",
-   "published": "2026-10-09T14:39:06+00:00",
-   "summary": "Tehran, IRNA — The Islamic Revolution Guards Corps (IRGC) Navy says the US military must be blamed for the escalation of tensions in the regional shipping routes, announcing a new fire incident on a tanker attempting to pass through an illegal route south of the Strait of Hormuz.",
-   "tags": [
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Ex-NY prosecutor claims AG Letitia James pushed Trump probe despite investigators finding nothing: ‘What Tish wanted, Tish got’:",
-   "url": "https://www.trumpstruth.org/statuses/42214",
-   "published": "2026-10-09T13:42:43+00:00",
-   "summary": "Ex-NY prosecutor claims AG Letitia James pushed Trump probe despite investigators finding nothing: ‘What Tish wanted, Tish got’: https:// nypost.com/2026/10/08/us-news/ ex-ny-prosecutor-claims-letitia-james-pushed-trump-probe-despite-investigators-finding-nothing/",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "RT @SchoenlawToday the Nobel Committee shamed itself beyond repair and demeaned the once great Nobel Peace Prize by giving it to the UN’s Navi Pillay. Pillay is an unabashed hater of America and Israel. In her position she celebrated terrorists and rewarded Hamas. She conducted a phony “investigation” claiming to find that Israel committed genocide and urging prosecution. She has no credibility in any normal sphere and has never done a thing to foster peace. Just the opposite. But what could be expected from a committee that previously gave the once coveted peace prize to Yasser Arafat? President Trump gave us the Abraham Accords, which the world said would be impossible and is now expanding them! He brought home the hostages when all seemed hopeless! He is making best efforts to end the Russia/Ukraine war, to stop Iran, the number one sponsor of international terrorism, and he is trying to rebuild Gaza despite the terrorists’ best efforts to control it. The list goes on and on. These are the kinds of things the Nobel Peace Prize was intended to recognize and reward!!! @realDonaldTrump",
-   "url": "https://www.trumpstruth.org/statuses/42212",
-   "published": "2026-10-09T13:25:16+00:00",
-   "summary": "RT @ Schoenlaw Today the Nobel Committee shamed itself beyond repair and demeaned the once great Nobel Peace Prize by giving it to the UN’s Navi Pillay. Pillay is an unabashed hater of America and Israel. In her position she celebrated terrorists and rewarded Hamas. She conducted a phony “investigation” claiming to find that Israel committed genocide and urging prosecution. She has no credibility ",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Today the Nobel Committee shamed itself beyond repair and demeaned the once great Nobel Peace Prize by giving it to the UN’s Navi Pillay. Pillay is an unabashed hater of America and Israel. In her position she celebrated terrorists and rewarded Hamas. She conducted a phony “investigation” claiming to find that Israel committed genocide and urging prosecution. She has no credibility in any normal sphere and has never done a thing to foster peace. Just the opposite. But what could be expected from a committee that previously gave the once coveted peace prize to Yasser Arafat? President Trump gave us the Abraham Accords, which the world said would be impossible and is now expanding them! He brought home the hostages when all seemed hopeless! He is making best efforts to end the Russia/Ukraine war, to stop Iran, the number one sponsor of international terrorism, and he is trying to rebuild Gaza despite the terrorists’ best efforts to control it. The list goes on and on. These are the kinds of things the Nobel Peace Prize was intended to recognize and reward!!! @realDonaldTrump",
-   "url": "https://www.trumpstruth.org/statuses/42213",
-   "published": "2026-10-09T11:58:48+00:00",
-   "summary": "Today the Nobel Committee shamed itself beyond repair and demeaned the once great Nobel Peace Prize by giving it to the UN’s Navi Pillay. Pillay is an unabashed hater of America and Israel. In her position she celebrated terrorists and rewarded Hamas. She conducted a phony “investigation” claiming to find that Israel committed genocide and urging prosecution. She has no credibility in any normal s",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iranian, Russian, Azerbaijani foreign ministers hold brief talks ahead of CIS summit",
-   "url": "https://en.irna.ir/news/86287500/Iranian-Russian-Azerbaijani-foreign-ministers-hold-brief-talks",
-   "published": "2026-10-09T09:14:14+00:00",
-   "summary": "Moscow, IRNA – Foreign Minister Abbas Araghchi and his Russian and Azerbaijani counterparts, Sergey Lavrov and Jeyhun Bayramov, have engaged in a brief conversation ahead of the Commonwealth of Independent States (CIS) summit in Turkmenistan.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran pursues justice for Minab school attack victims at national, international levels",
-   "url": "https://en.irna.ir/news/86287354/Iran-pursues-justice-for-Minab-school-attack-victims-at-national",
-   "published": "2026-10-09T05:58:30+00:00",
-   "summary": "Bandar Abbas, IRNA – Deputy Justice Minister for Human Rights and International Affairs, Askar Jalalian, announces that efforts are being made to seek justice for the victims of the Shajareh Tayyebeh school attack in Minab at both national and international levels.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Mike Rogers, the great American Patriot and Republican Candidate for the U.S.Senate from Michigan, completely obliterated Mohammad El-Sayed in the big debate tonight. If this was a fight they would have stopped it. Mohammad is a Jihadist lunatic who hates our Country, the Black People of Detroit, and wants to see the U.S. fail. Short on Stature, Patriotism, and Truth, Mohammed’s statements have been loaded up with lies and deceit. I won Michigan BIG, and know that Mike Rogers, a total winner, is the man for you!!! President DJT",
-   "url": "https://www.trumpstruth.org/statuses/42211",
-   "published": "2026-10-09T04:02:21+00:00",
-   "summary": "Mike Rogers, the great American Patriot and Republican Candidate for the U.S.Senate from Michigan, completely obliterated Mohammad El-Sayed in the big debate tonight. If this was a fight they would have stopped it. Mohammad is a Jihadist lunatic who hates our Country, the Black People of Detroit, and wants to see the U.S. fail. Short on Stature, Patriotism, and Truth, Mohammed’s statements have be",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "The Dumocrats are Scammers. These are the real FACTS!!! President DJT",
-   "url": "https://www.trumpstruth.org/statuses/42210",
-   "published": "2026-10-09T01:09:56+00:00",
-   "summary": "The Dumocrats are Scammers. These are the real FACTS!!! President DJT",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Melania Trump makes history presiding over UN Security Council — remarking on Iran war deaths:",
-   "url": "https://www.trumpstruth.org/statuses/42208",
-   "published": "2026-10-09T00:56:32+00:00",
-   "summary": "Melania Trump makes history presiding over UN Security Council — remarking on Iran war deaths: https:// nypost.com/2026/03/02/us-news/ melania-trump-makes-history-presiding-over-un-security-council-acknowledges-challenging-times/",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Trump’s men at the United Nations:",
-   "url": "https://www.trumpstruth.org/statuses/42209",
-   "published": "2026-10-09T00:56:08+00:00",
-   "summary": "Trump’s men at the United Nations: https://www. washingtonexaminer.com/magazin e-features/4684766/trump-administration-push-reform-united-nations/",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "White House",
-   "title": "President Trump Is Putting American Industry, Jobs, and Paychecks Back on the Map",
-   "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-is-putting-american-industry-jobs-and-paychecks-back-on-the-map/",
-   "published": "2026-10-08T19:44:36+00:00",
-   "summary": "President Donald J. Trump is delivering on his promise to the American worker: build it here, power it here, and put paychecks back in the communities Washington left behind. In a matter of weeks, President Trump has locked in a run of steel, nuclear, gas, shipbuilding, and medical manufacturing commitments that will hire American workers [&#8230;] The post President Trump Is Putting American Indu",
-   "tags": [
-    "nuclear"
-   ],
    "highlight": false
   }
  ]
