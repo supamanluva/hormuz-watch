@@ -1,6 +1,30 @@
 {
- "asOf": "2026-10-10T09:08:34.641733+00:00",
+ "asOf": "2026-10-10T09:52:23.781920+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Exclusive | Iran–FAO cooperation deepens despite Western pressure: Envoy",
+   "url": "https://en.irna.ir/news/86288302/Exclusive-Iran-FAO-cooperation-deepens-despite-Western-pressure",
+   "published": "2026-10-10T09:44:38+00:00",
+   "summary": "London, IRNA — Iran’s cooperation with the United Nations Food and Agriculture Organization (FAO) continues to expand despite Western sanctions and political pressure, with the organization ready to help strengthen the country’s food security, Iran’s permanent representative to the agency says.",
+   "tags": [
+    "sanctions",
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "A year after the ‘ceasefire’, Gaza’s healthcare is still collapsing",
+   "url": "https://www.aljazeera.com/opinions/2026/10/10/a-year-after-the-ceasefire-gazas-healthcare-is-still-collapsing?traffic_source=rss",
+   "published": "2026-10-10T09:30:14+00:00",
+   "summary": "Continuing attacks, restrictions on medical aid and delayed evacuations are still killing Palestinians.",
+   "tags": [
+    "strikes",
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "US lifts sanctions on daughter of military-linked Myanmar businessman",
@@ -134,10 +158,10 @@
   },
   {
    "source": "IRNA (Iran state wire)",
-   "title": "Envoy: Iran-Russia synergy targets unilateralism",
+   "title": "Envoy: Iran–Russia synergy targets unilateralism",
    "url": "https://en.irna.ir/news/86287973/Envoy-Iran-Russia-synergy-targets-unilateralism",
    "published": "2026-10-10T05:29:51+00:00",
-   "summary": "Moscow, IRNA — Ambassador of the Islamic Republic of Iran to the Russian Federation, Kazem Jalali, says that the goal of Tehran-Moscow synergy is to stand against unilateralism and contribute to the formation of a multipolar and just world.",
+   "summary": "Moscow, IRNA — Ambassador of the Islamic Republic of Iran to the Russian Federation, Kazem Jalali, says that the goal of Tehran–Moscow synergy is to stand against unilateralism and contribute to the formation of a multipolar and just world.",
    "tags": [
     "diplomacy"
    ],
@@ -571,26 +595,6 @@
    "published": "2026-10-07T19:47:48+00:00",
    "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA A PROCLAMATION More than five centuries ago, Christopher Columbus embarked westward across uncharted waters and discovered the New World &#8212; bringing with him the rich traditions of Western civilization and paving the way to the birth of the American Nation less than three centuries later.&#160; Today, [&#8230;] The post Columbus Day, 2026 appea",
    "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "Lower Taxes, Safer Streets, Stronger Border: President Trump’s Texas Record",
-   "url": "https://www.whitehouse.gov/releases/2026/10/lower-taxes-safer-streets-stronger-border-president-trumps-texas-record/",
-   "published": "2026-10-07T16:38:18+00:00",
-   "summary": "Today, President Donald J. Trump returns to Texas with a record of results: historic tax relief, the most secure border in a generation, safer streets, and a surge of new private investment creating jobs across the Lone Star State. Tax Relief for Texas Workers, Families, Seniors President Trump’s Working Families Tax Cuts is putting money [&#8230;] The post Lower Taxes, Safer Streets, Stronger Bor",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Israeli attacks across Gaza kill at least four Palestinians",
-   "url": "https://www.aljazeera.com/news/2026/10/7/israeli-attacks-across-gaza-kill-at-least-four-palestinians?traffic_source=rss",
-   "published": "2026-10-07T11:13:32+00:00",
-   "summary": "Israeli air strike kills Palestinian Civil Defence rescue volunteer in northern Gaza.",
-   "tags": [
-    "strikes"
-   ],
    "highlight": false
   }
  ]
