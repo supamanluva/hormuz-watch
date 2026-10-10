@@ -1,6 +1,28 @@
 {
- "asOf": "2026-10-10T11:19:23.311421+00:00",
+ "asOf": "2026-10-10T11:51:09.702966+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "What has Trump’s Board of Peace achieved in a year since Gaza ‘ceasefire’?",
+   "url": "https://www.aljazeera.com/news/2026/10/10/what-has-trumps-board-of-peace-achieved-in-a-year-since-gaza?traffic_source=rss",
+   "published": "2026-10-10T11:19:24+00:00",
+   "summary": "Analysts say board has &#039;failed&#039; in its attempts to secure lasting peace in Gaza.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran police chief vows revenge for killing of female officer",
+   "url": "https://en.irna.ir/news/86288553/Iran-police-chief-vows-revenge-for-killing-of-female-officer",
+   "published": "2026-10-10T11:15:00+00:00",
+   "summary": "Tehran, IRNA – Iran’s police chief, Brigadier General Ahmadreza Radan, has vowed revenge for the killing of Nosrat Eftekhari, deputy for cultural and social affairs of the police command in Sistan and Baluchestan Province, in a terrorist attack near Zahedan.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Suspect killed after 13 kindergarteners taken hostage, beaten in Brazil",
@@ -578,24 +600,6 @@
    "url": "https://www.whitehouse.gov/releases/2026/10/a-financial-stake-in-the-future-for-nearly-70-million-american-children-trump-accounts-made-it-possible/",
    "published": "2026-10-08T00:28:12+00:00",
    "summary": "Trump Accounts—tax-advantaged investment accounts for kids—are a game-changing tool designed to help every American child build savings and a stronger financial future. With automatic enrollment now complete, the Trump Administration has made it easier than ever for families to participate and give their children a jump-start on the American Dream. Nearly 70 million Trump Accounts [&#8230;] The po",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "National Energy Dominance Month, 2026",
-   "url": "https://www.whitehouse.gov/presidential-actions/2026/10/national-energy-dominance-month-2026/",
-   "published": "2026-10-07T20:05:21+00:00",
-   "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA A PROCLAMATION America&#8217;s abundant energy resources are the backbone of our booming economy and the foundation of our enduring prosperity.&#160; During National Energy Dominance Month, we recommit to unleashing the full might of America&#8217;s vast natural resources, strengthening our Nation&#8217;s energy independence, and ushering in a [&#82",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "Congressional Bills H.R. 5345 and S. 766 Signed into Law",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/10/congressional-bills-h-r-5345-and-s-766-signed-into-law/",
-   "published": "2026-10-07T19:57:24+00:00",
-   "summary": "On Wednesday, October 7, 2026, the President signed into law: H.R. 5345, the &#8220;Improving Social Security&#8217;s Service to Victims of Identity Theft Act,&#8221; which establishes a single point of contact at the Social Security Administration for individuals whose Social Security Number has been misused or whose Social Security card has been lost; and S. 766, [&#8230;] The post Congressional",
    "tags": [],
    "highlight": false
   }
