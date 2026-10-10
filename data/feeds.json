@@ -1,6 +1,17 @@
 {
- "asOf": "2026-10-10T09:52:23.781920+00:00",
+ "asOf": "2026-10-10T10:38:45.131944+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Suspect killed after 13 kindergarteners taken hostage, beaten in Brazil",
+   "url": "https://www.aljazeera.com/news/2026/10/10/suspect-killed-after-13-kindergarteners-taken-hostage-beaten-in-brazil?traffic_source=rss",
+   "published": "2026-10-10T09:45:14+00:00",
+   "summary": "Man spreads flammable liquid in a room with 13 children while holding a lighter as police try to negotiate.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Exclusive | Iran–FAO cooperation deepens despite Western pressure: Envoy",
@@ -585,15 +596,6 @@
    "url": "https://www.whitehouse.gov/briefings-statements/2026/10/congressional-bills-h-r-5345-and-s-766-signed-into-law/",
    "published": "2026-10-07T19:57:24+00:00",
    "summary": "On Wednesday, October 7, 2026, the President signed into law: H.R. 5345, the &#8220;Improving Social Security&#8217;s Service to Victims of Identity Theft Act,&#8221; which establishes a single point of contact at the Social Security Administration for individuals whose Social Security Number has been misused or whose Social Security card has been lost; and S. 766, [&#8230;] The post Congressional",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "Columbus Day, 2026",
-   "url": "https://www.whitehouse.gov/presidential-actions/2026/10/columbus-day-2026/",
-   "published": "2026-10-07T19:47:48+00:00",
-   "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA A PROCLAMATION More than five centuries ago, Christopher Columbus embarked westward across uncharted waters and discovered the New World &#8212; bringing with him the rich traditions of Western civilization and paving the way to the birth of the American Nation less than three centuries later.&#160; Today, [&#8230;] The post Columbus Day, 2026 appea",
    "tags": [],
    "highlight": false
   }
