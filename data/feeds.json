@@ -1,6 +1,17 @@
 {
- "asOf": "2026-10-11T12:32:11.714070+00:00",
+ "asOf": "2026-10-11T12:58:39.436797+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Saudi Arabia vows response over Houthi ‘war crime’ attack on Riyadh airport",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/saudi-arabia-vows-response-over-houthi-war-crime-attack-on-riyadh-airport?traffic_source=rss",
+   "published": "2026-10-11T12:28:11+00:00",
+   "summary": "A Houthi attack on Riyadh airport killed at least 12 people and injured more than 300.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Polish police probe alleged plot to assassinate PM Tusk, defence minister",
@@ -478,17 +489,6 @@
    "summary": "Israeli settlers steal olives and attack Palestinian farmers during this year’s harvest.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Why is the US sanctioning the International Criminal Court?",
-   "url": "https://www.aljazeera.com/news/2026/10/10/why-is-the-us-sanctioning-the-international-criminal-court?traffic_source=rss",
-   "published": "2026-10-10T14:19:43+00:00",
-   "summary": "The sanctions targeting the ICC, which prosecutes humanitarian crimes, are the latest move by the US against the court.",
-   "tags": [
-    "sanctions"
    ],
    "highlight": false
   },
