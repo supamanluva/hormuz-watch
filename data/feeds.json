@@ -1,6 +1,17 @@
 {
- "asOf": "2026-10-11T19:53:58.574537+00:00",
+ "asOf": "2026-10-11T20:22:37.977152+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Saudi health minister visits survivors of deadly Riyadh airport attack",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/saudi-health-minister-visits-survivors-of-deadly-riyadh-airport-attack?traffic_source=rss",
+   "published": "2026-10-11T19:59:15+00:00",
+   "summary": "Saudi Arabia’s health minister Fahad Aljalajel has paid a visit to survivors of Saturday’s deadly attack.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Republican senator says Trump diesel agreement with Russia may be illegal",
@@ -542,17 +553,6 @@
    "tags": [
     "strikes",
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Why is the Trump administration trying to dismantle the ICC?",
-   "url": "https://www.aljazeera.com/video/inside-story/2026/10/10/why-is-the-trump-administration-trying-to-dismantle-the-icc?traffic_source=rss",
-   "published": "2026-10-10T19:59:18+00:00",
-   "summary": "The US has imposed sweeping new sanctions on the International Criminal Court.",
-   "tags": [
-    "sanctions"
    ],
    "highlight": false
   },
