@@ -1,6 +1,17 @@
 {
- "asOf": "2026-10-11T14:21:41.852971+00:00",
+ "asOf": "2026-10-11T14:52:46.733979+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Why are Houthi missiles breaking through Saudi Arabia’s air defences?",
+   "url": "https://www.aljazeera.com/news/2026/10/11/why-are-houthi-missiles-breaking-through-saudi-arabias-air-defences?traffic_source=rss",
+   "published": "2026-10-11T14:25:03+00:00",
+   "summary": "Repeated Houthi attacks on Saudi Arabia&#039;s King Khalid Airport reveal the limitations of even high-tech air defences.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Hormuz attacks intensify as efforts to end war on Iran stall",
@@ -446,17 +457,6 @@
    "url": "https://www.aljazeera.com/news/2026/10/10/nine-killed-in-shooting-in-us-state-of-pennsylvania-including-two-children?traffic_source=rss",
    "published": "2026-10-10T17:48:45+00:00",
    "summary": "The shooting in Erie, Pennsylvania happened on Friday, according to state officials. The attacker is among the dead.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Pope says death penalty ‘inadmissible’ as US plans to livestream execution",
-   "url": "https://www.aljazeera.com/news/2026/10/10/pope-says-death-penalty-inadmissible-as-us-plans-to-livestream-execution?traffic_source=rss",
-   "published": "2026-10-10T17:38:18+00:00",
-   "summary": "Pope Leo XIV describes capital punishment as an &#039;attack on the inviolability and dignity of the person&#039; in post on X.",
    "tags": [
     "strikes"
    ],
