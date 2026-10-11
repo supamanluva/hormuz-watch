@@ -1,6 +1,29 @@
 {
- "asOf": "2026-10-11T13:52:03.827114+00:00",
+ "asOf": "2026-10-11T14:21:41.852971+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Hormuz attacks intensify as efforts to end war on Iran stall",
+   "url": "https://www.aljazeera.com/news/2026/10/11/hormuz-attacks-intensify-as-efforts-to-end-war-on-iran-stall?traffic_source=rss",
+   "published": "2026-10-11T14:04:32+00:00",
+   "summary": "IRGC warns against ignoring waterway&#039;s &#039;security and rules&#039; as CENTCOM says US disabled vessel trying to run blockade.",
+   "tags": [
+    "strikes",
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Creating a ghost town: Lives in limbo behind Israeli gates and checkpoints",
+   "url": "https://www.aljazeera.com/features/2026/10/11/creating-a-ghost-town-lives-in-limbo-behind-israeli-gates-and-checkpoints?traffic_source=rss",
+   "published": "2026-10-11T13:41:57+00:00",
+   "summary": "Israeli restrictions in Hebron have made life for Palestinians from the city a daily ordeal.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Iran ready to strike enemy vessels again if attacked: Army commander",
@@ -474,17 +497,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "Three injured in third school attack in Poland in less than a week",
-   "url": "https://www.aljazeera.com/news/2026/10/10/three-injured-in-third-school-attack-in-poland-in-less-than-a-week?traffic_source=rss",
-   "published": "2026-10-10T15:13:55+00:00",
-   "summary": "The attack comes after police announced the detention of 76 people across Poland in connection with previous incidents.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
    "source": "Trump · Truth Social",
    "title": "Robert Jeffress, senior pastor of First Baptist Dallas, says he supports public execution announced by the Pentagon:",
    "url": "https://www.trumpstruth.org/statuses/42237",
@@ -492,17 +504,6 @@
    "summary": "Robert Jeffress, senior pastor of First Baptist Dallas, says he supports public execution announced by the Pentagon: https://www. dallasnews.com/news/faith/arti cle/robert-jeffress-death-penalty-22470214.php",
    "tags": [],
    "highlight": true
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Jerusalem Daily: Israeli settlers attack olive farmers",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/jerusalem-daily-israeli-settlers-attack-olive-farmers?traffic_source=rss",
-   "published": "2026-10-10T14:39:53+00:00",
-   "summary": "Israeli settlers steal olives and attack Palestinian farmers during this year’s harvest.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
   },
   {
    "source": "Trump · Truth Social",
