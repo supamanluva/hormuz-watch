@@ -1,6 +1,17 @@
 {
- "asOf": "2026-10-11T18:26:56.757183+00:00",
+ "asOf": "2026-10-11T18:45:53.743671+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Jerusalem Daily: Panicked Palestinians flee Israeli attacks on Gaza",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/jerusalem-daily-panicked-palestinians-flee-israeli-attacks-on-gaza?traffic_source=rss",
+   "published": "2026-10-11T18:25:42+00:00",
+   "summary": "Jerusalem Daily: Panicked Palestinians flee Israeli attacks on Gaza",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Supertanker explodes after hitting mine in ‘unauthorized’ Hormuz route: IRGC Navy",
@@ -561,18 +572,6 @@
    "summary": "I will be landing in Tennessee shortly. As always, incredible Crowd — Lots of love. See you soon! President DONALD J. TRUMP",
    "tags": [],
    "highlight": true
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Palestinians still being killed in Gaza, one year into ‘ceasefire’",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/palestinians-still-being-killed-in-gaza-one-year-into?traffic_source=rss",
-   "published": "2026-10-10T18:38:01+00:00",
-   "summary": "One year to the day after the US-brokered ceasefire was agreed, more Israeli attacks killed Palestinians in Gaza.",
-   "tags": [
-    "strikes",
-    "diplomacy"
-   ],
-   "highlight": false
   },
   {
    "source": "Trump · Truth Social",
