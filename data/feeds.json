@@ -1,6 +1,18 @@
 {
- "asOf": "2026-10-11T13:21:41.880334+00:00",
+ "asOf": "2026-10-11T13:52:03.827114+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran ready to strike enemy vessels again if attacked: Army commander",
+   "url": "https://en.irna.ir/news/86289688/Iran-ready-to-strike-enemy-vessels-again-if-attacked-Army-commander",
+   "published": "2026-10-11T13:21:55+00:00",
+   "summary": "Tehran, IRNA – Rear Admiral Habibollah Sayyari, deputy chief of the Iranian Army for Coordination, says Iran had inflicted damage on enemy vessels and would strike them again if further action were taken against the country.",
+   "tags": [
+    "strikes",
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Saudi Arabia vows response over Houthi ‘war crime’ attack on Riyadh airport",
@@ -615,15 +627,6 @@
    "url": "https://www.trumpstruth.org/statuses/42228",
    "published": "2026-10-10T05:59:54+00:00",
    "summary": "View image",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Quote post from October 10, 2026",
-   "url": "https://www.trumpstruth.org/statuses/42229",
-   "published": "2026-10-10T05:58:39+00:00",
-   "summary": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117415076555675844 View image Quoted Donald J. Trump View video",
    "tags": [],
    "highlight": true
   }
