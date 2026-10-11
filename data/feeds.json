@@ -1,6 +1,28 @@
 {
- "asOf": "2026-10-11T22:06:43.592964+00:00",
+ "asOf": "2026-10-11T23:00:12.216915+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Footage shows moment Russian strike hits Ukrainian grocery store",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/footage-shows-moment-russian-strike-hits-ukrainian-grocery-store?traffic_source=rss",
+   "published": "2026-10-11T22:49:23+00:00",
+   "summary": "CCTV footage shows the moment of a Russian strike on a residential street in Kharkiv, Ukraine.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "CCTV shows moment of deadly Houthi strike on Riyadh airport",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/houthi-strike-riyadh-international-airport-cctv-footage?traffic_source=rss",
+   "published": "2026-10-11T22:24:07+00:00",
+   "summary": "CCTV footage released by Al Arabiya shows the moment of a Houthi strike on Riyadh’s international airport on Saturday.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "I just want to pay my respect and thanks to Karoline Leavitt for the fantastic job she has done as White House Press Secretary — Could not have been better! President DONALD J. TRUMP",
@@ -497,17 +519,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "Twelve killed, more than 300 injured in Riyadh airport attack",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/11-10-reported-latest-attack-on-riyadh-king-khalid-airport-houthis?traffic_source=rss",
-   "published": "2026-10-11T01:02:07+00:00",
-   "summary": "Saudi Arabia has confirmed at least 12 people were killed and more than 300 injured after Houthi fighters struck Riyadh.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
    "source": "Trump · Truth Social",
    "title": "Video post from October 11, 2026",
    "url": "https://www.trumpstruth.org/statuses/42242",
@@ -524,17 +535,6 @@
    "summary": "View video",
    "tags": [],
    "highlight": true
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iran war live: 12 killed in Riyadh, Saudi-led coalition vows to respond",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/10/11/iran-war-live-12-killed-in-riyadh-us-weighs-joining-fight-against-houthis?traffic_source=rss",
-   "published": "2026-10-11T00:00:13+00:00",
-   "summary": "As strikes on airports in Saudi Arabia turn deadly, Washington debates striking Houthis and restarting strikes on Iran.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
   },
   {
    "source": "Trump · Truth Social",
