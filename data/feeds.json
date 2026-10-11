@@ -1,12 +1,46 @@
 {
- "asOf": "2026-10-11T11:52:28.405886+00:00",
+ "asOf": "2026-10-11T12:32:11.714070+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Polish police probe alleged plot to assassinate PM Tusk, defence minister",
+   "url": "https://www.aljazeera.com/news/2026/10/11/poland-police-probe-alleged-plot-to-assassinate-pm-tusk-defence-minister?traffic_source=rss",
+   "published": "2026-10-11T12:09:54+00:00",
+   "summary": "Security officials hold emergency meeting after police receive information about potential attack.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran to use nuclear technology to control disease-carrying mosquitoes",
+   "url": "https://en.irna.ir/news/86289551/Iran-to-use-nuclear-technology-to-control-disease-carrying-mosquitoes",
+   "published": "2026-10-11T12:01:54+00:00",
+   "summary": "Tehran, IRNA – The Atomic Energy Organization of Iran (AEOI) and the Ministry of Health have signed an agreement to use nuclear technology to control disease-carrying mosquitoes, including the Aedes aegypti species.",
+   "tags": [
+    "diplomacy",
+    "nuclear"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "At least 109 dead, over 100 missing as migrant boat capsizes off Djibouti",
+   "url": "https://www.aljazeera.com/news/2026/10/11/at-least-109-dead-over-100-missing-as-migrant-boat-capsizes-off-djibouti?traffic_source=rss",
+   "published": "2026-10-11T11:34:40+00:00",
+   "summary": "Search and rescue operations conducted after vessel carrying more than 300 people capsizes near Guhere.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Yemen fighting expands as Houthis attack Saudi airport: What to know",
    "url": "https://www.aljazeera.com/news/2026/10/11/yemen-fighting-expands-as-houthis-attack-saudi-airport-what-to-know?traffic_source=rss",
    "published": "2026-10-11T10:45:15+00:00",
-   "summary": "Saudi coalition blames Houthi group for the missile strike on the main international airport in Riyadh.",
+   "summary": "Saudi coalition blames Houthi group for the missile attack on the main international airport in Riyadh.",
    "tags": [
     "strikes"
    ],
@@ -470,30 +504,6 @@
    "highlight": true
   },
   {
-   "source": "Al Jazeera",
-   "title": "Child among seven killed by Israel in Gaza on ‘ceasefire’ anniversary",
-   "url": "https://www.aljazeera.com/news/2026/10/10/israeli-forces-kill-six-in-gaza-including-a-child?traffic_source=rss",
-   "published": "2026-10-10T12:40:57+00:00",
-   "summary": "At least 1,481 Palestinians killed in Israeli attacks since last year&#039;s &#039;ceasefire&#039;, Gaza&#039;s Health Ministry says.",
-   "tags": [
-    "strikes",
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "England international Cole Palmer signs new Chelsea deal until 2034",
-   "url": "https://www.aljazeera.com/sports/2026/10/10/england-international-cole-palmer-signs-new-chelsea-deal-until-2034?traffic_source=rss",
-   "published": "2026-10-10T12:37:14+00:00",
-   "summary": "Attacking midfielder Palmer has become a key figure in Chelsea&#039;s squad since his arrival from Man City in 2023.",
-   "tags": [
-    "strikes",
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
    "source": "Trump · Truth Social",
    "title": "Mike Ditka was a great champion, both as a player and a Coach. He was MAGA all the way, and he will be missed. Rest in Peace, Mike! President DONALD J. TRUMP",
    "url": "https://www.trumpstruth.org/statuses/42235",
@@ -614,15 +624,6 @@
    "url": "https://www.trumpstruth.org/statuses/42229",
    "published": "2026-10-10T05:58:39+00:00",
    "summary": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117415076555675844 View image Quoted Donald J. Trump View video",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Video post from October 10, 2026",
-   "url": "https://www.trumpstruth.org/statuses/42230",
-   "published": "2026-10-10T05:58:05+00:00",
-   "summary": "View video",
    "tags": [],
    "highlight": true
   }
