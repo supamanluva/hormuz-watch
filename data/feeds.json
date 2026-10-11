@@ -1,6 +1,40 @@
 {
- "asOf": "2026-10-11T20:22:37.977152+00:00",
+ "asOf": "2026-10-11T21:14:18.880154+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Two killed near Israeli-occupied area in south Lebanon",
+   "url": "https://www.aljazeera.com/news/2026/10/11/two-killed-near-israeli-occupied-area-in-south-lebanon?traffic_source=rss",
+   "published": "2026-10-11T20:46:45+00:00",
+   "summary": "Despite ceasefire reached between Israel and Lebanon in June, Israeli attacks continue.",
+   "tags": [
+    "strikes",
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Deadly air strike kills dozens at Sudan gold mine near Egypt border",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/deadly-air-strike-kills-dozens-at-sudan-gold-mine-near-egypt-border?traffic_source=rss",
+   "published": "2026-10-11T20:44:17+00:00",
+   "summary": "An air strike hit a gold mine near Sudan’s border with Egypt, killing at least 72 people and injuring more than 50.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Zelenskyy welcomes US-announced energy ceasefire",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/zelenskyy-welcomes-us-announced-energy-ceasefire?traffic_source=rss",
+   "published": "2026-10-11T20:28:46+00:00",
+   "summary": "President Zelenskyy has responded to Donald Trump’s announcement that Russia and Ukraine agreed to an energy ceasefire",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Saudi health minister visits survivors of deadly Riyadh airport attack",
@@ -514,46 +548,12 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "Yemen’s Houthis release video of drone attacks on gov’t forces",
-   "url": "https://www.aljazeera.com/video/2026/10/10/yemens-houthis-release-video-of-drone-attacks-on-govt-forces?traffic_source=rss",
-   "published": "2026-10-10T21:02:49+00:00",
-   "summary": "Yemen’s Houthis have released drone video said to show attacks on Saudi-backed Yemeni government forces.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
    "source": "White House",
    "title": "The State of American Manufacturing",
    "url": "https://www.whitehouse.gov/research/2026/10/the-state-of-american-manufacturing/",
    "published": "2026-10-10T20:46:32+00:00",
    "summary": "The Council of Economic Advisers (CEA) evaluated President Trump’s impact on the manufacturing sector— reviewing his second term to date. Reviewing a wide range of evidence, the data demonstrates that the manufacturing sector is seeing robust growth with the Trump Administration’s pro-growth policies. Manufacturing jobs are reshoring in America after the Biden Administration shipped over [&#8230;]",
    "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Damage seen inside Saudi airport after third attack this week",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/damage-seen-inside-saudi-airport-after-third-attack-this-week?traffic_source=rss",
-   "published": "2026-10-10T20:43:19+00:00",
-   "summary": "Video shows damage inside King Khalid International Airport in Riyadh after the third attack in a week.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Israeli attack destroys building in Gaza one year into ‘ceasefire’",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/israeli-attack-destroys-building-in-gaza-one-year-into?traffic_source=rss",
-   "published": "2026-10-10T20:14:01+00:00",
-   "summary": "An Israeli strike destroyed a residential building in the Al-Rimal neighbourhood in Gaza City.",
-   "tags": [
-    "strikes",
-    "diplomacy"
-   ],
    "highlight": false
   },
   {
