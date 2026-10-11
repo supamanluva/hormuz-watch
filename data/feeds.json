@@ -1,6 +1,17 @@
 {
- "asOf": "2026-10-11T07:13:05.974305+00:00",
+ "asOf": "2026-10-11T08:09:26.579124+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "US bombs cargo vessel in Gulf of Oman ‘trying to run Iran blockade’",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/us-bombs-cargo-vessel-in-gulf-of-oman-trying-to-run-iran-blockade?traffic_source=rss",
+   "published": "2026-10-11T07:39:16+00:00",
+   "summary": "A US fighter jet bombed a commercial cargo ship in the Gulf of Oman, according to CENTCOM.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "US forces disable ship ‘attempting to run’ Iran blockade in Gulf of Oman",
@@ -455,17 +466,6 @@
    "summary": "Tehran, IRNA – Iran’s police chief, Brigadier General Ahmadreza Radan, has vowed revenge for the killing of Nosrat Eftekhari, deputy for cultural and social affairs of the police command in Sistan and Baluchestan Province, in a terrorist attack near Zahedan.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Suspect killed after 13 kindergarteners taken hostage, beaten in Brazil",
-   "url": "https://www.aljazeera.com/news/2026/10/10/suspect-killed-after-13-kindergarteners-taken-hostage-beaten-in-brazil?traffic_source=rss",
-   "published": "2026-10-10T09:45:14+00:00",
-   "summary": "Man spreads flammable liquid in a room with 13 children while holding a lighter as police try to negotiate.",
-   "tags": [
-    "diplomacy"
    ],
    "highlight": false
   },
