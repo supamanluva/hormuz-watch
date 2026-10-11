@@ -1,6 +1,17 @@
 {
- "asOf": "2026-10-11T14:52:46.733979+00:00",
+ "asOf": "2026-10-11T15:20:24.158021+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Trump says Ukraine, Russia agree to ‘energy ceasefire’",
+   "url": "https://www.aljazeera.com/news/2026/10/11/trump-says-ukraine-russia-agree-to-energy-ceasefire-2?traffic_source=rss",
+   "published": "2026-10-11T15:10:27+00:00",
+   "summary": "Ukrainian President Volodymyr Zelenskyy had pushed for a 60-day full ceasefire.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Why are Houthi missiles breaking through Saudi Arabia’s air defences?",
@@ -446,17 +457,6 @@
    "url": "https://www.aljazeera.com/news/2026/10/10/attack-on-airport-in-saudi-capital-riyadh-leaves-several-injured?traffic_source=rss",
    "published": "2026-10-10T18:08:46+00:00",
    "summary": "Aviation authority says death toll includes four Saudis and eight foreign nationals.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Nine killed in shooting in US state of Pennsylvania, including two children",
-   "url": "https://www.aljazeera.com/news/2026/10/10/nine-killed-in-shooting-in-us-state-of-pennsylvania-including-two-children?traffic_source=rss",
-   "published": "2026-10-10T17:48:45+00:00",
-   "summary": "The shooting in Erie, Pennsylvania happened on Friday, according to state officials. The attacker is among the dead.",
    "tags": [
     "strikes"
    ],
