@@ -1,12 +1,25 @@
 {
- "asOf": "2026-10-11T17:50:19.679935+00:00",
+ "asOf": "2026-10-11T18:26:56.757183+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Supertanker explodes after hitting mine in ‘unauthorized’ Hormuz route: IRGC Navy",
+   "url": "https://en.irna.ir/news/86289902/Supertanker-explodes-after-hitting-mine-in-unauthorized-Hormuz",
+   "published": "2026-10-11T18:16:02+00:00",
+   "summary": "Tehran, IRNA - The Islamic Revolution Guards Corps (IRGC)’s Navy announced Sunday that a violating supertanker carrying crude oil suffered a powerful explosion after striking a naval mine as it was attempting to exit the Strait of Hormuz through an unauthorized route.",
+   "tags": [
+    "strikes",
+    "shipping",
+    "oil"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "‘Don’t let my friends be forgotten’: Surviving Minab student writes to Araghchi",
    "url": "https://en.irna.ir/news/86289886/Don-t-let-my-friends-be-forgotten-Surviving-Minab-student",
    "published": "2026-10-11T17:43:10+00:00",
-   "summary": "Tehran, IRNA - Iranian Foreign Minister Abbas Araghchi said Sunday he had received a letter from a surviving student of the Shajareh Tayyebah School in Minab, which came under a deadly US missile attack late in February, and published its text in an Instagram message.",
+   "summary": "Tehran, IRNA - Iranian Foreign Minister Abbas Araghchi said Sunday he has received a letter from a surviving student of the Shajareh Tayyebah School in Minab, which came under a deadly US missile attack late in February, and published its text in an Instagram message.",
    "tags": [
     "strikes"
    ],
@@ -622,15 +635,6 @@
    "tags": [
     "strikes"
    ],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Mike Ditka was a great champion, both as a player and a Coach. He was MAGA all the way, and he will be missed. Rest in Peace, Mike! President DONALD J. TRUMP",
-   "url": "https://www.trumpstruth.org/statuses/42235",
-   "published": "2026-10-10T12:15:37+00:00",
-   "summary": "Mike Ditka was a great champion, both as a player and a Coach. He was MAGA all the way, and he will be missed. Rest in Peace, Mike! President DONALD J. TRUMP",
-   "tags": [],
    "highlight": true
   }
  ]
