@@ -1,6 +1,39 @@
 {
- "asOf": "2026-10-11T10:45:37.903339+00:00",
+ "asOf": "2026-10-11T11:19:46.446148+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Yemen fighting expands as Houthis attack Saudi airport: What to know",
+   "url": "https://www.aljazeera.com/news/2026/10/11/yemen-fighting-expands-as-houthis-attack-saudi-airport-what-to-know?traffic_source=rss",
+   "published": "2026-10-11T10:45:15+00:00",
+   "summary": "Saudi coalition blames Houthi group for the missile strike on the main international airport in Riyadh.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Fear and uncertainty for civilians as Yemen’s capital comes under attack",
+   "url": "https://www.aljazeera.com/news-analysis/2026/10/11/fear-and-uncertainty-for-civilians-as-yemens-capital-comes-under-attack?traffic_source=rss",
+   "published": "2026-10-11T10:42:35+00:00",
+   "summary": "Sanaa has faced intense bombing since the Yemeni government announced a campaign to take the capital from the Houthis.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "US attacks caused severe environmental pollution in southern Iran: Official",
+   "url": "https://en.irna.ir/news/86289318/US-attacks-caused-severe-environmental-pollution-in-southern",
+   "published": "2026-10-11T10:30:35+00:00",
+   "summary": "Tehran, IRNA — Head of Iran’s Department of Environment Shina Ansari says attacks on fuel storage tanks and facilities in Assaluyeh, a Persian Gulf port city in southern Iran, caused massive air pollution and greenhouse gas emissions.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Iran’s nuclear chief challenges US double standards on nuclear technology",
@@ -461,30 +494,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "Ukraine warns Trump-Putin diesel deal will bankroll Russia’s war",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/ukraine-warns-trump-putin-diesel-deal-will-bankroll-russias-war?traffic_source=rss",
-   "published": "2026-10-10T12:33:07+00:00",
-   "summary": "Donald Trump’s diesel deal with Putin gives Russia more money to continue attacking Ukraine, Zelenskyy says.",
-   "tags": [
-    "strikes",
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Why is US turning to Russia for diesel despite sanctions?",
-   "url": "https://www.aljazeera.com/news/2026/10/10/why-is-us-turning-to-russia-for-diesel-despite-sanctions?traffic_source=rss",
-   "published": "2026-10-10T12:16:12+00:00",
-   "summary": "President Donald Trump&#039;s deal with Putin comes amid surging fuel prices and looming US midterm elections.",
-   "tags": [
-    "sanctions",
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
    "source": "Trump · Truth Social",
    "title": "Mike Ditka was a great champion, both as a player and a Coach. He was MAGA all the way, and he will be missed. Rest in Peace, Mike! President DONALD J. TRUMP",
    "url": "https://www.trumpstruth.org/statuses/42235",
@@ -614,15 +623,6 @@
    "url": "https://www.trumpstruth.org/statuses/42230",
    "published": "2026-10-10T05:58:05+00:00",
    "summary": "View video",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Image post from October 10, 2026",
-   "url": "https://www.trumpstruth.org/statuses/42231",
-   "published": "2026-10-10T05:57:27+00:00",
-   "summary": "View image",
    "tags": [],
    "highlight": true
   }
