@@ -1,6 +1,17 @@
 {
- "asOf": "2026-10-12T03:53:08.462269+00:00",
+ "asOf": "2026-10-12T04:34:39.303730+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "North Korea fires multiple ballistic missiles towards the sea",
+   "url": "https://www.aljazeera.com/news/2026/10/12/north-korea-fires-multiple-ballistic-missiles-towards-the-sea?traffic_source=rss",
+   "published": "2026-10-12T03:37:12+00:00",
+   "summary": "Latest missile launch appears to be a show of force since South Korea&#039;s hypersonic missile test-fire, Seoul says.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "Adorable. Thank You! President DJT",
@@ -568,17 +579,6 @@
    "summary": "Tehran, IRNA — Former International Atomic Energy Agency (IAEA) Director General Mohamed ElBaradei has mocked US President Donald Trump’s complaint about not receiving the 2026 Nobel Peace Prize.",
    "tags": [
     "nuclear"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "US bombs cargo vessel in Gulf of Oman ‘trying to run Iran blockade’",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/us-bombs-cargo-vessel-in-gulf-of-oman-trying-to-run-iran-blockade?traffic_source=rss",
-   "published": "2026-10-11T07:39:16+00:00",
-   "summary": "A US fighter jet bombed a commercial cargo ship in the Gulf of Oman, according to CENTCOM.",
-   "tags": [
-    "shipping"
    ],
    "highlight": false
   },
