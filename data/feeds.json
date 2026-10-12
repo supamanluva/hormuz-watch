@@ -1,6 +1,17 @@
 {
- "asOf": "2026-10-12T10:29:10.373336+00:00",
+ "asOf": "2026-10-12T10:57:14.284643+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran’s envoy submits credentials to South Korean president",
+   "url": "https://en.irna.ir/news/86290506/Iran-s-envoy-submits-credentials-to-South-Korean-president",
+   "published": "2026-10-12T10:44:13+00:00",
+   "summary": "Tehran, IRNA – Iran’s new Ambassador to South Korea, Ahmad Erfanian, has submitted his credentials to Lee Jae Myung, the President of South Korea, at a ceremony at the South Korean Presidential Palace.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Melbourne man linked to flydubai attack suspect rejects ‘false accusations’",
@@ -59,7 +70,7 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "Alvarez vs M’billi boxing bout to go ahead in Saudi Arabia despite attacks",
+   "title": "Alvarez vs M’billi boxing bout to go ahead despite Saudi airport attacks",
    "url": "https://www.aljazeera.com/sports/2026/10/12/alvarez-vs-mbilli-boxing-bout-to-go-ahead-in-saudi-arabia-despite-attacks?traffic_source=rss",
    "published": "2026-10-12T07:40:31+00:00",
    "summary": "Mexican boxer tells Turki Al-Sheikh he &#039;fears nothing&#039; and will face M&#039;billi in Riyadh on October 31 &#039;no matter what&#039;.",
@@ -625,17 +636,6 @@
    "summary": "Bandar Abbas, IRNA – Deputy Foreign Minister for Legal and International Affairs, Kazem Gharibabadi, says Iran is following up on legal action over the Minab school attack, including lawsuits in foreign courts.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Former IAEA chief mocks Trump’s claim to Nobel Prize for settling 10 wars",
-   "url": "https://en.irna.ir/news/86289254/Former-IAEA-chief-mocks-Trump-s-claim-to-Nobel-Prize-for-settling",
-   "published": "2026-10-11T08:18:03+00:00",
-   "summary": "Tehran, IRNA — Former International Atomic Energy Agency (IAEA) Director General Mohamed ElBaradei has mocked US President Donald Trump’s complaint about not receiving the 2026 Nobel Peace Prize.",
-   "tags": [
-    "nuclear"
    ],
    "highlight": false
   }
