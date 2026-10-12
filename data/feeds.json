@@ -1,6 +1,17 @@
 {
- "asOf": "2026-10-11T23:20:54.273114+00:00",
+ "asOf": "2026-10-11T23:51:13.610189+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Pakistani national killed in second Houthi strike on Riyadh airport",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/pakistani-national-killed-second-houthi-strike-riyadh-airport?traffic_source=rss",
+   "published": "2026-10-11T23:20:46+00:00",
+   "summary": "Saudi authorities say a Pakistani national was killed and several people injured in a second strike on Riyadh’s Airport.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Footage shows moment Russian strike hits Ukrainian grocery store",
@@ -22,6 +33,24 @@
     "strikes"
    ],
    "highlight": false
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "My Rallies, legendary they have already become, have made a tremendous difference with the enthusiasm of the Republican Party. They have been waiting for them to happen, even though I never thought I’d have to be doing Rallies again. The good news is, I love them, the music, and the incredible enthusiasm, and will always be in favor of what’s good for America — and that means the Republican Party. Next stop, tomorrow, Youngstown, Ohio, for our Great Senator Jon Husted, and my friend, Vivek Ramaswamy for Governor, where the Crowds are already waiting in line — and then Alaska, for the Re-Election of one of the Greatest Senators in America, Dan S. Sullivan, and Congressman Nick Begich, who has a Big Future in Alaska. See you there! President DONALD J. TRUMP",
+   "url": "https://www.trumpstruth.org/statuses/42255",
+   "published": "2026-10-11T21:57:19+00:00",
+   "summary": "My Rallies, legendary they have already become, have made a tremendous difference with the enthusiasm of the Republican Party. They have been waiting for them to happen, even though I never thought I’d have to be doing Rallies again. The good news is, I love them, the music, and the incredible enthusiasm, and will always be in favor of what’s good for America — and that means the Republican Party.",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "I am pleased to announce that Katie Zacharia will be beginning her term as Press Secretary tomorrow, Columbus Day, and will be doing an introductory News Conference on Tuesday at 9:30 A.M. from the Press Briefing Room in the White House. Katie has been with me, in spirit, from the very beginning, and will do a fantastic job! President DONALD J. TRUMP",
+   "url": "https://www.trumpstruth.org/statuses/42254",
+   "published": "2026-10-11T21:37:18+00:00",
+   "summary": "I am pleased to announce that Katie Zacharia will be beginning her term as Press Secretary tomorrow, Columbus Day, and will be doing an introductory News Conference on Tuesday at 9:30 A.M. from the Press Briefing Room in the White House. Katie has been with me, in spirit, from the very beginning, and will do a fantastic job! President DONALD J. TRUMP",
+   "tags": [],
+   "highlight": true
   },
   {
    "source": "Trump · Truth Social",
@@ -508,17 +537,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "Global pro-Palestinian protests one year after Gaza ‘ceasefire’",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/11-10-sv-global-protests-for-gaza-solidarity-uk?traffic_source=rss",
-   "published": "2026-10-11T01:11:10+00:00",
-   "summary": "Pro-Palestinian demonstrations have been held worldwide to mark one year since the so-called Gaza ‘ceasefire&#039;.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
    "source": "Trump · Truth Social",
    "title": "Video post from October 11, 2026",
    "url": "https://www.trumpstruth.org/statuses/42242",
@@ -614,26 +632,6 @@
     "oil"
    ],
    "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran’s security indicators have improved, Armed Forces chief says",
-   "url": "https://en.irna.ir/news/86288758/Iran-s-security-indicators-have-improved-Armed-Forces-chief",
-   "published": "2026-10-10T16:32:02+00:00",
-   "summary": "Tehran, IRNA – Iran’s security indicators have improved despite two wars over the past year, Major General Ali Abdollahi, chief of the General Staff of the Armed Forces, said, praising the country’s police force for maintaining security despite attacks on its facilities.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Robert Jeffress, senior pastor of First Baptist Dallas, says he supports public execution announced by the Pentagon:",
-   "url": "https://www.trumpstruth.org/statuses/42237",
-   "published": "2026-10-10T14:42:55+00:00",
-   "summary": "Robert Jeffress, senior pastor of First Baptist Dallas, says he supports public execution announced by the Pentagon: https://www. dallasnews.com/news/faith/arti cle/robert-jeffress-death-penalty-22470214.php",
-   "tags": [],
-   "highlight": true
   }
  ]
 }
