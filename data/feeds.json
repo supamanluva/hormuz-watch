@@ -1,6 +1,28 @@
 {
- "asOf": "2026-10-12T10:57:14.284643+00:00",
+ "asOf": "2026-10-12T11:24:41.743499+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Saudi Arabia vows resilience as Houthi strikes hit Riyadh airport",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/saudi-arabia-vows-resilience-as-houthi-strikes-hit-riyadh-airport?traffic_source=rss",
+   "published": "2026-10-12T11:17:02+00:00",
+   "summary": "New footage shows a Houthi strike on Riyadh’s airport as Saudi Arabia reaffirms its resilience.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Exclusive | Iranian envoy condemns Rubio’s remarks on Iranian civilization as rooted in ignorance, prejudice",
+   "url": "https://en.irna.ir/news/86290610/Exclusive-Iranian-envoy-condemns-Rubio-s-remarks-on-Iranian",
+   "published": "2026-10-12T10:59:32+00:00",
+   "summary": "Tehran, IRNA – Iran’s Ambassador to the Vatican, Mohammad Hossein Mokhtari, has criticized US Secretary of State Marco Rubio’s remarks in Athens about Iranian civilization, describing them as rooted in ignorance and prejudice.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Iran’s envoy submits credentials to South Korean president",
@@ -8,6 +30,18 @@
    "published": "2026-10-12T10:44:13+00:00",
    "summary": "Tehran, IRNA – Iran’s new Ambassador to South Korea, Ahmad Erfanian, has submitted his credentials to Lee Jae Myung, the President of South Korea, at a ceremony at the South Korean Presidential Palace.",
    "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Ukraine’s Zelenskyy accuses Russia of violating Trump’s ‘energy ceasefire’",
+   "url": "https://www.aljazeera.com/news/2026/10/12/ukraines-zelenskyy-accuses-russia-of-violating-trumps-energy-ceasefire?traffic_source=rss",
+   "published": "2026-10-12T10:35:51+00:00",
+   "summary": "The EU also announced that it officially added almost 1,600 new sanctions on Russia&#039;s military industrial complex.",
+   "tags": [
+    "sanctions",
     "diplomacy"
    ],
    "highlight": false
@@ -527,17 +561,6 @@
    "highlight": true
   },
   {
-   "source": "Al Jazeera",
-   "title": "Why are Houthi missiles breaking through Saudi Arabia’s air defences?",
-   "url": "https://www.aljazeera.com/news/2026/10/11/why-are-houthi-missiles-breaking-through-saudi-arabias-air-defences?traffic_source=rss",
-   "published": "2026-10-11T14:25:03+00:00",
-   "summary": "Repeated Houthi attacks on Saudi Arabia&#039;s King Khalid Airport reveal the limitations of even high-tech air defences.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
    "source": "Trump · Truth Social",
    "title": "Effective immediately, there is an ENERGY CEASEFIRE in the War between Russia and Ukraine. Both parties have agreed. Do not break it! Thank you for your attention to this matter. President DONALD J. TRUMP",
    "url": "https://www.trumpstruth.org/statuses/42246",
@@ -547,18 +570,6 @@
     "diplomacy"
    ],
    "highlight": true
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Hormuz attacks intensify as efforts to end war on Iran stall",
-   "url": "https://www.aljazeera.com/news/2026/10/11/hormuz-attacks-intensify-as-efforts-to-end-war-on-iran-stall?traffic_source=rss",
-   "published": "2026-10-11T14:04:32+00:00",
-   "summary": "IRGC warns against ignoring waterway&#039;s &#039;security and rules&#039; as CENTCOM says US disabled vessel trying to run blockade.",
-   "tags": [
-    "strikes",
-    "shipping"
-   ],
-   "highlight": false
   },
   {
    "source": "IRNA (Iran state wire)",
@@ -625,17 +636,6 @@
    "summary": "Tehran, IRNA – President of the Islamic Republic of Iran, Masoud Pezeshkian, stresses that national unity and solidarity are essential to overcoming current challenges, saying no power can bring Iran to a standstill if its people stand together and reject exclusionary approaches.",
    "tags": [
     "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran pursuing legal action over Minab school attack: Deputy FM",
-   "url": "https://en.irna.ir/news/86289241/Iran-pursuing-legal-action-over-Minab-school-attack-Deputy-FM",
-   "published": "2026-10-11T08:55:41+00:00",
-   "summary": "Bandar Abbas, IRNA – Deputy Foreign Minister for Legal and International Affairs, Kazem Gharibabadi, says Iran is following up on legal action over the Minab school attack, including lawsuits in foreign courts.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   }
