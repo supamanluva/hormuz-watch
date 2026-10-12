@@ -1,6 +1,18 @@
 {
- "asOf": "2026-10-11T23:51:13.610189+00:00",
+ "asOf": "2026-10-12T01:08:20.966150+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Iran’s FM urges diplomacy in call with Saudi counterpart",
+   "url": "https://www.aljazeera.com/news/2026/10/12/irans-fm-urges-diplomacy-in-call-with-saudi-counterpart?traffic_source=rss",
+   "published": "2026-10-12T00:39:08+00:00",
+   "summary": "Tehran offers to facilitate talks between Saudi Arabia and Yemen&#039;s Houthis following deadly strikes on the kingdom.",
+   "tags": [
+    "strikes",
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Pakistani national killed in second Houthi strike on Riyadh airport",
@@ -524,17 +536,6 @@
    "summary": "View video",
    "tags": [],
    "highlight": true
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Trump ‘may’ join Saudi strikes on Houthis after Riyadh airport attack",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/10-10-clip-trump-weighs-joining-saudi-strikes-on-houthis-us?traffic_source=rss",
-   "published": "2026-10-11T01:59:02+00:00",
-   "summary": "President Donald Trump says the US ‘may’ join Saudi strikes against Yemen’s Houthis.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
   },
   {
    "source": "Trump · Truth Social",
