@@ -1,6 +1,17 @@
 {
- "asOf": "2026-10-12T09:52:57.841289+00:00",
+ "asOf": "2026-10-12T10:29:10.373336+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Melbourne man linked to flydubai attack suspect rejects ‘false accusations’",
+   "url": "https://www.aljazeera.com/news/2026/10/12/melbourne-man-linked-to-flydubai-attack-suspect-rejects-false-accusations?traffic_source=rss",
+   "published": "2026-10-12T10:05:19+00:00",
+   "summary": "Samir Mohtadi &quot;strongly rejects&quot; any attempt to associate him or Islamic centre in Melbourne with the alleged attacker.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Maps show how Israel’s ‘Yellow Line’ keeps squeezing Palestinians in Gaza",
@@ -535,17 +546,6 @@
    "tags": [
     "strikes",
     "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Creating a ghost town: Lives in limbo behind Israeli gates and checkpoints",
-   "url": "https://www.aljazeera.com/features/2026/10/11/creating-a-ghost-town-lives-in-limbo-behind-israeli-gates-and-checkpoints?traffic_source=rss",
-   "published": "2026-10-11T13:41:57+00:00",
-   "summary": "Israeli restrictions in Hebron have made life for Palestinians from the city a daily ordeal.",
-   "tags": [
-    "diplomacy"
    ],
    "highlight": false
   },
