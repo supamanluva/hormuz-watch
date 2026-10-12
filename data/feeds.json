@@ -1,6 +1,17 @@
 {
- "asOf": "2026-10-12T01:59:20.771075+00:00",
+ "asOf": "2026-10-12T02:46:52.523254+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Saudi Arabia says 1 dead, 11 injured in latest attack on Riyadh airport",
+   "url": "https://www.aljazeera.com/news/2026/10/12/saudi-arabia-says-1-dead-11-injured-in-latest-attack-on-riyadh-airport?traffic_source=rss",
+   "published": "2026-10-12T02:11:21+00:00",
+   "summary": "Sunday&#039;s strike on King Khalid International airport kills a Pakistani national.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "Exclusive: Jack Smith’s Office Bent Its Own Rules to Rush Software Purchase Days Before Indicting Trump:",
@@ -521,17 +532,6 @@
    "url": "https://www.aljazeera.com/news/2026/10/11/us-forces-disable-ship-attempting-to-run-iran-blockade-in-gulf-of-oman?traffic_source=rss",
    "published": "2026-10-11T03:13:53+00:00",
    "summary": "US military jet strikes stern of commercial cargo ship &#039;without harming the crew&#039;, CENTCOM says.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "World condemns deadly Houthi attack on Saudi Arabia’s Riyadh airport",
-   "url": "https://www.aljazeera.com/news/2026/10/11/world-condemns-deadly-houthi-attack-on-saudi-arabias-riyadh-airport?traffic_source=rss",
-   "published": "2026-10-11T02:12:07+00:00",
-   "summary": "Trump denounces &#039;terrible&#039; attack and says the US is evaluating whether to join Saudi Arabia&#039;s offensive on the Houthis.",
    "tags": [
     "strikes"
    ],
