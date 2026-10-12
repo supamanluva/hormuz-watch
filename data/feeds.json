@@ -1,6 +1,17 @@
 {
- "asOf": "2026-10-12T16:25:55.667128+00:00",
+ "asOf": "2026-10-12T17:01:21.631056+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "UK PM Andy Burnham vows to renegotiate post-Brexit trade deal with EU",
+   "url": "https://www.aljazeera.com/news/2026/10/12/uk-pm-andy-burnham-vows-to-renegotiate-post-brexit-trade-deal-with-eu?traffic_source=rss",
+   "published": "2026-10-12T16:02:35+00:00",
+   "summary": "PM Burnham confirms talks in Brussels next month, insisting the British public will be &#039;the boss&#039; of the reset.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Deadly gold mine air strikes highlight Egypt-Sudan border insecurity",
@@ -604,18 +615,6 @@
    "summary": "Emergency Lawyers blames Egypt for the deadly attack in northern Sudan.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Two killed near Israeli-occupied area in south Lebanon",
-   "url": "https://www.aljazeera.com/news/2026/10/11/two-killed-near-israeli-occupied-area-in-south-lebanon?traffic_source=rss",
-   "published": "2026-10-11T20:46:45+00:00",
-   "summary": "Despite ceasefire reached between Israel and Lebanon in June, Israeli attacks continue.",
-   "tags": [
-    "strikes",
-    "diplomacy"
    ],
    "highlight": false
   }
