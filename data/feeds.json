@@ -1,6 +1,66 @@
 {
- "asOf": "2026-10-12T15:25:01.703948+00:00",
+ "asOf": "2026-10-12T15:59:42.434958+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Deadly gold mine air strikes highlight Egypt-Sudan border insecurity",
+   "url": "https://www.aljazeera.com/news/2026/10/12/deadly-gold-mine-air-strikes-highlight-egypt-sudan-border-insecurity?traffic_source=rss",
+   "published": "2026-10-12T15:30:08+00:00",
+   "summary": "Deadly air raids on gold miners in Sudan expose deepening border lawlessness and regional instability.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Oil tanker reportedly attacked in Strait of Hormuz region",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/oil-tanker-reportedly-attacked-in-strait-of-hormuz-region?traffic_source=rss",
+   "published": "2026-10-12T15:19:23+00:00",
+   "summary": "Plumes of black smoke rise from a Petro Dolphin oil tanker by a drone attack off the coast of Oman.",
+   "tags": [
+    "strikes",
+    "shipping",
+    "oil"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "Look what The New York Times did to my beautiful Doral! They doctored the photo. They artificially put mold all over the building when referring to it in a story! President DONALD J. TRUMP",
+   "url": "https://www.trumpstruth.org/statuses/42296",
+   "published": "2026-10-12T15:18:24+00:00",
+   "summary": "Look what The New York Times did to my beautiful Doral! They doctored the photo. They artificially put mold all over the building when referring to it in a story! President DONALD J. TRUMP View image",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "Image post from October 12, 2026",
+   "url": "https://www.trumpstruth.org/statuses/42293",
+   "published": "2026-10-12T14:45:22+00:00",
+   "summary": "View image",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "Image post from October 12, 2026",
+   "url": "https://www.trumpstruth.org/statuses/42294",
+   "published": "2026-10-12T14:45:15+00:00",
+   "summary": "View image",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "Image post from October 12, 2026",
+   "url": "https://www.trumpstruth.org/statuses/42295",
+   "published": "2026-10-12T14:45:04+00:00",
+   "summary": "View image",
+   "tags": [],
+   "highlight": true
+  },
   {
    "source": "Al Jazeera",
    "title": "Iran-Saudi talks on Yemen’s Houthis: What’s in it for Tehran?",
@@ -25,6 +85,24 @@
    "highlight": false
   },
   {
+   "source": "Trump · Truth Social",
+   "title": "Video post from October 12, 2026",
+   "url": "https://www.trumpstruth.org/statuses/42292",
+   "published": "2026-10-12T14:25:50+00:00",
+   "summary": "View video",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "Video post from October 12, 2026",
+   "url": "https://www.trumpstruth.org/statuses/42291",
+   "published": "2026-10-12T14:23:47+00:00",
+   "summary": "View video",
+   "tags": [],
+   "highlight": true
+  },
+  {
    "source": "Al Jazeera",
    "title": "Why are the Houthis striking Saudi airports?",
    "url": "https://www.aljazeera.com/news/2026/10/12/why-are-the-houthis-striking-saudi-airports?traffic_source=rss",
@@ -37,11 +115,47 @@
    "highlight": false
   },
   {
+   "source": "Trump · Truth Social",
+   "title": "Video post from October 12, 2026",
+   "url": "https://www.trumpstruth.org/statuses/42288",
+   "published": "2026-10-12T14:18:53+00:00",
+   "summary": "View video",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "Video post from October 12, 2026",
+   "url": "https://www.trumpstruth.org/statuses/42289",
+   "published": "2026-10-12T14:18:42+00:00",
+   "summary": "View video",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "Video post from October 12, 2026",
+   "url": "https://www.trumpstruth.org/statuses/42290",
+   "published": "2026-10-12T14:18:31+00:00",
+   "summary": "View video",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "The European Union paid Russia 250 Billion Dollars for Energy, and the Fake News Media doesn’t want to get near that story. I made the right choice for the American People — ALWAYS, AMERICA FIRST! President DONALD J. TRUMP",
+   "url": "https://www.trumpstruth.org/statuses/42287",
+   "published": "2026-10-12T14:08:28+00:00",
+   "summary": "The European Union paid Russia 250 Billion Dollars for Energy, and the Fake News Media doesn’t want to get near that story. I made the right choice for the American People — ALWAYS, AMERICA FIRST! President DONALD J. TRUMP",
+   "tags": [],
+   "highlight": true
+  },
+  {
    "source": "Al Jazeera",
-   "title": "At least 20 injured in northern Israel explosion",
+   "title": "Northern Israel explosion kills at least 1 person, injures 19",
    "url": "https://www.aljazeera.com/news/2026/10/12/explosion-in-northern-israel-students-and-teachers-injured?traffic_source=rss",
    "published": "2026-10-12T13:15:43+00:00",
-   "summary": "The blast has been caused by unexploded ordnance in northern Israel near the Lebanese border.",
+   "summary": "The blast occurred in northern Israel near the Lebanese border and is under investigation.",
    "tags": [
     "strikes"
    ],
@@ -55,6 +169,28 @@
    "summary": "Former Governor Roy Cooper, of North Carolina, let out 83 murderers, 51 were serving life sentences, and 25 immediately committed murders after being let out of penitentiaries across the State. They were released by him because he didn’t want them to catch COVID while in prison. There has never been a Governor with such a bad record on Crime, and there never will be! Governor Michael Dukakis lost ",
    "tags": [],
    "highlight": true
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Vox rises as Sanchez battles political turmoil: Could Spain swing right?",
+   "url": "https://www.aljazeera.com/news/2026/10/12/far-right-surges-as-crises-threaten-sanchez-could-vox-lead-spain?traffic_source=rss",
+   "published": "2026-10-12T12:08:19+00:00",
+   "summary": "Snap vote could bring PP, Vox to power as polls show falling support for Sanchez, one of Europe&#039;s last leftist leaders.",
+   "tags": [
+    "oil"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "UN Press",
+   "title": "Security Council, 10239th Meeting (PM) Syria",
+   "url": "https://press.un.org/en/blog/sc16474",
+   "published": "2026-10-12T11:38:49+00:00",
+   "summary": "The Security Council today holds its monthly meeting on political and humanitarian developments in Syria. Deputy Special Envoy for Syria Claudio Cordone and a representative of the UN Office for the Coordination of Humanitarian Affairs are expected to brief.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
   },
   {
    "source": "UN Press",
@@ -222,87 +358,6 @@
    "url": "https://www.trumpstruth.org/statuses/42265",
    "published": "2026-10-12T11:16:52+00:00",
    "summary": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117425645180673184 View image Quoted Donald J. Trump View video",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Image post from October 12, 2026",
-   "url": "https://www.trumpstruth.org/statuses/42266",
-   "published": "2026-10-12T11:16:21+00:00",
-   "summary": "View image",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Quote post from October 12, 2026",
-   "url": "https://www.trumpstruth.org/statuses/42267",
-   "published": "2026-10-12T11:16:07+00:00",
-   "summary": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117425645180673184 View image Quoted Donald J. Trump View video",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Image post from October 12, 2026",
-   "url": "https://www.trumpstruth.org/statuses/42268",
-   "published": "2026-10-12T11:15:56+00:00",
-   "summary": "View image",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Quote post from October 12, 2026",
-   "url": "https://www.trumpstruth.org/statuses/42269",
-   "published": "2026-10-12T11:15:33+00:00",
-   "summary": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117427648373823913 View image Quoted Donald J. Trump View video",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Video post from October 12, 2026",
-   "url": "https://www.trumpstruth.org/statuses/42270",
-   "published": "2026-10-12T11:15:16+00:00",
-   "summary": "View video",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Video post from October 12, 2026",
-   "url": "https://www.trumpstruth.org/statuses/42271",
-   "published": "2026-10-12T11:14:54+00:00",
-   "summary": "View video",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Quote post from October 12, 2026",
-   "url": "https://www.trumpstruth.org/statuses/42272",
-   "published": "2026-10-12T11:14:45+00:00",
-   "summary": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117427645405102306 View image Quoted Donald J. Trump View video",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Video post from October 12, 2026",
-   "url": "https://www.trumpstruth.org/statuses/42273",
-   "published": "2026-10-12T11:14:31+00:00",
-   "summary": "View video",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Image post from October 12, 2026",
-   "url": "https://www.trumpstruth.org/statuses/42263",
-   "published": "2026-10-12T11:08:27+00:00",
-   "summary": "View image",
    "tags": [],
    "highlight": true
   },
@@ -475,15 +530,6 @@
    "highlight": false
   },
   {
-   "source": "Trump · Truth Social",
-   "title": "Adorable. Thank You! President DJT",
-   "url": "https://www.trumpstruth.org/statuses/42261",
-   "published": "2026-10-12T02:49:50+00:00",
-   "summary": "Adorable. Thank You! President DJT View image",
-   "tags": [],
-   "highlight": true
-  },
-  {
    "source": "Al Jazeera",
    "title": "Saudi Arabia says 1 dead, 11 injured in latest attack on Riyadh airport",
    "url": "https://www.aljazeera.com/news/2026/10/12/saudi-arabia-says-1-dead-11-injured-in-latest-attack-on-riyadh-airport?traffic_source=rss",
@@ -570,52 +616,6 @@
    "tags": [
     "strikes",
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Deadly air strike kills dozens at Sudan gold mine near Egypt border",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/deadly-air-strike-kills-dozens-at-sudan-gold-mine-near-egypt-border?traffic_source=rss",
-   "published": "2026-10-11T20:44:17+00:00",
-   "summary": "An air strike hit a gold mine near Sudan’s border with Egypt, killing at least 72 people and injuring more than 50.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Zelenskyy welcomes US-announced energy ceasefire",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/zelenskyy-welcomes-us-announced-energy-ceasefire?traffic_source=rss",
-   "published": "2026-10-11T20:28:46+00:00",
-   "summary": "President Zelenskyy has responded to Donald Trump’s announcement that Russia and Ukraine agreed to an energy ceasefire",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Saudi health minister visits survivors of deadly Riyadh airport attack",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/saudi-health-minister-visits-survivors-of-deadly-riyadh-airport-attack?traffic_source=rss",
-   "published": "2026-10-11T19:59:15+00:00",
-   "summary": "Saudi Arabia’s health minister Fahad Aljalajel has paid a visit to survivors of Saturday’s deadly attack.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Supertanker explodes after hitting mine in ‘unauthorized’ Hormuz route: IRGC Navy",
-   "url": "https://en.irna.ir/news/86289902/Supertanker-explodes-after-hitting-mine-in-unauthorized-Hormuz",
-   "published": "2026-10-11T18:16:02+00:00",
-   "summary": "Tehran, IRNA - The Islamic Revolution Guards Corps (IRGC)’s Navy announced Sunday that a violating supertanker carrying crude oil suffered a powerful explosion after striking a naval mine as it was attempting to exit the Strait of Hormuz through an unauthorized route.",
-   "tags": [
-    "strikes",
-    "shipping",
-    "oil"
    ],
    "highlight": false
   }
