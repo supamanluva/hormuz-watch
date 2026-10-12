@@ -1,6 +1,41 @@
 {
- "asOf": "2026-10-12T14:33:02.986951+00:00",
+ "asOf": "2026-10-12T15:01:03.516006+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Iran-Saudi talks on Yemen’s Houthis: What’s in it for Tehran?",
+   "url": "https://www.aljazeera.com/news/2026/10/12/iran-saudi-talks-on-yemens-houthis-whats-in-it-for-tehran?traffic_source=rss",
+   "published": "2026-10-12T14:27:49+00:00",
+   "summary": "Tehran seeks dialogue in Yemen conflict, warning a military solution risks complicating the volatile regional situation.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Iran sets crosshairs on ‘US-UAE’ oil shuttle out of Strait of Hormuz",
+   "url": "https://www.aljazeera.com/economy/2026/10/12/iran-sets-crosshairs-on-us-uae-oil-shuttle-out-of-strait-of-hormuz?traffic_source=rss",
+   "published": "2026-10-12T14:25:55+00:00",
+   "summary": "The IRGC is hitting more ships allegedly part of a shuttle operation to move crude oil beyond the Strait of Hormuz.",
+   "tags": [
+    "shipping",
+    "oil"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Why are the Houthis striking Saudi airports?",
+   "url": "https://www.aljazeera.com/news/2026/10/12/why-are-the-houthis-striking-saudi-airports?traffic_source=rss",
+   "published": "2026-10-12T14:23:20+00:00",
+   "summary": "The attacks mark the deadliest assault on Saudi soil in more than a decade.",
+   "tags": [
+    "strikes",
+    "oil"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "At least 20 injured in northern Israel explosion",
@@ -572,29 +607,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "Republican senator says Trump diesel agreement with Russia may be illegal",
-   "url": "https://www.aljazeera.com/news/2026/10/11/republican-senator-says-trump-diesel-agreement-with-russia-may-be-illegal?traffic_source=rss",
-   "published": "2026-10-11T19:19:50+00:00",
-   "summary": "US President Trump&#039;s bid to bring down diesel prices by easing sanctions on Russia prompts rare Republican criticism.",
-   "tags": [
-    "sanctions",
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Jerusalem Daily: Panicked Palestinians flee Israeli attacks on Gaza",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/jerusalem-daily-panicked-palestinians-flee-israeli-attacks-on-gaza?traffic_source=rss",
-   "published": "2026-10-11T18:25:42+00:00",
-   "summary": "Jerusalem Daily: Panicked Palestinians flee Israeli attacks on Gaza",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
    "source": "IRNA (Iran state wire)",
    "title": "Supertanker explodes after hitting mine in ‘unauthorized’ Hormuz route: IRGC Navy",
    "url": "https://en.irna.ir/news/86289902/Supertanker-explodes-after-hitting-mine-in-unauthorized-Hormuz",
@@ -604,17 +616,6 @@
     "strikes",
     "shipping",
     "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "‘Don’t let my friends be forgotten’: Surviving Minab student writes to Araghchi",
-   "url": "https://en.irna.ir/news/86289886/Don-t-let-my-friends-be-forgotten-Surviving-Minab-student",
-   "published": "2026-10-11T17:43:10+00:00",
-   "summary": "Tehran, IRNA - Iranian Foreign Minister Abbas Araghchi said Sunday he has received a letter from a surviving student of the Shajareh Tayyebah School in Minab, which came under a deadly US missile attack late in February, and published its text in an Instagram message.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   }
