@@ -1,6 +1,39 @@
 {
- "asOf": "2026-10-12T09:08:03.098685+00:00",
+ "asOf": "2026-10-12T09:52:57.841289+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Maps show how Israel’s ‘Yellow Line’ keeps squeezing Palestinians in Gaza",
+   "url": "https://www.aljazeera.com/news/2026/10/12/maps-show-how-israels-yellow-line-keeps-squeezing-palestinians-in-gaza?traffic_source=rss",
+   "published": "2026-10-12T09:27:12+00:00",
+   "summary": "A year into a &#039;ceasefire&#039;, Israel restricts access to 65 percent of Gaza and crams 2.1 million people into the rest.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iranian minister warns of threat to fundamental rights of habitation worldwide",
+   "url": "https://en.irna.ir/news/86290477/Iranian-minister-warns-of-threat-to-fundamental-rights-of-habitation",
+   "published": "2026-10-12T09:23:35+00:00",
+   "summary": "Tehran, IRNA – Minister of Roads and Urban Development Farzaneh Sadegh has described the attacks on educational and residential areas during armed conflicts as a violation of fundamental human rights, as well as a threat to morality and humanity.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Russia introduces drone classes in public schools",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/russia-introduces-drone-classes-in-public-schools?traffic_source=rss",
+   "published": "2026-10-12T08:47:43+00:00",
+   "summary": "Russian public schools are teaching children to assemble and fly drones as part of changes to the national curriculum.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Iran dismisses US claims of normalcy in Strait of Hormuz, says they don’t match reality",
@@ -158,13 +191,24 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "Iran’s FM urges diplomacy in call with Saudi counterpart",
+   "title": "Iran urges Saudi Arabia to pursue diplomacy after Houthis escalate attacks",
    "url": "https://www.aljazeera.com/news/2026/10/12/irans-fm-urges-diplomacy-in-call-with-saudi-counterpart?traffic_source=rss",
    "published": "2026-10-12T00:39:08+00:00",
    "summary": "Tehran offers to facilitate talks between Saudi Arabia and Yemen&#039;s Houthis following deadly strikes on the kingdom.",
    "tags": [
     "strikes",
     "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Iran war live: Tehran says Yemen escalation benefits ‘only’ Israel",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/10/12/iran-war-live-riyadh-airport-hit-again-tehran-says-us-reply-inadequate?traffic_source=rss",
+   "published": "2026-10-12T00:00:00+00:00",
+   "summary": "Iran says &#039;deeply concerned about developments in the Arabian Peninsula&#039; after another Houthi attack on Riyadh airport.",
+   "tags": [
+    "strikes"
    ],
    "highlight": false
   },
@@ -518,28 +562,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "Saudi Arabia vows response over Houthi ‘war crime’ attack on Riyadh airport",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/saudi-arabia-vows-response-over-houthi-war-crime-attack-on-riyadh-airport?traffic_source=rss",
-   "published": "2026-10-11T12:28:11+00:00",
-   "summary": "A Houthi attack on Riyadh airport killed at least 12 people and injured more than 300.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Polish police probe alleged plot to assassinate PM Tusk, defence minister",
-   "url": "https://www.aljazeera.com/news/2026/10/11/poland-police-probe-alleged-plot-to-assassinate-pm-tusk-defence-minister?traffic_source=rss",
-   "published": "2026-10-11T12:09:54+00:00",
-   "summary": "Security officials hold emergency meeting after police receive information about potential attack.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
    "source": "IRNA (Iran state wire)",
    "title": "Iran to use nuclear technology to control disease-carrying mosquitoes",
    "url": "https://en.irna.ir/news/86289551/Iran-to-use-nuclear-technology-to-control-disease-carrying-mosquitoes",
@@ -548,17 +570,6 @@
    "tags": [
     "diplomacy",
     "nuclear"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "At least 139 dead, 84 missing as migrant boat capsizes off Djibouti",
-   "url": "https://www.aljazeera.com/news/2026/10/11/at-least-109-dead-over-100-missing-as-migrant-boat-capsizes-off-djibouti?traffic_source=rss",
-   "published": "2026-10-11T11:34:40+00:00",
-   "summary": "Search and rescue operations conducted after vessel carrying more than 300 people capsizes near Guhere.",
-   "tags": [
-    "shipping"
    ],
    "highlight": false
   },
@@ -627,15 +638,6 @@
     "nuclear"
    ],
    "highlight": false
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "% Approval Rating, highest ever. The Fake News never learns!",
-   "url": "https://www.trumpstruth.org/statuses/42245",
-   "published": "2026-10-11T02:02:46+00:00",
-   "summary": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117419806852030114 99% Approval Rating, highest ever. The Fake News never learns! View image Quoted Donald J. Trump View video",
-   "tags": [],
-   "highlight": true
   }
  ]
 }
