@@ -1,6 +1,17 @@
 {
- "asOf": "2026-10-12T18:28:57.588744+00:00",
+ "asOf": "2026-10-12T18:58:05.319294+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran, Azerbaijan agree to draft two cooperation documents: Interior minister",
+   "url": "https://en.irna.ir/news/86290991/Iran-Azerbaijan-agree-to-draft-two-cooperation-documents-Interior",
+   "published": "2026-10-12T18:42:39+00:00",
+   "summary": "Tehran, IRNA - Interior Minister Eskandar Momeni announced an agreement to draft two cooperation documents between Iran and the Republic of Azerbaijan, saying his meeting with Azerbaijani President Ilham Aliyev focused on mechanisms for implementing agreements reached between the two countries.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Exclusive | Iran's ambassador rejects allegations of Tehran’s role in British airbase incident",
@@ -595,17 +606,6 @@
    "url": "https://www.aljazeera.com/news/2026/10/12/north-korea-fires-multiple-ballistic-missiles-towards-the-sea?traffic_source=rss",
    "published": "2026-10-12T03:37:12+00:00",
    "summary": "South Korea&#039;s Joint Chiefs of Staff said one of the missiles launched from the Pyongyang area flew more than 900km.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Saudi Arabia says 1 dead, 11 injured in latest attack on Riyadh airport",
-   "url": "https://www.aljazeera.com/news/2026/10/12/saudi-arabia-says-1-dead-11-injured-in-latest-attack-on-riyadh-airport?traffic_source=rss",
-   "published": "2026-10-12T02:11:21+00:00",
-   "summary": "Sunday&#039;s strike on King Khalid International airport kills a Pakistani national.",
    "tags": [
     "strikes"
    ],
