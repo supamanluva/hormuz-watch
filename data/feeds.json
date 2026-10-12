@@ -1,6 +1,29 @@
 {
- "asOf": "2026-10-12T18:58:05.319294+00:00",
+ "asOf": "2026-10-12T19:19:47.871508+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Cuba forges ahead with renewable energy plans amid US oil blockade",
+   "url": "https://www.aljazeera.com/economy/2026/10/12/cuba-forges-ahead-with-renewable-energy-plans-amid-us-oil-blockade?traffic_source=rss",
+   "published": "2026-10-12T18:52:40+00:00",
+   "summary": "Cuban energy minister denies link to fuel shipments intercepted by US, says oil imports by private firms insufficient.",
+   "tags": [
+    "oil"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "UK blames Iran for airbase plot, sanctions two Iranian nationals",
+   "url": "https://www.aljazeera.com/news/2026/10/12/uk-blames-iran-for-airbase-plot-sanctions-two-iranian-nationals?traffic_source=rss",
+   "published": "2026-10-12T18:51:18+00:00",
+   "summary": "Iran’s ambassador tells UK officials Tehran willing to assist in investigation, reiterates denial of involvement.",
+   "tags": [
+    "strikes",
+    "sanctions"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Iran, Azerbaijan agree to draft two cooperation documents: Interior minister",
@@ -586,28 +609,6 @@
    "summary": "Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) Navy warns vessels that violate regulations and attempt to transit the Strait of Hormuz.",
    "tags": [
     "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "China sanctions Paraguay, Belize ministers over Taiwan ties",
-   "url": "https://www.aljazeera.com/news/2026/10/12/china-sanctions-paraguay-belize-ministers-over-taiwan-ties?traffic_source=rss",
-   "published": "2026-10-12T04:58:01+00:00",
-   "summary": "Chinese Foreign Ministry cites national sovereignty and Taiwan separatist activities as reasons behind the measures.",
-   "tags": [
-    "sanctions"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "North Korea fires multiple ballistic missiles towards the sea",
-   "url": "https://www.aljazeera.com/news/2026/10/12/north-korea-fires-multiple-ballistic-missiles-towards-the-sea?traffic_source=rss",
-   "published": "2026-10-12T03:37:12+00:00",
-   "summary": "South Korea&#039;s Joint Chiefs of Staff said one of the missiles launched from the Pyongyang area flew more than 900km.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   }
