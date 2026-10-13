@@ -1,9 +1,144 @@
 {
- "asOf": "2026-10-13T01:46:41.676744+00:00",
+ "asOf": "2026-10-13T08:19:59.121007+00:00",
  "items": [
   {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran to pursue Minab school case until justice is served: Official",
+   "url": "https://en.irna.ir/news/86291408/Iran-to-pursue-Minab-school-case-until-justice-is-served-Official",
+   "published": "2026-10-13T08:06:09+00:00",
+   "summary": "Tehran, IRNA – Iran will continue its international legal efforts to secure the rights of victims of the Shajareh Tayyebeh school attack in Minab until a final result is achieved, administration spokesperson Fatemeh Mohajerani says.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
    "source": "Al Jazeera",
-   "title": "Iran war live: Trump says Houthis ‘misbehaving’ as Riyadh flights halted",
+   "title": "Palestine weekly: Gaza marks year of ‘ceasefire’ with more Israeli killing",
+   "url": "https://www.aljazeera.com/news/2026/10/13/palestine-weekly-gaza-marks-year-of-ceasefire-with-more-israeli-killing?traffic_source=rss",
+   "published": "2026-10-13T07:45:07+00:00",
+   "summary": "A year after Gaza&#039;s ceasefire, Israeli attacks persist as settler violence disrupts West Bank&#039;s oil harvest.",
+   "tags": [
+    "strikes",
+    "diplomacy",
+    "oil"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Drone attack sinks ship off Bulgaria’s Black Sea coast, PM says",
+   "url": "https://www.aljazeera.com/news/2026/10/13/drone-attack-sinks-ship-off-bulgarias-black-sea-coast-pm-says?traffic_source=rss",
+   "published": "2026-10-13T07:36:38+00:00",
+   "summary": "Two ships were hit in the attack, including the Ukrainian-owned Chelsea 3, which sustained damage.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran to pursue diplomacy to secure national interests, counter sanctions: FM",
+   "url": "https://en.irna.ir/news/86291182/Iran-to-pursue-diplomacy-to-secure-national-interests-counter",
+   "published": "2026-10-13T05:40:35+00:00",
+   "summary": "Tehran, IRNA – Foreign Minister Abbas Araghchi says the Foreign Ministry is pursuing diplomatic avenues with seriousness to safeguard Iran’s national interests and defend its rights and interests internationally.",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran remains open to diplomacy but well-prepared to defend itself: Deputy FM",
+   "url": "https://en.irna.ir/news/86291157/Iran-remains-open-to-diplomacy-but-well-prepared-to-defend-itself",
+   "published": "2026-10-13T05:28:53+00:00",
+   "summary": "Tehran, IRNA – Iran welcomes all diplomatic efforts but remains fully prepared to defend itself, Kazem Gharibabadi, Deputy Foreign Minister for Legal and International Affairs, said, stressing that any negotiations must be based on realistic proposals.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Document for Tehran-Baku cooperation in dealing with natural disasters to be drafted: Official",
+   "url": "https://en.irna.ir/news/86291141/Document-for-Tehran-Baku-cooperation-in-dealing-with-natural",
+   "published": "2026-10-13T05:13:31+00:00",
+   "summary": "Tehran, IRNA - Interior Minister Eskandar Momeni says that Iran and Azerbaijan are drafting an official pact to strengthen their partnership in managing natural disasters.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Ronaldo waves Saudi-flag scarf after match interrupted by missile alert",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/12-10-clip-ronaldowears-saudi-shawl-ksa?traffic_source=rss",
+   "published": "2026-10-13T04:09:52+00:00",
+   "summary": "Portuguese superstar Cristiano Ronaldo waved a scarf with the Saudi flag after Al Nassr’s victory.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Trump insists energy ceasefire holds as Ukraine reports new Russian strikes",
+   "url": "https://www.aljazeera.com/economy/2026/10/13/trump-insists-energy-ceasefire-holds-as-ukraine-reports-new-russian-strikes?traffic_source=rss",
+   "published": "2026-10-13T03:30:23+00:00",
+   "summary": "US President urges Zelenskyy, Putin to end &#039;ridiculous war&#039; and insists they agreed to stop attacks on energy sites.",
+   "tags": [
+    "strikes",
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Russia and Ukraine trade strikes amid doubt over ‘energy ceasefire’",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/russia-and-ukraine-trade-strikes-amid-doubt-over-energy?traffic_source=rss",
+   "published": "2026-10-13T03:11:19+00:00",
+   "summary": "Ukraine&#039;s president says Russian attacks on Ukraine’s energy infrastructure are continuing despite &#039;energy ceasefire&#039;.",
+   "tags": [
+    "strikes",
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Cyberattack on French supermarkets causes fires, millions in losses",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/12-10-sv-france-supermarket-fridges-targeted?traffic_source=rss",
+   "published": "2026-10-13T03:01:53+00:00",
+   "summary": "A cyberattack targeting supermarket refrigeration systems has left shelves empty across France.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "I see so many comments from the Radical Left Morons and Lunatics that China and Russia are helping the “wonderful” Islamic Republic of Iran. If they are, it’s at a very low level, but I don’t believe they are at all. They have too much to lose, and we would know about it, and know about it very fast! Thank you for your attention to this matter. President DONALD J. TRUMP",
+   "url": "https://www.trumpstruth.org/statuses/42300",
+   "published": "2026-10-13T02:45:46+00:00",
+   "summary": "I see so many comments from the Radical Left Morons and Lunatics that China and Russia are helping the “wonderful” Islamic Republic of Iran. If they are, it’s at a very low level, but I don’t believe they are at all. They have too much to lose, and we would know about it, and know about it very fast! Thank you for your attention to this matter. President DONALD J. TRUMP",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Hundreds of supermarkets in France hit by ‘unprecedented’ cyberattack",
+   "url": "https://www.aljazeera.com/news/2026/10/13/unprecedented-cyberattack-hits-french-supermarkets-causing-food-losses?traffic_source=rss",
+   "published": "2026-10-13T02:37:10+00:00",
+   "summary": "Hackers raise temperatures in supermarket fridges, sparking fires and spoiling food in &#039;large-scale&#039; cyberattack.",
+   "tags": [
+    "strikes",
+    "oil"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Iran war live: Qatar urges stronger efforts to secure Gulf maritime routes",
    "url": "https://www.aljazeera.com/news/liveblog/2026/10/13/iran-war-live-trump-says-houthis-misbehaving-as-riyadh-flights-halted?traffic_source=rss",
    "published": "2026-10-13T00:00:00+00:00",
    "summary": "US President Trump condemns Yemen&#039;s Houthis over escalating attacks, as Saudi Arabia halts flights at Riyadh airport.",
@@ -483,119 +618,6 @@
     "diplomacy"
    ],
    "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Security Council, 10238th Meeting (AM) Colombia",
-   "url": "https://press.un.org/en/blog/sc16473",
-   "published": "2026-10-12T11:38:18+00:00",
-   "summary": "At 10 a.m., the Security Council will hold its quarterly meeting on Colombia. Special Representative and Head of the UN Verification Mission in Colombia Miroslav Jenča will brief on recent developments and the Secretary-General’s latest 90-day report on the mission (document S/2026/759), which covers developments since 27 June.",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "‘Energy ceasefire’: What’s behind Trump’s love-hate ties to Russian oil?",
-   "url": "https://www.aljazeera.com/news/2026/10/12/energy-ceasefire-whats-behind-trumps-love-hate-ties-to-russian-oil?traffic_source=rss",
-   "published": "2026-10-12T11:30:54+00:00",
-   "summary": "Trump&#039;s energy truce sparks criticism over aiding Russia&#039;s war finances amid diesel shortages and rising consumer costs.",
-   "tags": [
-    "diplomacy",
-    "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "‘Iran to counter US naval blockade through strategic management of Strait of Hormuz’",
-   "url": "https://en.irna.ir/news/86290513/Iran-to-counter-US-naval-blockade-through-strategic-management",
-   "published": "2026-10-12T11:28:50+00:00",
-   "summary": "Tehran, IRNA – Major General Yahya Rahim Safavi, head of the Shaheed Hajj Qassem Soleimani Research Institute of Sacred Defense Sciences and Teachings, says Iran’s main strategy for the Strait of Hormuz was its intelligent management in response to the US naval blockade against the country.",
-   "tags": [
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Image post from October 12, 2026",
-   "url": "https://www.trumpstruth.org/statuses/42274",
-   "published": "2026-10-12T11:24:51+00:00",
-   "summary": "View image",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Quote post from October 12, 2026",
-   "url": "https://www.trumpstruth.org/statuses/42275",
-   "published": "2026-10-12T11:23:48+00:00",
-   "summary": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117427680732518150 View image Quoted Donald J. Trump View video",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Video post from October 12, 2026",
-   "url": "https://www.trumpstruth.org/statuses/42276",
-   "published": "2026-10-12T11:23:30+00:00",
-   "summary": "View video",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Quote post from October 12, 2026",
-   "url": "https://www.trumpstruth.org/statuses/42277",
-   "published": "2026-10-12T11:23:24+00:00",
-   "summary": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117427679576446625 View image Quoted Donald J. Trump View video",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Video post from October 12, 2026",
-   "url": "https://www.trumpstruth.org/statuses/42278",
-   "published": "2026-10-12T11:23:12+00:00",
-   "summary": "View video",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Image post from October 12, 2026",
-   "url": "https://www.trumpstruth.org/statuses/42279",
-   "published": "2026-10-12T11:22:42+00:00",
-   "summary": "View image",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Quote post from October 12, 2026",
-   "url": "https://www.trumpstruth.org/statuses/42280",
-   "published": "2026-10-12T11:22:29+00:00",
-   "summary": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117427675917483713 View image Quoted Donald J. Trump View video",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Video post from October 12, 2026",
-   "url": "https://www.trumpstruth.org/statuses/42281",
-   "published": "2026-10-12T11:22:16+00:00",
-   "summary": "View video",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Quote post from October 12, 2026",
-   "url": "https://www.trumpstruth.org/statuses/42282",
-   "published": "2026-10-12T11:22:02+00:00",
-   "summary": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117419344133655598 View image Quoted Donald J. Trump View video",
-   "tags": [],
-   "highlight": true
   }
  ]
 }
