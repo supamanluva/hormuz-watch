@@ -1,6 +1,39 @@
 {
- "asOf": "2026-10-13T12:13:36.071368+00:00",
+ "asOf": "2026-10-13T13:05:49.345098+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "African Union holds Kigali talks as fighting continues in eastern DRC",
+   "url": "https://www.aljazeera.com/news/2026/10/13/african-union-holds-kigali-talks-as-fighting-continues-in-eastern-drc?traffic_source=rss",
+   "published": "2026-10-13T12:40:26+00:00",
+   "summary": "Three former African presidents discussed security commitments, refugee protection and regional cooperation.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran on par with developed nations in nuclear science: AEOI chief",
+   "url": "https://en.irna.ir/news/86291602/Iran-on-par-with-developed-nations-in-nuclear-science-AEOI-chief",
+   "published": "2026-10-13T12:24:14+00:00",
+   "summary": "Tehran, IRNA – Iran has reached the level of developed countries in nuclear science and technology, producing domestically the equipment and systems needed by national industries, Vice President and Atomic Energy Organization of Iran (AEOI) Chief Mohammad Eslami said Tuesday.",
+   "tags": [
+    "nuclear"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "US-attacked city of Lamerd a ‘living laboratory’ of banned weapons: IRNA chief",
+   "url": "https://en.irna.ir/news/86291784/US-attacked-city-of-Lamerd-a-living-laboratory-of-banned-weapons",
+   "published": "2026-10-13T12:20:54+00:00",
+   "summary": "Shiraz, IRNA – The Head of the Islamic Republic News Agency (IRNA) has described the southern city of Lamerd in Fars province as a “living laboratory of internationally banned weapons.”",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Iran stresses implementation of agreements with Azerbaijan",
@@ -585,36 +618,6 @@
    "title": "Video post from October 12, 2026",
    "url": "https://www.trumpstruth.org/statuses/42292",
    "published": "2026-10-12T14:25:50+00:00",
-   "summary": "View video",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Video post from October 12, 2026",
-   "url": "https://www.trumpstruth.org/statuses/42291",
-   "published": "2026-10-12T14:23:47+00:00",
-   "summary": "View video",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Why are the Houthis striking Saudi airports?",
-   "url": "https://www.aljazeera.com/news/2026/10/12/why-are-the-houthis-striking-saudi-airports?traffic_source=rss",
-   "published": "2026-10-12T14:23:20+00:00",
-   "summary": "The attacks mark the deadliest assault on Saudi soil in more than a decade.",
-   "tags": [
-    "strikes",
-    "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Video post from October 12, 2026",
-   "url": "https://www.trumpstruth.org/statuses/42288",
-   "published": "2026-10-12T14:18:53+00:00",
    "summary": "View video",
    "tags": [],
    "highlight": true
