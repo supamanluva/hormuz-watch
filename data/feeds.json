@@ -1,6 +1,35 @@
 {
- "asOf": "2026-10-12T23:30:36.018727+00:00",
+ "asOf": "2026-10-13T00:06:21.769022+00:00",
  "items": [
+  {
+   "source": "UN Press",
+   "title": "‘Stark Gaps Remain’ in Achieving Development Goals, Second Committee Hears as 2030 Deadline Nears",
+   "url": "https://press.un.org/en/2026/gaef3624.doc.htm",
+   "published": "2026-10-12T23:55:53+00:00",
+   "summary": "With just over three years remaining to achieve the 2030 Agenda for Sustainable Development, a senior United Nations official warned the Second Committee (Economic and Financial) today that “stark gaps remain” in efforts to meet development targets, particularly those affecting the world’s poorest people.",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Houthi missile attack targets Saudi capital Riyadh for third day in a row",
+   "url": "https://www.aljazeera.com/news/2026/10/12/houthi-missile-attack-targets-saudi-capital-riyadh-for-third-day-in-a-row?traffic_source=rss",
+   "published": "2026-10-12T23:54:05+00:00",
+   "summary": "Saudi Arabia says it intercepted a ballistic missile fired towards Riyadh, as Houthis say they targeted the airport.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "UN Press",
+   "title": "Humans Must Remain in Control, First Committee Delegates Say, as Global Security Trust Frays",
+   "url": "https://press.un.org/en/2026/gadis3767.doc.htm",
+   "published": "2026-10-12T23:35:53+00:00",
+   "summary": "At a time when many States warn that the global disarmament architecture is failing, an area of convergence emerged during the First Committee’s (Disarmament and International Security) general debate today: countries across geopolitical divides increasingly agree that humans, not algorithms, must retain ultimate control over the use of force.",
+   "tags": [],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "US archbishop says Catholics in army should not participate in firing squad",
@@ -565,37 +594,6 @@
    "summary": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117427668013358493 View image Quoted Donald J. Trump View video",
    "tags": [],
    "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Video post from October 12, 2026",
-   "url": "https://www.trumpstruth.org/statuses/42284",
-   "published": "2026-10-12T11:20:16+00:00",
-   "summary": "View video",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Saudi Arabia vows resilience as Houthi strikes hit Riyadh airport",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/saudi-arabia-vows-resilience-as-houthi-strikes-hit-riyadh-airport?traffic_source=rss",
-   "published": "2026-10-12T11:17:02+00:00",
-   "summary": "New footage shows a Houthi strike on Riyadh’s airport as Saudi Arabia reaffirms its resilience.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Exclusive | Iranian envoy condemns Rubio’s remarks on Iranian civilization as rooted in ignorance, prejudice",
-   "url": "https://en.irna.ir/news/86290610/Exclusive-Iranian-envoy-condemns-Rubio-s-remarks-on-Iranian",
-   "published": "2026-10-12T10:59:32+00:00",
-   "summary": "Tehran, IRNA – Iran’s Ambassador to the Vatican, Mohammad Hossein Mokhtari, has criticized US Secretary of State Marco Rubio’s remarks in Athens about Iranian civilization, describing them as rooted in ignorance and prejudice.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
   }
  ]
 }
