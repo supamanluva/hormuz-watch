@@ -1,6 +1,105 @@
 {
- "asOf": "2026-10-13T13:05:49.345098+00:00",
+ "asOf": "2026-10-13T15:13:32.963222+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "New US attack on Iran will have far-reaching consequences: Deputy FM",
+   "url": "https://en.irna.ir/news/86291855/New-US-attack-on-Iran-will-have-far-reaching-consequences-Deputy",
+   "published": "2026-10-13T13:59:03+00:00",
+   "summary": "Tehran, IRNA – Deputy Foreign Minister for Legal and International Affairs, Kazem Gharibabadi, has warned that a renewed US military attack against Iran would have consequences extending beyond the Middle East.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Yemeni government launches air strikes on Houthi positions",
+   "url": "https://www.aljazeera.com/news/2026/10/13/yemeni-government-launches-air-strikes-on-houthi-positions?traffic_source=rss",
+   "published": "2026-10-13T13:47:14+00:00",
+   "summary": "Yemeni rights group accuses the Houthis of killing five civilians and injuring more than a dozen others.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "F1 set to return to Africa for first time in three decades",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/f1-set-to-return-to-africa-for-first-time-in-three-decades?traffic_source=rss",
+   "published": "2026-10-13T13:29:10+00:00",
+   "summary": "Formula One has signed a 10-year agreement with Rwanda to bring the sport back to Africa for the first time since 1993.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "French fridge fright: Why supermarkets have become target for hackers",
+   "url": "https://www.aljazeera.com/economy/2026/10/13/french-fridge-fright-why-supermarkets-have-become-target-for-hackers?traffic_source=rss",
+   "published": "2026-10-13T13:08:46+00:00",
+   "summary": "More than 500 shops across France were hit in a major cyberattack on freezers, which caused tonnes of food to perish.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Trump’s diesel deal opens a new rift with Europe over Ukraine",
+   "url": "https://www.aljazeera.com/news/2026/10/13/trumps-diesel-deal-opens-a-new-rift-with-europe-over-ukraine?traffic_source=rss",
+   "published": "2026-10-13T13:06:42+00:00",
+   "summary": "Trump calls for Zelenskyy to be replaced, while Europe devotes summit to funding Ukraine.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Iran sees ‘false flag’ operations after UK blames IRGC for airbase incident",
+   "url": "https://www.aljazeera.com/news/2026/10/13/iran-sees-false-flag-operations-after-uk-blames-irgc-for-airbase-incident?traffic_source=rss",
+   "published": "2026-10-13T13:03:56+00:00",
+   "summary": "Iran has been accused of being behind a plot against an airbase in the UK.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Iran threatens Gulf data centres: How exposed is the region’s internet?",
+   "url": "https://www.aljazeera.com/news/2026/10/13/iran-threatens-gulf-data-centres-how-exposed-is-the-regions-internet?traffic_source=rss",
+   "published": "2026-10-13T13:03:33+00:00",
+   "summary": "Iran has warned that cables and data centres in the region could be attacked, as Houthi allies hold internet chokepoint.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Rwanda to host a Grand Prix in 2030s as Formula One returns to Africa",
+   "url": "https://www.aljazeera.com/sports/2026/10/13/rwanda-to-host-a-grand-prix-in-2030s-as-formula-one-returns-to-africa?traffic_source=rss",
+   "published": "2026-10-13T12:59:27+00:00",
+   "summary": "Rwanda has secured a 10-year deal to host F1 races at a purpose-built race track on the outskirts of the capital, Kigali.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Deadly Houthi attacks in Yemen’s Taiz as government forces advance in Marib",
+   "url": "https://www.aljazeera.com/news/2026/10/13/deadly-houthi-attacks-in-yemens-taiz-as-government-forces-advance-in-marib?traffic_source=rss",
+   "published": "2026-10-13T12:57:33+00:00",
+   "summary": "Government forces engage in intense clashes as Houthi shelling targets residential areas and hospitals in Taiz.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "African Union holds Kigali talks as fighting continues in eastern DRC",
@@ -471,17 +570,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "‘Totally unfair’: Navi Pillay slams US sanctions against ICC",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/totally-unfair-navi-pillay-slams-us-sanctions-against-icc?traffic_source=rss",
-   "published": "2026-10-12T17:07:50+00:00",
-   "summary": "Nobel Peace Prize winner Navi Pillay has condemned US sanctions against the International Criminal Court.",
-   "tags": [
-    "sanctions"
-   ],
-   "highlight": false
-  },
-  {
    "source": "UN Press",
    "title": "Secretary-General Stresses Need to Correct Power Imbalances in Global Debt Architecture as Governing Council of Borrowers’ Platform Holds First Meeting",
    "url": "https://press.un.org/en/2026/sgsm23329.doc.htm",
@@ -511,47 +599,12 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "UK PM Andy Burnham vows to renegotiate post-Brexit trade deal with EU",
-   "url": "https://www.aljazeera.com/news/2026/10/12/uk-pm-andy-burnham-vows-to-renegotiate-post-brexit-trade-deal-with-eu?traffic_source=rss",
-   "published": "2026-10-12T16:02:35+00:00",
-   "summary": "PM Burnham confirms talks in Brussels next month, insisting the British public will be &#039;the boss&#039; of the reset.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
    "source": "UN Press",
    "title": "Gravely Concerned by Renewed Fighting in Ethiopia, Secretary-General Calls for Cessation of Hostilities, Return to Dialogue",
    "url": "https://press.un.org/en/2026/sgsm23326.doc.htm",
    "published": "2026-10-12T16:01:21+00:00",
    "summary": "The following statement was issued today by the Spokesman for UN Secretary-General António Guterres:",
    "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Deadly gold mine air strikes highlight Egypt-Sudan border insecurity",
-   "url": "https://www.aljazeera.com/news/2026/10/12/deadly-gold-mine-air-strikes-highlight-egypt-sudan-border-insecurity?traffic_source=rss",
-   "published": "2026-10-12T15:30:08+00:00",
-   "summary": "Deadly air raids on gold miners in Sudan expose deepening border lawlessness and regional instability.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Oil tanker reportedly attacked in Strait of Hormuz region",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/oil-tanker-reportedly-attacked-in-strait-of-hormuz-region?traffic_source=rss",
-   "published": "2026-10-12T15:19:23+00:00",
-   "summary": "Plumes of black smoke rise from a Petro Dolphin oil tanker by a drone attack off the coast of Oman.",
-   "tags": [
-    "strikes",
-    "shipping",
-    "oil"
-   ],
    "highlight": false
   },
   {
@@ -569,56 +622,6 @@
    "url": "https://www.trumpstruth.org/statuses/42293",
    "published": "2026-10-12T14:45:22+00:00",
    "summary": "View image",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Image post from October 12, 2026",
-   "url": "https://www.trumpstruth.org/statuses/42294",
-   "published": "2026-10-12T14:45:15+00:00",
-   "summary": "View image",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Image post from October 12, 2026",
-   "url": "https://www.trumpstruth.org/statuses/42295",
-   "published": "2026-10-12T14:45:04+00:00",
-   "summary": "View image",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iran-Saudi talks on Yemen’s Houthis: What’s in it for Tehran?",
-   "url": "https://www.aljazeera.com/news/2026/10/12/iran-saudi-talks-on-yemens-houthis-whats-in-it-for-tehran?traffic_source=rss",
-   "published": "2026-10-12T14:27:49+00:00",
-   "summary": "Tehran seeks dialogue in Yemen conflict, warning a military solution risks complicating the volatile regional situation.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iran sets crosshairs on ‘US-UAE’ oil shuttle out of Strait of Hormuz",
-   "url": "https://www.aljazeera.com/economy/2026/10/12/iran-sets-crosshairs-on-us-uae-oil-shuttle-out-of-strait-of-hormuz?traffic_source=rss",
-   "published": "2026-10-12T14:25:55+00:00",
-   "summary": "The IRGC is hitting more ships allegedly part of a shuttle operation to move crude oil beyond the Strait of Hormuz.",
-   "tags": [
-    "shipping",
-    "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Video post from October 12, 2026",
-   "url": "https://www.trumpstruth.org/statuses/42292",
-   "published": "2026-10-12T14:25:50+00:00",
-   "summary": "View video",
    "tags": [],
    "highlight": true
   }
