@@ -1,6 +1,17 @@
 {
- "asOf": "2026-10-13T00:06:21.769022+00:00",
+ "asOf": "2026-10-13T01:04:16.790584+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Iran war live: Trump says Houthis ‘misbehaving’ as Riyadh flights halted",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/10/13/iran-war-live-trump-says-houthis-misbehaving-as-riyadh-flights-halted?traffic_source=rss",
+   "published": "2026-10-13T00:00:00+00:00",
+   "summary": "US President Trump condemns Yemen&#039;s Houthis over escalating attacks, as Saudi Arabia halts flights at Riyadh airport.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "UN Press",
    "title": "‘Stark Gaps Remain’ in Achieving Development Goals, Second Committee Hears as 2030 Deadline Nears",
@@ -23,7 +34,7 @@
   },
   {
    "source": "UN Press",
-   "title": "Humans Must Remain in Control, First Committee Delegates Say, as Global Security Trust Frays",
+   "title": "Humans Must Remain in Control, First Committee Hears, as Security Trust Frays",
    "url": "https://press.un.org/en/2026/gadis3767.doc.htm",
    "published": "2026-10-12T23:35:53+00:00",
    "summary": "At a time when many States warn that the global disarmament architecture is failing, an area of convergence emerged during the First Committee’s (Disarmament and International Security) general debate today: countries across geopolitical divides increasingly agree that humans, not algorithms, must retain ultimate control over the use of force.",
@@ -583,15 +594,6 @@
    "url": "https://www.trumpstruth.org/statuses/42282",
    "published": "2026-10-12T11:22:02+00:00",
    "summary": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117419344133655598 View image Quoted Donald J. Trump View video",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Quote post from October 12, 2026",
-   "url": "https://www.trumpstruth.org/statuses/42283",
-   "published": "2026-10-12T11:20:34+00:00",
-   "summary": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117427668013358493 View image Quoted Donald J. Trump View video",
    "tags": [],
    "highlight": true
   }
