@@ -1,6 +1,57 @@
 {
- "asOf": "2026-10-14T01:44:03.223261+00:00",
+ "asOf": "2026-10-14T04:02:01.064384+00:00",
  "items": [
+  {
+   "source": "Trump · Truth Social",
+   "title": "Video post from October 14, 2026",
+   "url": "https://www.trumpstruth.org/statuses/42322",
+   "published": "2026-10-14T03:17:40+00:00",
+   "summary": "View video",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Houthi missiles intercepted over Saudi Arabia as battles intensify",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/houthi-missiles-intercepted-over-saudi-arabia-as-battles-intensify?traffic_source=rss",
+   "published": "2026-10-14T03:09:46+00:00",
+   "summary": "Saudi Arabia says it intercepted missiles targeting Riyadh and Dhahran, with falling debris injuring people.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Kyiv hit by Russian ballistic missiles for second day with no warning",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/kyiv-russian-ballistic-missile-strikes-no-advance-warning?traffic_source=rss",
+   "published": "2026-10-14T02:45:40+00:00",
+   "summary": "Russian ballistic missiles struck Kyiv for a second consecutive day without advance warning.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "White House",
+   "title": "Presidential Message on the Birthday of the United States Navy",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-the-birthday-of-the-united-states-navy/",
+   "published": "2026-10-14T01:48:13+00:00",
+   "summary": "For over 250 years, American sailors&#160;have defended our Nation upon the seas, forging the most lethal Navy in the history of the world. &#160;Today, on the birthday of the United States Navy, Icelebrate this incredible milestone with our active duty and reserve sailors, past and present, whose unparalleled expertise and extraordinary devotion to duty in [&#8230;] The post Presidential Message ",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Jamaica accepts first flight of third-country deportations from US",
+   "url": "https://www.aljazeera.com/news/2026/10/14/jamaica-accepts-first-flight-of-third-country-deportations-from-us?traffic_source=rss",
+   "published": "2026-10-14T01:44:09+00:00",
+   "summary": "Opposition leaders in Jamaica question why the deportation deal with the Trump White House has not been made public.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "US fines Bank of America $1.2bn for money laundering, sanctions violations",
@@ -549,63 +600,6 @@
    "summary": "Shiraz, IRNA – Hossein Jaberi-Ansari, the CEO of the Islamic Republic News Agency, who has traveled to Iran’s southern Fars Province, has visited the sites and areas in the city of Lamerd that were damaged in the recent US-Israeli bombing campaign.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Ronaldo scores, waves Saudi scarf in Al-Nassr’s win after security delay",
-   "url": "https://www.aljazeera.com/sports/2026/10/13/ronaldo-scores-waves-saudi-scarf-in-al-nassrs-win-after-security-delay?traffic_source=rss",
-   "published": "2026-10-13T08:27:37+00:00",
-   "summary": "Al-Nassr&#039;s AFC Champions League game in Riyadh was delayed for one hour due to a security warning amid Houthi attacks.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran to pursue Minab school case until justice is served: Official",
-   "url": "https://en.irna.ir/news/86291408/Iran-to-pursue-Minab-school-case-until-justice-is-served-Official",
-   "published": "2026-10-13T08:06:09+00:00",
-   "summary": "Tehran, IRNA – Iran will continue its international legal efforts to secure the rights of victims of the Shajareh Tayyebeh school attack in Minab until a final result is achieved, administration spokesperson Fatemeh Mohajerani says.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Palestine weekly: Gaza marks year of ‘ceasefire’ with more Israeli killing",
-   "url": "https://www.aljazeera.com/news/2026/10/13/palestine-weekly-gaza-marks-year-of-ceasefire-with-more-israeli-killing?traffic_source=rss",
-   "published": "2026-10-13T07:45:07+00:00",
-   "summary": "A year after Gaza&#039;s ceasefire, Israeli attacks persist as settler violence disrupts West Bank&#039;s oil harvest.",
-   "tags": [
-    "strikes",
-    "diplomacy",
-    "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Drone attack sinks ship off Bulgaria’s Black Sea coast, PM says",
-   "url": "https://www.aljazeera.com/news/2026/10/13/drone-attack-sinks-ship-off-bulgarias-black-sea-coast-pm-says?traffic_source=rss",
-   "published": "2026-10-13T07:36:38+00:00",
-   "summary": "Two ships were hit in the attack, including the Ukrainian-owned Chelsea 3, which sustained damage.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran to pursue diplomacy to secure national interests, counter sanctions: FM",
-   "url": "https://en.irna.ir/news/86291182/Iran-to-pursue-diplomacy-to-secure-national-interests-counter",
-   "published": "2026-10-13T05:40:35+00:00",
-   "summary": "Tehran, IRNA – Foreign Minister Abbas Araghchi says the Foreign Ministry is pursuing diplomatic avenues with seriousness to safeguard Iran’s national interests and defend its rights and interests internationally.",
-   "tags": [
-    "sanctions"
    ],
    "highlight": false
   }
