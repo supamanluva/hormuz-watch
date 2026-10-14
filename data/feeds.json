@@ -1,6 +1,17 @@
 {
- "asOf": "2026-10-14T10:04:25.304165+00:00",
+ "asOf": "2026-10-14T10:23:02.368744+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Girl rescued from flaming apartment after Israeli attack on Gaza",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/girl-rescued-from-flaming-apartment-after-israeli-attack-on-gaza?traffic_source=rss",
+   "published": "2026-10-14T09:40:20+00:00",
+   "summary": "Civilians rushed to rescue a girl trapped in a burning apartment after an Israeli attack struck a building in Gaza City.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "How do Iranians move money abroad to avoid US sanctions?",
@@ -585,17 +596,6 @@
    "summary": "Yemeni rights group accuses the Houthis of killing five civilians and injuring more than a dozen others.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "F1 set to return to Africa for first time in three decades",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/f1-set-to-return-to-africa-for-first-time-in-three-decades?traffic_source=rss",
-   "published": "2026-10-13T13:29:10+00:00",
-   "summary": "Formula One has signed a 10-year agreement with Rwanda to bring the sport back to Africa for the first time since 1993.",
-   "tags": [
-    "diplomacy"
    ],
    "highlight": false
   }
