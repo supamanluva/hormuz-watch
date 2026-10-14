@@ -1,6 +1,50 @@
 {
- "asOf": "2026-10-14T10:23:02.368744+00:00",
+ "asOf": "2026-10-14T10:58:28.518501+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran’s Envoy: More storms await Israel",
+   "url": "https://en.irna.ir/news/86292692/Iran-s-Envoy-More-storms-await-Israel",
+   "published": "2026-10-14T10:57:57+00:00",
+   "summary": "Tehran, IRNA – Iran’s Ambassador to Algeria has emphasized that Palestine is alive and vibrant, and that many storms are on the way against the Zionist regime.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "CBI chief rejects claims of Iranian economic collapse at IMF meeting",
+   "url": "https://en.irna.ir/news/86292677/CBI-chief-rejects-claims-of-Iranian-economic-collapse-at-IMF",
+   "published": "2026-10-14T10:45:19+00:00",
+   "summary": "Tehran, IRNA – Central Bank of Iran Governor Abdolnaser Hemmati has dismissed claims that Iran’s economy is on the verge of collapse, saying it has shown considerable resilience despite the war waged by the United States and the Israeli regime as well as Washington’s maximum sanctions and economic pressure.",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Ship carrying 2,500 containers hits mine, sinks south of Strait of Hormuz",
+   "url": "https://en.irna.ir/news/86292706/Ship-carrying-2-500-containers-hits-mine-sinks-south-of-Strait",
+   "published": "2026-10-14T10:35:58+00:00",
+   "summary": "Tehran, IRNA — A container ship carrying more than 2,500 containers has sunk in waters south of the Strait of Hormuz after hitting a naval mine and catching fire, the Islamic Revolution Guards Corps (IRGC) Navy says.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Israeli air strike kills Palestinian woman in Gaza City",
+   "url": "https://www.aljazeera.com/news/2026/10/14/israeli-air-strike-kills-palestinian-woman-in-gaza-city?traffic_source=rss",
+   "published": "2026-10-14T10:08:49+00:00",
+   "summary": "The woman&#039;s young daughter was rescued from a large fire inside the apartment, caused by the attack.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Girl rescued from flaming apartment after Israeli attack on Gaza",
@@ -554,49 +598,6 @@
    "published": "2026-10-13T17:31:46+00:00",
    "summary": "Today, Katie Zacharia delivered a commanding inaugural press briefing as the 37th White House Press Secretary. The briefing, which generated wall-to-wall coverage, served as a strong introduction to her tenure and highlighted the Trump Administration’s record of delivering historic successes for the American people. The post Katie Zacharia Delivers Powerful Inaugural Briefing as the 37th White Hou",
    "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "First Lady Melania Trump Launches 2027 Presidential SI Challenge and Establishes First Lady Seal of SI Readiness",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/10/first-lady-melania-trump-launches-2027-presidential-si-challenge-and-establishes-first-lady-seal-of-si-readiness/",
-   "published": "2026-10-13T16:36:32+00:00",
-   "summary": "First Lady Melania Trump launched her 2027 Presidential Super Intelligence (SI) Challenge and established a new First Lady Seal of AI Readiness—inviting K-12 students, educators, and schools across America to participate in the nationwide initiative. “America’s next groundbreaking idea is already sitting in a classroom,” said Mrs. Trump. “We must give our children the knowledge, [&#8230;] The post",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iranian Navy identifies oil tanker that caught fire in Strait of Hormuz",
-   "url": "https://en.irna.ir/news/86291981/Iranian-Navy-identifies-oil-tanker-that-caught-fire-in-Strait",
-   "published": "2026-10-13T16:23:44+00:00",
-   "summary": "Tehran, IRNA – The Iranian Navy says it has identified a non-compliant oil tanker that sustained damage and caught fire in the eastern Strait of Hormuz after switching off its tracking systems and attempting to cross a prohibited area.",
-   "tags": [
-    "shipping",
-    "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "New US attack on Iran will have far-reaching consequences: Deputy FM",
-   "url": "https://en.irna.ir/news/86291855/New-US-attack-on-Iran-will-have-far-reaching-consequences-Deputy",
-   "published": "2026-10-13T13:59:03+00:00",
-   "summary": "Tehran, IRNA – Deputy Foreign Minister for Legal and International Affairs, Kazem Gharibabadi, has warned that a renewed US military attack against Iran would have consequences extending beyond the Middle East.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Yemeni government launches air strikes on Houthi positions",
-   "url": "https://www.aljazeera.com/news/2026/10/13/yemeni-government-launches-air-strikes-on-houthi-positions?traffic_source=rss",
-   "published": "2026-10-13T13:47:14+00:00",
-   "summary": "Yemeni rights group accuses the Houthis of killing five civilians and injuring more than a dozen others.",
-   "tags": [
-    "strikes"
-   ],
    "highlight": false
   }
  ]
