@@ -1,6 +1,39 @@
 {
- "asOf": "2026-10-14T20:40:56.928306+00:00",
+ "asOf": "2026-10-14T21:29:05.461420+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Israeli quadcopter drone drops bomb in Lebanon",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/israeli-quadcopter-drone-drops-bomb-in-lebanon?traffic_source=rss",
+   "published": "2026-10-14T20:47:46+00:00",
+   "summary": "An Israeli quadcopter drone was filmed dropping a bomb on the outskirts of the village of Zibqin in southern Lebanon.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Families of Trinidadian men killed in US boat strike demand accountability",
+   "url": "https://www.aljazeera.com/news/2026/10/14/families-of-trinidadian-men-killed-in-us-boat-strike-demand-accountability?traffic_source=rss",
+   "published": "2026-10-14T20:42:59+00:00",
+   "summary": "The Trump administration has killed at least 239 people in boat strikes denounced as extrajudicial killings.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Houthi attacks disrupt travel plans for Mecca pilgrims",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/houthi-attacks-disrupt-travel-plans-for-mecca-pilgrims?traffic_source=rss",
+   "published": "2026-10-14T20:25:04+00:00",
+   "summary": "Muslim pilgrims headed to Mecca for Umrah are facing travel disruptions as Houthi attacks hit Saudi Arabia.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Russia attack hits Kyiv after reported intelligence lapse",
@@ -23,6 +56,15 @@
     "oil"
    ],
    "highlight": false
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "I’m watching Right Side Broadcasting Network (RSBN) from Air Force One. They do a magnificent job of covering the Rallies, including the Interviews of people in lines that stretch for miles. So fascinating to see — So exciting! I love the Interviews they do of the people that are in line. Great Americans — They built this Country! There is Great Love and Respect in the air. Landing in Arizona now, then Montana. See you soon! President DONALD J. TRUMP",
+   "url": "https://www.trumpstruth.org/statuses/42358",
+   "published": "2026-10-14T19:52:02+00:00",
+   "summary": "I’m watching Right Side Broadcasting Network (RSBN) from Air Force One. They do a magnificent job of covering the Rallies, including the Interviews of people in lines that stretch for miles. So fascinating to see — So exciting! I love the Interviews they do of the people that are in line. Great Americans — They built this Country! There is Great Love and Respect in the air. Landing in Arizona now,",
+   "tags": [],
+   "highlight": true
   },
   {
    "source": "Trump · Truth Social",
@@ -583,42 +625,6 @@
    "title": "Video post from October 14, 2026",
    "url": "https://www.trumpstruth.org/statuses/42336",
    "published": "2026-10-14T05:25:22+00:00",
-   "summary": "View video",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Video post from October 14, 2026",
-   "url": "https://www.trumpstruth.org/statuses/42337",
-   "published": "2026-10-14T05:25:12+00:00",
-   "summary": "View video",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Video post from October 14, 2026",
-   "url": "https://www.trumpstruth.org/statuses/42338",
-   "published": "2026-10-14T05:22:23+00:00",
-   "summary": "View video",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Video post from October 14, 2026",
-   "url": "https://www.trumpstruth.org/statuses/42335",
-   "published": "2026-10-14T05:20:52+00:00",
-   "summary": "View video",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Video post from October 14, 2026",
-   "url": "https://www.trumpstruth.org/statuses/42331",
-   "published": "2026-10-14T05:19:59+00:00",
    "summary": "View video",
    "tags": [],
    "highlight": true
