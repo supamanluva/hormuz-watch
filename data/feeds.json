@@ -1,6 +1,50 @@
 {
- "asOf": "2026-10-14T10:58:28.518501+00:00",
+ "asOf": "2026-10-14T11:40:18.115591+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Iran steps up Hormuz surveillance: Attacks soar, oil flows crash again",
+   "url": "https://www.aljazeera.com/news/2026/10/14/iran-steps-up-hormuz-surveillance-attacks-soar-oil-flows-crash-again?traffic_source=rss",
+   "published": "2026-10-14T11:16:21+00:00",
+   "summary": "Ships in the Strait of Hormuz have been experiencing the worst spate of attacks since the start of the war.",
+   "tags": [
+    "strikes",
+    "shipping",
+    "oil"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Trump plans for ‘massive’ resource exploration in Greenland",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/trump-plans-for-massive-resource-exploration-in-greenland?traffic_source=rss",
+   "published": "2026-10-14T11:05:07+00:00",
+   "summary": "US President Donald Trump announces a plan on Truth Social for oil, gas and mineral exploration in Greenland.",
+   "tags": [
+    "oil"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Police officer martyred in terrorist attack in southeastern Iran",
+   "url": "https://en.irna.ir/news/86292678/Police-officer-martyred-in-terrorist-attack-in-southeastern-Iran",
+   "published": "2026-10-14T11:01:56+00:00",
+   "summary": "Zahedan, IRNA – A police officer has been martyred in a terrorist attack on a police vehicle in Mehrestan County, Sistan and Baluchestan Province, southeastern Iran.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "UN Press",
+   "title": "Security Council, 10242nd Meeting (AM) Libya",
+   "url": "https://press.un.org/en/blog/sc16477",
+   "published": "2026-10-14T10:59:45+00:00",
+   "summary": "The Security Council today will hold its 60-day briefing on the situation in Libya. Hanna Serwaa Tetteh, Special Representative of the Secretary-General and Head of the United Nations Support Mission in Libya (UNSMIL), will brief members on recent political, security and humanitarian developments. The 15-member organ is also expected to renew UNSMIL’s mandate, which expires on 31 October.",
+   "tags": [],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Iran’s Envoy: More storms await Israel",
@@ -9,6 +53,28 @@
    "summary": "Tehran, IRNA – Iran’s Ambassador to Algeria has emphasized that Palestine is alive and vibrant, and that many storms are on the way against the Zionist regime.",
    "tags": [
     "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Settlers set fire to mosque in West Bank as Israeli forces raid villages",
+   "url": "https://www.aljazeera.com/news/2026/10/14/settlers-set-fire-to-mosque-in-west-bank-as-israeli-forces-raid-villages?traffic_source=rss",
+   "published": "2026-10-14T10:57:35+00:00",
+   "summary": "Settlers also attacked a boy in a separate incident in the town of Beita, south of Nablus.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "UN Press",
+   "title": "Security Council, 10241st Meeting (AM) Haiti",
+   "url": "https://press.un.org/en/blog/sc16476",
+   "published": "2026-10-14T10:56:17+00:00",
+   "summary": "The Security Council will vote on a draft resolution to extend the sanctions regime on Haiti. The regime, which was established in 2022 and includes a travel ban, asset freeze and arms embargo, was last renewed on 17 October 2025 with the adoption of resolution 2794 (2025).",
+   "tags": [
+    "sanctions"
    ],
    "highlight": false
   },
@@ -463,6 +529,24 @@
    "highlight": false
   },
   {
+   "source": "UN Press",
+   "title": "Sixth Committee Continues Discussions on Future Treaty Development",
+   "url": "https://press.un.org/en/2026/gal3748.doc.htm",
+   "published": "2026-10-13T23:08:33+00:00",
+   "summary": "True to its task of encouraging the progressive development and codification of international law, the Sixth Committee (Legal) today discussed ongoing efforts to conclude new international conventions on crimes against humanity and disaster preparedness.",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "UN Press",
+   "title": "Amid Worsening Security Landscape, First Committee Hears Reasons for Hope",
+   "url": "https://press.un.org/en/2026/gadis3768.doc.htm",
+   "published": "2026-10-13T23:06:27+00:00",
+   "summary": "Conflicts and wars in various parts of the world have consequences that extend far beyond their regions, with their impact felt globally, particularly when international waterways are threatened, several representatives told the First Committee (Disarmament and International Security) during today’s general debate.",
+   "tags": [],
+   "highlight": false
+  },
+  {
    "source": "Al Jazeera",
    "title": "Albanian police fire tear gas at protesters as Education Ministry attacked",
    "url": "https://www.aljazeera.com/news/2026/10/13/albanian-police-fire-tear-gas-at-protesters-as-education-ministry-attacked?traffic_source=rss",
@@ -475,7 +559,16 @@
   },
   {
    "source": "UN Press",
-   "title": "Secretary-General Proposes to Fifth Committee $3.3 Billion Regular Budget for 2027, Noting It Fully Incorporates Standard Cost-Adjustments from Outset for first Time",
+   "title": "Climate Crisis, Financing Gaps Threaten Sustainable Development, Delegates Warn as Second Committee Concludes Debate",
+   "url": "https://press.un.org/en/2026/gaef3625.doc.htm",
+   "published": "2026-10-13T21:52:35+00:00",
+   "summary": "With the world grappling with overlapping crises, from economic uncertainty to climate change risks and rapid technological change, speakers affirmed today that the 2030 Agenda for Sustainable Development remains the “most vital compass” for collective action towards a sustainable future as the Second Committee (Economic and Financial) concluded its debate on that topic.",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "UN Press",
+   "title": "Secretary-General Proposes to Fifth Committee $3.3 Billion Regular Budget for 2027, Noting It Fully Incorporates Standard Cost-Adjustments from Outset for First Time",
    "url": "https://press.un.org/en/2026/gaab4519.doc.htm",
    "published": "2026-10-13T21:37:53+00:00",
    "summary": "United Nations Secretary-General António Guterres unveiled a 2027 proposed regular budget of $3.3 billion, a reduction of 1.2 per cent or $40.8 million, compared to the approved 2026 budget at today’s meeting of the Fifth Committee (Administrative and Budgetary).",
@@ -511,93 +604,6 @@
    "tags": [
     "strikes"
    ],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Secretary-General Proposes $3.3 Billion Budget for 2027, Urges Stable Financing in Remarks to Fifth Committee",
-   "url": "https://press.un.org/en/2026/sgsm23331.doc.htm",
-   "published": "2026-10-13T19:40:34+00:00",
-   "summary": "Following are UN Secretary-General António Guterres’ remarks to the meeting of the Fifth Committee (Administrative and Budgetary) of the General Assembly on the proposed programme budget for 2027, in New York today:",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Trump says Houthis trying to increase oil prices before US elections",
-   "url": "https://www.aljazeera.com/news/2026/10/13/trump-says-houthis-trying-to-increase-oil-prices-before-us-elections?traffic_source=rss",
-   "published": "2026-10-13T19:33:11+00:00",
-   "summary": "US president suggests that Yemen-based group are &#039;purposefully trying to drive up oil prices&#039; before November vote.",
-   "tags": [
-    "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General",
-   "url": "https://press.un.org/en/2026/db261013.doc.htm",
-   "published": "2026-10-13T18:57:16+00:00",
-   "summary": "In Yemen, the UN and humanitarian partners have provided emergency assistance to nearly 148,000 people since August amid displacement and shortages in Taiz. The World Health Organization (WHO) warns of surging cholera cases, while the UN continues urging safe, rapid and unhindered humanitarian access to those in need",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Security Council Hears Calls for Greater Synergy among Parallel Diplomatic Efforts to End Violence in Eastern Democratic Republic of Congo",
-   "url": "https://press.un.org/en/2026/sc16475.doc.htm",
-   "published": "2026-10-13T18:35:54+00:00",
-   "summary": "Speakers in the Security Council today urged greater coordination among diplomatic initiatives addressing the conflict in the eastern Democratic Republic of the Congo, stressing that progress at the negotiating table must yield tangible improvements on the ground as civilians face displacement, food insecurity and an Ebola outbreak.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Why Trump’s ‘energy ceasefire’ upset Europe",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/why-trumps-energy-ceasefire-upset-europe?traffic_source=rss",
-   "published": "2026-10-13T18:07:05+00:00",
-   "summary": "The US and Europe can’t agree on how to end Russia’s war on Ukraine.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Secretary-General Urges Investors to ‘Lead with Ambition’ in Message to Principles for Responsible Investment Conference",
-   "url": "https://press.un.org/en/2026/sgsm23330.doc.htm",
-   "published": "2026-10-13T17:55:30+00:00",
-   "summary": "Following is the text of UN Secretary-General António Guterres’ video message for the twentieth annual conference of the Principles for Responsible Investment, in",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "President Trump Visits Alaska: Delivering Results for the Last Frontier",
-   "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-visits-alaska-delivering-results-for-the-last-frontier/",
-   "published": "2026-10-13T17:47:35+00:00",
-   "summary": "Today, President Donald J. Trump travels to Alaska. He returns to the Last Frontier with a proven record of results that put Alaskans first: lower taxes, responsible development of the state’s vast energy and mineral resources, safer communities, strong support for fisheries, and major investments that create jobs and reinforce America’s Arctic security. Tax Relief [&#8230;] The post President Tru",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "General Assembly Elects 15 Members to Human Rights Council",
-   "url": "https://press.un.org/en/2026/ga12795.doc.htm",
-   "published": "2026-10-13T17:42:10+00:00",
-   "summary": "Keeping with the convention of annually electing members of the Human Rights Council on geographical representation and term limits grounds, the General Assembly today voted by secret ballot to fill 15 soon-to-be vacant seats of the 47-member intergovernmental body.",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "Katie Zacharia Delivers Powerful Inaugural Briefing as the 37th White House Press Secretary",
-   "url": "https://www.whitehouse.gov/releases/2026/10/katie-zacharia-delivers-powerful-inaugural-briefing-as-37th-white-house-press-secretary/",
-   "published": "2026-10-13T17:31:46+00:00",
-   "summary": "Today, Katie Zacharia delivered a commanding inaugural press briefing as the 37th White House Press Secretary. The briefing, which generated wall-to-wall coverage, served as a strong introduction to her tenure and highlighted the Trump Administration’s record of delivering historic successes for the American people. The post Katie Zacharia Delivers Powerful Inaugural Briefing as the 37th White Hou",
-   "tags": [],
    "highlight": false
   }
  ]
