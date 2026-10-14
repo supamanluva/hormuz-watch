@@ -1,6 +1,40 @@
 {
- "asOf": "2026-10-14T07:11:35.310112+00:00",
+ "asOf": "2026-10-14T09:10:50.625277+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "How do Iranians move money abroad to avoid US sanctions?",
+   "url": "https://www.aljazeera.com/news/2026/10/14/how-do-iranians-move-money-abroad-to-avoid-us-sanctions?traffic_source=rss",
+   "published": "2026-10-14T08:24:02+00:00",
+   "summary": "From currency brokers to crypto, Iranians find ways to circumvent sanctions, but each comes with its own problems.",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Trump says oil, gas and mineral exploration to begin in Greenland",
+   "url": "https://www.aljazeera.com/news/2026/10/14/trump-says-oil-gas-and-mineral-exploration-to-begin-in-greenland?traffic_source=rss",
+   "published": "2026-10-14T08:08:42+00:00",
+   "summary": "The US president also praises the security advantages of last month&#039;s deal with Denmark and Greenland.",
+   "tags": [
+    "diplomacy",
+    "oil"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "‘Massive’ Russian attack on Ukraine kills at least six, damages power sites",
+   "url": "https://www.aljazeera.com/news/2026/10/14/massive-russian-attack-on-ukraine-kills-at-least-six-cuts-power-in-kyiv?traffic_source=rss",
+   "published": "2026-10-14T07:08:32+00:00",
+   "summary": "Volodymyr Zelenskyy says Ukraine&#039;s partners failed to warn of Russian ballistic missile attack on Kyiv.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Envoys rejects Trump’s allegations on destruction of US’ cities",
@@ -11,6 +45,33 @@
     "diplomacy"
    ],
    "highlight": false
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "RT @realDonaldTrump",
+   "url": "https://www.trumpstruth.org/statuses/42348",
+   "published": "2026-10-14T06:19:28+00:00",
+   "summary": "RT @ realDonaldTrump Reposted Donald J. Trump View video",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "Democrats are banking on voters forgetting how terrible they are:",
+   "url": "https://www.trumpstruth.org/statuses/42349",
+   "published": "2026-10-14T06:19:09+00:00",
+   "summary": "Democrats are banking on voters forgetting how terrible they are: https://www. washingtonexaminer.com/in_focu s/4752402/democrats-are-banking-on-voters-forgetting-how-terrible-they-are/",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "Video post from October 14, 2026",
+   "url": "https://www.trumpstruth.org/statuses/42347",
+   "published": "2026-10-14T06:11:12+00:00",
+   "summary": "View video",
+   "tags": [],
+   "highlight": true
   },
   {
    "source": "IRNA (Iran state wire)",
@@ -24,6 +85,69 @@
    "highlight": false
   },
   {
+   "source": "Trump · Truth Social",
+   "title": "Video post from October 14, 2026",
+   "url": "https://www.trumpstruth.org/statuses/42346",
+   "published": "2026-10-14T06:05:24+00:00",
+   "summary": "View video",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "Video post from October 14, 2026",
+   "url": "https://www.trumpstruth.org/statuses/42343",
+   "published": "2026-10-14T05:58:47+00:00",
+   "summary": "View video",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "Video post from October 14, 2026",
+   "url": "https://www.trumpstruth.org/statuses/42344",
+   "published": "2026-10-14T05:58:30+00:00",
+   "summary": "View video",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "RT @realDonaldTrump",
+   "url": "https://www.trumpstruth.org/statuses/42345",
+   "published": "2026-10-14T05:57:22+00:00",
+   "summary": "RT @ realDonaldTrump Reposted Donald J. Trump View video Removed from Truth Social. Removal detected 2026-10-14T07:21:47+00:00.",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "Video post from October 14, 2026",
+   "url": "https://www.trumpstruth.org/statuses/42342",
+   "published": "2026-10-14T05:51:13+00:00",
+   "summary": "View video",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "Video post from October 14, 2026",
+   "url": "https://www.trumpstruth.org/statuses/42341",
+   "published": "2026-10-14T05:43:59+00:00",
+   "summary": "View video",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "Video post from October 14, 2026",
+   "url": "https://www.trumpstruth.org/statuses/42340",
+   "published": "2026-10-14T05:42:40+00:00",
+   "summary": "View video",
+   "tags": [],
+   "highlight": true
+  },
+  {
    "source": "Al Jazeera",
    "title": "Man City deserve to keep trophies despite charges, says PSG’s Luis Enrique",
    "url": "https://www.aljazeera.com/sports/2026/10/14/man-city-deserve-to-keep-trophies-despite-charges-says-psgs-luis-enrique?traffic_source=rss",
@@ -33,6 +157,42 @@
     "sanctions"
    ],
    "highlight": false
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "Video post from October 14, 2026",
+   "url": "https://www.trumpstruth.org/statuses/42339",
+   "published": "2026-10-14T05:36:20+00:00",
+   "summary": "View video",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "Video post from October 14, 2026",
+   "url": "https://www.trumpstruth.org/statuses/42336",
+   "published": "2026-10-14T05:25:22+00:00",
+   "summary": "View video",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "Video post from October 14, 2026",
+   "url": "https://www.trumpstruth.org/statuses/42337",
+   "published": "2026-10-14T05:25:12+00:00",
+   "summary": "View video",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "Video post from October 14, 2026",
+   "url": "https://www.trumpstruth.org/statuses/42338",
+   "published": "2026-10-14T05:22:23+00:00",
+   "summary": "View video",
+   "tags": [],
+   "highlight": true
   },
   {
    "source": "Trump · Truth Social",
@@ -161,24 +321,6 @@
    "highlight": true
   },
   {
-   "source": "Trump · Truth Social",
-   "title": "Video post from October 14, 2026",
-   "url": "https://www.trumpstruth.org/statuses/42324",
-   "published": "2026-10-14T04:12:26+00:00",
-   "summary": "View video",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Video post from October 14, 2026",
-   "url": "https://www.trumpstruth.org/statuses/42323",
-   "published": "2026-10-14T04:10:30+00:00",
-   "summary": "View video",
-   "tags": [],
-   "highlight": true
-  },
-  {
    "source": "Al Jazeera",
    "title": "UN official says ‘window of opportunity’ for peace in DR Congo",
    "url": "https://www.aljazeera.com/news/2026/10/14/un-official-says-window-of-opportunity-for-peace-in-dr-congo?traffic_source=rss",
@@ -188,15 +330,6 @@
     "diplomacy"
    ],
    "highlight": false
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Video post from October 14, 2026",
-   "url": "https://www.trumpstruth.org/statuses/42322",
-   "published": "2026-10-14T03:17:40+00:00",
-   "summary": "View video",
-   "tags": [],
-   "highlight": true
   },
   {
    "source": "Al Jazeera",
@@ -275,69 +408,6 @@
    "highlight": false
   },
   {
-   "source": "Trump · Truth Social",
-   "title": "Quote post from October 13, 2026",
-   "url": "https://www.trumpstruth.org/statuses/42318",
-   "published": "2026-10-13T23:38:29+00:00",
-   "summary": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117436230839875415 View image Quoted Donald J. Trump View video",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Video post from October 13, 2026",
-   "url": "https://www.trumpstruth.org/statuses/42319",
-   "published": "2026-10-13T23:37:54+00:00",
-   "summary": "View video",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Quote post from October 13, 2026",
-   "url": "https://www.trumpstruth.org/statuses/42320",
-   "published": "2026-10-13T23:33:36+00:00",
-   "summary": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117436212824151092 View image Quoted Donald J. Trump View video",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Video post from October 13, 2026",
-   "url": "https://www.trumpstruth.org/statuses/42321",
-   "published": "2026-10-13T23:33:19+00:00",
-   "summary": "View video",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Gregg Jarrett is fantastic — A MUST WATCH! President DONALD J. TRUMPGREGG JARRETT: Trump was framed by the Russia collusion hoax. Now the whole story is exposed:",
-   "url": "https://www.trumpstruth.org/statuses/42315",
-   "published": "2026-10-13T22:51:56+00:00",
-   "summary": "Gregg Jarrett is fantastic — A MUST WATCH! President DONALD J. TRUMP GREGG JARRETT: Trump was framed by the Russia collusion hoax. Now the whole story is exposed: https://www. foxnews.com/opinion/gregg-jarr ett-trump-framed-russia-collusion-hoax-story-exposed",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Image post from October 13, 2026",
-   "url": "https://www.trumpstruth.org/statuses/42316",
-   "published": "2026-10-13T22:51:15+00:00",
-   "summary": "View image",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Image post from October 13, 2026",
-   "url": "https://www.trumpstruth.org/statuses/42317",
-   "published": "2026-10-13T22:51:01+00:00",
-   "summary": "View image",
-   "tags": [],
-   "highlight": true
-  },
-  {
    "source": "Al Jazeera",
    "title": "Albanian police fire tear gas at protesters as Education Ministry attacked",
    "url": "https://www.aljazeera.com/news/2026/10/13/albanian-police-fire-tear-gas-at-protesters-as-education-ministry-attacked?traffic_source=rss",
@@ -347,42 +417,6 @@
     "strikes"
    ],
    "highlight": false
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Why would black people vote for Mohammed El-Sayed when he openly scorns them, mocks them, and disrespects them? THEY WON’T! President DJT",
-   "url": "https://www.trumpstruth.org/statuses/42313",
-   "published": "2026-10-13T22:11:45+00:00",
-   "summary": "Why would black people vote for Mohammed El-Sayed when he openly scorns them, mocks them, and disrespects them? THEY WON’T! President DJT",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Dave Bronson of Alaska begged me for my support and Endorsement, but I wouldn’t do it because he didn’t win the Primary and, therefore, wasn’t deserving of it. I then asked him to get out of the Race, and he agreed! I said, “Too many Republicans, three, are running against one Dumocrat, and you won’t be able to win!” He agreed to get out, but three days later, without notification, quickly jumped back in, along with a third “Republican” Candidate, who I never heard of, named Treg Taylor. Bernadette Wilson is outstanding. She will make a GREAT Governor. She easily won the Race, and all Bronson and Taylor will do is take away Votes from the Candidate that has, by far, the best chance of winning. Now is the time for all Republicans to unite behind Bernadette to ensure she has a tremendous Victory in November! The Dumocrats have a bad Radical Left Candidate, and we have a GREAT one! Bernadette Wilson is a FANTASTIC choice to replace my friend, Governor Mike Dunleavy, and will work tirelessly to Grow the Economy, Unleash American Energy DOMINANCE, Cut Taxes and Regulations, Advance MADE IN THE U.S.A., Keep our Border SECURE, Stop Migrant Crime, Ensure LAW AND ORDER, Support our Brave Military, Veterans, and Law Enforcement, Safeguard our Elections, and Protect our always under siege Second Amendment. Bernadette Wilson truly deserves to WIN, and has my Complete and Total Endorsement to be the next Governor of Alaska — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
-   "url": "https://www.trumpstruth.org/statuses/42314",
-   "published": "2026-10-13T22:08:23+00:00",
-   "summary": "Dave Bronson of Alaska begged me for my support and Endorsement, but I wouldn’t do it because he didn’t win the Primary and, therefore, wasn’t deserving of it. I then asked him to get out of the Race, and he agreed! I said, “Too many Republicans, three, are running against one Dumocrat, and you won’t be able to win!” He agreed to get out, but three days later, without notification, quickly jumped ",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Heading to Alaska to do a major Rally for Senator Dan S. Sullivan, one of the best and most respected Senators in D.C., Congressman Nick Begich, a fantastic Warrior and Advocate for everything that is important for Alaska, and Bernadette Wilson, who is running for Governor, unfortunately, against two lesser Candidates, who she beat in the Primary, making it difficult in that three Republicans are running against one weak, Radical Left Dumocrat, but threesomes always make it hard to win — Very unfair! President DONALD J. TRUMP",
-   "url": "https://www.trumpstruth.org/statuses/42312",
-   "published": "2026-10-13T22:05:50+00:00",
-   "summary": "Heading to Alaska to do a major Rally for Senator Dan S. Sullivan, one of the best and most respected Senators in D.C., Congressman Nick Begich, a fantastic Warrior and Advocate for everything that is important for Alaska, and Bernadette Wilson, who is running for Governor, unfortunately, against two lesser Candidates, who she beat in the Primary, making it difficult in that three Republicans are ",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "How can “New York State Attorney General,” Letitia James, be allowed to investigate the Cornell rape scandal, when she is a DIRTY AND DISGUSTING COP herself, and has ZERO credibility? Any decision will be appealed by her mere presence on this case. The stench of Letitia James will greatly add to the anguish that everybody feels in viewing how this case is being handled. The Governor should take James off this case, IMMEDIATELY, and replace her with somebody who is not a Third Rate, Crooked Politician! President DONALD J. TRUMP",
-   "url": "https://www.trumpstruth.org/statuses/42311",
-   "published": "2026-10-13T21:43:50+00:00",
-   "summary": "How can “New York State Attorney General,” Letitia James, be allowed to investigate the Cornell rape scandal, when she is a DIRTY AND DISGUSTING COP herself, and has ZERO credibility? Any decision will be appealed by her mere presence on this case. The stench of Letitia James will greatly add to the anguish that everybody feels in viewing how this case is being handled. The Governor should take Ja",
-   "tags": [],
-   "highlight": true
   },
   {
    "source": "UN Press",
@@ -562,39 +596,6 @@
    "summary": "Formula One has signed a 10-year agreement with Rwanda to bring the sport back to Africa for the first time since 1993.",
    "tags": [
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "French fridge fright: Why supermarkets have become target for hackers",
-   "url": "https://www.aljazeera.com/economy/2026/10/13/french-fridge-fright-why-supermarkets-have-become-target-for-hackers?traffic_source=rss",
-   "published": "2026-10-13T13:08:46+00:00",
-   "summary": "More than 500 shops across France were hit in a major cyberattack on freezers, which caused tonnes of food to perish.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Trump’s diesel deal opens a new rift with Europe over Ukraine",
-   "url": "https://www.aljazeera.com/news/2026/10/13/trumps-diesel-deal-opens-a-new-rift-with-europe-over-ukraine?traffic_source=rss",
-   "published": "2026-10-13T13:06:42+00:00",
-   "summary": "Trump calls for Zelenskyy to be replaced, while Europe devotes summit to funding Ukraine.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iran sees ‘false flag’ operations after UK blames IRGC for airbase incident",
-   "url": "https://www.aljazeera.com/news/2026/10/13/iran-sees-false-flag-operations-after-uk-blames-irgc-for-airbase-incident?traffic_source=rss",
-   "published": "2026-10-13T13:03:56+00:00",
-   "summary": "Iran has been accused of being behind a plot against an airbase in the UK.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   }
