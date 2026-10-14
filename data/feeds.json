@@ -1,6 +1,54 @@
 {
- "asOf": "2026-10-14T22:15:02.009872+00:00",
+ "asOf": "2026-10-14T23:33:41.749052+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Denmark pushes back as Trump touts Greenland oil and mineral deals",
+   "url": "https://www.aljazeera.com/news/2026/10/14/denmark-pushes-back-as-trump-touts-greenland-oil-and-mineral-deals?traffic_source=rss",
+   "published": "2026-10-14T23:03:10+00:00",
+   "summary": "Recent US-Greenland-Denmark agreement excludes mining or drilling rights while reinforcing Greenland&#039;s sovereignty.",
+   "tags": [
+    "diplomacy",
+    "oil"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "UN Press",
+   "title": "Sixth Committee Debate on Scope, Application of Universal Jurisdiction Begins",
+   "url": "https://press.un.org/en/2026/gal3749.doc.htm",
+   "published": "2026-10-14T23:00:43+00:00",
+   "summary": "As the Sixth Committee (Legal) began consideration of “the scope and application of the principle of universal jurisdiction” today, speakers alternately emphasized the importance of combatting impunity and ensuring that justice is not applied selectively.",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "I’m heading to Montana for a “PACKED HOUSE” Speech. It’s broadcast LIVE on Right Side Broadcasting Network (RSBN) — What a great job they do. See you soon! President DONALD J. TRUMP",
+   "url": "https://www.trumpstruth.org/statuses/42359",
+   "published": "2026-10-14T22:48:21+00:00",
+   "summary": "I’m heading to Montana for a “PACKED HOUSE” Speech. It’s broadcast LIVE on Right Side Broadcasting Network (RSBN) — What a great job they do. See you soon! President DONALD J. TRUMP",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "UN Press",
+   "title": "‘New Circle of Hell’ for Civilians as Wars Rage Worldwide, Human Rights Chief Warns Third Committee",
+   "url": "https://press.un.org/en/2026/gaab4443.doc.htm",
+   "published": "2026-10-14T22:36:05+00:00",
+   "summary": "With some 60 conflicts raging worldwide — the highest number since the Second World War — the United Nations human rights chief warned the Third Committee (Social, Humanitarian and Cultural) today that civilians face mounting violence, shrinking freedoms and new threats from artificial intelligence and autonomous weapons.",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "UN Press",
+   "title": "Poverty Remains Greatest Global Challenge as 2030 Deadline Looms, Second Committee Hears",
+   "url": "https://press.un.org/en/2026/gaef3626.doc.htm",
+   "published": "2026-10-14T22:16:27+00:00",
+   "summary": "Poverty eradication remains “the greatest global challenge” to the 2030 Agenda and a prerequisite for advancing sustainable development, senior United Nations officials and Member States stressed today as the Second Committee (Economic and Financial) addressed the issue alongside agricultural development and food security.",
+   "tags": [],
+   "highlight": false
+  },
   {
    "source": "UN Press",
    "title": "Regional Security, Nuclear Deterrence, Humanitarian Risks Dominate First Committee Debate",
@@ -583,53 +631,6 @@
    "url": "https://www.trumpstruth.org/statuses/42347",
    "published": "2026-10-14T06:11:12+00:00",
    "summary": "View video",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran’s nuclear industry showcases export potential at Shiraz Expo 2026",
-   "url": "https://en.irna.ir/news/86292210/Iran-s-nuclear-industry-showcases-export-potential-at-Shiraz",
-   "published": "2026-10-14T06:07:44+00:00",
-   "summary": "Shiraz, IRNA – The Atomic Energy Organization of Iran (AEOI) has displayed its products and technological capabilities at Shiraz Expo 2026, highlighting potential export opportunities in healthcare, agriculture, nuclear medicine and radiation applications, including markets in the Persian Gulf littoral states.",
-   "tags": [
-    "nuclear"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Video post from October 14, 2026",
-   "url": "https://www.trumpstruth.org/statuses/42346",
-   "published": "2026-10-14T06:05:24+00:00",
-   "summary": "View video",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Video post from October 14, 2026",
-   "url": "https://www.trumpstruth.org/statuses/42343",
-   "published": "2026-10-14T05:58:47+00:00",
-   "summary": "View video",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Video post from October 14, 2026",
-   "url": "https://www.trumpstruth.org/statuses/42344",
-   "published": "2026-10-14T05:58:30+00:00",
-   "summary": "View video",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "RT @realDonaldTrump",
-   "url": "https://www.trumpstruth.org/statuses/42345",
-   "published": "2026-10-14T05:57:22+00:00",
-   "summary": "RT @ realDonaldTrump Reposted Donald J. Trump View video Removed from Truth Social. Removal detected 2026-10-14T07:21:47+00:00.",
    "tags": [],
    "highlight": true
   }
