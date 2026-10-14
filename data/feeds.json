@@ -1,6 +1,17 @@
 {
- "asOf": "2026-10-14T11:40:18.115591+00:00",
+ "asOf": "2026-10-14T12:32:00.349052+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Saudi-led coalition intercepts Houthi missile launched towards Riyadh",
+   "url": "https://www.aljazeera.com/news/2026/10/14/saudi-led-coalition-intercepts-houthi-missile-launched-towards-riyadh?traffic_source=rss",
+   "published": "2026-10-14T11:39:06+00:00",
+   "summary": "Saudi civil defence authority says danger passed after it issued alerts via its national early warning platform.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Iran steps up Hormuz surveillance: Attacks soar, oil flows crash again",
@@ -147,7 +158,7 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "‘Massive’ Russian attack on Ukraine kills at least six, damages power sites",
+   "title": "‘Massive’ Russian attack on Ukraine kills at least 9, damages power sites",
    "url": "https://www.aljazeera.com/news/2026/10/14/massive-russian-attack-on-ukraine-kills-at-least-six-cuts-power-in-kyiv?traffic_source=rss",
    "published": "2026-10-14T07:08:32+00:00",
    "summary": "Volodymyr Zelenskyy says Ukraine&#039;s partners failed to warn of Russian ballistic missile attack on Kyiv.",
@@ -593,17 +604,6 @@
    "published": "2026-10-13T21:03:18+00:00",
    "summary": "As the Fourth Committee (Special Political and Decolonization) concluded its general debate on decolonization, the representative of a former colonial Power expressed her country’s determination to confront the darkest pages of its colonial past.",
    "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Funeral for Egyptian flight attendant killed in Houthi attack on Riyadh",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/funeral-for-egyptian-flight-attendant-killed-in-houthi-attack-on-riyadh?traffic_source=rss",
-   "published": "2026-10-13T20:33:10+00:00",
-   "summary": "Funeral for Egyptian flight attendant killed in Houthi attack on Riyadh",
-   "tags": [
-    "strikes"
-   ],
    "highlight": false
   }
  ]
