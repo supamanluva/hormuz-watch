@@ -1,6 +1,17 @@
 {
- "asOf": "2026-10-14T18:57:11.866187+00:00",
+ "asOf": "2026-10-14T19:18:45.723813+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Israel’s former security chief sues Netanyahu for October 7 defamation",
+   "url": "https://www.aljazeera.com/news/2026/10/14/israels-former-security-chief-sues-netanyahu-for-october-7-defamation?traffic_source=rss",
+   "published": "2026-10-14T18:39:03+00:00",
+   "summary": "Bar and Netanyahu have traded blame over the Hamas-led attack, as elections in Israel loom.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "How six Ukrainian divers could have blown up Russia’s $20bn pipelines",
@@ -608,17 +619,6 @@
    "summary": "OpenAI says it discovered a hidden recording device in one of its offices, wrapped in toilet paper behind a television.",
    "tags": [
     "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "UN official says ‘window of opportunity’ for peace in DR Congo",
-   "url": "https://www.aljazeera.com/news/2026/10/14/un-official-says-window-of-opportunity-for-peace-in-dr-congo?traffic_source=rss",
-   "published": "2026-10-14T03:57:24+00:00",
-   "summary": "The envoy lauds the progress in diplomatic efforts despite the worsening security and humanitarian situation.",
-   "tags": [
-    "diplomacy"
    ],
    "highlight": false
   }
