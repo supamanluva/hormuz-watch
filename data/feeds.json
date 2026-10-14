@@ -1,6 +1,29 @@
 {
- "asOf": "2026-10-14T19:58:22.207890+00:00",
+ "asOf": "2026-10-14T20:40:56.928306+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Russia attack hits Kyiv after reported intelligence lapse",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/russia-attack-hits-kyiv-after-reported-intelligence-lapse?traffic_source=rss",
+   "published": "2026-10-14T20:14:57+00:00",
+   "summary": "Russia attack hits Kyiv after reported intelligence lapse",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "US lifts sanctions on Venezuela’s top legislator",
+   "url": "https://www.aljazeera.com/news/2026/10/14/us-lifts-sanctions-on-venezuelas-top-legislator?traffic_source=rss",
+   "published": "2026-10-14T19:53:03+00:00",
+   "summary": "Jorge Rodriguez has been removed from OFAC&#039;s sanctions list in latest US push for oil control and bilateral diplomacy.",
+   "tags": [
+    "sanctions",
+    "oil"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "Post from October 14, 2026",
@@ -599,26 +622,6 @@
    "summary": "View video",
    "tags": [],
    "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Video post from October 14, 2026",
-   "url": "https://www.trumpstruth.org/statuses/42332",
-   "published": "2026-10-14T05:19:52+00:00",
-   "summary": "View video",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Ukrainian drones strike more than 100km into Russian territory",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/ukrainian-drones-strike-more-than-100km-into-russian-territory?traffic_source=rss",
-   "published": "2026-10-14T05:07:55+00:00",
-   "summary": "Ukrainian drones struck the Saratov region. The regional governor reported one person was killed.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
   }
  ]
 }
