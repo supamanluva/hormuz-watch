@@ -1,6 +1,17 @@
 {
- "asOf": "2026-10-14T04:02:01.064384+00:00",
+ "asOf": "2026-10-14T04:25:49.688700+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "UN official says ‘window of opportunity’ for peace in DR Congo",
+   "url": "https://www.aljazeera.com/news/2026/10/14/un-official-says-window-of-opportunity-for-peace-in-dr-congo?traffic_source=rss",
+   "published": "2026-10-14T03:57:24+00:00",
+   "summary": "The envoy lauds the progress in diplomatic efforts despite the worsening security and humanitarian situation.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "Video post from October 14, 2026",
@@ -589,17 +600,6 @@
    "summary": "This morning, the Security Council will hold an open briefing on the Great Lakes region, with United Nations Special Envoy Huang Xia presenting the Secretary-General’s latest report on efforts to promote peace, security and cooperation in the Democratic Republic of the Congo and neighboring countries.",
    "tags": [
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "IRNA chief visits sites of deadly US-Israeli airstrikes on Iran’s Lamerd",
-   "url": "https://en.irna.ir/news/86291444/IRNA-chief-visits-sites-of-deadly-US-Israeli-airstrikes-on-Iran-s",
-   "published": "2026-10-13T08:30:24+00:00",
-   "summary": "Shiraz, IRNA – Hossein Jaberi-Ansari, the CEO of the Islamic Republic News Agency, who has traveled to Iran’s southern Fars Province, has visited the sites and areas in the city of Lamerd that were damaged in the recent US-Israeli bombing campaign.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   }
