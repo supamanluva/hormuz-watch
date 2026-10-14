@@ -1,6 +1,24 @@
 {
- "asOf": "2026-10-14T19:18:45.723813+00:00",
+ "asOf": "2026-10-14T19:58:22.207890+00:00",
  "items": [
+  {
+   "source": "Trump · Truth Social",
+   "title": "Post from October 14, 2026",
+   "url": "https://www.trumpstruth.org/statuses/42357",
+   "published": "2026-10-14T19:13:09+00:00",
+   "summary": "https://www. youtube.com/live/3bbk6X8FoJE?s i=zhVgVgfpgzuu_rTi",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "White House",
+   "title": "President Trump Returns to Arizona with a Record of Results: Tax Relief, Jobs, and Border Security",
+   "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-returns-to-arizona-with-a-record-of-results-tax-relief-jobs-and-border-security/",
+   "published": "2026-10-14T18:56:18+00:00",
+   "summary": "Today, President Donald J. Trump returns to the Grand Canyon State for a visit to Bullhead City. He arrives with a clear record of America First results that put Arizona workers, families, seniors, and communities first — delivering tax relief, unleashing major private investment, ending the Biden-era border crisis, driving down violent crime, and securing [&#8230;] The post President Trump Return",
+   "tags": [],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Israel’s former security chief sues Netanyahu for October 7 defamation",
@@ -592,15 +610,6 @@
    "highlight": true
   },
   {
-   "source": "Trump · Truth Social",
-   "title": "Video post from October 14, 2026",
-   "url": "https://www.trumpstruth.org/statuses/42333",
-   "published": "2026-10-14T05:18:04+00:00",
-   "summary": "View video",
-   "tags": [],
-   "highlight": true
-  },
-  {
    "source": "Al Jazeera",
    "title": "Ukrainian drones strike more than 100km into Russian territory",
    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/ukrainian-drones-strike-more-than-100km-into-russian-territory?traffic_source=rss",
@@ -608,17 +617,6 @@
    "summary": "Ukrainian drones struck the Saratov region. The regional governor reported one person was killed.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Saudi-born engineer for OpenAI arrested for planting listening bug",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/openai-employee-listening-device-spying-saudi-fozan?traffic_source=rss",
-   "published": "2026-10-14T04:16:13+00:00",
-   "summary": "OpenAI says it discovered a hidden recording device in one of its offices, wrapped in toilet paper behind a television.",
-   "tags": [
-    "oil"
    ],
    "highlight": false
   }
