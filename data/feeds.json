@@ -1,6 +1,17 @@
 {
- "asOf": "2026-10-14T17:26:49.178229+00:00",
+ "asOf": "2026-10-14T18:57:11.866187+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "How six Ukrainian divers could have blown up Russia’s $20bn pipelines",
+   "url": "https://www.aljazeera.com/video/2026/10/14/aje-onl-pp-nord-stream-141125?traffic_source=rss",
+   "published": "2026-10-14T18:00:44+00:00",
+   "summary": "A Ukrainian military officer is on trial in Germany over an act of sabotage that remained unsolved for years.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Saudi tennis ‘slam’ with Alcaraz, Djokovic postponed amid Houthi attacks",
@@ -608,17 +619,6 @@
    "summary": "The envoy lauds the progress in diplomatic efforts despite the worsening security and humanitarian situation.",
    "tags": [
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Houthi missiles intercepted over Saudi Arabia as battles intensify",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/houthi-missiles-intercepted-over-saudi-arabia-as-battles-intensify?traffic_source=rss",
-   "published": "2026-10-14T03:09:46+00:00",
-   "summary": "Saudi Arabia says it intercepted missiles targeting Riyadh and Dhahran, with falling debris injuring people.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   }
