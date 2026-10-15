@@ -1,6 +1,29 @@
 {
- "asOf": "2026-10-15T11:17:32.942082+00:00",
+ "asOf": "2026-10-15T12:48:47.333591+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Ukrainians fear US intelligence cuts as Russian strikes intensify",
+   "url": "https://www.aljazeera.com/news/2026/10/15/ukrainians-fear-us-intelligence-cuts-as-russian-strikes-intensify?traffic_source=rss",
+   "published": "2026-10-15T11:45:39+00:00",
+   "summary": "Reduced missile warnings increase threat to civilians as Trump pushes an &#039;energy ceasefire&#039; and peace negotiations.",
+   "tags": [
+    "strikes",
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "US-Iran stalemate: What are Trump’s next military options?",
+   "url": "https://www.aljazeera.com/news/2026/10/15/us-iran-stalemate-what-are-trumps-next-military-options?traffic_source=rss",
+   "published": "2026-10-15T11:41:05+00:00",
+   "summary": "Trump has ruled out attacks before the midterms. Analysts weigh what he could do next, and at what cost.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "IRNA chief calls for documenting evidence of US-Israeli attacks",
@@ -590,31 +613,6 @@
    "summary": "Saudi Pro League postpones three matches after Houthi attacks, including one involving Cristiano Ronaldo&#039;s Al Nassr.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Law of the Sea comes to life in the hunt for sanctioned Russian oil",
-   "url": "https://www.aljazeera.com/news/2026/10/14/law-of-the-sea-comes-to-life-in-the-hunt-for-sanctioned-russian-oil?traffic_source=rss",
-   "published": "2026-10-14T14:38:09+00:00",
-   "summary": "Ukraine&#039;s Western allies are using maritime law to inspect Russian shadow tankers.",
-   "tags": [
-    "sanctions",
-    "shipping",
-    "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iraq’s PM tells Saudi crown prince Iraqi territory will not be used for attacks",
-   "url": "https://www.aljazeera.com/news/2026/10/14/iraq-pm-tells-saudi-crown-prince-iraqi-territory-wont-be-used-for-attacks?traffic_source=rss",
-   "published": "2026-10-14T12:50:51+00:00",
-   "summary": "Saudi Arabia&#039;s East-West oil pipeline was struck by drones last month in an attack that originated in Iraq.",
-   "tags": [
-    "strikes",
-    "oil"
    ],
    "highlight": false
   },
