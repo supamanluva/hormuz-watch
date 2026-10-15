@@ -1,6 +1,17 @@
 {
- "asOf": "2026-10-15T09:36:13.216905+00:00",
+ "asOf": "2026-10-15T10:21:37.102925+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "‘Each country goes its own way’: How Balkan politics shape ties with Israel",
+   "url": "https://www.aljazeera.com/news/2026/10/15/each-country-goes-its-own-way-how-balkan-politics-shape-ties-with-israel?traffic_source=rss",
+   "published": "2026-10-15T09:35:01+00:00",
+   "summary": "Countries’ ties with Israel reflect local politics, defence deals and strategic interests rather than a united stance.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Iran: Strait of Hormuz remains closed, requires coordination for passage",
@@ -76,7 +87,7 @@
   },
   {
    "source": "IRNA (Iran state wire)",
-   "title": "Iran must fight and negotiate to establish lasting deterrence: Speaker",
+   "title": "Speaker: Iran must fight and negotiate to establish lasting deterrence",
    "url": "https://en.irna.ir/news/86293156/Iran-must-fight-and-negotiate-to-establish-lasting-deterrence",
    "published": "2026-10-15T05:51:17+00:00",
    "summary": "Tehran, IRNA – Iran must combine military action with negotiations to establish lasting deterrence and prevent its enemies from launching further attacks, Parliament Speaker Mohammad Bagher Ghalibaf says, stressing that agreements alone cannot guarantee the country’s security.",
@@ -608,15 +619,6 @@
    "url": "https://www.trumpstruth.org/statuses/42353",
    "published": "2026-10-14T11:49:53+00:00",
    "summary": "Trump proves he can undo Biden’s energy damage in Alaska in short order: https:// justthenews.com/government/whi te-house/trump-proves-alaska-he-can-undo-bidens-energy-damage-half-time",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Democrats cheered Mar-a-Lago raid in 2022, but now call search of Omar's home 'weaponization':",
-   "url": "https://www.trumpstruth.org/statuses/42354",
-   "published": "2026-10-14T11:49:09+00:00",
-   "summary": "Democrats cheered Mar-a-Lago raid in 2022, but now call search of Omar's home 'weaponization': https:// justthenews.com/government/cou rts-law/democrats-praised-mar-lago-raid-2022-now-call-omar-search-weaponization",
    "tags": [],
    "highlight": true
   }
