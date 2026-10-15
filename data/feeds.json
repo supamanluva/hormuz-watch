@@ -1,6 +1,40 @@
 {
- "asOf": "2026-10-15T07:59:12.869850+00:00",
+ "asOf": "2026-10-15T09:36:13.216905+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran: Strait of Hormuz remains closed, requires coordination for passage",
+   "url": "https://en.irna.ir/news/86293369/Iran-Strait-of-Hormuz-remains-closed-requires-coordination",
+   "published": "2026-10-15T08:24:57+00:00",
+   "summary": "Tehran, IRNA – Deputy chief of the Iranian Army for coordination Rear Admiral Habibollah Sayyari says the Strait of Hormuz remains closed and that any passage through the strategic waterway must be coordinated with Iranian forces who maintain full control and surveillance over the area.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Containers and debris captured floating around the Strait of Hormuz",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/containers-and-debris-captured-floating-around-the-strait-of-hormuz?traffic_source=rss",
+   "published": "2026-10-15T08:06:06+00:00",
+   "summary": "Video shows containers and debris scattered around the Strait of Hormuz due to the recent attacks on vessels.",
+   "tags": [
+    "strikes",
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Yemen says it downed Saudi Typhoon fighter",
+   "url": "https://en.irna.ir/news/86293303/Yemen-says-it-downed-Saudi-Typhoon-fighter",
+   "published": "2026-10-15T08:03:57+00:00",
+   "summary": "Tehran, IRNA – Yemen’s armed forces have downed a Saudi Typhoon fighter jet over the northern province of Sa’ada, military spokesperson Yahya Saree has said, as Sana’a reported a sharp escalation in Saudi-led coalition attacks.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Russian nuclear-powered submarine fires missiles during Pacific drills",
@@ -585,41 +619,6 @@
    "summary": "Democrats cheered Mar-a-Lago raid in 2022, but now call search of Omar's home 'weaponization': https:// justthenews.com/government/cou rts-law/democrats-praised-mar-lago-raid-2022-now-call-omar-search-weaponization",
    "tags": [],
    "highlight": true
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Saudi-led coalition intercepts Houthi missile launched towards Riyadh",
-   "url": "https://www.aljazeera.com/news/2026/10/14/saudi-led-coalition-intercepts-houthi-missile-launched-towards-riyadh?traffic_source=rss",
-   "published": "2026-10-14T11:39:06+00:00",
-   "summary": "Saudi civil defence authority says danger passed after it issued alerts via its national early warning platform.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iran steps up Hormuz surveillance: Attacks soar, oil flows crash again",
-   "url": "https://www.aljazeera.com/news/2026/10/14/iran-steps-up-hormuz-surveillance-attacks-soar-oil-flows-crash-again?traffic_source=rss",
-   "published": "2026-10-14T11:16:21+00:00",
-   "summary": "Ships in the Strait of Hormuz have been experiencing the worst spate of attacks since the start of the war.",
-   "tags": [
-    "strikes",
-    "shipping",
-    "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Trump plans for ‘massive’ resource exploration in Greenland",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/trump-plans-for-massive-resource-exploration-in-greenland?traffic_source=rss",
-   "published": "2026-10-14T11:05:07+00:00",
-   "summary": "US President Donald Trump announces a plan on Truth Social for oil, gas and mineral exploration in Greenland.",
-   "tags": [
-    "oil"
-   ],
-   "highlight": false
   }
  ]
 }
