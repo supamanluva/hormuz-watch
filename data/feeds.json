@@ -1,6 +1,61 @@
 {
- "asOf": "2026-10-15T10:21:37.102925+00:00",
+ "asOf": "2026-10-15T11:17:32.942082+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "IRNA chief calls for documenting evidence of US-Israeli attacks",
+   "url": "https://en.irna.ir/news/86293499/IRNA-chief-calls-for-documenting-evidence-of-US-Israeli-attacks",
+   "published": "2026-10-15T10:53:24+00:00",
+   "summary": "Shiraz, IRNA – IRNA CEO Hossein Jaberi Ansari has called for comprehensive documentation and preservation of evidence from US and Israeli attacks on Iranian cities.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Fighting in Yemen intensifies: What’s the latest on the battlefield?",
+   "url": "https://www.aljazeera.com/news/2026/10/15/fighting-in-yemen-intensifies-whats-the-latest-on-the-battlefield?traffic_source=rss",
+   "published": "2026-10-15T10:52:12+00:00",
+   "summary": "Houthis attempt to raise the cost of the Yemen war for Saudi Arabia as attacks, fighting intensify.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "UN Press",
+   "title": "Security Council, 10243rd Meeting (AM & PM) Middle East, Palestine",
+   "url": "https://press.un.org/en/blog/sc16478",
+   "published": "2026-10-15T10:49:02+00:00",
+   "summary": "At 10 a.m., the Security Council will hold its quarterly open debate on “The situation in the Middle East, including the Palestinian question”. Acting Special Coordinator and Resident Coordinator at the Office of the UN Special Coordinator for the Middle East Peace Process Ramiz Alakbarov is expected to brief.",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Asian Cup in Saudi Arabia could be postponed by a year amid Houthi attacks",
+   "url": "https://www.aljazeera.com/sports/2026/10/15/asian-cup-in-saudi-arabia-could-be-postponed-by-a-year-amid-houthi-attacks?traffic_source=rss",
+   "published": "2026-10-15T10:44:03+00:00",
+   "summary": "The tournament is scheduled to begin on January 7 but could be moved by a year if needed, AFC president says.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Russia says Ukraine resumes attacks on oil refineries",
+   "url": "https://www.aljazeera.com/news/2026/10/15/russia-says-ukraine-resumes-attacks-on-oil-refineries?traffic_source=rss",
+   "published": "2026-10-15T10:02:17+00:00",
+   "summary": "Ukraine&#039;s president earlier said Kyiv was &#039;done&#039; with energy ceasefire and that strikes on Russian oil refineries would resume.",
+   "tags": [
+    "strikes",
+    "diplomacy",
+    "oil"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "‘Each country goes its own way’: How Balkan politics shape ties with Israel",
@@ -574,53 +629,6 @@
     "sanctions"
    ],
    "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Russian expert: Pezeshkian’s CIS proposal deals blow to anti-Iran campaign",
-   "url": "https://en.irna.ir/news/86292721/Russian-expert-Pezeshkian-s-CIS-proposal-deals-blow-to-anti-Iran",
-   "published": "2026-10-14T12:31:44+00:00",
-   "summary": "Moscow, IRNA – A Russian lecturer and expert says Iranian President Masoud Pezeshkian’s attendance at the CIS heads-of-state summit is regarded as a landmark event for both Iran and the member states, and the proposal he presented there struck a blow to the US-Israeli campaign against Iran.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Washington's Reckoning: Jack Smith, Ilhan Omar and the Push for Accountability:",
-   "url": "https://www.trumpstruth.org/statuses/42351",
-   "published": "2026-10-14T11:53:09+00:00",
-   "summary": "Washington's Reckoning: Jack Smith, Ilhan Omar and the Push for Accountability: https:// justthenews.com/podcasts/john- solomon-reports/washingtons-reckoning-jack-smith-ilhan-omar-and-push-accountability",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Trump’s job-creation juggernaut stops in Ohio to unveil massive submarine repair facility:",
-   "url": "https://www.trumpstruth.org/statuses/42352",
-   "published": "2026-10-14T11:52:13+00:00",
-   "summary": "Trump’s job-creation juggernaut stops in Ohio to unveil massive submarine repair facility: https:// justthenews.com/politics-polic y/all-things-trump/trumps-job-creation-juggernaut-stops-ohio-unveil-massive-submarine",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Majority of voters concerned about socialists running for office, poll finds:",
-   "url": "https://www.trumpstruth.org/statuses/42350",
-   "published": "2026-10-14T11:50:53+00:00",
-   "summary": "Majority of voters concerned about socialists running for office, poll finds: https:// justthenews.com/nation/states/ center-square/poll-majority-voters-concerned-about-socialists-running-office",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Trump proves he can undo Biden’s energy damage in Alaska in short order:",
-   "url": "https://www.trumpstruth.org/statuses/42353",
-   "published": "2026-10-14T11:49:53+00:00",
-   "summary": "Trump proves he can undo Biden’s energy damage in Alaska in short order: https:// justthenews.com/government/whi te-house/trump-proves-alaska-he-can-undo-bidens-energy-damage-half-time",
-   "tags": [],
-   "highlight": true
   }
  ]
 }
