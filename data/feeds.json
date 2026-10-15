@@ -1,6 +1,17 @@
 {
- "asOf": "2026-10-15T01:27:44.946545+00:00",
+ "asOf": "2026-10-15T01:57:17.424107+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Ship catches fire in Romania’s waters amid rising attacks in the Black Sea",
+   "url": "https://www.aljazeera.com/news/2026/10/15/ship-catches-fire-in-romanias-waters-amid-rising-attacks-in-the-black-sea?traffic_source=rss",
+   "published": "2026-10-15T01:20:26+00:00",
+   "summary": "Authorities are investigating whether drones may have been involved in the latest incident.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Iran war live: Tehran vows to fight until US yields as ships sink in Hormuz",
@@ -590,18 +601,6 @@
    "summary": "From currency brokers to crypto, Iranians find ways to circumvent sanctions, but each comes with its own problems.",
    "tags": [
     "sanctions"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Trump says oil, gas and mineral exploration to begin in Greenland",
-   "url": "https://www.aljazeera.com/news/2026/10/14/trump-says-oil-gas-and-mineral-exploration-to-begin-in-greenland?traffic_source=rss",
-   "published": "2026-10-14T08:08:42+00:00",
-   "summary": "The US president also praises the security advantages of last month&#039;s deal with Denmark and Greenland.",
-   "tags": [
-    "diplomacy",
-    "oil"
    ],
    "highlight": false
   },
