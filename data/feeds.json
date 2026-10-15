@@ -1,6 +1,26 @@
 {
- "asOf": "2026-10-15T03:05:51.468100+00:00",
+ "asOf": "2026-10-15T03:50:34.555264+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "North Korea tests two submarine-launched missiles, state media reports",
+   "url": "https://www.aljazeera.com/news/2026/10/15/north-korea-tests-two-submarine-launched-missiles-state-media-reports?traffic_source=rss",
+   "published": "2026-10-15T03:23:49+00:00",
+   "summary": "The tests showcase North Korea&#039;s war deterrent capabilities in the region, KCNA says.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "Video post from October 15, 2026",
+   "url": "https://www.trumpstruth.org/statuses/42361",
+   "published": "2026-10-15T03:18:58+00:00",
+   "summary": "View video",
+   "tags": [],
+   "highlight": true
+  },
   {
    "source": "White House",
    "title": "Presidential Message on the Birthday of President Dwight D. Eisenhower",
@@ -20,6 +40,15 @@
     "strikes"
    ],
    "highlight": false
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "Image post from October 15, 2026",
+   "url": "https://www.trumpstruth.org/statuses/42360",
+   "published": "2026-10-15T00:49:03+00:00",
+   "summary": "View image",
+   "tags": [],
+   "highlight": true
   },
   {
    "source": "Al Jazeera",
@@ -601,37 +630,6 @@
     "strikes"
    ],
    "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "How do Iranians move money abroad to avoid US sanctions?",
-   "url": "https://www.aljazeera.com/news/2026/10/14/how-do-iranians-move-money-abroad-to-avoid-us-sanctions?traffic_source=rss",
-   "published": "2026-10-14T08:24:02+00:00",
-   "summary": "From currency brokers to crypto, Iranians find ways to circumvent sanctions, but each comes with its own problems.",
-   "tags": [
-    "sanctions"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Envoys rejects Trump’s allegations on destruction of US’ cities",
-   "url": "https://en.irna.ir/news/86292297/Envoys-rejects-Trump-s-allegations-on-destruction-of-US-cities",
-   "published": "2026-10-14T06:23:40+00:00",
-   "summary": "Moscow, IRNA – Iran’s Ambassador to Russia, Kazem Jalali, said Donald Trump’s allegations about the possible destruction of American cities are completely unfounded, unrealistic, and amount to nothing more than campaign rhetoric.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "RT @realDonaldTrump",
-   "url": "https://www.trumpstruth.org/statuses/42348",
-   "published": "2026-10-14T06:19:28+00:00",
-   "summary": "RT @ realDonaldTrump Reposted Donald J. Trump View video",
-   "tags": [],
-   "highlight": true
   }
  ]
 }
