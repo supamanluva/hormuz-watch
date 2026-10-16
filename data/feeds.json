@@ -1,5 +1,5 @@
 {
- "asOf": "2026-10-16T09:23:31.422676+00:00",
+ "asOf": "2026-10-16T09:53:45.680238+00:00",
  "items": [
   {
    "source": "IRNA (Iran state wire)",
@@ -7,6 +7,17 @@
    "url": "https://en.irna.ir/news/86294009/Pezeshkian-urges-int-l-support-for-countries-facing-environmental",
    "published": "2026-10-16T09:22:49+00:00",
    "summary": "Tehran, IRNA – Iranian President Masoud Pezeshkian has reaffirmed the country’s commitment to biodiversity conservation, urging the international community to ensure that countries facing sanctions or military aggression do not bear the environmental costs alone.",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "China-North Korea border bridge may do little to spur trade, experts say",
+   "url": "https://www.aljazeera.com/economy/2026/10/16/china-north-korea-border-bridge-may-do-little-to-spur-trade-experts-say?traffic_source=rss",
+   "published": "2026-10-16T09:21:40+00:00",
+   "summary": "Sanctions and a North Korean leadership that prioritises security dim prospects for trade, analysts say.",
    "tags": [
     "sanctions"
    ],
@@ -600,17 +611,6 @@
     "strikes",
     "diplomacy",
     "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "‘Each country goes its own way’: How Balkan politics shape ties with Israel",
-   "url": "https://www.aljazeera.com/news/2026/10/15/each-country-goes-its-own-way-how-balkan-politics-shape-ties-with-israel?traffic_source=rss",
-   "published": "2026-10-15T09:35:01+00:00",
-   "summary": "Countries’ ties with Israel reflect local politics, defence deals and strategic interests rather than a united stance.",
-   "tags": [
-    "diplomacy"
    ],
    "highlight": false
   }
