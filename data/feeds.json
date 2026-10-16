@@ -1,6 +1,39 @@
 {
- "asOf": "2026-10-16T10:21:45.502460+00:00",
+ "asOf": "2026-10-16T10:55:52.109656+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iranian president, Georgian PM discuss bilateral ties",
+   "url": "https://en.irna.ir/news/86294120/Iranian-president-Georgian-PM-discuss-bilateral-ties",
+   "published": "2026-10-16T10:35:33+00:00",
+   "summary": "Tehran, IRNA – Iranian President Masoud Pezeshkian and Georgian Prime Minister Irakli Kobakhidze have held talks on bilateral relations and cooperation between the two countries.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "President Pezeshkian, Armenian PM discuss bilateral ties",
+   "url": "https://en.irna.ir/news/86294115/President-Pezeshkian-Armenian-PM-discuss-bilateral-ties",
+   "published": "2026-10-16T10:30:55+00:00",
+   "summary": "Tehran, IRNA – Iranian President Masoud Pezeshkian and Armenian Prime Minister Nikol Pashinyan have held talks on bilateral relations and cooperation between the two neighboring countries.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Trump rules out using a nuclear bomb on Iran: Why that matters",
+   "url": "https://www.aljazeera.com/news/2026/10/16/trump-rules-out-using-a-nuclear-bomb-on-iran-why-that-matters?traffic_source=rss",
+   "published": "2026-10-16T10:21:12+00:00",
+   "summary": "It is the first time the president has addressed nuclear weapons, but he didn&#039;t deny US could use &#039;mother of all bombs&#039;.",
+   "tags": [
+    "nuclear"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Pezeshkian urges int’l support for countries facing environmental costs of war, sanctions",
@@ -578,39 +611,6 @@
    "summary": "Houthis attempt to raise the cost of the Yemen war for Saudi Arabia as attacks, fighting intensify.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Security Council, 10243rd Meeting (AM & PM) Middle East, Palestine",
-   "url": "https://press.un.org/en/blog/sc16478",
-   "published": "2026-10-15T10:49:02+00:00",
-   "summary": "At 10 a.m., the Security Council will hold its quarterly open debate on “The situation in the Middle East, including the Palestinian question”. Acting Special Coordinator and Resident Coordinator at the Office of the UN Special Coordinator for the Middle East Peace Process Ramiz Alakbarov is expected to brief.",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Asian Cup in Saudi Arabia could be postponed by a year amid Houthi attacks",
-   "url": "https://www.aljazeera.com/sports/2026/10/15/asian-cup-in-saudi-arabia-could-be-postponed-by-a-year-amid-houthi-attacks?traffic_source=rss",
-   "published": "2026-10-15T10:44:03+00:00",
-   "summary": "The tournament is scheduled to begin on January 7 but could be moved by a year if needed, AFC president says.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Russia says Ukraine resumes attacks on oil refineries",
-   "url": "https://www.aljazeera.com/news/2026/10/15/russia-says-ukraine-resumes-attacks-on-oil-refineries?traffic_source=rss",
-   "published": "2026-10-15T10:02:17+00:00",
-   "summary": "Ukraine&#039;s president earlier said Kyiv was &#039;done&#039; with energy ceasefire and that strikes on Russian oil refineries would resume.",
-   "tags": [
-    "strikes",
-    "diplomacy",
-    "oil"
    ],
    "highlight": false
   }
