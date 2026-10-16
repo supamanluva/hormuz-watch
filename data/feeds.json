@@ -1,6 +1,29 @@
 {
- "asOf": "2026-10-16T13:51:36.093928+00:00",
+ "asOf": "2026-10-16T14:23:07.378180+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "How Israeli firm’s ‘zero-click’ malware attack poses global security risk",
+   "url": "https://www.aljazeera.com/news/2026/10/16/how-israeli-firms-zero-click-malware-attack-poses-global-security-risk?traffic_source=rss",
+   "published": "2026-10-16T14:12:13+00:00",
+   "summary": "A new ‘zero-click’ hack uses ads to target victims without any action needed on their part.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iranian Navy spots oil tanker on fire in Strait of Hormuz",
+   "url": "https://en.irna.ir/news/86294247/Iranian-Navy-spots-oil-tanker-on-fire-in-Strait-of-Hormuz",
+   "published": "2026-10-16T13:53:14+00:00",
+   "summary": "Tehran, IRNA — Iranian Navy surveillance teams have detected and identified a non-compliant oil tanker that had caught fire in the eastern Strait of Hormuz while attempting to pass through a prohibited area.",
+   "tags": [
+    "shipping",
+    "oil"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Palestinians, US journalist attacked in West Bank pogrom: What we know",
@@ -594,28 +617,6 @@
    "summary": "President Donald J. Trump is systematically dismantling the bloodthirsty Tren de Aragua gang that Biden’s open borders allowed to pour into American communities. The Trump Administration has launched the largest federal campaign against transnational crime in U.S. history — identifying, arresting, and removing these vicious foreign criminals and driving violent crime down nationwide. The Washingto",
    "tags": [],
    "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "‘Boiling point’: Why students are protesting against Albania’s Edi Rama",
-   "url": "https://www.aljazeera.com/news/2026/10/15/boiling-point-why-students-are-protesting-against-albanias-edi-rama?traffic_source=rss",
-   "published": "2026-10-15T14:22:13+00:00",
-   "summary": "Experts say Albania’s protests reflect ignored student grievances and growing frustration.",
-   "tags": [
-    "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Nidal Malik Hasan, a former U.S. Army Major turned traitor, is a very bad and evil man, who killed 13 people, including a pregnant soldier, who died, along with her unborn son, and injured, very seriously, 32 more innocent people. Barack Hussein Obama’s Federal Bureau of Investigation (FBI) intercepted electronic communications between Hasan and the radical Yemeni-American cleric, Anwar al-Awlaki. When reviewed by his FBI terrorism task force, investigators concluded that Hasan's emails were not a threat. This assessment of the Obama Administration’s actions was later considered to be a key intelligence failure. With all of that being said, I think streaming the execution for all to see might have been a strong deterrent for the World to witness how America deals with Terrorists and SCUM like Hasan but, many very good and well meaning people would rather not watch him die, through streaming, or through any other visual device. He will die, as scheduled, by firing squad, but this event will not be streamed. That said, the execution may be viewed in person by the immediate families of the victims, if they so choose. They deserve to witness JUSTICE! Thank you for your attention to this matter. President DONALD J. TRUMP",
-   "url": "https://www.trumpstruth.org/statuses/42372",
-   "published": "2026-10-15T14:06:46+00:00",
-   "summary": "Nidal Malik Hasan, a former U.S. Army Major turned traitor, is a very bad and evil man, who killed 13 people, including a pregnant soldier, who died, along with her unborn son, and injured, very seriously, 32 more innocent people. Barack Hussein Obama’s Federal Bureau of Investigation (FBI) intercepted electronic communications between Hasan and the radical Yemeni-American cleric, Anwar al-Awlaki.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": true
   }
  ]
 }
