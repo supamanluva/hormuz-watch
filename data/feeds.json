@@ -1,14 +1,24 @@
 {
- "asOf": "2026-10-16T17:50:50.292535+00:00",
+ "asOf": "2026-10-16T18:24:57.811454+00:00",
  "items": [
   {
    "source": "Al Jazeera",
-   "title": "Ukraine repels Russian forces as US support wavers, energy strikes escalate",
+   "title": "Ukraine president targets Trump, Putin at EU summit",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/ukraine-president-targets-trump-putin-at-eu-summit?traffic_source=rss",
+   "published": "2026-10-16T17:59:48+00:00",
+   "summary": "President Zelenskyy warned Russia’s ambitions extend beyond eastern Ukraine, saying its drone attack threaten NATO.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Ukraine advances in occupied Donetsk as Trump hands Putin diesel deal",
    "url": "https://www.aljazeera.com/news/2026/10/16/ukraine-repels-russian-forces-as-us-support-wavers-energy-strikes-escalate?traffic_source=rss",
    "published": "2026-10-16T17:28:41+00:00",
-   "summary": "Ukraine’s &#039;Operation Vivaldi&#039; reclaimed more occupied territory in Donetsk, as Trump helped Russia with a diesel deal.",
+   "summary": "Ukraine’s &#039;Operation Vivaldi&#039; reclaimed more occupied territory in Donetsk during a week when Trump sided with Russia.",
    "tags": [
-    "strikes",
     "diplomacy"
    ],
    "highlight": false
@@ -134,7 +144,7 @@
    "title": "Israeli settlers continue pogrom amid olive harvest in occupied West Bank",
    "url": "https://www.aljazeera.com/news/2026/10/16/israeli-settlers-continue-progrom-amid-olive-harvest-in-occupied-west-bank?traffic_source=rss",
    "published": "2026-10-16T13:04:32+00:00",
-   "summary": "At least two people, including Washington Post journalist, injured as settlers armed with clubs and guns attack.",
+   "summary": "At least two people, including a Washington Post journalist, injured as settlers armed with clubs and guns attack.",
    "tags": [
     "strikes"
    ],
@@ -610,15 +620,6 @@
    "summary": "View video",
    "tags": [],
    "highlight": true
-  },
-  {
-   "source": "White House",
-   "title": "Bombshell Report Exposes True Cost of Radical Democrats’ Mass Amnesty – Open Borders Agenda",
-   "url": "https://www.whitehouse.gov/releases/2026/10/bombshell-report-exposes-true-cost-of-radical-democrats-mass-amnesty-open-borders-agenda/",
-   "published": "2026-10-15T15:41:55+00:00",
-   "summary": "President Donald J. Trump and Republicans have delivered the most secure border in American history, with illegal crossings plummeting to record lows and U.S. Customs and Border Protection now recording 16 consecutive months with zero illegal aliens released at the border. Meanwhile, Extreme Liberal Democrats are pushing to reopen the southern border, end mass deportations, [&#8230;] The post Bomb",
-   "tags": [],
-   "highlight": false
   }
  ]
 }

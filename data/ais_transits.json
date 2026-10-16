@@ -1,5 +1,5 @@
 {
- "asOf": "2026-10-16T18:06:40.095247+00:00",
+ "asOf": "2026-10-16T18:40:46.392520+00:00",
  "methodology": "Unique MMSIs observed inside each strait bounding box during a ~10 min aisstream.io listening window per run (presence count, not full transits; AIS-dark vessels are invisible). Tanker = AIS ship type 80-89. Lower bound, best read as a trend.",
  "hours": [
   {
@@ -823,8 +823,8 @@
   },
   {
    "hour": "2026-10-16T18:00:00+00:00",
-   "hormuz_total": 7,
-   "hormuz_tanker": 0,
+   "hormuz_total": 4,
+   "hormuz_tanker": 1,
    "bab_total": 0,
    "bab_tanker": 0
   }
