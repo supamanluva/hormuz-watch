@@ -1,6 +1,17 @@
 {
- "asOf": "2026-10-16T14:52:07.995890+00:00",
+ "asOf": "2026-10-16T15:19:48.477655+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran’s envoy: US’ new threats show desperation, confusion",
+   "url": "https://en.irna.ir/news/86294257/Iran-s-envoy-US-new-threats-show-desperation-confusion",
+   "published": "2026-10-16T15:03:18+00:00",
+   "summary": "London, IRNA — Iran’s ambassador to Berlin has pointed to a German newspaper report questioning whether the ‘mother of all bombs’ would even work against Iran, calling the US threat to use such a weapon a sign that warmongers are desperate and confused in the face of Iranian resilience.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Army spokesman vows new plans to drive American vessels farther off",
@@ -34,6 +45,15 @@
     "oil"
    ],
    "highlight": false
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "Video post from October 16, 2026",
+   "url": "https://www.trumpstruth.org/statuses/42385",
+   "published": "2026-10-16T13:40:04+00:00",
+   "summary": "View video",
+   "tags": [],
+   "highlight": true
   },
   {
    "source": "Al Jazeera",
@@ -599,26 +619,6 @@
    "summary": "View video",
    "tags": [],
    "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Video post from October 15, 2026",
-   "url": "https://www.trumpstruth.org/statuses/42375",
-   "published": "2026-10-15T14:46:19+00:00",
-   "summary": "View video",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "US teen held over Hindu temple attack plot: Is anti-Indian racism rising?",
-   "url": "https://www.aljazeera.com/news/2026/10/15/us-teen-held-over-hindu-temple-attack-plot-is-anti-indian-racism-rising?traffic_source=rss",
-   "published": "2026-10-15T14:38:46+00:00",
-   "summary": "Illinois teen who allegedly said he &#039;couldn’t wait&#039; to kill Indians is arrested over a Hindu temple attack plot.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
   }
  ]
 }
