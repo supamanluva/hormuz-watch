@@ -1,6 +1,15 @@
 {
- "asOf": "2026-10-16T16:52:06.028050+00:00",
+ "asOf": "2026-10-16T17:17:55.042595+00:00",
  "items": [
+  {
+   "source": "White House",
+   "title": "President Trump Returns to Georgia with a Record of Results",
+   "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-returns-to-georgia-with-a-record-of-results/",
+   "published": "2026-10-16T16:36:43+00:00",
+   "summary": "Today, President Donald J. Trump returns to the Peach State with a proven record of America First results that put Georgia workers, families, seniors, and communities first. Under the leadership of President Trump and Republicans, Georgians are seeing historic tax relief, a surge of private investment and job creation, lower energy costs, support for farmers, [&#8230;] The post President Trump Ret",
+   "tags": [],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Spain to appeal to CAS after FIFA penalty for Islamophobic chants",
@@ -416,10 +425,10 @@
   },
   {
    "source": "UN Press",
-   "title": "Fourth Committee Approves over 22 Drafts, 1 Decision, including Texts on Contemporary Colonialism, Independence Declaration, Western Sahara",
+   "title": "Fourth Committee Approves over 20 Drafts, 1 Decision, including Texts on Contemporary Colonialism, Independence Declaration, Western Sahara",
    "url": "https://press.un.org/en/2026/gaspd841.doc.htm",
    "published": "2026-10-15T22:26:33+00:00",
-   "summary": "The Fourth Committee (Special Political and Decolonization) today approved over 22 draft resolutions and one decision, many of them recommendations from the Special Committee on Decolonization, even as the representative of the United States called for ending that body’s mandate and described some of its activities as a waste of resources.",
+   "summary": "The Fourth Committee (Special Political and Decolonization) today approved over 20 draft resolutions and one decision, many of them recommendations from the Special Committee on Decolonization, even as the representative of the United States called for ending that body’s mandate and described some of its activities as a waste of resources.",
    "tags": [],
    "highlight": false
   },
@@ -609,18 +618,6 @@
    "summary": "Ukrainian authorities say a Russian jet-powered drone struck a supermarket in its Odesa region on Thursday.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Army Navy spots burning oil tanker in restricted area of Strait of Hormuz",
-   "url": "https://en.irna.ir/news/86293701/Army-Navy-spots-burning-oil-tanker-in-restricted-area-of-Strait",
-   "published": "2026-10-15T15:07:19+00:00",
-   "summary": "Tehran, IRNA — The Iranian Army Navy has spotted a violating oil tanker that caught fire while attempting to pass through the eastern Strait of Hormuz.",
-   "tags": [
-    "shipping",
-    "oil"
    ],
    "highlight": false
   }
