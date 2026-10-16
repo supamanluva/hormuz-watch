@@ -1,6 +1,17 @@
 {
- "asOf": "2026-10-16T10:55:52.109656+00:00",
+ "asOf": "2026-10-16T11:19:43.832058+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Poland scrambles fighter jets as Russia strikes western Ukraine",
+   "url": "https://www.aljazeera.com/news/2026/10/16/poland-scrambles-fighter-jets-as-russia-strikes-western-ukraine?traffic_source=rss",
+   "published": "2026-10-16T10:56:20+00:00",
+   "summary": "Countries along NATO’s eastern flank growing increasingly concerned about the risk of escalation of the war in Ukraine.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Iranian president, Georgian PM discuss bilateral ties",
@@ -598,17 +609,6 @@
    "url": "https://en.irna.ir/news/86293499/IRNA-chief-calls-for-documenting-evidence-of-US-Israeli-attacks",
    "published": "2026-10-15T10:53:24+00:00",
    "summary": "Shiraz, IRNA – IRNA CEO Hossein Jaberi Ansari has called for comprehensive documentation and preservation of evidence from US and Israeli attacks on Iranian cities.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Fighting in Yemen intensifies: What’s the latest on the battlefield?",
-   "url": "https://www.aljazeera.com/news/2026/10/15/fighting-in-yemen-intensifies-whats-the-latest-on-the-battlefield?traffic_source=rss",
-   "published": "2026-10-15T10:52:12+00:00",
-   "summary": "Houthis attempt to raise the cost of the Yemen war for Saudi Arabia as attacks, fighting intensify.",
    "tags": [
     "strikes"
    ],
