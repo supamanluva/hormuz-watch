@@ -1,6 +1,17 @@
 {
- "asOf": "2026-10-16T11:50:24.814034+00:00",
+ "asOf": "2026-10-16T12:31:30.843388+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Fuel tanker fire engulfs market in southern Nigeria",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/fuel-tanker-fire-engulfs-market-in-southern-nigeria?traffic_source=rss",
+   "published": "2026-10-16T12:23:12+00:00",
+   "summary": "A fire tore through Oluku market in Benin City after a tanker overturned and exploded.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Malaysia’s welcome for Min Aung Hlaing undermines its stand on justice",
@@ -22,6 +33,15 @@
     "diplomacy",
     "nuclear"
    ],
+   "highlight": false
+  },
+  {
+   "source": "UN Press",
+   "title": "Security Council, 10245th Meeting (AM) Sudan",
+   "url": "https://press.un.org/en/blog/sc16481",
+   "published": "2026-10-16T10:56:45+00:00",
+   "summary": "At 10 a.m., the Security Council will hold a briefing on Sudan, held pursuant to resolution 2715 (2023), which requested the Secretary-General to provide a briefing every 120 days on the UN’s “efforts to support Sudan on its path towards peace and stability”. Under-Secretary-General for Political and Peacebuilding Affairs Rosemary DiCarlo is expected to brief.",
+   "tags": [],
    "highlight": false
   },
   {
@@ -591,27 +611,6 @@
    "summary": "Ukrainians accuse the US of gambling with their lives as Russian strikes devastated residential buildings in the capital",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Video post from October 15, 2026",
-   "url": "https://www.trumpstruth.org/statuses/42369",
-   "published": "2026-10-15T13:11:38+00:00",
-   "summary": "View video",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Ukrainians fear US intelligence cuts as Russian strikes intensify",
-   "url": "https://www.aljazeera.com/news/2026/10/15/ukrainians-fear-us-intelligence-cuts-as-russian-strikes-intensify?traffic_source=rss",
-   "published": "2026-10-15T11:45:39+00:00",
-   "summary": "Reduced missile warnings increase threat to civilians as Trump pushes an &#039;energy ceasefire&#039; and peace negotiations.",
-   "tags": [
-    "strikes",
-    "diplomacy"
    ],
    "highlight": false
   }
