@@ -1,6 +1,50 @@
 {
- "asOf": "2026-10-16T13:22:36.264222+00:00",
+ "asOf": "2026-10-16T13:51:36.093928+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Palestinians, US journalist attacked in West Bank pogrom: What we know",
+   "url": "https://www.aljazeera.com/news/2026/10/16/palestinians-us-journalist-attacked-in-west-bank-pogrom-what-we-know?traffic_source=rss",
+   "published": "2026-10-16T13:26:47+00:00",
+   "summary": "Israeli settlers attacked Palestinians harvesting olives and severely beat Washington Post photojournalist Heidi Levine.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Spain punished by FIFA for Islamophobic chants during Egypt friendly",
+   "url": "https://www.aljazeera.com/sports/2026/10/16/spain-punished-by-fifa-for-islamophobic-chants-in-egypt-friendly?traffic_source=rss",
+   "published": "2026-10-16T13:13:12+00:00",
+   "summary": "Spain sanctioned by FIFA after incidents at Espanyol&#039;s stadium in Barcelona, which staged the friendly with Egypt.",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Israeli settlers continue pogrom amid olive harvest in occupied West Bank",
+   "url": "https://www.aljazeera.com/news/2026/10/16/israeli-settlers-continue-progrom-amid-olive-harvest-in-occupied-west-bank?traffic_source=rss",
+   "published": "2026-10-16T13:04:32+00:00",
+   "summary": "At least two people, including Washington Post journalist, injured as settlers armed with clubs and guns attack.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "How UN chief Antonio Guterres tests the limits of quiet diplomacy",
+   "url": "https://www.aljazeera.com/features/longform/2026/10/16/how-un-chief-antonio-guterres-tests-the-limits-of-quiet-diplomacy?traffic_source=rss",
+   "published": "2026-10-16T12:57:47+00:00",
+   "summary": "Portugal&#039;s ex-PM seeks to resolve crises via patient negotiation, but success relies on leaders&#039; willingness to act.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Fuel tanker fire engulfs market in southern Nigeria",
@@ -572,47 +616,6 @@
     "diplomacy"
    ],
    "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Video post from October 15, 2026",
-   "url": "https://www.trumpstruth.org/statuses/42370",
-   "published": "2026-10-15T13:48:48+00:00",
-   "summary": "View video",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Video post from October 15, 2026",
-   "url": "https://www.trumpstruth.org/statuses/42371",
-   "published": "2026-10-15T13:48:43+00:00",
-   "summary": "View video",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Russia accuses Ukraine of contradicting US brokered deal",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/russia-accuses-ukraine-of-contradicting-us-brokered-deal?traffic_source=rss",
-   "published": "2026-10-15T13:29:38+00:00",
-   "summary": "Russia has accused Ukraine of going against US peace efforts, after an overnight Ukrainian drone strike.",
-   "tags": [
-    "strikes",
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Ukrainians lash out at Trump as Zelenskyy warns of US betrayal",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/10-15-ukraine-angry-at-us-sv?traffic_source=rss",
-   "published": "2026-10-15T13:19:09+00:00",
-   "summary": "Ukrainians accuse the US of gambling with their lives as Russian strikes devastated residential buildings in the capital",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
   }
  ]
 }
