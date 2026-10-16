@@ -1,6 +1,27 @@
 {
- "asOf": "2026-10-16T17:17:55.042595+00:00",
+ "asOf": "2026-10-16T17:50:50.292535+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Ukraine repels Russian forces as US support wavers, energy strikes escalate",
+   "url": "https://www.aljazeera.com/news/2026/10/16/ukraine-repels-russian-forces-as-us-support-wavers-energy-strikes-escalate?traffic_source=rss",
+   "published": "2026-10-16T17:28:41+00:00",
+   "summary": "Ukraine’s &#039;Operation Vivaldi&#039; reclaimed more occupied territory in Donetsk, as Trump helped Russia with a diesel deal.",
+   "tags": [
+    "strikes",
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "UN Press",
+   "title": "‘There Is No Time to Waste’, Secretary-General Tells Biodiversity Summit, Urging Action to Protect Nature",
+   "url": "https://press.un.org/en/2026/sgsm23334.doc.htm",
+   "published": "2026-10-16T17:02:03+00:00",
+   "summary": "Following are UN Secretary-General António Guterres’ remarks to the Leaders’ Summit on Biodiversity, at the seventeenth meeting of the Conference of the Parties to the Convention on Biological Diversity, in Yerevan today:",
+   "tags": [],
+   "highlight": false
+  },
   {
    "source": "White House",
    "title": "President Trump Returns to Georgia with a Record of Results",
@@ -597,28 +618,6 @@
    "published": "2026-10-15T15:41:55+00:00",
    "summary": "President Donald J. Trump and Republicans have delivered the most secure border in American history, with illegal crossings plummeting to record lows and U.S. Customs and Border Protection now recording 16 consecutive months with zero illegal aliens released at the border. Meanwhile, Extreme Liberal Democrats are pushing to reopen the southern border, end mass deportations, [&#8230;] The post Bomb",
    "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Syrian court sentences two to death over 2025 coastal violence",
-   "url": "https://www.aljazeera.com/news/2026/10/15/syrian-court-sentences-two-to-death-over-2025-coastal-violence?traffic_source=rss",
-   "published": "2026-10-15T15:19:18+00:00",
-   "summary": "Court rulings concern violence and killings during March 2025 uprising by pro-Assad forces and retaliatory attacks.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Russian jet-powered drone hits supermarket in Ukraine’s Odesa",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/russian-jet-powered-drone-hits-supermarket-in-ukraines-odesa?traffic_source=rss",
-   "published": "2026-10-15T15:13:18+00:00",
-   "summary": "Ukrainian authorities say a Russian jet-powered drone struck a supermarket in its Odesa region on Thursday.",
-   "tags": [
-    "strikes"
-   ],
    "highlight": false
   }
  ]
