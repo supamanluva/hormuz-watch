@@ -1,6 +1,17 @@
 {
- "asOf": "2026-10-16T14:23:07.378180+00:00",
+ "asOf": "2026-10-16T14:52:07.995890+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Army spokesman vows new plans to drive American vessels farther off",
+   "url": "https://en.irna.ir/news/86294199/Army-spokesman-vows-new-plans-to-drive-American-vessels-farther",
+   "published": "2026-10-16T14:23:40+00:00",
+   "summary": "Tehran, IRNA — Iran’s Army spokesman, commenting on the pullback of American vessels to over 500 kilometers from Iran’s coastline, says that new operational plans are underway and will soon compel US vessels to withdraw even farther from the region.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "How Israeli firm’s ‘zero-click’ malware attack poses global security risk",
@@ -607,15 +618,6 @@
    "tags": [
     "strikes"
    ],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "ICYMI: “Largest-ever federal anti-transnational crime operation nets 1,296 Tren de Aragua arrests nationwide”",
-   "url": "https://www.whitehouse.gov/releases/2026/10/icymi-largest-ever-federal-anti-transnational-crime-operation-nets-1296-tren-de-aragua-arrests-nationwide/",
-   "published": "2026-10-15T14:30:45+00:00",
-   "summary": "President Donald J. Trump is systematically dismantling the bloodthirsty Tren de Aragua gang that Biden’s open borders allowed to pour into American communities. The Trump Administration has launched the largest federal campaign against transnational crime in U.S. history — identifying, arresting, and removing these vicious foreign criminals and driving violent crime down nationwide. The Washingto",
-   "tags": [],
    "highlight": false
   }
  ]
