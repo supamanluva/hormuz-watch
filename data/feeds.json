@@ -1,6 +1,29 @@
 {
- "asOf": "2026-10-16T11:19:43.832058+00:00",
+ "asOf": "2026-10-16T11:50:24.814034+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Malaysia’s welcome for Min Aung Hlaing undermines its stand on justice",
+   "url": "https://www.aljazeera.com/opinions/2026/10/16/malaysias-welcome-for-min-aung-hlaing-undermines-its-stand-on-justice?traffic_source=rss",
+   "published": "2026-10-16T11:32:50+00:00",
+   "summary": "As the US attacks the ICC, Kuala Lumpur welcomes a leader the court’s prosecutor wants arrested.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "US in ‘denuclearisation’ talks with Russia and China: Trump",
+   "url": "https://www.aljazeera.com/news/2026/10/16/us-in-denuclearisation-talks-with-russia-and-china-trump?traffic_source=rss",
+   "published": "2026-10-16T11:28:12+00:00",
+   "summary": "US and Russia each have more than 4,000 warheads. China set to catch up with them within five years, Trump says.",
+   "tags": [
+    "diplomacy",
+    "nuclear"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Poland scrambles fighter jets as Russia strikes western Ukraine",
@@ -589,28 +612,6 @@
    "tags": [
     "strikes",
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "US-Iran stalemate: What are Trump’s next military options?",
-   "url": "https://www.aljazeera.com/news/2026/10/15/us-iran-stalemate-what-are-trumps-next-military-options?traffic_source=rss",
-   "published": "2026-10-15T11:41:05+00:00",
-   "summary": "Trump has ruled out attacks before the midterms. Analysts weigh what he could do next, and at what cost.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "IRNA chief calls for documenting evidence of US-Israeli attacks",
-   "url": "https://en.irna.ir/news/86293499/IRNA-chief-calls-for-documenting-evidence-of-US-Israeli-attacks",
-   "published": "2026-10-15T10:53:24+00:00",
-   "summary": "Shiraz, IRNA – IRNA CEO Hossein Jaberi Ansari has called for comprehensive documentation and preservation of evidence from US and Israeli attacks on Iranian cities.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   }
