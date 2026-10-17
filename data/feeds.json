@@ -1,5 +1,5 @@
 {
- "asOf": "2026-10-17T02:27:57.547703+00:00",
+ "asOf": "2026-10-17T02:52:52.307010+00:00",
  "items": [
   {
    "source": "Trump · Truth Social",
@@ -50,12 +50,13 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "Iran war live: Trump claims US Navy blockade stops Iranian ships in Hormuz",
+   "title": "Iran war live: IRGC says supertanker hit naval mine in Hormuz, catches fire",
    "url": "https://www.aljazeera.com/news/liveblog/2026/10/17/draft-2?traffic_source=rss",
    "published": "2026-10-17T00:00:00+00:00",
-   "summary": "Trump says the US Navy blockade has stopped all Iranian ships from crossing the Strait of Hormuz.",
+   "summary": "Iran’s IRGC says an oil supertanker is on fire in the Strait of Hormuz after striking a naval mine.",
    "tags": [
-    "shipping"
+    "shipping",
+    "oil"
    ],
    "highlight": false
   },
