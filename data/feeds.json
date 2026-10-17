@@ -1,6 +1,28 @@
 {
- "asOf": "2026-10-17T17:16:17.478850+00:00",
+ "asOf": "2026-10-17T17:49:48.424602+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Trump faces bipartisan backlash over Russia sanctions waiver",
+   "url": "https://www.aljazeera.com/news/2026/10/17/trump-faces-bipartisan-backlash-over-russia-sanctions-waiver?traffic_source=rss",
+   "published": "2026-10-17T17:24:07+00:00",
+   "summary": "Republicans and Democrats condemn Trump’s decision to suspend sanctions, saying it undermines support for Ukraine.",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Jerusalem Daily: Israeli settlers attack farmers and journalists",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/aje-onl-nf_yt-dnrbltn-261017-salehm-jerusalem_daily-171026?traffic_source=rss",
+   "published": "2026-10-17T17:18:50+00:00",
+   "summary": "After Israeli settlers beat and severely wounded Palestinian farmers, settler violence continues.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "Darline Graham has my Complete and Total Endorsement for Re-Election as U.S. Senator from South Carolina — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
@@ -18,6 +40,17 @@
    "summary": "Russell Fry has my Complete and Total Endorsement for Re-Election as U.S. Representative from South Carolina’s 7th Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP View video",
    "tags": [],
    "highlight": true
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Egypt’s el-Sisi vows to defend Saudi Arabia from Houthi attacks",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/10-17-egypt-saudi-houths-clip?traffic_source=rss",
+   "published": "2026-10-17T16:49:07+00:00",
+   "summary": "Egyptian President Abdel Fattah el-Sisi has vowed to take &#039;any measure&#039; to defend Saudi Arabia amid Houthi attacks.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
   },
   {
    "source": "Trump · Truth Social",
@@ -64,10 +97,10 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "Child, four women among Palestinians injured in West Bank pogroms",
+   "title": "Israeli settlers attack European diplomats during West Bank olive harvest",
    "url": "https://www.aljazeera.com/news/2026/10/17/several-palestinians-injured-detained-in-ongoing-west-bank-pogrom?traffic_source=rss",
    "published": "2026-10-17T12:48:03+00:00",
-   "summary": "Attacks follow a religious edict by a prominent far-right rabbi permitting the seizure of Palestinian olives.",
+   "summary": "Four Palestinian women and a child are among those injured in separate ongoing Israeli assaults and pogroms.",
    "tags": [
     "strikes"
    ],
@@ -591,39 +624,6 @@
    "summary": "Israeli settlers attacked Palestinians harvesting olives and severely beat Washington Post photojournalist Heidi Levine.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Spain punished by FIFA for Islamophobic chants during Egypt friendly",
-   "url": "https://www.aljazeera.com/sports/2026/10/16/spain-punished-by-fifa-for-islamophobic-chants-in-egypt-friendly?traffic_source=rss",
-   "published": "2026-10-16T13:13:12+00:00",
-   "summary": "Spain sanctioned by FIFA after incidents at Espanyol&#039;s stadium in Barcelona, which staged the friendly with Egypt.",
-   "tags": [
-    "sanctions"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Israeli settlers continue pogrom amid olive harvest in occupied West Bank",
-   "url": "https://www.aljazeera.com/news/2026/10/16/israeli-settlers-continue-progrom-amid-olive-harvest-in-occupied-west-bank?traffic_source=rss",
-   "published": "2026-10-16T13:04:32+00:00",
-   "summary": "At least two people, including a Washington Post journalist, injured as settlers armed with clubs and guns attack.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "How UN chief Antonio Guterres tests the limits of quiet diplomacy",
-   "url": "https://www.aljazeera.com/features/longform/2026/10/16/how-un-chief-antonio-guterres-tests-the-limits-of-quiet-diplomacy?traffic_source=rss",
-   "published": "2026-10-16T12:57:47+00:00",
-   "summary": "Portugal&#039;s ex-PM seeks to resolve crises via patient negotiation, but success relies on leaders&#039; willingness to act.",
-   "tags": [
-    "diplomacy"
    ],
    "highlight": false
   }
