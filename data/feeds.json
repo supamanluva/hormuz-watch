@@ -1,6 +1,18 @@
 {
- "asOf": "2026-10-17T13:17:28.108928+00:00",
+ "asOf": "2026-10-17T14:00:58.367762+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Second supertanker explodes after hitting mine in Strait of Hormuz: IRGC Navy",
+   "url": "https://en.irna.ir/news/86295178/Second-supertanker-explodes-after-hitting-mine-in-Strait-of-Hormuz",
+   "published": "2026-10-17T13:41:49+00:00",
+   "summary": "Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) Navy has reported an explosion aboard a second supertanker following a collision with a naval mine in the Strait of Hormuz.",
+   "tags": [
+    "strikes",
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Child, four women among Palestinians injured in West Bank pogroms",
@@ -617,17 +629,6 @@
    "summary": "Countries along NATO’s eastern flank growing increasingly concerned about the risk of escalation of the war in Ukraine.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iranian president, Georgian PM discuss bilateral ties",
-   "url": "https://en.irna.ir/news/86294120/Iranian-president-Georgian-PM-discuss-bilateral-ties",
-   "published": "2026-10-16T10:35:33+00:00",
-   "summary": "Tehran, IRNA – Iranian President Masoud Pezeshkian and Georgian Prime Minister Irakli Kobakhidze have held talks on bilateral relations and cooperation between the two countries.",
-   "tags": [
-    "diplomacy"
    ],
    "highlight": false
   }
