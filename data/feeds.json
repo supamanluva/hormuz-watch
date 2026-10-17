@@ -1,6 +1,19 @@
 {
- "asOf": "2026-10-17T20:19:40.104905+00:00",
+ "asOf": "2026-10-17T21:16:37.607745+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Iranian TV airs video said to show tanker explosion in Hormuz",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/iranian-tv-airs-video-said-to-show-tanker-explosion-in-hormuz?traffic_source=rss",
+   "published": "2026-10-17T20:02:22+00:00",
+   "summary": "Iranian state TV aired footage claiming to show an oil tanker exploding after striking a naval mine in Hormuz",
+   "tags": [
+    "strikes",
+    "shipping",
+    "oil"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Israeli drone attacks kill six Palestinians across Gaza despite ‘ceasefire’",
@@ -605,17 +618,6 @@
    "url": "https://en.irna.ir/news/86294329/Iran-envoy-Vietnam-TV-chief-discuss-media-cooperation",
    "published": "2026-10-16T16:27:28+00:00",
    "summary": "Tehran, IRNA — Iran’s ambassador to Hanoi and the head of Vietnam Television exchanged views on expanding cooperation between the radio and television organizations of the two countries.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran’s envoy: US’ new threats show desperation, confusion",
-   "url": "https://en.irna.ir/news/86294257/Iran-s-envoy-US-new-threats-show-desperation-confusion",
-   "published": "2026-10-16T15:03:18+00:00",
-   "summary": "London, IRNA — Iran’s ambassador to Berlin has pointed to a German newspaper report questioning whether the ‘mother of all bombs’ would even work against Iran, calling the US threat to use such a weapon a sign that warmongers are desperate and confused in the face of Iranian resilience.",
    "tags": [
     "diplomacy"
    ],
