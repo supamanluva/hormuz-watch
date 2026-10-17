@@ -1,6 +1,29 @@
 {
- "asOf": "2026-10-17T12:05:14.201579+00:00",
+ "asOf": "2026-10-17T12:54:10.214798+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Child, four women among Palestinians injured in West Bank pogroms",
+   "url": "https://www.aljazeera.com/news/2026/10/17/several-palestinians-injured-detained-in-ongoing-west-bank-pogrom?traffic_source=rss",
+   "published": "2026-10-17T12:48:03+00:00",
+   "summary": "Attacks follow a religious edict by a prominent far-right rabbi permitting the seizure of Palestinian olives.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "US and Iran both claim control of Strait of Hormuz amid attacks on vessels",
+   "url": "https://www.aljazeera.com/news/2026/10/17/us-and-iran-both-claim-control-of-strait-of-hormuz-amid-attacks-on-vessels?traffic_source=rss",
+   "published": "2026-10-17T12:10:56+00:00",
+   "summary": "Two vessels have been struck with naval mines in the Strait of Hormuz this week.",
+   "tags": [
+    "strikes",
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Iran opens 3rd Specialized School of Standards in Nuclear Industry",
@@ -605,28 +628,6 @@
    "summary": "Tehran, IRNA – Iranian President Masoud Pezeshkian and Georgian Prime Minister Irakli Kobakhidze have held talks on bilateral relations and cooperation between the two countries.",
    "tags": [
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "President Pezeshkian, Armenian PM discuss bilateral ties",
-   "url": "https://en.irna.ir/news/86294115/President-Pezeshkian-Armenian-PM-discuss-bilateral-ties",
-   "published": "2026-10-16T10:30:55+00:00",
-   "summary": "Tehran, IRNA – Iranian President Masoud Pezeshkian and Armenian Prime Minister Nikol Pashinyan have held talks on bilateral relations and cooperation between the two neighboring countries.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Trump rules out using a nuclear bomb on Iran: Why that matters",
-   "url": "https://www.aljazeera.com/news/2026/10/16/trump-rules-out-using-a-nuclear-bomb-on-iran-why-that-matters?traffic_source=rss",
-   "published": "2026-10-16T10:21:12+00:00",
-   "summary": "It is the first time the president has addressed nuclear weapons, but he didn&#039;t deny US could use &#039;mother of all bombs&#039;.",
-   "tags": [
-    "nuclear"
    ],
    "highlight": false
   }
