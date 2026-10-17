@@ -1,6 +1,17 @@
 {
- "asOf": "2026-10-16T23:49:58.123347+00:00",
+ "asOf": "2026-10-17T00:51:00.907642+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Iran war live: Trump claims US Navy blockade stops Iranian ships in Hormuz",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/10/17/draft-2?traffic_source=rss",
+   "published": "2026-10-17T00:00:00+00:00",
+   "summary": "Trump says the US Navy blockade has stopped all Iranian ships from crossing the Strait of Hormuz.",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Yemen’s government says Houthis fired two missiles at Aden airport",
@@ -606,15 +617,6 @@
    "tags": [
     "strikes"
    ],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General",
-   "url": "https://press.un.org/en/2026/db261015.doc.htm",
-   "published": "2026-10-15T21:41:03+00:00",
-   "summary": "In Afghanistan, the Food and Agriculture Organization (FAO) and the World Food Programme (WFP) warn that food insecurity and child malnutrition are worsening, despite a strong agricultural season.",
-   "tags": [],
    "highlight": false
   }
  ]
