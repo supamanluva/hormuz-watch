@@ -1,6 +1,17 @@
 {
- "asOf": "2026-10-17T14:50:16.798925+00:00",
+ "asOf": "2026-10-17T15:17:35.969940+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iranian, Lebanese FM hold talks on sidelines of OIC summit in Baghdad",
+   "url": "https://en.irna.ir/news/86295264/Iranian-Lebanese-FM-hold-talks-on-sidelines-of-OIC-summit-in",
+   "published": "2026-10-17T15:08:13+00:00",
+   "summary": "Tehran, IRNA – Foreign Minister Seyyed Abbas Araghchi has met with his Lebanese counterpart Youssef Rajji on the sidelines of the Organization of Islamic Cooperation (OIC)’s Council of Foreign Ministers’ meeting in Baghdad, the capital of Iraq.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Second supertanker explodes after hitting mine in Strait of Hormuz: IRGC Navy",
@@ -619,17 +630,6 @@
    "published": "2026-10-16T10:56:45+00:00",
    "summary": "At 10 a.m., the Security Council will hold a briefing on Sudan, held pursuant to resolution 2715 (2023), which requested the Secretary-General to provide a briefing every 120 days on the UN’s “efforts to support Sudan on its path towards peace and stability”. Under-Secretary-General for Political and Peacebuilding Affairs Rosemary DiCarlo is expected to brief.",
    "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Poland scrambles fighter jets as Russia strikes western Ukraine",
-   "url": "https://www.aljazeera.com/news/2026/10/16/poland-scrambles-fighter-jets-as-russia-strikes-western-ukraine?traffic_source=rss",
-   "published": "2026-10-16T10:56:20+00:00",
-   "summary": "Countries along NATO’s eastern flank growing increasingly concerned about the risk of escalation of the war in Ukraine.",
-   "tags": [
-    "strikes"
-   ],
    "highlight": false
   }
  ]
