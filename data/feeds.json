@@ -1,6 +1,28 @@
 {
- "asOf": "2026-10-17T11:19:39.091575+00:00",
+ "asOf": "2026-10-17T12:05:14.201579+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran opens 3rd Specialized School of Standards in Nuclear Industry",
+   "url": "https://en.irna.ir/news/86295060/Iran-opens-3rd-Specialized-School-of-Standards-in-Nuclear-Industry",
+   "published": "2026-10-17T12:03:32+00:00",
+   "summary": "Tehran, IRNA – Iran has inaugurated its Third Specialized School of Standards in the Nuclear Industry, with Mohammad Eslami, Head of the Atomic Energy Organization of Iran (AEOI), in attendance.",
+   "tags": [
+    "nuclear"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Russian strikes kill civilians, injure dozens across Ukraine",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/russian-strikes-kill-civilians-injure-dozens-across-ukraine?traffic_source=rss",
+   "published": "2026-10-17T11:22:41+00:00",
+   "summary": "At least eight people have been killed and nearly 60 injured in the latest wave of Russian strikes across Ukraine.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Trump eases Russia oil sanctions, but is Europe still buying Moscow’s gas?",
@@ -605,28 +627,6 @@
    "summary": "It is the first time the president has addressed nuclear weapons, but he didn&#039;t deny US could use &#039;mother of all bombs&#039;.",
    "tags": [
     "nuclear"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Pezeshkian urges int’l support for countries facing environmental costs of war, sanctions",
-   "url": "https://en.irna.ir/news/86294009/Pezeshkian-urges-int-l-support-for-countries-facing-environmental",
-   "published": "2026-10-16T09:22:49+00:00",
-   "summary": "Tehran, IRNA – Iranian President Masoud Pezeshkian has reaffirmed the country’s commitment to biodiversity conservation, urging the international community to ensure that countries facing sanctions or military aggression do not bear the environmental costs alone.",
-   "tags": [
-    "sanctions"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "China-North Korea border bridge may do little to spur trade, experts say",
-   "url": "https://www.aljazeera.com/economy/2026/10/16/china-north-korea-border-bridge-may-do-little-to-spur-trade-experts-say?traffic_source=rss",
-   "published": "2026-10-16T09:21:40+00:00",
-   "summary": "Sanctions and a North Korean leadership that prioritises security dim prospects for trade, analysts say.",
-   "tags": [
-    "sanctions"
    ],
    "highlight": false
   }
