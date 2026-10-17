@@ -1,6 +1,107 @@
 {
- "asOf": "2026-10-17T04:54:41.788384+00:00",
+ "asOf": "2026-10-17T08:44:51.090622+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "IRGC Navy warns vessels violating Strait of Hormuz rules",
+   "url": "https://en.irna.ir/news/86294797/IRGC-Navy-warns-vessels-violating-Strait-of-Hormuz-rules",
+   "published": "2026-10-17T08:38:33+00:00",
+   "summary": "Tehran, IRNA — The Islamic Revolution Guards Corps (IRGC) Navy says that ships violating Iranian regulations in the Strait of Hormuz will ultimately “burn in the fire of trusting the terrorist US military.”",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Exclusive | Envoy: Iran calls for regional security without foreign interference at OIC meeting",
+   "url": "https://en.irna.ir/news/86294795/Exclusive-Envoy-Iran-calls-for-regional-security-without-foreign",
+   "published": "2026-10-17T08:33:43+00:00",
+   "summary": "Tehran, IRNA – Iran will emphasize regional security arrangements free from foreign interference, opposition to Israeli military acts of aggression, and stronger economic cooperation among Islamic countries at the 52nd session of the Council of Foreign Ministers of the Organization of Islamic Cooperation (OIC), Iran’s ambassador to Iraq, Mohammad Kazem Al-e Sadegh, told IRNA.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran says all-front ceasefire essential to ending regional war",
+   "url": "https://en.irna.ir/news/86294695/Iran-says-all-front-ceasefire-essential-to-ending-regional-war",
+   "published": "2026-10-17T07:38:22+00:00",
+   "summary": "Tehran, IRNA — Iran’s Deputy Foreign Minister Saeed Khatibzadeh says ending the war on all fronts is a key condition for peace, stressing that continued fighting in any part of the region would mean the war persists across the region.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran’s missile power has changed equations: Acting defense minister",
+   "url": "https://en.irna.ir/news/86294722/Iran-s-missile-power-has-changed-equations-Acting-defense-minister",
+   "published": "2026-10-17T07:34:47+00:00",
+   "summary": "Tehran, IRNA – Iran’s Acting Defense Minister Brigadier General Majid Ibn al-Reza says the country’s missile capabilities have changed the equations, stressing that the size and names of bombs are not what matter.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Can Yemen’s government forces sustain their offensive against the Houthis?",
+   "url": "https://www.aljazeera.com/news-analysis/2026/10/17/can-yemens-government-forces-sustain-their-offensive-against-the-houthis?traffic_source=rss",
+   "published": "2026-10-17T06:41:34+00:00",
+   "summary": "Houthi missile strikes threaten key supply routes on Yemen&#039;s Red Sea coast, intensifying pressure on government forces.",
+   "tags": [
+    "strikes",
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Lavrov to visit Tehran in coming days",
+   "url": "https://en.irna.ir/news/86294536/Lavrov-to-visit-Tehran-in-coming-days",
+   "published": "2026-10-17T05:42:17+00:00",
+   "summary": "Moscow, IRNA – Russian Foreign Ministry spokesperson Maria Zakharova announces that Foreign Minister Sergei Lavrov is to hold talks with his Iranian counterpart, Abbas Araghchi, during an official visit to Tehran on Monday.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Oil supertanker catches fire after striking mine in Strait of Hormuz: IRGC Navy",
+   "url": "https://en.irna.ir/news/86294516/Oil-supertanker-catches-fire-after-striking-mine-in-Strait-of",
+   "published": "2026-10-17T05:22:30+00:00",
+   "summary": "Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) Navy says a supertanker carrying more than two million barrels of crude oil caught fire after striking a naval mine while attempting to cross the Strait of Hormuz through an unauthorized route.",
+   "tags": [
+    "shipping",
+    "oil"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Russian attacks in Ukraine kill at least 8, cut power to 1 million",
+   "url": "https://www.aljazeera.com/news/2026/10/17/russian-attacks-in-ukraine-kill-at-least-8-cut-power-to-1-million?traffic_source=rss",
+   "published": "2026-10-17T05:19:19+00:00",
+   "summary": "Russia strikes Kharkiv, Kramatorsk, Volyn and Rivne as Moscow presses its campaign against Ukraine&#039;s power grid.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Trump waives Russia sanctions as rift with Zelenskyy widens",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/trump-waives-russia-sanctions-as-rift-with-zelenskyy-widens?traffic_source=rss",
+   "published": "2026-10-17T04:58:32+00:00",
+   "summary": "US President Donald Trump has waived more sanctions on Russia in a bid to ease energy prices.",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Trump puts on hold new Russia sanctions he signed into law",
@@ -12,6 +113,24 @@
     "diplomacy"
    ],
    "highlight": false
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "Best in History!",
+   "url": "https://www.trumpstruth.org/statuses/42396",
+   "published": "2026-10-17T04:11:12+00:00",
+   "summary": "Best in History! View image",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "Image post from October 17, 2026",
+   "url": "https://www.trumpstruth.org/statuses/42397",
+   "published": "2026-10-17T04:10:57+00:00",
+   "summary": "View image View image View image",
+   "tags": [],
+   "highlight": true
   },
   {
    "source": "Trump · Truth Social",
@@ -505,119 +624,6 @@
     "nuclear"
    ],
    "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Strait of Hormuz to remain closed until Iran’s rights are respected: Army chief",
-   "url": "https://en.irna.ir/news/86293921/Strait-of-Hormuz-to-remain-closed-until-Iran-s-rights-are-respected",
-   "published": "2026-10-16T06:37:27+00:00",
-   "summary": "Tehran, IRNA – Chief Commander of the Islamic Republic of Iran Army Major General Amir Hatami has highlighted the enemy’s miscalculations in the recent war, stressing that the Strait of Hormuz would remain closed until the rights of the Iranian people are respected.",
-   "tags": [
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Alone in Gaza: Genocide leaves Palestinian man without family or a home",
-   "url": "https://www.aljazeera.com/features/2026/10/16/alone-in-gaza-genocide-leaves-palestinian-man-without-family-or-a-home?traffic_source=rss",
-   "published": "2026-10-16T05:55:23+00:00",
-   "summary": "One man wanders Gaza in search of somewhere to sleep, having lost his family in an Israeli strike.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "US sanctions leave Iranians facing flight cancellations and soaring costs",
-   "url": "https://www.aljazeera.com/news-analysis/2026/10/16/us-sanctions-leave-iranians-facing-flight-cancellations-and-soaring-costs?traffic_source=rss",
-   "published": "2026-10-16T05:51:40+00:00",
-   "summary": "New US aviation sanctions force Iranians to take longer, costlier journeys as international flight routes disappear.",
-   "tags": [
-    "sanctions"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Great Pollster Matt Towery was fantastic on Sean Hannity tonight. Looking good for Republicans! President DJT",
-   "url": "https://www.trumpstruth.org/statuses/42382",
-   "published": "2026-10-16T05:13:07+00:00",
-   "summary": "Great Pollster Matt Towery was fantastic on Sean Hannity tonight. Looking good for Republicans! President DJT",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "James TalaFREAKO, who is running for U.S. Senate against the greatest Attorney General in the history of Texas, recently stated, with a large mask covering his face as he spoke, that, “FOSSIL FUELS ARE DESTROYING THE PLANET.” In other words, no more drilling for Oil in Texas. That should be the end of his campaign!!! President DJT",
-   "url": "https://www.trumpstruth.org/statuses/42381",
-   "published": "2026-10-16T04:52:55+00:00",
-   "summary": "James TalaFREAKO, who is running for U.S. Senate against the greatest Attorney General in the history of Texas, recently stated, with a large mask covering his face as he spoke, that, “FOSSIL FUELS ARE DESTROYING THE PLANET.” In other words, no more drilling for Oil in Texas. That should be the end of his campaign!!! President DJT",
-   "tags": [
-    "oil"
-   ],
-   "highlight": true
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Myanmar’s coup leader-turned-president wins back neighbours despite war",
-   "url": "https://www.aljazeera.com/news/2026/10/16/as-war-rages-myanmars-coup-leader-turned-president-wins-back-neighbours?traffic_source=rss",
-   "published": "2026-10-16T01:34:47+00:00",
-   "summary": "ASEAN leaders are embracing Min Aung Hlaing, but critics warn it emboldens a military still bombing civilians.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iran war live: Trump says ground troops unlikely in Iran; Saudi downs drone",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/10/16/iran-war-live-saudi-blasts-houthi-war-crimes-us-warns-on-saudi-airports?traffic_source=rss",
-   "published": "2026-10-16T00:02:37+00:00",
-   "summary": "President Trump says deployment of ground troops to Iran unlikely as Saudi Arabia downs drone in its Eastern Province.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "Congressional Bills S. 240, S. 283, and S. 2403 Signed into Law",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/10/congressional-bills-s-240-s-283-and-s-2403-signed-into-law/",
-   "published": "2026-10-15T23:48:26+00:00",
-   "summary": "On&#160;Thursday,&#160;October&#160;15,&#160;2026, the President signed into law: S. 240, the &#8220;Crow Tribe Water Rights Settlement Amendments Act of 2025,&#8221;&#160;which amends the Crow Tribe Water Rights Settlement Act of 2010 to provide more flexibility to complete certain water projects on the Crow Tribe&#8217;s reservation in Montana; S. 283, the &#8220;Illegal Red Snapper and Tuna Enf",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Video post from October 15, 2026",
-   "url": "https://www.trumpstruth.org/statuses/42380",
-   "published": "2026-10-15T23:37:15+00:00",
-   "summary": "View video",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Two Syrian pipelines damaged amid spate of attacks on energy infrastructure",
-   "url": "https://www.aljazeera.com/economy/2026/10/15/two-syrian-pipelines-damaged-amid-spate-of-attacks-on-energy-infrastructure?traffic_source=rss",
-   "published": "2026-10-15T23:35:26+00:00",
-   "summary": "Fuel theft cited in Baniyas-Homs leak as gas export line in Hasakah catches fire.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Hello Iowa! I am going to be coming to your Great State, which I won in Landslides all three times, with the Highest Vote ever obtained by a Political Candidate (for any Office!), on Thursday, October 22nd, and Sunday, November 1st. The reason I’ll be there is to get truly fantastic Warriors elected, including Ashley Hinson for U.S. Senate, Zach Lahn for Governor, Mariannette Miller-Meeks for Iowa’s 1st Congressional District, Joe Mitchell for the 2nd District, Zach Nunn for the 3rd District, and Chris McGowan for the 4th District — They are all spectacular people, and have my Complete and Total Endorsement. I will see you on October 22nd, and again on November 1st, where we will have two spectacular Rallies honoring all of the above — and more. THANK YOU IOWA FOR YOUR GREAT SUPPORT — I WILL NEVER LET YOU DOWN, AND NEITHER WILL ANY OF OUR GREAT REPUBLICAN CANDIDATES! President DONALD J. TRUMP",
-   "url": "https://www.trumpstruth.org/statuses/42379",
-   "published": "2026-10-15T23:17:18+00:00",
-   "summary": "Hello Iowa! I am going to be coming to your Great State, which I won in Landslides all three times, with the Highest Vote ever obtained by a Political Candidate (for any Office!), on Thursday, October 22nd, and Sunday, November 1st. The reason I’ll be there is to get truly fantastic Warriors elected, including Ashley Hinson for U.S. Senate, Zach Lahn for Governor, Mariannette Miller-Meeks for Iowa",
-   "tags": [],
-   "highlight": true
   }
  ]
 }
