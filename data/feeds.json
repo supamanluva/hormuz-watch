@@ -1,6 +1,51 @@
 {
- "asOf": "2026-10-17T08:44:51.090622+00:00",
+ "asOf": "2026-10-17T11:19:39.091575+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Trump eases Russia oil sanctions, but is Europe still buying Moscow’s gas?",
+   "url": "https://www.aljazeera.com/news/2026/10/17/trump-eases-russia-oil-sanctions-but-is-europe-still-buying-moscows-gas?traffic_source=rss",
+   "published": "2026-10-17T11:10:22+00:00",
+   "summary": "Analysts say Russia will benefit most from US sanctions waiver.",
+   "tags": [
+    "sanctions",
+    "oil"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Sudan’s army claims dozens of RSF fighters killed in Nyala attack",
+   "url": "https://www.aljazeera.com/news/2026/10/17/2550?traffic_source=rss",
+   "published": "2026-10-17T09:44:47+00:00",
+   "summary": "Rapid Support Forces accuse army of killing 30 civilians in attack on Nyala&#039;s busy livestock market.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Houthis strike Yemen’s Aden: What that means",
+   "url": "https://www.aljazeera.com/news/2026/10/17/iran-backed-houthis-strike-yemens-aden-what-that-means?traffic_source=rss",
+   "published": "2026-10-17T09:16:48+00:00",
+   "summary": "What we know about the Houthi strikes on Aden’s presidential palace and airport, and why they matter.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Pezeshkian: Iran’s defense and missile capabilities owe much to universities and schools",
+   "url": "https://en.irna.ir/news/86294840/Pezeshkian-Iran-s-defense-and-missile-capabilities-owe-much",
+   "published": "2026-10-17T09:08:45+00:00",
+   "summary": "Tehran, IRNA – President Masoud Pezeshkian says Iran’s defense and missile capabilities are indebted to the role played by the country’s schools and universities, stressing the need to invest in younger generations to strengthen national security.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "IRGC Navy warns vessels violating Strait of Hormuz rules",
@@ -582,46 +627,6 @@
    "summary": "Sanctions and a North Korean leadership that prioritises security dim prospects for trade, analysts say.",
    "tags": [
     "sanctions"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "A great man!!! President DJTJustice Alito confirms he is considering retirement:",
-   "url": "https://www.trumpstruth.org/statuses/42384",
-   "published": "2026-10-16T08:47:45+00:00",
-   "summary": "A great man!!! President DJT Justice Alito confirms he is considering retirement: https://www. politico.com/news/2026/10/02/a lito-supreme-court-retirement-01105789",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "RT @mrddmiaSam Adkisson worked with me on the Senate Judiciary Committee for Justice Kavanaugh's confirmation.He is a friend, outstanding colleague, brilliant attorney, and committed constitutionalist.President Trump hit a grand-slam by picking Sam for a lifetime appointment to the federal bench in Tennessee.",
-   "url": "https://www.trumpstruth.org/statuses/42383",
-   "published": "2026-10-16T08:46:51+00:00",
-   "summary": "RT @ mrddmia Sam Adkisson worked with me on the Senate Judiciary Committee for Justice Kavanaugh's confirmation. He is a friend, outstanding colleague, brilliant attorney, and committed constitutionalist. President Trump hit a grand-slam by picking Sam for a lifetime appointment to the federal bench in Tennessee. Reposted 🇺🇸 Mike Davis 🇺🇸 RT: https://truthsocial.com/users/realDonaldTrump/statuses/",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Asian Cup in Saudi Arabia still on, organisers say, but golf tour postponed",
-   "url": "https://www.aljazeera.com/sports/2026/10/16/asian-cup-in-saudi-arabia-still-on-say-organisers-but-golf-tour-postponed?traffic_source=rss",
-   "published": "2026-10-16T08:36:54+00:00",
-   "summary": "Asian Cup preparations continue for January, but Asian Tour delays golf&#039;s Saudi Invitational after Houthi attacks.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Norway wealth fund urged to ease nuclear arms ban after Gaza investment row",
-   "url": "https://www.aljazeera.com/news/2026/10/16/norway-wealth-fund-urged-to-ease-nuclear-arms-ban-after-gaza-investment-row?traffic_source=rss",
-   "published": "2026-10-16T08:36:13+00:00",
-   "summary": "The review called for Norway&#039;s sovereign wealth fund to lift ethical risk limitations on its investments.",
-   "tags": [
-    "nuclear"
    ],
    "highlight": false
   }
