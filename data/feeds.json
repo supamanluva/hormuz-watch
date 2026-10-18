@@ -1,6 +1,17 @@
 {
- "asOf": "2026-10-18T14:04:55.269834+00:00",
+ "asOf": "2026-10-18T14:43:29.266939+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Sudan army accused of drone strike on livestock market",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/sudan-army-accused-of-drone-strike-on-livestock-market?traffic_source=rss",
+   "published": "2026-10-18T13:37:03+00:00",
+   "summary": "Sudan’s army says it struck RSF command centres in South Darfur, but the RSF says a crowded livestock market was hit.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Why have settler pogroms surged during olive harvest season in West Bank?",
@@ -426,17 +437,6 @@
    "summary": "Tehran, IRNA – Iran has inaugurated its Third Specialized School of Standards in the Nuclear Industry, with Mohammad Eslami, Head of the Atomic Energy Organization of Iran (AEOI), in attendance.",
    "tags": [
     "nuclear"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Russian strikes kill civilians, injure dozens across Ukraine",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/russian-strikes-kill-civilians-injure-dozens-across-ukraine?traffic_source=rss",
-   "published": "2026-10-17T11:22:41+00:00",
-   "summary": "At least eight people have been killed and nearly 60 injured in the latest wave of Russian strikes across Ukraine.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   },
