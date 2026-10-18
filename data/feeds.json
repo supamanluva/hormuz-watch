@@ -1,6 +1,51 @@
 {
- "asOf": "2026-10-17T22:50:08.114492+00:00",
+ "asOf": "2026-10-18T01:17:24.810063+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Israeli settlers attack European diplomats in the occupied West Bank",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/israeli-settlers-attack-european-diplomats-in-the-occupied-west-bank?traffic_source=rss",
+   "published": "2026-10-18T01:02:37+00:00",
+   "summary": "Masked Israeli settlers attacked European diplomats, a French mayor and Palestinians in the occupied West Bank.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Iran war live: Israeli settlers attack EU diplomats; drones target Riyadh",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tankers-hit-in-hormuz-israeli-settlers-attack-eu-diplomats?traffic_source=rss",
+   "published": "2026-10-18T00:00:11+00:00",
+   "summary": "Fires reported on three tankers, as masked settlers attack European politicians in the occupied West Bank.",
+   "tags": [
+    "strikes",
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "US ambassador urges Israel to prosecute attackers of American journalist",
+   "url": "https://www.aljazeera.com/news/2026/10/17/us-ambassador-calls-on-israel-to-prosecute-settlers-over-journalist-attack?traffic_source=rss",
+   "published": "2026-10-17T23:40:59+00:00",
+   "summary": "Trump-appointed Ambassador Mike Huckabee calls attack in occupied West Bank a &#039;despicable act of terror&#039;.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Saudi-led coalition intercepts drones as Egypt weighs sending help",
+   "url": "https://www.aljazeera.com/news/2026/10/17/saudi-led-coalition-intercepts-drones-as-egypt-weighs-sending-help?traffic_source=rss",
+   "published": "2026-10-17T23:21:57+00:00",
+   "summary": "Forces intercepted and destroyed four drones over Saudi Arabia&#039;s Riyadh, Eastern Province and southern region.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Iranian TV airs video said to show tanker explosion in Hormuz",
@@ -578,46 +623,6 @@
    "url": "https://www.aljazeera.com/news/2026/10/16/ukraine-repels-russian-forces-as-us-support-wavers-energy-strikes-escalate?traffic_source=rss",
    "published": "2026-10-16T17:28:41+00:00",
    "summary": "Ukraine’s &#039;Operation Vivaldi&#039; reclaimed more occupied territory in Donetsk during a week when Trump sided with Russia.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "‘There Is No Time to Waste’, Secretary-General Tells Biodiversity Summit, Urging Action to Protect Nature",
-   "url": "https://press.un.org/en/2026/sgsm23334.doc.htm",
-   "published": "2026-10-16T17:02:03+00:00",
-   "summary": "Following are UN Secretary-General António Guterres’ remarks to the Leaders’ Summit on Biodiversity, at the seventeenth meeting of the Conference of the Parties to the Convention on Biological Diversity, in Yerevan today:",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "President Trump Returns to Georgia with a Record of Results",
-   "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-returns-to-georgia-with-a-record-of-results/",
-   "published": "2026-10-16T16:36:43+00:00",
-   "summary": "Today, President Donald J. Trump returns to the Peach State with a proven record of America First results that put Georgia workers, families, seniors, and communities first. Under the leadership of President Trump and Republicans, Georgians are seeing historic tax relief, a surge of private investment and job creation, lower energy costs, support for farmers, [&#8230;] The post President Trump Ret",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Spain to appeal to CAS after FIFA penalty for Islamophobic chants",
-   "url": "https://www.aljazeera.com/sports/2026/10/16/spain-to-appeal-to-cas-after-fifa-penalty-for-islamophobic-chants?traffic_source=rss",
-   "published": "2026-10-16T16:35:32+00:00",
-   "summary": "Spain appeals to Court of Arbitration for Sport following FIFA sanctions for fans&#039; behaviour during Egypt friendly.",
-   "tags": [
-    "sanctions"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran envoy, Vietnam TV chief discuss media cooperation",
-   "url": "https://en.irna.ir/news/86294329/Iran-envoy-Vietnam-TV-chief-discuss-media-cooperation",
-   "published": "2026-10-16T16:27:28+00:00",
-   "summary": "Tehran, IRNA — Iran’s ambassador to Hanoi and the head of Vietnam Television exchanged views on expanding cooperation between the radio and television organizations of the two countries.",
    "tags": [
     "diplomacy"
    ],
