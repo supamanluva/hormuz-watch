@@ -1,6 +1,95 @@
 {
- "asOf": "2026-10-18T07:47:32.792622+00:00",
+ "asOf": "2026-10-18T11:15:20.038186+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Gaza death toll tops 74,475 as seven Palestinians killed in 24 hours",
+   "url": "https://en.irna.ir/news/86296107/Gaza-death-toll-tops-74-475-as-seven-Palestinians-killed-in-24",
+   "published": "2026-10-18T11:03:24+00:00",
+   "summary": "Tehran, IRNA — Seven Palestinians have been killed and 25 others wounded in Israeli attacks on the Gaza Strip over the past 24 hours, bringing the overall death toll since October 2023 to 74,475.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Jordan-Israel border becomes new hotspot for sophisticated drug trade",
+   "url": "https://www.aljazeera.com/news/2026/10/18/jordans-israel-border-becomes-a-new-hotspot-for-a-sophisticated-drug-trade?traffic_source=rss",
+   "published": "2026-10-18T10:48:18+00:00",
+   "summary": "A surge in drug smuggling from Israel to Jordan using drones and balloons prompts accusations of border guard collusion.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Ukrainian drone attack on Russia’s St Petersburg kills 1, hits energy sites",
+   "url": "https://www.aljazeera.com/news/2026/10/18/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites?traffic_source=rss",
+   "published": "2026-10-18T10:34:09+00:00",
+   "summary": "Zelenskyy says Russian attacks on Ukraine overnight kill two people, adding that Moscow continues to break energy ceasefire.",
+   "tags": [
+    "strikes",
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Gaza Family Reunion: Finding each other after the ‘ceasefire’",
+   "url": "https://www.aljazeera.com/video/witness/2026/10/18/gaza-family-reunion-finding-each-other-after-the-ceasefire?traffic_source=rss",
+   "published": "2026-10-18T10:30:00+00:00",
+   "summary": "Separated by war for more than a year, a captain in Gaza’s Civil Defence unit attempts to reunite with his family.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Egypt to provide ‘necessary’ support to Saudi Arabia amid Houthi attacks",
+   "url": "https://www.aljazeera.com/news/2026/10/18/egypt-to-provide-all-necessary-and-possible-support-to-saudi?traffic_source=rss",
+   "published": "2026-10-18T10:23:38+00:00",
+   "summary": "Presidency says Egypt will provide Saudi Arabia with support to defend its security and protect its resources.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Rubio says Ukraine without access to Starshield, future ‘under discussion’",
+   "url": "https://www.aljazeera.com/news/2026/10/18/rubio-says-ukraine-without-access-to-starshield-future-under-discussion?traffic_source=rss",
+   "published": "2026-10-18T09:42:40+00:00",
+   "summary": "Top US diplomat says Ukraine has requested access to military-grade version of Starlink for strikes deep inside Russia.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Haaland’s record scoring spree helps Man City to seventh Premier League win",
+   "url": "https://www.aljazeera.com/sports/2026/10/18/haalands-record-scoring-spree-helps-man-city-to-seventh-premier-league-win?traffic_source=rss",
+   "published": "2026-10-18T08:56:41+00:00",
+   "summary": "Manchester City continue their 100 percent start despite calls for sanctions after being found guilty of breaking rules.",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Why Iran-US negotiations keep failing",
+   "url": "https://www.aljazeera.com/opinions/2026/10/18/why-iran-us-negotiations-keep-failing?traffic_source=rss",
+   "published": "2026-10-18T07:32:59+00:00",
+   "summary": "Relations between the two countries are dominated by policy complexes shaped by a history of hostility.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Araghchi, Iraqi PM hold talks on sidelines of OIC summit in Baghdad",
@@ -326,17 +415,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "Houthis strike Yemen’s Aden: What that means",
-   "url": "https://www.aljazeera.com/news/2026/10/17/iran-backed-houthis-strike-yemens-aden-what-that-means?traffic_source=rss",
-   "published": "2026-10-17T09:16:48+00:00",
-   "summary": "What we know about the Houthi strikes on Aden’s presidential palace and airport, and why they matter.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
    "source": "IRNA (Iran state wire)",
    "title": "Pezeshkian: Iran’s defense and missile capabilities owe much to universities and schools",
    "url": "https://en.irna.ir/news/86294840/Pezeshkian-Iran-s-defense-and-missile-capabilities-owe-much",
@@ -392,18 +470,6 @@
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "Can Yemen’s government forces sustain their offensive against the Houthis?",
-   "url": "https://www.aljazeera.com/news-analysis/2026/10/17/can-yemens-government-forces-sustain-their-offensive-against-the-houthis?traffic_source=rss",
-   "published": "2026-10-17T06:41:34+00:00",
-   "summary": "Houthi missile strikes threaten key supply routes on Yemen&#039;s Red Sea coast, intensifying pressure on government forces.",
-   "tags": [
-    "strikes",
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
    "source": "IRNA (Iran state wire)",
    "title": "Lavrov to visit Tehran in coming days",
    "url": "https://en.irna.ir/news/86294536/Lavrov-to-visit-Tehran-in-coming-days",
@@ -423,40 +489,6 @@
    "tags": [
     "shipping",
     "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Russian attacks in Ukraine kill at least 8, cut power to 1 million",
-   "url": "https://www.aljazeera.com/news/2026/10/17/russian-attacks-in-ukraine-kill-at-least-8-cut-power-to-1-million?traffic_source=rss",
-   "published": "2026-10-17T05:19:19+00:00",
-   "summary": "Russia strikes Kharkiv, Kramatorsk, Volyn and Rivne as Moscow presses its campaign against Ukraine&#039;s power grid.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Trump waives Russia sanctions as rift with Zelenskyy widens",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/trump-waives-russia-sanctions-as-rift-with-zelenskyy-widens?traffic_source=rss",
-   "published": "2026-10-17T04:58:32+00:00",
-   "summary": "US President Donald Trump has waived more sanctions on Russia in a bid to ease energy prices.",
-   "tags": [
-    "sanctions"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Trump puts on hold new Russia sanctions he signed into law",
-   "url": "https://www.aljazeera.com/news/2026/10/17/trump-puts-on-hold-new-russia-sanctions-he-signed-into-law?traffic_source=rss",
-   "published": "2026-10-17T04:45:03+00:00",
-   "summary": "US president&#039;s executive order comes two days before sanctions deadline and a week after diesel deal with Putin.",
-   "tags": [
-    "sanctions",
-    "diplomacy"
    ],
    "highlight": false
   },
@@ -524,29 +556,6 @@
    "summary": "View image",
    "tags": [],
    "highlight": true
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iran war live: IRGC says supertanker hit naval mine in Hormuz, catches fire",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/10/17/draft-2?traffic_source=rss",
-   "published": "2026-10-17T00:00:00+00:00",
-   "summary": "Iran’s IRGC says an oil supertanker is on fire in the Strait of Hormuz after striking a naval mine.",
-   "tags": [
-    "shipping",
-    "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Yemen’s government says Houthis fired two missiles at Aden airport",
-   "url": "https://www.aljazeera.com/news/2026/10/16/yemens-government-says-houthis-fired-two-missiles-at-aden-airport?traffic_source=rss",
-   "published": "2026-10-16T21:56:07+00:00",
-   "summary": "Attack comes as Yemeni gov&#039;t forces claim advances in Marib and say they &#039;neutralised&#039; 430 Houthi fighters in 24 hours.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
   },
   {
    "source": "UN Press",
@@ -620,15 +629,6 @@
    "title": "Video post from October 16, 2026",
    "url": "https://www.trumpstruth.org/statuses/42387",
    "published": "2026-10-16T19:10:07+00:00",
-   "summary": "View video",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Video post from October 16, 2026",
-   "url": "https://www.trumpstruth.org/statuses/42388",
-   "published": "2026-10-16T19:09:03+00:00",
    "summary": "View video",
    "tags": [],
    "highlight": true
