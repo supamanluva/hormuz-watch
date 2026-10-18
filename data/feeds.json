@@ -1,6 +1,29 @@
 {
- "asOf": "2026-10-18T01:17:24.810063+00:00",
+ "asOf": "2026-10-18T02:37:25.070414+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Iran says two tankers catch fire after hitting mines in Strait of Hormuz",
+   "url": "https://www.aljazeera.com/news/2026/10/18/iran-says-two-tankers-catch-fire-after-hitting-mines-in-strait-of-hormuz?traffic_source=rss",
+   "published": "2026-10-18T01:54:18+00:00",
+   "summary": "The vessels, each carrying about two million barrels of crude oil, used an unauthorised route, the IRGC says.",
+   "tags": [
+    "shipping",
+    "oil"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Saudi-led forces try to break Houthi siege of Taiz with airstrikes",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/saudi-led-forces-try-to-break-houthi-siege-of-taiz-with-airstrikes?traffic_source=rss",
+   "published": "2026-10-18T01:12:44+00:00",
+   "summary": "Saudi-led forces say they’ve struck multiple positions around the Yemeni city of Taiz to break the Houthi siege.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Israeli settlers attack European diplomats in the occupied West Bank",
@@ -603,28 +626,6 @@
    "summary": "In Ukraine, large-scale attacks killed at least six civilians, injured 84 and disrupted power and water supplies across 11 regions. Attacks also damaged humanitarian facilities. The UN Human Rights Monitoring Mission reported an 85 per cent rise in civilian casualties in September compared with a year earlier.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Ukraine president targets Trump, Putin at EU summit",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/ukraine-president-targets-trump-putin-at-eu-summit?traffic_source=rss",
-   "published": "2026-10-16T17:59:48+00:00",
-   "summary": "President Zelenskyy warned Russia’s ambitions extend beyond eastern Ukraine, saying its drone attack threaten NATO.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Ukraine advances in occupied Donetsk as Trump hands Putin diesel deal",
-   "url": "https://www.aljazeera.com/news/2026/10/16/ukraine-repels-russian-forces-as-us-support-wavers-energy-strikes-escalate?traffic_source=rss",
-   "published": "2026-10-16T17:28:41+00:00",
-   "summary": "Ukraine’s &#039;Operation Vivaldi&#039; reclaimed more occupied territory in Donetsk during a week when Trump sided with Russia.",
-   "tags": [
-    "diplomacy"
    ],
    "highlight": false
   }
