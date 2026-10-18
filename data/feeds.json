@@ -1,6 +1,17 @@
 {
- "asOf": "2026-10-18T05:28:37.086241+00:00",
+ "asOf": "2026-10-18T07:47:32.792622+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Araghchi, Iraqi PM hold talks on sidelines of OIC summit in Baghdad",
+   "url": "https://en.irna.ir/news/86295521/Araghchi-Iraqi-PM-hold-talks-on-sidelines-of-OIC-summit-in-Baghdad",
+   "published": "2026-10-18T05:59:39+00:00",
+   "summary": "Tehran, IRNA — Foreign Minister Abbas Araghchi and Iraqi Prime Minister Ali Falih al-Zaidi have met in Baghdad to discuss bilateral and the latest regional developments.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "St Petersburg under attack from Ukrainian drone swarm",
@@ -59,7 +70,7 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "Iran war live: Israeli settlers attack EU diplomats; drones target Riyadh",
+   "title": "Iran war live: Ships attacked off UAE, Yemen; drones downed near Riyadh",
    "url": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tankers-hit-in-hormuz-israeli-settlers-attack-eu-diplomats?traffic_source=rss",
    "published": "2026-10-18T00:00:11+00:00",
    "summary": "Fires reported on three tankers, as masked settlers attack European politicians in the occupied West Bank.",
@@ -618,15 +629,6 @@
    "title": "Video post from October 16, 2026",
    "url": "https://www.trumpstruth.org/statuses/42388",
    "published": "2026-10-16T19:09:03+00:00",
-   "summary": "View video",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Video post from October 16, 2026",
-   "url": "https://www.trumpstruth.org/statuses/42389",
-   "published": "2026-10-16T19:03:01+00:00",
    "summary": "View video",
    "tags": [],
    "highlight": true
