@@ -1,6 +1,17 @@
 {
- "asOf": "2026-10-18T15:18:18.068922+00:00",
+ "asOf": "2026-10-18T15:50:42.729145+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "EU condemns Israeli settler attack on diplomats in occupied West Bank",
+   "url": "https://www.aljazeera.com/news/2026/10/18/eu-condemns-israeli-settler-attack-on-diplomats-in-occupied-west-bank?traffic_source=rss",
+   "published": "2026-10-18T15:10:05+00:00",
+   "summary": "EU demands accountability after settlers attack European diplomats amid violence against Palestinian olive farmers.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Russian foreign minister to visit Tehran on Monday: Iranian envoy",
@@ -443,17 +454,6 @@
    "tags": [
     "strikes",
     "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Israeli settlers attack European diplomats during West Bank olive harvest",
-   "url": "https://www.aljazeera.com/news/2026/10/17/several-palestinians-injured-detained-in-ongoing-west-bank-pogrom?traffic_source=rss",
-   "published": "2026-10-17T12:48:03+00:00",
-   "summary": "Four Palestinian women and a child are among those injured in separate ongoing Israeli assaults and pogroms.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   },
