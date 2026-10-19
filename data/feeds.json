@@ -1,6 +1,17 @@
 {
- "asOf": "2026-10-19T20:23:37.607666+00:00",
+ "asOf": "2026-10-19T20:58:22.796505+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "One killed in US shooting near mosque in Columbus, Ohio",
+   "url": "https://www.aljazeera.com/news/2026/10/19/us-federal-authorities-responding-to-shooting-at-mosque-in-columbus-ohio?traffic_source=rss",
+   "published": "2026-10-19T19:50:20+00:00",
+   "summary": "Local authorities say mosque was not target of attack.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "I am pleased to nominate Joseph Falvey to serve as Judge on the United States District Court for the Northern District of Indiana. Joe is currently an Assistant U.S. Attorney, where he has done an incredible job protecting Public Safety, and promoting Law and Order. Joe is a graduate of Yale Law School and the University of Notre Dame, and previously clerked for three esteemed Jurists, Chief Justice of the United States Supreme Court, John Roberts, Judge Thomas Griffith of the D.C. Circuit, and Judge Dabney Friedrich of The United States District Court for the District of Columbia. He is also a Marine Corps Veteran and Pat Tillman Scholar. Joe will strongly protect our cherished Constitution and Rule of Law in this important new role. Congratulations Joe! President DONALD J. TRUMP",
@@ -80,7 +91,7 @@
    "title": "Pezeshkian: Iran and Russia can play an effective role in strengthening peace and multilateral order",
    "url": "https://en.irna.ir/news/86297527/President-Pezeshkian-meets-Russian-FM-in-Tehran",
    "published": "2026-10-19T17:04:11+00:00",
-   "summary": "Tehran, IRNA – President Masoud Pezeshkian emphasizing the need to accelerate the implementation of agreements and understandings between Tehran and Moscow, and identified the strengthening of bilateral cooperation in the fields of energy, transportation, trade, and power plant infrastructure as a priority for the two nations' relations.",
+   "summary": "Tehran, IRNA – President Masoud Pezeshkian, emphasizing the need to accelerate the implementation of agreements and understandings between Tehran and Moscow, termed the strengthening of bilateral cooperation in the fields of energy, transportation, trade, and power plant infrastructure as a priority for the two nations' relations.",
    "tags": [
     "diplomacy"
    ],
@@ -97,10 +108,10 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "Search under way for four soldiers missing after gang attack in Haiti",
+   "title": "UN voices security concerns in Haiti amid attacks and election preparation",
    "url": "https://www.aljazeera.com/news/2026/10/19/search-under-way-for-four-soldiers-missing-after-gang-attack-in-haiti?traffic_source=rss",
    "published": "2026-10-19T16:40:01+00:00",
-   "summary": "The UN Security Council holds a meeting on Haiti; the attack on UN-backed forces is expected to dominate the discussions.",
+   "summary": "UN official warns of escalating violence in Haiti as security personnel face retaliatory attacks by armed gangs.",
    "tags": [
     "strikes"
    ],
@@ -593,17 +604,6 @@
    "summary": "Demonstrations are spreading across the continent.",
    "tags": [
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "GCC condemns Houthi attacks on Saudi Arabia as Yemen fighting intensifies",
-   "url": "https://www.aljazeera.com/news/2026/10/18/gcc-condemns-houthi-attacks-on-saudi-arabia-as-yemen-fighting-intensifies?traffic_source=rss",
-   "published": "2026-10-18T18:44:30+00:00",
-   "summary": "Gulf ministers urge action against Houthis as fighting displaces more than 233,000 people across Yemen.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   }
