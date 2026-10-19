@@ -1,6 +1,17 @@
 {
- "asOf": "2026-10-19T21:19:19.354937+00:00",
+ "asOf": "2026-10-19T21:58:43.945175+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "160 reported killed in escalating drone attacks across Sudan",
+   "url": "https://www.aljazeera.com/news/2026/10/19/160-reported-killed-in-escalating-drone-attacks-across-sudan?traffic_source=rss",
+   "published": "2026-10-19T21:38:46+00:00",
+   "summary": "Rights groups warn increasing attacks by unmanned aircraft are targeting civilians and infrastructure.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Israeli police say they arrested 10 in connection with settler attacks",
@@ -24,6 +35,18 @@
    "highlight": false
   },
   {
+   "source": "UN Press",
+   "title": "Old, New Legal Frameworks Can Fortify Nuclear Disarmament Regime, First Committee Hears",
+   "url": "https://press.un.org/en/2026/gadis3772.doc.htm",
+   "published": "2026-10-19T20:47:47+00:00",
+   "summary": "Amid modernizing nuclear arsenals, weakening arms-control agreements and rising nuclear threats, established and emerging legal instruments can collectively reinforce the global disarmament and non-proliferation architecture, the First Committee (Disarmament and International Security) heard today as it concluded its thematic debate on nuclear weapons.",
+   "tags": [
+    "diplomacy",
+    "nuclear"
+   ],
+   "highlight": false
+  },
+  {
    "source": "Trump · Truth Social",
    "title": "A BIG THANK YOU to our legendary friend, Elon Musk, for his incredible generosity in giving SpaceX Stock to millions of American children through TRUMP ACCOUNTS! This is exactly what was envisioned when we created TRUMP ACCOUNTS — Bringing together the GREAT PRIVATE SECTOR, Elon and so many more, to invest in our children, by far our greatest and most important asset, and give every American Child a piece of the American Dream. Thank you Elon! President DONALD J. TRUMP",
    "url": "https://www.trumpstruth.org/statuses/42444",
@@ -31,6 +54,15 @@
    "summary": "A BIG THANK YOU to our legendary friend, Elon Musk, for his incredible generosity in giving SpaceX Stock to millions of American children through TRUMP ACCOUNTS! This is exactly what was envisioned when we created TRUMP ACCOUNTS — Bringing together the GREAT PRIVATE SECTOR, Elon and so many more, to invest in our children, by far our greatest and most important asset, and give every American Child",
    "tags": [],
    "highlight": true
+  },
+  {
+   "source": "UN Press",
+   "title": "Relentless Gang Violence Threatens Haiti’s Long-Awaited Elections, Return to Democratic Rule, UN Officials Warn Security Council, Urging Scaled up Corrective Action",
+   "url": "https://press.un.org/en/2026/sc16482.doc.htm",
+   "published": "2026-10-19T20:28:41+00:00",
+   "summary": "Armed gangs continue to terrorize Haiti, killing civilians and defying security forces, United Nations officials warned the Security Council today, as the severely understrength Gang Suppression Force struggles to contain violence threatening the country’s long-awaited elections and return to democratic rule.",
+   "tags": [],
+   "highlight": false
   },
   {
    "source": "Al Jazeera",
@@ -69,6 +101,15 @@
    "summary": "The Democrats gave us the Highest Inflation in History, and the Highest Prices to go with it and, as soon as l came into Office, they started screaming, \"AFFORDABILITY.\" They are the ones that created the Affordability Crisis. I'm the one who created the Greatest Economy, and am bringing the prices down. It's just another Fake News CON JOB! President DONALD J. TRUMP",
    "tags": [],
    "highlight": true
+  },
+  {
+   "source": "UN Press",
+   "title": "Security Council, 10247th Meeting (PM) Children and Armed Conflict",
+   "url": "https://press.un.org/en/blog/sc16483",
+   "published": "2026-10-19T18:54:28+00:00",
+   "summary": "The Security Council is expected to vote on a draft resolution that addresses the impact of digital technologies on the perpetration of violations and abuses against children.",
+   "tags": [],
+   "highlight": false
   },
   {
    "source": "Trump · Truth Social",
@@ -112,6 +153,15 @@
    "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-delivers-historic-wins-for-kansas-workers-families-farmers-and-rural-communities/",
    "published": "2026-10-19T18:00:25+00:00",
    "summary": "Today, President Donald J. Trump returns to Kansas to showcase his proven record of results that put Kansas workers, families, seniors, farmers, and communities first. Under the leadership of President Trump and Republicans, Kansans are benefiting from historic tax relief, surging private investment and job creation, stronger rural healthcare, major support for farmers and ranchers, [&#8230;] The ",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "UN Press",
+   "title": "‘One in Twelve People Will Go to Bed Hungry’, Secretary-General Warns in Message to Food Security Committee",
+   "url": "https://press.un.org/en/2026/sgsm23337.doc.htm",
+   "published": "2026-10-19T17:18:50+00:00",
+   "summary": "Following is the text of UN Secretary-General António Guterres’ video message for the fifty-fourth session of the Committee on World Food Security, in Rome today:",
    "tags": [],
    "highlight": false
   },
@@ -554,54 +604,6 @@
     "diplomacy"
    ],
    "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Ukraine launches over 1,000 drones at Russia, setting oil facilities ablaze",
-   "url": "https://www.aljazeera.com/news/2026/10/19/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites?traffic_source=rss",
-   "published": "2026-10-19T02:10:09+00:00",
-   "summary": "The air strike, one of Ukraine&#039;s largest in the war, comes amid rising tensions between Kyiv and Washington.",
-   "tags": [
-    "strikes",
-    "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Video post from October 19, 2026",
-   "url": "https://www.trumpstruth.org/statuses/42420",
-   "published": "2026-10-19T01:56:10+00:00",
-   "summary": "View video",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "A must read! Newt Gingrich, #1 New York Times Bestselling Author, has a new book, just out, that is spectacular! Entitled, “AMERICA’S GOLDEN AGE - TRUMPISM & AN ERA OF LIMITLESS POSSIBILITIES,” it is a true study of what is now making our Country GREAT, perhaps greater than ever before. Unlike others who write about me, most of whom I do not know, Newt knows me well, and tells it like it is. ENJOY!!! President DONALD J. TRUMP",
-   "url": "https://www.trumpstruth.org/statuses/42421",
-   "published": "2026-10-19T01:19:49+00:00",
-   "summary": "A must read! Newt Gingrich, # 1 New York Times Bestselling Author, has a new book, just out, that is spectacular! Entitled, “AMERICA’S GOLDEN AGE - TRUMPISM &amp; AN ERA OF LIMITLESS POSSIBILITIES,” it is a true study of what is now making our Country GREAT, perhaps greater than ever before. Unlike others who write about me, most of whom I do not know, Newt knows me well, and tells it like it is. ",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Image post from October 19, 2026",
-   "url": "https://www.trumpstruth.org/statuses/42422",
-   "published": "2026-10-19T01:00:30+00:00",
-   "summary": "https:// events.gop.com/events/midterm- rally-in-park-city-kansas-president-donald-j-trump-ks View image",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "The first landing of Air Force One at President Donald J. Trump International Airport, in Palm Beach County, Florida!",
-   "url": "https://www.trumpstruth.org/statuses/42423",
-   "published": "2026-10-19T00:38:45+00:00",
-   "summary": "The first landing of Air Force One at President Donald J. Trump International Airport, in Palm Beach County, Florida! View image",
-   "tags": [],
-   "highlight": true
   }
  ]
 }
