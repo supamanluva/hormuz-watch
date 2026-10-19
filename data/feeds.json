@@ -1,6 +1,39 @@
 {
- "asOf": "2026-10-19T12:33:15.236309+00:00",
+ "asOf": "2026-10-19T13:00:22.672619+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "At least 18 killed in Houthi attack on military camp in Yemen’s Shabwa",
+   "url": "https://www.aljazeera.com/news/2026/10/19/at-least-18-killed-in-houthi-attack-on-military-camp-in-yemens-shabwa?traffic_source=rss",
+   "published": "2026-10-19T12:51:46+00:00",
+   "summary": "Houthis launch ballistic missiles at camp in southern governorate during training exercise, gov&#039;t forces spokesman says.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "The night watch: Palestinians protecting their homes from settler pogroms",
+   "url": "https://www.aljazeera.com/features/2026/10/19/the-night-watch-palestinians-protecting-their-homes-from-settler-pogroms?traffic_source=rss",
+   "published": "2026-10-19T12:30:22+00:00",
+   "summary": "Palestinians in the occupied West Bank are organising to protect themselves from settler attacks.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Al Jazeera investigation challenges Israeli account of Heidi Levine attack",
+   "url": "https://www.aljazeera.com/features/2026/10/19/al-jazeera-investigation-challenges-israeli-account-of-heidi-levine-attack?traffic_source=rss",
+   "published": "2026-10-19T12:28:27+00:00",
+   "summary": "Analysis of map coordinates and timelines raises doubts over official Israeli accounts of West Bank settler pogrom.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Iranian and Russian foreign ministers hold talks in Tehran",
@@ -539,40 +572,6 @@
    "url": "https://www.aljazeera.com/news/2026/10/18/jordans-israel-border-becomes-a-new-hotspot-for-a-sophisticated-drug-trade?traffic_source=rss",
    "published": "2026-10-18T10:48:18+00:00",
    "summary": "A surge in drug smuggling from Israel to Jordan using drones and balloons prompts accusations of border guard collusion.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Ukrainian drone attack on Russia’s St Petersburg kills 1, hits energy sites",
-   "url": "https://www.aljazeera.com/news/2026/10/18/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites?traffic_source=rss",
-   "published": "2026-10-18T10:34:09+00:00",
-   "summary": "Zelenskyy says Russian attacks on Ukraine overnight kill two people, adding that Moscow continues to break energy ceasefire.",
-   "tags": [
-    "strikes",
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Gaza Family Reunion: Finding each other after the ‘ceasefire’",
-   "url": "https://www.aljazeera.com/video/witness/2026/10/18/gaza-family-reunion-finding-each-other-after-the-ceasefire?traffic_source=rss",
-   "published": "2026-10-18T10:30:00+00:00",
-   "summary": "Separated by war for more than a year, a captain in Gaza’s Civil Defence unit attempts to reunite with his family.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Egypt to provide ‘necessary’ support to Saudi Arabia amid Houthi attacks",
-   "url": "https://www.aljazeera.com/news/2026/10/18/egypt-to-provide-all-necessary-and-possible-support-to-saudi?traffic_source=rss",
-   "published": "2026-10-18T10:23:38+00:00",
-   "summary": "Presidency says Egypt will provide Saudi Arabia with support to defend its security and protect its resources.",
    "tags": [
     "strikes"
    ],
