@@ -1,6 +1,15 @@
 {
- "asOf": "2026-10-19T00:56:10.263407+00:00",
+ "asOf": "2026-10-19T01:35:31.892390+00:00",
  "items": [
+  {
+   "source": "Trump · Truth Social",
+   "title": "Governor Roy Cooper released this man, who then killed beautiful Iryna Zarutska. He then released 83 other murderers, so they wouldn’t catch COVID while in jail, who went on to kill 25 people! President DONALD J. TRUMP",
+   "url": "https://www.trumpstruth.org/statuses/42419",
+   "published": "2026-10-19T00:19:25+00:00",
+   "summary": "Governor Roy Cooper released this man, who then killed beautiful Iryna Zarutska. He then released 83 other murderers, so they wouldn’t catch COVID while in jail, who went on to kill 25 people! President DONALD J. TRUMP View image",
+   "tags": [],
+   "highlight": true
+  },
   {
    "source": "Trump · Truth Social",
    "title": "Quote post from October 18, 2026",
@@ -613,18 +622,6 @@
    "summary": "Moscow, IRNA – Russian Foreign Ministry spokesperson Maria Zakharova announces that Foreign Minister Sergei Lavrov is to hold talks with his Iranian counterpart, Abbas Araghchi, during an official visit to Tehran on Monday.",
    "tags": [
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Oil supertanker catches fire after striking mine in Strait of Hormuz: IRGC Navy",
-   "url": "https://en.irna.ir/news/86294516/Oil-supertanker-catches-fire-after-striking-mine-in-Strait-of",
-   "published": "2026-10-17T05:22:30+00:00",
-   "summary": "Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) Navy says a supertanker carrying more than two million barrels of crude oil caught fire after striking a naval mine while attempting to cross the Strait of Hormuz through an unauthorized route.",
-   "tags": [
-    "shipping",
-    "oil"
    ],
    "highlight": false
   }
