@@ -1,6 +1,17 @@
 {
- "asOf": "2026-10-19T11:55:33.149902+00:00",
+ "asOf": "2026-10-19T12:33:15.236309+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iranian and Russian foreign ministers hold talks in Tehran",
+   "url": "https://en.irna.ir/news/86297321/Iranian-and-Russian-foreign-ministers-hold-talks-in-Tehran",
+   "published": "2026-10-19T12:24:14+00:00",
+   "summary": "Tehran, IRNA – Foreign Minister Abbas Araghchi and his Russian counterpart, Sergey Lavrov, have held talks in Tehran.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "UN Press",
    "title": "Security Council, 10246th Meeting (AM) Haiti",
@@ -602,17 +613,6 @@
    "url": "https://en.irna.ir/news/86295309/Araghchi-meets-senior-Algerian-diplomat-in-Baghdad",
    "published": "2026-10-17T16:19:23+00:00",
    "summary": "Tehran, IRNA – Foreign Minister Abbas Araghchi has held talks with the Secretary of State to Algeria's Minister of Foreign Affairs and in-charge of the National Community Abroad, in the Iraqi capital, Baghdad.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iranian, Lebanese FM hold talks on sidelines of OIC summit in Baghdad",
-   "url": "https://en.irna.ir/news/86295264/Iranian-Lebanese-FM-hold-talks-on-sidelines-of-OIC-summit-in",
-   "published": "2026-10-17T15:08:13+00:00",
-   "summary": "Tehran, IRNA – Foreign Minister Seyyed Abbas Araghchi has met with his Lebanese counterpart Youssef Rajji on the sidelines of the Organization of Islamic Cooperation (OIC)’s Council of Foreign Ministers’ meeting in Baghdad, the capital of Iraq.",
    "tags": [
     "diplomacy"
    ],
