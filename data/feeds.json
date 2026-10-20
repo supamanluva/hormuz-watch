@@ -1,6 +1,17 @@
 {
- "asOf": "2026-10-20T10:10:26.858940+00:00",
+ "asOf": "2026-10-20T10:40:22.100249+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Zelenskyy to hold talks on Russia-Ukraine war with Witkoff, Europeans",
+   "url": "https://www.aljazeera.com/news/2026/10/20/zelenskyy-to-hold-peace-talks-in-oslo-with-witkoff-kushner-attending?traffic_source=rss",
+   "published": "2026-10-20T10:24:28+00:00",
+   "summary": "The prime ministers of Norway and Finland will also attend the discussions in Oslo.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Attacks on Iran undermined international legal order: VP",
@@ -579,15 +590,6 @@
     "strikes",
     "sanctions"
    ],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "First Lady Melania Trump Champions New U.S. Women’s Health Initiative",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/10/first-lady-melania-trump-champions-new-u-s-womens-health-initiative/",
-   "published": "2026-10-19T15:35:08+00:00",
-   "summary": "First Lady Melania Trump advanced a landmark program to improve women’s health through a new executive order that strengthens research, prevention, diagnosis, treatment, and care for girls and women throughout every stage of life. “Previous generations fought for women&#8217;s rights. Our generation will fight to discover the cures that will ensure a woman can live [&#8230;] The post First Lady Me",
-   "tags": [],
    "highlight": false
   }
  ]
