@@ -1,6 +1,17 @@
 {
- "asOf": "2026-10-20T08:55:47.778937+00:00",
+ "asOf": "2026-10-20T09:24:03.779504+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Attacks on Iran undermined international legal order: VP",
+   "url": "https://en.irna.ir/news/86298055/Attacks-on-Iran-undermined-international-legal-order-VP",
+   "published": "2026-10-20T09:04:39+00:00",
+   "summary": "Tehran, IRNA — Vice President Mohammad Reza Aref says that the 40-day military aggression against Iran was not merely an attack on the country, but a direct assault on the foundations of the international legal order and the principle of sovereign equality of states.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Morocco’s not-so-new government faces new challenges",
@@ -577,17 +588,6 @@
    "published": "2026-10-19T15:35:08+00:00",
    "summary": "First Lady Melania Trump advanced a landmark program to improve women’s health through a new executive order that strengthens research, prevention, diagnosis, treatment, and care for girls and women throughout every stage of life. “Previous generations fought for women&#8217;s rights. Our generation will fight to discover the cures that will ensure a woman can live [&#8230;] The post First Lady Me",
    "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "FM Araghchi describes talks with Russian counterpart as productive",
-   "url": "https://en.irna.ir/news/86297436/FM-Araghchi-describes-talks-with-Russian-counterpart-as-productive",
-   "published": "2026-10-19T15:26:55+00:00",
-   "summary": "Tehran, IRNA – Foreign Minister Abbas Araghchi says talks with his Russian counterpart Sergey Lavrov in Tehran were intensive and productive, focusing on bilateral relations as well as key regional and international developments.",
-   "tags": [
-    "diplomacy"
-   ],
    "highlight": false
   }
  ]
