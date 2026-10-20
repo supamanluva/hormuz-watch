@@ -1,6 +1,50 @@
 {
- "asOf": "2026-10-20T13:24:05.776313+00:00",
+ "asOf": "2026-10-20T13:55:15.469637+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Pakistan to continue mediation efforts between US and Iran: Deputy PM Dar",
+   "url": "https://en.irna.ir/news/86298491/Pakistan-to-continue-mediation-efforts-between-US-and-Iran-Deputy",
+   "published": "2026-10-20T13:28:29+00:00",
+   "summary": "Islamabad, IRNA – Pakistan’s Deputy Prime Minister and Foreign Minister Muhammad Ishaq Dar says Islamabad will continue mediation efforts between the United States and Iran.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Indonesians protest over land-clearing fires",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/indonesians-protest-over-land-clearing-fires?traffic_source=rss",
+   "published": "2026-10-20T13:23:44+00:00",
+   "summary": "Students and activists protested across Indonesia over forest fires linked to land clearing for palm oil plantations.",
+   "tags": [
+    "oil"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "US envoy Barrack defends decision to join Israel in war on Iran",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/20-10-iran-us-envoy-barrack-trump-war?traffic_source=rss",
+   "published": "2026-10-20T13:20:33+00:00",
+   "summary": "US envoy Tom Barrack says President Trump did not follow Israel in going to war against Iran.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Israeli attacks kill at least four Palestinians in Gaza",
+   "url": "https://www.aljazeera.com/news/2026/10/20/israeli-forces-kill-at-least-four-palestinians-in-gaza-strikes?traffic_source=rss",
+   "published": "2026-10-20T12:59:58+00:00",
+   "summary": "A couple and a 17-year-old are among those killed by Israeli air attacks and gunfire in the Gaza Strip.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "Trump border enforcement cuts fiscal, criminal costs of illegal migration that amnesty would restore:",
@@ -559,47 +603,6 @@
    "tags": [
     "strikes"
    ],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Old, New Legal Frameworks Can Fortify Nuclear Disarmament Regime, First Committee Hears",
-   "url": "https://press.un.org/en/2026/gadis3772.doc.htm",
-   "published": "2026-10-19T20:47:47+00:00",
-   "summary": "Amid modernizing nuclear arsenals, weakening arms-control agreements and rising nuclear threats, established and emerging legal instruments can collectively reinforce the global disarmament and non-proliferation architecture, the First Committee (Disarmament and International Security) heard today as it concluded its thematic debate on nuclear weapons.",
-   "tags": [
-    "diplomacy",
-    "nuclear"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Relentless Gang Violence Threatens Haiti’s Long-Awaited Elections, Return to Democratic Rule, UN Officials Warn Security Council, Urging Scaled-Up Corrective Action",
-   "url": "https://press.un.org/en/2026/sc16482.doc.htm",
-   "published": "2026-10-19T20:28:41+00:00",
-   "summary": "Armed gangs continue to terrorize Haiti, killing civilians and defying security forces, United Nations officials warned the Security Council today, as the severely understrength Gang Suppression Force struggles to contain violence threatening the country’s long-awaited elections and return to democratic rule.",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "One killed in US shooting near mosque in Columbus, Ohio",
-   "url": "https://www.aljazeera.com/news/2026/10/19/us-federal-authorities-responding-to-shooting-at-mosque-in-columbus-ohio?traffic_source=rss",
-   "published": "2026-10-19T19:50:20+00:00",
-   "summary": "Local authorities say mosque was not target of attack.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Security Council, 10247th Meeting (PM) Children and Armed Conflict",
-   "url": "https://press.un.org/en/blog/sc16483",
-   "published": "2026-10-19T18:54:28+00:00",
-   "summary": "The Security Council is expected to vote on a draft resolution that addresses the impact of digital technologies on the perpetration of violations and abuses against children.",
-   "tags": [],
    "highlight": false
   }
  ]
