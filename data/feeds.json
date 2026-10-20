@@ -1,5 +1,5 @@
 {
- "asOf": "2026-10-20T08:34:27.949184+00:00",
+ "asOf": "2026-10-20T08:55:47.778937+00:00",
  "items": [
   {
    "source": "Al Jazeera",
@@ -347,6 +347,15 @@
    "highlight": false
   },
   {
+   "source": "UN Press",
+   "title": "Sixth Committee Underlines Need for Legal Certainty in Cross-border Commerce",
+   "url": "https://press.un.org/en/2026/gal3752.doc.htm",
+   "published": "2026-10-19T23:57:02+00:00",
+   "summary": "As the United Nations Commission on International Trade Law (UNCITRAL) celebrates its sixtieth anniversary, speakers in the Sixth Committee (Legal) today highlighted how its work contributes to establishing legal certainty in the realm of international trade and investment.",
+   "tags": [],
+   "highlight": false
+  },
+  {
    "source": "Al Jazeera",
    "title": "Tehran rejects any role in plot to kill leaders of German Jewish groups",
    "url": "https://www.aljazeera.com/news/2026/10/19/tehran-rejects-any-role-in-plot-to-kill-leaders-of-jewish-groups?traffic_source=rss",
@@ -579,15 +588,6 @@
    "tags": [
     "diplomacy"
    ],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "Advancing Women’s Health to Improve Outcomes in All Phases of Life",
-   "url": "https://www.whitehouse.gov/presidential-actions/2026/10/advancing-womens-health-to-improve-outcomes-in-all-phases-of-life/",
-   "published": "2026-10-19T15:25:57+00:00",
-   "summary": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered: Section 1. Purpose and Policy. My Administration is committed to advancing women&#8217;s health and ensuring that medical research, diagnosis, prevention, and treatment reflect the highest quality scientific evidence, with the goal [&#8230;] The post Advancing Women&#8",
-   "tags": [],
    "highlight": false
   }
  ]
