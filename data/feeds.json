@@ -1,6 +1,40 @@
 {
- "asOf": "2026-10-20T10:40:22.100249+00:00",
+ "asOf": "2026-10-20T11:24:39.781487+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Masoud Pezeshkian: Peace, Not Surrender",
+   "url": "https://www.aljazeera.com/video/al-jazeera-world/2026/10/20/masoud-pezeshkian-peace-not-surrender?traffic_source=rss",
+   "published": "2026-10-20T11:02:31+00:00",
+   "summary": "Iranian President Masoud Pezeshkian on sanctions, regional conflict, US-Israel tensions and his call for Muslim unity.",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Tehran, Baghdad agree on expulsion of anti-Iran separatist terrorist groups from KRI: Envoy",
+   "url": "https://en.irna.ir/news/86298169/Tehran-Baghdad-agree-on-expulsion-of-anti-Iran-separatist-terrorist",
+   "published": "2026-10-20T10:44:44+00:00",
+   "summary": "Tehran, IRNA – Iran’s ambassador to Iraq says Tehran and Baghdad have agreed on the expulsion of anti-Iran separatist terrorist elements from the Kurdistan Region of Iraq or handing them over to Iran.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "US leaving oil-for-security approach, not Middle East: Envoy Tom Barrack",
+   "url": "https://www.aljazeera.com/news/2026/10/20/us-leaving-oil-for-security-approach-not-middle-east-envoy-tom-barrack?traffic_source=rss",
+   "published": "2026-10-20T10:36:57+00:00",
+   "summary": "Barrack highlights limits of US interventions, admitting past regime changes in the Middle East were often mistakes.",
+   "tags": [
+    "diplomacy",
+    "oil"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Zelenskyy to hold talks on Russia-Ukraine war with Witkoff, Europeans",
@@ -558,38 +592,6 @@
    "published": "2026-10-19T17:02:15+00:00",
    "summary": "Following are UN Secretary-General António Guterres’ remarks at the Indonesian Ministry of Foreign Affairs, in Jakarta today:",
    "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "UN voices security concerns in Haiti amid attacks and election preparations",
-   "url": "https://www.aljazeera.com/news/2026/10/19/search-under-way-for-four-soldiers-missing-after-gang-attack-in-haiti?traffic_source=rss",
-   "published": "2026-10-19T16:40:01+00:00",
-   "summary": "UN official warns of escalating violence in Haiti as security personnel face retaliatory attacks by armed gangs.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Secretary-General Salutes Indonesian Peacekeepers for Courage, Service and Commitment to Peace",
-   "url": "https://press.un.org/en/2026/sgsm23335.doc.htm",
-   "published": "2026-10-19T16:23:46+00:00",
-   "summary": "Following are UN Secretary-General António Guterres’ remarks to peacekeeping troops at the Indonesia Armed Forces Peacekeeping Centre in Sentul, Indonesia, today:",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "China condemns US-Israeli attacks on Iran, opposes unilateral sanctions",
-   "url": "https://en.irna.ir/news/86297507/China-condemns-US-Israeli-attacks-on-Iran-opposes-unilateral",
-   "published": "2026-10-19T16:20:53+00:00",
-   "summary": "Tehran, IRNA – Chinese Premier Li Qiang condemned the US-Israeli-imposed war against Iran during a meeting with First Vice President Mohammad Reza Aref on Monday, reaffirming Beijing’s opposition to unilateral US sanctions and its support for Iran’s legitimate rights.",
-   "tags": [
-    "strikes",
-    "sanctions"
-   ],
    "highlight": false
   }
  ]
