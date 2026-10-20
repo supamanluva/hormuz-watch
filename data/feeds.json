@@ -1,6 +1,26 @@
 {
- "asOf": "2026-10-20T01:41:31.851374+00:00",
+ "asOf": "2026-10-20T02:29:08.998935+00:00",
  "items": [
+  {
+   "source": "White House",
+   "title": "Presidential Message on National Forest Products Week",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-national-forest-products-week-5753/",
+   "published": "2026-10-20T02:02:45+00:00",
+   "summary": "From the misty evergreens of the Pacific Northwest to the hardwood ridges of Appalachia, America’s forests are among our Nation’s greatest natural treasures.&#160; During National Forest Products Week, we renew our commitment to conserving these incredible landscapes and responsibly harnessing their abundance to sustain households, strengthen American jobs and industry, and secure lasting prosperi",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "The human cost of surging US air strikes in Somalia",
+   "url": "https://www.aljazeera.com/news/2026/10/20/us-air-strikes-surge-in-somalia-as-families-seek-answers?traffic_source=rss",
+   "published": "2026-10-20T01:52:32+00:00",
+   "summary": "Families recount deaths, injuries and displacement as Trump accelerates US strikes against armed groups in Somalia.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Saudi Arabia cancels 2026 ‘Davos in the Desert’ amid Houthi attacks",
@@ -102,6 +122,24 @@
    "highlight": false
   },
   {
+   "source": "UN Press",
+   "title": "Security Council Addresses Digital Risks to Children in Armed Conflict through Resolution 2832 (2026)",
+   "url": "https://press.un.org/en/2026/sc16483.doc.htm",
+   "published": "2026-10-19T23:08:30+00:00",
+   "summary": "The Security Council today called for stronger measures to protect children affected by armed conflict from violations and abuses facilitated by digital technologies, while promoting their safe use for education and child protection.",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "UN Press",
+   "title": "Outstanding Payments to Regular, Peacekeeping Budgets Continue Undermining Effective Implementation of UN’s Mandate, Speakers Warn Fifth Committee",
+   "url": "https://press.un.org/en/2026/gaab4521.doc.htm",
+   "published": "2026-10-19T22:38:35+00:00",
+   "summary": "Troubled by the ongoing liquidity crisis impeding the United Nations ability to deliver on its mandates, delegates in the Fifth Committee (Administrative and Budgetary) today emphasized that Member States’ timely payment of assessed contributions to the regular and peacekeeping budgets is crucial.",
+   "tags": [],
+   "highlight": false
+  },
+  {
    "source": "Trump · Truth Social",
    "title": "Kansas Senate Dem nominee Adam Hamilton accused of shielding ‘child predator’ who volunteered for his church in mid-2000s:",
    "url": "https://www.trumpstruth.org/statuses/42449",
@@ -109,6 +147,26 @@
    "summary": "Kansas Senate Dem nominee Adam Hamilton accused of shielding ‘child predator’ who volunteered for his church in mid-2000s: https:// nypost.com/2026/10/02/us-news/ kansas-senate-dem-nominee-adam-hamilton-accused-of-shielding-child-predator-who-worked-for-his-church-in-mid-2000s/",
    "tags": [],
    "highlight": true
+  },
+  {
+   "source": "UN Press",
+   "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General",
+   "url": "https://press.un.org/en/2026/db261019.doc.htm",
+   "published": "2026-10-19T21:52:24+00:00",
+   "summary": "In Lebanon, the UN Interim Force (UNIFIL) reported Israeli air strikes, artillery fire and military activity over the weekend. On 16 October, Israeli tanks blocked a UNIFIL supply convoy, while roadblocks forced patrol cancellations. The mission stressed that peacekeepers must be able to operate safely and without obstruction.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "UN Press",
+   "title": "Closing $4 Trillion Development Financing Gap Requires Urgent Action, Speakers Tell Joint Meeting of Second Committee, Economic and Social Council",
+   "url": "https://press.un.org/en/2026/gaef3629.doc.htm",
+   "published": "2026-10-19T21:40:02+00:00",
+   "summary": "As the world enters the final years implementing the 2030 Agenda, speakers stressed the urgent need to translate commitments to close the sustainable development financing gap and reduce soaring debt burdens into results, at the annual joint meeting of the Second Committee (Economic and Financial) and the Economic and Social Council today.",
+   "tags": [],
+   "highlight": false
   },
   {
    "source": "Al Jazeera",
@@ -529,70 +587,6 @@
    "summary": "Analysis of map coordinates and timelines raises doubts over official Israeli accounts of West Bank settler pogrom.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iranian and Russian foreign ministers hold talks in Tehran",
-   "url": "https://en.irna.ir/news/86297321/Iranian-and-Russian-foreign-ministers-hold-talks-in-Tehran",
-   "published": "2026-10-19T12:24:14+00:00",
-   "summary": "Tehran, IRNA – Foreign Minister Abbas Araghchi and his Russian counterpart, Sergey Lavrov, have held talks in Tehran.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Security Council, 10246th Meeting (AM) Haiti",
-   "url": "https://press.un.org/en/blog/sc16482",
-   "published": "2026-10-19T10:56:21+00:00",
-   "summary": "The Security Council will hold a briefing at 10 a.m. on recent development in Haiti and the work of the UN Integrated Office in Haiti (BINUH).",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iran support for Houthis probed as Yemen war re-erupts and Saudi cities hit",
-   "url": "https://www.aljazeera.com/news/2026/10/19/iran-support-for-houthis-probed-as-yemen-war-re-erupts-and-saudi-cities-hit?traffic_source=rss",
-   "published": "2026-10-19T10:49:23+00:00",
-   "summary": "There have been new reports of Iranian support for the Houthis in Yemen amid a wave of attacks on Saudi cities.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Israeli police arrest 10 after settler attacks on journalist, diplomats",
-   "url": "https://www.aljazeera.com/news/2026/10/19/israeli-police-arrest-10-after-settler-attacks-on-journalist-diplomats?traffic_source=rss",
-   "published": "2026-10-19T10:43:55+00:00",
-   "summary": "US Ambassador to Israel Mike Huckabee said on X that the arrests were &#039;a very positive development&#039;.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran warns of humanitarian consequences of sanctions",
-   "url": "https://en.irna.ir/news/86297045/Iran-warns-of-humanitarian-consequences-of-sanctions",
-   "published": "2026-10-19T09:50:26+00:00",
-   "summary": "Tehran, IRNA — Iran’s High Council for Human Rights has condemned economic sanctions and restrictions that disrupt people’s access to medicines and medical treatment, calling on the international community to take immediate action to protect Iranian patients and vulnerable groups.",
-   "tags": [
-    "sanctions"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Chinese envoy: Beijing adopts consistent and stable policy toward Tehran",
-   "url": "https://en.irna.ir/news/86297051/Chinese-envoy-Beijing-adopts-consistent-and-stable-policy-toward",
-   "published": "2026-10-19T09:32:32+00:00",
-   "summary": "Tehran, IRNA — China’s ambassador to Tehran has stressed that Beijing’s policy toward Iran remains consistent and stable, reiterating China’s commitment to developing all-out ties.",
-   "tags": [
-    "diplomacy"
    ],
    "highlight": false
   }
