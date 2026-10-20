@@ -1,6 +1,36 @@
 {
- "asOf": "2026-10-20T12:58:57.259507+00:00",
+ "asOf": "2026-10-20T13:24:05.776313+00:00",
  "items": [
+  {
+   "source": "Trump · Truth Social",
+   "title": "Trump border enforcement cuts fiscal, criminal costs of illegal migration that amnesty would restore:",
+   "url": "https://www.trumpstruth.org/statuses/42513",
+   "published": "2026-10-20T12:51:54+00:00",
+   "summary": "Trump border enforcement cuts fiscal, criminal costs of illegal migration that amnesty would restore: https:// justthenews.com/politics-polic y/immigration-gangs-tren",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "Image post from October 20, 2026",
+   "url": "https://www.trumpstruth.org/statuses/42514",
+   "published": "2026-10-20T12:51:43+00:00",
+   "summary": "View image",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Why Rubio is visiting Reliance’s oil refinery in India, the world’s largest",
+   "url": "https://www.aljazeera.com/news/2026/10/20/why-rubio-is-visiting-reliances-oil-refinery-in-india-the-worlds-largest?traffic_source=rss",
+   "published": "2026-10-20T12:37:06+00:00",
+   "summary": "Reliance is central to Washington’s efforts to punish Russian energy buyers and contain oil prices amid the war on Iran.",
+   "tags": [
+    "strikes",
+    "oil"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "IRGC: Two oil ankers caught fire, halted in Strait of Hormuz",
@@ -377,24 +407,6 @@
    "highlight": true
   },
   {
-   "source": "Trump · Truth Social",
-   "title": "Image post from October 20, 2026",
-   "url": "https://www.trumpstruth.org/statuses/42490",
-   "published": "2026-10-20T04:31:26+00:00",
-   "summary": "View image",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Image post from October 20, 2026",
-   "url": "https://www.trumpstruth.org/statuses/42491",
-   "published": "2026-10-20T04:31:15+00:00",
-   "summary": "View image",
-   "tags": [],
-   "highlight": true
-  },
-  {
    "source": "White House",
    "title": "Presidential Message on National Forest Products Week",
    "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-national-forest-products-week-5753/",
@@ -587,15 +599,6 @@
    "url": "https://press.un.org/en/blog/sc16483",
    "published": "2026-10-19T18:54:28+00:00",
    "summary": "The Security Council is expected to vote on a draft resolution that addresses the impact of digital technologies on the perpetration of violations and abuses against children.",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "President Trump Delivers Historic Wins for Kansas Workers, Families, Farmers, and Rural Communities",
-   "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-delivers-historic-wins-for-kansas-workers-families-farmers-and-rural-communities/",
-   "published": "2026-10-19T18:00:25+00:00",
-   "summary": "Today, President Donald J. Trump returns to Kansas to showcase his proven record of results that put Kansas workers, families, seniors, farmers, and communities first. Under the leadership of President Trump and Republicans, Kansans are benefiting from historic tax relief, surging private investment and job creation, stronger rural healthcare, major support for farmers and ranchers, [&#8230;] The ",
    "tags": [],
    "highlight": false
   }
