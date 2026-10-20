@@ -1,6 +1,40 @@
 {
- "asOf": "2026-10-20T11:24:39.781487+00:00",
+ "asOf": "2026-10-20T11:58:20.176076+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "IRGC: Two oil ankers caught fire, halted in Strait of Hormuz",
+   "url": "https://en.irna.ir/news/86298387/IRGC-Two-tanker-caught-fire-halted-in-Strait-of-Hormuz",
+   "published": "2026-10-20T11:48:42+00:00",
+   "summary": "Tehran, IRNA – Two non-compliant tankers caught fire and were halted after hitting mines laid in the southern Strait of Hormuz while attempting to pass through prohibited area, The Islamic Revolution Guards Corps said on Tuesday.",
+   "tags": [
+    "shipping",
+    "oil"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Australian MP Helen Haines remains in critical condition after car attack",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/australian-mp-helen-haines-remains-in-critical-condition-after-car-attack-2?traffic_source=rss",
+   "published": "2026-10-20T11:29:35+00:00",
+   "summary": "Australian MP Helen Haines lost a leg and remains in critical condition after a car attack outside her office.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Envoy urges Iran, Iraq to shift scientific ties from student recruitment to joint projects",
+   "url": "https://en.irna.ir/news/86298245/Envoy-urges-Iran-Iraq-to-shift-scientific-ties-from-student",
+   "published": "2026-10-20T11:28:18+00:00",
+   "summary": "Tehran, IRNA – Iraqi ambassador to Iran has said cooperation between the two countries in the scientific field must not rest solely on recruiting students, it should instead advance toward joint project implementation, the exchange of professors and researchers, and the growth of technological collaboration.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Masoud Pezeshkian: Peace, Not Surrender",
@@ -560,37 +594,6 @@
    "url": "https://press.un.org/en/2026/sgsm23337.doc.htm",
    "published": "2026-10-19T17:18:50+00:00",
    "summary": "Following is the text of UN Secretary-General António Guterres’ video message for the fifty-fourth session of the Committee on World Food Security, in Rome today:",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Trump backs Netanyahu: Is the US planning a new Iran attack with Israel?",
-   "url": "https://www.aljazeera.com/news/2026/10/19/trump-backs-netanyahu-is-the-us-planning-a-new-iran-attack-with-israel?traffic_source=rss",
-   "published": "2026-10-19T17:16:22+00:00",
-   "summary": "Trump’s endorsement comes after he previously shied away from fully backing Netanyahu’s election campaign.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Pezeshkian: Iran and Russia can play an effective role in strengthening peace and multilateral order",
-   "url": "https://en.irna.ir/news/86297527/President-Pezeshkian-meets-Russian-FM-in-Tehran",
-   "published": "2026-10-19T17:04:11+00:00",
-   "summary": "Tehran, IRNA – President Masoud Pezeshkian, emphasizing the need to accelerate the implementation of agreements and understandings between Tehran and Moscow, termed the strengthening of bilateral cooperation in the fields of energy, transportation, trade, and power plant infrastructure as a priority for the two nations' relations.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Secretary-General Commends Indonesia’s Role as Bridge-Builder in Multipolar World",
-   "url": "https://press.un.org/en/2026/sgsm23336.doc.htm",
-   "published": "2026-10-19T17:02:15+00:00",
-   "summary": "Following are UN Secretary-General António Guterres’ remarks at the Indonesian Ministry of Foreign Affairs, in Jakarta today:",
    "tags": [],
    "highlight": false
   }
