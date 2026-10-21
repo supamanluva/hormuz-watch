@@ -1,6 +1,18 @@
 {
- "asOf": "2026-10-21T04:25:23.138149+00:00",
+ "asOf": "2026-10-21T05:21:46.940975+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Lula, Bolsonaro seek to disqualify each other ahead of Brazil runoff",
+   "url": "https://www.aljazeera.com/news/2026/10/21/lula-bolsonaro-seek-to-disqualify-each-other-ahead-of-brazil-runoff?traffic_source=rss",
+   "published": "2026-10-21T04:58:03+00:00",
+   "summary": "Messaging service WhatsApp and parent company Meta are embroiled in legal attacks by Brazil&#039;s presidential candidates.",
+   "tags": [
+    "strikes",
+    "oil"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Drone strike on Abyei market near Sudan-South Sudan border kills 150",
@@ -590,17 +602,6 @@
    "tags": [
     "diplomacy",
     "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Zelenskyy to hold talks on Russia-Ukraine war with Witkoff, Europeans",
-   "url": "https://www.aljazeera.com/news/2026/10/20/zelenskyy-to-hold-peace-talks-in-oslo-with-witkoff-kushner-attending?traffic_source=rss",
-   "published": "2026-10-20T10:24:28+00:00",
-   "summary": "The prime ministers of Norway and Finland will also attend the discussions in Oslo.",
-   "tags": [
-    "diplomacy"
    ],
    "highlight": false
   }
