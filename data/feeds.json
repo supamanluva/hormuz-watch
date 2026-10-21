@@ -1,6 +1,17 @@
 {
- "asOf": "2026-10-21T12:59:36.377835+00:00",
+ "asOf": "2026-10-21T13:22:44.949827+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "‘They try to break us’: Pro-Palestine activists in Czech custody",
+   "url": "https://www.aljazeera.com/news/2026/10/21/they-try-to-break-us-pro-palestine-activists-in-czech-custody?traffic_source=rss",
+   "published": "2026-10-21T12:24:23+00:00",
+   "summary": "As a group is accused of an attack on a weapons factory, activists allege growing crackdown on the solidarity movement.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Iran’s enriched uranium re-emerges as point of contention in US talks",
@@ -14,6 +25,17 @@
    "highlight": false
   },
   {
+   "source": "Trump · Truth Social",
+   "title": "Great news for the wealth and prosperity of the United Kingdom, and the wonderful region of Aberdeen. The U.K. has started drilling in the North Sea, one of the greatest and most prosperous areas of OIL in the World. They should go FULL BLAST!!! This will make the U.K. very wealthy again. TAKE DOWN THE COSTLY AND RIDICULOUS WINDMILLS! President DJT",
+   "url": "https://www.trumpstruth.org/statuses/42539",
+   "published": "2026-10-21T12:14:29+00:00",
+   "summary": "Great news for the wealth and prosperity of the United Kingdom, and the wonderful region of Aberdeen. The U.K. has started drilling in the North Sea, one of the greatest and most prosperous areas of OIL in the World. They should go FULL BLAST!!! This will make the U.K. very wealthy again. TAKE DOWN THE COSTLY AND RIDICULOUS WINDMILLS! President DJT",
+   "tags": [
+    "oil"
+   ],
+   "highlight": true
+  },
+  {
    "source": "IRNA (Iran state wire)",
    "title": "Russia is ready to help resolve US-Iran conflict, Putin tells Trump’s special envoy",
    "url": "https://en.irna.ir/news/86299537/Russia-is-ready-to-help-resolve-US-Iran-conflict-Putin-tells",
@@ -23,6 +45,24 @@
     "diplomacy"
    ],
    "highlight": false
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "I will be heading to South Carolina for a BIG Rally this evening. Darline Graham is GREAT! President DJT",
+   "url": "https://www.trumpstruth.org/statuses/42538",
+   "published": "2026-10-21T11:11:17+00:00",
+   "summary": "I will be heading to South Carolina for a BIG Rally this evening. Darline Graham is GREAT! President DJT",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "The Democrats have run California, Illinois, and New York into the ground! President DJT",
+   "url": "https://www.trumpstruth.org/statuses/42537",
+   "published": "2026-10-21T11:06:48+00:00",
+   "summary": "The Democrats have run California, Illinois, and New York into the ground! President DJT",
+   "tags": [],
+   "highlight": true
   },
   {
    "source": "Trump · Truth Social",
@@ -564,48 +604,6 @@
    "summary": "Because of my belief in the Republican Party, and all of our Policies and Principles, and especially after witnessing what is taking place in France, and other locations throughout Europe, I am pleased to announce that, having to do with the Most Important Midterm Elections in our Country’s History, I have spent, or will be spending, over 400 Million Dollars by Election Day. More than 300 Million ",
    "tags": [],
    "highlight": true
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Jerusalem Daily: half a million Palestinians lose food aid",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/jerusalem-daily-half-a-million-palestinians-lose-food-aid?traffic_source=rss",
-   "published": "2026-10-20T16:59:55+00:00",
-   "summary": "Israeli strikes kill Palestinians in Gaza as funding shortages threaten food aid for half a million people",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Turkiye moves to ratify Mecca defence pact with Pakistan, Saudi Arabia",
-   "url": "https://www.aljazeera.com/news/2026/10/20/turkiye-moves-to-ratify-mecca-joint-defence-agreement?traffic_source=rss",
-   "published": "2026-10-20T16:34:20+00:00",
-   "summary": "Trilateral deal between Saudi Arabia, Turkiye and Pakistan lays out provisions for joint defence.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Macron lines up more Gulf diesel as France battles soaring fuel prices",
-   "url": "https://www.aljazeera.com/economy/2026/10/20/macron-lines-up-more-gulf-diesel-as-france-battles-soaring-fuel?traffic_source=rss",
-   "published": "2026-10-20T16:33:43+00:00",
-   "summary": "The UAE and Bahrain deals increase French commitments to 295,000 tonnes a month, just over 10 percent of consumption.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "Delivering for North Carolina: Safer Streets, Bigger Paychecks, and a Manufacturing Boom Under President Trump",
-   "url": "https://www.whitehouse.gov/releases/2026/10/delivering-for-north-carolina-safer-streets-bigger-paychecks-and-a-manufacturing-boom-under-president-trump/",
-   "published": "2026-10-20T16:33:15+00:00",
-   "summary": "President Donald J. Trump returns to North Carolina today with a clear record of results that put Tar Heel families, workers, seniors, and communities first. Since taking office, the Trump Administration has driven down crime, returned money to workers’ and seniors’ pockets, and unleashed a surge of advanced manufacturing, pharmaceutical, aerospace, biotechnology, and SI investment [&#8230;] The p",
-   "tags": [],
-   "highlight": false
   }
  ]
 }
