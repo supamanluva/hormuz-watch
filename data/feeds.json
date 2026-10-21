@@ -1,6 +1,15 @@
 {
- "asOf": "2026-10-21T17:00:09.057925+00:00",
+ "asOf": "2026-10-21T17:38:55.090659+00:00",
  "items": [
+  {
+   "source": "UN Press",
+   "title": "Activities of Secretary-General in Pakistan, 6-8 October",
+   "url": "https://press.un.org/en/2026/sgt3475.doc.htm",
+   "published": "2026-10-21T17:04:09+00:00",
+   "summary": "On Tuesday, 6 October, United Nations Secretary-General António Guterres arrived in Islamabad, Pakistan.",
+   "tags": [],
+   "highlight": false
+  },
   {
    "source": "UN Press",
    "title": "Invest in Children, Invest in Future, Urges Secretary-General in Message for World Summit",
@@ -594,17 +603,6 @@
    "published": "2026-10-20T21:33:34+00:00",
    "summary": "Enforced disappearances are reaching alarming levels worldwide, while human rights defenders face increasing persecution and surveillance, United Nations experts warned the Third Committee (Social, Humanitarian and Cultural) today, citing thousands of unresolved cases and growing threats to those seeking justice and accountability.",
    "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "PSG score late to sink Barcelona 4-2 in Champions League blockbuster",
-   "url": "https://www.aljazeera.com/sports/2026/10/20/psg-sink-barcelona-4-2-for-third-champions-league-win-in-a-row?traffic_source=rss",
-   "published": "2026-10-20T21:24:06+00:00",
-   "summary": "Late strikes by Vitinha and Fabian Ruiz grab victory for PSG as they aim to win the UCL for third season running.",
-   "tags": [
-    "strikes"
-   ],
    "highlight": false
   }
  ]
