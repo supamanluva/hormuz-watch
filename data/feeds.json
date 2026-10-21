@@ -1,6 +1,28 @@
 {
- "asOf": "2026-10-21T08:56:26.359574+00:00",
+ "asOf": "2026-10-21T09:24:20.975248+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Blast heard in Yemen’s Aden as Houthis claim attack on military camp",
+   "url": "https://www.aljazeera.com/news/2026/10/21/blast-heard-in-yemens-aden-as-houthis-claim-attack-on-military-camp?traffic_source=rss",
+   "published": "2026-10-21T09:02:18+00:00",
+   "summary": "This is a breaking news story.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Australian MP loses both legs in vehicle attack as suspect appears in court",
+   "url": "https://www.aljazeera.com/news/2026/10/21/australian-mp-loses-both-legs-in-vehicle-attack-as-suspect-appears-in-court?traffic_source=rss",
+   "published": "2026-10-21T08:34:37+00:00",
+   "summary": "Independent lawmaker Helen Haines is in stable condition, her husband says, as suspect charged with three offences.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Drone attack in disputed Sudan-South Sudan border region kills at least 153",
@@ -583,27 +605,6 @@
    "summary": "Trump border enforcement cuts fiscal, criminal costs of illegal migration that amnesty would restore: https:// justthenews.com/politics-polic y/immigration-gangs-tren",
    "tags": [],
    "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Image post from October 20, 2026",
-   "url": "https://www.trumpstruth.org/statuses/42514",
-   "published": "2026-10-20T12:51:43+00:00",
-   "summary": "View image",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Why Rubio is visiting Reliance’s oil refinery in India, the world’s largest",
-   "url": "https://www.aljazeera.com/news/2026/10/20/why-rubio-is-visiting-reliances-oil-refinery-in-india-the-worlds-largest?traffic_source=rss",
-   "published": "2026-10-20T12:37:06+00:00",
-   "summary": "Reliance is central to Washington’s efforts to punish Russian energy buyers and contain oil prices amid the war on Iran.",
-   "tags": [
-    "strikes",
-    "oil"
-   ],
-   "highlight": false
   }
  ]
 }
