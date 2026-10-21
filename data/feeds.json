@@ -1,6 +1,47 @@
 {
- "asOf": "2026-10-21T10:54:36.263071+00:00",
+ "asOf": "2026-10-21T11:21:05.422796+00:00",
  "items": [
+  {
+   "source": "Trump · Truth Social",
+   "title": "Biden should have done the Hubbard release long ago! What a difference a President makes!",
+   "url": "https://www.trumpstruth.org/statuses/42536",
+   "published": "2026-10-21T10:58:51+00:00",
+   "summary": "Biden should have done the Hubbard release long ago! What a difference a President makes!",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "UN Press",
+   "title": "General Assembly, 21st Meeting (AM) 21 October 2026",
+   "url": "https://press.un.org/en/blog/ga12796",
+   "published": "2026-10-21T10:54:27+00:00",
+   "summary": "The General Assembly holds its annual debate today on the work of the International Residual Mechanism for Criminal Tribunals. Graciela Gatti Santana, President of the Mechanism, will present its fourteenth annual report, A/80/287, on its activities from 1 July 2025 to 30 June 2026.",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "Numerous people, who requested that sanctions be immediately imposed on Russia, have called to apologize to President Trump in that they didn’t know that he was negotiating the release of Stephen Hubbard, a truly big and important deal for the U.S. If sanctions would have been placed, certainly those negotiations would have come to a complete and total halt.",
+   "url": "https://www.trumpstruth.org/statuses/42535",
+   "published": "2026-10-21T10:49:44+00:00",
+   "summary": "Numerous people, who requested that sanctions be immediately imposed on Russia, have called to apologize to President Trump in that they didn’t know that he was negotiating the release of Stephen Hubbard, a truly big and important deal for the U.S. If sanctions would have been placed, certainly those negotiations would have come to a complete and total halt.",
+   "tags": [
+    "sanctions",
+    "diplomacy"
+   ],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "Stephen Hubbard, taken four years ago by Russia during the Biden Administration, was just released from prison, at the request of President Donald J. Trump, made directly to President Vladimir Putin in a telephone conversation last week. Stephen is on his way back home and will soon be with his family. The United States, out of respect for President Trump, was not required to give anything in return - an unprecedented situation for Russia. There was no “swap” necessary for this release. This major return should have taken place long ago through the Biden Administration, which got nowhere in its negotiations with the Kremlin. Stephen is on his way back home. “Welcome home Stephen, it’s great to have you back,” stated President Trump.",
+   "url": "https://www.trumpstruth.org/statuses/42534",
+   "published": "2026-10-21T10:37:32+00:00",
+   "summary": "Stephen Hubbard, taken four years ago by Russia during the Biden Administration, was just released from prison, at the request of President Donald J. Trump, made directly to President Vladimir Putin in a telephone conversation last week. Stephen is on his way back home and will soon be with his family. The United States, out of respect for President Trump, was not required to give anything in retu",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": true
+  },
   {
    "source": "Al Jazeera",
    "title": "Attack on Australian MP Haines: How threats against legislators have soared",
@@ -562,50 +603,6 @@
    "published": "2026-10-20T14:51:09+00:00",
    "summary": "President Donald J. Trump was returned to office with a clear mandate to end the invasion that Democrats allowed to overwhelm communities, drain public resources, and endanger public safety. In less than two years, the Trump Administration has delivered the largest reduction in the illegal alien population in modern history, driven illegal crossings to an [&#8230;] The post How President Trump End",
    "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Pakistan to continue mediation efforts between US and Iran: Deputy PM Dar",
-   "url": "https://en.irna.ir/news/86298491/Pakistan-to-continue-mediation-efforts-between-US-and-Iran-Deputy",
-   "published": "2026-10-20T13:28:29+00:00",
-   "summary": "Islamabad, IRNA – Pakistan’s Deputy Prime Minister and Foreign Minister Muhammad Ishaq Dar says Islamabad will continue mediation efforts between the United States and Iran.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Indonesians protest over land-clearing fires",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/indonesians-protest-over-land-clearing-fires?traffic_source=rss",
-   "published": "2026-10-20T13:23:44+00:00",
-   "summary": "Students and activists protested across Indonesia over forest fires linked to land clearing for palm oil plantations.",
-   "tags": [
-    "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "US envoy Barrack defends decision to join Israel in war on Iran",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/20-10-iran-us-envoy-barrack-trump-war?traffic_source=rss",
-   "published": "2026-10-20T13:20:33+00:00",
-   "summary": "US envoy Tom Barrack says President Trump did not follow Israel in going to war against Iran.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Israeli attacks kill at least four Palestinians in Gaza",
-   "url": "https://www.aljazeera.com/news/2026/10/20/israeli-forces-kill-at-least-four-palestinians-in-gaza-strikes?traffic_source=rss",
-   "published": "2026-10-20T12:59:58+00:00",
-   "summary": "A couple and a 17-year-old are among those killed by Israeli air attacks and gunfire in the Gaza Strip.",
-   "tags": [
-    "strikes"
-   ],
    "highlight": false
   }
  ]
