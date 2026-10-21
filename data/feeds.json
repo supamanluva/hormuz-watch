@@ -1,6 +1,17 @@
 {
- "asOf": "2026-10-21T21:52:30.888646+00:00",
+ "asOf": "2026-10-21T22:19:30.196897+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Video shows Israeli settler assaulting Palestinian child",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/video-shows-israeli-settler-assaulting-palestinian-child-2?traffic_source=rss",
+   "published": "2026-10-21T22:03:54+00:00",
+   "summary": "An Israeli settler was filmed shouting at and assaulting a Palestinian child during an attack on a family east of Yatta.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "UN Press",
    "title": "Approving Proposed Changes to Mechanism for Closed Rwanda, Former Yugoslavia Tribunals Key to Maintaining International Criminal Justice, President Tells General Assembly",
@@ -600,15 +611,6 @@
     "diplomacy",
     "shipping"
    ],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Tensions ‘Eroding Trust’ in Kosovo, Mission Head Warns Security Council, Urging Inclusive Governance",
-   "url": "https://press.un.org/en/2026/sc16485.doc.htm",
-   "published": "2026-10-20T23:55:15+00:00",
-   "summary": "Despite progress in forming Kosovo’s institutions, tensions between communities and unresolved issues with Serbia continue to challenge stability, the Security Council heard today, as members expressed differing views on the future of the United Nations Interim Administration Mission in Kosovo (UNMIK).",
-   "tags": [],
    "highlight": false
   }
  ]
