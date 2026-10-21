@@ -1,6 +1,15 @@
 {
- "asOf": "2026-10-21T18:26:24.938595+00:00",
+ "asOf": "2026-10-21T18:43:59.731938+00:00",
  "items": [
+  {
+   "source": "White House",
+   "title": "President Trump Secures Major Wins for South Carolina Workers, Families, and Communities",
+   "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-secures-major-wins-for-south-carolina-workers-families-and-communities/",
+   "published": "2026-10-21T18:26:45+00:00",
+   "summary": "President Donald J. Trump returns to South Carolina today to highlight a proven record of results that put workers, families, seniors, and communities first. Under President Trump and Republican leadership, South Carolinians are seeing historic tax relief, surging private investment and job creation, stronger rural healthcare, and major investments in infrastructure, military readiness, and public",
+   "tags": [],
+   "highlight": false
+  },
   {
    "source": "UN Press",
    "title": "Activities of Secretary-General in Pakistan, 6-8 October",
@@ -563,7 +572,7 @@
    "title": "Reaffirm ‘Dialogue over Division’, Secretary-General Urges in United Nations Day Message",
    "url": "https://press.un.org/en/2026/sgsm23338.doc.htm",
    "published": "2026-10-20T22:55:01+00:00",
-   "summary": "Following is UN Secretary-General António Guterres’ video message for United Nations Day, observed on 24 October:",
+   "summary": "Following is UN Secretary-General António Guterres’ message for United Nations Day, observed on 24 October:",
    "tags": [],
    "highlight": false
   },
@@ -594,15 +603,6 @@
    "tags": [
     "diplomacy"
    ],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Enforced Disappearances Reach Decade-High Level, Third Committee Hears, as Human Rights Defenders Face Growing Repression",
-   "url": "https://press.un.org/en/2026/gashc4446.doc.htm",
-   "published": "2026-10-20T21:33:34+00:00",
-   "summary": "Enforced disappearances are reaching alarming levels worldwide, while human rights defenders face increasing persecution and surveillance, United Nations experts warned the Third Committee (Social, Humanitarian and Cultural) today, citing thousands of unresolved cases and growing threats to those seeking justice and accountability.",
-   "tags": [],
    "highlight": false
   }
  ]
