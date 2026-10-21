@@ -1,6 +1,35 @@
 {
- "asOf": "2026-10-21T16:22:55.281559+00:00",
+ "asOf": "2026-10-21T17:00:09.057925+00:00",
  "items": [
+  {
+   "source": "UN Press",
+   "title": "Invest in Children, Invest in Future, Urges Secretary-General in Message for World Summit",
+   "url": "https://press.un.org/en/2026/sgsm23341.doc.htm",
+   "published": "2026-10-21T16:39:36+00:00",
+   "summary": "Following is UN Secretary-General António Guterres’ message for the World Summit on Investing in Children's Well-being, in Samarkand, Uzbekistan, today:",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Ghalibaf meets Leader of Islamic Revolution to discuss key national issues",
+   "url": "https://en.irna.ir/news/86299793/Ghalibaf-meets-Leader-of-Islamic-Revolution-to-discuss-key-national",
+   "published": "2026-10-21T16:34:51+00:00",
+   "summary": "Tehran, IRNA – Parliament Speaker Mohammad Bagher Ghalibaf has met and held talks with Leader of the Islamic Revolution Ayatollah Sayyid Mojtaba Hosseini Khamenei on key national issues.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "UN Press",
+   "title": "World Can No Longer Avoid Overshooting 1.5-Degree Limit, Warns Secretary-General on Launch of New Emissions Gap Report",
+   "url": "https://press.un.org/en/2026/sgsm23340.doc.htm",
+   "published": "2026-10-21T16:33:07+00:00",
+   "summary": "Following is the text of UN Secretary-General António Guterres’ video message for the 2026 Emissions Gap Report, launched in Nairobi today:",
+   "tags": [],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Palestinian Resistance Committees commander killed in Israeli attack on Khan Younis",
@@ -525,7 +554,7 @@
    "title": "Reaffirm ‘Dialogue over Division’, Secretary-General Urges in United Nations Day Message",
    "url": "https://press.un.org/en/2026/sgsm23338.doc.htm",
    "published": "2026-10-20T22:55:01+00:00",
-   "summary": "Following is UN Secretary-General António Guterres’ message for United Nations Day, observed on 24 October:",
+   "summary": "Following is UN Secretary-General António Guterres’ video message for United Nations Day, observed on 24 October:",
    "tags": [],
    "highlight": false
   },
@@ -573,35 +602,6 @@
    "url": "https://www.aljazeera.com/sports/2026/10/20/psg-sink-barcelona-4-2-for-third-champions-league-win-in-a-row?traffic_source=rss",
    "published": "2026-10-20T21:24:06+00:00",
    "summary": "Late strikes by Vitinha and Fabian Ruiz grab victory for PSG as they aim to win the UCL for third season running.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "Congressional Bills H.R. 227, H.R. 837, H.R. 1721, H.R. 2388, H.R. 2481, H.R. 3620, H.R. 4307, H.R. 4467, H.R. 6380, and H.R. 7831 Signed into Law",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/10/congressional-bills-h-r-227-h-r-837-h-r-1721-h-r-2388-h-r-2481-h-r-3620-h-r-4307-h-r-4467-h-r-6380-and-h-r-7831-signed-into-law/",
-   "published": "2026-10-20T20:36:03+00:00",
-   "summary": "On Tuesday, October 20, 2026, the President signed into law: H.R. 227, the &#8220;Clergy Act,&#8221; which allows a 2-year period in which ministers of a church, members of a religious order, and Christian Science practitioners may submit an application to the Internal Revenue Service to revoke their exemption from Social Security coverage; H.R. 837, which [&#8230;] The post Congressional Bills H.",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Security Situation in Central African Republic Fragile, Security Council Hears, amid Calls to Adequately Fund Peacekeeping Mission Ahead of Renewal",
-   "url": "https://press.un.org/en/2026/sc16484.doc.htm",
-   "published": "2026-10-20T20:19:06+00:00",
-   "summary": "Despite advances on the political and peace front in the Central African Republic, persisting security threats imperil progress in several areas, particularly those bordering Chad and Sudan, the UN’s senior official in Bangui told the Security Council today, urging it to adequately fund the peacekeeping mission in the country, ahead of its renewal on 15 November.",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "UK police rearrest two men on suspicion of assisting Iran’s intelligence",
-   "url": "https://www.aljazeera.com/news/2026/10/20/uk-police-re-arrest-two-men-on-suspicion-of-assisting-iranian-intelligence?traffic_source=rss",
-   "published": "2026-10-20T20:17:53+00:00",
-   "summary": "Duo was first arrested for suspected link to incident at US-run airbase used for striking Iran during this year&#039;s war.",
    "tags": [
     "strikes"
    ],
