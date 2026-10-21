@@ -1,6 +1,29 @@
 {
- "asOf": "2026-10-21T11:51:45.232130+00:00",
+ "asOf": "2026-10-21T12:31:32.177559+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Iran’s enriched uranium re-emerges as point of contention in US talks",
+   "url": "https://www.aljazeera.com/news/2026/10/21/irans-enriched-uranium-re-emerges-as-point-of-contention-in-us-talks?traffic_source=rss",
+   "published": "2026-10-21T12:18:10+00:00",
+   "summary": "Iran&#039;s nuclear enrichment has emerged as a major point of contention amid diplomatic push to end the war.",
+   "tags": [
+    "diplomacy",
+    "nuclear"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Russia is ready to help resolve US-Iran conflict, Putin tells Trump’s special envoy",
+   "url": "https://en.irna.ir/news/86299537/Russia-is-ready-to-help-resolve-US-Iran-conflict-Putin-tells",
+   "published": "2026-10-21T12:09:54+00:00",
+   "summary": "Moscow, IRNA – Russian President Vladimir Putin, in a meeting with Donald Trump’s special envoy, has expressed Moscow's willingness to assist in resolving the conflict between Iran and the United States.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Trump · Truth Social",
    "title": "Biden should have done the Hubbard release long ago! What a difference a President makes!",
@@ -102,7 +125,7 @@
    "title": "Trump envoy Witkoff meets Russia’s Putin for Ukraine war talks",
    "url": "https://www.aljazeera.com/news/2026/10/21/witkoff-in-russia-for-putin-meeting-after-positive-talks-with-zelenskyy?traffic_source=rss",
    "published": "2026-10-21T07:37:19+00:00",
-   "summary": "Witkoff tells Putin that he hoped to discuss the resumption of the trilateral talks between US, Ukraine and Russia.",
+   "summary": "Witkoff tells Putin that he hoped to discuss the resumption of the trilateral talks between the US, Ukraine and Russia.",
    "tags": [
     "diplomacy"
    ],
@@ -581,27 +604,6 @@
    "url": "https://www.whitehouse.gov/releases/2026/10/delivering-for-north-carolina-safer-streets-bigger-paychecks-and-a-manufacturing-boom-under-president-trump/",
    "published": "2026-10-20T16:33:15+00:00",
    "summary": "President Donald J. Trump returns to North Carolina today with a clear record of results that put Tar Heel families, workers, seniors, and communities first. Since taking office, the Trump Administration has driven down crime, returned money to workers’ and seniors’ pockets, and unleashed a surge of advanced manufacturing, pharmaceutical, aerospace, biotechnology, and SI investment [&#8230;] The p",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Qatar says only negotiations can resolve regional tensions",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/qatar-says-only-negotiations-can-resolve-regional-tensions?traffic_source=rss",
-   "published": "2026-10-20T16:21:01+00:00",
-   "summary": "Qatar says diplomatic efforts are ongoing to de-escalate regional tensions and reopen the Strait of Hormuz.",
-   "tags": [
-    "diplomacy",
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "How President Trump Ended the Border Invasion and Restored American Sovereignty",
-   "url": "https://www.whitehouse.gov/releases/2026/10/how-president-trump-ended-the-border-invasion-and-restored-american-sovereignty/",
-   "published": "2026-10-20T14:51:09+00:00",
-   "summary": "President Donald J. Trump was returned to office with a clear mandate to end the invasion that Democrats allowed to overwhelm communities, drain public resources, and endanger public safety. In less than two years, the Trump Administration has delivered the largest reduction in the illegal alien population in modern history, driven illegal crossings to an [&#8230;] The post How President Trump End",
    "tags": [],
    "highlight": false
   }
