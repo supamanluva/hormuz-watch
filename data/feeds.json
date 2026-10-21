@@ -1,6 +1,28 @@
 {
- "asOf": "2026-10-21T14:03:09.067228+00:00",
+ "asOf": "2026-10-21T14:51:46.230863+00:00",
  "items": [
+  {
+   "source": "UN Press",
+   "title": "Secretary-General Condemns Drone Attacks in Abyei",
+   "url": "https://press.un.org/en/2026/sgsm23339.doc.htm",
+   "published": "2026-10-21T14:44:28+00:00",
+   "summary": "The following statement by UN Secretary-General António Guterres was issued today:",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "An honorable agreement or a greater strategic defeat: Araghchi explicitly warns Trump",
+   "url": "https://en.irna.ir/news/86299652/An-honorable-agreement-or-a-greater-strategic-defeat-Araghchi",
+   "published": "2026-10-21T14:11:11+00:00",
+   "summary": "Tehran, IRNA – Foreign Minister Abbas Araghchi, referring to the US president's repeated threats, has warned Donald Trump that his delusion regarding Iran’s military and nation would result in nothing, but hundreds of billions of dollars in losses for the American people and yet another severe strategic defeat.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "‘They try to break us’: Pro-Palestine activists in Czech custody",
@@ -586,24 +608,6 @@
     "diplomacy"
    ],
    "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Security Council, 10250th Meeting (PM) Kosovo/UNMIK",
-   "url": "https://press.un.org/en/blog/sc16485",
-   "published": "2026-10-20T17:21:13+00:00",
-   "summary": "The Security Council will hold its second briefing of 2026 on the situation in Kosovo at 3 p.m. today. The Special Representative of the Secretary-General and Head of the UN Interim Administration Mission in Kosovo (UNMIK), Peter Due, is expected to brief members on the Secretary-General’s latest report, published on 30 September and covering developments from 16 March to 15 September. Serbia is e",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Because of my belief in the Republican Party, and all of our Policies and Principles, and especially after witnessing what is taking place in France, and other locations throughout Europe, I am pleased to announce that, having to do with the Most Important Midterm Elections in our Country’s History, I have spent, or will be spending, over 400 Million Dollars by Election Day. More than 300 Million Dollars has already been spent on Advertising, Direct and Indirect Voter Contact, Rallies, Rally Arenas, Telerallies, Get Out the Vote Programs, Election Integrity, and more. It is my Great Honor to do so on behalf of the Republican Party, which has done so much to bring our Country back from the Edge of Oblivion. MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP",
-   "url": "https://www.trumpstruth.org/statuses/42515",
-   "published": "2026-10-20T17:09:01+00:00",
-   "summary": "Because of my belief in the Republican Party, and all of our Policies and Principles, and especially after witnessing what is taking place in France, and other locations throughout Europe, I am pleased to announce that, having to do with the Most Important Midterm Elections in our Country’s History, I have spent, or will be spending, over 400 Million Dollars by Election Day. More than 300 Million ",
-   "tags": [],
-   "highlight": true
   }
  ]
 }
