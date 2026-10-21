@@ -1,6 +1,17 @@
 {
- "asOf": "2026-10-21T15:55:59.930518+00:00",
+ "asOf": "2026-10-21T16:22:55.281559+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Palestinian Resistance Committees commander killed in Israeli attack on Khan Younis",
+   "url": "https://en.irna.ir/news/86299749/Palestinian-Resistance-Committees-commander-killed-in-Israeli",
+   "published": "2026-10-21T15:56:31+00:00",
+   "summary": "Tehran, IRNA – Ramadan Mohammad Diab, a senior commander of the Palestinian Resistance Committees, has been killed in an Israeli attack on Khan Younis in the southern Gaza Strip, the group said.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Russia to send first diesel tanker to the US amid Trump deal",
@@ -593,18 +604,6 @@
    "summary": "Duo was first arrested for suspected link to incident at US-run airbase used for striking Iran during this year&#039;s war.",
    "tags": [
     "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Super tanker catches fire after hitting mine in Hormuz",
-   "url": "https://en.irna.ir/news/86298772/Super-tanker-catches-fire-after-hitting-mine-in-Hormuz",
-   "published": "2026-10-20T20:06:21+00:00",
-   "summary": "Tehran, IRNA – Iran’s Islamic Revolution Guards Corps (IRGC) Navy announced that a supertanker carrying more than two million barrels of crude oil exploded and caught fire after striking a naval mine south of the Strait of Hormuz.",
-   "tags": [
-    "shipping",
-    "oil"
    ],
    "highlight": false
   }
