@@ -1,6 +1,17 @@
 {
- "asOf": "2026-10-21T06:33:37.866767+00:00",
+ "asOf": "2026-10-21T07:47:19.573063+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "The right to enforce civil rights is under attack in the US",
+   "url": "https://www.aljazeera.com/opinions/2026/10/21/the-right-to-enforce-civil-rights-is-under-attack-in-the-us?traffic_source=rss",
+   "published": "2026-10-21T07:06:41+00:00",
+   "summary": "The Trump administration and conservative courts are making it harder to challenge civil rights violations.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "IRGC commander: Iran’s Armed Forces hold operational control of Strait of Hormuz",
@@ -22,6 +33,17 @@
     "sanctions"
    ],
    "highlight": false
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "As the President of the United States, I have been watching Data Centers very closely, and have come to a very strong conclusion. New and large, in some cases gigantic, Data enters are mandated by me to make their own electricity, and give or sell any excess back to the local community, or grid, and therefore there is electric price increase. In fact, there could be a substantial decrease. Other elements likewise! If companies want to make their Data Centers popular, pay the community, and/or individuals within the community, a “dividend.” I have watched the process closely, and Data Centers that were highly unpopular in a certain area, have become extremely popular when a financial deal is struck. MAKE DEALS, and get them built!!! GREAT FOR THE U.S.A. President DJT",
+   "url": "https://www.trumpstruth.org/statuses/42533",
+   "published": "2026-10-21T05:37:08+00:00",
+   "summary": "As the President of the United States, I have been watching Data Centers very closely, and have come to a very strong conclusion. New and large, in some cases gigantic, Data enters are mandated by me to make their own electricity, and give or sell any excess back to the local community, or grid, and therefore there is electric price increase. In fact, there could be a substantial decrease. Other e",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": true
   },
   {
    "source": "Al Jazeera",
@@ -582,26 +604,6 @@
    "tags": [
     "diplomacy"
    ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Masoud Pezeshkian: Peace, Not Surrender",
-   "url": "https://www.aljazeera.com/video/al-jazeera-world/2026/10/20/masoud-pezeshkian-peace-not-surrender?traffic_source=rss",
-   "published": "2026-10-20T11:02:31+00:00",
-   "summary": "Iranian President Masoud Pezeshkian on sanctions, regional conflict, US-Israel tensions and his call for Muslim unity.",
-   "tags": [
-    "sanctions"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Security Council, 10249th Meeting (AM) Central African Republic/MINUSCA",
-   "url": "https://press.un.org/en/blog/sc16484",
-   "published": "2026-10-20T10:51:42+00:00",
-   "summary": "At 10 a.m., the Security Council holds a briefing on the situation in the Central African Republic. Special Representative of the Secretary-General for the Central African Republic and Head of the UN Multidimensional Integrated Stabilization Mission in the Central African Republic (MINUSCA) Valentine Rugwabiza is expected to brief on the Secretary-General’s latest report on the situation in the co",
-   "tags": [],
    "highlight": false
   }
  ]
