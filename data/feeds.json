@@ -1,12 +1,23 @@
 {
- "asOf": "2026-10-21T09:24:20.975248+00:00",
+ "asOf": "2026-10-21T09:58:54.032161+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Attack on Australian MP Haines: How threats against legislators have soared",
+   "url": "https://www.aljazeera.com/news/2026/10/21/attack-on-australian-mp-haines-how-threats-against-legislators-have-soared?traffic_source=rss",
+   "published": "2026-10-21T09:24:47+00:00",
+   "summary": "Abuse, threats against Australian lawmakers are rising in a country where political violence has historically been rare.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Blast heard in Yemen’s Aden as Houthis claim attack on military camp",
    "url": "https://www.aljazeera.com/news/2026/10/21/blast-heard-in-yemens-aden-as-houthis-claim-attack-on-military-camp?traffic_source=rss",
    "published": "2026-10-21T09:02:18+00:00",
-   "summary": "This is a breaking news story.",
+   "summary": "Smoke seen rising near airport in Aden as Houthis say they attacked a military camp with a ballistic missile.",
    "tags": [
     "strikes"
    ],
@@ -596,15 +607,6 @@
     "strikes"
    ],
    "highlight": false
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Trump border enforcement cuts fiscal, criminal costs of illegal migration that amnesty would restore:",
-   "url": "https://www.trumpstruth.org/statuses/42513",
-   "published": "2026-10-20T12:51:54+00:00",
-   "summary": "Trump border enforcement cuts fiscal, criminal costs of illegal migration that amnesty would restore: https:// justthenews.com/politics-polic y/immigration-gangs-tren",
-   "tags": [],
-   "highlight": true
   }
  ]
 }
