@@ -1,6 +1,17 @@
 {
- "asOf": "2026-10-21T08:29:27.858867+00:00",
+ "asOf": "2026-10-21T08:56:26.359574+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Drone attack in disputed Sudan-South Sudan border region kills at least 153",
+   "url": "https://www.aljazeera.com/news/2026/10/21/drone-attack-in-disputed-sudan-south-sudan-border-region-kills-at-least-153?traffic_source=rss",
+   "published": "2026-10-21T08:25:45+00:00",
+   "summary": "South Sudan authorities say Sudan&#039;s army launched drone attack on market, as MSF says it is treating 20 wounded people.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "IRNA (Iran state wire)",
    "title": "Mexican artist honors Minab school victims with ‘Butterflies of Minab’",
@@ -590,18 +601,6 @@
    "summary": "Reliance is central to Washington’s efforts to punish Russian energy buyers and contain oil prices amid the war on Iran.",
    "tags": [
     "strikes",
-    "oil"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "IRGC: Two oil ankers caught fire, halted in Strait of Hormuz",
-   "url": "https://en.irna.ir/news/86298387/IRGC-Two-tanker-caught-fire-halted-in-Strait-of-Hormuz",
-   "published": "2026-10-20T11:48:42+00:00",
-   "summary": "Tehran, IRNA – Two non-compliant tankers caught fire and were halted after hitting mines laid in the southern Strait of Hormuz while attempting to pass through prohibited area, The Islamic Revolution Guards Corps said on Tuesday.",
-   "tags": [
-    "shipping",
     "oil"
    ],
    "highlight": false
