@@ -1,6 +1,26 @@
 {
- "asOf": "2026-10-21T20:21:09.264230+00:00",
+ "asOf": "2026-10-21T20:51:53.959766+00:00",
  "items": [
+  {
+   "source": "UN Press",
+   "title": "Approving Proposed Changes to Mechanism for Closed Rwanda, Former Yugoslavia Tribunals Key to Maintaining International Criminal Justice, President Tells General Assembly",
+   "url": "https://press.un.org/en/2026/ga12796.doc.htm",
+   "published": "2026-10-21T20:45:19+00:00",
+   "summary": "The International Residual Mechanism for Criminal Tribunals has proposed reforms that could reduce its staffing by nearly 90 per cent, its President told the General Assembly today, calling for Security Council action to implement the changes and warning that the current impasse risks undermining the United Nations’ investment in international criminal justice.",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Video shows Israeli settler assaulting Palestinian child",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/video-shows-israeli-settler-assaulting-palestinian-child?traffic_source=rss",
+   "published": "2026-10-21T20:34:57+00:00",
+   "summary": "An Israeli settler was filmed shouting at and assaulting a Palestinian child during an attack on a family east of Yatta.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Cuba accuses US of threatening countries ahead of UN embargo vote",
@@ -589,26 +609,6 @@
    "published": "2026-10-20T23:55:15+00:00",
    "summary": "Despite progress in forming Kosovo’s institutions, tensions between communities and unresolved issues with Serbia continue to challenge stability, the Security Council heard today, as members expressed differing views on the future of the United Nations Interim Administration Mission in Kosovo (UNMIK).",
    "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Sixth Committee Considers Diplomatic Protection, Internal Justice, International Trade in Wide-Ranging Debate",
-   "url": "https://press.un.org/en/2026/gal3753.doc.htm",
-   "published": "2026-10-20T23:23:16+00:00",
-   "summary": "Tackling a wide variety of topics today — from international trade law to the administration of justice at the United Nations — the Sixth Committee (Legal) concluded with a consideration of measures to ensure the safety of diplomatic premises and personnel.",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "NATO to send additional patrol planes to Black Sea after drone attacks",
-   "url": "https://www.aljazeera.com/news/2026/10/20/nato-to-send-additional-patrol-planes-to-black-sea-after-drone-attacks?traffic_source=rss",
-   "published": "2026-10-20T23:19:52+00:00",
-   "summary": "The alliance announces the deployment after a series of deadly drone attacks in the region.",
-   "tags": [
-    "strikes"
-   ],
    "highlight": false
   }
  ]
