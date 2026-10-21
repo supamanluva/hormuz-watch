@@ -1,6 +1,17 @@
 {
- "asOf": "2026-10-20T22:59:49.218460+00:00",
+ "asOf": "2026-10-20T23:49:54.195804+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "NATO to send additional patrol planes to Black Sea after drone attacks",
+   "url": "https://www.aljazeera.com/news/2026/10/20/nato-to-send-additional-patrol-planes-to-black-sea-after-drone-attacks?traffic_source=rss",
+   "published": "2026-10-20T23:19:52+00:00",
+   "summary": "The alliance announces the deployment after a series of deadly drone attacks in the region.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "‘I don’t care how it’s done’: Trump pressures Ukraine to cut peace deal",
@@ -13,6 +24,15 @@
    "highlight": false
   },
   {
+   "source": "Trump · Truth Social",
+   "title": "Video post from October 20, 2026",
+   "url": "https://www.trumpstruth.org/statuses/42526",
+   "published": "2026-10-20T22:03:32+00:00",
+   "summary": "View video",
+   "tags": [],
+   "highlight": true
+  },
+  {
    "source": "Al Jazeera",
    "title": "PSG score late to sink Barcelona 4-2 in Champions League blockbuster",
    "url": "https://www.aljazeera.com/sports/2026/10/20/psg-sink-barcelona-4-2-for-third-champions-league-win-in-a-row?traffic_source=rss",
@@ -22,6 +42,33 @@
     "strikes"
    ],
    "highlight": false
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "Overflow crowds greet President Trump as he urges Kansans to reelect Sen. Marshall:",
+   "url": "https://www.trumpstruth.org/statuses/42524",
+   "published": "2026-10-20T21:12:08+00:00",
+   "summary": "Overflow crowds greet President Trump as he urges Kansans to reelect Sen. Marshall: https:// kansas.com/news/politics-gover nment/election/article317692502.html",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "Melania Trump Announces White House Women’s Health Initiative:",
+   "url": "https://www.trumpstruth.org/statuses/42523",
+   "published": "2026-10-20T21:08:11+00:00",
+   "summary": "Melania Trump Announces White House Women’s Health Initiative: https://www. nytimes.com/2026/10/19/us/poli tics/melania-trump-women-health.html",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "Trump and Republicans show a more female-friendly side of the story with new E.O. on women's health:",
+   "url": "https://www.trumpstruth.org/statuses/42525",
+   "published": "2026-10-20T21:07:24+00:00",
+   "summary": "Trump and Republicans show a more female-friendly side of the story with new E.O. on women's health: https:// justthenews.com/government/whi te-house/trump-womens-health",
+   "tags": [],
+   "highlight": true
   },
   {
    "source": "Trump · Truth Social",
@@ -70,7 +117,7 @@
   },
   {
    "source": "Al Jazeera",
-   "title": "UK police re-arrest two men on suspicion of assisting Iran’s intelligence",
+   "title": "UK police rearrest two men on suspicion of assisting Iran’s intelligence",
    "url": "https://www.aljazeera.com/news/2026/10/20/uk-police-re-arrest-two-men-on-suspicion-of-assisting-iranian-intelligence?traffic_source=rss",
    "published": "2026-10-20T20:17:53+00:00",
    "summary": "Duo was first arrested for suspected link to incident at US-run airbase used for striking Iran during this year&#039;s war.",
@@ -561,51 +608,6 @@
    "url": "https://www.trumpstruth.org/statuses/42505",
    "published": "2026-10-20T04:54:34+00:00",
    "summary": "Trace Gallagher, of FoxNews, is a very talented journalist, and a wonderful guy. He also happens to be “street smart,” and wise! His new book, “Turns Out They Were Right All Along,” which is a Top Seller, is FANTASTIC. Get it now! President DONALD J. TRUMP https://www. amazon.com/Turns-They-Were-Rig ht-Along/dp/0063568837/ref=tmm_hrd_swatch_0?_encoding=UTF8&amp;dib_tag=se&amp;dib=eyJ2IjoiMSJ9.F-Jr",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Image post from October 20, 2026",
-   "url": "https://www.trumpstruth.org/statuses/42504",
-   "published": "2026-10-20T04:45:10+00:00",
-   "summary": "View image",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Image post from October 20, 2026",
-   "url": "https://www.trumpstruth.org/statuses/42499",
-   "published": "2026-10-20T04:44:56+00:00",
-   "summary": "View image",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Image post from October 20, 2026",
-   "url": "https://www.trumpstruth.org/statuses/42500",
-   "published": "2026-10-20T04:44:04+00:00",
-   "summary": "View image",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Image post from October 20, 2026",
-   "url": "https://www.trumpstruth.org/statuses/42501",
-   "published": "2026-10-20T04:43:57+00:00",
-   "summary": "View image",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Image post from October 20, 2026",
-   "url": "https://www.trumpstruth.org/statuses/42502",
-   "published": "2026-10-20T04:43:47+00:00",
-   "summary": "View image",
    "tags": [],
    "highlight": true
   }
