@@ -1,6 +1,17 @@
 {
- "asOf": "2026-10-21T02:00:02.165446+00:00",
+ "asOf": "2026-10-21T02:30:52.992172+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Drone strike on Abyei market near Sudan-South Sudan border kills 150",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/drone-strike-on-abyei-market-near-sudan-south-sudan-border-kills-150?traffic_source=rss",
+   "published": "2026-10-21T02:18:10+00:00",
+   "summary": "Drone strike on Abyei market near Sudan-South Sudan border kills 150",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "King Charles welcomes Omani sultan, hails peace efforts in UK state visit",
@@ -602,18 +613,6 @@
    "summary": "Foreign Minister Abbas Araghchi and his visiting Russian counterpart Sergey Lavrov held talks here in Tehran on October 19, 2026.",
    "tags": [
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Another US MQ-1 drone downed over Strait of Hormuz",
-   "url": "https://en.irna.ir/news/86297740/Another-US-MQ-1-drone-downed-over-Strait-of-Hormuz",
-   "published": "2026-10-20T05:16:23+00:00",
-   "summary": "Tehran, IRNA — The Islamic Revolution Guards Corps (IRGC) has announced the downing of yet another enemy MQ-9 drone over the strategic Strait of Hormuz.",
-   "tags": [
-    "strikes",
-    "shipping"
    ],
    "highlight": false
   }
