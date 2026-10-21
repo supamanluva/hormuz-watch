@@ -1,6 +1,17 @@
 {
- "asOf": "2026-10-21T19:50:46.914799+00:00",
+ "asOf": "2026-10-21T20:21:09.264230+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Cuba accuses US of threatening countries ahead of UN embargo vote",
+   "url": "https://www.aljazeera.com/news/2026/10/21/cuba-accuses-us-of-threatening-countries-ahead-of-un-embargo-vote?traffic_source=rss",
+   "published": "2026-10-21T19:51:29+00:00",
+   "summary": "Havana says Washington is threatening countries with retaliation if they refuse to vote against condemning its embargo.",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Russia willing to resume peace talks with Ukraine, US after Witkoff visit",
@@ -598,15 +609,6 @@
    "tags": [
     "strikes"
    ],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Reaffirm ‘Dialogue over Division’, Secretary-General Urges in United Nations Day Message",
-   "url": "https://press.un.org/en/2026/sgsm23338.doc.htm",
-   "published": "2026-10-20T22:55:01+00:00",
-   "summary": "Following is UN Secretary-General António Guterres’ video message for United Nations Day, observed on 24 October:",
-   "tags": [],
    "highlight": false
   }
  ]
