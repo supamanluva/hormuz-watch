@@ -1,6 +1,28 @@
 {
- "asOf": "2026-10-21T05:21:46.940975+00:00",
+ "asOf": "2026-10-21T06:33:37.866767+00:00",
  "items": [
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "IRGC commander: Iran’s Armed Forces hold operational control of Strait of Hormuz",
+   "url": "https://en.irna.ir/news/86298925/IRGC-commander-Iran-s-Armed-Forces-hold-operational-control",
+   "published": "2026-10-21T06:04:44+00:00",
+   "summary": "Khomein, IRNA – Iranian Armed Forces control the battlefield in the Strait of Hormuz, which will continue for as long as the Islamic Republic desires, says Major General Mostafa Izadi, Deputy Commander of the Islamic Revolution Guards Corps (IRGC).",
+   "tags": [
+    "shipping"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran condemns US pressure on Cuba, arrest warrant for Raul Castro",
+   "url": "https://en.irna.ir/news/86298906/Iran-condemns-US-pressure-on-Cuba-arrest-warrant-for-Raul-Castro",
+   "published": "2026-10-21T05:45:56+00:00",
+   "summary": "Tehran, IRNA — Iran’s Foreign Ministry has condemned US interventionist actions against Cuba, including sanctions and efforts to intimidate Cuban officials, describing an arrest warrant for former Cuban President Raul Castro as illegal and criminal.",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "Lula, Bolsonaro seek to disqualify each other ahead of Brazil runoff",
@@ -580,29 +602,6 @@
    "published": "2026-10-20T10:51:42+00:00",
    "summary": "At 10 a.m., the Security Council holds a briefing on the situation in the Central African Republic. Special Representative of the Secretary-General for the Central African Republic and Head of the UN Multidimensional Integrated Stabilization Mission in the Central African Republic (MINUSCA) Valentine Rugwabiza is expected to brief on the Secretary-General’s latest report on the situation in the co",
    "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Tehran, Baghdad agree on expulsion of anti-Iran separatist terrorist groups from KRI: Envoy",
-   "url": "https://en.irna.ir/news/86298169/Tehran-Baghdad-agree-on-expulsion-of-anti-Iran-separatist-terrorist",
-   "published": "2026-10-20T10:44:44+00:00",
-   "summary": "Tehran, IRNA – Iran’s ambassador to Iraq says Tehran and Baghdad have agreed on the expulsion of anti-Iran separatist terrorist elements from the Kurdistan Region of Iraq or handing them over to Iran.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "US leaving oil-for-security approach, not Middle East: Envoy Tom Barrack",
-   "url": "https://www.aljazeera.com/news/2026/10/20/us-leaving-oil-for-security-approach-not-middle-east-envoy-tom-barrack?traffic_source=rss",
-   "published": "2026-10-20T10:36:57+00:00",
-   "summary": "Barrack highlights limits of US interventions, admitting past regime changes in the Middle East were often mistakes.",
-   "tags": [
-    "diplomacy",
-    "oil"
-   ],
    "highlight": false
   }
  ]
