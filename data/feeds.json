@@ -1,6 +1,39 @@
 {
- "asOf": "2026-10-21T18:43:59.731938+00:00",
+ "asOf": "2026-10-21T19:17:55.521211+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Russia willing to resume peace talks with Ukraine, US after Witkoff visit",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/russia-willing-to-resume-peace-talks-with-ukraine-us-after-witkoff-visit?traffic_source=rss",
+   "published": "2026-10-21T19:01:05+00:00",
+   "summary": "Russian President Vladimir Putin has signalled Moscow is willing in principle to resume talks with Ukraine and the US.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Iran determined to keep uranium amid increased war odds, flurry of meetings",
+   "url": "https://www.aljazeera.com/news/2026/10/21/iran-determined-to-keep-uranium-amid-increased-war-odds-flurry-of-meetings?traffic_source=rss",
+   "published": "2026-10-21T18:58:29+00:00",
+   "summary": "Tehran had &#039;nothing new&#039; to tell Washington after latest nuclear proposals reportedly offered by mediators.",
+   "tags": [
+    "nuclear"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Yemen holds mass funeral for 75 recruits killed in Houthi strike",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/aje-onl-nf_funeral-in-yemen-for-recruits-killed-by-houthis-211026?traffic_source=rss",
+   "published": "2026-10-21T18:29:38+00:00",
+   "summary": "A mass funeral has been held in southern Yemen for 75 recruits killed in a Houthi missile strike on a training camp.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
   {
    "source": "White House",
    "title": "President Trump Secures Major Wins for South Carolina Workers, Families, and Communities",
@@ -572,37 +605,8 @@
    "title": "Reaffirm ‘Dialogue over Division’, Secretary-General Urges in United Nations Day Message",
    "url": "https://press.un.org/en/2026/sgsm23338.doc.htm",
    "published": "2026-10-20T22:55:01+00:00",
-   "summary": "Following is UN Secretary-General António Guterres’ message for United Nations Day, observed on 24 October:",
+   "summary": "Following is UN Secretary-General António Guterres’ video message for United Nations Day, observed on 24 October:",
    "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Chemical Weapons Concerns Dominate First Committee Debate as Delegates Hail Progress in Syria",
-   "url": "https://press.un.org/en/2026/gadis3773.doc.htm",
-   "published": "2026-10-20T22:41:12+00:00",
-   "summary": "Amid concerns over alleged chemical-agent use in ongoing conflicts, First Committee (Disarmament and International Security) delegates welcomed progress in efforts to eliminate Syria’s chemical weapons legacy and reaffirmed the absolute prohibition of chemical weapons by anyone, anywhere and under any circumstances.",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General",
-   "url": "https://press.un.org/en/2026/db261020.doc.htm",
-   "published": "2026-10-20T22:39:04+00:00",
-   "summary": "In the Democratic Republic of Congo, MONUSCO continues joint patrols with Congolese forces in Ituri and North Kivu to protect civilians. Day and night patrols cover villages, farmland, markets and transport routes, deterring armed groups and enabling communities to safely conduct daily activities.",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "‘I don’t care how it’s done’: Trump pressures Ukraine to cut peace deal",
-   "url": "https://www.aljazeera.com/news/2026/10/20/i-dont-care-how-its-done-trump-pressures-ukraine-to-cut-peace-deal?traffic_source=rss",
-   "published": "2026-10-20T22:20:13+00:00",
-   "summary": "The US president&#039;s remarks come amid a deepening feud with Ukraine&#039;s President Volodymyr Zelenskyy.",
-   "tags": [
-    "diplomacy"
-   ],
    "highlight": false
   }
  ]
