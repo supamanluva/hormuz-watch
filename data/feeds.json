@@ -1,5 +1,5 @@
 {
- "asOf": "2026-10-22T00:51:03.693552+00:00",
+ "asOf": "2026-10-22T01:29:00.077185+00:00",
  "items": [
   {
    "source": "Al Jazeera",
@@ -32,6 +32,15 @@
    "tags": [
     "diplomacy"
    ],
+   "highlight": false
+  },
+  {
+   "source": "UN Press",
+   "title": "Sixth Committee Considers Potential Rules Governing Expulsion of Foreigners, Responsibility of International Organizations",
+   "url": "https://press.un.org/en/2026/gal3754.doc.htm",
+   "published": "2026-10-21T23:34:11+00:00",
+   "summary": "The Sixth Committee (Legal) today took stock of two sets of draft articles adopted by the International Law Commission — relating to the responsibility of international organizations and the expulsion of aliens — as delegations debated whether these provisions are suitable for formal codification.",
+   "tags": [],
    "highlight": false
   },
   {
@@ -593,17 +602,6 @@
    "url": "https://en.irna.ir/news/86298891/No-explosion-at-Iranian-Aluminum-Company-Official",
    "published": "2026-10-21T07:21:02+00:00",
    "summary": "Arak, IRNA – The governor of Arak, central Iran, says a technical fault in the electrical system and voltage fluctuations caused an incident at Iranian Aluminum Company (IRALCO), with no explosion or sabotage involved.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "The right to enforce civil rights is under attack in the US",
-   "url": "https://www.aljazeera.com/opinions/2026/10/21/the-right-to-enforce-civil-rights-is-under-attack-in-the-us?traffic_source=rss",
-   "published": "2026-10-21T07:06:41+00:00",
-   "summary": "The Trump administration and conservative courts are making it harder to challenge civil rights violations.",
    "tags": [
     "strikes"
    ],
