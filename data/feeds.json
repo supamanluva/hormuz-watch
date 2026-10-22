@@ -1,6 +1,18 @@
 {
- "asOf": "2026-10-22T01:58:59.194507+00:00",
+ "asOf": "2026-10-22T02:31:48.481698+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Qatar, France call for opening of Hormuz and Gaza ceasefire implementation",
+   "url": "https://www.aljazeera.com/news/2026/10/22/qatar-france-call-for-opening-of-hormuz-and-gaza-ceasefire-implementation?traffic_source=rss",
+   "published": "2026-10-22T01:45:48+00:00",
+   "summary": "Qatari and French leaders stress need to restore freedom of navigation in Strait of Hormuz.",
+   "tags": [
+    "diplomacy",
+    "shipping"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "One killed, eight injured in attack on Saudi Arabia’s King Fahd airport",
@@ -593,17 +605,6 @@
    "summary": "Witkoff tells Putin that he hoped to discuss the resumption of the trilateral talks between the US, Ukraine and Russia.",
    "tags": [
     "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "No explosion at Iranian Aluminum Company: Official",
-   "url": "https://en.irna.ir/news/86298891/No-explosion-at-Iranian-Aluminum-Company-Official",
-   "published": "2026-10-21T07:21:02+00:00",
-   "summary": "Arak, IRNA – The governor of Arak, central Iran, says a technical fault in the electrical system and voltage fluctuations caused an incident at Iranian Aluminum Company (IRALCO), with no explosion or sabotage involved.",
-   "tags": [
-    "strikes"
    ],
    "highlight": false
   }
