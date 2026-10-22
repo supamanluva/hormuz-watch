@@ -1,6 +1,39 @@
 {
- "asOf": "2026-10-21T23:52:09.416587+00:00",
+ "asOf": "2026-10-22T00:51:03.693552+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "One killed, eight injured in attack on Saudi Arabia’s King Fahd airport",
+   "url": "https://www.aljazeera.com/news/2026/10/22/one-killed-eight-injured-in-attack-on-saudi-arabias-king-fahd-airport-2?traffic_source=rss",
+   "published": "2026-10-22T00:25:41+00:00",
+   "summary": "Injured immediately transported to hospitals as aviation authority says updates will be forthcoming.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Iran war live: IRGC vows invasion as defence doctrine turns ‘offensive’",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/10/22/iran-war-live-irgc-vows-invasion-as-defence-doctrine-turns-offensive?traffic_source=rss",
+   "published": "2026-10-22T00:00:00+00:00",
+   "summary": "Iran&#039;s IRGC threatens to invade any country that attacks it under a new &#039;offensive and asymmetrical&#039; doctrine.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "What happened during Witkoff and Kushner’s latest meeting with Putin",
+   "url": "https://www.aljazeera.com/news/2026/10/21/what-happened-during-witkoff-and-kushners-latest-meeting-with-putin?traffic_source=rss",
+   "published": "2026-10-21T23:52:00+00:00",
+   "summary": "The latest round of negotiations comes amid growing concerns in Kyiv the US is backing away from its support of Ukraine.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
   {
    "source": "UN Press",
    "title": "Underscoring Need for Funding to Bolster Radiation Scientific Committee, Fourth Committee Approves Draft Lauding Its Valuable Inputs",
@@ -575,39 +608,6 @@
     "strikes"
    ],
    "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "IRGC commander: Iran’s Armed Forces hold operational control of Strait of Hormuz",
-   "url": "https://en.irna.ir/news/86298925/IRGC-commander-Iran-s-Armed-Forces-hold-operational-control",
-   "published": "2026-10-21T06:04:44+00:00",
-   "summary": "Khomein, IRNA – Iranian Armed Forces control the battlefield in the Strait of Hormuz, which will continue for as long as the Islamic Republic desires, says Major General Mostafa Izadi, Deputy Commander of the Islamic Revolution Guards Corps (IRGC).",
-   "tags": [
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran condemns US pressure on Cuba, arrest warrant for Raul Castro",
-   "url": "https://en.irna.ir/news/86298906/Iran-condemns-US-pressure-on-Cuba-arrest-warrant-for-Raul-Castro",
-   "published": "2026-10-21T05:45:56+00:00",
-   "summary": "Tehran, IRNA — Iran’s Foreign Ministry has condemned US interventionist actions against Cuba, including sanctions and efforts to intimidate Cuban officials, describing an arrest warrant for former Cuban President Raul Castro as illegal and criminal.",
-   "tags": [
-    "sanctions"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "As the President of the United States, I have been watching Data Centers very closely, and have come to a very strong conclusion. New and large, in some cases gigantic, Data enters are mandated by me to make their own electricity, and give or sell any excess back to the local community, or grid, and therefore there is electric price increase. In fact, there could be a substantial decrease. Other elements likewise! If companies want to make their Data Centers popular, pay the community, and/or individuals within the community, a “dividend.” I have watched the process closely, and Data Centers that were highly unpopular in a certain area, have become extremely popular when a financial deal is struck. MAKE DEALS, and get them built!!! GREAT FOR THE U.S.A. President DJT",
-   "url": "https://www.trumpstruth.org/statuses/42533",
-   "published": "2026-10-21T05:37:08+00:00",
-   "summary": "As the President of the United States, I have been watching Data Centers very closely, and have come to a very strong conclusion. New and large, in some cases gigantic, Data enters are mandated by me to make their own electricity, and give or sell any excess back to the local community, or grid, and therefore there is electric price increase. In fact, there could be a substantial decrease. Other e",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": true
   }
  ]
 }
