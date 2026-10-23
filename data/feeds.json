@@ -1,6 +1,81 @@
 {
- "asOf": "2026-10-23T12:08:38.156713+00:00",
+ "asOf": "2026-10-23T13:50:09.655375+00:00",
  "items": [
+  {
+   "source": "Al Jazeera",
+   "title": "Trump ordered to testify in $10bn BBC lawsuit discovery: What happens now?",
+   "url": "https://www.aljazeera.com/news/2026/10/23/trump-ordered-to-testify-in-10bn-bbc-lawsuit-discovery-what-happens-now?traffic_source=rss",
+   "published": "2026-10-23T13:17:46+00:00",
+   "summary": "Trump could face sanctions, including dismissal of his lawsuit, if he fails to cooperate with questioning.",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Russia drops cluster bombs on Ukraine as Kyiv consolidates front line",
+   "url": "https://www.aljazeera.com/news/2026/10/23/russia-drops-cluster-bombs-on-ukraine-as-kyiv-consolidates-front-line?traffic_source=rss",
+   "published": "2026-10-23T13:17:18+00:00",
+   "summary": "Russia’s territorial gains this year are effectively nil as it heads into trilateral talks with Ukraine, US.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "White House",
+   "title": "First Lady Melania Trump Secures Ceasefire Between Russia and Ukraine, Localized to Oleshky",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/10/first-lady-melania-trump-secures-ceasefire-between-russia-and-ukraine-localized-to-oleshky/",
+   "published": "2026-10-23T13:16:54+00:00",
+   "summary": "First Lady Melania Trump successfully secured a ceasefire between Russia and Ukraine, localized to the city of Oleshky. Both nations agreed to temporarily stop all military action in Oleshky to allow for humanitarian aid to enter and to prepare a civilian evacuation through a designated safe passageway. The localized ceasefire will begin on October 29, [&#8230;] The post First Lady Melania Trump S",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Qatar Moto GP to go ahead despite regional tensions",
+   "url": "https://www.aljazeera.com/sports/2026/10/23/qatar-moto-gp-to-go-ahead-despite-regional-tensions?traffic_source=rss",
+   "published": "2026-10-23T13:00:18+00:00",
+   "summary": "Qatar GP goes ahead despite Saudi Arabia scrapping events in region after deadly strike on Riyadh airport.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Russia-Ukraine talks planned for November in UAE: Kremlin",
+   "url": "https://www.aljazeera.com/news/2026/10/23/russia-ukraine-talks-planned-for-november-in-uae-kremlin?traffic_source=rss",
+   "published": "2026-10-23T12:54:44+00:00",
+   "summary": "The US-brokered talks are the first planned talks since negotiations stopped earlier this year.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "White House",
+   "title": "Presidential Message on the World Series",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-the-world-series/",
+   "published": "2026-10-23T12:22:50+00:00",
+   "summary": "This week, Americans across our great country are coming together to celebrate the 2026 World Series, the crown jewel of our Nation’s favorite pastime.&#160; Baseball has long held a cherished place in our culture, and now, the Fall Classic once again unites us around this storied game. For nearly two centuries, baseball has shaped the [&#8230;] The post Presidential Message on the World Series ap",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran demands end to selective IAEA statute implementation",
+   "url": "https://en.irna.ir/news/86301031/Iran-demands-end-to-selective-IAEA-statute-implementation",
+   "published": "2026-10-23T12:11:17+00:00",
+   "summary": "London, IRNA – On the 70th anniversary of the approval of the IAEA statute, Iran’s permanent mission to the UN in Vienna issued a statement calling for an end to the selective and politically motivated implementation of the Agency’s obligations.",
+   "tags": [
+    "nuclear"
+   ],
+   "highlight": false
+  },
   {
    "source": "Al Jazeera",
    "title": "US-Iran war, then and now: How the landscape has changed since February",
@@ -527,75 +602,6 @@
    "url": "https://press.un.org/en/2026/gal3754.doc.htm",
    "published": "2026-10-21T23:34:11+00:00",
    "summary": "The Sixth Committee (Legal) today took stock of two sets of draft articles adopted by the International Law Commission — relating to the responsibility of international organizations and the expulsion of aliens — as delegations debated whether these provisions are suitable for formal codification.",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Underscoring Need for Funding to Bolster Radiation Scientific Committee, Fourth Committee Approves Draft Lauding Its Valuable Inputs",
-   "url": "https://press.un.org/en/2026/gaspd842.doc.htm",
-   "published": "2026-10-21T22:35:43+00:00",
-   "summary": "Commending the rigorous, evidence-based work of the United Nations Scientific Committee on the Effects of Atomic Radiation, the Fourth Committee (Special Political and Decolonization) today approved without a vote a resolution concerning that body.",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General",
-   "url": "https://press.un.org/en/2026/db261021.doc.htm",
-   "published": "2026-10-21T22:31:07+00:00",
-   "summary": "In Geneva, Under-Secretary-General for Humanitarian Affairs Tom Fletcher sounded the alarm over El Niño, calling it a “behemoth” and a “wrecking ball” that will hit regions already battered by conflict; displacement; soaring food; fertilizer and fuel prices; and massive aid cuts.",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Video shows Israeli settler assaulting Palestinian child",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/video-shows-israeli-settler-assaulting-palestinian-child-2?traffic_source=rss",
-   "published": "2026-10-21T22:03:54+00:00",
-   "summary": "An Israeli settler was filmed shouting at and assaulting a Palestinian child during an attack on a family east of Yatta.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "‘War on Narco-Terrorism’ Fuels Unlawful Killings, Third Committee Hears, as Experts Warn of Mass Displacement, Attacks on Justice",
-   "url": "https://press.un.org/en/2026/gashc4447.doc.htm",
-   "published": "2026-10-21T21:31:38+00:00",
-   "summary": "A new “war on narco-terrorism” is fuelling unlawful killings and other grave human rights violations, United Nations experts warned the Third Committee (Social, Humanitarian and Cultural) today, as they sounded the alarm over mass displacement, the separation of migrant children from their families and mounting attacks on judicial independence.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "On World Cities Day, Secretary-General Urges Adequate Housing for All",
-   "url": "https://press.un.org/en/2026/sgsm23342.doc.htm",
-   "published": "2026-10-21T21:06:12+00:00",
-   "summary": "Following is UN Secretary-General António Guterres’ message for World Cities Day, observed on 31 October:",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "First Committee Debates Pathways to Prevent Weaponization of Outer Space",
-   "url": "https://press.un.org/en/2026/gadis3774.doc.htm",
-   "published": "2026-10-21T21:01:41+00:00",
-   "summary": "Delegates in the First Committee (Disarmament and International Security) today voiced broad support for preserving outer space as a peaceful, secure and accessible domain for all countries, but differed on the best path to prevent its weaponization, with some favouring legally binding agreements and others prioritizing voluntary measures.",
-   "tags": [
-    "diplomacy"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Approving Proposed Changes to Mechanism for Closed Rwanda, Former Yugoslavia Tribunals Key to Maintaining International Criminal Justice, President Tells General Assembly",
-   "url": "https://press.un.org/en/2026/ga12796.doc.htm",
-   "published": "2026-10-21T20:45:19+00:00",
-   "summary": "The International Residual Mechanism for Criminal Tribunals has proposed reforms that could reduce its staffing by nearly 90 per cent, its President told the General Assembly today, calling for Security Council action to implement the changes and warning that the current impasse risks undermining the United Nations’ investment in international criminal justice.",
    "tags": [],
    "highlight": false
   }
