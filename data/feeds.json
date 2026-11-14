@@ -1,12 +1,23 @@
 {
- "asOf": "2026-11-08T09:17:44.566602+00:00",
+ "asOf": "2026-11-14T17:50:12.251363+00:00",
  "items": [
   {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran welcomes India’s diplomatic efforts to promote regional peace: Envoy",
+   "url": "https://en.irna.ir/news/86321679/Iran-welcomes-India-s-diplomatic-efforts-to-promote-regional",
+   "published": "2026-11-14T16:34:52+00:00",
+   "summary": "Tehran, IRNA – Iran’s Ambassador to India Mohammad Fathali says Iran welcomes India’s initiatives and diplomatic efforts to help establish peace in the region.",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": false
+  },
+  {
    "source": "Al Jazeera",
-   "title": "US military attacks cargo ship in the Gulf of Oman",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/us-military-attacks-cargo-ship-in-the-gulf-of-oman?traffic_source=rss",
-   "published": "2026-11-08T08:24:37+00:00",
-   "summary": "The US military says it has fired on and disabled a St. Kitts-flagged cargo ship in the Gulf of Oman.",
+   "title": "Myanmar airstrike kills 12 at displacement camp in Rakhine state",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/myanmar-airstrike-displacement-camp-rakhine?traffic_source=rss",
+   "published": "2026-11-14T16:13:43+00:00",
+   "summary": "A Myanmar military airstrike on a displacement camp in Rakhine state killed 12 people.",
    "tags": [
     "strikes"
    ],
@@ -14,305 +25,98 @@
   },
   {
    "source": "IRNA (Iran state wire)",
-   "title": "Strait of Hormuz gives Iran strategic leverage in global affairs: Official",
-   "url": "https://en.irna.ir/news/86315606/Strait-of-Hormuz-gives-Iran-strategic-leverage-in-global-affairs",
-   "published": "2026-11-08T08:16:19+00:00",
-   "summary": "Tehran, IRNA — The Strait of Hormuz has become an important instrument of influence for Iran, with developments there directly linked to the country’s financial security, the secretary of the Expediency Council’s secretariat says.",
+   "title": "18 Muslim-majority countries condemn Israeli attack on Gaza’s Nasser hospital",
+   "url": "https://en.irna.ir/news/86321649/18-Muslim-majority-countries-condemn-Israeli-attack-on-Gaza-s",
+   "published": "2026-11-14T14:57:01+00:00",
+   "summary": "Tehran, IRNA - Foreign ministers from 18 Arab and Islamic nations strongly condemned the Israeli deadly airstrike on Nasser Medical Complex in Gaza, which led to casualties among patients and medical staff.",
    "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "Gavin Newscum’s halting the Death Penalty for all 563 California Death Row inmates, some of the worst cold blooded murderers to have ever lived on the face of the Earth, is a disaster for Justice in America. Many of these names, people who have killed, over and over again, can’t believe their luck in having a Governor so incompetent and insensitive that he would not let the long and winding legal system prevail. The family members of those who were so viciously killed are, rightfully, devastated. Hopefully this decision will be overturned! President DONALD J. TRUMP",
+   "url": "https://www.trumpstruth.org/statuses/43570",
+   "published": "2026-11-14T14:54:51+00:00",
+   "summary": "Gavin Newscum’s halting the Death Penalty for all 563 California Death Row inmates, some of the worst cold blooded murderers to have ever lived on the face of the Earth, is a disaster for Justice in America. Many of these names, people who have killed, over and over again, can’t believe their luck in having a Governor so incompetent and insensitive that he would not let the long and winding legal ",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "How does Iran view shift in US approach after JD Vance ordered away?",
+   "url": "https://www.aljazeera.com/news/2026/11/14/how-does-iran-view-shift-in-us-approach-after-vance-ordered-away?traffic_source=rss",
+   "published": "2026-11-14T13:24:44+00:00",
+   "summary": "Washington believes maritime blockade, overland border disruptions, air restrictions and isolating sanctions are working",
+   "tags": [
+    "sanctions"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iran seeks fair treatment on nuclear rights, sovereignty over Strait of Hormuz: VP",
+   "url": "https://en.irna.ir/news/86321499/Iran-seeks-fair-treatment-on-nuclear-rights-sovereignty-over",
+   "published": "2026-11-14T13:11:00+00:00",
+   "summary": "Tehran, IRNA – Vice President for Legal Affairs Majid Ansari has emphasized that Iran seeks fair treatment and respect for its nuclear rights, territorial sovereignty, and authority over the Strait of Hormuz.",
+   "tags": [
+    "nuclear",
     "shipping"
    ],
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "Saudi Arabia intercepts Houthi missiles targeting Riyadh, Eastern province",
-   "url": "https://www.aljazeera.com/news/2026/11/8/saudi-arabia-intercepts-houthi-missiles-targeting-riyadh-eastern-province?traffic_source=rss",
-   "published": "2026-11-08T07:40:07+00:00",
-   "summary": "The interceptions come as the Houthis report 33 people killed in a coalition air attack on a village near Sanaa.",
+   "source": "IRNA (Iran state wire)",
+   "title": "IRGC downs 17th US MQ-1 drone over Qeshm Island",
+   "url": "https://en.irna.ir/news/86321541/IRGC-downs-17th-US-MQ-1-drone-over-Qeshm-Island",
+   "published": "2026-11-14T13:08:58+00:00",
+   "summary": "Tehran, IRNA – The Islamic Revolution Guard Corps (IRGC) says it has shot down a US MQ-1 drone over Qeshm Island in the Persian Gulf, marking the 17th such drone it has downed.",
    "tags": [
     "strikes"
    ],
    "highlight": false
   },
   {
-   "source": "IRNA (Iran state wire)",
-   "title": "IRGC navy reports explosions on two tankers in Strait of Hormuz",
-   "url": "https://en.irna.ir/news/86315378/IRGC-navy-reports-explosions-on-two-tankers-in-Strait-of-Hormuz",
-   "published": "2026-11-08T06:06:15+00:00",
-   "summary": "Tehran, IRNA — The Islamic Revolution Guards Corps (IRGC) Navy has reported that two oil tankers caught fire following explosions in the Strait of Hormuz early Sunday.",
+   "source": "Al Jazeera",
+   "title": "Ethiopia blames Egypt, Eritrea for Tigray attacks",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/ethiopia-blames-egypt-eritrea-for-tigray-attacks?traffic_source=rss",
+   "published": "2026-11-14T12:28:19+00:00",
+   "summary": "Ethiopia accuses Eritrea of leading TPLF attacks in Tigray, with Egypt providing logistical support.",
    "tags": [
-    "strikes",
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Al Jazeera",
+   "title": "Trump-Xi-Putin trilateral meeting at APEC: What to expect",
+   "url": "https://www.aljazeera.com/news/2026/11/14/trump-xi-putin-trilateral-meeting-at-apec-what-to-expect?traffic_source=rss",
+   "published": "2026-11-14T12:14:14+00:00",
+   "summary": "A nuclear treaty and the US&#039;s war on Iran are among priority topics for China, Russia and US leaders.",
+   "tags": [
+    "nuclear"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Another violating tanker catches fire east of Strait of Hormuz",
+   "url": "https://en.irna.ir/news/86321481/Another-violating-tanker-catches-fire-east-of-Strait-of-Hormuz",
+   "published": "2026-11-14T11:40:30+00:00",
+   "summary": "Tehran, IRNA – The Iranian Navy reported on Saturday that another offending oil tanker caught fire earlier in the day, after striking a naval mine in a prohibited area east of the Strait of Hormuz.",
+   "tags": [
     "shipping",
     "oil"
    ],
    "highlight": false
   },
   {
-   "source": "Al Jazeera",
-   "title": "Drone attack on Colombian army base kills three soldiers and wounds 16",
-   "url": "https://www.aljazeera.com/news/2026/11/8/drone-attack-on-colombian-army-base-kills-three-soldiers-and-wounds-16?traffic_source=rss",
-   "published": "2026-11-08T04:56:37+00:00",
-   "summary": "Colombian President de la Espriella says those behind the attack in Santa Rosa del Sur will have ‘nowhere to hide’.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Quote post from November 8, 2026",
-   "url": "https://www.trumpstruth.org/statuses/43524",
-   "published": "2026-11-08T03:53:01+00:00",
-   "summary": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117577381997659473 View image Quoted Donald J. Trump View video",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Al Jazeera",
-   "title": "Iran war live: US moves to block land supply routes; UAE rescues 22 sailors",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/11/8/iran-war-live-explosions-hit-qeshm-us-moves-to-block-land-supply-routes?traffic_source=rss",
-   "published": "2026-11-08T00:00:56+00:00",
-   "summary": "Iranian state media report blasts on Qeshm Island in Strait of Hormuz and the cities of Jask, Sirik and Bandar Abbas.",
-   "tags": [
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Video post from November 7, 2026",
-   "url": "https://www.trumpstruth.org/statuses/43523",
-   "published": "2026-11-07T21:54:30+00:00",
-   "summary": "View video",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Quote post from November 7, 2026",
-   "url": "https://www.trumpstruth.org/statuses/43520",
-   "published": "2026-11-07T21:48:09+00:00",
-   "summary": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117577356194134392 View image Quoted Donald J. Trump View video",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Video post from November 7, 2026",
-   "url": "https://www.trumpstruth.org/statuses/43521",
-   "published": "2026-11-07T21:47:56+00:00",
-   "summary": "View video",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Quote post from November 7, 2026",
-   "url": "https://www.trumpstruth.org/statuses/43522",
-   "published": "2026-11-07T21:47:48+00:00",
-   "summary": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117577346685295339 View image Quoted Donald J. Trump View video",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Video post from November 7, 2026",
-   "url": "https://www.trumpstruth.org/statuses/43519",
-   "published": "2026-11-07T21:46:22+00:00",
-   "summary": "View video",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Video post from November 7, 2026",
-   "url": "https://www.trumpstruth.org/statuses/43518",
-   "published": "2026-11-07T21:45:31+00:00",
-   "summary": "View video",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Image post from November 7, 2026",
-   "url": "https://www.trumpstruth.org/statuses/43517",
-   "published": "2026-11-07T21:44:26+00:00",
-   "summary": "View image",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Quote post from November 7, 2026",
-   "url": "https://www.trumpstruth.org/statuses/43514",
-   "published": "2026-11-07T20:08:16+00:00",
-   "summary": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117576963589452045 View image Quoted Donald J. Trump View image",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Image post from November 7, 2026",
-   "url": "https://www.trumpstruth.org/statuses/43515",
-   "published": "2026-11-07T20:08:06+00:00",
-   "summary": "View image",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Image post from November 7, 2026",
-   "url": "https://www.trumpstruth.org/statuses/43516",
-   "published": "2026-11-07T20:07:55+00:00",
-   "summary": "View image",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Daniel Sullivan is leading substantially in the Alaska Senatorial Race. When you add Daniel (3,600, 1.68%) into Dan, and Gerald Heikes (4,846, 2.27%), Senator Dan Sullivan is up by thousands of Votes. Remember, Heikes was also fraudulently put into the Race. I don’t know what takes so long to announce his win. This should be immediate! Anyone voting for Daniel J. Sullivan, Jr., a man who tried to change his middle initial, but was unable to get it done in time, and who was otherwise nonpolitical – Never even voted – is a vote for Senator Dan Sullivan. The Alaska Race is OVER. Dan Sullivan WON, BY A LOT! President DONALD J. TRUMP",
-   "url": "https://www.trumpstruth.org/statuses/43513",
-   "published": "2026-11-07T19:55:09+00:00",
-   "summary": "Daniel Sullivan is leading substantially in the Alaska Senatorial Race. When you add Daniel (3,600, 1.68%) into Dan, and Gerald Heikes (4,846, 2.27%), Senator Dan Sullivan is up by thousands of Votes. Remember, Heikes was also fraudulently put into the Race. I don’t know what takes so long to announce his win. This should be immediate! Anyone voting for Daniel J. Sullivan, Jr., a man who tried to ",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Quote post from November 7, 2026",
-   "url": "https://www.trumpstruth.org/statuses/43511",
-   "published": "2026-11-07T19:50:37+00:00",
-   "summary": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117576893933424183 View image Quoted Donald J. Trump View video",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Video post from November 7, 2026",
-   "url": "https://www.trumpstruth.org/statuses/43512",
-   "published": "2026-11-07T19:50:23+00:00",
-   "summary": "View video",
-   "tags": [],
-   "highlight": true
-  },
-  {
    "source": "IRNA (Iran state wire)",
-   "title": "Yemeni armed forces conduct 6 operations deep inside Saudi Arabia",
-   "url": "https://en.irna.ir/news/86315255/Yemeni-armed-forces-conduct-6-operations-deep-inside-Saudi-Arabia",
-   "published": "2026-11-07T19:45:07+00:00",
-   "summary": "Tehran, IRNA – The Yemeni armed forces targeted strategic sites in Saudi Arabia in their latest missile and drone operations, the armed forces spokesman said on Saturday.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "First Lady Melania Trump and LSU Establish $7.2 Million Fostering the Future Endowment Fund",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-and-lsu-establish-7-2-million-fostering-the-future-endowment-fund/",
-   "published": "2026-11-07T19:31:59+00:00",
-   "summary": "Historic Donation Creates Permanent Scholarships for LSU Students From Foster Care First Lady Melania Trump and Louisiana State University (LSU) have secured $7.2 Million to establish a permanent endowment fund supporting FOSTERING THE FUTURE scholarships for LSU students who experienced foster care. “A great education does more than prepare someone for work life. &#160;It gives [&#8230;] The post",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Image post from November 7, 2026",
-   "url": "https://www.trumpstruth.org/statuses/43510",
-   "published": "2026-11-07T18:51:10+00:00",
-   "summary": "View image",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "The threats being made by the Democrat Party against innocent Republican Donors and Party Members are absolutely unprecedented, and totally illegal. Please report them to the Department of Justice, IMMEDIATELY! If you would like, send them directly to me, your President. These SLEAZEBAGS should go to jail for what they are doing. The Senate must act, and stop being pushed around to the point of the Republican Party losing Elections, and worse! Likewise, the DOJ and House of Representatives. Thank you for your attention to this matter. President DONALD J. TRUMP",
-   "url": "https://www.trumpstruth.org/statuses/43509",
-   "published": "2026-11-07T18:45:15+00:00",
-   "summary": "The threats being made by the Democrat Party against innocent Republican Donors and Party Members are absolutely unprecedented, and totally illegal. Please report them to the Department of Justice, IMMEDIATELY! If you would like, send them directly to me, your President. These SLEAZEBAGS should go to jail for what they are doing. The Senate must act, and stop being pushed around to the point of th",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "I am pleased to announce that the Great Dana White, a violent Fighter and Warrior, has been offered the job of Press Secretary of the United States. I have requested that he bring with him assistants, even though some are not from our Country, of Islam Makhachev, Khabib Nurmagomedov, Justin Gaethje, Daniel Cormier, Amanda Nunes, and Kayla Harris. We need these people to defend us against the Lunatic Left. Dana will be a Press Secretary like none other. Dana, please take the job! President DONALD J. TRUMP",
-   "url": "https://www.trumpstruth.org/statuses/43508",
-   "published": "2026-11-07T18:40:20+00:00",
-   "summary": "I am pleased to announce that the Great Dana White, a violent Fighter and Warrior, has been offered the job of Press Secretary of the United States. I have requested that he bring with him assistants, even though some are not from our Country, of Islam Makhachev, Khabib Nurmagomedov, Justin Gaethje, Daniel Cormier, Amanda Nunes, and Kayla Harris. We need these people to defend us against the Lunat",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "The Democrats are going around threatening a lot of people, including the Attorney General of the United States, and others, with Impeachment and many other forms of punishment, even though they admit they have no reason to do so, and there have been no impeachable acts committed, or even thought of, by the victims of this illegal process. This is extortion at the highest level, and they should be held accountable for this. Also, they’re threatening our Donors, some of the most respected people anywhere in the World, with imprisonment, and many other levels of punishment, just because they happen to be Republicans, or Republican supporters. This is Weaponization and Lawfare at another level. The Senator from Michigan, Elissa Slotkin, is saying that she is going to go after all young people that believe in Republican Values, and that give even the slightest inclination to be a Republican. The imprisonment should be against these EXTORTIONISTS, and Republicans should get smart, fast! Threatening letters have been sent to many people, all innocent, from Democrat Political Leaders. By copy of this statement, I am ordering the Department of Justice to look into this criminal act, immediately! President DONALD J. TRUMP",
-   "url": "https://www.trumpstruth.org/statuses/43507",
-   "published": "2026-11-07T17:45:04+00:00",
-   "summary": "The Democrats are going around threatening a lot of people, including the Attorney General of the United States, and others, with Impeachment and many other forms of punishment, even though they admit they have no reason to do so, and there have been no impeachable acts committed, or even thought of, by the victims of this illegal process. This is extortion at the highest level, and they should be",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Video post from November 7, 2026",
-   "url": "https://www.trumpstruth.org/statuses/43505",
-   "published": "2026-11-07T17:03:45+00:00",
-   "summary": "View video",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Video post from November 7, 2026",
-   "url": "https://www.trumpstruth.org/statuses/43506",
-   "published": "2026-11-07T17:03:23+00:00",
-   "summary": "View video",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Image post from November 7, 2026",
-   "url": "https://www.trumpstruth.org/statuses/43504",
-   "published": "2026-11-07T14:42:52+00:00",
-   "summary": "View image",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Quote post from November 7, 2026",
-   "url": "https://www.trumpstruth.org/statuses/43503",
-   "published": "2026-11-07T14:33:02+00:00",
-   "summary": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117575635652523564 View image Quoted Donald J. Trump View image",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "Trump · Truth Social",
-   "title": "Image post from November 7, 2026",
-   "url": "https://www.trumpstruth.org/statuses/43502",
-   "published": "2026-11-07T14:30:23+00:00",
-   "summary": "View image",
-   "tags": [],
-   "highlight": true
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Iran’s Navy: Tanker catches fire after hitting sea mine east of Strait of Hormuz",
-   "url": "https://en.irna.ir/news/86314896/Iran-s-Navy-Tanker-catches-fire-after-hitting-sea-mine-east",
-   "published": "2026-11-07T11:39:53+00:00",
-   "summary": "Tehran, IRNA – A tanker has caught fire after hitting a sea mine, east of the Strait of Hormuz while sailing through a prohibited and unsafe zone, the Iranian Army's Navy says.",
-   "tags": [
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "South Korean envoy to Tehran: Art brings nations closer",
-   "url": "https://en.irna.ir/news/86314832/South-Korean-envoy-to-Tehran-Art-brings-nations-closer",
-   "published": "2026-11-07T10:23:31+00:00",
-   "summary": "Tehran, IRNA – South Korean Ambassador to Iran, Kim Junpyo, says that art transcends borders and brings nations closer, describing it as a common language that fosters friendship and cultural understanding.",
+   "title": "Iran, Turkiye call for stronger environmental cooperation",
+   "url": "https://en.irna.ir/news/86321161/Iran-Turkiye-call-for-stronger-environmental-cooperation",
+   "published": "2026-11-14T08:22:27+00:00",
+   "summary": "Tehran, IRNA — Iran and Turkiye have agreed to expand bilateral environmental cooperation, speed up the implementation of existing agreements, and share experience in building resilient cities and managing waste.",
    "tags": [
     "diplomacy"
    ],
@@ -320,10 +124,10 @@
   },
   {
    "source": "IRNA (Iran state wire)",
-   "title": "Araghchi calls for regional security framework free from foreign interference",
-   "url": "https://en.irna.ir/news/86314680/Araghchi-calls-for-regional-security-framework-free-from-foreign",
-   "published": "2026-11-07T10:21:09+00:00",
-   "summary": "Tehran, IRNA – Foreign Minister Abbas Araghchi has stressed the need for regional security arrangements free from the involvement of extra-regional powers, raising the issue in phone talks with 12 regional counterparts over the past 48 hours.",
+   "title": "Russia and China urge immediate end to war against Iran, stress negotiated solution",
+   "url": "https://en.irna.ir/news/86321045/Russia-and-China-urge-immediate-end-to-war-against-Iran-stress",
+   "published": "2026-11-14T07:25:50+00:00",
+   "summary": "New York, IRNA — The Russian and Chinese ambassadors to the United Nations have expressed concern over US and Israeli threats of renewed hostilities against Iran, stressing the need to pursue political and diplomatic means to establish peace.",
    "tags": [
     "diplomacy"
    ],
@@ -331,77 +135,45 @@
   },
   {
    "source": "IRNA (Iran state wire)",
-   "title": "Spokesperson urges international bodies to pursue Iran’s rights over wartime aggression",
-   "url": "https://en.irna.ir/news/86314781/Spokesperson-urges-international-bodies-to-pursue-Iran-s-rights",
-   "published": "2026-11-07T10:01:28+00:00",
-   "summary": "Tehran, IRNA – Iranian government spokesperson, Fatemeh Mohajerani, has called on international organizations to take an active role in securing the rights of Iranians, saying attacks on the country during two wars imposed by the US and the Israeli regime amounted to acts of terrorism rather than conventional military operations.",
+   "title": "Violating oil tanker hit by mine east of Strait of Hormuz",
+   "url": "https://en.irna.ir/news/86321078/Violating-oil-tanker-hit-by-mine-east-of-Strait-of-Hormuz",
+   "published": "2026-11-14T07:15:34+00:00",
+   "summary": "Tehran, IRNA — The Navy of the Islamic Republic of Iran reported that an oil tanker in violation of regulations struck a naval mine and burst into flames east of the Strait of Hormuz.",
    "tags": [
-    "strikes"
+    "shipping",
+    "oil"
    ],
    "highlight": false
   },
   {
    "source": "IRNA (Iran state wire)",
-   "title": "New surprises to be unveiled on battlefield if attacks on Iran resume: IRGC",
-   "url": "https://en.irna.ir/news/86314803/New-surprises-to-be-unveiled-on-battlefield-if-attacks-on-Iran",
-   "published": "2026-11-07T09:54:39+00:00",
-   "summary": "Tehran, IRNA – Spokesperson for the Islamic Revolution Guards Corps (IRGC) Brigadier General Hossein Mohebbi says Iran will unveil new weapons that will astonish the world if a new round of military confrontation erupts with the United States and Israel.",
+   "title": "Rosatom to restore workforce at Bushehr Nuclear Power Plant to 300",
+   "url": "https://en.irna.ir/news/86321053/Rosatom-to-restore-workforce-at-Bushehr-Nuclear-Power-Plant-to",
+   "published": "2026-11-14T07:03:33+00:00",
+   "summary": "Tehran, IRNA — Russia’s state nuclear corporation Rosatom plans to increase its workforce at Iran’s Bushehr Nuclear Power Plant from the current 180 employees to 300 in the near future, as it seeks to resume previously scheduled operations despite regional tensions.",
    "tags": [
-    "strikes"
+    "nuclear"
    ],
    "highlight": false
   },
   {
    "source": "IRNA (Iran state wire)",
-   "title": "Vice president calls for documenting impact of US-Israeli attacks on Iranian children",
-   "url": "https://en.irna.ir/news/86314720/Vice-president-calls-for-documenting-impact-of-US-Israeli-attacks",
-   "published": "2026-11-07T09:37:43+00:00",
-   "summary": "Tehran, IRNA — The vice president for women and family affairs has called for documenting the human and educational consequences of US-Israeli attacks on Iranian children, stressing the need to pursue justice for victims and hold those responsible accountable.",
+   "title": "Two offending oil tankers catch fire after hitting naval mines in Strait of Hormuz: IRGC",
+   "url": "https://en.irna.ir/news/86320921/Two-offending-oil-tankers-catch-fire-after-hitting-naval-mines",
+   "published": "2026-11-14T05:48:36+00:00",
+   "summary": "Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) Navy has announced that two more violating oil tankers have caught fire in the Strait of Hormuz after hitting naval mines.",
    "tags": [
-    "strikes"
+    "shipping",
+    "oil"
    ],
    "highlight": false
   },
   {
    "source": "IRNA (Iran state wire)",
-   "title": "Iran rebuilds 1,288 schools damaged in recent aggression: Education minister",
-   "url": "https://en.irna.ir/news/86314589/Iran-rebuilds-1-288-schools-damaged-in-recent-aggression-Education",
-   "published": "2026-11-07T08:14:03+00:00",
-   "summary": "Tehran, IRNA – Iran has rebuilt 1,288 schools damaged in recent attacks and returned them to service with the help of charitable donors, Education Minister Alireza Kazemi says, warning that the educational losses caused by school closures cannot be measured or compensated.",
-   "tags": [
-    "strikes"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Army air defense destroys US enemy MQ-9 drone",
-   "url": "https://en.irna.ir/news/86314355/Army-air-defense-destroys-US-enemy-MQ-9-drone",
-   "published": "2026-11-07T07:04:12+00:00",
-   "summary": "Tehran, IRNA — The Army of the Islamic Republic of Iran reports that it has intercepted and destroyed an MQ-9 drone belonging to the aggressive US enemy over Qeshm in the Strait of Hormuz.",
-   "tags": [
-    "strikes",
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "Strait of Hormuz will stay closed until US accepts its terms: Iran",
-   "url": "https://en.irna.ir/news/86314322/Strait-of-Hormuz-will-stay-closed-until-US-accepts-its-terms",
-   "published": "2026-11-07T06:37:23+00:00",
-   "summary": "Tehran, IRNA – Iran’s Armed Forces have control over the Strait of Hormuz, which will remain closed until the United States accepts Tehran’s conditions, Army spokesperson Brigadier General Mohammad Akraminia has said.",
-   "tags": [
-    "shipping"
-   ],
-   "highlight": false
-  },
-  {
-   "source": "IRNA (Iran state wire)",
-   "title": "IRGC spokesperson mocks CENTCOM commander’s remarks on US drones",
-   "url": "https://en.irna.ir/news/86314379/IRGC-spokesperson-mocks-CENTCOM-commander-s-remarks-on-US-drones",
-   "published": "2026-11-07T06:03:47+00:00",
-   "summary": "Tehran, IRNA – Spokesperson for the Islamic Revolution Guards Corps (IRGC) Brigadier General Hossein Mohebbi has reacted to remarks by the commander of the US Central Command (CENTCOM) about the transformation of multimillion-dollar American MQ drones into kamikaze unmanned aerial vehicles.",
+   "title": "US expected to end aggression, blockade if committed to diplomacy: Iran",
+   "url": "https://en.irna.ir/news/86320910/US-expected-to-end-aggression-blockade-if-committed-to-diplomacy",
+   "published": "2026-11-14T05:29:16+00:00",
+   "summary": "New York, IRNA — Iran’s ambassador and chargé d’affaires to the United Nations says that if Washington is genuinely committed to a diplomatic solution, it must immediately and unconditionally end its aggression against Iran, lift the maritime blockade and other unlawful unilateral measures, and provide credible guarantees against renewed attacks.",
    "tags": [
     "strikes"
    ],
@@ -409,180 +181,409 @@
   },
   {
    "source": "Trump · Truth Social",
-   "title": "Quote post from November 7, 2026",
-   "url": "https://www.trumpstruth.org/statuses/43499",
-   "published": "2026-11-07T03:12:47+00:00",
-   "summary": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117572970506667519 View image Quoted Donald J. Trump View video",
+   "title": "Thank you to the United States Coast Guard for doing such an incredible job of rescue, and other work, having to do with the crash of the two ships in Louisiana. Likewise, all of Law Enforcement and First Responders were fantastic! Incredibly, nobody was killed by this major collision. 32 people are in the hospital. Thank you to Governor Jeff Landry for your outstanding leadership during this very agonizing period of time. President DONALD J. TRUMP",
+   "url": "https://www.trumpstruth.org/statuses/43569",
+   "published": "2026-11-13T22:58:48+00:00",
+   "summary": "Thank you to the United States Coast Guard for doing such an incredible job of rescue, and other work, having to do with the crash of the two ships in Louisiana. Likewise, all of Law Enforcement and First Responders were fantastic! Incredibly, nobody was killed by this major collision. 32 people are in the hospital. Thank you to Governor Jeff Landry for your outstanding leadership during this very",
    "tags": [],
    "highlight": true
   },
   {
    "source": "Trump · Truth Social",
-   "title": "Video post from November 7, 2026",
-   "url": "https://www.trumpstruth.org/statuses/43500",
-   "published": "2026-11-07T03:12:36+00:00",
+   "title": "I am working with Senator Tim Scott and, believe it or not, Senator Adam Schiff, and, additionally, Senators John Cornyn, Raphael Warnock, Steve Daines, Bernie Moreno, Tim Sheehy, Alex Padilla, Mark Warner, Thom Tillis, and Chris Coons, together with Representatives Jason Smith, Nathaniel Moran, Brian Jack, Linda Sanchez, and many others, both Republican and Democrat, on the Motion Picture, Television, and Entertainment Revitalization Act. The support and popularity of doing this, and bringing Entertainment back to the United States of America, has been unbelievable! Hollywood, and so many other places, have been virtually “emptied out” by the Tax Incentives, and much more, given by other Countries. Everyone feels strongly about the Motion Picture and Television Industry — and so do I, and we all want to save it. It was MADE IN AMERICA, and must STAY IN AMERICA. The Entertainment Industry has largely moved to Canada, the United Kingdom, Australia, and other countries, but the actors, producers, and all others involved want to come back home! Importantly, hundreds of thousands of Blue Collar Workers will be positively affected, BIG TIME, by the passage of this Bill. The amount of money spent on these Tax Incentives will be made up tenfold by the money pouring into the Treasury’s coffers. Meetings are being set up, routinely, with the Leaders of both Parties in order to, GET THIS DONE! It is a very Bipartisan undertaking, especially in that so much of the money being lost to other countries is coming out of the Blue States. Hopefully Republicans and Democrats will get together and finalize this already very actively negotiated Legislation. It can be done quickly, accurately, efficiently and, importantly, will benefit all of America. MAKE OUR ENTERTAINMENT INDUSTRY GREAT AGAIN! President DONALD J. TRUMP",
+   "url": "https://www.trumpstruth.org/statuses/43568",
+   "published": "2026-11-13T22:52:34+00:00",
+   "summary": "I am working with Senator Tim Scott and, believe it or not, Senator Adam Schiff, and, additionally, Senators John Cornyn, Raphael Warnock, Steve Daines, Bernie Moreno, Tim Sheehy, Alex Padilla, Mark Warner, Thom Tillis, and Chris Coons, together with Representatives Jason Smith, Nathaniel Moran, Brian Jack, Linda Sanchez, and many others, both Republican and Democrat, on the Motion Picture, Televi",
+   "tags": [
+    "diplomacy"
+   ],
+   "highlight": true
+  },
+  {
+   "source": "IRNA (Iran state wire)",
+   "title": "Iranian Army shoots down US MQ-1 drone off southern coast",
+   "url": "https://en.irna.ir/news/86320807/Iranian-Army-shoots-down-US-MQ-1-drone-off-southern-coast",
+   "published": "2026-11-13T19:30:25+00:00",
+   "summary": "Tehran, IRNA – Iran’s Army Navy says it has shot down a US MQ-1 drone using an advanced air defense system near the coastal area of Kuhestak in the country’s southern Hormozgan Province.",
+   "tags": [
+    "strikes"
+   ],
+   "highlight": false
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "Image post from November 13, 2026",
+   "url": "https://www.trumpstruth.org/statuses/43567",
+   "published": "2026-11-13T14:02:39+00:00",
+   "summary": "View image",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "White House",
+   "title": "Trump Administration Delivers Record-Setting Results Through Executive Action",
+   "url": "https://www.whitehouse.gov/releases/2026/11/trump-administration-delivers-record-setting-results-through-executive-action/",
+   "published": "2026-11-13T13:10:00+00:00",
+   "summary": "Under President Donald J. Trump’s leadership, the Administration has delivered historic results for the American people in just 21 months through executive action alone. The promise of America has been quickly reignited under the President’s common-sense leadership, making America the hottest nation in the world and reviving the American Dream. Crime has plummeted, merit is [&#8230;] The post Trum",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "Video post from November 13, 2026",
+   "url": "https://www.trumpstruth.org/statuses/43566",
+   "published": "2026-11-13T11:22:26+00:00",
    "summary": "View video",
    "tags": [],
    "highlight": true
   },
   {
-   "source": "UN Press",
-   "title": "Peacekeeping Reform Must Not ‘Hollow Out’ Core UN Capabilities, Fourth Committee Told",
-   "url": "https://press.un.org/en/2026/gaspd851.doc.htm",
-   "published": "2026-11-07T00:51:43+00:00",
-   "summary": "Continuing its consideration of peacekeeping operations, the Fourth Committee (Special Political and Decolonization) heard today that reform is essential to adapt peacekeeping to geopolitical and financial challenges but must be carried out strategically to preserve its advantages.",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Fifth Committee Nominates New Members for Advisory Committee on Administrative and Budgetary Questions, Four Subsidiary Bodies of General Assembly",
-   "url": "https://press.un.org/en/2026/gaab4523.doc.htm",
-   "published": "2026-11-06T22:43:25+00:00",
-   "summary": "The Fifth Committee (Administrative and Budgetary) today sent the General Assembly five nominations, including naming a new chair, for the International Civil Service Commission while delivering the names of 21 other candidates for four other bodies.",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "President Trump Names Stephen Miller as 33rd White House Chief of Staff",
-   "url": "https://www.whitehouse.gov/releases/2026/11/president-trump-names-stephen-miller-as-33rd-white-house-chief-of-staff/",
-   "published": "2026-11-06T21:56:55+00:00",
-   "summary": "Today, President Donald J. Trump announced the appointment of Stephen Miller as the 33rd White House Chief of Staff, succeeding Susie Wiles after her highly successful tenure. Miller has served alongside President Trump since the very beginning and has been a driving force behind the Administration’s major successes — driving violent crime to historic lows, [&#8230;] The post President Trump Names",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General",
-   "url": "https://press.un.org/en/2026/db261106.doc.htm",
-   "published": "2026-11-06T21:02:31+00:00",
-   "summary": "In Sudan, the Office of the United Nations High Commissioner for Refugees (UNHCR) and the International Organization for Migration (IOM) warn that millions of people displaced by the conflict risk being left without even a roof over their heads as funding shortages threaten to deplete emergency shelter stocks.",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "As Global Challenges Mount, Secretary-General Urges World to Uphold International Law in Address to University of Salamanca",
-   "url": "https://press.un.org/en/2026/sgsm23360.doc.htm",
-   "published": "2026-11-06T20:19:54+00:00",
-   "summary": "Following is UN Secretary-General António Guterres’ address to the University of Salamanca, in Salamanca, Spain today:",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Sixth Committee Discusses United States’ Conduct as Host Country of United Nations Headquarters",
-   "url": "https://press.un.org/en/2026/gal3765.doc.htm",
-   "published": "2026-11-06T19:19:38+00:00",
-   "summary": "The Sixth Committee (Legal) today discussed the report of the Committee on Relations with the Host Country, with many speakers spotlighting repeated violations by the United States that impede certain delegations’ full participation in the work of the United Nations and, with it, the efforts of the entire Organization.",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "What They Are Saying: Blowout October Jobs Report Smashes Expectations",
-   "url": "https://www.whitehouse.gov/releases/2026/11/what-they-are-saying-blowout-october-jobs-report-smashes-expectations/",
-   "published": "2026-11-06T17:51:30+00:00",
-   "summary": "President Donald J. Trump has long said that America is the hottest country in the world — and today’s blockbuster jobs report delivers the proof. The economy added a massive 165,000 new jobs in October, more than double what experts expected, with the unemployment rate falling, manufacturing surging, prior months revised sharply higher, and broad-based [&#8230;] The post What They Are Saying: Blo",
-   "tags": [],
-   "highlight": false
-  },
-  {
    "source": "IRNA (Iran state wire)",
-   "title": "Iran envoy slams Europe’s stance on US, Israeli aggression",
-   "url": "https://en.irna.ir/news/86314145/Iran-envoy-slams-Europe-s-stance-on-US-Israeli-aggression",
-   "published": "2026-11-06T16:43:35+00:00",
-   "summary": "London, IRNA – Iran’s ambassador to Germany has criticized European countries’ positions regarding the US and the Israeli regime’s aggression against Iran, urging them to take responsibility for their own wrong decisions and respect the “great Iran” instead of making baseless demands.",
+   "title": "UN Charter under fire: Why US attacks on Iran violate int'l law",
+   "url": "https://en.irna.ir/news/86320618/UN-Charter-under-fire-Why-US-attacks-on-Iran-violate-int-l-law",
+   "published": "2026-11-13T11:01:13+00:00",
+   "summary": "Tehran, IRNA – If states were free to attack one another based on their own assessments of possible future threats, what would be left of the international legal order? This question goes well beyond the political dispute between Iran and the United States.",
    "tags": [
-    "diplomacy"
+    "strikes"
    ],
    "highlight": false
   },
   {
-   "source": "White House",
-   "title": "President Trump Was Right: Tariffs and Tax Cuts Are Reshoring Manufacturing, Creating Jobs",
-   "url": "https://www.whitehouse.gov/releases/2026/11/president-trump-was-right-tariffs-and-tax-cuts-are-reshoring-manufacturing-creating-jobs/",
-   "published": "2026-11-06T15:56:31+00:00",
-   "summary": "The October jobs report crushed expectations, confirming that President Trump’s America First agenda is delivering a manufacturing renaissance. Tariffs and tax cuts are bringing production home, strengthening supply chains, raising blue-collar wages, and adding hundreds of thousands of jobs for American workers. Here’s what you need to know: Since day one, the Trump Administration has [&#8230;] Th",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Stressing that Peacekeeping Missions Save Lives, Fourth Committee Highlights Need for Adequate Funding to Avert Conflicts, Protect Civilians",
-   "url": "https://press.un.org/en/2026/gaspd850.doc.htm",
-   "published": "2026-11-06T00:47:54+00:00",
-   "summary": "As the Fourth Committee (Special Political and Decolonization) began its consideration of peacekeeping operations, senior UN officials stressed the importance of political unity and predictable funding.",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Debate on International Law Commission Report Concludes as Sixth Committee Turns to Transboundary Aquifers",
-   "url": "https://press.un.org/en/2026/gal3764.doc.htm",
-   "published": "2026-11-06T00:08:17+00:00",
-   "summary": "Delegates in the Sixth Committee (Legal) today concluded their debate on the annual report of the International Law Commission and then turned to the law of transboundary aquifers, underscoring the importance of international cooperation to protect and manage shared water resources.",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "Fact Sheet: President Donald J. Trump Establishes the Oval Office as a National Monument",
-   "url": "https://www.whitehouse.gov/fact-sheets/2026/11/fact-sheet-president-donald-j-trump-establishes-the-oval-office-as-a-national-monument/",
-   "published": "2026-11-05T22:53:44+00:00",
-   "summary": "ESTABLISHING THE OVAL OFFICE NATIONAL MONUMENT:&#160;Today, President Donald J. Trump signed a Proclamation establishing the Oval Office as a National Monument to ensure its preservation, proper care, and management. PRESERVING THE OVAL OFFICE FOR FUTURE GENERATIONS:&#160;President Trump is taking action to ensure that the Oval Office gets the historic recognition and protection it deserves. HONOR",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "White House",
-   "title": "ESTABLISHMENT OF THE OVAL OFFICE NATIONAL MONUMENT",
-   "url": "https://www.whitehouse.gov/presidential-actions/2026/11/establishment-of-the-oval-office-national-monument/",
-   "published": "2026-11-05T22:51:56+00:00",
-   "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA A PROCLAMATION The Oval Office stands as one of the most recognizable and historically significant spaces in the United States. &#160;Since its establishment in its present location and form during the administration of President Franklin D. Roosevelt, it has served as the principal working office of [&#8230;] The post ESTABLISHMENT OF THE OVAL OFFI",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Reviewing Economic and Social Council’s Work, Impact of Sea Level Rise, General Assembly Hears Calls for More Development Financing, Partnership to Achieve 2030 Agenda",
-   "url": "https://press.un.org/en/2026/ga12806.doc.htm",
-   "published": "2026-11-05T22:48:49+00:00",
-   "summary": "Warning that the world remains off track to achieve the Sustainable Development Goals by 2030, delegates today urged Member States to move beyond declarations towards measurable progress, as the General Assembly reviewed the Economic and Social Council’s work amid widening inequalities, mounting debt and growing demands for multilateral reform.",
-   "tags": [],
-   "highlight": false
-  },
-  {
-   "source": "UN Press",
-   "title": "Security Council Hears Update on Yemen Sanctions Committee’s Work, Including Panel Recommendations",
-   "url": "https://press.un.org/en/2026/sc16501.doc.htm",
-   "published": "2026-11-05T22:00:28+00:00",
-   "summary": "The Security Council today heard an update on the work of the Committee overseeing sanctions on Yemen, including its consideration of reports addressing dual-use items, precursor chemicals, information-sharing and vessel flag State capacity, as well as recommendations submitted by its Panel of Experts.",
+   "source": "IRNA (Iran state wire)",
+   "title": "Liquefied gas carrier explodes after striking naval mine in Strait of Hormuz: IRGC Navy",
+   "url": "https://en.irna.ir/news/86320447/Liquefied-gas-carrier-explodes-after-striking-naval-mine-in-Strait",
+   "published": "2026-11-13T08:28:56+00:00",
+   "summary": "Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) Navy has announced that a liquefied gas carrier, which ignored multiple warnings and attempted to navigate an unauthorized and dangerous route, struck a naval mine and exploded in the eastern Strait of Hormuz.",
    "tags": [
-    "sanctions",
     "shipping"
    ],
    "highlight": false
   },
   {
-   "source": "UN Press",
-   "title": "Security Council Weighs United Nations Abyei Mission Mandate Renewal Ahead of Vote",
-   "url": "https://press.un.org/en/2026/sc16502.doc.htm",
-   "published": "2026-11-05T20:57:10+00:00",
-   "summary": "In the absence of a political solution between Sudan and South Sudan, senior United Nations officials and delegates told the Security Council today that evolving violence and a fragile security situation in and around the disputed Abyei area underscore the importance of strengthening and renewing the mandate of the United Nations Interim Security Force for Abyei (UNISFA).",
+   "source": "Trump · Truth Social",
+   "title": "Lilly breaks ground in Pennsylvania's Lehigh Valley on a $3.5 billion site to make next-generation obesity medicines, the latest of 10 new U.S. sites since 2020:",
+   "url": "https://www.trumpstruth.org/statuses/43565",
+   "published": "2026-11-13T00:18:24+00:00",
+   "summary": "Lilly breaks ground in Pennsylvania's Lehigh Valley on a $3.5 billion site to make next-generation obesity medicines, the latest of 10 new U.S. sites since 2020: https:// investor.lilly.com/news-releas es/news-release-details/lilly-breaks-ground-pennsylvanias-lehigh-valley-35-billion-site",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "From Hugh Hewitt: “President Trump was as good as he has ever been today. Still the best interview in the country. Please pass along my thanks to President Trump. Hugh”",
+   "url": "https://www.trumpstruth.org/statuses/43564",
+   "published": "2026-11-12T23:30:25+00:00",
+   "summary": "From Hugh Hewitt: “President Trump was as good as he has ever been today. Still the best interview in the country. Please pass along my thanks to President Trump. Hugh”",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "White House",
+   "title": "First Lady Melania Trump Honors America’s Fallen Heroes at the Tomb of The Unknown Soldier",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-honors-americas-fallen-heroes-at-the-tomb-of-the-unknown-soldier/",
+   "published": "2026-11-12T22:36:37+00:00",
+   "summary": "The First Lady of the United States of America, Mrs. Melania Trump, participated in a wreath-laying ceremony at the Tomb of the Unknown Soldier at Arlington National Cemetery on Veterans Day. The First Lady reflected on the experience: “Every time I visit the Tomb of the Unknown Soldier, I use the surrounding calmness to reflect [&#8230;] The post First Lady Melania Trump Honors America’s Fallen H",
    "tags": [],
    "highlight": false
   },
   {
    "source": "White House",
-   "title": "First Lady Melania Trump Unites Russia and Ukraine at The White House Following Historic Ceasefire",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-unites-russia-and-ukraine-at-the-white-house-following-historic-ceasefire/",
-   "published": "2026-11-05T16:31:07+00:00",
-   "summary": "First Lady Melania Trump gathered leaders from Russia and Ukraine at the White House today. The occasion is believed to mark the first time in American history that a First Lady has personally brought representatives of two nations actively at war together to the White House for diplomacy. The unprecedented gathering united key officials from [&#8230;] The post First Lady Melania Trump Unites Russ",
+   "title": "Nominations Sent to the Senate",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/11/nominations-sent-to-the-senate-16a6/",
+   "published": "2026-11-12T22:04:41+00:00",
+   "summary": "NOMINATIONS SENT TO THE SENATE: NOMINATIONS SENT TO THE SENATE: Nathan Anonick, of Virginia, to be a Commissioner of the Commodity Futures Trading Commission for a term expiring June 19, 2031, vice Rostin Behnam, term expired. Kristin N. Johnson, of Michigan, to be a Member of the Securities and Exchange Commission for a term expiring [&#8230;] The post Nominations Sent to the Senate appeared firs",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "White House",
+   "title": "“Democrats Will Help Us”: Caravans March North as Dems Vow to Reopen the Border. President Trump Won’t Let It Happen.",
+   "url": "https://www.whitehouse.gov/releases/2026/11/democrats-will-help-us-caravans-march-north-as-dems-vow-to-reopen-the-border-president-trump-wont-let-it-happen/",
+   "published": "2026-11-12T21:46:53+00:00",
+   "summary": "Days after the midterms, caravans of illegal aliens are already marching north to the U.S. — and they’re counting on Democrats to let them in. Why wouldn’t they? Congressional Democrats are vowing to abolish ICE, dismantle DHS, stop deportations, and hand out amnesty while border-state Democrats cut off cooperation on immigration enforcement. It’s the same [&#8230;] The post “Democrats Will Help U",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "White House",
+   "title": "Presidential Message on National Native American Heritage Month",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-national-native-american-heritage-month-39c4/",
+   "published": "2026-11-12T21:35:41+00:00",
+   "summary": "Alaska Natives and Native Americans are inextricably linked to the history of our Republic and are integral to our glorious future.&#160; During National Native American Heritage Month, we honor the sacrifices and the innumerable contributions of tribal communities to the prosperity and success of our great Nation.&#160; Native Americans impact communities nationwide with innovation and [&#8230;] ",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "White House",
+   "title": "Presidential Message on National Military Families Month",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-national-military-families-month/",
+   "published": "2026-11-12T21:34:51+00:00",
+   "summary": "For 250 years, our glorious Republic has been safeguarded by noble and heroic patriots in the United States Armed Forces.&#160; Throughout our storied history, these warriors have been sustained by the support, love, strength, and grit provided by their incomparable families.&#160; During National Military Families Month, we celebrate the incredible men, women, parents, and children [&#8230;] The ",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "White House",
+   "title": "Presidential Message on National Entrepreneurship Month",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-national-entrepreneurship-month-bfcb/",
+   "published": "2026-11-12T21:33:37+00:00",
+   "summary": "The entrepreneurial spirit of America has been forged by the determination of generations who envisioned a Nation where every hardworking citizen can live their glorious American Dream.&#160; For over 250 years, entrepreneurs have created the strong foundation that our country has built upon to become the economic powerhouse that we are today.&#160; This National Entrepreneurship [&#8230;] The pos",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "Senator Chuck Schumer just stated that he wants to end corruption in the United States. I assume he’s referring to Democrat run Blue States such as California, Minnesota, Illinois, Maine, and New York. Billions of Dollars are being stolen on an hourly basis. Hopefully his words will ring true! It will be an honor to work with him on this very big Democrat problem that, when solved, will literally balance the Budget of the U.S. President DONALD J. TRUMP",
+   "url": "https://www.trumpstruth.org/statuses/43563",
+   "published": "2026-11-12T18:41:03+00:00",
+   "summary": "Senator Chuck Schumer just stated that he wants to end corruption in the United States. I assume he’s referring to Democrat run Blue States such as California, Minnesota, Illinois, Maine, and New York. Billions of Dollars are being stolen on an hourly basis. Hopefully his words will ring true! It will be an honor to work with him on this very big Democrat problem that, when solved, will literally ",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "I rebuilt our Military in my First Term, and we’re doing it AGAIN, bigger and better than ever before! The Radical Democrat Majority in the next Congress has already made it clear that their Number One Agenda is to BLOCK and RESIST this historic investment in our National Security. They want to leave our Warriors weak, and unguarded, but the American People want their Warriors SAFE and STRONG. That’s why TODAY I am calling on Senate Leadership to IMMEDIATELY move on the 350 Billion Dollar Reconciliation Bill to give our brave Warriors the DECISIVE ADVANTAGE they deserve. Our Military must be strong, powerful, and respected. Republicans must deliver for our Warriors. The Democrats never will. The time is NOW. MAKE AMERICA STRONG AGAIN! President DONALD J. TRUMP",
+   "url": "https://www.trumpstruth.org/statuses/43562",
+   "published": "2026-11-12T17:24:53+00:00",
+   "summary": "I rebuilt our Military in my First Term, and we’re doing it AGAIN, bigger and better than ever before! The Radical Democrat Majority in the next Congress has already made it clear that their Number One Agenda is to BLOCK and RESIST this historic investment in our National Security. They want to leave our Warriors weak, and unguarded, but the American People want their Warriors SAFE and STRONG. Tha",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "White House",
+   "title": "First Lady Melania Trump Honors America’s Elite Soldiers and the Sacrifices of Military Families",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-honors-americas-elite-soldiers-and-the-sacrifices-of-military-families/",
+   "published": "2026-11-12T17:18:04+00:00",
+   "summary": "First Lady Melania Trump visited Fort Rucker, the headquarters U.S. Army Aviation, to honor America’s soldiers and the sacrifices of the military families who support them. “I want to take a moment to say thank you to one very important group of people: the families of America’s military. Your role is profound. While your loved [&#8230;] The post First Lady Melania Trump Honors America’s Elite Sol",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "Will the Seditious Six ever be prosecuted? What they did was a great violation to our Country and its Constitution! President DONALD J. TRUMP",
+   "url": "https://www.trumpstruth.org/statuses/43561",
+   "published": "2026-11-12T15:59:05+00:00",
+   "summary": "Will the Seditious Six ever be prosecuted? What they did was a great violation to our Country and its Constitution! President DONALD J. TRUMP",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "NOW THAT Nvidia CEO JENSEN HUANG, who has done a fantastic job, has resigned, there is only one man to take his place - TIM COOK of Apple. A Legend replaces a Legend! President DONALD J. TRUMP",
+   "url": "https://www.trumpstruth.org/statuses/43560",
+   "published": "2026-11-12T15:29:03+00:00",
+   "summary": "NOW THAT Nvidia CEO JENSEN HUANG, who has done a fantastic job, has resigned, there is only one man to take his place - TIM COOK of Apple. A Legend replaces a Legend! President DONALD J. TRUMP",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "If the Democrats want to “root out corruption,” they should start with investigating Blue States, perhaps the most CORRUPT governmental structures and entities anywhere on Earth. Big time money is being stolen each and every hour of the day! President DJT",
+   "url": "https://www.trumpstruth.org/statuses/43559",
+   "published": "2026-11-12T13:23:56+00:00",
+   "summary": "If the Democrats want to “root out corruption,” they should start with investigating Blue States, perhaps the most CORRUPT governmental structures and entities anywhere on Earth. Big time money is being stolen each and every hour of the day! President DJT",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "I have asked Vice President Vance to focus his complete and total attention on the Massive Corruption and Crime taking place in Democrat run Cities and States throughout the U.S. The Blue States, such as Minnesota, California, Illinois, and many more, are all poorly run, corrupt disasters. Billions of Dollars is being stolen each and every month. Our Budget could be quickly BALANCED with the correction of this large scale criminal activity. CORRUPTION is in the Democrat Leadership’s blood! We don’t need a deal with Iran. Those days have long since passed. We’ve got their money, Hundreds of Billions of Dollars, and we’ve got their Strait! Thank you for your attention to this matter. President DJT",
+   "url": "https://www.trumpstruth.org/statuses/43558",
+   "published": "2026-11-12T13:07:34+00:00",
+   "summary": "I have asked Vice President Vance to focus his complete and total attention on the Massive Corruption and Crime taking place in Democrat run Cities and States throughout the U.S. The Blue States, such as Minnesota, California, Illinois, and many more, are all poorly run, corrupt disasters. Billions of Dollars is being stolen each and every month. Our Budget could be quickly BALANCED with the corre",
    "tags": [
-    "diplomacy"
+    "diplomacy",
+    "shipping"
    ],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "The Republican Senate can no longer be the place “where things are sent to die.” Not passing THE SAVE AMERICA ACT (Voter I.D., Proof of Citizenship), sent up five times by the House, was devastating to the Republican Party in the Midterms. Not terminating the Filibuster, and getting EVERYTHING even “dreamt” of, approved, when the Dems will definitely do so, will go down as being one of the greatest mistakes in the Political History of America. So sad!!! Anyway, good luck to our Republican Senators, work hard, and congratulations to John Thune for another year of leadership, Minority though it may be! President DJT",
+   "url": "https://www.trumpstruth.org/statuses/43557",
+   "published": "2026-11-12T12:35:14+00:00",
+   "summary": "The Republican Senate can no longer be the place “where things are sent to die.” Not passing THE SAVE AMERICA ACT (Voter I.D., Proof of Citizenship), sent up five times by the House, was devastating to the Republican Party in the Midterms. Not terminating the Filibuster, and getting EVERYTHING even “dreamt” of, approved, when the Dems will definitely do so, will go down as being one of the greates",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "Here we go again! With the perceived loss by the Republicans in the Midterms - I WAS NOT ON THE BALLOT- the INVASION of our Country is taking place again. Huge CARAVANS are forming and beginning their illegal march through Mexico. Many of the people in these Caravans are those that various countries don’t want - “Send them to America,” they say - But they will not be accepted! MEXICO MUST STOP THEM, NOW, and if they do not do so, the Tariffs on Mexico will be IMMEDIATELY DOUBLED. MEXICO, THE GOVERNOR OF TEXAS, THE VERY LIBERAL NEW GOVERNOR OF TEXAS, OUR GREAT BORDER PATROL, & ICE, HAVE BEEN SO INFORMED. There will be no leniency! Thank you for your attention to this matter. President DONALD J. TRUMP",
+   "url": "https://www.trumpstruth.org/statuses/43556",
+   "published": "2026-11-12T12:04:10+00:00",
+   "summary": "Here we go again! With the perceived loss by the Republicans in the Midterms - I WAS NOT ON THE BALLOT- the INVASION of our Country is taking place again. Huge CARAVANS are forming and beginning their illegal march through Mexico. Many of the people in these Caravans are those that various countries don’t want - “Send them to America,” they say - But they will not be accepted! MEXICO MUST STOP THE",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "Does anybody remember, in my First Term, the relentless effort by the anti-American Dumocrats to get my personal Tax Returns, something that has always been off limits for anyone other than Donald J. Trump. Shockingly, they won this unprecedented right in the U.S. Supreme Court, and hired the best and toughest accountants in the Country to “get Trump.” After one year of intense work, these brilliant Democrat inspired accountants FOUND NOTHING except that I paid my taxes and did everything right. Now, in order to deflect from MASSIVE BLUE STATE CORRUPTION & CRIME, they are at it again, illegally threatening Republicans with knowingly false accusations and charges. Other than cheating, this is how they won the Midterms - But we won’t let our Country go to hell! President DJT",
+   "url": "https://www.trumpstruth.org/statuses/43555",
+   "published": "2026-11-12T11:28:12+00:00",
+   "summary": "Does anybody remember, in my First Term, the relentless effort by the anti-American Dumocrats to get my personal Tax Returns, something that has always been off limits for anyone other than Donald J. Trump. Shockingly, they won this unprecedented right in the U.S. Supreme Court, and hired the best and toughest accountants in the Country to “get Trump.” After one year of intense work, these brillia",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "The Democrat Party, lead by one of the most Corrupt and anti-American groups of political leaders and hacks in the history of our Country, and even the World, is doing everything in their power to get away from MASSIVE BLUE STATE CORRUPTION by saying, over and over again, that the Trump Administration is corrupt. It is a sound bite that they viciously use, over and over again, in order to nullify the TREMENDOUS & UNPRECEDENTED theft that has taken place in our Blue States - Minnesota, California, and others, all over the U.S.A. I, perhaps foolishly because the Fake News refuses to write about it, including in my First Term, don’t even take a Salary, worth Millions of Dollars. I am the only President to have done so! In any event, THE DEMOCRATS ARE CORRUPT AND EVIL, and I am the exact opposite! Fight hard, Republicans, or you won’t have a Country left! President DONALD J. TRUMP",
+   "url": "https://www.trumpstruth.org/statuses/43554",
+   "published": "2026-11-12T10:50:23+00:00",
+   "summary": "The Democrat Party, lead by one of the most Corrupt and anti-American groups of political leaders and hacks in the history of our Country, and even the World, is doing everything in their power to get away from MASSIVE BLUE STATE CORRUPTION by saying, over and over again, that the Trump Administration is corrupt. It is a sound bite that they viciously use, over and over again, in order to nullify ",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "White House",
+   "title": "“We Render You the Highest Salute”: President Trump Honors America’s Veterans on Hallowed Ground at Arlington",
+   "url": "https://www.whitehouse.gov/releases/2026/11/we-render-you-the-highest-salute-president-trump-honors-americas-veterans-on-hallowed-ground-at-arlington/",
+   "published": "2026-11-11T22:17:51+00:00",
+   "summary": "On this Veterans Day, President Donald J. Trump stood among the fallen at Arlington National Cemetery and rendered our nation’s highest salute to the living who still carry the cost of freedom. In words that echoed across the quiet hills where generations of heroes rest, the Commander-in-Chief honored every Patriot who has worn the uniform [&#8230;] The post “We Render You the Highest Salute”: Pre",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "White House",
+   "title": "Presidential Message on Victory Day for World War I",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-victory-day-for-world-war-i-dd1e/",
+   "published": "2026-11-11T19:30:08+00:00",
+   "summary": "On November 11, 1918, after more than four grueling years, an armistice at last silenced the guns of the First World War.&#160; With enduring pride, we celebrate America’s pivotal role in winning this global conflict. &#160;The enemy was defeated with powerful weapons of land, sea, and sky and the unmatched valor of selfless heroes who [&#8230;] The post Presidential Message on Victory Day for Wor",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "Image post from November 11, 2026",
+   "url": "https://www.trumpstruth.org/statuses/43553",
+   "published": "2026-11-11T18:38:43+00:00",
+   "summary": "View image",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "Video post from November 11, 2026",
+   "url": "https://www.trumpstruth.org/statuses/43551",
+   "published": "2026-11-11T17:56:32+00:00",
+   "summary": "View video",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "Video post from November 11, 2026",
+   "url": "https://www.trumpstruth.org/statuses/43552",
+   "published": "2026-11-11T17:56:20+00:00",
+   "summary": "View video",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "The failing New York Times wrote about the “settling of a sexual harassment suit brought years ago by a waitress at President Trump’s golf club in Bedminster, N.J.” What they fail to say is that it did not involve President Trump, a rather important omission. FAKE NEWS!!!",
+   "url": "https://www.trumpstruth.org/statuses/43550",
+   "published": "2026-11-11T06:47:20+00:00",
+   "summary": "The failing New York Times wrote about the “settling of a sexual harassment suit brought years ago by a waitress at President Trump’s golf club in Bedminster, N.J.” What they fail to say is that it did not involve President Trump, a rather important omission. FAKE NEWS!!!",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "The New York Times incorrectly reported that “Mr. Trump called into the premier of a C-Span show, APPARENTLY WITHOUT NOTICE.” This is WRONG. It was a fully scheduled call, as a favor to C-Span, set up through White House Communications. It was done at C-Span’s request, not mine. The Times knew this, but lied, in order to demean - But this is the least of their lies!",
+   "url": "https://www.trumpstruth.org/statuses/43549",
+   "published": "2026-11-11T06:25:25+00:00",
+   "summary": "The New York Times incorrectly reported that “Mr. Trump called into the premier of a C-Span show, APPARENTLY WITHOUT NOTICE.” This is WRONG. It was a fully scheduled call, as a favor to C-Span, set up through White House Communications. It was done at C-Span’s request, not mine. The Times knew this, but lied, in order to demean - But this is the least of their lies!",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "White House",
+   "title": "Presidential Message on National Diabetes Month",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-national-diabetes-month-a726/",
+   "published": "2026-11-11T03:17:54+00:00",
+   "summary": "Nearly every American family has been touched by diabetes—a parent, a grandparent, a child, or a neighbor whose daily life is shaped by this disease.&#160; This National Diabetes Month, we recognize the millions of Americans struggling with diabetes, and we reaffirm our commitment to reverse the chronic disease epidemic in our Nation and Make America [&#8230;] The post Presidential Message on Nati",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "White House",
+   "title": "Presidential Message on the Birthday of the United States Marine Corps",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-the-birthday-of-the-united-states-marine-corps/",
+   "published": "2026-11-11T03:16:22+00:00",
+   "summary": "For over two and a half centuries, the United States Marine Corps has stood as a living embodiment of the American Spirit.&#160; With honor, courage, and unwavering commitment to preserving and advancing the interests of the United States, Marines have proven time and again that they will answer every call and complete any mission no [&#8230;] The post Presidential Message on the Birthday of the U",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "White House",
+   "title": "Presidential Message on National Alzheimer’s Disease Awareness Month",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-national-alzheimers-disease-awareness-month-59dc/",
+   "published": "2026-11-11T03:14:47+00:00",
+   "summary": "This National Alzheimer’s Disease Awareness Month, we stand with every American living with this cruel disease, every family walking beside a loved one through its difficult course, and every caregiver who devotes themselves to others day after day with extraordinary patience and love.&#160; We also pause to remember the millions of precious moments, cherished memories, [&#8230;] The post Presiden",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "White House",
+   "title": "Presidential Message on Critical Infrastructure Security and Resilience Month",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-critical-infrastructure-security-and-resilience-month-aa39/",
+   "published": "2026-11-11T03:12:55+00:00",
+   "summary": "America’s critical infrastructure is the foundation of our prosperity, the backbone of our national defense, and the bedrock of our resilience. &#160;For more than two centuries, American workers, through their own ingenuity and grit, have built the infrastructure that enables the world’s greatest economy and strongest military. &#160;During Critical Infrastructure Security and Resilience Month, w",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "A Huge Victory against Fake News BBC, a terrible abuser of the truth, just handed down by highly respected District Court Judge, Jeffrey T. Kuntz, of the Southern District of Florida. In his powerful ruling, Judge Kuntz wrote, “Here, the news entity created the story. BBC admitted as much by confirming it had edited a video to make it appear as though President Trump made a statement he never made.” We will continue fighting against, and defeating, all of those who try to deceive the American People! Thank you for your attention to this matter. President DONALD J. TRUMP",
+   "url": "https://www.trumpstruth.org/statuses/43548",
+   "published": "2026-11-10T23:50:57+00:00",
+   "summary": "A Huge Victory against Fake News BBC, a terrible abuser of the truth, just handed down by highly respected District Court Judge, Jeffrey T. Kuntz, of the Southern District of Florida. In his powerful ruling, Judge Kuntz wrote, “Here, the news entity created the story. BBC admitted as much by confirming it had edited a video to make it appear as though President Trump made a statement he never made",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "The Democrats’ attempt to impeach Secretary of War Pete Hegseth has miserably FAILED! Every single Republican, except Thomas Massie, a major LOSER, voted in favor of Pete. Again, Victories in Venezuela and Iran, the Best Recruitment Numbers in the History of the Military (Long waiting lists to get in!), and Spirit like rarely seen before, led to the EXONERATION of a Great American Patriot. The Democrats continue to weaponize and abuse the United States of America. They must be stopped! MAKE AMERICA GREAT AGAIN. President DONALD J. TRUMP",
+   "url": "https://www.trumpstruth.org/statuses/43547",
+   "published": "2026-11-10T23:24:08+00:00",
+   "summary": "The Democrats’ attempt to impeach Secretary of War Pete Hegseth has miserably FAILED! Every single Republican, except Thomas Massie, a major LOSER, voted in favor of Pete. Again, Victories in Venezuela and Iran, the Best Recruitment Numbers in the History of the Military (Long waiting lists to get in!), and Spirit like rarely seen before, led to the EXONERATION of a Great American Patriot. The Dem",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "Trump · Truth Social",
+   "title": "Image post from November 10, 2026",
+   "url": "https://www.trumpstruth.org/statuses/43546",
+   "published": "2026-11-10T22:08:55+00:00",
+   "summary": "View image",
+   "tags": [],
+   "highlight": true
+  },
+  {
+   "source": "White House",
+   "title": "Nominations and Withdrawals Sent to the Senate",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/11/nominations-and-withdrawals-sent-to-the-senate-b6a4/",
+   "published": "2026-11-10T21:56:49+00:00",
+   "summary": "NOMINATIONS SENT TO THE SENATE: Mark Aesch, of Florida, to be Federal Transit Administrator, vice Marcus Molinaro. Mikhail Bogachek, of Florida, to be Ambassador Extraordinary and Plenipotentiary of the United States of America to the Republic of Kosovo. Andreas Borgeas, of California, to be a Member of the Foreign Claims Settlement Commission of the United [&#8230;] The post Nominations and Withd",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "White House",
+   "title": "VETERANS DAY, 2026",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/11/veterans-day-2026/",
+   "published": "2026-11-10T21:12:15+00:00",
+   "summary": "BY THE PRESIDENT OF THE UNITED STATES OF AMERICA A PROCLAMATION For over 250 years, the liberties and freedoms of every American have been safeguarded by the heroic men and women who have faithfully served in the United States Armed Forces.&#160; This Veterans Day, we honor our Nation&#8217;s cherished veterans and recommit to strengthen the [&#8230;] The post VETERANS DAY, 2026 appeared first on ",
+   "tags": [],
+   "highlight": false
+  },
+  {
+   "source": "White House",
+   "title": "Presidential Determination Concerning Wildfire Suppression Activities in the United States",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/11/presidential-determination-concerning-wildfire-suppression-activities-in-the-united-states/",
+   "published": "2026-11-10T21:11:07+00:00",
+   "summary": "MEMORANDUM FOR THE SECRETARY OF THE INTERIOR, THE SECRETARY OF AGRICULTURE, THE ADMINISTRATOR OF THE ENVIRONMENTAL PROTECTION AGENCY SUBJECT: Presidential Determination Concerning Wildfire Suppression Activities in the United States By the authority vested in me as President by the Constitution and the laws of the United States of America, including section&#160;313 of the Federal Water [&#8230;] ",
+   "tags": [],
    "highlight": false
   }
  ]
